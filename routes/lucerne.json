@@ -1,0 +1,231 @@
+[
+  {
+    "id": "luc_classic",
+    "name": {
+      "en": "Lucerne Essentials",
+      "tr": "Luzern Klasikleri"
+    },
+    "description": {
+      "en": "Medieval mix: Bridge, bakery and historic squares",
+      "tr": "Ortaçağ karışımı: Köprü, fırın ve tarihi meydanlar."
+    },
+    "duration": {
+      "en": "3 hours",
+      "tr": "3 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Luzern_Kapellbruecke.jpg/800px-Luzern_Kapellbruecke.jpg",
+    "tags": {
+      "en": "History",
+      "tr": "Tarih"
+    },
+    "placeNames": [
+      "Kapellbrücke",
+      "Water Tower",
+      "Rathaus Brauerei",
+      "Jesuit Church",
+      "Bachmann Bakery"
+    ],
+    "interests": [
+      "Tarih",
+      "Yemek",
+      "Mimari"
+    ],
+    "accentColor": "0xFFE91E63",
+    "icon": "Icons.location_city,"
+  },
+  {
+    "id": "luc_walls",
+    "name": {
+      "en": "City Walls & Views",
+      "tr": "Şehir Surları & Manzara"
+    },
+    "description": {
+      "en": "Historic hike: Towers, walls and local lunch",
+      "tr": "Tarihi yürüyüş: Kuleler, surlar ve yerel öğle yemeği."
+    },
+    "duration": {
+      "en": "3 hours",
+      "tr": "3 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Medium",
+      "tr": "Orta"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/hongkong/mu.jpg",
+    "tags": {
+      "en": "Walls",
+      "tr": "Surlar"
+    },
+    "placeNames": [
+      "Museggmauer",
+      "Zyt Tower",
+      "Männleturm",
+      "Restaurant Lapin",
+      "Bourbaki Panorama"
+    ],
+    "interests": [
+      "Tarih",
+      "Manzara",
+      "Yemek"
+    ],
+    "accentColor": "0xFF795548"
+  },
+  {
+    "id": "luc_transport",
+    "name": {
+      "en": "Transport Museum & Beach",
+      "tr": "Ulaşım Müzesi & Plaj"
+    },
+    "description": {
+      "en": "Family fun: Trains, planes and lakeside relax",
+      "tr": "Aile eğlencesi: Trenler, uçaklar ve göl kenarı keyfi."
+    },
+    "duration": {
+      "en": "5 hours",
+      "tr": "5 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lucerne/swiss_museum_of_transport.jpg",
+    "tags": [
+      "Museum",
+      "Beach",
+      "Family"
+    ],
+    "placeNames": [
+      "Swiss Museum of Transport",
+      "Planetarium",
+      "Lido Luzern",
+      "Verkehrshaus Filmtheatre",
+      "Hans Erni Museum"
+    ],
+    "interests": [
+      "Bilim",
+      "Aile",
+      "Doğa"
+    ],
+    "accentColor": "0xFFD35400"
+  },
+  {
+    "id": "luc_mountain",
+    "name": {
+      "en": "Pilatus Golden Round",
+      "tr": "Pilatus Altın Tur"
+    },
+    "description": {
+      "en": "Alpine adventure: Boat, cogwheel train and summit dining",
+      "tr": "Alp macerası: Tekne, dişli tren ve zirvede yemek."
+    },
+    "duration": {
+      "en": "Full day",
+      "tr": "Tam gün"
+    },
+    "distance": "20 km",
+    "difficulty": {
+      "en": "Medium",
+      "tr": "Orta"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/marsilya/f.jpg",
+    "tags": {
+      "en": "Mountain",
+      "tr": "Dağ"
+    },
+    "placeNames": [
+      "Kriens Gondola",
+      "Fräkmüntegg",
+      "Pilatus Kulm",
+      "Hotel Pilatus-Kulm Restaurant",
+      "Alpnachstad"
+    ],
+    "interests": [
+      "Doğa",
+      "Macera",
+      "Yemek"
+    ],
+    "accentColor": "0xFF27AE60"
+  },
+  {
+    "id": "luc_lake",
+    "name": {
+      "en": "Lake Culture & Cafe",
+      "tr": "Göl Kültürü & Kafe"
+    },
+    "description": {
+      "en": "Lakeside vibe: KKL culture, park and coffee",
+      "tr": "Göl kenarı havası: KKL kültürü, park ve kahve."
+    },
+    "duration": {
+      "en": "3 hours",
+      "tr": "3 saat"
+    },
+    "distance": "2 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lucerne/kkl_luzern.jpg",
+    "tags": {
+      "en": "Lake",
+      "tr": "Göl"
+    },
+    "placeNames": [
+      "KKL Luzern",
+      "Inseli Park",
+      "World Café",
+      "Rosengart Collection",
+      "Lake Promenade"
+    ],
+    "interests": [
+      "Doğa",
+      "Sanat",
+      "Yemek"
+    ],
+    "accentColor": "0xFF3498DB"
+  },
+  {
+    "id": "luc_art",
+    "name": {
+      "en": "Art & Music Walk",
+      "tr": "Sanat & Müzik Yürüyüşü"
+    },
+    "description": {
+      "en": "Cultural beats: Picasso, Wagner and concerts",
+      "tr": "Kültürel ritimler: Picasso, Wagner ve konserler."
+    },
+    "duration": {
+      "en": "3 hours",
+      "tr": "3 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lucerne/rosengart_collection.jpg",
+    "tags": {
+      "en": "Art",
+      "tr": "Sanat"
+    },
+    "placeNames": [
+      "Rosengart Collection",
+      "Richard Wagner Museum",
+      "KKL Foyer",
+      "Bourbaki Panorama",
+      "Alpineum"
+    ],
+    "interests": [
+      "Sanat",
+      "Kültür"
+    ],
+    "accentColor": "0xFF9B59B6"
+  }
+]

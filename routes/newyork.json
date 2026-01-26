@@ -1,0 +1,365 @@
+[
+  {
+    "id": "nyc_classic",
+    "name": {
+      "en": "Iconic Manhattan",
+      "tr": "İkonik Manhattan"
+    },
+    "description": {
+      "en": "Times Square, Empire State, Central Park",
+      "tr": "Times Meydanı, Empire State, Central Park."
+    },
+    "duration": {
+      "en": "Full day",
+      "tr": "Tam gün"
+    },
+    "distance": "8 km",
+    "difficulty": {
+      "en": "Medium",
+      "tr": "Orta"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_16_f7740ba93d19.jpg",
+    "tags": {
+      "en": "Iconic",
+      "tr": "İkonik"
+    },
+    "placeNames": [
+      "Times Square",
+      "Empire State Building",
+      "Central Park",
+      "Rockefeller Center"
+    ],
+    "interests": [
+      "Turist",
+      "Fotoğraf"
+    ],
+    "accentColor": "0xFFE91E63",
+    "icon": "Icons.location_city,"
+  },
+  {
+    "id": "nyc_brooklyn",
+    "name": {
+      "en": "Brooklyn Bridge & DUMBO",
+      "tr": "Brooklyn Köprüsü"
+    },
+    "description": {
+      "en": "Best Manhattan views and pizza",
+      "tr": "En iyi Manhattan manzarası ve pizza."
+    },
+    "duration": {
+      "en": "4-5 hours",
+      "tr": "4-5 saat"
+    },
+    "distance": "5 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_4_d08de5b5755a.jpg",
+    "tags": {
+      "en": "Views",
+      "tr": "Manzara"
+    },
+    "placeNames": [
+      "Brooklyn Bridge",
+      "DUMBO",
+      "Pebble Beach",
+      "Time Out Market",
+      "Brooklyn Bridge Park",
+      "Grimaldi's"
+    ],
+    "interests": [
+      "Fotoğraf",
+      "Romantik",
+      "Yemek"
+    ],
+    "accentColor": "0xFF3498DB"
+  },
+  {
+    "id": "nyc_highline",
+    "name": {
+      "en": "High Line & Chelsea",
+      "tr": "High Line Parkuru"
+    },
+    "description": {
+      "en": "Elevated park, galleries and markets",
+      "tr": "Yükseltilmiş park, galeriler ve pazarlar."
+    },
+    "duration": {
+      "en": "4 hours",
+      "tr": "4 saat"
+    },
+    "distance": "4 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_30_ab8b1e3d6ad0.jpg",
+    "tags": {
+      "en": "Art",
+      "tr": "Sanat"
+    },
+    "placeNames": [
+      "High Line",
+      "Chelsea Market",
+      "Little Island",
+      "Whitney Museum"
+    ],
+    "interests": [
+      "Sanat",
+      "Yemek",
+      "Doğa"
+    ],
+    "accentColor": "0xFF27AE60"
+  },
+  {
+    "id": "nyc_food",
+    "name": {
+      "en": "NYC Food Crawl",
+      "tr": "NY Yemek Turu"
+    },
+    "description": {
+      "en": "Pizza, bagels, pastrami and cheesecake",
+      "tr": "Pizza, bagel, pastrami ve cheesecake."
+    },
+    "duration": {
+      "en": "4 hours",
+      "tr": "4 saat"
+    },
+    "distance": "5 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_24_123e054ad350.jpg",
+    "tags": {
+      "en": "Food",
+      "tr": "Yemek"
+    },
+    "placeNames": [
+      "Joe's Pizza",
+      "Katz's Delicatessen",
+      "Ess-a-Bagel",
+      "Junior's"
+    ],
+    "interests": [
+      "Yemek",
+      "Lokal"
+    ],
+    "accentColor": "0xFFE74C3C"
+  },
+  {
+    "id": "nyc_museums",
+    "name": {
+      "en": "Museum Mile",
+      "tr": "Müze Rotası"
+    },
+    "description": {
+      "en": "Met, MoMA and Guggenheim",
+      "tr": "Met, MoMA ve Guggenheim."
+    },
+    "duration": {
+      "en": "Full day",
+      "tr": "Tam gün"
+    },
+    "distance": "4 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_25_b20418c90853.jpg",
+    "tags": {
+      "en": "Museums",
+      "tr": "Müzeler"
+    },
+    "placeNames": [
+      "Metropolitan Museum",
+      "MoMA",
+      "Guggenheim",
+      "Neue Galerie"
+    ],
+    "interests": [
+      "Sanat",
+      "Kültür"
+    ],
+    "accentColor": "0xFF9B59B6"
+  },
+  {
+    "id": "nyc_williamsburg",
+    "name": {
+      "en": "Williamsburg Hipster",
+      "tr": "Williamsburg"
+    },
+    "description": {
+      "en": "Brooklyn's coolest neighborhood",
+      "tr": "Brooklyn'in en cool mahallesi."
+    },
+    "duration": {
+      "en": "4-5 hours",
+      "tr": "4-5 saat"
+    },
+    "distance": "4 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_76_959be52e6cc7.jpg",
+    "tags": {
+      "en": "Coffee",
+      "tr": "Kahve"
+    },
+    "placeNames": [
+      "Bedford Avenue",
+      "Smorgasburg",
+      "Domino Park"
+    ],
+    "interests": [
+      "Lokal",
+      "Kahve",
+      "Alışveriş"
+    ],
+    "accentColor": "0xFFE91E63"
+  },
+  {
+    "id": "nyc_views",
+    "name": {
+      "en": "Skyline Views",
+      "tr": "Gökdelen Manzaraları"
+    },
+    "description": {
+      "en": "Top of the Rock, SUMMIT and Brooklyn",
+      "tr": "Top of the Rock, SUMMIT ve Brooklyn."
+    },
+    "duration": {
+      "en": "4 hours",
+      "tr": "4 saat"
+    },
+    "distance": "Varies",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_7_4da1cace1dc8.jpg",
+    "tags": {
+      "en": "Views",
+      "tr": "Manzara"
+    },
+    "placeNames": [
+      "Top of the Rock",
+      "SUMMIT One Vanderbilt",
+      "Brooklyn Promenade"
+    ],
+    "interests": [
+      "Fotoğraf",
+      "Manzara"
+    ],
+    "accentColor": "0xFFFF9800"
+  },
+  {
+    "id": "nyc_night",
+    "name": {
+      "en": "Broadway & Nightlife",
+      "tr": "Broadway Gecesi"
+    },
+    "description": {
+      "en": "Shows, rooftop bars and jazz clubs",
+      "tr": "Gösteriler, teras barlar ve caz kulüpleri."
+    },
+    "duration": {
+      "en": "Evening",
+      "tr": "Akşam"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_97_c9d270445613.jpg",
+    "tags": {
+      "en": "Nightlife",
+      "tr": "Gece Hayatı"
+    },
+    "placeNames": [
+      "Broadway Theater District",
+      "230 Fifth Rooftop",
+      "Blue Note"
+    ],
+    "interests": [
+      "Gece Hayatı",
+      "Kültür",
+      "Müzik"
+    ],
+    "accentColor": "0xFF8E44AD"
+  },
+  {
+    "id": "nyc_central",
+    "name": {
+      "en": "Central Park Deep Dive",
+      "tr": "Central Park Keşfi"
+    },
+    "description": {
+      "en": "Beyond the basics - hidden gems",
+      "tr": "Klasiklerin ötesi - gizli köşeler."
+    },
+    "duration": {
+      "en": "4 hours",
+      "tr": "4 saat"
+    },
+    "distance": "6 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_81_e90a64c74a6c.jpg",
+    "tags": {
+      "en": "Nature",
+      "tr": "Doğa"
+    },
+    "placeNames": [
+      "Bethesda Fountain",
+      "The Ramble",
+      "Belvedere Castle"
+    ],
+    "interests": [
+      "Doğa",
+      "Romantik",
+      "Fotoğraf"
+    ],
+    "accentColor": "0xFF27AE60"
+  },
+  {
+    "id": "nyc_soho",
+    "name": {
+      "en": "SoHo Shopping",
+      "tr": "SoHo Alışverişi"
+    },
+    "description": {
+      "en": "Cast-iron buildings and boutiques",
+      "tr": "Dökme demir binalar ve butikler."
+    },
+    "duration": {
+      "en": "3-4 hours",
+      "tr": "3-4 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_62_f641e83684c1.jpg",
+    "tags": {
+      "en": "Shopping",
+      "tr": "Alışveriş"
+    },
+    "placeNames": [
+      "Broadway SoHo",
+      "Greene Street",
+      "Nolita"
+    ],
+    "interests": [
+      "Alışveriş",
+      "Mimari"
+    ],
+    "accentColor": "0xFFD35400"
+  }
+]

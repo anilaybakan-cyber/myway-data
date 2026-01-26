@@ -1,0 +1,392 @@
+[
+  {
+    "id": "par_classic",
+    "name": {
+      "en": "Parisian Landmarks",
+      "tr": "Paris İkonları"
+    },
+    "description": {
+      "en": "The essential Paris experience: From the Eiffel Tower to the historic Arc de Triomphe",
+      "tr": "Temel Paris deneyimi: Eyfel Kulesi'nden tarihi Zafer Takı'na kadar en ikonik duraklar."
+    },
+    "duration": {
+      "en": "6-7 hours",
+      "tr": "6-7 saat"
+    },
+    "distance": "8 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_67_ead25968001b.jpg",
+    "tags": {
+      "en": "Iconic",
+      "tr": "İkonik"
+    },
+    "placeNames": [
+      "Eyfel Kulesi",
+      "Trocadéro",
+      "Arc de Triomphe",
+      "Champs-Élysées",
+      "Place de la Concorde",
+      "Musée d'Orsay"
+    ],
+    "interests": [
+      "Tarih",
+      "Fotoğraf",
+      "Turist"
+    ],
+    "accentColor": "0xFFE91E63",
+    "icon": "Icons.account_balance,"
+  },
+  {
+    "id": "par_montmartre",
+    "name": {
+      "en": "Montmartre's Artistic Soul",
+      "tr": "Montmartre'ın Sanat Ruhu"
+    },
+    "description": {
+      "en": "Step into the bohemian village of Paris: Artist squares, hidden vineyards and the white basilica",
+      "tr": "Paris'in bohem köyüne adım atın: Sanatçı meydanları, gizli üzüm bağları ve beyaz bazilika."
+    },
+    "duration": {
+      "en": "5 hours",
+      "tr": "5 saat"
+    },
+    "distance": "4.5 km",
+    "difficulty": {
+      "en": "Medium",
+      "tr": "Orta"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_48_cbaa1b6dec35.jpg",
+    "tags": {
+      "en": "Art",
+      "tr": "Sanat"
+    },
+    "placeNames": [
+      "Montmartre",
+      "Sacré-Cœur Bazilikası",
+      "Place du Tertre",
+      "Moulin Rouge",
+      "Mur des Je t'aime",
+      "Musée de Montmartre"
+    ],
+    "interests": [
+      "Sanat",
+      "Fotoğraf",
+      "Romantik"
+    ],
+    "accentColor": "0xFFE91E63"
+  },
+  {
+    "id": "par_marais",
+    "name": {
+      "en": "Le Marais Merchant History",
+      "tr": "Le Marais Tüccar Tarihi"
+    },
+    "description": {
+      "en": "Uncover the coolest neighborhood: 17th-century mansions, historic Jewish quarter and trendy boutiques",
+      "tr": "En havalı mahalleyi keşfedin: 17. yüzyıl konakları, tarihi Yahudi mahallesi ve trendy butikler."
+    },
+    "duration": {
+      "en": "5 hours",
+      "tr": "5 saat"
+    },
+    "distance": "4.5 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/paris/le_marais.jpg",
+    "tags": {
+      "en": "Trendy",
+      "tr": "Trendy"
+    },
+    "placeNames": [
+      "Le Marais",
+      "Place des Vosges",
+      "Rue des Rosiers",
+      "Museé Carnavalet",
+      "Saint-Paul-Saint-Louis",
+      "L'As du Fallafel"
+    ],
+    "interests": [
+      "Yemek",
+      "Alışveriş",
+      "Lokal"
+    ],
+    "accentColor": "0xFF9B59B6"
+  },
+  {
+    "id": "par_museums",
+    "name": {
+      "en": "Art Immersion Marathon",
+      "tr": "Sanat Maratonu"
+    },
+    "description": {
+      "en": "A journey through art history: Royal palaces, Impressionist masterpieces and modern wonders",
+      "tr": "Sanat tarihinde bir yolculuk: Kraliyet sarayları, Empresyonist başyapıtlar ve modern harikalar."
+    },
+    "duration": {
+      "en": "Full day",
+      "tr": "Tam gün"
+    },
+    "distance": "7 km",
+    "difficulty": {
+      "en": "Medium",
+      "tr": "Orta"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_0_07607c15f585.jpg",
+    "tags": {
+      "en": "Museums",
+      "tr": "Müzeler"
+    },
+    "placeNames": [
+      "Louvre Müzesi",
+      "Musée d'Orsay",
+      "Musée de l'Orangerie",
+      "Centre Pompidou",
+      "Musée Rodin",
+      "Palais Royal"
+    ],
+    "interests": [
+      "Sanat",
+      "Kültür",
+      "Tarih"
+    ],
+    "accentColor": "0xFF3498DB"
+  },
+  {
+    "id": "par_food",
+    "name": {
+      "en": "Gourmet Paris Trail",
+      "tr": "Gurme Paris Rotası"
+    },
+    "description": {
+      "en": "Indulge in the finest flavours: Crusty baguettes, aged cheeses and world-class patisseries",
+      "tr": "En iyi lezzetlerin tadını çıkarın: Çıtır bagetler, yıllanmış peynirler ve dünya çapında pastaneler."
+    },
+    "duration": {
+      "en": "5 hours",
+      "tr": "5 saat"
+    },
+    "distance": "5 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_51_be1a058d1665.jpg",
+    "tags": {
+      "en": "Gastronomy",
+      "tr": "Gastronomi"
+    },
+    "placeNames": [
+      "Marché d'Aligre",
+      "Rue Cler",
+      "Saint-Germain-des-Prés",
+      "Café de Flore",
+      "Canal Saint-Martin",
+      "Belleville"
+    ],
+    "interests": [
+      "Yemek",
+      "Kahve"
+    ],
+    "accentColor": "0xFFE74C3C"
+  },
+  {
+    "id": "par_seine",
+    "name": {
+      "en": "Islands & River Secrets",
+      "tr": "Adalar & Nehir Sırları"
+    },
+    "description": {
+      "en": "Wander through the birthplace of Paris: From the Gothic spires of Notre-Dame to romantic riverbanks",
+      "tr": "Paris'in doğduğu topraklarda gezinin: Notre-Dame'ın Gotik kulelerinden romantik nehir kıyılarına."
+    },
+    "duration": {
+      "en": "5 hours",
+      "tr": "5 saat"
+    },
+    "distance": "6 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_60_5399dbd91a5e.jpg",
+    "tags": {
+      "en": "Picnic",
+      "tr": "Piknik"
+    },
+    "placeNames": [
+      "Notre-Dame Katedrali",
+      "Sainte-Chapelle",
+      "Pont Neuf",
+      "Pont Alexandre III",
+      "Shakespeare and Company",
+      "Île de la Cité"
+    ],
+    "interests": [
+      "Romantik",
+      "Doğa",
+      "Fotoğraf"
+    ],
+    "accentColor": "0xFF1ABC9C"
+  },
+  {
+    "id": "par_latin",
+    "name": {
+      "en": "Latin Quarter Scholarly Life",
+      "tr": "Latin Mahallesi Öğrenci Hayatı"
+    },
+    "description": {
+      "en": "Explore the intellectual heart: Medieval universities, the Pantheon and charming bookshops",
+      "tr": "Entelektüel kalbi keşfedin: Ortaçağ üniversiteleri, Panthéon ve büyüleyici kitapçılar."
+    },
+    "duration": {
+      "en": "4 hours",
+      "tr": "4 saat"
+    },
+    "distance": "4 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_65_8b8fe7766b61.jpg",
+    "tags": {
+      "en": "Scholarly",
+      "tr": "Akademik"
+    },
+    "placeNames": [
+      "Sorbonne",
+      "Panthéon",
+      "Jardin du Luxembourg",
+      "Shakespeare and Company",
+      "Rue Mouffetard",
+      "Latin Quarter"
+    ],
+    "interests": [
+      "Kültür",
+      "Kahve",
+      "Lokal"
+    ],
+    "accentColor": "0xFF27AE60"
+  },
+  {
+    "id": "par_night",
+    "name": {
+      "en": "City of Lights Nocturne",
+      "tr": "Işıklar Şehri Gecesi"
+    },
+    "description": {
+      "en": "Experience Paris as the sun sets: Illuminated monuments, midnight jazz and shimmering river views",
+      "tr": "Güneş batarken Paris'i deneyimleyin: Işıklı anıtlar, gece yarısı cazı ve parıldayan nehir manzaraları."
+    },
+    "duration": {
+      "en": "Evening",
+      "tr": "Akşam"
+    },
+    "distance": "6 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_41_9a6c2a06d853.jpg",
+    "tags": {
+      "en": "Night",
+      "tr": "Gece"
+    },
+    "placeNames": [
+      "Eyfel Kulesi",
+      "Pont Alexandre III",
+      "Moulin Rouge",
+      "Canal Saint-Martin",
+      "Notre-Dame Katedrali",
+      "Arc de Triomphe"
+    ],
+    "interests": [
+      "Romantik",
+      "Gece Hayatı",
+      "Fotoğraf"
+    ],
+    "accentColor": "0xFF8E44AD"
+  },
+  {
+    "id": "par_versailles",
+    "name": {
+      "en": "Versailles Royal Escape",
+      "tr": "Versay Kraliyet Kaçamağı"
+    },
+    "description": {
+      "en": "Step into the world of French Kings: Hall of Mirrors, majestic gardens and the Queen's Hamlet",
+      "tr": "Fransız Kralları'nın dünyasına adım atın: Aynalı Salon, görkemli bahçeler ve Kraliçe'nin Köyü."
+    },
+    "duration": {
+      "en": "Full day",
+      "tr": "Tam gün"
+    },
+    "distance": "12 km",
+    "difficulty": {
+      "en": "Medium",
+      "tr": "Orta"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_70_1e960c1fa6c6.jpg",
+    "tags": {
+      "en": "Palace",
+      "tr": "Saray"
+    },
+    "placeNames": [
+      "Palace of Versailles",
+      "Gardens of Versailles",
+      "Petit Trianon",
+      "Grand Trianon",
+      "Queen's Hamlet",
+      "Hall of Mirrors"
+    ],
+    "interests": [
+      "Tarih",
+      "Kültür",
+      "Doğa"
+    ],
+    "accentColor": "0xFFF1C40F"
+  },
+  {
+    "id": "par_canal",
+    "name": {
+      "en": "Canal Saint-Martin & Beyond",
+      "tr": "Canal Saint-Martin ve Ötesi"
+    },
+    "description": {
+      "en": "The soul of hip Paris: Scenic canal walks, independent boutiques, street art and the best brunch spots",
+      "tr": "Modern Paris'in ruhu: Manzaralı kanal yürüyüşleri, bağımsız butikler, sokak sanatı ve en iyi brunch mekanları."
+    },
+    "duration": {
+      "en": "5 hours",
+      "tr": "5 saat"
+    },
+    "distance": "6 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_94_d0eef0992036.jpg",
+    "tags": {
+      "en": "Local",
+      "tr": "Lokal"
+    },
+    "placeNames": [
+      "Canal Saint-Martin",
+      "Belleville",
+      "Buttes-Chaumont Parkı",
+      "Le Marais",
+      "Place de la République",
+      "Bassin de la Villette"
+    ],
+    "interests": [
+      "Kahve",
+      "Lokal",
+      "Fotoğraf"
+    ],
+    "accentColor": "0xFF16A085"
+  }
+]

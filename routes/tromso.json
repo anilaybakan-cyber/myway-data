@@ -1,0 +1,78 @@
+[
+  {
+    "id": "tos_city",
+    "name": {
+      "en": "Arctic Gateway",
+      "tr": "Arktik Kapısı"
+    },
+    "description": {
+      "en": "City walk: Arctic Cathedral, Polar Museum and cable car",
+      "tr": "Şehir yürüyüşü: Arktik Katedrali, Kutup Müzesi ve teleferik."
+    },
+    "duration": {
+      "en": "4 hours",
+      "tr": "4 saat"
+    },
+    "distance": "4 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/marsilya/f.jpg",
+    "tags": {
+      "en": "Arctic",
+      "tr": "Arktik"
+    },
+    "placeNames": [
+      "Arctic Cathedral",
+      "Fjellheisen Cable Car",
+      "Polar Museum",
+      "Polaria Aquarium",
+      "Mack Brewery (Ølhallen)"
+    ],
+    "interests": [
+      "Kültür",
+      "Manzara",
+      "Yemek"
+    ],
+    "accentColor": "0xFFE91E63",
+    "icon": "Icons.ac_unit,"
+  },
+  {
+    "id": "tos_nature",
+    "name": {
+      "en": "Northern Lights Spots",
+      "tr": "Kuzey Işıkları Noktaları"
+    },
+    "description": {
+      "en": "Aurora hunting: Best spots near the city",
+      "tr": "Aurora avı: Şehre yakın en iyi noktalar."
+    },
+    "duration": {
+      "en": "Evening",
+      "tr": "Akşam"
+    },
+    "distance": "5 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/marsilya/f.jpg",
+    "tags": [
+      "Aurora",
+      "Nature",
+      "Night"
+    ],
+    "placeNames": [
+      "Telegrafbukta Beach",
+      "Prestvannet Lake",
+      "Fjellheisen Viewpoint",
+      "Ersfjordbotn"
+    ],
+    "interests": [
+      "Doğa",
+      "Fotoğraf"
+    ],
+    "accentColor": "0xFF27AE60"
+  }
+]

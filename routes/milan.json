@@ -1,0 +1,221 @@
+[
+  {
+    "id": "mil_iconic",
+    "name": {
+      "en": "Milan Icons & Duomo",
+      "tr": "Milano İkonları & Duomo"
+    },
+    "description": {
+      "en": "City of style: The magnificent cathedral, Galleria and La Scala opera",
+      "tr": "Stil şehri: Muhteşem katedral, Galleria ve La Scala operası."
+    },
+    "duration": {
+      "en": "5 hours",
+      "tr": "5 saat"
+    },
+    "distance": "4 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/floransa/duomo_santa_maria_del_fiore.jpg",
+    "tags": {
+      "en": "Iconic",
+      "tr": "İkonik"
+    },
+    "placeNames": [
+      "Duomo di Milano",
+      "Galleria Vittorio Emanuele II",
+      "La Scala",
+      "Castello Sforzesco",
+      "Museo del Novecento"
+    ],
+    "interests": [
+      "Mimari",
+      "Tarih",
+      "Kültür"
+    ],
+    "accentColor": "0xFFE91E63",
+    "icon": "Icons.location_city,"
+  },
+  {
+    "id": "mil_art",
+    "name": {
+      "en": "Da Vinci & Fine Art",
+      "tr": "Da Vinci & Güzel Sanatlar"
+    },
+    "description": {
+      "en": "Masterpieces: The Last Supper and Brera's artistic treasures",
+      "tr": "Başyapıtlar: Son Akşam Yemeği ve Brera'nın sanatsal hazineleri."
+    },
+    "duration": {
+      "en": "4 hours",
+      "tr": "4 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/milano/son_aksam_yemegi_lultima_cena.jpg",
+    "tags": {
+      "en": "Art",
+      "tr": "Sanat"
+    },
+    "placeNames": [
+      "Son Akşam Yemeği (L'Ultima Cena)",
+      "Pinacoteca di Brera",
+      "Basilica di Sant'Ambrogio",
+      "Chiesa di San Maurizio"
+    ],
+    "interests": [
+      "Sanat",
+      "Tarih"
+    ],
+    "accentColor": "0xFFD35400"
+  },
+  {
+    "id": "mil_fashion",
+    "name": {
+      "en": "Fashion & Luxury",
+      "tr": "Moda & Lüks"
+    },
+    "description": {
+      "en": "Fashion capital: Golden Rectangle boutiques and trendy vibes",
+      "tr": "Moda başkenti: Altın Dörtgen butikleri ve trendi atmosfer."
+    },
+    "duration": {
+      "en": "3 hours",
+      "tr": "3 saat"
+    },
+    "distance": "2 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/milano/quadrilatero_della_moda.jpg",
+    "tags": {
+      "en": "Fashion",
+      "tr": "Moda"
+    },
+    "placeNames": [
+      "Quadrilatero della Moda",
+      "Galleria Vittorio Emanuele II",
+      "La Rinascente",
+      "Corso Como"
+    ],
+    "interests": [
+      "Alışveriş",
+      "Lüks"
+    ],
+    "accentColor": "0xFFF1C40F"
+  },
+  {
+    "id": "mil_navigli",
+    "name": {
+      "en": "Navigli & Nightlife",
+      "tr": "Navigli & Gece Hayatı"
+    },
+    "description": {
+      "en": "Canal vibes: Aperitivo hour, sunset reflections and lively bars",
+      "tr": "Kanal havası: Aperitivo saati, gün batımı yansımaları ve canlı barlar."
+    },
+    "duration": {
+      "en": "Evening",
+      "tr": "Akşam"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/milano/navigli.jpg",
+    "tags": {
+      "en": "Nightlife",
+      "tr": "Gece Hayatı"
+    },
+    "placeNames": [
+      "Navigli",
+      "Darsena",
+      "Mercato Metropolitano",
+      "Porta Ticinese"
+    ],
+    "interests": [
+      "Gece Hayatı",
+      "Yemek"
+    ],
+    "accentColor": "0xFF8E44AD"
+  },
+  {
+    "id": "mil_modern",
+    "name": {
+      "en": "Modern Milan",
+      "tr": "Modern Milano"
+    },
+    "description": {
+      "en": "Future city: Vertical forests, skyscrapers and contemporary spaces",
+      "tr": "Geleceğin şehri: Dikey ormanlar, gökdelenler ve çağdaş mekanlar."
+    },
+    "duration": {
+      "en": "3 hours",
+      "tr": "3 saat"
+    },
+    "distance": "4 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/milano/bosco_verticale.jpg",
+    "tags": {
+      "en": "Modern",
+      "tr": "Modern"
+    },
+    "placeNames": [
+      "Bosco Verticale",
+      "Porta Nuova",
+      "Piazza Gae Aulenti",
+      "Fondazione Prada (Bar Luce)"
+    ],
+    "interests": [
+      "Mimari",
+      "Fotoğraf"
+    ],
+    "accentColor": "0xFF1ABC9C"
+  },
+  {
+    "id": "mil_food",
+    "name": {
+      "en": "Milanese Flavors",
+      "tr": "Milano Lezzetleri"
+    },
+    "description": {
+      "en": "Taste of Lombardy: Panerottis, saffron risotto and historic bakeries",
+      "tr": "Lombardiya tadı: Panerotti, safranlı risotto ve tarihi pastaneler."
+    },
+    "duration": {
+      "en": "3 hours",
+      "tr": "3 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/milano/luini.jpg",
+    "tags": {
+      "en": "Food",
+      "tr": "Yemek"
+    },
+    "placeNames": [
+      "Luini",
+      "Pasticceria Marchesi",
+      "Eataly Milano Smeraldo",
+      "Terrazza Aperol"
+    ],
+    "interests": [
+      "Yemek",
+      "Kültür"
+    ],
+    "accentColor": "0xFFE74C3C"
+  }
+]

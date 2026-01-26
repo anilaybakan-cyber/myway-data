@@ -1,0 +1,384 @@
+[
+  {
+    "id": "tok_classic",
+    "name": {
+      "en": "Tokyo Essentials",
+      "tr": "Tokyo Temelleri"
+    },
+    "description": {
+      "en": "Shibuya, Senso-ji, Tokyo Tower",
+      "tr": "Shibuya, Senso-ji, Tokyo Kulesi."
+    },
+    "duration": {
+      "en": "Full day",
+      "tr": "Tam gün"
+    },
+    "distance": "10 km",
+    "difficulty": {
+      "en": "Medium",
+      "tr": "Orta"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_23_349502cf700d.jpg",
+    "tags": {
+      "en": "Iconic",
+      "tr": "İkonik"
+    },
+    "placeNames": [
+      "Shibuya Crossing",
+      "Hachiko Statue",
+      "Meiji Shrine",
+      "Yoyogi Park",
+      "Senso-ji Temple",
+      "Tokyo Tower"
+    ],
+    "interests": [
+      "Turist",
+      "Kültür",
+      "Fotoğraf"
+    ],
+    "accentColor": "0xFFE91E63",
+    "icon": "Icons.temple_buddhist,"
+  },
+  {
+    "id": "tok_ramen",
+    "name": {
+      "en": "Ramen Pilgrimage",
+      "tr": "Ramen Rotası"
+    },
+    "description": {
+      "en": "Best ramen shops from different regions",
+      "tr": "Farklı bölgelerden en iyi ramen dükkanları."
+    },
+    "duration": {
+      "en": "4 hours",
+      "tr": "4 saat"
+    },
+    "distance": "5 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_53_c6ec9d7690bc.jpg",
+    "tags": {
+      "en": "Food",
+      "tr": "Yemek"
+    },
+    "placeNames": [
+      "Ichiran Ramen",
+      "Afuri Ramen (Yuzu Ramen)",
+      "Fuunji (Tsukemen)",
+      "Ramen Street (Tokyo Station)",
+      "Rokurinsha",
+      "Nakiryu (Michelin Star)"
+    ],
+    "interests": [
+      "Yemek",
+      "Lokal",
+      "Kültür"
+    ],
+    "accentColor": "0xFFE74C3C"
+  },
+  {
+    "id": "tok_akihabara",
+    "name": {
+      "en": "Akihabara Geek Tour",
+      "tr": "Akihabara Geek Turu"
+    },
+    "description": {
+      "en": "Anime, manga and electronics",
+      "tr": "Anime, manga ve elektronik."
+    },
+    "duration": {
+      "en": "4-5 hours",
+      "tr": "4-5 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_54_e745cc8c71c5.jpg",
+    "tags": {
+      "en": "Electronics",
+      "tr": "Elektronik"
+    },
+    "placeNames": [
+      "Akihabara Electric Town",
+      "Mandarake Complex",
+      "Yodobashi Camera",
+      "Radio Kaikan",
+      "Super Potato (Retro Games)",
+      "Maid Cafe"
+    ],
+    "interests": [
+      "Alışveriş",
+      "Kültür",
+      "Eğlence"
+    ],
+    "accentColor": "0xFF9B59B6"
+  },
+  {
+    "id": "tok_shibuya",
+    "name": {
+      "en": "Shibuya & Harajuku",
+      "tr": "Shibuya & Harajuku"
+    },
+    "description": {
+      "en": "Fashion, cafes and youth culture",
+      "tr": "Moda, kafeler ve gençlik kültürü."
+    },
+    "duration": {
+      "en": "5 hours",
+      "tr": "5 saat"
+    },
+    "distance": "4 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_80_c6e351c137a4.jpg",
+    "tags": {
+      "en": "Fashion",
+      "tr": "Moda"
+    },
+    "placeNames": [
+      "Shibuya Crossing",
+      "Miyashita Park",
+      "Takeshita Street",
+      "Cat Street",
+      "Omotesando"
+    ],
+    "interests": [
+      "Alışveriş",
+      "Fotoğraf",
+      "Lokal"
+    ],
+    "accentColor": "0xFFE91E63"
+  },
+  {
+    "id": "tok_tsukiji",
+    "name": {
+      "en": "Tsukiji Outer Market",
+      "tr": "Tsukiji Pazar"
+    },
+    "description": {
+      "en": "Fresh sushi and seafood breakfast",
+      "tr": "Taze sushi ve deniz ürünleri kahvaltısı."
+    },
+    "duration": {
+      "en": "3 hours",
+      "tr": "3 saat"
+    },
+    "distance": "2 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_74_7ece1d166382.jpg",
+    "tags": {
+      "en": "Sushi",
+      "tr": "Sushi"
+    },
+    "placeNames": [
+      "Tsukiji Outer Market",
+      "Sushizanmai Main Branch",
+      "Tamagoyaki shops",
+      "Tsukiji Hongwanji Temple",
+      "Kitsuneya (Beef Bowls)"
+    ],
+    "interests": [
+      "Yemek",
+      "Lokal",
+      "Kültür"
+    ],
+    "accentColor": "0xFF3498DB"
+  },
+  {
+    "id": "tok_shinjuku",
+    "name": {
+      "en": "Shinjuku Night",
+      "tr": "Shinjuku Gecesi"
+    },
+    "description": {
+      "en": "Neon lights, Golden Gai and izakayas",
+      "tr": "Neon ışıklar, Golden Gai ve izakayalar."
+    },
+    "duration": {
+      "en": "Evening",
+      "tr": "Akşam"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_84_9d50396aa03a.jpg",
+    "tags": {
+      "en": "Nightlife",
+      "tr": "Gece Hayatı"
+    },
+    "placeNames": [
+      "Kabukicho",
+      "Golden Gai",
+      "Omoide Yokocho (Piss Alley)",
+      "Shinjuku Gyoen National Garden",
+      "Hanazono Shrine",
+      "Tokyo Metropolitan Govt Building"
+    ],
+    "interests": [
+      "Gece Hayatı",
+      "Yemek",
+      "Fotoğraf",
+      "Manzara"
+    ],
+    "accentColor": "0xFF8E44AD"
+  },
+  {
+    "id": "tok_teamlab",
+    "name": {
+      "en": "TeamLab Digital Art",
+      "tr": "TeamLab Dijital Sanat"
+    },
+    "description": {
+      "en": "Immersive art museum experience",
+      "tr": "Sürükleyici sanat müzesi deneyimi."
+    },
+    "duration": {
+      "en": "3-4 hours",
+      "tr": "3-4 saat"
+    },
+    "distance": "2 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_18_c80ee539f623.jpg",
+    "tags": {
+      "en": "Digital Art",
+      "tr": "Dijital Sanat"
+    },
+    "placeNames": [
+      "TeamLab Planets TOYOSU",
+      "TeamLab Borderless (Azabudai Hills)",
+      "Mori Art Museum",
+      "Tokyo City View",
+      "Roppongi Hills"
+    ],
+    "interests": [
+      "Sanat",
+      "Fotoğraf",
+      "Manzara"
+    ],
+    "accentColor": "0xFF1ABC9C"
+  },
+  {
+    "id": "tok_shimokita",
+    "name": {
+      "en": "Shimokitazawa Vintage",
+      "tr": "Shimokitazawa"
+    },
+    "description": {
+      "en": "Indie shops, cafes and live music",
+      "tr": "Bağımsız dükkanlar, kafeler ve canlı müzik."
+    },
+    "duration": {
+      "en": "4 hours",
+      "tr": "4 saat"
+    },
+    "distance": "2.5 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_100_c85c5f25d737.jpg",
+    "tags": {
+      "en": "Music",
+      "tr": "Müzik"
+    },
+    "placeNames": [
+      "Shimokitazawa Station",
+      "Vintage Clothing Shops",
+      "Basement Bar (Live Music)",
+      "Shirohige’s Cream Puff Factory",
+      "Setagaya Park"
+    ],
+    "interests": [
+      "Alışveriş",
+      "Müzik",
+      "Lokal",
+      "Yemek"
+    ],
+    "accentColor": "0xFFD35400"
+  },
+  {
+    "id": "tok_konbini",
+    "name": {
+      "en": "Konbini Food Tour",
+      "tr": "Konbini Turu"
+    },
+    "description": {
+      "en": "Discover convenience store gourmet",
+      "tr": "Market gurmeliğini keşfet."
+    },
+    "duration": {
+      "en": "2 hours",
+      "tr": "2 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_102_70fac3d60aee.jpg",
+    "tags": {
+      "en": "Street Food",
+      "tr": "Sokak"
+    },
+    "placeNames": [
+      "7-Eleven",
+      "Lawson",
+      "Family Mart"
+    ],
+    "interests": [
+      "Yemek",
+      "Lokal"
+    ],
+    "accentColor": "0xFF27AE60"
+  },
+  {
+    "id": "tok_asakusa",
+    "name": {
+      "en": "Old Tokyo Asakusa",
+      "tr": "Eski Tokyo Asakusa"
+    },
+    "description": {
+      "en": "Senso-ji, traditional crafts and street food",
+      "tr": "Senso-ji, geleneksel el sanatları ve sokak yemekleri."
+    },
+    "duration": {
+      "en": "4-5 hours",
+      "tr": "4-5 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/routes/route_photo_82_cd622bd22762.jpg",
+    "tags": {
+      "en": "Traditional",
+      "tr": "Geleneksel"
+    },
+    "placeNames": [
+      "Senso-ji Temple",
+      "Nakamise Street",
+      "Kaminarimon Gate"
+    ],
+    "interests": [
+      "Tarih",
+      "Kültür",
+      "Yemek"
+    ],
+    "accentColor": "0xFFE74C3C"
+  }
+]

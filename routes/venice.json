@@ -1,0 +1,221 @@
+[
+  {
+    "id": "ven_iconic",
+    "name": {
+      "en": "Venice Essentials",
+      "tr": "Venedik Klasikleri"
+    },
+    "description": {
+      "en": "The Grand Canal: St. Mark's Basilica, Rialto and the Doge's Palace",
+      "tr": "Büyük Kanal: San Marco Bazilikası, Rialto ve Dükler Sarayı."
+    },
+    "duration": {
+      "en": "Full day",
+      "tr": "Tam gün"
+    },
+    "distance": "5 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/venedik/san_marco_meydani.jpg",
+    "tags": {
+      "en": "Iconic",
+      "tr": "İkonik"
+    },
+    "placeNames": [
+      "San Marco Meydanı",
+      "San Marco Bazilikası",
+      "Rialto Köprüsü",
+      "Dükler Sarayı (Palazzo Ducale)",
+      "İç Çekiş Köprüsü"
+    ],
+    "interests": [
+      "Tarih",
+      "Mimari",
+      "Fotoğraf"
+    ],
+    "accentColor": "0xFFE91E63",
+    "icon": "Icons.location_city,"
+  },
+  {
+    "id": "ven_islands",
+    "name": {
+      "en": "Murano & Burano Islands",
+      "tr": "Murano & Burano Adaları"
+    },
+    "description": {
+      "en": "Glass & colors: Glassblowing in Murano and colorful houses of Burano",
+      "tr": "Cam & renkler: Murano'da cam üfleme ve Burano'nun renkli evleri."
+    },
+    "duration": {
+      "en": "5 hours",
+      "tr": "5 saat"
+    },
+    "distance": "10 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/venedik/murano_adasi.jpg",
+    "tags": {
+      "en": "Islands",
+      "tr": "Adalar"
+    },
+    "placeNames": [
+      "Murano Adası",
+      "Burano Adası",
+      "Torcello Adası"
+    ],
+    "interests": [
+      "Sanat",
+      "Fotoğraf",
+      "Alışveriş"
+    ],
+    "accentColor": "0xFFE67E22"
+  },
+  {
+    "id": "ven_gondola",
+    "name": {
+      "en": "Romantic Venice",
+      "tr": "Romantik Venedik"
+    },
+    "description": {
+      "en": "Love on water: Gondola rides, sunset bridges and historic cafes",
+      "tr": "Suda aşk: Gondol gezileri, gün batımı köprüleri ve tarihi kafeler."
+    },
+    "duration": {
+      "en": "3 hours",
+      "tr": "3 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/venedik/gondol_turu.jpg",
+    "tags": {
+      "en": "Romantic",
+      "tr": "Romantik"
+    },
+    "placeNames": [
+      "Gondol Turu",
+      "Caffè Florian",
+      "Accademia Köprüsü",
+      "Santa Maria della Salute"
+    ],
+    "interests": [
+      "Romantik",
+      "Manzara"
+    ],
+    "accentColor": "0xFFE91E63"
+  },
+  {
+    "id": "ven_art",
+    "name": {
+      "en": "Art & Treasures",
+      "tr": "Sanat & Hazineler"
+    },
+    "description": {
+      "en": "Venetian masters: Galleries, opera and intricate architecture",
+      "tr": "Venedik ustaları: Galeriler, opera ve girift mimari."
+    },
+    "duration": {
+      "en": "4 hours",
+      "tr": "4 saat"
+    },
+    "distance": "4 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/venedik/gallerie_dellaccademia.jpg",
+    "tags": {
+      "en": "Art",
+      "tr": "Sanat"
+    },
+    "placeNames": [
+      "Gallerie dell'Accademia",
+      "Peggy Guggenheim Koleksiyonu",
+      "Teatro La Fenice",
+      "Scuola Grande di San Rocco"
+    ],
+    "interests": [
+      "Sanat",
+      "Kültür"
+    ],
+    "accentColor": "0xFF607D8B"
+  },
+  {
+    "id": "ven_hidden",
+    "name": {
+      "en": "Hidden Venice",
+      "tr": "Gizli Venedik"
+    },
+    "description": {
+      "en": "Off the beaten path: Quiet canals, bookshops and secret gardens",
+      "tr": "Alışılmışın dışında: Sessiz kanallar, kitapçılar ve gizli bahçeler."
+    },
+    "duration": {
+      "en": "3 hours",
+      "tr": "3 saat"
+    },
+    "distance": "3 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/venedik/libreria_acqua_alta.jpg",
+    "tags": {
+      "en": "Hidden",
+      "tr": "Gizli"
+    },
+    "placeNames": [
+      "Libreria Acqua Alta",
+      "Cannaregio",
+      "Yahudi Getto",
+      "Scala Contarini del Bovolo",
+      "Dorsoduro"
+    ],
+    "interests": [
+      "Keşif",
+      "Fotoğraf"
+    ],
+    "accentColor": "0xFF1ABC9C"
+  },
+  {
+    "id": "ven_food",
+    "name": {
+      "en": "Cicchetti & Wine",
+      "tr": "Cicchetti & Şarap"
+    },
+    "description": {
+      "en": "Venetian tapas: Hopping between bàcari bars for snacks and spritz",
+      "tr": "Venedik tapasları: Atıştırmalık ve spritz için bàcari barları gezintisi."
+    },
+    "duration": {
+      "en": "Evening",
+      "tr": "Akşam"
+    },
+    "distance": "2 km",
+    "difficulty": {
+      "en": "Easy",
+      "tr": "Kolay"
+    },
+    "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/venedik/rialto_pazari.jpg",
+    "tags": {
+      "en": "Food",
+      "tr": "Yemek"
+    },
+    "placeNames": [
+      "Rialto Pazarı",
+      "Cicchetti & Bàcari",
+      "Campo Santa Margherita"
+    ],
+    "interests": [
+      "Yemek",
+      "Lokal"
+    ],
+    "accentColor": "0xFF9B59B6"
+  }
+]
