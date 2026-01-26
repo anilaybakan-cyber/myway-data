@@ -5391,6 +5391,150 @@
       "tips": "Nakite hazırlıklı olun, bazı yerel yerler kart kabul etmeyebilir.",
       "description_en": "İstiklal Caddesi is one of İstanbul's most iconic and vibrant streets. This avenue in Beyoğlu is worth exploring from day to night with its historic buildings, street performers, boutique shops and various restaurants.",
       "tips_en": "Be prepared with cash, some local places might not accept cards."
+    },
+    {
+      "name": "Rumeli Hisarı",
+      "name_en": "Rumeli Fortress",
+      "area": "Sarıyer",
+      "category": "Tarihi",
+      "tags": [
+        "kale",
+        "manzara",
+        "tarih"
+      ],
+      "lat": 41.0847,
+      "lng": 29.0561,
+      "description": "Fatih Sultan Mehmet tarafından İstanbul'un fethi öncesinde Boğaz'ın kuzeyini kontrol etmek amacıyla 4 ayda inşa edilen muazzam hisar.",
+      "description_en": "A majestic fortress built in just 4 months by Sultan Mehmed the Conqueror to control the Bosphorus before the fall of Constantinople.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/istanbul/rumeli_hisari.jpg",
+      "rating": 4.8,
+      "price": "medium"
+    },
+    {
+      "name": "Akmar Pasajı",
+      "name_en": "Akmar Passage",
+      "area": "Kadıköy",
+      "category": "Alışveriş",
+      "tags": [
+        "kitap",
+        "müzik",
+        "nostalji"
+      ],
+      "lat": 40.9915,
+      "lng": 29.027,
+      "description": "Kadıköy'ün efsanevi sahaf ve müzik pasajı. Özellikle ağır metal ve rock müzik kültürü ile nadir kitapların merkezi.",
+      "description_en": "Kadıköy's legendary book and music passage. A hub for rock culture and rare second-hand books.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/istanbul/akmar_pasaji.jpg",
+      "rating": 4.6,
+      "price": "low"
+    },
+    {
+      "name": "Tarihi Sultanahmet Köftecisi",
+      "name_en": "Historic Sultanahmet Meatballer",
+      "area": "Sultanahmet",
+      "category": "Yeme-İçme",
+      "tags": [
+        "köfte",
+        "geleneksel",
+        "ikonik"
+      ],
+      "lat": 41.0083,
+      "lng": 28.9774,
+      "description": "1920'den beri değişmeyen lezzetiyle İstanbul'un en meşhur köftecisi. Klasik piyaz ve irmik helvası eşliğinde.",
+      "description_en": "Istanbul's most famous meatball restaurant since 1920. Best enjoyed with traditional bean salad and semolina halva.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/istanbul/sultanahmet_koftecisi.jpg",
+      "rating": 4.5,
+      "price": "medium"
+    },
+    {
+      "name": "Şehzade Cağ Kebap",
+      "name_en": "Şehzade Cağ Kebap",
+      "area": "Sirkeci",
+      "category": "Yeme-İçme",
+      "tags": [
+        "kebap",
+        "gurme",
+        "lokal"
+      ],
+      "lat": 41.0125,
+      "lng": 28.9772,
+      "description": "Erzurum'un meşhur yatık döneri cağ kebabını İstanbul'da en iyi yapan yerlerden biri. Sirkeci'nin lezzet durağı.",
+      "description_en": "One of the best places in Istanbul for Erzurum's horizontal lamb kebab. A true gourmet gem in Sirkeci.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/istanbul/sehzade_cag_kebap.jpg",
+      "rating": 4.7,
+      "price": "medium"
+    },
+    {
+      "name": "Sahaflar Çarşısı",
+      "name_en": "Old Book Bazaar",
+      "area": "Beyazıt",
+      "category": "Kültür",
+      "tags": [
+        "kitap",
+        "tarih",
+        "bazar"
+      ],
+      "lat": 41.0105,
+      "lng": 28.966,
+      "description": "Osmanlı'dan günümüze kağıt ve kitap ticaretinin kalbi olan tarihi çarşı. Beyazıt Camii ile Kapalıçarşı arasındadır.",
+      "description_en": "A historic market that has been the heart of paper and book trade since the Ottoman era, located near the Grand Bazaar.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/istanbul/sahaflar_carsisi.jpg",
+      "rating": 4.6,
+      "price": "low"
+    },
+    {
+      "name": "Aya Yorgi Kilisesi",
+      "name_en": "Ayios Georgios Church",
+      "area": "Büyükada",
+      "category": "Tarihi",
+      "tags": [
+        "kilise",
+        "manzara",
+        "ada"
+      ],
+      "lat": 40.8546,
+      "lng": 29.1186,
+      "description": "Büyükada'nın en yüksek tepesinde bulunan, dileklerin dilendiği meşhur Ortodoks kilisesi. Muazzam bir Marmara manzarasına sahiptir.",
+      "description_en": "A famous Orthodox church atop the highest hill of Büyükada, where people come to make wishes. Offers stunning sea views.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/istanbul/aya_yorgi.jpg",
+      "rating": 4.7,
+      "price": "free"
+    },
+    {
+      "name": "Maidens Tower (Kız Kulesi)",
+      "name_en": "Maiden's Tower",
+      "area": "Üsküdar",
+      "category": "İkonik",
+      "tags": [
+        "kule",
+        "deniz",
+        "manzara"
+      ],
+      "lat": 41.0211,
+      "lng": 29.0041,
+      "description": "Boğaz'ın ortasında, efsanelere konu olmuş 2500 yıllık kule. İstanbul'un en romantik simgesidir.",
+      "description_en": "A 2500-year-old legendary tower in the middle of the Bosphorus. Istanbul's most romantic landmark.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/istanbul/kiz_kulesi.jpg",
+      "rating": 4.7,
+      "price": "medium"
+    },
+    {
+      "name": "Süleymaniye",
+      "name_en": "Süleymaniye Mosque",
+      "area": "Fatih",
+      "category": "Tarihi",
+      "tags": [
+        "mosque",
+        "architecture",
+        "sinan"
+      ],
+      "lat": 41.0162,
+      "lng": 28.9639,
+      "description": "Mimar Sinan'ın kalfalık eseri. Osmanlı mimarisinin zirvesi ve şehrin silüetinin en güçlü parçası.",
+      "description_en": "Masterpiece of Mimar Sinan. The pinnacle of Ottoman architecture and a powerful part of the city's skyline.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/istanbul/suleymaniye.jpg",
+      "rating": 4.9,
+      "price": "free"
     }
   ]
 }
