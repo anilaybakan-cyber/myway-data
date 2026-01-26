@@ -19,21 +19,26 @@
       "category": "Alışveriş",
       "subcategory": "AVM",
       "tags": [
-        "mall",
+        "süpermarket",
+        "alışveriş",
+        "shopping",
         "local",
-        "shopping"
+        "avm",
+        "mall"
       ],
       "price": "free",
       "lat": 36.8825788,
       "lng": 30.6604581,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/5m-migros-avm.jpg",
       "rating": 4.4,
-      "source": "firebase"
+      "source": "firebase",
+      "bestTime": "Gündüz",
+      "area": "Konyaaltı"
     },
     {
       "name": "7 Mehmet",
       "area": "Konyaaltı",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "konyaaltı",
@@ -65,7 +70,7 @@
       "description_en": "The fortress of Antalya cuisine. A restaurant offering the finest examples of modern Turkish gastronomy, especially famous for its mezes and grilled dishes.",
       "tips": "Rezervasyon şart, özellikle akşam yemeği için.",
       "tips_en": "Reservation essential, especially for dinner.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Türk",
       "tags": [
         "turkish",
@@ -112,7 +117,7 @@
       "description_en": "A nostalgic amusement park in the heart of the city. Watch the city from the giant Ferris wheel called 'Heart of Antalya'. A classic family entertainment venue.",
       "tips": "Akşam saatleri daha keyifli.",
       "tips_en": "Evening hours are more enjoyable.",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Lunapark",
       "tags": [
         "amusement park",
@@ -130,23 +135,29 @@
       "id": "alacakaranlik-seraser",
       "name": "Alacakaranlık (Seraser)",
       "name_en": "Seraser Fine Dining",
-      "description": "Mum ışığında romantizmin doruk noktası. Tarihi bir konağın (Tuva Otel) avlusunda, piyano eşliğinde sunulan fine dining deneyimi. Dünya mutfağından seçkin lezzetler ve zengin şarap kavıyla büyüleyici bir akşam.",
+      "description": "Kaleiçi'nde 300 yıllık tarihi bir konakta hizmet veren Seraser, mum ışığıyla aydınlatılan romantik avlusuyla büyüleyicidir. Dünya mutfağını Osmanlı dokunuşlarıyla harmanlayan menüsü, özel kutlamalar için mükemmel bir atmosfer sunar.",
       "description_en": "Historic site showcasing the rich ancient heritage of the Antalya region.",
       "tips": "Avlu masalarını tercih edin.",
       "tips_en": "Prefer courtyard tables.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Fine Dining",
       "tags": [
+        "romantic",
+        "kaleiçi",
+        "restoran",
         "fine dining",
         "mediterranean",
-        "romantic"
+        "türkiye",
+        "antalya"
       ],
       "price": "very high",
       "lat": 36.885913,
       "lng": 30.706222,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/alacakaranlik-seraser.jpg",
       "rating": 4.3,
-      "source": "firebase"
+      "source": "firebase",
+      "bestTime": "İlkbahar",
+      "area": "Kaleiçi"
     },
     {
       "name": "Alanya Arkeoloji Müzesi",
@@ -155,8 +166,11 @@
       "category": "Müze",
       "tags": [
         "müze",
+        "tarih",
+        "konyaaltı",
         "arkeoloji",
-        "tarih"
+        "türkiye",
+        "antalya"
       ],
       "distanceFromCenter": 130.0,
       "lat": 36.545,
@@ -171,7 +185,8 @@
       "tips_en": "Visit with the castle.",
       "id": "alanya-arkeoloji-muzesi",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/alanya-arkeoloji-muzesi.jpg",
-      "source": "firebase"
+      "source": "firebase",
+      "subcategory": "Müze"
     },
     {
       "name": "Alanya Cuma Pazarı",
@@ -299,75 +314,28 @@
       "id": "antalya-akvaryum",
       "name": "Antalya Akvaryum",
       "name_en": "Antalya Aquarium",
-      "description": "Deniz altının büyülü dünyasına yolculuk. Batık gemi dekoru, köpekbalığı besleme seansları ve tropikal sürüngenlerin bulunduğu WildPark bölümüyle tam gün sürecek bir macera kompleksi.",
+      "description": "131 metre uzunluğuyla dünyanın en büyük tünel akvaryumlarından birine ev sahipliği yapar. Köpek balıklarından tropikal resiflere binlerce deniz canlısını görebileceğiniz, ayrıca Kar Dünyası gibi tematik bölümleri olan devasa bir kompleks.",
       "description_en": "A journey into the magical underwater world. Features shipwreck decor, shark feeding sessions, and one of the world's longest tunnel aquariums.",
       "tips": "Çocuklar için çok eğlenceli, 2-3 saat ayırın.",
       "tips_en": "Very fun for kids, allocate 2-3 hours.",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Akvaryum",
       "tags": [
+        "aile",
+        "fish",
+        "akvaryum",
+        "eğlence",
         "aquarium",
-        "family",
-        "fish"
+        "family"
       ],
       "price": "high",
       "lat": 36.8792132,
       "lng": 30.6602798,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/antalya-akvaryum.jpg",
       "rating": 4.1,
-      "source": "firebase"
-    },
-    {
-      "name": "Antalya Aquarium",
-      "name_en": "Antalya Aquarium",
-      "area": "Konyaaltı",
-      "category": "Deneyim",
-      "tags": [
-        "akvaryum",
-        "aile",
-        "eğlence"
-      ],
-      "distanceFromCenter": 3.5,
-      "lat": 36.87,
-      "lng": 30.648,
-      "price": "high",
-      "rating": 4.5,
-      "description": "131 metre uzunluğuyla dünyanın en büyük tünel akvaryumlarından birine ev sahipliği yapar. Köpek balıklarından tropikal resiflere binlerce deniz canlısını görebileceğiniz, ayrıca Kar Dünyası gibi tematik bölümleri olan devasa bir kompleks.",
-      "description_en": "Beautiful beach destination with crystal-clear Mediterranean waters and stunning coastal scenery.",
+      "source": "firebase",
       "bestTime": "Gündüz",
-      "bestTime_en": "Daytime",
-      "tips": "Köpekbalığı dalışı yapılabilir.",
-      "tips_en": "Shark diving available.",
-      "id": "antalya-aquarium",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/antalya-aquarium.jpg",
-      "source": "firebase"
-    },
-    {
-      "name": "Antalya Arkeoloji Müzesi",
-      "area": "Konyaaltı",
-      "category": "Müze",
-      "subcategory": "Müze",
-      "tags": [
-        "konyaaltı",
-        "antalya",
-        "türkiye",
-        "müze"
-      ],
-      "distanceFromCenter": 0,
-      "lat": 36.8860194,
-      "lng": 30.6796556,
-      "price": "medium",
-      "rating": 4.7,
-      "description": "Türkiye'nin en önemli müzelerinden biri olan bu kompleks, Roma dönemi mermer heykelleriyle (özellikle Tanrılar Salonu ve Yorgun Herakles) ünlüdür. Paleolitik çağdan Osmanlı'ya uzanan koleksiyonuyla Anadolu tarihine ışık tutar.",
-      "bestTime": "İlkbahar",
-      "bestFor": [
-        "herkes"
-      ],
-      "source": "google",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/antalya_arkeoloji_muzesi.jpg",
-      "tips": "Sesli rehber (audio guide) kiralamak deneyimi ikiye katlar.",
-      "description_en": "Historic site showcasing the rich ancient heritage of the Antalya region.",
-      "tips_en": "Renting an audio guide doubles the experience."
+      "area": "Konyaaltı"
     },
     {
       "id": "antalya-cumhuriyet-meydani",
@@ -377,7 +345,7 @@
       "description_en": "A notable destination in Antalya offering unique experiences and memorable moments.",
       "tips": "Resmi törenlerin yapıldığı yer.",
       "tips_en": "Where official ceremonies are held.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "subcategory": "Meydan",
       "tags": [
         "square",
@@ -514,10 +482,13 @@
       "name": "Arma Restaurant",
       "name_en": "Arma Restaurant",
       "area": "Kaleiçi",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "deniz ürünleri",
+        "kahvaltı",
+        "türk mutfağı",
         "manzara",
+        "yerel",
         "tarihi"
       ],
       "distanceFromCenter": 0.3,
@@ -525,7 +496,7 @@
       "lng": 30.703,
       "price": "high",
       "rating": 4.5,
-      "description": "19. yüzyıldan kalma eski bir depo binasında hizmet veren Arma, denize sıfır konumuyla Antalya'nın en ikonik restoranıdır. Beydağları ve Kaleiçi manzarası eşliğinde sunduğu deniz ürünleri ve kaliteli servisiyle bir klasiktir.",
+      "description": "Zincirli Han'ın içinde yer alan bu tarihi restoran, özellikle kömür ateşinde pişen bütün tavuğu ve 'zincirleme' servisiyle efsaneleşmiştir. Geleneksel Antalya mutfağını otantik bir atmosferde tatmak isteyenlerin uğrak noktası.",
       "description_en": "A culinary destination in Antalya offering authentic local flavors and memorable dining experience.",
       "bestTime": "Gün batımı",
       "bestTime_en": "Sunset",
@@ -564,7 +535,7 @@
       "name": "Asmani",
       "name_en": "Asmani",
       "area": "Kaleiçi",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "fine dining",
         "osmanlı",
@@ -760,14 +731,16 @@
       "id": "belek-golf-sahalari",
       "name": "Belek Golf Sahaları",
       "name_en": "Belek Golf Courses",
-      "description": "'Golfün Wimbledon'u' olmaya aday Belek'in kalbi. Fıstık çamları ve okaliptüs ağaçları arasında, deniz meltemi eşliğinde swing yapabileceğiniz, dünyaca ünlü tasarımcıların elinden çıkma sahalar.",
+      "description": "Uluslararası turnuvalara ev sahipliği yapan, çam ormanları içinde denize nazır golf sahaları. Belek, Avrupa'nın en prestijli golf destinasyonlarından biri olarak, golf tutkunlarına dört mevsim oyun imkanı sunar.",
       "description_en": "The heart of Belek, a candidate to become 'The Wimbledon of Golf'. World-class courses nestled among stone pine and eucalyptus trees.",
       "tips": "Erken rezervasyon gereklidir.",
       "tips_en": "Early booking required.",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Golf",
       "tags": [
         "golf",
+        "lüks",
+        "spor",
         "luxury",
         "resort"
       ],
@@ -776,32 +749,9 @@
       "lng": 31.0476896,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/belek-golf-sahalari.jpg",
       "rating": 4.5,
-      "source": "firebase"
-    },
-    {
-      "name": "Belek Golf Sahası",
-      "name_en": "Belek Golf Course",
-      "area": "Belek",
-      "category": "Deneyim",
-      "tags": [
-        "golf",
-        "spor",
-        "lüks"
-      ],
-      "distanceFromCenter": 35.0,
-      "lat": 36.85,
-      "lng": 31.05,
-      "price": "high",
-      "rating": 4.7,
-      "description": "Uluslararası turnuvalara ev sahipliği yapan, çam ormanları içinde denize nazır golf sahaları. Belek, Avrupa'nın en prestijli golf destinasyonlarından biri olarak, golf tutkunlarına dört mevsim oyun imkanı sunar.",
-      "description_en": "Beautiful beach destination with crystal-clear Mediterranean waters and stunning coastal scenery.",
+      "source": "firebase",
       "bestTime": "İlkbahar",
-      "bestTime_en": "Spring",
-      "tips": "Golf turizmi için Türkiye'nin en iyi bölgesi.",
-      "tips_en": "Turkey's best region for golf tourism.",
-      "id": "belek-golf-sahasi",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/belek-golf-sahasi.jpg",
-      "source": "firebase"
+      "area": "Belek"
     },
     {
       "name": "Bey Dağları Sahil Milli Parkı",
@@ -857,7 +807,7 @@
       "name": "Butterfly Valley (Kelebekler Vadisi)",
       "name_en": "Butterfly Valley",
       "area": "Fethiye",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "vadi",
         "kelebek",
@@ -881,7 +831,7 @@
     {
       "name": "Börekçi Tevfik",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "merkez",
@@ -963,7 +913,7 @@
       "description_en": "Museum offering fascinating insights into the history and culture of the region.",
       "tips": "Etkinlik yoksa dışarıdan izlenebilir.",
       "tips_en": "Can be viewed from outside if no events.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "subcategory": "Mimari",
       "tags": [
         "architecture",
@@ -985,7 +935,7 @@
       "description_en": "Vibrant nightlife venue in Antalya with great drinks, music, and entertainment.",
       "tips": "Gece gitmek çok daha etkileyici.",
       "tips_en": "Going at night is much more impressive.",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Doğal Fenomen",
       "tags": [
         "fire",
@@ -1007,7 +957,7 @@
       "description_en": "Vibrant nightlife venue in Antalya with great drinks, music, and entertainment.",
       "tips": "Dress code uygulanabilir.",
       "tips_en": "Dress code may apply.",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "subcategory": "Gece Kulübü",
       "tags": [
         "club",
@@ -1050,7 +1000,7 @@
       "name": "Damlataş Mağarası",
       "name_en": "Damlatash Cave",
       "area": "Alanya",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "mağara",
         "sarkıt",
@@ -1097,7 +1047,7 @@
       "name": "Deniz Lokantası",
       "name_en": "Deniz Lokantasi",
       "area": "Kemer",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "balık",
         "deniz ürünleri",
@@ -1126,7 +1076,7 @@
       "description_en": "Scenic viewpoint offering breathtaking panoramic views of Antalya and the Mediterranean coast.",
       "tips": "Yürüyüş parkuru yaklaşık 500 metre.",
       "tips_en": "Walking trail about 500 meters.",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Mağara",
       "tags": [
         "cave",
@@ -1144,7 +1094,7 @@
       "name": "Dim Çayı",
       "name_en": "Dim River",
       "area": "Alanya",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "nehir",
         "piknik",
@@ -1169,7 +1119,7 @@
       "name": "Dondurma Dükkanı",
       "name_en": "Ice Cream Shop",
       "area": "Kaleiçi",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "dondurma",
         "tatlı",
@@ -1198,7 +1148,7 @@
       "description_en": "Museum offering fascinating insights into the history and culture of the region.",
       "tips": "Sergiler ve etkinlikler için program kontrol edin.",
       "tips_en": "Check schedule for exhibitions and events.",
-      "category": "Kültür",
+      "category": "Deneyim",
       "subcategory": "Sanat",
       "tags": [
         "art",
@@ -1220,7 +1170,7 @@
       "description_en": "A notable destination in Antalya offering unique experiences and memorable moments.",
       "tips": "Antalya usulü pide döneri deneyin.",
       "tips_en": "Try Antalya style pide döner.",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Sokak Yemeği",
       "tags": [
         "doner",
@@ -1238,50 +1188,31 @@
       "id": "duden-selalesi-alt",
       "name": "Düden Şelalesi (Alt)",
       "name_en": "Lower Düden Waterfalls",
-      "description": "Dünyada denize dökülen nadir şelalelerden biri. 40 metre yükseklikten Akdeniz'e muazzam bir gürültüyle dökülen suyun oluşturduğu gökkuşağı ve köpükler, kartpostallık bir manzara sunar.",
+      "description": "Lara semtinde denize dökülen (Karpuzkaldıran) şelale, 40 metre yükseklikten Akdeniz'e muhteşem bir gürültüyle akar. Dünyada denize dökülen nadir şelalelerdendir ve çevresindeki park manzarayı izlemek için harika bir teras sunar.",
       "description_en": "The dramatic lower Düden Waterfall cascading directly into the Mediterranean Sea. Best viewed from a boat tour.",
       "tips": "Tekneden görmek çok daha etkileyicidir.",
       "tips_en": "Much more impressive to see from a boat.",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Şelale",
       "tags": [
         "waterfall",
+        "dramatic",
         "sea",
-        "dramatic"
+        "manzara",
+        "park",
+        "türkiye",
+        "lara",
+        "antalya",
+        "nature"
       ],
       "price": "low",
       "lat": 36.9647146,
       "lng": 30.7267783,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/duden-selalesi-alt.jpg",
       "rating": 4.6,
-      "source": "firebase"
-    },
-    {
-      "name": "Düden Şelalesi (Aşağı)",
-      "area": "Lara",
-      "category": "Manzara",
-      "subcategory": "Manzara",
-      "tags": [
-        "lara",
-        "antalya",
-        "türkiye",
-        "manzara"
-      ],
-      "distanceFromCenter": 0,
-      "lat": 36.8507695,
-      "lng": 30.7833732,
-      "price": "medium",
-      "rating": 4.7,
-      "description": "Lara semtinde denize dökülen (Karpuzkaldıran) şelale, 40 metre yükseklikten Akdeniz'e muhteşem bir gürültüyle akar. Dünyada denize dökülen nadir şelalelerdendir ve çevresindeki park manzarayı izlemek için harika bir teras sunar.",
+      "source": "firebase",
       "bestTime": "Yazın",
-      "bestFor": [
-        "herkes"
-      ],
-      "source": "google",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/duden_selalesi_asagi.jpg",
-      "tips": "Akşam saatlerinde şehir ışıklarını izlemek çok romantik.",
-      "description_en": "Beautiful beach destination with crystal-clear Mediterranean waters and stunning coastal scenery.",
-      "tips_en": "Watching city lights in the evening is very romantic."
+      "area": "Lara"
     },
     {
       "name": "Düden Şelalesi (Yukarı)",
@@ -1309,28 +1240,6 @@
       "tips": "Yürüyüş ayakkabısı giymeniz önerilir.",
       "description_en": "Spectacular waterfall surrounded by lush greenery, perfect for nature lovers.",
       "tips_en": "Walking shoes are recommended."
-    },
-    {
-      "id": "duden-selalesi-ust",
-      "name": "Düden Şelalesi (Üst)",
-      "name_en": "Upper Düden Waterfalls",
-      "description": "Şehrin içinde saklı bir cennet. Mağaralar içinden çağıldayarak dökülen şelalenin arkasından yürüyebilir, suyun serinliğini ve sesini iliklerinizde hissedebilirsiniz.",
-      "description_en": "The upper Düden Waterfall surrounded by a beautiful park. Walk behind the waterfall for a unique experience.",
-      "tips": "Şelalenin arkasından yürüyebilirsiniz.",
-      "tips_en": "You can walk behind the waterfall.",
-      "category": "Doğa",
-      "subcategory": "Şelale",
-      "tags": [
-        "waterfall",
-        "park",
-        "nature"
-      ],
-      "price": "low",
-      "lat": 36.9647146,
-      "lng": 30.7267783,
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/duden-selalesi-ust.jpg",
-      "rating": 4.6,
-      "source": "firebase"
     },
     {
       "name": "Falez Kafeleri",
@@ -1361,7 +1270,7 @@
       "name": "Göynük Kanyonu",
       "name_en": "Goynuk Canyon",
       "area": "Kemer",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kanyon",
         "yürüyüş",
@@ -1386,7 +1295,7 @@
       "name": "Güllük Dağı Milli Parkı",
       "name_en": "Gulluk Mountain National Park",
       "area": "Döşemealtı",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "milli park",
         "doğa",
@@ -1485,7 +1394,7 @@
       "name": "Hasanağa Restaurant",
       "name_en": "Hasanaga Restaurant",
       "area": "Muratpaşa",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "türk mutfağı",
         "deniz ürünleri",
@@ -1514,7 +1423,7 @@
       "description_en": "A culinary destination in Antalya offering authentic local flavors and memorable dining experience.",
       "tips": "Akşamları çok kalabalıktır.",
       "tips_en": "Very crowded in evenings.",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Sokak",
       "tags": [
         "bars",
@@ -1658,7 +1567,7 @@
       "name": "Kaleiçi Meyhane Sokağı",
       "name_en": "Kaleici Tavern Street",
       "area": "Kaleiçi",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "meyhane",
         "meze",
@@ -1687,7 +1596,7 @@
       "description_en": "Vibrant nightlife venue in Antalya with great drinks, music, and entertainment.",
       "tips": "Haritasız dolaşmak en güzel deneyimdir.",
       "tips_en": "Walking without a map is the best experience.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "subcategory": "Sokak",
       "tags": [
         "walking",
@@ -1759,7 +1668,7 @@
       "description_en": "Historic site showcasing the rich ancient heritage of the Antalya region.",
       "tips": "Teknelerden birinde balık yiyin.",
       "tips_en": "Eat fish on one of the boats.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "subcategory": "Liman",
       "tags": [
         "marina",
@@ -1831,9 +1740,11 @@
       "area": "Kaleiçi",
       "category": "Park",
       "tags": [
-        "park",
+        "walk",
         "deniz",
-        "manzara"
+        "sea view",
+        "manzara",
+        "park"
       ],
       "distanceFromCenter": 0.3,
       "lat": 36.881,
@@ -1848,29 +1759,8 @@
       "tips_en": "Ideal for watching sunset.",
       "id": "karaali-parki",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/karaali-parki.jpg",
-      "source": "firebase"
-    },
-    {
-      "id": "karaalioglu-parki",
-      "name": "Karaalioğlu Parkı",
-      "name_en": "Karaalioğlu Park",
-      "description": "Şehrin gürültüsünden kaçış noktası. Falezlerin üzerindeki miradorlardan (seyir terasları) Beydağları'nın ve körfezin muhteşem manzarasını izleyebilir, asırlık ağaçlar altında serinleyebilirsiniz.",
-      "description_en": "Scenic viewpoint offering breathtaking panoramic views of Antalya and the Mediterranean coast.",
-      "tips": "Piknik için mükemmeldir.",
-      "tips_en": "Perfect for picnics.",
-      "category": "Park",
-      "subcategory": "Park",
-      "tags": [
-        "park",
-        "sea view",
-        "walk"
-      ],
-      "price": "free",
-      "lat": 36.8796439,
-      "lng": 30.7048802,
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/karaalioglu-parki.jpg",
-      "rating": 4.6,
-      "source": "firebase"
+      "source": "firebase",
+      "subcategory": "Park"
     },
     {
       "id": "karain-magarasi",
@@ -1924,7 +1814,7 @@
       "description_en": "Beautiful beach destination with crystal-clear Mediterranean waters and stunning coastal scenery.",
       "tips": "Gizli bir cennettir, kolay ulaşım yok.",
       "tips_en": "A hidden paradise, no easy access.",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Şelale",
       "tags": [
         "waterfall",
@@ -2213,7 +2103,7 @@
       "name": "Konyaaltı Balıkçıları",
       "name_en": "Konyaalti Fishermen",
       "area": "Konyaaltı",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "balık",
         "deniz ürünleri",
@@ -2238,50 +2128,29 @@
       "id": "konyaalti-plaj-parki",
       "name": "Konyaaltı Plaj Parkı",
       "name_en": "Konyaaltı Beach Park",
-      "description": "Müzik, dans ve denizin birleştiği nokta. Çeşitli konseptlerdeki beach club'ları, konser alanları ve restoranlarıyla hem gündüz deniz keyfi hem de akşam eğlencesi için şehrin en popüler sahil şeridi.",
-      "description_en": "A culinary destination in Antalya offering authentic local flavors and memorable dining experience.",
+      "description": "Antalya'nın batısında boylu boyunca uzanan bu ünlü plaj, çakıllı sahili ve arkasındaki heybetli Beydağları manzarasıyla büyüleyicidir. Mavi bayraklı denizi ve modern Beach Park tesisleriyle şehrin en canlı noktasıdır.",
+      "description_en": "Antalya's award-winning Blue Flag beach. Long pebble shoreline with stunning Taurus Mountain backdrop.",
       "tips": "Gece hayatı burada canlıdır.",
       "tips_en": "Nightlife is lively here.",
       "category": "Plaj",
       "subcategory": "Ada",
       "tags": [
-        "beach",
+        "konyaaltı",
+        "bars",
+        "manzara",
         "park",
-        "bars"
+        "türkiye",
+        "antalya",
+        "beach"
       ],
       "price": "free",
       "lat": 36.8843764,
       "lng": 30.6777357,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/konyaalti-plaj-parki.jpg",
       "rating": 4.7,
-      "source": "firebase"
-    },
-    {
-      "name": "Konyaaltı Plajı",
-      "area": "Konyaaltı",
-      "category": "Plaj",
-      "subcategory": "Manzara",
-      "tags": [
-        "konyaaltı",
-        "antalya",
-        "türkiye",
-        "manzara"
-      ],
-      "distanceFromCenter": 0,
-      "lat": 36.8646498,
-      "lng": 30.6438665,
-      "price": "medium",
-      "rating": 4.6,
-      "description": "Antalya'nın batısında boylu boyunca uzanan bu ünlü plaj, çakıllı sahili ve arkasındaki heybetli Beydağları manzarasıyla büyüleyicidir. Mavi bayraklı denizi ve modern Beach Park tesisleriyle şehrin en canlı noktasıdır.",
+      "source": "firebase",
       "bestTime": "Yazın",
-      "bestFor": [
-        "herkes"
-      ],
-      "source": "google",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/konyaalti_plaji.jpg",
-      "tips": "Akşam saatlerinde şehir ışıklarını izlemek çok romantik.",
-      "description_en": "Antalya's award-winning Blue Flag beach. Long pebble shoreline with stunning Taurus Mountain backdrop.",
-      "tips_en": "Watching city lights in the evening is very romantic."
+      "area": "Konyaaltı"
     },
     {
       "id": "konyaalti-sahili-yuruyus-yolu",
@@ -2335,7 +2204,7 @@
     {
       "name": "Köprülü Kanyon",
       "area": "Manavgat",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Doğa",
       "tags": [
         "manavgat",
@@ -2363,7 +2232,7 @@
       "name": "Künefe Evi",
       "name_en": "Kunefe House",
       "area": "Kaleiçi",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "künefe",
         "tatlı",
@@ -2415,9 +2284,12 @@
       "category": "Deneyim",
       "subcategory": "Deneyim",
       "tags": [
+        "water park",
         "belek",
-        "antalya",
+        "theme park",
         "türkiye",
+        "resort",
+        "antalya",
         "deneyim"
       ],
       "distanceFromCenter": 0,
@@ -2434,7 +2306,8 @@
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/land_of_legends.jpg",
       "tips": "Rehbere soru sormaktan çekinmeyin, çok ilginç hikayeler biliyorlar.",
       "description_en": "Natural retreat perfect for relaxation, featuring beautiful landscapes and outdoor activities.",
-      "tips_en": "Don't hesitate to ask the guide questions, they know interesting stories."
+      "tips_en": "Don't hesitate to ask the guide questions, they know interesting stories.",
+      "name_en": "The Land of Legends"
     },
     {
       "name": "Lara Beach Barlar",
@@ -2517,7 +2390,7 @@
       "name": "Lara Tantuni",
       "name_en": "Lara Tantuni",
       "area": "Lara",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "tantuni",
         "dürüm",
@@ -2619,17 +2492,18 @@
       "area": "Kumluca",
       "category": "Tarihi",
       "tags": [
-        "antik",
         "likya",
-        "kaya mezar"
+        "antik",
+        "kaya mezar",
+        "kaya mezarları"
       ],
       "distanceFromCenter": 110.0,
       "lat": 36.358,
       "lng": 30.18,
       "price": "free",
       "rating": 4.4,
-      "description": "Portakal bahçeleri arasında, içinden suların aktığı sakin bir antik kent. Kaya mezarları ve İmparator Augustus'un torunu Gaius Caesar'ın anıt mezarı görülmeye değerdir.",
-      "description_en": "Historic site showcasing the rich ancient heritage of the Antalya region.",
+      "description": "Demre'de bulunan Myra, dağa oyulmuş muazzam Likya kaya mezarları ile ünlüdür. Adeta bir dantel gibi işlenmiş bu mezarlar ve hemen altındaki Roma tiyatrosu, antik dönemin mimari dehasını sergiler.",
+      "description_en": "Ancient Lycian city famous for its impressive rock-cut tombs and well-preserved Roman theater.",
       "bestTime": "Gündüz",
       "bestTime_en": "Daytime",
       "tips": "Ücretsiz giriş.",
@@ -2671,9 +2545,12 @@
       "area": "Konyaaltı",
       "category": "Alışveriş",
       "tags": [
-        "avm",
+        "entertainment",
         "modern",
-        "sinema"
+        "avm",
+        "mall",
+        "sinema",
+        "family"
       ],
       "distanceFromCenter": 2.5,
       "lat": 36.872,
@@ -2688,29 +2565,8 @@
       "tips_en": "Ideal for cooling off on hot days.",
       "id": "mark-antalya-avm",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/mark-antalya-avm.jpg",
-      "source": "firebase"
-    },
-    {
-      "id": "markantalya-avm",
-      "name": "MarkAntalya AVM",
-      "name_en": "MarkAntalya Mall",
-      "description": "Şehrin en renkli ve en merkezi buluşma noktası. Modern mimarisi, devasa cam cephesi ve sunduğu geniş marka yelpazesiyle Antalya'da alışverişin ve sosyal yaşamın nabzı burada atar.",
-      "description_en": "Shopping destination where you can find everything from local crafts to modern brands.",
-      "tips": "Çocuk oyun alanları çok geniş.",
-      "tips_en": "Kids play areas are very large.",
-      "category": "Alışveriş",
-      "subcategory": "AVM",
-      "tags": [
-        "mall",
-        "family",
-        "entertainment"
-      ],
-      "price": "free",
-      "lat": 36.89279820000001,
-      "lng": 30.7043363,
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/markantalya-avm.jpg",
-      "rating": 4.3,
-      "source": "firebase"
+      "source": "firebase",
+      "subcategory": "AVM"
     },
     {
       "name": "Meis Adası Günlük Tur",
@@ -2760,31 +2616,6 @@
       "tips_en": "Go early, fills up quickly.",
       "id": "mermerli-plaji",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/mermerli-plaji.jpg",
-      "source": "firebase"
-    },
-    {
-      "name": "Migros AVM",
-      "name_en": "Migros Mall",
-      "area": "Konyaaltı",
-      "category": "Alışveriş",
-      "tags": [
-        "avm",
-        "süpermarket",
-        "alışveriş"
-      ],
-      "distanceFromCenter": 2.0,
-      "lat": 36.873,
-      "lng": 30.668,
-      "price": "variable",
-      "rating": 4.2,
-      "description": "Antalya'nın en köklü alışveriş merkezlerinden biri. Konyaaltı Plajı, Akvaryum ve Aqualand'in hemen karşısındaki konumuyla, deniz keyfi sonrası alışveriş ve yemek için en pratik durak.",
-      "description_en": "Beautiful beach destination with crystal-clear Mediterranean waters and stunning coastal scenery.",
-      "bestTime": "Gündüz",
-      "bestTime_en": "Daytime",
-      "tips": "Sinema ve yeme-içme alanları.",
-      "tips_en": "Cinema and dining areas.",
-      "id": "migros-avm",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/migros-avm.jpg",
       "source": "firebase"
     },
     {
@@ -2863,31 +2694,6 @@
       "source": "firebase"
     },
     {
-      "name": "Myra Antik Kenti",
-      "name_en": "Myra Ancient City",
-      "area": "Demre",
-      "category": "Tarihi",
-      "tags": [
-        "antik",
-        "likya",
-        "kaya mezarları"
-      ],
-      "distanceFromCenter": 150.0,
-      "lat": 36.259,
-      "lng": 29.983,
-      "price": "low",
-      "rating": 4.7,
-      "description": "Demre'de bulunan Myra, dağa oyulmuş muazzam Likya kaya mezarları ile ünlüdür. Adeta bir dantel gibi işlenmiş bu mezarlar ve hemen altındaki Roma tiyatrosu, antik dönemin mimari dehasını sergiler.",
-      "description_en": "Ancient Lycian city famous for its impressive rock-cut tombs and well-preserved Roman theater.",
-      "bestTime": "Sabah",
-      "bestTime_en": "Morning",
-      "tips": "Noel Baba Kilisesi ile birlikte gezin.",
-      "tips_en": "Visit with St. Nicholas Church.",
-      "id": "myra-antik-kenti",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/myra-antik-kenti.jpg",
-      "source": "firebase"
-    },
-    {
       "id": "musluman-mahallesi",
       "name": "Müslüman Mahallesi",
       "name_en": "Muslim Quarter",
@@ -2895,7 +2701,7 @@
       "description_en": "Natural retreat perfect for relaxation, featuring beautiful landscapes and outdoor activities.",
       "tips": "Yerel yaşamı gözlemlemek için harika.",
       "tips_en": "Great for observing local life.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "subcategory": "Mahalle",
       "tags": [
         "local",
@@ -2940,10 +2746,13 @@
       "category": "Tarihi",
       "subcategory": "Tarihi",
       "tags": [
-        "kumluca",
-        "antalya",
+        "ancient",
         "türkiye",
-        "tarihi"
+        "nature",
+        "tarihi",
+        "kumluca",
+        "beach",
+        "antalya"
       ],
       "distanceFromCenter": 0,
       "lat": 36.39551429999999,
@@ -2959,29 +2768,8 @@
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/olimpos_antik_kenti.jpg",
       "tips": "Müze kartınız varsa girişte sıra beklemezsiniz.",
       "description_en": "Beautiful beach destination with crystal-clear Mediterranean waters and stunning coastal scenery.",
-      "tips_en": "You skip the line if you have a museum pass."
-    },
-    {
-      "id": "olympos-antik-kenti",
-      "name": "Olympos Antik Kenti",
-      "name_en": "Olympos Ancient City",
-      "description": "Tarih ve doğanın en romantik buluşması. Denize dökülen nehrin iki yakasına kurulmuş Likya kenti, sarmaşıklarla kaplı kalıntıları ve caretta carettaların yumurtlama alanı olan plajıyla büyüleyicidir.",
-      "description_en": "Romantic ruins of an ancient Lycian city engulfed by forest, leading to the famous Çıralı beach.",
-      "tips": "Yazın çok kalabalık, sabah erken gidin.",
-      "tips_en": "Very crowded in summer, go early morning.",
-      "category": "Tarihi",
-      "subcategory": "Antik",
-      "tags": [
-        "ancient",
-        "nature",
-        "beach"
-      ],
-      "price": "medium",
-      "lat": 36.39551429999999,
-      "lng": 30.4722894,
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/olympos-antik-kenti.jpg",
-      "rating": 4.6,
-      "source": "firebase"
+      "tips_en": "You skip the line if you have a museum pass.",
+      "name_en": "Olympos Ancient City"
     },
     {
       "name": "Paraşüt (Ölüdeniz)",
@@ -3006,31 +2794,6 @@
       "tips_en": "Morning wind is calmer.",
       "id": "parasut-oludeniz",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/parasut-oludeniz.jpg",
-      "source": "firebase"
-    },
-    {
-      "name": "Parlak Restaurant",
-      "name_en": "Parlak Restaurant",
-      "area": "Konyaaltı",
-      "category": "Restoran",
-      "tags": [
-        "türk mutfağı",
-        "kahvaltı",
-        "yerel"
-      ],
-      "distanceFromCenter": 2.5,
-      "lat": 36.87,
-      "lng": 30.655,
-      "price": "low",
-      "rating": 4.6,
-      "description": "Zincirli Han'ın içinde yer alan bu tarihi restoran, özellikle kömür ateşinde pişen bütün tavuğu ve 'zincirleme' servisiyle efsaneleşmiştir. Geleneksel Antalya mutfağını otantik bir atmosferde tatmak isteyenlerin uğrak noktası.",
-      "description_en": "A culinary destination in Antalya offering authentic local flavors and memorable dining experience.",
-      "bestTime": "Sabah",
-      "bestTime_en": "Morning",
-      "tips": "Serpme kahvaltıları meşhur.",
-      "tips_en": "Their spread breakfasts are famous.",
-      "id": "parlak-restaurant",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/parlak-restaurant.jpg",
       "source": "firebase"
     },
     {
@@ -3111,7 +2874,7 @@
     {
       "name": "Paçacı Şemsi",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "merkez",
@@ -3141,10 +2904,13 @@
       "category": "Tarihi",
       "subcategory": "Tarihi",
       "tags": [
+        "antik",
+        "izole",
         "aksu",
-        "antalya",
+        "dağ",
         "türkiye",
-        "tarihi"
+        "tarihi",
+        "antalya"
       ],
       "distanceFromCenter": 0,
       "lat": 36.957694,
@@ -3160,7 +2926,8 @@
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/perge_antik_kenti.jpg",
       "tips": "Müze kartınız varsa girişte sıra beklemezsiniz.",
       "description_en": "One of the best-preserved ancient cities of Pamphylia. Impressive stadium, colonnaded streets, and Roman baths.",
-      "tips_en": "You skip the line if you have a museum pass."
+      "tips_en": "You skip the line if you have a museum pass.",
+      "name_en": "Selge Ancient City"
     },
     {
       "name": "Perge Bisiklet Turu",
@@ -3217,7 +2984,7 @@
     {
       "name": "Pio Gastro Bar & Bistro",
       "area": "Kaleiçi",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "kaleiçi",
@@ -3245,7 +3012,7 @@
       "name": "Piyaz Evi",
       "name_en": "Piyaz House",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "piyaz",
         "geleneksel",
@@ -3274,7 +3041,7 @@
       "description_en": "A notable destination in Antalya offering unique experiences and memorable moments.",
       "tips": "Tahinli ve tahinsiz deneyin.",
       "tips_en": "Try with and without tahini.",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Yerel",
       "tags": [
         "local",
@@ -3389,7 +3156,7 @@
       "name": "Saklikent Kanyonu",
       "name_en": "Saklikent Canyon",
       "area": "Fethiye",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kanyon",
         "yürüyüş",
@@ -3418,7 +3185,7 @@
       "description_en": "Where the motto 'Ski in morning, swim in afternoon' comes true. Turkey's most southern ski resort.",
       "tips": "Sezon kısadır, Ocak-Mart arası.",
       "tips_en": "Season is short, January-March.",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Kayak",
       "tags": [
         "skiing",
@@ -3461,7 +3228,7 @@
       "name": "Sapadere Kanyonu",
       "name_en": "Sapadere Canyon",
       "area": "Alanya",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kanyon",
         "yürüyüş",
@@ -3506,58 +3273,6 @@
       "id": "scuba-diving-kas",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/scuba-diving-kas.jpg",
       "source": "firebase"
-    },
-    {
-      "name": "Selge Antik Kenti",
-      "name_en": "Selge Ancient City",
-      "area": "Manavgat",
-      "category": "Tarihi",
-      "tags": [
-        "antik",
-        "dağ",
-        "izole"
-      ],
-      "distanceFromCenter": 100.0,
-      "lat": 37.24,
-      "lng": 31.13,
-      "price": "free",
-      "rating": 4.5,
-      "description": "Torosların zirvesinde, ulaşımı zor ama manzarası ödül niteliğinde bir antik kent. Hemen yakınındaki 'Adam Kayalar', minyatür bir Kapadokya görünümü sunar. Tiyatrosu bulutlara komşudur.",
-      "description_en": "Historic site showcasing the rich ancient heritage of the Antalya region.",
-      "bestTime": "İlkbahar",
-      "bestTime_en": "Spring",
-      "tips": "4x4 araç önerilir.",
-      "tips_en": "4x4 vehicle recommended.",
-      "id": "selge-antik-kenti",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/selge-antik-kenti.jpg",
-      "source": "firebase"
-    },
-    {
-      "name": "Seraser Fine Dining",
-      "area": "Kaleiçi",
-      "category": "Restoran",
-      "subcategory": "Restoran",
-      "tags": [
-        "kaleiçi",
-        "antalya",
-        "türkiye",
-        "restoran"
-      ],
-      "distanceFromCenter": 0,
-      "lat": 36.885913,
-      "lng": 30.706222,
-      "price": "high",
-      "rating": 4.3,
-      "description": "Kaleiçi'nde 300 yıllık tarihi bir konakta hizmet veren Seraser, mum ışığıyla aydınlatılan romantik avlusuyla büyüleyicidir. Dünya mutfağını Osmanlı dokunuşlarıyla harmanlayan menüsü, özel kutlamalar için mükemmel bir atmosfer sunar.",
-      "bestTime": "İlkbahar",
-      "bestFor": [
-        "herkes"
-      ],
-      "source": "google",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/seraser_fine_dining.jpg",
-      "tips": "Nakite hazırlıklı olun, bazı yerel yerler kart kabul etmeyebilir.",
-      "description_en": "Historic site showcasing the rich ancient heritage of the Antalya region.",
-      "tips_en": "Be prepared with cash, some local places might not accept cards."
     },
     {
       "name": "Side Antik Kenti",
@@ -3689,7 +3404,7 @@
       "description_en": "Historic site showcasing the rich ancient heritage of the Antalya region.",
       "tips": "Günlük balıkları tercih edin.",
       "tips_en": "Choose daily fish.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Balık",
       "tags": [
         "fish",
@@ -3732,7 +3447,7 @@
       "name": "Simena View Restaurant",
       "name_en": "Simena View Restaurant",
       "area": "Demre",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "manzara",
         "deniz ürünleri",
@@ -3807,7 +3522,7 @@
       "name": "Sülüklü Göl",
       "name_en": "Suluklu Lake",
       "area": "Döşemealtı",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "göl",
         "yürüyüş",
@@ -3836,7 +3551,7 @@
       "description_en": "Legendary cable car journey to Mount Olympos summit. 'From Sea to Sky' experience reaching 2365 meters.",
       "tips": "Üşürsünüz, mont getirin.",
       "tips_en": "You'll get cold, bring jacket.",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Teleferik",
       "tags": [
         "cable car",
@@ -4030,28 +3745,6 @@
       "tips_en": "Stop by the small souvenir shops around."
     },
     {
-      "id": "the-land-of-legends",
-      "name": "The Land of Legends",
-      "name_en": "The Land of Legends",
-      "description": "Türkiye'nin Disneyland'ı. Masalsı şatosu, adrenalin dolu su kaydırakları (Hyper Coaster), alışveriş caddesindeki kanal turları ve akşamları düzenlenen ışıklı tekne geçit törenleriyle bir eğlence krallığı.",
-      "description_en": "Turkey's Disneyland. Fairytale castle, adrenaline-pumping water slides, and world-class shows.",
-      "tips": "Tüm gününüzü ayırın.",
-      "tips_en": "Allocate your entire day.",
-      "category": "Aktivite",
-      "subcategory": "Tema Parkı",
-      "tags": [
-        "theme park",
-        "water park",
-        "resort"
-      ],
-      "price": "very high",
-      "lat": 36.8751518,
-      "lng": 31.00146329999999,
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/antalya/the-land-of-legends.jpg",
-      "rating": 4.5,
-      "source": "firebase"
-    },
-    {
       "name": "Tophane (Tersane)",
       "name_en": "Tophane Shipyard",
       "area": "Alanya",
@@ -4084,7 +3777,7 @@
       "description_en": "The best vantage point to see Antalya from above. Revolving restaurant at 605 meters with panoramic views.",
       "tips": "Gün batımında gidin.",
       "tips_en": "Go at sunset.",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Teleferik",
       "tags": [
         "cable car",
@@ -4102,7 +3795,7 @@
       "name": "Tuvana Hotel Restaurant",
       "name_en": "Tuvana Hotel Restaurant",
       "area": "Kaleiçi",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "fine dining",
         "tarihi",
@@ -4126,7 +3819,7 @@
     {
       "name": "Vanilla",
       "area": "Kaleiçi",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "kaleiçi",
@@ -4158,7 +3851,7 @@
       "description_en": "Historic site showcasing the rich ancient heritage of the Antalya region.",
       "tips": "Hafta sonları çok kalabalık.",
       "tips_en": "Very crowded on weekends.",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "subcategory": "Bar",
       "tags": [
         "club",
@@ -4200,7 +3893,7 @@
     {
       "name": "Yanartaş (Chimaera)",
       "area": "Çıralı",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Doğa",
       "tags": [
         "çıralı",
@@ -4374,7 +4067,7 @@
       "name": "Şiş Köfteci Müdürüm",
       "name_en": "Sis Kofteci Mudurum",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "şiş köfte",
         "yerel",

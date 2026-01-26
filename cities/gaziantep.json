@@ -133,9 +133,12 @@
       "area": "Şahinbey",
       "category": "Alışveriş",
       "tags": [
-        "kuruyemiş",
-        "baharat",
+        "treasures",
         "fıstık",
+        "kuruyemiş",
+        "antiques",
+        "baharat",
+        "old bazaar",
         "gurme"
       ],
       "distanceFromCenter": 0.3,
@@ -143,8 +146,8 @@
       "lng": 37.3823,
       "price": "medium",
       "rating": 4.8,
-      "description": "Gaziantep'in gurme marketi. En kaliteli Antep fıstığı, salça, kurutulmuş sebze (patlıcan, biber) burada bulunur.",
-      "description_en": "Gaziantep's gourmet market. Top quality pistachios, tomato paste, dried vegetables (eggplant, pepper) are found here.",
+      "description": "Antika ve eski eşya pazarı. Bölgeye özgü ürünleri keşfetmek ve sevdiklerinize hediyeler almak için uğramanız gereken bir yer. Renkli dükkanlar ve canlı atmosfer, alışveriş deneyiminizi çok daha keyifli hale getirecek.",
+      "description_en": "Antiques and old items market. A place you must stop by to discover region-specific products and buy gifts for your loved ones. Colorful shops and a lively atmosphere will make your shopping experience much more enjoyable.",
       "bestTime": "Gündüz",
       "bestTime_en": "Daytime",
       "tips": "Kurutulmuş dolmalık patlıcan ve biber almadan dönmeyin.",
@@ -182,18 +185,21 @@
       "name": "Ana Lokantası",
       "name_en": "Mother's Restaurant",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
-        "ev yemeği",
         "anne",
-        "sulu"
+        "ekonomik",
+        "doyurucu",
+        "ev yemeği",
+        "sulu",
+        "esnaf"
       ],
       "distanceFromCenter": 0.5,
       "lat": 37.062,
       "lng": 37.3815,
       "price": "low",
       "rating": 4.5,
-      "description": "Ev yemekleri, geleneksel sulu yemekler ve anne eli lezzetler sunan samimi aile lokantası. Günlük taze pişirilen menü, uygun fiyat ve doyurucu porsiyonlar.",
+      "description": "İş insanlarının ve yerel halkın öğle yemeği için tercih ettiği ekonomik lokanta. Hızlı servis, çeşitli sulu yemekler ve günlük menüyle pratik öğlen molası.",
       "description_en": "An intimate family restaurant serving home cooking, traditional stews, and mother's hand flavors. Daily fresh-cooked menu, affordable prices, and satisfying portions.",
       "bestTime": "Öğle",
       "bestTime_en": "Lunch",
@@ -207,7 +213,7 @@
       "name": "Anadolu Sofrası",
       "name_en": "Anadolu Sofrasi",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "sulu yemek",
         "ev yemeği",
@@ -232,7 +238,7 @@
       "name": "Analı Kızlı Lokantası",
       "name_en": "Anali Kizli Restaurant",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "analı kızlı",
         "geleneksel",
@@ -358,7 +364,7 @@
       "description_en": "A large family restaurant offering wide variety of traditional Antep dishes, notable for rich menu. Beyran, yuvalama, kebab, and desserts all together.",
       "tips": "Meze çeşitleri çok zengin.",
       "tips_en": "Meze varieties are very rich.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Yöresel",
       "tags": [
         "local",
@@ -502,7 +508,7 @@
       "name": "Ayıntap Baklava",
       "name_en": "Ayintap Baklava",
       "area": "Şehitkamil",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "baklava",
         "modern",
@@ -528,7 +534,7 @@
       "name": "Aşina Gaziantep Mutfağı",
       "name_en": "Asina Gaziantep Cuisine",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yöresel",
         "yuvalama",
@@ -669,7 +675,7 @@
       "name": "Bayazhan",
       "name_en": "Bayazhan",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "han",
         "müze",
@@ -717,7 +723,7 @@
       "name": "Beyran Ustası",
       "name_en": "Beyran Master",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "beyran",
         "sabah",
@@ -767,7 +773,7 @@
       "name": "Birecik Kelaynak Üretim İstasyonu",
       "name_en": "Birecik Bald Ibis Breeding Station",
       "area": "Birecik",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kuş",
         "nadir",
@@ -918,7 +924,7 @@
       "name": "Ciğer Sarayı",
       "name_en": "Liver Palace",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ciğer",
         "şiş",
@@ -943,7 +949,7 @@
       "name": "Ciğerci Ali Haydar Usta",
       "name_en": "Cigerci Ali Haydar",
       "area": "Şahinbey",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "ciğer",
         "kahvaltı",
@@ -969,7 +975,7 @@
       "name": "Dağ Evi Restaurant",
       "name_en": "Mountain House",
       "area": "Dülükbaba",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "doğa",
         "manzara",
@@ -994,7 +1000,7 @@
       "name": "Develi Kebap",
       "name_en": "Develi Kebab",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kebap",
         "pide",
@@ -1092,7 +1098,7 @@
       "name": "Dürümcü Recep Usta",
       "name_en": "Durumcu Recep Usta",
       "area": "Şahinbey",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "nohut dürüm",
         "vejetaryen",
@@ -1118,7 +1124,7 @@
       "name": "Ekşili Köfte Evi",
       "name_en": "Sour Meatball House",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "köfte",
         "ekşili",
@@ -1137,28 +1143,6 @@
       "tips_en": "Rice and tzatziki are a must alongside.",
       "id": "eksili-kofte-evi",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/gaziantep/eksili-kofte-evi.jpg",
-      "source": "firebase"
-    },
-    {
-      "name": "Elmacı Pazarı",
-      "category": "Alışveriş",
-      "tags": [
-        "antiques",
-        "old bazaar",
-        "treasures"
-      ],
-      "lat": 37.0633,
-      "lng": 37.3823,
-      "rating": 4.4,
-      "description": "Antika ve eski eşya pazarı. Bölgeye özgü ürünleri keşfetmek ve sevdiklerinize hediyeler almak için uğramanız gereken bir yer. Renkli dükkanlar ve canlı atmosfer, alışveriş deneyiminizi çok daha keyifli hale getirecek.",
-      "description_en": "Antiques and old items market. A place you must stop by to discover region-specific products and buy gifts for your loved ones. Colorful shops and a lively atmosphere will make your shopping experience much more enjoyable.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/gaziantep/elmacı_pazarı.jpg",
-      "price": "medium",
-      "distanceFromCenter": 1.0,
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Pazarlık yapmayı deneyebilirsiniz (nazikçe).",
-      "tips_en": "You might try bargaining (politely).",
       "source": "firebase"
     },
     {
@@ -1214,31 +1198,6 @@
       "source": "firebase"
     },
     {
-      "name": "Esnaf Lokantası",
-      "name_en": "Tradesman's Restaurant",
-      "area": "Şahinbey",
-      "category": "Restoran",
-      "tags": [
-        "esnaf",
-        "ekonomik",
-        "doyurucu"
-      ],
-      "distanceFromCenter": 0.3,
-      "lat": 37.063,
-      "lng": 37.3825,
-      "price": "low",
-      "rating": 4.3,
-      "description": "İş insanlarının ve yerel halkın öğle yemeği için tercih ettiği ekonomik lokanta. Hızlı servis, çeşitli sulu yemekler ve günlük menüyle pratik öğlen molası.",
-      "description_en": "An economical restaurant preferred by businesspeople and locals for lunch. A practical lunch break with fast service, various stews, and daily menu.",
-      "bestTime": "Öğle",
-      "bestTime_en": "Lunch",
-      "tips": "Tabldot menüyle 3-4 çeşit yemek yiyebilirsiniz.",
-      "tips_en": "With set menu you can eat 3-4 types of food.",
-      "id": "esnaf-lokantasi",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/gaziantep/esnaf-lokantasi.jpg",
-      "source": "firebase"
-    },
-    {
       "name": "Etnografya Sergisi",
       "name_en": "Ethnography Exhibition",
       "area": "Şahinbey",
@@ -1267,7 +1226,7 @@
       "name": "Etçi Mehmet",
       "name_en": "Butcher Mehmet",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "et",
         "steak",
@@ -1317,7 +1276,7 @@
       "name": "Firik Pilavı Evi",
       "name_en": "Firik Pilaf House",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "firik",
         "pilav",
@@ -1439,7 +1398,7 @@
       "name": "Fıstıklı Dondurma",
       "name_en": "Pistachio Ice Cream",
       "area": "Şehitkamil",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "dondurma",
         "fıstık",
@@ -1709,7 +1668,7 @@
       "name": "Güllüoğlu",
       "name_en": "Gulluoglu",
       "area": "Şahinbey",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "baklava",
         "ünlü",
@@ -1865,7 +1824,7 @@
       "description_en": "The place where Antep-style spicy liver kebab is made most masterfully. A flavor for brave palates prepared with fresh lamb liver, special spice mix, and charcoal fire.",
       "tips": "Sabah kahvaltısında gidin.",
       "tips_en": "Go for morning breakfast.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Ciğer",
       "tags": [
         "liver",
@@ -1977,7 +1936,7 @@
       "name": "Helva Evi",
       "name_en": "Halva House",
       "area": "Şahinbey",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "helva",
         "tahin",
@@ -2002,7 +1961,7 @@
       "name": "Hışvahan",
       "name_en": "Hisvahan",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "han",
         "otel",
@@ -2028,7 +1987,7 @@
       "name": "Kaburga Dolma Evi",
       "name_en": "Stuffed Rib House",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kaburga",
         "dolma",
@@ -2053,7 +2012,7 @@
       "name": "Kadayıfçı Cemil Usta",
       "name_en": "Kadayifci Cemil Usta",
       "area": "Şahinbey",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "kadayıf",
         "tel kadayıf",
@@ -2129,7 +2088,7 @@
       "name": "Kara Gül Bahçesi",
       "name_en": "Black Rose Garden",
       "area": "Halfeti",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "gül",
         "siyah",
@@ -2154,7 +2113,7 @@
       "name": "Karaoğlu Baklava",
       "name_en": "Karaoglu Baklava",
       "area": "Şehitkamil",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "baklava",
         "kadayıf",
@@ -2208,7 +2167,7 @@
       "description_en": "A special venue offering the finest examples of katmer, a thin pastry dessert with pistachio and cream unique to Antep. Don't forget to try this delicacy also consumed as morning breakfast.",
       "tips": "Sabah kahvaltısı için gidin.",
       "tips_en": "Go for morning breakfast.",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Kahvaltı",
       "tags": [
         "katmer",
@@ -2226,7 +2185,7 @@
       "name": "Katmerci Zekeriya Usta",
       "name_en": "Katmerci Zekeriya Usta",
       "area": "Şahinbey",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "katmer",
         "kahvaltı",
@@ -2276,7 +2235,7 @@
     },
     {
       "name": "Kebapçı Halil Usta",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kebab",
         "küşleme",
@@ -2299,7 +2258,7 @@
       "name": "Kebapçı Ömer",
       "name_en": "Kebapci Omer",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kebap",
         "salaş",
@@ -2325,7 +2284,7 @@
       "name": "Kelebek Lahmacun",
       "name_en": "Kelebek Lahmacun",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "lahmacun",
         "çıtır",
@@ -2351,7 +2310,7 @@
       "name": "Kelle Paça",
       "name_en": "Kelle Paca",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kelle",
         "paça",
@@ -2476,43 +2435,24 @@
       "tags": [
         "cami",
         "kilise",
-        "dönüştürülmüş"
+        "mosque",
+        "center",
+        "dönüştürülmüş",
+        "historic"
       ],
       "distanceFromCenter": 0.3,
       "lat": 37.064,
       "lng": 37.383,
       "price": "free",
       "rating": 4.5,
-      "description": "Eski bir Ermeni kilisesinden camiye dönüştürülmüş, şehrin çok kültürlü geçmişine tanıklık eden tarihi yapı. Mimari detayları ve dönüşüm hikayesiyle, Anadolu'nun karmaşık tarihinin yansıması.",
-      "description_en": "A historic structure converted from an old Armenian church to mosque, witnessing the city's multicultural past. A reflection of Anatolia's complex history with architectural details and transformation story.",
+      "description": "Şehir merkezindeki tarihi cami kompleksi. Tarih meraklıları için eşsiz bir hazine olan bu mekan, geçmişe ışık tutan detaylarıyla ziyaretçilerini büyülüyor. Kültürel bir yolculuğa çıkmak isteyenler için ideal bir durak.",
+      "description_en": "Historic mosque complex in city center. A unique treasure for history buffs, this venue captivates visitors with details that shed light on the past. An ideal stop for those wishing to embark on a cultural journey.",
       "bestTime": "Gündüz",
       "bestTime_en": "Daytime",
       "tips": "Mimari detaylar hem Hristiyan hem İslam etkisi taşır.",
       "tips_en": "Architectural details carry both Christian and Islamic influence.",
       "id": "kurtulus-camii",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/gaziantep/kurtulus-camii.jpg",
-      "source": "firebase"
-    },
-    {
-      "name": "Kurtuluş Camileri",
-      "category": "Tarihi",
-      "tags": [
-        "mosque",
-        "historic",
-        "center"
-      ],
-      "lat": 37.066,
-      "lng": 37.3838,
-      "rating": 4.4,
-      "description": "Şehir merkezindeki tarihi cami kompleksi. Tarih meraklıları için eşsiz bir hazine olan bu mekan, geçmişe ışık tutan detaylarıyla ziyaretçilerini büyülüyor. Kültürel bir yolculuğa çıkmak isteyenler için ideal bir durak.",
-      "description_en": "Historic mosque complex in city center. A unique treasure for history buffs, this venue captivates visitors with details that shed light on the past. An ideal stop for those wishing to embark on a cultural journey.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/gaziantep/kurtuluş_camileri.jpg",
-      "price": "medium",
-      "distanceFromCenter": 1.0,
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Fotoğraf çekimi için en iyi ışık gün batımına yakındır.",
-      "tips_en": "Best light for photography is near sunset.",
       "source": "firebase"
     },
     {
@@ -2599,7 +2539,7 @@
       "description_en": "A tourism route connecting the city's historic areas, consisting of pedestrian-friendly streets and cultural points. Discover museums, hans, and monuments on foot.",
       "tips": "Haritayı turizm ofisinden alın.",
       "tips_en": "Get map from tourism office.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "subcategory": "Yürüyüş",
       "tags": [
         "walking",
@@ -2621,7 +2561,7 @@
       "description_en": "A local favorite kebab house in a non-touristy neighborhood. A real Antep kebab experience with simple setting, delicious meats, and affordable prices.",
       "tips": "Patlıcan kebabı denemelisiniz.",
       "tips_en": "Must try eggplant kebab.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Kebap",
       "tags": [
         "kebab",
@@ -2639,7 +2579,7 @@
       "name": "Küşlemeci Halil Usta",
       "name_en": "Kuslemeci Halil Usta",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kebap",
         "küşleme",
@@ -2695,7 +2635,7 @@
       "description_en": "A popular restaurant making thin-rolled, heavily spiced Antep-style lahmacun with minced meat. A quick, delicious, and affordable lunch option.",
       "tips": "Acılı ve acısız deneyin.",
       "tips_en": "Try spicy and non-spicy.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Lahmacun",
       "tags": [
         "lahmacun",
@@ -2713,7 +2653,7 @@
       "name": "Löküs Ciğer",
       "name_en": "Lokus Ciger",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ciğer",
         "gece",
@@ -2739,7 +2679,7 @@
       "name": "Mahallebaşı",
       "name_en": "Mahallekebasi",
       "area": "Şahinbey",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "tatlı",
         "modern",
@@ -2841,7 +2781,7 @@
       "name": "Mercimek Köftecisi",
       "name_en": "Lentil Kofte",
       "area": "Şahinbey",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "mercimek",
         "vejetaryen",
@@ -2864,7 +2804,7 @@
     },
     {
       "name": "Metanet Lokantası",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "beyran",
         "soup",
@@ -2934,7 +2874,7 @@
       "name": "Mumbar Dolma Evi",
       "name_en": "Mumbar Dolma House",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "mumbar",
         "dolma",
@@ -3030,7 +2970,7 @@
       "name": "Ocakbaşı Ali Usta",
       "name_en": "Ocakbasi Ali Usta",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ocakbaşı",
         "mangal",
@@ -3059,7 +2999,7 @@
       "description_en": "A family restaurant popular among locals, serving the most delicious examples of Antep-style pide and lahmacun. Authentic flavor with wood-fired baking and traditional recipes.",
       "tips": "Kıymalı pide favoriler arasında.",
       "tips_en": "Minced meat pide is among favorites.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Pide",
       "tags": [
         "pide",
@@ -3099,7 +3039,7 @@
       "name": "Oruk Evi",
       "name_en": "Oruk House",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "oruk",
         "içli köfte",
@@ -3201,7 +3141,7 @@
       "name": "Patlıcan Kebabı Evi",
       "name_en": "Eggplant Kebab House",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "patlıcan",
         "kebap",
@@ -3226,7 +3166,7 @@
       "name": "Peynirli Künefe",
       "name_en": "Cheese Kunefe",
       "area": "Şahinbey",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "künefe",
         "tatlı",
@@ -3251,7 +3191,7 @@
       "name": "Pide Salonu",
       "name_en": "Pide Hall",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pide",
         "lahmacun",
@@ -3348,7 +3288,7 @@
       "name": "Sac Kavurma",
       "name_en": "Sac Kavurma",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kavurma",
         "et",
@@ -3373,7 +3313,7 @@
       "name": "Sakıp Usta",
       "name_en": "Sakip Usta",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "beyran",
         "paça",
@@ -3550,7 +3490,7 @@
       "name": "Seyhan Restaurant",
       "name_en": "Seyhan Restaurant",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kebap",
         "lüks",
@@ -3697,7 +3637,7 @@
       "name": "Tantuni Durağı",
       "name_en": "Tantuni Stop",
       "area": "Şahinbey",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "tantuni",
         "dürüm",
@@ -3726,7 +3666,7 @@
       "description_en": "A historic bazaar, homeland of Antep baklava, where dozens of baklava and dessert masters are lined up side by side. Taste, choose your favorite, and have it freshly packed.",
       "tips": "İmam Çağdaş ve Güllüoğlu mutlaka deneyin.",
       "tips_en": "Must try İmam Çağdaş and Güllüoğlu.",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Tatlı",
       "tags": [
         "baklava",
@@ -3748,7 +3688,7 @@
       "description_en": "A historic venue offering the most authentic version of menengiç coffee unique to Antep. Experience this unique caffeine-free, pistachio-flavored drink in traditional setting.",
       "tips": "Kahvecilerde sorun.",
       "tips_en": "Ask at coffee shops.",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Kahve",
       "tags": [
         "menengiç",
@@ -3766,7 +3706,7 @@
       "name": "Tarihi Yuvalama Evi",
       "name_en": "Historic Yuvalama House",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yuvalama",
         "geleneksel",
@@ -3791,7 +3731,7 @@
       "name": "Tatlidede",
       "name_en": "Tatlidede",
       "area": "Şehitkamil",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "dondurma",
         "tatlı",
@@ -3841,7 +3781,7 @@
       "name": "Tirit Lokantası",
       "name_en": "Tirit Restaurant",
       "area": "Şahinbey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tirit",
         "geleneksel",
@@ -3866,7 +3806,7 @@
       "name": "Tostçu Erol",
       "name_en": "Tostcu Erol",
       "area": "Şahinbey",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "tost",
         "sosyal medya",
@@ -3916,7 +3856,7 @@
     },
     {
       "name": "Uçar Lahmacun",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "lahmacun",
         "fast food",
@@ -4038,7 +3978,7 @@
       "name": "Yürüyüş Parkuru",
       "name_en": "Walking Trail",
       "area": "Dülükbaba",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "yürüyüş",
         "doğa",
@@ -4061,7 +4001,7 @@
     },
     {
       "name": "Yüzevler Kebapçısı",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kebab",
         "variety",
@@ -4246,7 +4186,7 @@
       "name": "Çiğ Köfte Ustası",
       "name_en": "Cig Kofte Master",
       "area": "Şahinbey",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "çiğ köfte",
         "vejetaryen",
@@ -4316,7 +4256,7 @@
     },
     {
       "name": "İmam Çağdaş",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "baklava",
         "kebab",
@@ -4411,7 +4351,7 @@
       "name": "Şehitkamil Kebapçısı",
       "name_en": "Sehitkamil Kebab",
       "area": "Şehitkamil",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kebap",
         "yerel",
@@ -4559,7 +4499,7 @@
       "name": "Şıllık Tatlıcısı",
       "name_en": "Sillik Dessert",
       "area": "Şahinbey",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "şıllık",
         "geleneksel",

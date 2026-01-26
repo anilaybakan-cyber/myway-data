@@ -34,7 +34,7 @@
       "name": "Accademia Filarmonica",
       "name_en": "Philharmonic Academy",
       "area": "Merkez",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "müzik",
         "akademi",
@@ -80,7 +80,7 @@
     },
     {
       "name": "All'Osteria Bottega",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "traditional",
         "mortadella",
@@ -125,26 +125,31 @@
       "distanceFromCenter": 1.0
     },
     {
-      "name": "Archaeological Museum",
+      "name": "Museo Civico Archeologico",
+      "name_en": "Archaeological Museum",
+      "area": "Merkez",
       "category": "Müze",
       "tags": [
+        "roman",
+        "etrüsk",
+        "arkeoloji",
+        "mısır",
         "archaeology",
-        "etruscan",
-        "roman"
+        "etruscan"
       ],
-      "lat": 44.493,
-      "lng": 11.3465,
-      "rating": 4.5,
+      "lat": 44.4937,
+      "lng": 11.3422,
+      "price": "medium",
+      "rating": 4.4,
       "description": "Etrüsk ve Roma eserleri. Sanat ve tarih severlerin mutlaka görmesi gereken bu müze, zengin koleksiyonuyla dikkat çekiyor. Sergilenen eserler, bölgenin kültürel mirasını derinlemesine anlamanızı sağlayacak.",
       "description_en": "Etruscan and Roman artifacts. A must-see for art and history lovers, this museum stands out with its rich collection. The exhibited works will allow you to deeply understand the region's cultural heritage.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/bologna/archaeological_museum.jpg",
-      "price": "medium",
-      "distanceFromCenter": 1.0,
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Sesli rehber (audio guide) kiralamak deneyimi ikiye katlar.",
-      "tips_en": "Renting an audio guide doubles the experience.",
-      "source": "firebase"
+      "bestTime": "Gündüz",
+      "tips": "Etrüsk bölümü çok ilginç.",
+      "tips_en": "Etruscan section is very interesting.",
+      "id": "museo-civico-archeologico",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/bologna/museo-civico-archeologico.jpg",
+      "source": "firebase",
+      "distanceFromCenter": 1.0
     },
     {
       "name": "Archiginnasio",
@@ -171,7 +176,7 @@
       "name": "Arena del Sole",
       "name_en": "Arena del Sole",
       "area": "Merkez",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "tiyatro",
         "sahne",
@@ -195,7 +200,7 @@
       "name": "Autodromo di Imola",
       "name_en": "Imola Circuit",
       "area": "Imola",
-      "category": "Spor",
+      "category": "Deneyim",
       "tags": [
         "yarış",
         "pist",
@@ -315,7 +320,7 @@
       "name": "Berberè Pizzeria",
       "name_en": "Berbere Pizza",
       "area": "University",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pizza",
         "gourmet",
@@ -339,7 +344,7 @@
       "name": "Biblioteca Salaborsa",
       "name_en": "Salaborsa Library",
       "area": "Piazza Maggiore",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "kütüphane",
         "arkeoloji",
@@ -363,7 +368,7 @@
       "name": "Biblioteca dell'Archiginnasio",
       "name_en": "Archiginnasio Library",
       "area": "Merkez",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "kütüphane",
         "kitap",
@@ -387,7 +392,7 @@
       "name": "Botanica Lab",
       "name_en": "Botanica Lab",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "vegan",
         "sağlıklı",
@@ -411,7 +416,7 @@
       "name": "Brisighella",
       "name_en": "Brisighella",
       "area": "Brisighella",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "köy",
         "zeytinyağı",
@@ -459,7 +464,7 @@
       "name": "Ca' Pelletti",
       "name_en": "Ca' Pelletti",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kahvaltı",
         "yerel",
@@ -551,7 +556,7 @@
       "name": "Carpi",
       "name_en": "Carpi",
       "area": "Carpi",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "meydan",
         "rönesans",
@@ -647,7 +652,7 @@
       "name": "Castelvetro di Modena",
       "name_en": "Castelvetro",
       "area": "Castelvetro",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "şarap",
         "lambrusco",
@@ -671,7 +676,7 @@
       "name": "Centora",
       "name_en": "Cento",
       "area": "Cento",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "karnaval",
         "sanat",
@@ -743,7 +748,7 @@
       "name": "Cinema Lumière - Cineteca di Bologna",
       "name_en": "Lumiere Cinema",
       "area": "Merkez",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "sinema",
         "pasolini",
@@ -815,7 +820,7 @@
       "name": "Comacchio",
       "name_en": "Comacchio",
       "area": "Comacchio",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "kanal",
         "köprü",
@@ -839,7 +844,7 @@
       "name": "Compianto sul Cristo Morto",
       "name_en": "Lamentation Group",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "heykel",
         "duygu",
@@ -863,7 +868,7 @@
       "name": "Costarena",
       "name_en": "Costarena",
       "area": "Costa",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "sinema",
         "müzik",
@@ -887,7 +892,7 @@
       "name": "Cremeria Funivia",
       "name_en": "Cremeria Funivia",
       "area": "San Luca",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "gelato",
         "dondurma",
@@ -932,7 +937,7 @@
       "name": "Dardagna Waterfalls",
       "name_en": "Dardagna Falls",
       "area": "Lizzano",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "şelale",
         "yürüyüş",
@@ -978,7 +983,7 @@
       "name": "Dozza",
       "name_en": "Dozza",
       "area": "Dozza",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "sanat",
         "duvar resmi",
@@ -1000,7 +1005,7 @@
     },
     {
       "name": "Drogheria della Rosa",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "elegant",
         "pasta",
@@ -1024,7 +1029,7 @@
       "name": "DumBO",
       "name_en": "DumBO",
       "area": "Ravone",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "endüstriyel",
         "festival",
@@ -1212,7 +1217,7 @@
       "name": "Fienile Fluò",
       "name_en": "Fienile Fluo",
       "area": "Paderno",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bağ",
         "tepe",
@@ -1236,7 +1241,7 @@
       "name": "Fiera di Bologna",
       "name_en": "Bologna Fair",
       "area": "Fiera",
-      "category": "İş",
+      "category": "Deneyim",
       "tags": [
         "fuar",
         "kongre",
@@ -1520,7 +1525,7 @@
       "name": "Il Veliero",
       "name_en": "Il Veliero",
       "area": "Station",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "deniz ürünü",
         "balık",
@@ -1568,7 +1573,7 @@
       "name": "La Prosciutteria Bologna",
       "name_en": "La Prosciutteria",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kesme tahtası",
         "şarap",
@@ -1616,7 +1621,7 @@
       "name": "Labirinto della Masone",
       "name_en": "Masone Labyrinth",
       "area": "Fontanellato",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "labirent",
         "bambu",
@@ -1902,7 +1907,7 @@
       "name": "Mercato Sonato",
       "name_en": "Sound Market",
       "area": "San Donato",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "konser",
         "pazar",
@@ -1948,7 +1953,7 @@
       "name": "Mercato di Mezzo",
       "name_en": "Mercato di Mezzo",
       "area": "Quadrilatero",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "pazar",
         "gıda salonu",
@@ -1972,7 +1977,7 @@
       "name": "Mirabilandia",
       "name_en": "Mirabilandia",
       "area": "Ravenna",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "lunapark",
         "hız treni",
@@ -2044,7 +2049,7 @@
       "name": "Mortadella Shop",
       "name_en": "Mortadella Lab",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "sandviç",
         "take away",
@@ -2068,7 +2073,7 @@
       "name": "Mozzarella e Basilico",
       "name_en": "Mozzarella e Basilico",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pizza",
         "dilim",
@@ -2085,30 +2090,6 @@
       "tips_en": "Try pizza with mushroom and truffle oil.",
       "id": "mozzarella-e-basilico",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/bologna/mozzarella-e-basilico.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Museo Civico Archeologico",
-      "name_en": "Archaeological Museum",
-      "area": "Merkez",
-      "category": "Müze",
-      "tags": [
-        "arkeoloji",
-        "etrüsk",
-        "mısır"
-      ],
-      "lat": 44.4937,
-      "lng": 11.3422,
-      "price": "medium",
-      "rating": 4.4,
-      "description": "Etrüsk, Roma ve Mısır uygarlıklarından eserleri sergileyen arkeoloji müzesi. Antik mezar buluntuları, heykeller ve Emilia-Romagna'nın prehistorik geçmişi.",
-      "description_en": "An archaeology museum exhibiting artifacts from Etruscan, Roman, and Egyptian civilizations. Ancient tomb finds, sculptures, and Emilia-Romagna's prehistoric past.",
-      "bestTime": "Gündüz",
-      "tips": "Etrüsk bölümü çok ilginç.",
-      "tips_en": "Etruscan section is very interesting.",
-      "id": "museo-civico-archeologico",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/bologna/museo-civico-archeologico.jpg",
       "source": "firebase",
       "distanceFromCenter": 1.0
     },
@@ -2592,7 +2573,7 @@
     },
     {
       "name": "Oltre",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "michelin",
         "modern",
@@ -2640,7 +2621,7 @@
       "name": "Opificio Golinelli",
       "name_en": "Golinelli Center",
       "area": "Santa Viola",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "bilim",
         "eğitim",
@@ -2712,7 +2693,7 @@
       "name": "Oratorio di San Filippo Neri",
       "name_en": "San Filippo Neri",
       "area": "Merkez",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "konser",
         "barok",
@@ -2806,7 +2787,7 @@
     },
     {
       "name": "Osteria dell'Orsa",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "student",
         "tagliatelle",
@@ -2853,7 +2834,7 @@
       "name": "Palazzo Belloni",
       "name_en": "Palazzo Belloni",
       "area": "Merkez",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "sergi",
         "sanat",
@@ -3278,7 +3259,7 @@
       "name": "Pizzeria Da Michele Bologna",
       "name_en": "Da Michele",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pizza",
         "napoli",
@@ -3350,7 +3331,7 @@
       "name": "Portico di San Luca",
       "name_en": "Portico di San Luca",
       "area": "Colle della Guardia",
-      "category": "Yürüyüş",
+      "category": "Deneyim",
       "tags": [
         "revak",
         "yürüyüş",
@@ -3465,7 +3446,7 @@
       "name": "Ristorante Donatello",
       "name_en": "Donatello",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tarihi",
         "lüks",
@@ -3670,7 +3651,7 @@
       "name": "Sartoria Gastronomica",
       "name_en": "Gastronomic Tailoring",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "modern",
         "burger",
@@ -3694,7 +3675,7 @@
       "name": "Sassi di Roccamalatina",
       "name_en": "Roccamalatina Rocks",
       "area": "Guiglia",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kaya",
         "park",
@@ -3764,7 +3745,7 @@
     },
     {
       "name": "Sfoglia Rina",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "fresh pasta",
         "tortellini",
@@ -3812,7 +3793,7 @@
       "name": "Tamburini",
       "name_en": "Tamburini",
       "area": "Quadrilatero",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "self servis",
         "şarküteri",
@@ -3860,7 +3841,7 @@
       "name": "Teatro Comunale di Bologna",
       "name_en": "Bologna Opera House",
       "area": "University",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "opera",
         "tiyatro",
@@ -3884,7 +3865,7 @@
       "name": "Teatro Duse",
       "name_en": "Duse Theater",
       "area": "Santo Stefano",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "tiyatro",
         "tarihi",
@@ -3908,7 +3889,7 @@
       "name": "Tigellino",
       "name_en": "Tigellino",
       "area": "Quadrilatero",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tigelle",
         "sokak yemeği",
@@ -4004,7 +3985,7 @@
       "name": "Trattoria Anna Maria",
       "name_en": "Trattoria Anna Maria",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "trattoria",
         "geleneksel",
@@ -4026,7 +4007,7 @@
     },
     {
       "name": "Trattoria di Via Serra",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "local",
         "authentic",
@@ -4116,7 +4097,7 @@
       "name": "Via del Pratello",
       "name_en": "Pratello Street",
       "area": "Pratello",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "gece hayatı",
         "bar",
@@ -4258,7 +4239,7 @@
       "name": "Villaggio della Salute Più",
       "name_en": "Health Village",
       "area": "Monterenzio",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "termal",
         "havuz",

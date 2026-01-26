@@ -34,7 +34,7 @@
       "name": "'t Bagientje",
       "name_en": "'t Bagientje",
       "area": "İstasyon",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "aile",
         "belçika",
@@ -82,11 +82,13 @@
       "name": "'t Zand",
       "name_en": "'t Zand Square",
       "area": "Merkez",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
+        "fıskiye",
+        "çeşme",
+        "geniş",
         "meydan",
-        "büyük",
-        "fıskiye"
+        "büyük"
       ],
       "lat": 51.204,
       "lng": 3.219,
@@ -101,30 +103,6 @@
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/brugge/t-zand.jpg",
       "source": "firebase",
       "distanceFromCenter": 1.0
-    },
-    {
-      "name": "'t Zand Square",
-      "name_en": "'t Zand Square",
-      "area": "Merkez",
-      "category": "Meydan",
-      "tags": [
-        "meydan",
-        "çeşme",
-        "geniş"
-      ],
-      "lat": 51.2045,
-      "lng": 3.2195,
-      "price": "free",
-      "rating": 4.5,
-      "description": "Brugge'ün en büyük meydanı, devasa çeşmesi ve çevresindeki restoranlarla canlıdır.",
-      "description_en": "Bruges' largest square, lively with its massive fountain and surrounding restaurants.",
-      "bestTime": "Gündüz",
-      "tips": "Cumartesi günleri kurulan pazarı gezin.",
-      "tips_en": "Visit the market set up on Saturdays.",
-      "id": "t-zand-square",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/brugge/t-zand-square.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
     },
     {
       "name": "2be Beer Wall",
@@ -382,7 +360,7 @@
       "name": "Bistro Bruut",
       "name_en": "Bistro Bruut",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bistro",
         "kanal",
@@ -668,7 +646,7 @@
       "name": "Cadzand",
       "name_en": "Cadzand Beach",
       "area": "Sluis",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "plaj",
         "hollanda",
@@ -740,7 +718,7 @@
       "name": "Cambrinus",
       "name_en": "Cambrinus",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "brasserie",
         "bira",
@@ -810,7 +788,7 @@
       "name": "Chartreuse Nature Reserve",
       "name_en": "Chartreuse Nature Reserve",
       "area": "Sint-Michiels",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "doğa",
         "yürüyüş",
@@ -880,7 +858,7 @@
     },
     {
       "name": "Chez Olivier",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "mussels",
         "seafood",
@@ -995,7 +973,7 @@
       "name": "Concertgebouw",
       "name_en": "Concert Hall",
       "area": "'t Zand",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "konser",
         "modern",
@@ -1019,7 +997,7 @@
       "name": "Concertgebouw Brugge",
       "name_en": "Concert Hall Bruges",
       "area": "'t Zand",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "konser",
         "modern",
@@ -1158,7 +1136,7 @@
     },
     {
       "name": "De Koetse",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "traditional",
         "flemish",
@@ -1228,7 +1206,7 @@
     },
     {
       "name": "De Stove",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "belgian",
         "cozy",
@@ -1252,7 +1230,7 @@
       "name": "De Vlaamsche Pot",
       "name_en": "De Vlaamsche Pot",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "flaman",
         "geleneksel",
@@ -1276,7 +1254,7 @@
       "name": "De Windmolen",
       "name_en": "De Windmolen",
       "area": "Ring",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bistro",
         "yerel",
@@ -1300,7 +1278,7 @@
       "name": "Den Amand",
       "name_en": "Den Amand",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bistro",
         "yerel",
@@ -1416,11 +1394,13 @@
       "name": "Estaminet",
       "name_en": "Estaminet",
       "area": "Park",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
+        "makarna",
         "bistro",
+        "rahat",
         "park",
-        "makarna"
+        "tapas"
       ],
       "lat": 51.2062,
       "lng": 3.2305,
@@ -1558,7 +1538,7 @@
       "name": "Frituur De Halve Maan",
       "name_en": "Frituur De Halve Maan",
       "area": "Beguinage",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "patates",
         "kızartma",
@@ -1890,7 +1870,7 @@
       "name": "Gran Kaffe De Passage",
       "name_en": "Gran Kaffe De Passage",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kafe",
         "art deco",
@@ -2213,7 +2193,7 @@
       "name": "Huidenvettersplein",
       "name_en": "Tanners Square",
       "area": "Merkez",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "meydan",
         "restoran",
@@ -2283,7 +2263,7 @@
       "name": "Jan van Eyckplein",
       "name_en": "Jan van Eyck Square",
       "area": "Merkez",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "meydan",
         "heykeltıraş",
@@ -2475,7 +2455,7 @@
       "name": "Kok au Vin",
       "name_en": "Kok au Vin",
       "area": "Ezelstraat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bib gourmand",
         "fransız",
@@ -2540,30 +2520,6 @@
       "tips_en": "Visit the windmills next to it as well.",
       "id": "kruispoort-gate",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/brugge/kruispoort-gate.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
-    },
-    {
-      "name": "L'Estaminet",
-      "name_en": "L'Estaminet",
-      "area": "Park (Astrid)",
-      "category": "Restoran",
-      "tags": [
-        "bistro",
-        "tapas",
-        "rahat"
-      ],
-      "lat": 51.2065,
-      "lng": 3.231,
-      "price": "medium",
-      "rating": 4.6,
-      "description": "Rahat atmosferi, lezzetli tapasları ve geniş bira seçkisiyle öne çıkan samimi mahalle barı. Yerel halkın severek gittiği, turistik olmayan otantik Brugge deneyimi.",
-      "description_en": "An intimate neighborhood bar standing out with comfortable atmosphere, delicious tapas, and wide beer selection. An authentic Bruges experience locals love, non-touristy.",
-      "bestTime": "Akşam",
-      "tips": "Esmer şekerli krepini deneyin.",
-      "tips_en": "Try crepe with brown sugar.",
-      "id": "lestaminet",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/brugge/lestaminet.jpg",
       "source": "firebase",
       "distanceFromCenter": 0.5
     },
@@ -2876,7 +2832,7 @@
       "name": "One Restaurant",
       "name_en": "One Restaurant",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "modern",
         "veranda",
@@ -2924,7 +2880,7 @@
       "name": "Oostkerke",
       "name_en": "Oostkerke",
       "area": "Damme",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "köy",
         "kanal",
@@ -2996,7 +2952,7 @@
       "name": "Park Restaurant",
       "name_en": "Park Restaurant",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "romantik",
         "fransız",
@@ -3092,7 +3048,7 @@
       "name": "Pomperlut",
       "name_en": "Pomperlut",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "masalsı",
         "dekor",
@@ -3164,7 +3120,7 @@
       "name": "Pro Deo",
       "name_en": "Pro Deo",
       "area": "Langestraat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bistro",
         "samimi",
@@ -3212,7 +3168,7 @@
       "name": "Reliva",
       "name_en": "Reliva",
       "area": "Katelijne",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "organik",
         "sağlıklı",
@@ -3236,7 +3192,7 @@
       "name": "Ribs 'n Beer",
       "name_en": "Ribs 'n Beer",
       "area": "Ezelstraat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kaburga",
         "bira",
@@ -3260,7 +3216,7 @@
       "name": "Rock Fort",
       "name_en": "Rock Fort",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "modern",
         "havalı",
@@ -3329,7 +3285,7 @@
       "name": "Ryckevelde",
       "name_en": "Ryckevelde Castle",
       "area": "Sijsele",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kale",
         "orman",
@@ -3351,7 +3307,7 @@
     },
     {
       "name": "Sans Cravate",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "michelin",
         "fine dining",
@@ -3519,7 +3475,7 @@
       "name": "Simon Stevinplein",
       "name_en": "Simon Stevin Square",
       "area": "Merkez",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "meydan",
         "heykel",
@@ -3569,16 +3525,18 @@
       "area": "Ring",
       "category": "Müze",
       "tags": [
+        "müze",
         "değirmen",
         "manzara",
-        "tarihi"
+        "tarihi",
+        "yel değirmeni"
       ],
       "lat": 51.214,
       "lng": 3.238,
       "price": "low",
       "rating": 4.6,
-      "description": "1770'lerden kalma, hala aktif olarak un öğüten ve ziyarete açık tarihi yel değirmeni. Değirmenin çalışma mekanizmasını öğrenebilir, tepedeki konumundan şehir manzarasını seyredebilirsiniz.",
-      "description_en": "A historic windmill from the 1770s, still actively grinding flour and open for visits. You can learn the mill's working mechanism and watch city views from its hilltop location.",
+      "description": "Hala aktif olarak un öğüten ve içine girilebilen tarihi yel değirmeni. 1770'lerden kalma bu çalışan değirmen, Brugge'ün tarım geçmişine açılan canlı bir pencere ve kanalların panoramik manzarasını sunuyor.",
+      "description_en": "A historic windmill still actively grinding flour that you can enter. This working mill from the 1770s offers a living window into Bruges' agricultural past and panoramic views of the canals.",
       "bestTime": "Gündüz",
       "tips": "Rüzgarlı havalarda dönmesini izlemek keyiflidir.",
       "tips_en": "Pleasant to watch turning in windy weather.",
@@ -3586,30 +3544,6 @@
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/brugge/sint-janshuis-mill.jpg",
       "source": "firebase",
       "distanceFromCenter": 0.5
-    },
-    {
-      "name": "Sint-Janshuismolen",
-      "name_en": "Sint-Janshuis Mill",
-      "area": "Kruisvest",
-      "category": "Tarihi",
-      "tags": [
-        "yel değirmeni",
-        "müze",
-        "manzara"
-      ],
-      "lat": 51.216,
-      "lng": 3.238,
-      "price": "low",
-      "rating": 4.6,
-      "description": "Hala aktif olarak un öğüten ve içine girilebilen tarihi yel değirmeni. 1770'lerden kalma bu çalışan değirmen, Brugge'ün tarım geçmişine açılan canlı bir pencere ve kanalların panoramik manzarasını sunuyor.",
-      "description_en": "A historic windmill still actively grinding flour that you can enter. This working mill from the 1770s offers a living window into Bruges' agricultural past and panoramic views of the canals.",
-      "bestTime": "Gündüz",
-      "tips": "Rüzgarlı günlerde kanatların dönüşünü izleyin.",
-      "tips_en": "Watch the blades turn on windy days.",
-      "id": "sint-janshuismolen",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/brugge/sint-janshuismolen.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
     },
     {
       "name": "Sint-Trudo Abbey",
@@ -3831,16 +3765,18 @@
       "area": "St. Anna",
       "category": "Tarihi",
       "tags": [
-        "kilise",
         "barok",
+        "kilise",
+        "sanat",
+        "bağış",
         "düğün"
       ],
       "lat": 51.2125,
       "lng": 3.233,
       "price": "free",
       "rating": 4.5,
-      "description": "Dışarıdan sade gotik, içeriden süslü barok bir kilise. Yerel halkın favorisidir.",
-      "description_en": "Plain Gothic outside, ornate Baroque inside. A favorite of locals.",
+      "description": "Zengin sanat koleksiyonu ve bağışçı ailelerinin anıtsal mezarlarıyla dikkat çeken tarihi kilise. Gotik mimarisi, Flaman resim şaheserleri ve yakındaki sanat galerisiyle, sanat tarihi tutkunlarının durağı.",
+      "description_en": "A historic church notable for its rich art collection and monumental tombs of donor families. A stop for art history enthusiasts with Gothic architecture, Flemish painting masterpieces, and nearby art gallery.",
       "bestTime": "Gündüz",
       "tips": "Mermer zemin şaşırtıcıdır.",
       "tips_en": "Marble floor is amazing.",
@@ -3870,30 +3806,6 @@
       "tips_en": "A fine example of Gothic architecture.",
       "id": "sint-gilliskerk",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/brugge/sint-gilliskerk.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
-    },
-    {
-      "name": "St. James's Church",
-      "name_en": "Sint-Jakobskerk",
-      "area": "Merkez",
-      "category": "Tarihi",
-      "tags": [
-        "kilise",
-        "bağış",
-        "sanat"
-      ],
-      "lat": 51.21,
-      "lng": 3.22,
-      "price": "free",
-      "rating": 4.4,
-      "description": "Zengin sanat koleksiyonu ve bağışçı ailelerinin anıtsal mezarlarıyla dikkat çeken tarihi kilise. Gotik mimarisi, Flaman resim şaheserleri ve yakındaki sanat galerisiyle, sanat tarihi tutkunlarının durağı.",
-      "description_en": "A historic church notable for its rich art collection and monumental tombs of donor families. A stop for art history enthusiasts with Gothic architecture, Flemish painting masterpieces, and nearby art gallery.",
-      "bestTime": "Gündüz",
-      "tips": "Müzik konserlerine denk gelebilirsiniz.",
-      "tips_en": "You might come across music concerts.",
-      "id": "sint-jakobskerk",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/brugge/sint-jakobskerk.jpg",
       "source": "firebase",
       "distanceFromCenter": 0.5
     },
@@ -4087,7 +3999,7 @@
       "name": "The Olive Tree",
       "name_en": "The Olive Tree",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yunan",
         "akdeniz",
@@ -4111,7 +4023,7 @@
       "name": "The Potato Bar",
       "name_en": "The Potato Bar",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "patates",
         "belçika",
@@ -4207,7 +4119,7 @@
       "name": "Tête Pressée",
       "name_en": "Tête Pressée",
       "area": "Dış",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "gastronomi",
         "yerel",
@@ -4255,7 +4167,7 @@
       "name": "Uitkerkese Polder",
       "name_en": "Uitkerkese Polder",
       "area": "Blankenberge",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "polder",
         "kuş",
@@ -4279,7 +4191,7 @@
       "name": "Vismarkt Brugge",
       "name_en": "Fish Market",
       "area": "Merkez",
-      "category": "Pazar",
+      "category": "Deneyim",
       "tags": [
         "balık",
         "tarihi",
@@ -4301,7 +4213,7 @@
     },
     {
       "name": "Vlissinghe",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pub",
         "historic",
@@ -4348,7 +4260,7 @@
       "name": "Walplein",
       "name_en": "Walplein Square",
       "area": "Merkez",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "meydan",
         "bira",
@@ -4372,7 +4284,7 @@
       "name": "Wijngaardplein",
       "name_en": "Vineyard Square (Beguinage Entrance)",
       "area": "Begijnhof",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "giriş",
         "kulu",
@@ -4466,7 +4378,7 @@
       "name": "Zwin Nature Park",
       "name_en": "Zwin Nature Park",
       "area": "Knokke",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kuş",
         "sulak",

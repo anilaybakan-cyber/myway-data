@@ -1,6 +1,11 @@
 {
   "city": "Brüksel",
-  "country": "Belgium",
+  "city_en": "Brussels",
+  "country": "Belçika",
+  "country_en": "Belgium",
+  "description": "Avrupa'nın kalbi, çikolata ve çizgi romanın başkenti. Tarihi meydanları ve modern yapısıyla büyüleyici.",
+  "description_en": "The heart of Europe, capital of chocolate and comics. Fascinating with its historic squares and modern structure.",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/1280px-Grand_Place_Bruselas_2.jpg",
   "coordinates": {
     "lat": 50.8476,
     "lng": 4.3572
@@ -30,7 +35,7 @@
     {
       "name": "Amadeus",
       "area": "Sainte-Catherine",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kaburga",
         "sınırsız",
@@ -51,7 +56,7 @@
     {
       "name": "Astérix & Obélix Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "asterix",
         "roma",
@@ -138,7 +143,7 @@
       "name": "Aux Merveilleux de Fred",
       "name_en": "Aux Merveilleux de Fred",
       "area": "Merkez",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "mereng",
         "hafif",
@@ -161,7 +166,7 @@
     {
       "name": "Ballekes",
       "area": "Saint-Gilles",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "köfte",
         "sos",
@@ -201,7 +206,7 @@
     {
       "name": "Basilica of the Sacred Heart",
       "area": "Koekelberg",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "bazilika",
         "art deco",
@@ -264,7 +269,7 @@
     {
       "name": "Billy the Cat Mural",
       "area": "Marolles",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "kedi",
         "çocuk",
@@ -283,7 +288,7 @@
     {
       "name": "Bip Bip (Road Runner) Statue",
       "area": "Merkez",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "hızlı",
         "kuş",
@@ -302,7 +307,7 @@
     {
       "name": "Black Tower (Tour Noire)",
       "area": "Sainte-Catherine",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "kule",
         "surlar",
@@ -323,7 +328,7 @@
     {
       "name": "Blake & Mortimer Mural",
       "area": "Marolles",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "ingiliz",
         "klasik",
@@ -341,7 +346,7 @@
     },
     {
       "name": "Blondin & Cirage Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "arkadaş",
         "klasik",
@@ -384,7 +389,7 @@
     {
       "name": "Boule & Bill Statue",
       "area": "Jette",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "çocuk",
         "köpek",
@@ -402,7 +407,7 @@
     },
     {
       "name": "Broussaille Comic Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "sokak sanatı",
         "çizgi roman",
@@ -500,7 +505,7 @@
     {
       "name": "Cathedral of St. Michael and St. Gudula",
       "area": "Merkez",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "katedral",
         "gotik",
@@ -522,7 +527,7 @@
       "name": "Chez Léon",
       "name_en": "Chez Léon",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "midye",
         "popüler",
@@ -585,7 +590,7 @@
     {
       "name": "Church of Saint-Jacques-sur-Coudenberg",
       "area": "Royale",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "kilise",
         "kraliyet",
@@ -629,7 +634,7 @@
     },
     {
       "name": "Comte de Flandre Metro Art",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "icarus",
         "tavan",
@@ -669,7 +674,7 @@
     {
       "name": "Coudenberg Palace",
       "area": "Royale",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "yeraltı",
         "saray",
@@ -690,13 +695,14 @@
     {
       "name": "Cubitus Mural",
       "area": "Marolles",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
-        "köpek",
+        "büyük",
         "beyaz",
-        "büyük"
+        "köpek",
+        "komik"
       ],
-      "description": "Dupa'nın yarattığı beyaz, sevimli köpek Cubitus, bu duvar resminde Manneken Pis ile birlikte görülüyor. İki Belçika ikonunun buluşusu - komçk ve sevimli.",
+      "description": "Sevimli beyaz köpek Cubitus'un Brüksel'deki ikinci duvar resmi. Bu sefer Rue de Flandre üzerinde yer alan eser, Dupa'nın yarattığı bu tembel ama sevilesi köpeği onurlandırıyor.",
       "id": "cubitus-mural",
       "price": "medium",
       "rating": 4.6,
@@ -704,25 +710,8 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/bruksel/cubitus-mural.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Cubitus Mural 2",
-      "category": "Sanat",
-      "tags": [
-        "köpek",
-        "büyük",
-        "komik"
-      ],
-      "description": "Sevimli beyaz köpek Cubitus'un Brüksel'deki ikinci duvar resmi. Bu sefer Rue de Flandre üzerinde yer alan eser, Dupa'nın yarattığı bu tembel ama sevilesi köpeği onurlandırıyor.",
-      "id": "cubitus-mural-2",
-      "price": "medium",
-      "rating": 4.4,
-      "bestTime": "Gündüz",
-      "tips": "Ziyaret öncesi saatleri kontrol edin.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/bruksel/cubitus-mural-2.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "name_en": "Cubitus Mural 2"
     },
     {
       "name": "Delirium Café",
@@ -811,7 +800,7 @@
     {
       "name": "Eglise Sainte-Catherine",
       "area": "Sainte-Catherine",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "kilise",
         "meydan",
@@ -832,7 +821,7 @@
     {
       "name": "Egmont Palace",
       "area": "Sablon",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "saray",
         "park",
@@ -874,7 +863,7 @@
     {
       "name": "Elevator to the Marolles",
       "area": "Marolles",
-      "category": "Ulaşım",
+      "category": "Deneyim",
       "tags": [
         "asansör",
         "cam",
@@ -894,7 +883,7 @@
     },
     {
       "name": "Elisabeth Chocolatier",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "mereng",
         "çikolata",
@@ -953,7 +942,7 @@
       "name": "Fin de Siècle",
       "name_en": "Fin de Siècle",
       "area": "Dansaert",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "otantik",
         "karbonat",
@@ -1043,7 +1032,7 @@
       "name": "Fritland",
       "name_en": "Fritland",
       "area": "Bourse",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "patates",
         "mitraillette",
@@ -1065,7 +1054,7 @@
     },
     {
       "name": "Froud & Stouf Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "köpek",
         "felsefe",
@@ -1150,7 +1139,7 @@
     {
       "name": "Gaston Lagaffe Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "sakar",
         "komik",
@@ -1169,7 +1158,7 @@
     {
       "name": "Gaston Lagaffe Statue",
       "area": "Merkez",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "çizgi roman",
         "heykel",
@@ -1187,7 +1176,7 @@
     },
     {
       "name": "Gile Jourdan Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "dedektif",
         "klasik",
@@ -1226,7 +1215,7 @@
       "name": "Grand Place",
       "name_en": "Grand Place",
       "area": "Merkez",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "unesco",
         "tarihi",
@@ -1242,7 +1231,7 @@
       "tips": "Her iki yılda bir ağustos ayında çiçek halısı seriliyor.",
       "tips_en": "Flower carpet is laid every two years in August.",
       "id": "grand-place",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/bruksel/grand-place.jpg",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Grand_Place_Bruselas_2.jpg/1280px-Grand_Place_Bruselas_2.jpg",
       "source": "firebase",
       "distanceFromCenter": 0.5
     },
@@ -1269,7 +1258,7 @@
     },
     {
       "name": "Hankar Metro Station",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "renkli",
         "duvar",
@@ -1288,7 +1277,7 @@
     {
       "name": "Het Zinneke",
       "area": "Dansaert",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "köpek",
         "işeyen",
@@ -1355,7 +1344,7 @@
     {
       "name": "Hôtel Ciamberlani",
       "area": "Ixelles",
-      "category": "Mimari",
+      "category": "Tarihi",
       "tags": [
         "at nalı",
         "pencere",
@@ -1393,7 +1382,7 @@
     {
       "name": "Hôtel Solvay",
       "area": "Avenue Louise",
-      "category": "Mimari",
+      "category": "Tarihi",
       "tags": [
         "lüks",
         "horta",
@@ -1412,7 +1401,7 @@
     {
       "name": "Hôtel Tassel",
       "area": "Ixelles",
-      "category": "Mimari",
+      "category": "Tarihi",
       "tags": [
         "ilk",
         "horta",
@@ -1431,7 +1420,7 @@
     {
       "name": "Hôtel van Eetvelde",
       "area": "Ambiorix",
-      "category": "Mimari",
+      "category": "Tarihi",
       "tags": [
         "demir",
         "cam",
@@ -1512,7 +1501,7 @@
       "name": "Jeanneke Pis",
       "name_en": "Jeanneke Pis",
       "area": "Impasse de la Fidélité",
-      "category": "Heykel",
+      "category": "Tarihi",
       "tags": [
         "komik",
         "gizli",
@@ -1555,7 +1544,7 @@
     },
     {
       "name": "Jojo Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "çocuk",
         "duygusal",
@@ -1616,7 +1605,7 @@
     {
       "name": "Kinky & Cosy Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "yaramaz",
         "kızlar",
@@ -1634,7 +1623,7 @@
     },
     {
       "name": "Koko Bill Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "kuş",
         "komik",
@@ -1692,7 +1681,7 @@
     },
     {
       "name": "La Patrouille des Castors Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "izci",
         "macera",
@@ -1773,7 +1762,7 @@
     {
       "name": "Le Chat Mural",
       "area": "Güney",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "kedi",
         "felsefi",
@@ -1793,7 +1782,7 @@
       "name": "Le Cirio",
       "name_en": "Le Cirio",
       "area": "Bourse",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "brasserie",
         "tarihi",
@@ -1834,7 +1823,7 @@
     {
       "name": "Le Falstaff",
       "area": "Bourse",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "art deco",
         "brasserie",
@@ -1853,7 +1842,7 @@
     {
       "name": "Le Jeune Albert Mural",
       "area": "Marolles",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "yaramaz",
         "çocuk",
@@ -1874,11 +1863,14 @@
       "area": "Merkez",
       "category": "Bar",
       "tags": [
+        "kalabalık",
         "film",
-        "klasik",
-        "kalabalık"
+        "bira",
+        "nostalji",
+        "tarihi",
+        "klasik"
       ],
-      "description": "1928'den beri değişmeyen dekoru, devasa aynaları ve koşuşturan beyaz önlüklü garsonlarıyla zamana meydan okuyan bir klasik. 'Danimarkalı Kız' filmine sahne olan mekanda Gueuze birası ve peynir tabağı şart.",
+      "description": "1910'dan beri değişmemiş ahşap masa ve sandalyeleri, aynaları ve pirinc aksanlarıyla zamanın durduğu bir Belle Époque brasseriesi. Kendi adını taşıyan 'Mort Subite' (Ani Ölüm) lambic birası burada üretilir. Jacques Brel'in de uğradığı efsanevi mekan.",
       "id": "le-mort-subite",
       "price": "medium",
       "rating": 4.6,
@@ -1886,12 +1878,17 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/bruksel/le-mort-subite.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "name_en": "A La Mort Subite",
+      "description_en": "A Belle Époque brasserie where time has stopped with unchanged wooden tables and chairs, mirrors and brass accents since 1910. Their namesake 'Mort Subite' (Sudden Death) lambic beer is produced here. A legendary spot also frequented by Jacques Brel.",
+      "tips_en": "Drink their own beer 'Mort Subite' (Sudden Death).",
+      "lat": 50.849,
+      "lng": 4.3575
     },
     {
       "name": "Le Pré Salé",
       "area": "Sainte-Catherine",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "midye",
         "eski",
@@ -1911,7 +1908,7 @@
     },
     {
       "name": "Le Roi des Mouches Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "alternatif",
         "modern",
@@ -1948,7 +1945,7 @@
     },
     {
       "name": "Lincoln Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "kovboy",
         "huysuz",
@@ -1967,7 +1964,7 @@
     {
       "name": "Lucky Luke Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "red kit",
         "daltonlar",
@@ -2007,7 +2004,7 @@
     {
       "name": "Madame Chapeau Statue",
       "area": "Merkez",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "tiyatro",
         "yaşlı kadın",
@@ -2050,7 +2047,7 @@
     {
       "name": "Maison Antoine",
       "area": "Jourdan",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "patates",
         "efsane",
@@ -2090,7 +2087,7 @@
     {
       "name": "Maison Cauchie",
       "area": "Merode",
-      "category": "Mimari",
+      "category": "Tarihi",
       "tags": [
         "sgraffito",
         "cephe",
@@ -2133,7 +2130,7 @@
     {
       "name": "Maison Saint-Cyr",
       "area": "Ambiorix",
-      "category": "Mimari",
+      "category": "Tarihi",
       "tags": [
         "dar",
         "süslü",
@@ -2152,7 +2149,7 @@
     {
       "name": "Makisu",
       "area": "Bailli",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "sushi",
         "hızlı",
@@ -2173,7 +2170,7 @@
     {
       "name": "Manhattn's Burgers",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "burger",
         "new york",
@@ -2195,7 +2192,7 @@
       "name": "Manneken Pis",
       "name_en": "Manneken Pis",
       "area": "Merkez",
-      "category": "Heykel",
+      "category": "Tarihi",
       "tags": [
         "ikonik",
         "küçük",
@@ -2217,7 +2214,7 @@
     },
     {
       "name": "Marché du Midi",
-      "category": "Pazar",
+      "category": "Deneyim",
       "tags": [
         "dev",
         "ucuz",
@@ -2259,7 +2256,7 @@
     },
     {
       "name": "Martine Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "çocuk",
         "klasik",
@@ -2302,7 +2299,7 @@
     {
       "name": "Meise Botanical Garden",
       "area": "Meise",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "botanik",
         "dev",
@@ -2385,7 +2382,7 @@
     {
       "name": "Monsieur Jean Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "modern",
         "şehir",
@@ -2427,7 +2424,7 @@
     },
     {
       "name": "Monument to the Dynasty",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "anıt",
         "kraliyet",
@@ -2490,7 +2487,7 @@
     },
     {
       "name": "Natacha Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "hostes",
         "macera",
@@ -2533,7 +2530,7 @@
     {
       "name": "Nero Mural",
       "area": "Saint-Gery",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "kuş",
         "besleme",
@@ -2551,7 +2548,7 @@
     },
     {
       "name": "Neuhaus - Galerie de la Reine",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "çikolata",
         "pralin",
@@ -2594,7 +2591,7 @@
     {
       "name": "Nona Pizza",
       "area": "Sainte-Catherine",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pizza",
         "napoli",
@@ -2616,7 +2613,7 @@
       "name": "Noordzee - Mer du Nord",
       "name_en": "Noordzee",
       "area": "Sainte-Catherine",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "balık",
         "ayaküstü",
@@ -2639,7 +2636,7 @@
     {
       "name": "Notre Dame du Sablon",
       "area": "Sablon",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "kilise",
         "gotik",
@@ -2660,7 +2657,7 @@
     {
       "name": "Nüetnigenough",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yerel",
         "bira",
@@ -2699,7 +2696,7 @@
     },
     {
       "name": "Odilon Verjus Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "rahip",
         "misyoner",
@@ -2718,7 +2715,7 @@
     {
       "name": "Old City Wall",
       "area": "Merkez",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "duvar",
         "ortaçağ",
@@ -2738,7 +2735,7 @@
     },
     {
       "name": "Pannenhuis Metro Station",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "fütüristik",
         "turuncu",
@@ -2861,7 +2858,7 @@
     },
     {
       "name": "Passe-Moi L'Ciel Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "cennet",
         "komik",
@@ -2927,7 +2924,7 @@
     },
     {
       "name": "Pierre Marcolini - Sablon",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "çikolata",
         "lüks",
@@ -2946,7 +2943,7 @@
     {
       "name": "Place Flagey",
       "area": "Ixelles",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "gölet",
         "kültür",
@@ -2964,7 +2961,7 @@
     },
     {
       "name": "Place Jourdan Market",
-      "category": "Pazar",
+      "category": "Deneyim",
       "tags": [
         "yemek",
         "pazar",
@@ -3004,7 +3001,7 @@
     {
       "name": "Place Saint-Géry",
       "area": "Merkez",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "gece hayatı",
         "tarihi",
@@ -3024,7 +3021,7 @@
       "name": "Place Sainte-Catherine",
       "name_en": "St. Catherine Square",
       "area": "Sainte-Catherine",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "balık",
         "kilise",
@@ -3047,7 +3044,7 @@
     {
       "name": "Place du Châtelain",
       "area": "Ixelles",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "pazar",
         "çarşamba",
@@ -3067,7 +3064,7 @@
       "name": "Place du Grand Sablon",
       "name_en": "Grand Sablon Square",
       "area": "Sablon",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "antika",
         "şık",
@@ -3108,7 +3105,7 @@
     },
     {
       "name": "Porte de Hal Metro Art",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "schuiten",
         "tramvay",
@@ -3144,7 +3141,7 @@
     },
     {
       "name": "Quick & Flupke Mural",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "yaramaz",
         "polis",
@@ -3163,7 +3160,7 @@
     {
       "name": "Ric Hochet Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "dedektif",
         "aksiyon",
@@ -3199,7 +3196,7 @@
     },
     {
       "name": "Rouge-Cloître",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "manastır",
         "orman",
@@ -3264,7 +3261,7 @@
       "name": "Royal Palace of Brussels",
       "name_en": "Royal Palace",
       "area": "Kraliyet Parkı",
-      "category": "Saray",
+      "category": "Tarihi",
       "tags": [
         "kraliyet",
         "lüks",
@@ -3308,7 +3305,7 @@
     {
       "name": "Smurfs Mural (Putterie)",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "şirinler",
         "tavan",
@@ -3326,7 +3323,7 @@
     },
     {
       "name": "Spike and Suzy Mural (Bob et Bobette)",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "aile",
         "macera",
@@ -3345,7 +3342,7 @@
     {
       "name": "Spirou Mural",
       "area": "Marolles",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "belboy",
         "sincap",
@@ -3427,7 +3424,7 @@
     },
     {
       "name": "Statue of Brabant",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "heykel",
         "park",
@@ -3446,7 +3443,7 @@
     {
       "name": "Statue of Everard t'Serclaes",
       "area": "Grand Place",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "heykel",
         "şans",
@@ -3466,7 +3463,7 @@
     },
     {
       "name": "Stockel Metro Station",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "tenten",
         "karakter",
@@ -3509,7 +3506,7 @@
     {
       "name": "Thorgal Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "viking",
         "fantastik",
@@ -3529,7 +3526,7 @@
       "name": "Tintin Comic Mural",
       "name_en": "Tintin Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "sokak sanatı",
         "tenten",
@@ -3552,7 +3549,7 @@
     {
       "name": "Tintin and Captain Haddock Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "tenten",
         "ünlü",
@@ -3613,7 +3610,7 @@
     {
       "name": "Victor Sackville Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "casus",
         "1. dünya savaşı",
@@ -3651,7 +3648,7 @@
     {
       "name": "Wolf Sharing Food Market",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yemek pazarı",
         "çeşit",
@@ -3690,7 +3687,7 @@
     {
       "name": "XIII Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "aksiyon",
         "gizemi",
@@ -3709,7 +3706,7 @@
     {
       "name": "Yi Chan",
       "area": "Bourse",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "asya",
         "kokteyl",
@@ -3728,7 +3725,7 @@
     {
       "name": "Yoko Tsuno Mural",
       "area": "Merkez",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "bilim kurgu",
         "japon",
@@ -3748,7 +3745,7 @@
       "name": "Zinneke Pis",
       "name_en": "Zinneke Pis",
       "area": "Dansaert",
-      "category": "Heykel",
+      "category": "Tarihi",
       "tags": [
         "köpek",
         "işeyen",
@@ -3765,30 +3762,6 @@
       "tips_en": "Can be missed as it is on a street corner.",
       "id": "zinneke-pis",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/bruksel/zinneke-pis.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "À La Mort Subite",
-      "name_en": "A La Mort Subite",
-      "area": "Merkez",
-      "category": "Bar",
-      "tags": [
-        "tarihi",
-        "bira",
-        "nostalji"
-      ],
-      "lat": 50.849,
-      "lng": 4.3575,
-      "price": "medium",
-      "rating": 4.5,
-      "description": "1910'dan beri değişmemiş ahşap masa ve sandalyeleri, aynaları ve pirinc aksanlarıyla zamanın durduğu bir Belle Époque brasseriesi. Kendi adını taşıyan 'Mort Subite' (Ani Ölüm) lambic birası burada üretilir. Jacques Brel'in de uğradığı efsanevi mekan.",
-      "description_en": "A Belle Époque brasserie where time has stopped with unchanged wooden tables and chairs, mirrors and brass accents since 1910. Their namesake 'Mort Subite' (Sudden Death) lambic beer is produced here. A legendary spot also frequented by Jacques Brel.",
-      "bestTime": "Öğle",
-      "tips": "Kendi biraları olan 'Mort Subite' (Ani Ölüm) içilir.",
-      "tips_en": "Drink their own beer 'Mort Subite' (Sudden Death).",
-      "id": "a-la-mort-subite",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/bruksel/a-la-mort-subite.jpg",
       "source": "firebase",
       "distanceFromCenter": 1.0
     }

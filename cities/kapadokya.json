@@ -111,7 +111,7 @@
       "name": "Ansia Hotel",
       "name_en": "Ansia Hotel",
       "area": "Uçhisar",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "konfor",
         "temiz",
@@ -159,7 +159,7 @@
       "name": "Aravan Evi",
       "name_en": "Aravan Evi",
       "area": "Ayvalı",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yemek kursu",
         "tandır",
@@ -455,7 +455,7 @@
       "name": "Babayan Evi",
       "name_en": "Babayan Evi",
       "area": "İbrahimpaşa",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "köy",
         "sessiz",
@@ -479,7 +479,7 @@
       "name": "Baglidere Valley",
       "name_en": "Bağlıdere Valley (Love Valley 2)",
       "area": "Uçhisar",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "vadi",
         "yürüyüş",
@@ -527,7 +527,7 @@
       "name": "Belisirma Village",
       "name_en": "Belisırma Village",
       "area": "Ihlara",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "nehir",
         "öğle yemeği",
@@ -693,7 +693,7 @@
       "name": "Cappadocia Cave Suites",
       "name_en": "Cappadocia Cave Suites",
       "area": "Göreme",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "mağara",
         "peri bacası",
@@ -716,7 +716,7 @@
     {
       "name": "Cappadocian Cuisine",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "göreme",
@@ -865,7 +865,7 @@
       "name": "Crowne Plaza Nevsehir",
       "name_en": "Crowne Plaza Nevşehir",
       "area": "Nevşehir",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "otel",
         "şehir",
@@ -889,7 +889,7 @@
       "name": "Damsa Dam",
       "name_en": "Damsa Dam Lake",
       "area": "Mustafapaşa",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "göl",
         "piknik",
@@ -988,7 +988,7 @@
     {
       "name": "Dibek Restaurant",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "göreme",
@@ -1039,7 +1039,7 @@
       "name": "DoubleTree Hilton Avanos",
       "name_en": "DoubleTree by Hilton Avanos",
       "area": "Avanos",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "otel",
         "zincir",
@@ -1063,7 +1063,7 @@
       "name": "Ehlikeyif",
       "name_en": "Ehlikeyif Restaurant",
       "area": "Ürgüp",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "canlı müzik",
         "meze",
@@ -1110,12 +1110,15 @@
     {
       "name": "Elai Restaurant",
       "area": "Ürgüp",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
-        "ürgüp",
+        "otel",
+        "lüks",
+        "restoran",
         "kapadokya",
-        "restoran"
+        "ürgüp",
+        "gurme"
       ],
       "distanceFromCenter": 0,
       "lat": 38.6308635,
@@ -1131,7 +1134,8 @@
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kapadokya/elai_restaurant.jpg",
       "tips": "Nakite hazırlıklı olun, bazı yerel yerler kart kabul etmeyebilir.",
       "description_en": "Located in the shadow of Uçhisar Castle, Elai is one of the first gourmet restaurants in Cappadocia. You can taste the fusion flavors of French and Cappadocian cuisine by the fireplace or on the terrace. If you make a reservation at sunset, you can enjoy the view.",
-      "tips_en": "Be prepared with cash, some local places might not accept cards."
+      "tips_en": "Be prepared with cash, some local places might not accept cards.",
+      "name_en": "Lil'a Restaurant"
     },
     {
       "name": "Eleni Church",
@@ -1235,7 +1239,7 @@
       "name": "Fat Boys",
       "name_en": "Fat Boys Restaurant",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "cafe",
         "burger",
@@ -1285,7 +1289,7 @@
       "name": "Firin Express",
       "name_en": "Fırın Express",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pide",
         "ekonomik",
@@ -1407,7 +1411,7 @@
       "name": "Gomeda Valley",
       "name_en": "Gomeda Valley",
       "area": "Mustafapaşa",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "vadi",
         "yürüyüş",
@@ -1431,7 +1435,7 @@
       "name": "Goreme Kaya Hotel",
       "name_en": "Göreme Kaya Hotel",
       "area": "Göreme",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "otel",
         "ilk",
@@ -1503,7 +1507,7 @@
       "name": "Gorkundere Valley",
       "name_en": "Görkundere Valley",
       "area": "Göreme",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "vadi",
         "fotoğraf",
@@ -1777,7 +1781,7 @@
       "name": "House of Memories",
       "name_en": "House of Memories",
       "area": "Uçhisar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "et",
         "kalite",
@@ -1851,7 +1855,7 @@
       "name": "Inci Cave Restaurant",
       "name_en": "İnci Cave Restaurant",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "mağara",
         "et",
@@ -1923,7 +1927,7 @@
       "name": "Kadineli Restaurant",
       "name_en": "Kadıneli Restaurant",
       "area": "Uçhisar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kooperatif",
         "kadın",
@@ -1947,7 +1951,7 @@
       "name": "Kadirs Cave",
       "name_en": "Kadir's Cave",
       "area": "Göreme",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "hostel",
         "gezgin",
@@ -2072,7 +2076,7 @@
     {
       "name": "Kebapzade",
       "area": "Ürgüp",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "ürgüp",
@@ -2099,7 +2103,7 @@
       "name": "Kelebek Special Cave",
       "name_en": "Kelebek Special Cave Hotel",
       "area": "Göreme",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "havuz",
         "hamam",
@@ -2219,7 +2223,7 @@
       "name": "Kiliclar Valley",
       "name_en": "Kılıçlar Valley (Swords Valley)",
       "area": "Göreme",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "vadi",
         "atv",
@@ -2363,7 +2367,7 @@
       "name": "Koza Cave Hotel",
       "name_en": "Koza Cave Hotel",
       "area": "Göreme",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "eko",
         "teras",
@@ -2412,7 +2416,7 @@
     {
       "name": "Lil'a Restaurant",
       "area": "Ürgüp",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "ürgüp",
@@ -2436,34 +2440,10 @@
       "tips_en": "Be prepared with cash, some local places might not accept cards."
     },
     {
-      "name": "Lila Restaurant",
-      "name_en": "Lil'a Restaurant",
-      "area": "Uçhisar",
-      "category": "Restoran",
-      "tags": [
-        "lüks",
-        "otel",
-        "gurme"
-      ],
-      "lat": 38.63,
-      "lng": 34.805,
-      "price": "very_high",
-      "rating": 4.6,
-      "description": "Museum Hotel bünyesinde hizmet veren Lil'a, Relais & Châteaux üyesi tek restorandır. Ödüllü şeflerin elinden çıkan Anadolu mutfağının en seçkin örneklerini, güvercinlerin uçuştuğu vadilere bakarak deneyimleyebilirsiniz.",
-      "description_en": "Serving within Museum Hotel, Lil'a is the only Relais & Châteaux member restaurant. You can experience the most exclusive examples of Anatolan cuisine created by award-winning chefs while looking at the valleys where pigeons fly.",
-      "bestTime": "Akşam",
-      "tips": "Bölgenin en iyi fine dining deneyimlerinden biridir.",
-      "tips_en": "One of best fine dining experiences in region.",
-      "id": "lila-restaurant",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kapadokya/lila-restaurant.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
-    },
-    {
       "name": "Loggers Cave Restaurant",
       "name_en": "Loggers Cave Restaurant",
       "area": "Dalkılıç",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "mağara",
         "türk",
@@ -2609,7 +2589,7 @@
       "name": "Millocal Restaurant",
       "name_en": "Millocal Restaurant",
       "area": "Uçhisar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "manzara",
         "gurme",
@@ -2633,7 +2613,7 @@
       "name": "Mithra Cave Hotel",
       "name_en": "Mithra Cave Hotel",
       "area": "Göreme",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "teras",
         "fotoğraf",
@@ -2753,7 +2733,7 @@
       "name": "Narligol",
       "name_en": "Narlıgöl Crater Lake",
       "area": "Aksaray",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "göl",
         "krater",
@@ -2849,7 +2829,7 @@
       "name": "Nostalji Restaurant",
       "name_en": "Nostalji Restaurant",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "manzara",
         "geniş",
@@ -2895,7 +2875,7 @@
       "name": "Old Cappadocia Cafe",
       "name_en": "Old Cappadocia Cafe & Restaurant",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "türk",
         "geleneksel",
@@ -2918,7 +2898,7 @@
     {
       "name": "Old Greek House",
       "area": "Mustafapaşa",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "mustafapaşa",
@@ -2945,7 +2925,7 @@
       "name": "Omurca Art Cave",
       "name_en": "Omurca Art Cave",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "sanat",
         "şarap",
@@ -3069,7 +3049,7 @@
       "name": "Pancarlik Valley",
       "name_en": "Pancarlık Valley",
       "area": "Ürgüp",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "vadi",
         "yürüyüş",
@@ -3119,7 +3099,7 @@
       "name": "Petra Inn",
       "name_en": "Petra Inn",
       "area": "Uçhisar",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "butik",
         "teras",
@@ -3143,7 +3123,7 @@
       "name": "Prokopi Restaurant",
       "name_en": "Prokopi Restaurant",
       "area": "Ürgüp",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "gurme",
         "manzara",
@@ -3166,7 +3146,7 @@
     {
       "name": "Pumpkin Goreme",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "göreme",
@@ -3193,7 +3173,7 @@
       "name": "Pumpkin Goreme Restaurant",
       "name_en": "Pumpkin Göreme Restaurant",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "butik",
         "organik",
@@ -3269,16 +3249,19 @@
       "area": "Ortahisar",
       "category": "Manzara",
       "tags": [
-        "gün batımı",
+        "kalabalık",
+        "kilise",
+        "doğa",
         "şarap",
-        "kalabalık"
+        "yürüyüş",
+        "gün batımı"
       ],
       "lat": 38.655,
       "lng": 34.86,
       "price": "low",
       "rating": 4.8,
-      "description": "Kapadokya'da gün batımının en görkemli izlendiği noktadır. Güneş batarken vadiyi kızıla boyayan ışık oyunları, burayı fotoğrafçılar ve romantik anlar yaşamak isteyenler için vazgeçilmez kılar.",
-      "description_en": "It is the point where the sunset is watched most magnificently in Cappadocia. The light plays that paint the valley red as the sun sets make this place indispensable for photographers and those who want to experience romantic moments.",
+      "description": "Güllüdere Vadisi, peribacalarının renklerinin gün ışığına göre değiştiği, pastel tonların hakim olduğu büyüleyici bir yerdir. Özellikle dolunay gecelerinde yapılan yürüyüş turlarıyla bilinir ve mistik bir atmosfer sunar.",
+      "description_en": "Güllüdere Valley is a fascinating place dominated by pastel tones, where the colors of the fairy chimneys change according to the sunlight. It is especially known for walking tours held on full moon nights and offers a mystical atmosphere.",
       "bestTime": "Gün batımı",
       "tips": "Yer bulmak için güneş batmadan 1 saat önce gidin.",
       "tips_en": "Go 1 hour before sunset to find a spot.",
@@ -3315,7 +3298,7 @@
       "name": "Reserved Restaurant",
       "name_en": "Reserved Restaurant",
       "area": "Uçhisar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "modern",
         "füzyon",
@@ -3339,7 +3322,7 @@
       "name": "Revithia",
       "name_en": "Revithia",
       "area": "Ürgüp",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "fine dining",
         "tadım menüsü",
@@ -3356,30 +3339,6 @@
       "tips_en": "Go for a complete gastronomy journey.",
       "id": "revithia",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kapadokya/revithia.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
-    },
-    {
-      "name": "Rose Valley Viewpoint",
-      "name_en": "Güllüdere Valley Point",
-      "area": "Göreme",
-      "category": "Manzara",
-      "tags": [
-        "yürüyüş",
-        "kilise",
-        "doğa"
-      ],
-      "lat": 38.65,
-      "lng": 34.85,
-      "price": "free",
-      "rating": 4.7,
-      "description": "Güllüdere Vadisi, peribacalarının renklerinin gün ışığına göre değiştiği, pastel tonların hakim olduğu büyüleyici bir yerdir. Özellikle dolunay gecelerinde yapılan yürüyüş turlarıyla bilinir ve mistik bir atmosfer sunar.",
-      "description_en": "Güllüdere Valley is a fascinating place dominated by pastel tones, where the colors of the fairy chimneys change according to the sunlight. It is especially known for walking tours held on full moon nights and offers a mystical atmosphere.",
-      "bestTime": "Akşam",
-      "tips": "Dolunay turlarına katılmayı deneyin.",
-      "tips_en": "Try joining full moon tours.",
-      "id": "güllüdere-valley-point",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kapadokya/güllüdere-valley-point.jpg",
       "source": "firebase",
       "distanceFromCenter": 0.5
     },
@@ -3459,7 +3418,7 @@
       "name": "Sakli Konak",
       "name_en": "Saklı Konak",
       "area": "Uçhisar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "avlu",
         "sessiz",
@@ -3534,6 +3493,7 @@
       "category": "Tarihi",
       "tags": [
         "kervansaray",
+        "en büyük",
         "selçuklu",
         "derviş"
       ],
@@ -3541,8 +3501,8 @@
       "lng": 34.91,
       "price": "medium",
       "rating": 4.6,
-      "description": "İpek Yolu üzerindeki bu görkemli Selçuklu kervansarayı, sarı taşlarıyla dikkat çeker. Günümüzde restore edilmiştir ve her akşam düzenlenen Semazen gösterileriyle mistik bir atmosfere bürünür.",
-      "description_en": "Located on the Silk Road, this magnificent Seljuk caravanserai stands out with its yellow stones. Now restored, it takes on a mystical atmosphere with Whirling Dervish shows held every evening.",
+      "description": "Anadolu Selçuklu mimarisinin en görkemli örneği olan Sultanhanı, Aksaray-Konya yolu üzerinde yükselir. Devasa mermer taç kapısı, geniş avlusu ve kışlık salonundaki taş süslemelerle ziyaretçilerini yüzyıllar öncesine götürür.",
+      "description_en": "The most magnificent example of Anatolian Seljuk architecture, Sultanhanı rises on the Aksaray-Konya road. It takes its visitors back centuries with its massive marble crown gate, large courtyard, and stone decorations in its winter hall.",
       "bestTime": "Akşam",
       "tips": "Semazen gösterisi için bilet almalısınız.",
       "tips_en": "Must buy tickets for Whirling Dervish show.",
@@ -3555,7 +3515,7 @@
       "name": "Saruhan Exhibition",
       "name_en": "Saruhan Exhibition Hall",
       "area": "Avanos",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "sergi",
         "kültür",
@@ -3605,7 +3565,7 @@
       "name": "Sedef Restaurant",
       "name_en": "Sedef Restaurant",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "testi kebabı",
         "yerel",
@@ -3624,32 +3584,6 @@
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kapadokya/sedef-restaurant.jpg",
       "source": "firebase",
       "distanceFromCenter": 0.5
-    },
-    {
-      "name": "Seki Restaurant",
-      "area": "Ürgüp",
-      "category": "Restoran",
-      "subcategory": "Restoran",
-      "tags": [
-        "ürgüp",
-        "kapadokya",
-        "restoran"
-      ],
-      "distanceFromCenter": 0,
-      "lat": 38.6295364,
-      "lng": 34.8066596,
-      "price": "medium",
-      "rating": 4.4,
-      "description": "Argos in Cappadocia otelinin bünyesindeki Seki, Güvercinlik Vadisi'ne bakan muhteşem manzarasıyla büyüleyicidir. Kendi bağlarından gelen şarapları ve modern yorumlanmış Anadolu mutfağıyla romantik bir akşam yemeği için idealdir.",
-      "bestTime": "Öğleden sonra",
-      "bestFor": [
-        "herkes"
-      ],
-      "source": "google",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kapadokya/seki_restaurant.jpg",
-      "tips": "Öğle yemeği menüleri genellikle akşamdan daha uygundur.",
-      "description_en": "Located within Argos in Cappadocia hotel, Seki charms with its magnificent view overlooking Pigeon Valley. It is ideal for a romantic dinner with wines from its own vineyards and modern interpretations of Anatolian cuisine.",
-      "tips_en": "Lunch menus are usually cheaper than dinner."
     },
     {
       "name": "Selime Monastery",
@@ -3679,7 +3613,7 @@
       "name": "Seten Anatolian Cuisine",
       "name_en": "Seten Anatolian Cuisine",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "gurme",
         "yöresel",
@@ -3897,7 +3831,7 @@
       "name": "Suhan Cappadocia",
       "name_en": "Suhan Cappadocia Hotel",
       "area": "Avanos",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "otel",
         "lüks",
@@ -3947,7 +3881,7 @@
       "name": "Sultan Cave Suites",
       "name_en": "Sultan Cave Suites",
       "area": "Göreme",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "ünlü",
         "teras",
@@ -3964,30 +3898,6 @@
       "tips_en": "Hard to find seat at breakfast, being hotel guest is advantage.",
       "id": "sultan-cave-suites",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kapadokya/sultan-cave-suites.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
-    },
-    {
-      "name": "Sultanhan Caravanserai",
-      "name_en": "Sultanhanı Caravanserai",
-      "area": "Aksaray",
-      "category": "Tarihi",
-      "tags": [
-        "kervansaray",
-        "en büyük",
-        "selçuklu"
-      ],
-      "lat": 38.24,
-      "lng": 33.55,
-      "price": "medium",
-      "rating": 4.8,
-      "description": "Anadolu Selçuklu mimarisinin en görkemli örneği olan Sultanhanı, Aksaray-Konya yolu üzerinde yükselir. Devasa mermer taç kapısı, geniş avlusu ve kışlık salonundaki taş süslemelerle ziyaretçilerini yüzyıllar öncesine götürür.",
-      "description_en": "The most magnificent example of Anatolian Seljuk architecture, Sultanhanı rises on the Aksaray-Konya road. It takes its visitors back centuries with its massive marble crown gate, large courtyard, and stone decorations in its winter hall.",
-      "bestTime": "Gündüz",
-      "tips": "Aksaray-Konya yolu üzerindedir.",
-      "tips_en": "Located on Aksaray-Konya road.",
-      "id": "sultanhanı-caravanserai",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kapadokya/sultanhanı-caravanserai.jpg",
       "source": "firebase",
       "distanceFromCenter": 0.5
     },
@@ -4045,7 +3955,7 @@
       "name": "Taskonaklar",
       "name_en": "Taşkonaklar Hotel",
       "area": "Uçhisar",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "butik",
         "romantik",
@@ -4188,7 +4098,7 @@
     {
       "name": "Topdeck Cave Restaurant",
       "area": "Göreme",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "göreme",
@@ -4265,7 +4175,7 @@
       "name": "Uchisar Kaya Otel",
       "name_en": "Uçhisar Kaya Otel",
       "area": "Uçhisar",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "otel",
         "havuz",
@@ -4313,7 +4223,7 @@
       "name": "Uranos Sarikaya Restaurant",
       "name_en": "Uranos Sarıkaya Restaurant",
       "area": "Avanos",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yeraltı",
         "mağara",
@@ -4383,7 +4293,7 @@
       "name": "Uzengi Valley",
       "name_en": "Üzengi Valley",
       "area": "Ürgüp",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "vadi",
         "piknik",
@@ -4603,7 +4513,7 @@
       "name": "Zemi Valley",
       "name_en": "Zemi Valley",
       "area": "Göreme",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "vadi",
         "yürüyüş",
@@ -4650,7 +4560,7 @@
     {
       "name": "Ziggy's Shoppe",
       "area": "Ürgüp",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "ürgüp",

@@ -11,7 +11,7 @@
     {
       "name": "7 Portes",
       "area": "Barceloneta",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Katalan",
       "tags": [
         "paella",
@@ -38,7 +38,7 @@
     {
       "id": "gen_ChIJZ45huwCjpBIRA2de0hBdZAg",
       "name": "ABANIC",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer del Rosselló",
       "description": "Eixample'de modern dokunuşlarla geleneksel İspanyol ve Akdeniz mutfağı sunan şık bir restoran. Ahtapot paella ve morina balığı favorilerden.",
       "description_en": "A stylish restaurant in Eixample offering traditional Spanish and Mediterranean cuisine with modern touches. Octopus paella and cod serve as favorites.",
@@ -62,7 +62,7 @@
     {
       "name": "ABaC",
       "area": "Tibidabo",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Fine Dining",
       "tags": [
         "3 michelin",
@@ -113,26 +113,27 @@
     {
       "id": "gen_ChIJPXuu11-ZpBIRXo7wTS2MwR0",
       "name": "Aflamas Restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Loreto",
-      "description": "Açık ateşte pişirme tekniğiyle öne çıkan modern fine dining. Ördek magret ve tadım menüsü çok beğeniliyor.",
-      "description_en": "Modern fine dining focusing on open-flame cooking. Duck magret and tasting menus are highly rated.",
+      "description": "Gotik Mahalle'de gizli bir cevher. Süt domuzu ve ton balıklı kroketleri ile modern Akdeniz lezzetleri sunuyor.",
+      "description_en": "A hidden gem in the Gothic Quarter. Offering modern Mediterranean flavors with suckling pig and tuna croquettes.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/aflamas_restaurant.jpg",
       "location": "Carrer de Loreto, 32, Baixos, 2a, Les Corts, 08029 Barcelona, İspanya",
       "lat": 41.3902278,
       "lng": 2.1422968,
       "rating": 4.8,
-      "reviewCount": 1253,
+      "reviewCount": 1609,
       "price": "medium",
       "website": "https://aflamas.com/",
       "tags": [
         "restoran",
-        "popüler",
-        "keşfet"
+        "keşfet",
+        "popüler"
       ],
       "distanceFromCenter": 1.5,
       "tips": "Öğle yemeği menüleri genellikle akşamdan daha uygundur.",
-      "tips_en": "Lunch menus are usually cheaper than dinner."
+      "tips_en": "Lunch menus are usually cheaper than dinner.",
+      "name_en": "Amades Restaurant"
     },
     {
       "id": "gen_ChIJvaXrXPqipBIRFkfZO5V1RjI",
@@ -161,7 +162,7 @@
     {
       "id": "gen_ChIJuSucRvmjpBIR_y46jUvkZCw",
       "name": "Aldea Cocktail Bar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de l'Esparteria",
       "description": "El Born'da mistik bir cenote atmosferine sahip kokteyl barı. Yaratıcı ve sanatsal kokteylleriyle ünlü.",
       "description_en": "Cocktail bar in El Born with a mystical cenote atmosphere. Famous for creative and artistic cocktails.",
@@ -175,30 +176,6 @@
       "website": "https://www.aldeabar.com/",
       "tags": [
         "bar",
-        "popüler",
-        "keşfet"
-      ],
-      "distanceFromCenter": 1.5,
-      "tips": "Şefin spesiyal tabağını sormaktan çekinmeyin.",
-      "tips_en": "Don't hesitate to ask for the chef's special."
-    },
-    {
-      "id": "gen_ChIJSwkRFKGjpBIRvuaV6WtgXg4",
-      "name": "Amades Restaurant",
-      "category": "Restoran",
-      "area": "Carrer dels Banys Nous",
-      "description": "Gotik Mahalle'de gizli bir cevher. Süt domuzu ve ton balıklı kroketleri ile modern Akdeniz lezzetleri sunuyor.",
-      "description_en": "A hidden gem in the Gothic Quarter. Offering modern Mediterranean flavors with suckling pig and tuna croquettes.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/amades_restaurant.jpg",
-      "location": "Carrer dels Banys Nous, 8, Local, Ciutat Vella, 08002 Barcelona, İspanya",
-      "lat": 41.3822053,
-      "lng": 2.1751533,
-      "rating": 4.8,
-      "reviewCount": 1609,
-      "price": "medium",
-      "website": "https://www.instagram.com/amadesrestaurant/",
-      "tags": [
-        "restoran",
         "popüler",
         "keşfet"
       ],
@@ -236,7 +213,7 @@
     {
       "id": "gen_ChIJ4zScjHejpBIRLLM6qL401Zw",
       "name": "Artesano Panadería y Pastelería",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Sardenya",
       "description": "Uygun fiyatlı ve doyurucu tarçınlı çörekleri ve el yapımı pastalarıyla sevilen Venezuela kökenli fırın.",
       "description_en": "Venezuelan-origin bakery loved for affordable and filling cinnamon rolls and handmade pastries.",
@@ -308,7 +285,7 @@
     {
       "id": "gen_ChIJ03aWNACjpBIRhDX9Zb9g-LI",
       "name": "BAR ROSA BARCELONA",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Floridablanca",
       "description": "Sant Antoni'de modern ve sıcak atmosferli kokteyl barı. İş çıkışı ve özel kutlamalar için ideal.",
       "description_en": "Modern and warm cocktail bar in Sant Antoni. Ideal for after-work and special celebrations.",
@@ -356,7 +333,7 @@
     {
       "id": "gen_ChIJef1HPBWjpBIRnbC1J-cB5W8",
       "name": "BODEGA OLIVA",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer del Vidre",
       "description": "Gotik Mahalle'de otantik tapas deneyimi sunan küçük ve samimi bar. Morina ve chorizo sandviçi denenmeli.",
       "description_en": "Small and intimate bar offering authentic tapas experience in Gothic Quarter. Cod and chorizo sandwich are must-try.",
@@ -380,7 +357,7 @@
     {
       "id": "gen_ChIJCVgmm52jpBIRdJ87YMcZs1g",
       "name": "BRASA GAUCHA GRILL",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Margarit",
       "description": "Sants-Montjuïc'te Arjantin usulü steakhouse. Mükemmel pişmiş etleri ve empanadaları ile meşhur.",
       "description_en": "Argentine style steakhouse in Sants-Montjuïc. Famous for perfectly cooked meats and empanadas.",
@@ -404,7 +381,7 @@
     {
       "id": "gen_ChIJiRWw0MqjpBIRZXx4p1dnAck",
       "name": "Back to back Cafè d'Especialitat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Ramon Turró",
       "description": "Specialty kahve tutkunlarının adresi. Tek kökenli kahveler, ustaca kavurma ve latte art. Kahve kültürünün zirvesi.",
       "description_en": "Address for specialty coffee enthusiasts. Single origin coffees, masterful roasting and latte art. Peak of coffee culture.",
@@ -455,7 +432,7 @@
     {
       "name": "Bar Calders",
       "area": "Sant Antoni",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Vermouth",
       "tags": [
         "vermouth",
@@ -482,7 +459,7 @@
     {
       "name": "Bar Cañete",
       "area": "El Raval",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Tapas",
       "tags": [
         "tapas",
@@ -509,7 +486,7 @@
     {
       "name": "Bar del Pla",
       "area": "El Born",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Tapas",
       "tags": [
         "tapas",
@@ -588,34 +565,8 @@
       "bestTime_en": "Morning"
     },
     {
-      "name": "Barceloneta Beach",
-      "area": "Barceloneta",
-      "category": "Plaj",
-      "subcategory": "Sahil",
-      "tags": [
-        "deniz",
-        "güneş",
-        "spor"
-      ],
-      "distanceFromCenter": 1.5,
-      "lat": 41.3758,
-      "lng": 2.19,
-      "price": "low",
-      "rating": 4.5,
-      "description": "Şehir merkezine en yakın ve en canlı plaj. Akdeniz güneşinin, sahil yürüyüşlerinin ve 'chiringuito' adı verilen plaj barlarının keyfini sürün.",
-      "bestTime": "Sabah veya gün batımı",
-      "bestFor": [
-        "herkes"
-      ],
-      "source": "local",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/barceloneta_beach.jpg",
-      "tips": "Yanınıza bir örtü alıp çimlerde piknik yapabilirsiniz.",
-      "description_en": "The liveliest beach closest to the city center. Enjoy the Mediterranean sun, seaside walks, and beach bars called 'chiringuitos'.",
-      "tips_en": "Bring a blanket and have a picnic on the grass.",
-      "bestTime_en": "Morning or sunset"
-    },
-    {
       "name": "Barceloneta Mahallesi",
+      "name_en": "Barceloneta Neighborhood",
       "area": "Barceloneta",
       "category": "Deneyim",
       "subcategory": "Sahil",
@@ -772,7 +723,7 @@
     {
       "id": "gen_ChIJ99-fqTujpBIR_1f5H30YaQo",
       "name": "Bistro Sagrada",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de la Marina",
       "description": "Sagrada Familia yakınında modern Akdeniz mutfağı sunan sıcak bir restoran. Deniz mahsullü paellası, ızgara kuzu pirzolası ve taze malzemeli tapaslarıyla hem turistlerin hem de yerel halkın beğenisini kazanıyor.",
       "description_en": "Warm restaurant offering modern Mediterranean cuisine near Sagrada Familia. Acclaimed by tourists and locals alike for its seafood paella, grilled lamb chops, and fresh tapas.",
@@ -796,7 +747,7 @@
     {
       "name": "Bitter Cocktail Bar",
       "area": "Sant Antoni",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Kokteyl",
       "tags": [
         "kokteyl",
@@ -823,7 +774,7 @@
     {
       "id": "gen_ChIJz03MMYCjpBIRe1oNMf6VJOM",
       "name": "Bloome By Sasha | Brunch Sin Gluten Gótico",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Via Laietana",
       "description": "Gothic Quarter'da, tamamen glütensiz menüsüyle öne çıkan şık bir brunch mekanı. Çiçeksi dekorasyonu, Eggs Benedict yorumları (Los Benedict) ve kakaolu pankekleriyle görsel ve lezzetli bir şölen sunuyor.",
       "description_en": "Stylish brunch spot in the Gothic Quarter known for its 100% gluten-free menu. Offers a visual and tasty feast with floral decor, interpreted Eggs Benedict (Los Benedict), and cocoa pancakes.",
@@ -875,7 +826,7 @@
     {
       "id": "gen_ChIJA-c18FeipBIRw8n-UGwjVLk",
       "name": "Bodega Biarritz 1881",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer Nou de Sant Francesc",
       "description": "Charming restaurant presenting traditional small plates & drinks in a rustic setting.",
       "description_en": "Charming restaurant presenting traditional small plates & drinks in a rustic setting.",
@@ -897,51 +848,26 @@
       "tips_en": "We recommend trying local wines."
     },
     {
-      "name": "Bogatell Beach",
-      "area": "Poblenou",
-      "category": "Plaj",
-      "subcategory": "Spor Plajı",
-      "tags": [
-        "voleybol",
-        "daha az kalabalık",
-        "spor"
-      ],
-      "distanceFromCenter": 2.5,
-      "lat": 41.3952,
-      "lng": 2.2068,
-      "price": "low",
-      "rating": 4.5,
-      "description": "Bogatell Beach, güneşin ve denizin tadını çıkarmak isteyenler için mükemmel bir kaçış noktası. Temiz kumsalı ve ferah atmosferiyle yaz günlerinin vazgeçilmez adresi.",
-      "bestTime": "Sabah",
-      "bestFor": [
-        "sporcu"
-      ],
-      "source": "local",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/bogatell_beach.jpg",
-      "tips": "Sabah koşusu veya yoga yapan yerlileri görebilirsiniz.",
-      "description_en": "A cleaner, more local beach than Barceloneta with volleyball courts and a relaxed atmosphere.",
-      "tips_en": "You can see locals jogging or doing yoga in the morning.",
-      "bestTime_en": "Morning"
-    },
-    {
       "name": "Bogatell Plajı",
       "name_en": "Bogatell Beach",
       "area": "Poblenou",
       "category": "Plaj",
       "subcategory": "Manzara",
       "tags": [
-        "plaj",
-        "sakin",
         "spor",
+        "daha az kalabalık",
+        "plaj",
+        "manzara",
+        "voleybol",
         "barcelona",
-        "manzara"
+        "sakin"
       ],
       "distanceFromCenter": 0,
       "lat": 41.3943735,
       "lng": 2.2070109,
       "price": "medium",
       "rating": 4.4,
-      "description": "Bogatell Plajı, Barcelona'nın Poblenou bölgesinde, plaj, sakin, spor atmosferiyle öne çıkan bir manzara noktasıdır.",
+      "description": "Bogatell Beach, güneşin ve denizin tadını çıkarmak isteyenler için mükemmel bir kaçış noktası. Temiz kumsalı ve ferah atmosferiyle yaz günlerinin vazgeçilmez adresi.",
       "bestTime": "Öğleden sonra",
       "bestFor": [
         "herkes"
@@ -949,7 +875,7 @@
       "source": "google",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/bogatell_plaji.jpg",
       "tips": "Gün doğumu burada büyüleyicidir, uykunuzdan feragat etmeye değer.",
-      "description_en": "Bogatell Beach is a quieter beach in the Poblenou district, great for sports.",
+      "description_en": "A cleaner, more local beach than Barceloneta with volleyball courts and a relaxed atmosphere.",
       "tips_en": "Sunrise is magical here, worth sacrificing sleep."
     },
     {
@@ -979,7 +905,7 @@
     {
       "id": "gen_ChIJJ-W4yYmjpBIR7C5-gQPiuc8",
       "name": "Breakfast Club Brunch & Bar – Barcelona",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Viladomat",
       "description": "Tüm gün kahvaltı ve brunch konseptiyle sevilen, samimi bir mekan. Kızarmış tarçınlı French Toast'u ve mango dilimli Eggs Benedict'i ile meşhur.",
       "description_en": "Beloved cozy spot with an all-day breakfast and brunch concept. Famous for deep-fried cinnamon French Toast and Eggs Benedict with mango slices.",
@@ -1003,7 +929,7 @@
     {
       "id": "gen_ChIJ04zRNRqjpBIREtiKOTLPNwM",
       "name": "Btao barcelona",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer dels Escudellers",
       "description": "Şehir merkezinde Asya mutfaklarının sentezini sunan canlı bir restoran. Pad Thai, Tom Yum çorbası ve Hint körileriyle otantik tatlar arayanlar için ideal.",
       "description_en": "Vibrant restaurant in the city center offering a fusion of Asian cuisines. Ideal for those seeking authentic flavors with Pad Thai, Tom Yum soup, and Indian curries.",
@@ -1106,7 +1032,7 @@
     {
       "name": "Cal Pep",
       "area": "El Born",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Deniz Ürünleri",
       "tags": [
         "tapas",
@@ -1160,7 +1086,7 @@
     {
       "name": "Can Culleretes",
       "area": "Gothic Quarter",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Katalan",
       "tags": [
         "1786",
@@ -1187,7 +1113,7 @@
     {
       "name": "Can Paixano (La Xampanyeria)",
       "area": "Barceloneta",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Şampanya Bar",
       "tags": [
         "cava",
@@ -1268,7 +1194,7 @@
     {
       "id": "gen_ChIJcVA_AeyipBIR7AVyApkU0Ow",
       "name": "Casa Amàlia",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Ptge. del Mercat",
       "description": "Innovative dishes based on Catalan traditions & using local market produce, in a hip-rustic space.",
       "description_en": "Innovative dishes based on Catalan traditions & using local market produce, in a hip-rustic space.",
@@ -1319,7 +1245,7 @@
     {
       "name": "Casa Lolea",
       "area": "Gothic Quarter",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Sangria",
       "tags": [
         "sangria",
@@ -1428,7 +1354,7 @@
     {
       "id": "gen_ChIJO9Q5t1-ipBIR6j1w_MTknys",
       "name": "Cera 23",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de la Cera",
       "description": "Rustic setting for artfully plated, creative Spanish cuisine, including a black rice \"volcano.\"",
       "description_en": "Rustic setting for artfully plated, creative Spanish cuisine, including a black rice \"volcano.\"",
@@ -1452,7 +1378,7 @@
     {
       "name": "Cervecería Catalana",
       "area": "Eixample",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Tapas",
       "tags": [
         "tapas",
@@ -1507,7 +1433,7 @@
     {
       "id": "gen_ChIJdXdnMCKjpBIRZZWYXywNKG4",
       "name": "Circolo Popolare Barcelona",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Pg. de Gràcia",
       "description": "Sicilya atmosferini Barcelona'ya taşıyan, Big Mamma grubuna ait popüler İtalyan restoranı. Dev peynir tekerinde karbonara, metrelerce pizza ve şık dekorasyonuyla tam bir İtalyan şöleni.",
       "description_en": "Popular Italian restaurant by Big Mamma group bringing Sicilian atmosphere to Barcelona. A complete Italian feast with carbonara in giant cheese wheels, meter-long pizzas, and stylish decor.",
@@ -1753,7 +1679,7 @@
     {
       "id": "gen_ChIJL3iwTPSjpBIRUSgo5tgpZuU",
       "name": "Desi Galli - Indian Restaurant & Street Food Barcelona",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "C. de Villarroel",
       "description": "Otantik Hint sokak lezzetlerini Barcelona'ya taşıyan canlı bir mekan. Pav Bhaji'si ve samimi atmosferiyle kendinizi Hindistan'da hissettiriyor.",
       "description_en": "Vibrant spot bringing authentic Indian street flavors to Barcelona. Makes you feel in India with its Pav Bhaji and friendly atmosphere.",
@@ -1777,7 +1703,7 @@
     {
       "id": "gen_ChIJJVeNx8OjpBIRfR-fSfmS7Zo",
       "name": "Desoriente | Poblenou Restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Ramon Turró",
       "description": "Poblenou'da 'şaşırtıcı' derecede yenilikçi, bitki bazlı Asya füzyon restoranı. Vegan suşileri ve Jackfruit Bao'su ile vegan olmayanları bile etkiliyor.",
       "description_en": "Surprisingly innovative plant-based Asian fusion restaurant in Poblenou. Impresses even non-vegans with its vegan sushi and Jackfruit Bao.",
@@ -1825,7 +1751,7 @@
     {
       "name": "Disfrutar",
       "area": "Eixample",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Fine Dining",
       "tags": [
         "3 michelin",
@@ -1852,7 +1778,7 @@
     {
       "id": "gen_ChIJP9t20GijpBIRRoc04WuZuwI",
       "name": "Don Asador",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer del Comte d'Urgell",
       "description": "Arjantin etleri konusunda uzmanlaşmış samimi bir restoran. Özellikle 'Vacío' (boşluk) kesim eti ve cömert porsiyonlarıyla et severlerin favorisi.",
       "description_en": "Intimate restaurant specializing in Argentine meats. A favorite for meat lovers with its 'Vacío' cut and generous portions.",
@@ -1954,7 +1880,7 @@
     {
       "id": "gen_ChIJOYA7QzijpBIRg8hVOMpIIgg",
       "name": "ESPECIARIUM BAR | Barcelona",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de la Princesa",
       "description": "Baharat temalı kokteylleriyle duyulara hitap eden sıra dışı bir bar. 'Curryquiri' gibi yaratıcı karışımları ve ilginç sunum kaplarıyla unutulmaz bir deneyim.",
       "description_en": "Extraordinary bar appealing to senses with spice-themed cocktails. An unforgettable experience with creative mixes like 'Curryquiri' and interesting presentation vessels.",
@@ -1978,7 +1904,7 @@
     {
       "name": "EatMyTrip",
       "area": "Gràcia",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Brunch",
       "tags": [
         "brunch",
@@ -2029,7 +1955,7 @@
     {
       "id": "gen_ChIJ4WBEXFmjpBIRqYJ8rDbpjSQ",
       "name": "EdeNova Restaurant Barcelona",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer del Rosselló",
       "description": "Akdeniz ve Özbek mutfağını buluşturan unique bir restoran. Deniz mahsullü paellası ve kuzu incik pilavı (lamb shank pilaf) çok beğeniliyor.",
       "description_en": "Unique restaurant bridging Mediterranean and Uzbek cuisines. Seafood paella and lamb shank pilaf are highly acclaimed.",
@@ -2053,7 +1979,7 @@
     {
       "id": "gen_ChIJGdSiASujpBIRQo9zFtzqsgQ",
       "name": "El Bandoler by La Alcoba - Bar de Tapas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Salomó ben Adret",
       "description": "Gotik Mahalle'de, geleneksel sandviçleri ve bao'ları gurme lezzetlere dönüştüren bir tapas barı. Yavaş pişmiş İber domuz yanağı bao'su ve ev yapımı barbekü soslu kaburga takoları favorilerden.",
       "description_en": "Tapas bar in the Gothic Quarter transforming traditional sandwiches and baos into gourmet delights. Slow-cooked Iberian pork cheek bao and ribs tacos with homemade BBQ sauce are favorites.",
@@ -2132,7 +2058,7 @@
     {
       "name": "El Bosc de les Fades",
       "area": "Las Ramblas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Tema Bar",
       "tags": [
         "periler",
@@ -2186,7 +2112,7 @@
     {
       "name": "El Nacional",
       "area": "Passeig de Gràcia",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Food Hall",
       "tags": [
         "food hall",
@@ -2240,7 +2166,7 @@
     {
       "name": "El Xampanyet",
       "area": "El Born",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Şampanya Bar",
       "tags": [
         "cava",
@@ -2291,7 +2217,7 @@
     {
       "id": "gen_ChIJfezQGF2jpBIRuvVmxWU8l_k",
       "name": "FLIPÁ . brunch & vermut .",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer del Marquès de Campo Sagrado",
       "description": "Sant Antoni'de, Katalan bistro havasında samimi bir brunch ve vermut mekanı. Avokado tostu ve acai kaseleriyle güne başlamak veya el yapımı vermutlarıyla keyif yapmak için ideal.",
       "description_en": "Friendly brunch and vermouth spot with a Catalan bistro vibe in Sant Antoni. Ideal for starting the day with avocado toast and acai bowls or enjoying artisanal vermouths.",
@@ -2339,7 +2265,7 @@
     {
       "id": "gen_ChIJb4UjvMijpBIRp3UJ5UWSw6M",
       "name": "FOODY VIET - Vietnam Authentic Restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "C/ de Muntaner",
       "description": "Barcelona'da otantik Vietnam mutfağı sunan, yüksek puanlı bir restoran. Geleneksel Phở çorbaları ve köri yemekleri, romantik ve sıcak bir atmosferde servis ediliyor.",
       "description_en": "Highly-rated restaurant offering authentic Vietnamese cuisine in Barcelona. Traditional Phở soups and curry dishes are served in a romantic and warm atmosphere.",
@@ -2363,7 +2289,7 @@
     {
       "id": "gen_ChIJrYQNDgejpBIRay4BITEgCsE",
       "name": "Faire. Brunch & Drinks",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Girona",
       "description": "Carefully sourced vegetarian & vegan offerings in a roomy destination with a hip vibe.",
       "description_en": "Carefully sourced vegetarian & vegan offerings in a roomy destination with a hip vibe.",
@@ -2414,7 +2340,7 @@
     {
       "name": "Flamenco Show Tablao Cordobés",
       "area": "Las Ramblas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Gösteri",
       "tags": [
         "flamenco",
@@ -2441,7 +2367,7 @@
     {
       "name": "Flax & Kale",
       "area": "El Raval",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Sağlıklı",
       "tags": [
         "vegan",
@@ -2495,7 +2421,7 @@
     {
       "id": "gen_ChIJTzsdvD-jpBIR917EZ8uElRU",
       "name": "Furnos",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Marià Aguiló",
       "description": "Otantik Yunan lezzetleriyle ünlü, sıcakkanlı bir fırın. Ispanaklı börek (spanakopita), bougatsa ve vegan seçenekleriyle gerçek bir Yunan deneyimi sunuyor.",
       "description_en": "Warm bakery famous for authentic Greek flavors. Offers a real Greek experience with spanakopita, bougatsa, and vegan options.",
@@ -2519,7 +2445,7 @@
     {
       "id": "gen_ChIJXeVHlK6jpBIRjRlhP--X_Rw",
       "name": "GRASA",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Felícia Fuster I Viladecans",
       "description": "Barceloneta'da, vegan mutfağına yaratıcı ve lezzet odaklı yaklaşımıyla öne çıkan bir mekan. Et taklidi yerine sebzelerin gücüne inanan menüsüyle (örneğin trüflü focaccia), vegan olmayanların da favorisi.",
       "description_en": "Venue in Barceloneta standing out with its creative and flavor-focused approach to vegan cuisine. A favorite even for non-vegans with a menu believing in the power of vegetables (e.g., truffle focaccia) rather than mock meats.",
@@ -2615,7 +2541,7 @@
     {
       "id": "gen_ChIJ7YU7Fn6jpBIRE-ur8uBlBrg",
       "name": "Gloria Osteria Barcelona",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer d'Enric Granados",
       "description": "İtalyan osteria geleneği Barcelona'da. El yapımı makarna, İtalyan şarapları ve samimi atmosfer. Dolce vita deneyimi.",
       "description_en": "Italian osteria tradition in Barcelona. Handmade pasta, Italian wines and intimate atmosphere. Dolce vita experience.",
@@ -2721,7 +2647,7 @@
     {
       "id": "gen_ChIJ8zglNUOjpBIR00lABFXZ2wo",
       "name": "Henry's Bar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de la Llacuna",
       "description": "Klasik Amerikan bar tarzı ve kokteyller. Canlı müzik geceleri, viski seleksiyonu ve samimi atmosfer.",
       "description_en": "Classic American bar style and cocktails. Live music nights, whiskey selection and friendly atmosphere.",
@@ -2786,13 +2712,14 @@
       "price": "medium",
       "website": "http://wakeupandsmellthecoffee.es/",
       "tags": [
-        "kafe",
         "popüler",
+        "kafe",
         "keşfet"
       ],
       "distanceFromCenter": 1.5,
       "tips": "Hafta içi ziyaret etmek daha sakin bir deneyim sunar.",
-      "tips_en": "Visiting on weekdays offers a calmer experience."
+      "tips_en": "Visiting on weekdays offers a calmer experience.",
+      "name_en": "OTTO Specialty Coffee"
     },
     {
       "name": "Jardins de Mossèn Costa i Llobera",
@@ -2824,7 +2751,7 @@
     {
       "id": "gen_ChIJU0O7lLajpBIRNU1sKNIaG7M",
       "name": "JoEs TaBLe • Social Fine Dining •",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Office address for (📞 reservations only",
       "description": "Sosyal fine dining konsepti. Paylaşımlı masa, gurme yemekler ve interaktif deneyim. Yemek yeme sosyalleşmeye dönüşüyor.",
       "description_en": "Social fine dining concept. Communal tables, gourmet dishes and interactive experience. Dining becomes socializing.",
@@ -2872,7 +2799,7 @@
     {
       "id": "gen_ChIJs3-imnajpBIRMVE_VIfGPhA",
       "name": "La Alcoba Azul - Bar de Tapas en Rambla Catalunya",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Rambla de Catalunya",
       "description": "Rambla Catalunya'da mavi temalı tapas barı. Geleneksel ve modern tapas, şık dekor ve merkezi konum.",
       "description_en": "Blue-themed tapas bar on Rambla Catalunya. Traditional and modern tapas, elegant decor and central location.",
@@ -2947,7 +2874,7 @@
     {
       "name": "La Flauta",
       "area": "Sant Antoni",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Tapas",
       "tags": [
         "tapas",
@@ -2974,7 +2901,7 @@
     {
       "name": "La Pepita",
       "area": "Gràcia",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Tapas Modern",
       "tags": [
         "tapas",
@@ -3001,7 +2928,7 @@
     {
       "name": "La Xampanyeria",
       "area": "Barceloneta",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "cava",
@@ -3056,7 +2983,7 @@
     {
       "name": "Lasarte",
       "area": "Eixample",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Michelin 3*",
       "tags": [
         "michelin",
@@ -3107,7 +3034,7 @@
     {
       "id": "gen_ChIJf8Zst1-jpBIRkov6YZvFOpY",
       "name": "Local Tapas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer d'Aribau",
       "description": "Otantik Katalan tapas deneyimi. Yerel malzemeler, geleneksel tarifler ve samimi mahalle atmosferi. Gerçek Barselona lezzetleri.",
       "description_en": "Authentic Catalan tapas experience. Local ingredients, traditional recipes and friendly neighborhood atmosphere. Real Barcelona flavors.",
@@ -3131,7 +3058,7 @@
     {
       "id": "gen_ChIJ9-4RZPejpBIRQHk0be_mtGY",
       "name": "Loras Bar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Pujades",
       "description": "Mahalle barı samimiyeti ve kaliteli içecekler. Yerel favori, dostane ortam ve gece sohbetleri için ideal.",
       "description_en": "Neighborhood bar friendliness with quality drinks. Local favorite, friendly environment ideal for night conversations.",
@@ -3182,9 +3109,10 @@
     {
       "id": "gen_ChIJGYB_zT2jpBIReSmAAeCHwPs",
       "name": "MALA HIERBA | Cocktail Bar",
-      "category": "Müze",
+      "category": "Bar",
+      "subcategory": "Kokteyl Bar",
       "area": "Carrer Nou de la Rambla",
-      "description": "Barcelona'nin önemli müzelerinden biri. Sanat ve tarih meraklıları için zengin koleksiyonlar ve etkileyici sergiler sunuyor.",
+      "description": "Poble Sec'te hip-hop müzikleri ve sokak sanatıyla dekore edilmiş samimi bir kokteyl barı. El yapımı güçlü kokteylleri ve sıcak atmosferiyle popüler.",
       "description_en": "Friendly cocktail bar in Poble Sec decorated with hip-hop music and street art. Popular for handcrafted strong cocktails and warm atmosphere.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/mala_hierba_cocktail_bar.jpg",
       "location": "Carrer Nou de la Rambla, 130, Sants-Montjuïc, 08004 Barcelona, İspanya",
@@ -3387,7 +3315,7 @@
     {
       "id": "gen_ChIJ--t0RgijpBIRszSvo39WgrU",
       "name": "Maska GastroPub",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Pau Claris",
       "description": "Gastronomi ve pub kültürünün buluşması. Gurme burger, craft biraları ve spor ekranları. Rahat ve eğlenceli ortam.",
       "description_en": "Where gastronomy meets pub culture. Gourmet burgers, craft beers and sports screens. Relaxed and fun environment.",
@@ -3490,7 +3418,7 @@
     {
       "name": "Milk Bar & Bistro",
       "area": "Gothic Quarter",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Brunch",
       "tags": [
         "brunch",
@@ -3517,7 +3445,7 @@
     {
       "id": "gen_ChIJSeyLTUCjpBIROH4q6KiLu1Q",
       "name": "Mog Barcelona",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "C. de Muntaner",
       "description": "Yaratıcı gastronomi ve modern tasarım. Mevsimsel menü, yerel malzemeler ve şık sunum. Yeni nesil Barcelona mutfağı.",
       "description_en": "Creative gastronomy and modern design. Seasonal menu, local ingredients and elegant presentation. New generation Barcelona cuisine.",
@@ -3541,7 +3469,7 @@
     {
       "id": "gen_ChIJSQoAKsyjpBIR6NNQ2ac2wFI",
       "name": "Molinet Cafè Antic - Bistro & Brunch",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer d'Elkano",
       "description": "Antika dekorlu nostaljik kafe ve bistro. Hafta sonu brunch'ları, ev yapımı pastalar ve kahve. Rahat ve samimi ortam.",
       "description_en": "Nostalgic cafe and bistro with antique decor. Weekend brunches, homemade pastries and coffee. Cozy and intimate setting.",
@@ -3565,7 +3493,7 @@
     {
       "id": "gen_ChIJhV0nSPOjpBIRnaiO5QG4srw",
       "name": "Monte Marinero",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Balmes",
       "description": "Denizci temalı deniz ürünleri restoranı. Taze balık, kabuklu deniz ürünleri ve liman manzarası. Akdeniz'in derin tatları.",
       "description_en": "Sailor-themed seafood restaurant. Fresh fish, shellfish and harbor views. Deep flavors of Mediterranean.",
@@ -3696,34 +3624,6 @@
       "tips_en": "Buy tickets online to skip the box office line."
     },
     {
-      "name": "Museu Picasso",
-      "area": "El Born",
-      "category": "Müze",
-      "subcategory": "Müze",
-      "tags": [
-        "picasso",
-        "sanat",
-        "tarihi",
-        "barcelona",
-        "müze"
-      ],
-      "distanceFromCenter": 0,
-      "lat": 41.3852706,
-      "lng": 2.1809472,
-      "price": "medium",
-      "rating": 4.4,
-      "description": "Museu Picasso is a cool spot in Barcelona's El Born.",
-      "bestTime": "Öğleden sonra",
-      "bestFor": [
-        "herkes"
-      ],
-      "source": "google",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/museu_picasso.jpg",
-      "tips": "Sesli rehber (audio guide) kiralamak deneyimi ikiye katlar.",
-      "description_en": "Museu Picasso is a cool spot in Barcelona's El Born.",
-      "tips_en": "Renting an audio guide doubles the experience."
-    },
-    {
       "name": "Museu del Disseny",
       "area": "Glòries",
       "category": "Müze",
@@ -3801,7 +3701,7 @@
     {
       "id": "gen_ChIJDz5L73KjpBIRPfPZU3PsjVw",
       "name": "Nix Tapas & Drinks",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer dels Escudellers",
       "description": "Modern tapas ve içecek konsepti. Yaratıcı meze interpretasyonları, kokteyller ve şık ortam.",
       "description_en": "Modern tapas and drinks concept. Creative meze interpretations, cocktails and stylish setting.",
@@ -3828,9 +3728,13 @@
       "category": "Cafe",
       "subcategory": "Specialty Coffee",
       "tags": [
-        "kahve",
+        "kavurma",
         "kavurucu",
-        "minimalist"
+        "cafe",
+        "minimalist",
+        "kahve",
+        "barcelona",
+        "uzman"
       ],
       "distanceFromCenter": 1.5,
       "lat": 41.3912,
@@ -3847,35 +3751,8 @@
       "tips": "Yerel halkın favori noktalarından biri.",
       "description_en": "Pioneer of Barcelona's specialty coffee scene. Expert roasters serving exceptional single-origin coffees.",
       "tips_en": "One of the favorite spots of the locals.",
-      "bestTime_en": "Morning"
-    },
-    {
-      "name": "Nomad Coffee Lab",
-      "area": "El Born",
-      "category": "Cafe",
-      "subcategory": "Cafe",
-      "tags": [
-        "kahve",
-        "kavurma",
-        "uzman",
-        "barcelona",
-        "cafe"
-      ],
-      "distanceFromCenter": 0,
-      "lat": 41.3889218,
-      "lng": 2.1770391,
-      "price": "medium",
-      "rating": 4.6,
-      "description": "Nomad Coffee Lab is a cool spot in Barcelona's El Born.",
-      "bestTime": "Öğleden sonra",
-      "bestFor": [
-        "herkes"
-      ],
-      "source": "google",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/nomad_coffee_lab.jpg",
-      "tips": "Yerel halkın favori noktalarından biri.",
-      "description_en": "Nomad Coffee Lab is a cool spot in Barcelona's El Born.",
-      "tips_en": "One of the favorite spots of the locals."
+      "bestTime_en": "Morning",
+      "name_en": "Nomad Coffee Lab"
     },
     {
       "id": "gen_ChIJXd8Kc4WjpBIR6PsGXTui4vE",
@@ -3950,30 +3827,6 @@
       "tips_en": "Visiting on weekdays offers a calmer experience."
     },
     {
-      "id": "gen_ChIJQVJNjRmjpBIRG7wwEeGgupE",
-      "name": "OTTO Specialty Coffee",
-      "category": "Cafe",
-      "area": "Carrer de Pi i Margall",
-      "description": "Barcelona'nin popüler kafelerinden biri. Kahve tutkunları için mükemmel bir mola noktası, samimi atmosfer ve lezzetli atıştırmalıklar.",
-      "description_en": "Calm specialty coffee spot in Horta-Guinardó. Offers locally roasted beans and attentive barista service.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/otto_specialty_coffee.jpg",
-      "location": "Carrer de Pi i Margall, 101, Horta-Guinardó, 08024 Barcelona, İspanya",
-      "lat": 41.4115419,
-      "lng": 2.1643268,
-      "rating": 4.9,
-      "reviewCount": 168,
-      "price": "medium",
-      "website": "https://www.instagram.com/otto.coffeehouse/",
-      "tags": [
-        "kafe",
-        "popüler",
-        "keşfet"
-      ],
-      "distanceFromCenter": 1.5,
-      "tips": "Hafta içi ziyaret etmek daha sakin bir deneyim sunar.",
-      "tips_en": "Visiting on weekdays offers a calmer experience."
-    },
-    {
       "id": "gen_ChIJ3fVu9JajpBIR2lSCyW4WH6U",
       "name": "Obrador del Croissant",
       "category": "Cafe",
@@ -4000,7 +3853,7 @@
     {
       "id": "gen_ChIJifkA9v2jpBIRDCqfUDQmItM",
       "name": "Olivia Bistro",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Viladomat",
       "description": "Akdeniz esintili modern bistro. Zeytinyağlı yemekler, taze salata ve hafif tabaklar. Öğle yemeği için mükemmel.",
       "description_en": "Modern bistro with Mediterranean touches. Olive oil dishes, fresh salads and light plates. Perfect for lunch.",
@@ -4024,7 +3877,7 @@
     {
       "id": "gen_ChIJdddVPoiYpBIRH-u56MmnugE",
       "name": "Olivos Comida y Vinos Restaurante",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Galileu",
       "description": "Elegantly plated, creative seasonal dishes & thoughtfully sourced wine in an intimate space.",
       "description_en": "Elegantly plated, creative seasonal dishes & thoughtfully sourced wine in an intimate space.",
@@ -4048,7 +3901,7 @@
     {
       "name": "Opium Barcelona",
       "area": "Port Olímpic",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Beach Club",
       "tags": [
         "beach club",
@@ -4099,7 +3952,7 @@
     {
       "id": "gen_ChIJl6v8JzajpBIR3FpeaY3QgXk",
       "name": "Pachamama Wines & Bar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Mallorca",
       "description": "Güney Amerika şarapları ve Latin esintiler. Arjantin ve Şili şarapları, empanada ve ceviche. Latin ruhu Barcelona'da.",
       "description_en": "South American wines and Latin touches. Argentine and Chilean wines, empanadas and ceviche. Latin spirit in Barcelona.",
@@ -4123,7 +3976,7 @@
     {
       "name": "Paco Meralgo",
       "area": "Eixample",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Deniz Ürünleri",
       "tags": [
         "deniz ürünleri",
@@ -4164,16 +4017,17 @@
       "lng": 2.1742308,
       "price": "medium",
       "rating": 4.6,
-      "description": "Palau Güell is a cool spot in Barcelona's El Raval.",
-      "bestTime": "Öğleden sonra",
+      "description": "Antoni Gaudí'nin endüstriyelleşen Katalonya burjuvazisi için tasarladığı ilk büyük saray. Gotik ve Art Nouveau'nun bu karanlık ve görkemli karışımı, özellikle ana salonundaki gökyüzü efektli kubbesi ve bacalarıyla büyüleyicidir.",
+      "bestTime": "Sabah erken",
       "bestFor": [
-        "herkes"
+        "mimari severler",
+        "tarih severler"
       ],
-      "source": "google",
+      "source": "tripadvisor",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/palau_guell.jpg",
-      "tips": "Müze kartınız varsa girişte sıra beklemezsiniz.",
-      "description_en": "Palau Güell is a cool spot in Barcelona's El Raval.",
-      "tips_en": "You skip the line if you have a museum pass."
+      "tips": "Çatı katındaki renkli bacaları görmeden ve bodrum katındaki ahırları gezmeden çıkmayın.",
+      "description_en": "Antoni Gaudí's first major palace designed for the industrial Catalan bourgeoisie. This dark and magnificent blend of Gothic and Art Nouveau is fascinating, especially with its sky-effect dome in the main hall and unique chimneys.",
+      "tips_en": "Don't leave without seeing the colorful chimneys on the rooftop and visiting the stables in the basement."
     },
     {
       "name": "Palau de la Música Catalana",
@@ -4205,7 +4059,7 @@
     {
       "name": "Paradiso",
       "area": "El Born",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Speakeasy",
       "tags": [
         "gizli",
@@ -4391,7 +4245,7 @@
     {
       "id": "gen_ChIJNZTfv0ejpBIRkWHbSz0WEjU",
       "name": "Petit Tapas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer Ample",
       "description": "Küçük ama tadı büyük tapas barı. Geleneksel Katalan meze kültürü, kaliteli malzemeler ve uygun fiyatlar.",
       "description_en": "Small but flavorful tapas bar. Traditional Catalan meze culture, quality ingredients and affordable prices.",
@@ -4413,7 +4267,8 @@
       "tips_en": "Reservation is a must for dinner."
     },
     {
-      "name": "Picasso Müzesi",
+      "name": "Museu Picasso",
+      "name_en": "Picasso Museum",
       "area": "El Born",
       "category": "Müze",
       "subcategory": "Sanat",
@@ -4659,7 +4514,7 @@
     {
       "id": "gen_ChIJvddCynKjpBIRUYr8yYZUbRA",
       "name": "Rasoi Ghar Restaurant indian",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de la Reina Cristina",
       "description": "Otantik Hint mutfağı ve ev yemekleri tadı. Tandır lezzetleri, curry çeşitleri ve vegetaryen seçenekler. Baharatlı bir yolculuk.",
       "description_en": "Authentic Indian cuisine with homemade taste. Tandoor delicacies, curry varieties and vegetarian options. A spicy journey.",
@@ -4731,7 +4586,7 @@
     {
       "id": "gen_ChIJi8OIIzyjpBIRubWcU35Mp5c",
       "name": "Restaurant La Forquilla | Barcelona",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer d'Aragó",
       "description": "Modern ve minimalist bir mekanda, dünya mutfağından dokunuşlarla harmanlanmış yenilikçi Akdeniz lezzetleri.",
       "description_en": "Innovative Mediterranean-inspired, seasonal dishes with global twists, in a modern, minimal space.",
@@ -4755,7 +4610,7 @@
     {
       "id": "gen_ChIJ_0VdAECjpBIRrzq106UdwJY",
       "name": "Restaurant Malaysian Street Delights",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer del Rosselló",
       "description": "Malezya sokak lezzetlerinin Barcelona yorumu. Otantik Güneydoğu Asya tatları, baharatlı yemekler ve egzotik atmosfer.",
       "description_en": "Barcelona's take on Malaysian street food. Authentic Southeast Asian flavors, spicy dishes and exotic atmosphere.",
@@ -4779,7 +4634,7 @@
     {
       "id": "gen_ChIJrWYCjZmjpBIRyMyyH2x0R6U",
       "name": "Restaurante Gòtico – Authentic Barcelona Catalan Spanish Tapas & Paella",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer d'en Gignàs",
       "description": "Gotik Mahalle'de otantik Katalan mutfağı. Geleneksel paella, tapas seçenekleri ve canlı atmosfer. Turist ve yerel buluşması.",
       "description_en": "Authentic Catalan cuisine in Gothic Quarter. Traditional paella, tapas options and lively atmosphere. Where tourists meet locals.",
@@ -5035,7 +4890,7 @@
     {
       "id": "gen_ChIJd89uNxmjpBIRNwJZ_PqLluA",
       "name": "Santa Rita Experience",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Veneçuela",
       "description": "Özel tadım menüsü, şarap ve kokteyl eşleşmeleriyle öne çıkan, samimi ve modern bir şef restoranı.",
       "description_en": "Intimate, contemporary boutique eatery with an elevated tasting menu alongside cocktails & wine.",
@@ -5113,7 +4968,7 @@
     {
       "id": "gen_ChIJccnX6-GjpBIRicXjIkhr6ig",
       "name": "Seven Under bar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de Còrsega",
       "description": "Bodrum katında gizli bar deneyimi. Samimi atmosfer, özenle hazırlanmış kokteyller ve seçkin müzik. Gece geç saatler için ideal.",
       "description_en": "Hidden bar experience in basement. Intimate atmosphere, carefully crafted cocktails and select music. Ideal for late night.",
@@ -5164,7 +5019,7 @@
     {
       "name": "Sky Bar Grand Hotel Central",
       "area": "Gothic Quarter",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Rooftop",
       "tags": [
         "manzara",
@@ -5368,59 +5223,33 @@
       "category": "Manzara",
       "subcategory": "Manzara",
       "tags": [
-        "teleferik",
-        "manzara",
         "kale",
+        "manzara",
         "barcelona",
-        "manzara"
+        "teleferik",
+        "ulaşım"
       ],
       "distanceFromCenter": 0,
       "lat": 41.36879589999999,
       "lng": 2.1634988,
       "price": "medium",
       "rating": 4.4,
-      "description": "Telefèric de Montjuïc, Barcelona'nın Montjuïc bölgesinde, teleferik, manzara, kale atmosferiyle öne çıkan bir manzara noktasıdır.",
+      "description": "Aksiyon ve eğlence dolu bir gün geçirmek isteyenler için Teleféric de Montjuïc ideal. Çeşitli aktiviteleri ve enerjik atmosferiyle Montjuïc'nın en popüler noktalarından.",
       "bestTime": "Öğleden sonra",
       "bestFor": [
         "herkes"
       ],
       "source": "google",
-      "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photo_reference=AZLasHqf1JbAwd3EOIyF_UT2OnRo584Bybymp2Is6WjGMDbxPQMSU-a3xRKjjso-ZUCSqdqhadMpBb4DjiPbhGLv-KDrZmvYbz2E3B2Wx4yboXFMf-4XQUQcFurBvZ02RuUTvsP07E2r8WUqRRT6gz71X7DM0NcE99a7fvxFJBP16r875HpqmST2StYWzvoKXn7vxWiKShjJy5PWGI2AOAOrAzFVMfXlqaFAgakePNfqZCIb071ZBJoqIovdYNjHd8TlIiGnXb_AZaOUaFuH9mZcMrKKa-f0_cLjDLE9P6maIK7f0CPXdnJMJ5BvfmeEnF5rzK8iaXPk93o7ISqDcxKY9o7bUYfnOp46V170DvE_VF8mBV81OG9K8uJSrY_fFs9TK0eVQZR9MXaknHWa2LLdRYOGr3AyCwG_DdDKuC3LLuGunlYKa4MJGXUEXrN2mznEnNUPw1wjF1M_8V1M9OOEZ7ZFIw0_71Rbya8sU3qWCqijez0Gyhc-RnEj3Os4MUuyMgNiQYSfb9In0bh6wUI5T4rRwEYEdNd4HcPuEjRu1Lc0PtZEmEItEANA3F1r8Yz4i7qC-Dax&key=AIzaSyBOXbf-5v4aXyEYgciwX4EfPYAGXX6Yy9g",
-      "tips": "Teleskop/dürbün varsa yanınıza alın.",
-      "description_en": "Telefèric de Montjuïc is a cool spot in Barcelona's Montjuïc.",
-      "tips_en": "Bring a telescope/binoculars if you have them."
-    },
-    {
-      "name": "Teleféric de Montjuïc",
-      "area": "Montjuïc",
-      "category": "Deneyim",
-      "subcategory": "Teleferik",
-      "tags": [
-        "teleferik",
-        "manzara",
-        "ulaşım"
-      ],
-      "distanceFromCenter": 2.5,
-      "lat": 41.3712,
-      "lng": 2.1565,
-      "price": "medium",
-      "rating": 4.5,
-      "description": "Aksiyon ve eğlence dolu bir gün geçirmek isteyenler için Teleféric de Montjuïc ideal. Çeşitli aktiviteleri ve enerjik atmosferiyle Montjuïc'nın en popüler noktalarından.",
-      "bestTime": "Gün batımı",
-      "bestFor": [
-        "herkes"
-      ],
-      "source": "tripadvisor",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/barcelona/teleferic_de_montjuic.jpg",
-      "tips": "Rehbere soru sormaktan çekinmeyin, çok ilginç hikayeler biliyorlar.",
+      "tips": "Teleskop/dürbün varsa yanınıza alın.",
       "description_en": "Aksiyon ve eğlence dolu bir gün geçirmek isteyenler için Teleféric de Montjuïc ideal. Çeşitli aktiviteleri ve enerjik atmosferiyle Montjuïc'nın en popüler noktalarından.",
-      "tips_en": "Don't hesitate to ask the guide questions, they know interesting stories.",
-      "bestTime_en": "Sunset"
+      "tips_en": "Bring a telescope/binoculars if you have them.",
+      "name_en": "Teleféric de Montjuïc"
     },
     {
       "id": "gen_ChIJ83mWb46ipBIRf3WEFfIXQ0o",
       "name": "The Alchemix",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de València",
       "description": "Simya temalı yaratıcı kokteyl barı. Bilimsel teknikler, tüten ve renk değiştiren içecekler. Laboratuvar benzeri deneyim.",
       "description_en": "Alchemy-themed creative cocktail bar. Scientific techniques, smoking and color-changing drinks. Laboratory-like experience.",
@@ -5444,7 +5273,7 @@
     {
       "name": "The Roof at EDITION",
       "area": "El Born",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Rooftop",
       "tags": [
         "panorama",
@@ -5526,7 +5355,7 @@
     {
       "name": "Tickets",
       "area": "Poble Sec",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Tapas Yaratıcı",
       "tags": [
         "adria",
@@ -5628,7 +5457,7 @@
     {
       "id": "gen_ChIJoW3KxVeipBIRWyvQI76z4cA",
       "name": "Viana Barcelona",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer del Vidre",
       "description": "Şık bir atmosferde enternasyonel dokunuşlara sahip Akdeniz yemekleri, tapas çeşitleri ve artizan kokteyller.",
       "description_en": "Artisan cocktails, tapas & refined Mediterranean-style dishes with global twists in a stylish space.",
@@ -5652,7 +5481,7 @@
     {
       "id": "gen_ChIJo_SXGqajpBIRNXLdOuKjThQ",
       "name": "Vietnam authentic restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de la Marina",
       "description": "Otantik Vietnam mutfağı Barcelona'da. Pho, banh mi ve taze spring roll'lar. Güneydoğu Asya'nın taze lezzetleri.",
       "description_en": "Authentic Vietnamese cuisine in Barcelona. Pho, banh mi and fresh spring rolls. Fresh flavors of Southeast Asia.",
@@ -5724,7 +5553,7 @@
     {
       "id": "gen_ChIJ6_fckBijpBIRKuN4tjfLq3s",
       "name": "Xera Restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Carrer de les Sitges",
       "description": "Modern Akdeniz mutfağı ve yaratıcı sunumlar. Taze deniz ürünleri, mevsimsel menü ve şık ortam. Özel yemekler için ideal.",
       "description_en": "Modern Mediterranean cuisine and creative presentations. Fresh seafood, seasonal menu and stylish setting. Ideal for special dinners.",

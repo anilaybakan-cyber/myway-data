@@ -212,7 +212,7 @@
     {
       "id": "gen_ChIJc3oTTwAJxkcRsCZGAMli9vQ",
       "name": "Amsterdam City Farm Tasting Room & Restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Czaar Peterstraat 171e",
       "description": "Amsterdam City Farm Tasting Room & Restaurant, damak tadınıza hitap eden lezzetleri şık bir atmosferde sunar. Taze ve yerel malzemelerle hazırlanan menüsü, hem Hollanda mutfağından hem de dünya mutfaklarından seçkin örneklerle unutulmaz bir akşam yemeği vaat eder.",
       "description_en": "Amsterdam City Farm Tasting Room & Restaurant offers flavors appealing to your palate in a stylish atmosphere. Its menu prepared with fresh and local ingredients promises an unforgettable dinner with distinguished examples from both Dutch and world cuisines.",
@@ -474,7 +474,7 @@
     {
       "id": "gen_ChIJd4ERe7fjxUcRoC5WBTZKSWE",
       "name": "Bariq - Greek Food & Wines",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Overtoom 411",
       "description": "Bariq - Greek Food & Wines, Amsterdam gece hayatının nabzını tutan, samimi ve enerjik bir mekandır. Yerel Hollanda biralarını tadabileceğiniz, dostlarınızla sohbet edip müziğin keyfini çıkarabileceğiniz, şehrin ruhunu yansıtan bir buluşma noktasıdır.",
       "description_en": "Bariq - Greek Food & Wines is an intimate and energetic venue keeping the pulse of Amsterdam nightlife. A meeting point reflecting the city's soul where you can taste local Dutch beers, chat with friends, and enjoy the music.",
@@ -621,7 +621,7 @@
       "name": "Blue Amsterdam",
       "name_en": "Blue Amsterdam",
       "area": "Centrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "manzara",
         "360 derece",
@@ -644,7 +644,7 @@
     {
       "name": "Brouwerij 't IJ",
       "area": "Oost",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bira",
         "bira fabrikası",
@@ -670,7 +670,7 @@
       "name": "Brouwerij de Prael",
       "name_en": "Brouwerij de Prael",
       "area": "Red Light District",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bira",
         "yerel",
@@ -693,7 +693,7 @@
     {
       "id": "gen_ChIJpW2Nad4JxkcRVPMoPWh6r1k",
       "name": "CIMA Rooftop Bar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Hekelveld 10",
       "description": "CIMA Rooftop Bar, Amsterdam gece hayatının nabzını tutan, samimi ve enerjik bir mekandır. Yerel Hollanda biralarını tadabileceğiniz, dostlarınızla sohbet edip müziğin keyfini çıkarabileceğiniz, şehrin ruhunu yansıtan bir buluşma noktasıdır.",
       "description_en": "CIMA Rooftop Bar is an intimate and energetic venue keeping the pulse of Amsterdam nightlife. A meeting point reflecting the city's soul where you can taste local Dutch beers, chat with friends, and enjoy the music.",
@@ -719,10 +719,13 @@
       "area": "Jordaan",
       "category": "Bar",
       "tags": [
-        "en eski",
         "1624",
+        "popüler",
         "brown café",
-        "tarihi"
+        "en eski",
+        "keşfet",
+        "tarihi",
+        "bar"
       ],
       "distanceFromCenter": 0.9,
       "lat": 52.375,
@@ -737,7 +740,8 @@
       "reviewCount": 3200,
       "metro": "Tram 13, 17",
       "description_en": "Cafe Chris is one of the most exciting stops in Amsterdam's nightlife. This venue in Jordaan adds color to the night with its special cocktails, live music and energetic atmosphere.",
-      "tips_en": "Stop by the small souvenir shops around."
+      "tips_en": "Stop by the small souvenir shops around.",
+      "name_en": "Café Chris"
     },
     {
       "id": "gen_ChIJUWPEsrsJxkcRGitNQKv3hOM",
@@ -786,30 +790,6 @@
       "reviewCount": 1200,
       "metro": "Tram 4",
       "description_en": "Cafe Sonneveld is one of the most exciting stops in Amsterdam's nightlife. This venue in De Pijp adds color to the night with its special cocktails, live music and energetic atmosphere.",
-      "tips_en": "Decide what to eat by checking Google Maps reviews."
-    },
-    {
-      "id": "gen_ChIJp8WKOdsJxkcRVL-xZ7kdT60",
-      "name": "Café Chris",
-      "category": "Bar",
-      "area": "Bloemstraat 42",
-      "description": "Dating back to 1624, this cozy, wood-paneled haunt features beer on tap & a pool table.",
-      "description_en": "Dating back to 1624, this cozy, wood-paneled haunt features beer on tap & a pool table.",
-      "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AZLasHp-l3_pItL46xpy-15YcTvIMEsFnnsh3VK2fQYZ56eKYG78k_sIfZyGbFQt2uZ2w9vL6tmMS0Y-tHcwF2YEwz3YzJdoXb04_wCb2kYz_3k21yCPRwpsAbfan2NF28-8Nxj8VdZ96K1TaXTv5xiXd4PQCApMpU2lwZ9vceQP1nrYT9xmBfFg3rH1VgRK-AhbAmvzA2IFbc8j1W6J78uYdva7mfeJVv7UrgcHq5MZuq2MOAQTMxU8x9utxpN6Uh2NmwYFX0RiE-QMfqGyIsJLkT9VjKBidsBSG5Cs2YgmyxhCvyUW-mfatoOMU7ergJYvpB1bTytHd-GEuYqqRWMTDxllAoy-dbfq5EF4NhFA9NFyv_B8ClfIrP8wk9aB87hWAbMqGUD_BlmZebmR9WZlrGSMfpNIzW1ttKRlmCgAzkES7RL-&key=AIzaSyBOXbf-5v4aXyEYgciwX4EfPYAGXX6Yy9g",
-      "location": "Bloemstraat 42, 1016 LC Amsterdam, Hollanda",
-      "lat": 52.37427520000001,
-      "lng": 4.8816114,
-      "rating": 4.7,
-      "reviewCount": 1110,
-      "price": "medium",
-      "website": null,
-      "tags": [
-        "bar",
-        "popüler",
-        "keşfet"
-      ],
-      "distanceFromCenter": 1.5,
-      "tips": "Google Maps yorumlarına göz atarak ne yiyeceğinize karar verin.",
       "tips_en": "Decide what to eat by checking Google Maps reviews."
     },
     {
@@ -937,7 +917,7 @@
     {
       "id": "gen_ChIJb5c4Ln4JxkcRr6hsHfqsMs8",
       "name": "Cape Town Social Club",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Raamstraat 27",
       "description": "Cape Town Social Club, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Cape Town Social Club is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -961,7 +941,7 @@
     {
       "id": "gen_ChIJkf8azcILxkcRHGC2pFsjD2E",
       "name": "Casa Lisa",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Dorpsplein 72",
       "description": "Casa Lisa, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Casa Lisa is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -985,7 +965,7 @@
     {
       "id": "gen_ChIJTyA3pjUJxkcRi_eyi3o3IuE",
       "name": "CatuaBar Amsterdam",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Andreas Bonnstraat 40H",
       "description": "CatuaBar Amsterdam, Amsterdam gece hayatının nabzını tutan, samimi ve enerjik bir mekandır. Yerel Hollanda biralarını tadabileceğiniz, dostlarınızla sohbet edip müziğin keyfini çıkarabileceğiniz, şehrin ruhunu yansıtan bir buluşma noktasıdır.",
       "description_en": "CatuaBar Amsterdam is an intimate and energetic venue keeping the pulse of Amsterdam nightlife. A meeting point reflecting the city's soul where you can taste local Dutch beers, chat with friends, and enjoy the music.",
@@ -1009,7 +989,7 @@
     {
       "id": "gen_ChIJmc0HUgHixUcRN5uJQoZ0TuA",
       "name": "Chef Adrienne | Private Dining Amsterdam",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Valeriusstraat 250 H",
       "description": "Tarihi bir konakta, Fransız ve İtalyan teknikleriyle hazırlanan özel akşam yemekleri. Şef Adrienne'in kişisel dokunuşlarıyla ev sıcaklığında lüks.",
       "description_en": "Modern French & Italian dishes with global flourishes, served in an elegant private dining room.",
@@ -1057,7 +1037,7 @@
     {
       "id": "gen_ChIJMzqLEIsJxkcRaZsOtXi1IsA",
       "name": "Ciel Bleu",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Ferdinand Bolstraat 333",
       "description": "Hotel Okura'nın 23. katında, iki Michelin yıldızlı gastronomi tapınağı. Panoramik şehir manzarası eşliğinde unutulmaz bir lezzet yolculuğu.",
       "description_en": "Posh venue on the 23rd floor of the Hotel Okura offering creative European fare & views of the city.",
@@ -1105,7 +1085,7 @@
     {
       "id": "gen_ChIJk_ybCdYJxkcR4du5lCFrH24",
       "name": "Colette's Private Dining",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Groen van Prinstererstraat 27",
       "description": "Colette's Private Dining, damak tadınıza hitap eden lezzetleri şık bir atmosferde sunar. Taze ve yerel malzemelerle hazırlanan menüsü, hem Hollanda mutfağından hem de dünya mutfaklarından seçkin örneklerle unutulmaz bir akşam yemeği vaat eder.",
       "description_en": "Colette's Private Dining offers flavors appealing to your palate in a stylish atmosphere. Its menu prepared with fresh and local ingredients promises an unforgettable dinner with distinguished examples from both Dutch and world cuisines.",
@@ -1251,7 +1231,7 @@
     {
       "id": "gen_ChIJJ-S23XoJxkcRDsSNU2mgH34",
       "name": "De Kas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Kamerlingh Onneslaan 3",
       "description": "Bölgede yetişen ürünlerle hazırlanan organik Akdeniz yemeklerinin servis edildiği, bahçe içinde yer alan şık sera.",
       "description_en": "Bölgede yetişen ürünlerle hazırlanan organik Akdeniz yemeklerinin servis edildiği, bahçe içinde yer alan şık sera.",
@@ -1275,7 +1255,7 @@
     {
       "name": "De Laatste Kruimel",
       "area": "Centrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pasta",
         "brunch",
@@ -1373,7 +1353,7 @@
     {
       "id": "gen_ChIJycO0FQjjxUcRvyp6xxfQvE0",
       "name": "De Sering",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Rhoneweg 6",
       "description": "De Sering, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "De Sering is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -1592,7 +1572,7 @@
       "name": "FEBO Amsterdam (Otomatik Atıştırmalık)",
       "name_en": "FEBO",
       "area": "Tüm Şehir",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "sokak yemeği",
         "otomatik",
@@ -1615,7 +1595,7 @@
     {
       "id": "gen_ChIJmdopKPHjxUcRfDcdHnAz0L0",
       "name": "Fabus",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "De Clercqstraat 105H",
       "description": "Fabus, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Fabus is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -1711,7 +1691,7 @@
     {
       "id": "gen_ChIJfxDFMbwJxkcReUviSODvJb0",
       "name": "Florentin brunch",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Eerste Sweelinckstraat 20",
       "description": "Florentin brunch, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Florentin brunch is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -1878,7 +1858,7 @@
     {
       "id": "gen_ChIJZ3x-y5EJxkcRllzNMz3GDrk",
       "name": "Graham's Kitchen",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Hemonystraat 38",
       "description": "Şef Graham Mee'nin yönettiği, lezzetin ön planda olduğu rahat bir fine-dining restoranı. 3-6 çeşitli tadım menüleri, şaşırtıcı lezzet kombinasyonları sunuyor.",
       "description_en": "Modern European dishes plus a prix-fixe menu in a relaxed, whitewashed setting with wooden floors.",
@@ -1948,7 +1928,7 @@
     {
       "id": "gen_ChIJZQPX8WUJxkcRpOihjs8S0xs",
       "name": "H.Murray's Amsterdam",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Nieuwebrugsteeg 15",
       "description": "H.Murray's Amsterdam, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "H.Murray's Amsterdam is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -1996,7 +1976,7 @@
     {
       "name": "Hannekes Boom",
       "area": "Centrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "teras",
         "su kenarı",
@@ -2008,7 +1988,7 @@
       "lng": 4.9132,
       "price": "medium",
       "description": "Merkez istasyona yakın, nehir kıyısında salaş ve çok popüler bir teras. Geri dönüştürülmüş mobilyaları ve harika gün batımı manzarasıyla kentin en rahat barı.",
-      "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=1200&photo_reference=AZLasHrm_5oyc1lF5WPcwM6NOdsSEybzkAZ-C9aS7ri36KATE3tgJW-RE5JivOzWuB7C_gZFHE0lLYIOo1tBx9NZc168yNtOZ0PVi0M3tUBCR4fmI8ZwMWII415oCAwncQKwfqeKjStpPTnaJzSJr_TqOjVTEPX6bCEmXtYcWz7MWAwFD4l0SdCr4IMlEub2X2_1jydcKDMADW7n8-DuLAoQE2ZYo7Vu1IICPttjH9dICZSEQ-qwpf44ZNTtoS440VRO-iWkH6pZ0s43cr3SdWq62gzs1RZPzM_lrjQXOqgLndIS0Q&key=AIzaSyBOXbf-5v4aXyEYgciwX4EfPYAGXX6Yy9g",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/amsterdam/hannekes_boom.jpg",
       "tips": "Akşam yemeği için rezervasyon yaptırmak şart.",
       "bestTime": "Akşam",
       "duration": "2-3 saat",
@@ -2034,37 +2014,19 @@
       "price": "medium",
       "website": "https://www.hansegstorf.com/?utm_source=GMB&utm_medium=organic&utm_campaign",
       "tags": [
-        "kafe",
+        "tatlı",
+        "stroopwafel",
         "popüler",
-        "keşfet"
+        "keşfet",
+        "fırın",
+        "kafe",
+        "tarihi"
       ],
       "distanceFromCenter": 1.5,
       "tips": "Hafta içi ziyaret etmek daha sakin bir deneyim sunar.",
-      "tips_en": "Visiting on weekdays offers a calmer experience."
-    },
-    {
-      "name": "Hans Egstorf (Bakery)",
+      "tips_en": "Visiting on weekdays offers a calmer experience.",
       "name_en": "Hans Egstorf",
-      "area": "Centrum",
-      "category": "Cafe",
-      "tags": [
-        "stroopwafel",
-        "fırın",
-        "tarihi",
-        "tatlı"
-      ],
-      "distanceFromCenter": 0.5,
-      "lat": 52.3688,
-      "lng": 4.8897,
-      "price": "low",
-      "rating": 4.8,
-      "description": "1898'den beri hizmet veren Amsterdam'ın en eski fırınlarından biri. İnanılmaz stroopwafelleri ve taze hamur işleriyle tanınır.",
-      "description_en": "One of Amsterdam's oldest bakeries, serving since 1898. Renowned for its incredible stroopwafels and fresh pastries.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/amsterdam/hans_egstorf_bakery.jpg",
-      "bestTime": "Sabah",
-      "bestTime_en": "Morning",
-      "tips": "Yerel halkın favori noktalarından biri.",
-      "tips_en": "One of the favorite spots of the locals."
+      "bestTime": "Sabah"
     },
     {
       "id": "gen_ChIJWWxnFZsJxkcR-U5S9R4w0Yk",
@@ -2093,7 +2055,7 @@
     {
       "id": "gen_ChIJdboLf5IJxkcRmXkoS5qhLcU",
       "name": "Hearth",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Camperstraat 26H",
       "description": "Hearth, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Hearth is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -2190,7 +2152,7 @@
     {
       "id": "gen_ChIJ57DuDyAJxkcRiIHvTBsVUsU",
       "name": "Hollandse pot",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Lange Leidsedwarsstraat 134",
       "description": "Hollandse pot, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Hollandse pot is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -2482,7 +2444,7 @@
       "name": "La Dilettante Amsterdam - Natural Wine Bar",
       "category": "Cafe",
       "area": "Saenredamstraat 37",
-      "description": "Özel kahve çeşitleri ve ev yapımı lezzetleriyle tanınan, rahat atmosferi ile dikkat çeken bir kafe.",
+      "description": "Pijp bölgesinde, rahat atmosferiyle bilinen doğal şarap barı. Özenle seçilmiş şarap koleksiyonuna mevsimlik ve organik atıştırmalıklar eşlik eder. Samimi ortamı ve bilgili personeliyle şarap severler için mükemmel bir durak.",
       "description_en": "Natural wine bar for passionate wine lovers.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/amsterdam/la_dilettante_amsterdam_natural_wine_bar.jpg",
       "location": "Saenredamstraat 37, 1072 CB Amsterdam, Hollanda",
@@ -2576,7 +2538,7 @@
     {
       "id": "gen_ChIJuejsu3AJxkcRRO-2YVRQeJU",
       "name": "Little Buddha Asian restaurant - Best Asian Restaurant Amsterdam",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Halvemaansteeg 18",
       "description": "Asya mutfağının en lezzetli örneklerini sunan bu restoran, özellikle Tayland ve Vietnam yemekleriyle öne çıkar. Kıtır ördek, yeşil köri ve taze rulo gibi klasiklerin yanı sıra, canlı dekoruyla Uzak Doğu'nun egzotik atmosferini Amsterdam'a taşır.",
       "description_en": "This restaurant offers the most delicious examples of Asian cuisine, especially Thai and Vietnamese dishes. In addition to classics like crispy duck, green curry, and fresh spring rolls, it brings the exotic atmosphere of the Far East to Amsterdam with its vibrant decor.",
@@ -2600,7 +2562,7 @@
     {
       "id": "gen_ChIJbRmLxAPixUcRICWmZpn9HlM",
       "name": "Local Deli",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Amstelveenseweg 157H",
       "description": "Local Deli, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Local Deli is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -2699,7 +2661,7 @@
       "name": "Madame Charlie Bakery x Basque Artisan Pastries & Wines x Basque Burnt Cheesecake Amsterdam x",
       "category": "Cafe",
       "area": "Bickerswerf 21",
-      "description": "Özel kahve çeşitleri ve ev yapımı lezzetleriyle tanınan, rahat atmosferi ile dikkat çeken bir kafe.",
+      "description": "Şehrin en iyi 'Basque Burnt Cheesecake'ini yapan butik bir fırın. İçi kremamsı, dışı karamelize o efsane lezzetin yanı sıra, el yapımı artizan hamur işleri ve taze kruvasanlarıyla da ünlü. Küçük, samimi ve lezzet odaklı.",
       "description_en": "Basque bakery famous for burnt cheesecake and artisan pastries.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/amsterdam/madame_charlie_bakery_x_basque_artisan_pastries_an.jpg",
       "location": "Bickerswerf 21, 1013 KV Amsterdam, Hollanda",
@@ -2723,7 +2685,7 @@
       "name": "Madame Croissant Amsterdam",
       "category": "Cafe",
       "area": "Hartenstraat 29H",
-      "description": "Özel kahve çeşitleri ve ev yapımı lezzetleriyle tanınan, rahat atmosferi ile dikkat çeken bir kafe.",
+      "description": "Fransız kruvasan geleneğini modern dokunuşlarla birleştiren popüler bir mekan. Antep fıstıklı, reçelli brie peynirli veya 'Dubai çikolatalı' gibi yaratıcı ve bol malzemeli kruvasan çeşitleriyle kahvaltıların vazgeçilmezi. Her sabah taze pişirilen lezzetler sunar.",
       "description_en": "French-style bakery with perfect croissants and viennoiseries.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/amsterdam/madame_croissant_amsterdam.jpg",
       "location": "Hartenstraat 29H, 1016 CA Amsterdam, Hollanda",
@@ -2791,7 +2753,7 @@
     {
       "id": "gen_ChIJJS5ukF4JxkcRJdOXXUnVcCI",
       "name": "Mamas & Tapas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Hugo de Grootplein 6",
       "description": "Mamas & Tapas, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Mamas & Tapas is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -2816,7 +2778,7 @@
       "name": "Manneken Pis (Fries) Amsterdam",
       "name_en": "Manneken Pis Fries",
       "area": "Centrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "patates",
         "sokak yemeği",
@@ -2839,7 +2801,7 @@
     {
       "id": "gen_ChIJRQ2kWwTjxUcRsj-dR83Tvts",
       "name": "Margo's Amsterdam",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Bellamyplein 18HS",
       "description": "Margo's Amsterdam, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Margo's Amsterdam is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -2887,7 +2849,7 @@
     {
       "id": "gen_ChIJN4MvEgEJxkcRDZA-ZxJKVEU",
       "name": "Miri Mary Indian Restaurant Amsterdam",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Van der Helstplein 15H",
       "description": "Otantik Kuzey Hint mutfağının Amsterdam'daki en iyi temsilcilerinden biri. Tandır fırınında pişen naan ekmeği, baharatlı butter chicken ve aromalı biryani pilavları, sizi Hindistan sokaklarına götürür. Vejetaryenler için de zengin seçenekler sunar.",
       "description_en": "One of the best representatives of authentic North Indian cuisine in Amsterdam. Naan bread baked in a tandoor oven, spicy butter chicken, and aromatic biryani rice will take you to the streets of India. It also offers rich options for vegetarians.",
@@ -2913,7 +2875,7 @@
       "name": "Mister NATA",
       "category": "Cafe",
       "area": "Van Woustraat 48",
-      "description": "Mister NATA, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
+      "description": "Portekiz'in meşhur 'Pastel de Nata' tatlısını Amsterdam'a getiren otantik durak. Çıtır hamur ve kremamsı iç dolgusuyla Lizbon sokaklarındaymışsınız gibi hissettirir. Klasik lezzetin yanı sıra elma-tarçın veya vegan seçenekleri de denemeye değer.",
       "description_en": "Mister NATA is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/amsterdam/mister_nata.jpg",
       "location": "Van Woustraat 48, 1073 LM Amsterdam, Hollanda",
@@ -2924,37 +2886,14 @@
       "price": "medium",
       "website": "https://misternata.com/",
       "tags": [
-        "kafe",
         "popüler",
+        "kafe",
         "keşfet"
       ],
       "distanceFromCenter": 1.5,
       "tips": "Hafta içi ziyaret etmek daha sakin bir deneyim sunar.",
-      "tips_en": "Visiting on weekdays offers a calmer experience."
-    },
-    {
-      "id": "gen_ChIJxeuDPQIJxkcROay2bHk01mo",
-      "name": "Mister Nata",
-      "category": "Cafe",
-      "area": "Haarlemmerdijk 37",
-      "description": "Özel kahve çeşitleri ve ev yapımı lezzetleriyle tanınan, rahat atmosferi ile dikkat çeken bir kafe.",
-      "description_en": "Lisbon-style pastéis de nata in Amsterdam.",
-      "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AZLasHpWEf_V12tyflFEXVeDQaLCDvvOz0IuCmwSl9PhXL47jAxFFU079DU5WuiK9rMYKzSyYWhj7h8YXjDA_0x7_RJ-oTi9B2EhnpAULufPjqh4bVgUcCHOw4sI9JP7cmus9H4Zy3rZSWdeqEqiSCexAvQAQjE7Yc7YcVsQKTgCn7hlhLAbPhYzTxe9rRcFiDaSPo8_hxH7C6ezZGKpevuQ82FXsbJmQjHnBq-jfJ1BLwyoHbDPdPpwTGw5PAi6J7RvdStzfa0ZJYKyTOkfTFYl6AKB2G031ST-7f23O55kg8vVuGo_fdetXHrwQGQV_ad8w7JAVeUT7vDGhvw2Vsxzth6MfyrHcFyE0ERXHkSkvIAoJOsJzMp5TRo16-iszMHXIhEwRRsDBiroOfyNJI8GeZKtVJROOjVxDaKc_B2NSUZVojDC-2uSeptxWfWXQaBz&key=AIzaSyBOXbf-5v4aXyEYgciwX4EfPYAGXX6Yy9g",
-      "location": "Haarlemmerdijk 37, 1013 KA Amsterdam, Hollanda",
-      "lat": 52.3820308,
-      "lng": 4.888116699999999,
-      "rating": 4.8,
-      "reviewCount": 178,
-      "price": "medium",
-      "website": "https://www.misternata.com/",
-      "tags": [
-        "kafe",
-        "popüler",
-        "keşfet"
-      ],
-      "distanceFromCenter": 1.5,
-      "tips": "Çevredeki küçük hediyelik eşya dükkanlarına da uğrayın.",
-      "tips_en": "Stop by the small souvenir shops around."
+      "tips_en": "Visiting on weekdays offers a calmer experience.",
+      "name_en": "Mister Nata"
     },
     {
       "name": "Moco Museum",
@@ -2985,7 +2924,7 @@
       "name": "Moeders",
       "name_en": "Moeders",
       "area": "Jordaan",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "hollanda mutfağı",
         "ev yemeği",
@@ -3009,7 +2948,7 @@
       "name": "Moeders (Anneler) Restoranı",
       "name_en": "Moeders Restaurant",
       "area": "Oud-West/Jordaan",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "geleneksel",
         "ev yemeği",
@@ -3056,7 +2995,7 @@
     {
       "id": "gen_ChIJje2rQRfjxUcRna-Rv85R0q0",
       "name": "Mountain Nepal - Amsterdam",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Kinkerstraat 348",
       "description": "Himalaya eteklerinden gelen Nepal mutfağını Amsterdam'a taşıyan samimi bir lokanta. Geleneksel 'momo' mantıları, baharatlı 'dal bhat' yemeği ve thukpa çorbası, Nepal'in sade ama derin lezzetlerini keşfetmenize olanak tanır.",
       "description_en": "An intimate eatery bringing Nepalese cuisine from the foothills of the Himalayas to Amsterdam. Traditional 'momo' dumplings, spicy 'dal bhat', and thukpa soup allow you to discover Nepal's simple but profound flavors.",
@@ -3247,7 +3186,7 @@
       "name": "Nam Kee (Çin Mutfağı)",
       "name_en": "Nam Kee",
       "area": "Zeedijk (Chinatown)",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "çin yemeği",
         "istiridye",
@@ -3270,7 +3209,7 @@
     {
       "id": "gen_ChIJN5jG2B4JxkcRXo3Gu7640HA",
       "name": "Namche Amsterdam",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Lange Leidsedwarsstraat 91",
       "description": "Adını Everest'e giden yolun üzerindeki ünlü Nepal köyünden alan bu restoran, otantik Sherpa lezzetlerini sunar. Yak eti yemekleri, Tibet usulü çay ve geleneksel Nepali tabaklarıyla, deniz seviyesinden binlerce metre yukarıdaki bir dağ evinde gibi hissedersiniz.",
       "description_en": "Named after the famous Nepali village on the way to Everest, this restaurant serves authentic Sherpa flavors. With yak meat dishes, Tibetan-style tea, and traditional Nepali plates, you'll feel like you're in a mountain lodge thousands of meters above sea level.",
@@ -3344,7 +3283,7 @@
       "name": "Nous - Coffee Store",
       "category": "Cafe",
       "area": "Haarlemmerplein 29HS",
-      "description": "Özel kahve çeşitleri ve ev yapımı lezzetleriyle tanınan, rahat atmosferi ile dikkat çeken bir kafe.",
+      "description": "Haarlemmerplein ve Noord'da şubeleri bulunan, minimalist ve aydınlık tasarıma sahip modern bir kahve dükkanı. Flat white ve matcha latte gibi kaliteli kahvelerinin yanı sıra renk değiştiren 'sihirli limonata'sı ve leziz kurabiyeleriyle tanınır. İnsanı içine çeken samimi bir mahalle kafesi havası vardır.",
       "description_en": "French-inspired coffee store with quality beans and brewing.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/amsterdam/nous_coffee_store.jpg",
       "location": "Haarlemmerplein 29HS, 1013 HP Amsterdam, Hollanda",
@@ -3414,7 +3353,7 @@
     {
       "id": "gen_ChIJJ-GI7zIJxkcRRZmMA-yM5ko",
       "name": "Oocker",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Frederiksplein 29h",
       "description": "Oocker, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Oocker is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -3535,7 +3474,7 @@
     {
       "id": "gen_ChIJG6r3CIEJxkcR8Ixl1hYOCF4",
       "name": "Pelusa",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Leen Jongewaardkade 41",
       "description": "Pelusa, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Pelusa is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -3583,7 +3522,7 @@
     {
       "name": "Pluk",
       "area": "De 9 Straatjes",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "brunch",
         "instagram",
@@ -3704,7 +3643,7 @@
     {
       "name": "Red Light District (De Wallen)",
       "area": "De Wallen",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "gece hayatı",
         "tarihi",
@@ -3799,7 +3738,7 @@
     {
       "id": "gen_ChIJn8V5MccJxkcRHVZpXXoRPps",
       "name": "Restaurant Bougainville",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Dam 27",
       "description": "Dam Meydanı manzaralı, Michelin yıldızlı bir gastronomi deneyimi. Şef Tim Golsteijn'in Doğu ve Batı lezzetlerini harmanlayan yaratıcı menüsü ve sommelier Ronald Opten'in eşsiz şarap eşleşmeleri.",
       "description_en": "High-end venue in Hotel TwentySeven, preparing avant-garde meat & seafood plates, plus sake & wine.",
@@ -3823,7 +3762,7 @@
     {
       "id": "gen_ChIJBysmqXoJxkcRe5TxdtJrrrE",
       "name": "Restaurant JA",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Tweede Jan Steenstraat 3",
       "description": "Restaurant JA, damak tadınıza hitap eden lezzetleri şık bir atmosferde sunar. Taze ve yerel malzemelerle hazırlanan menüsü, hem Hollanda mutfağından hem de dünya mutfaklarından seçkin örneklerle unutulmaz bir akşam yemeği vaat eder.",
       "description_en": "Restaurant JA offers flavors appealing to your palate in a stylish atmosphere. Its menu prepared with fresh and local ingredients promises an unforgettable dinner with distinguished examples from both Dutch and world cuisines.",
@@ -3847,7 +3786,7 @@
     {
       "id": "gen_ChIJ8wcb-UYJxkcRZ91_p6potmY",
       "name": "Restaurant Kenneh",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Nassaukade 153g",
       "description": "Restaurant Kenneh, damak tadınıza hitap eden lezzetleri şık bir atmosferde sunar. Taze ve yerel malzemelerle hazırlanan menüsü, hem Hollanda mutfağından hem de dünya mutfaklarından seçkin örneklerle unutulmaz bir akşam yemeği vaat eder.",
       "description_en": "Restaurant Kenneh offers flavors appealing to your palate in a stylish atmosphere. Its menu prepared with fresh and local ingredients promises an unforgettable dinner with distinguished examples from both Dutch and world cuisines.",
@@ -3871,7 +3810,7 @@
     {
       "id": "gen_ChIJc3C9G-UJxkcRbIMMVgNyojU",
       "name": "Restaurant Mont Blanc",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Govert Flinckstraat 308",
       "description": "Restaurant Mont Blanc, damak tadınıza hitap eden lezzetleri şık bir atmosferde sunar. Taze ve yerel malzemelerle hazırlanan menüsü, hem Hollanda mutfağından hem de dünya mutfaklarından seçkin örneklerle unutulmaz bir akşam yemeği vaat eder.",
       "description_en": "Restaurant Mont Blanc offers flavors appealing to your palate in a stylish atmosphere. Its menu prepared with fresh and local ingredients promises an unforgettable dinner with distinguished examples from both Dutch and world cuisines.",
@@ -3895,7 +3834,7 @@
     {
       "id": "gen_ChIJmz2W_bwJxkcR9aW1XLdd9LU",
       "name": "Restaurant Olijfje",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Valkenburgerstraat 223D",
       "description": "Laid-back option preparing Mediterranean eats including casseroles, fish & grilled meats, plus wine.",
       "description_en": "Laid-back option preparing Mediterranean eats including casseroles, fish & grilled meats, plus wine.",
@@ -3919,7 +3858,7 @@
     {
       "id": "gen_ChIJFepjd7oLxkcRf--jYYUy8ao",
       "name": "Restaurant Showw",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Gelrestraat 28",
       "description": "Restaurant Showw, damak tadınıza hitap eden lezzetleri şık bir atmosferde sunar. Taze ve yerel malzemelerle hazırlanan menüsü, hem Hollanda mutfağından hem de dünya mutfaklarından seçkin örneklerle unutulmaz bir akşam yemeği vaat eder.",
       "description_en": "Restaurant Showw offers flavors appealing to your palate in a stylish atmosphere. Its menu prepared with fresh and local ingredients promises an unforgettable dinner with distinguished examples from both Dutch and world cuisines.",
@@ -3943,7 +3882,7 @@
     {
       "id": "gen_ChIJ-y5x-fEJxkcRCHWqzQtNM9s",
       "name": "Restaurant Watergang",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Weteringstraat 41",
       "description": "Arkadaşınızın oturma odasında yemek yiyormuş hissi veren, samimi ve romantik bir mekan. Aylık değişen 5-6 krusluk sürpriz menüsüyle Avrupa mutfağının inceliklerini sunuyor.",
       "description_en": "Charming, townhouse-like restaurant creating upscale 5-course meals with seasonal flavors.",
@@ -3967,7 +3906,7 @@
     {
       "id": "gen_ChIJY_IxVu0JxkcRi3NPxcHUO4o",
       "name": "Restaurant Zaza's",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Daniël Stalpertstraat 103",
       "description": "'Absolutely Fabulous' temasından ilham alan, sadece 12 masalı butik bir restoran. Eğlenceli, rahat bir atmosferde, orkinos tempura gibi yaratıcı ve lezzetli yemekler.",
       "description_en": "Elevated takes on scallops, shrimp & rib eye, served in a sophisticated, intimate dining room.",
@@ -4017,7 +3956,7 @@
     {
       "name": "Rijsel",
       "area": "De Pijp",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "fransız",
         "flemish",
@@ -4091,7 +4030,7 @@
     {
       "id": "gen_ChIJIY8-Y40JxkcRBw2QcBx7H8E",
       "name": "Rudi’s Original Stroopwafels",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Albert Cuyp Straat",
       "description": "Albert Cuyp Market'taki eski tarz tezgahta servis edilen, karamel şurubuyla kişiye özel hazırlanan waffle'lar.",
       "description_en": "Albert Cuyp Market'taki eski tarz tezgahta servis edilen, karamel şurubuyla kişiye özel hazırlanan waffle'lar.",
@@ -4115,7 +4054,7 @@
     {
       "id": "gen_ChIJsyFqOe0JxkcRCzJzJJnNAoE",
       "name": "Rue d’Alger",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Eerste Constantijn Huygensstraat 29",
       "description": "Rue d’Alger, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Rue d’Alger is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -4139,7 +4078,7 @@
     {
       "id": "gen_ChIJvVFd6DLjxUcR04FpBcxUxPI",
       "name": "September Amsterdam",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Baffinstraat 1",
       "description": "September Amsterdam, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "September Amsterdam is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -4163,7 +4102,7 @@
     {
       "id": "gen_ChIJOynuceEJxkcRx6D0xVq7Wt4",
       "name": "Sinck",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Prinsengracht 422",
       "description": "Sinck, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Sinck is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -4187,7 +4126,7 @@
     {
       "id": "gen_ChIJI9r5F1QJxkcRhS523hjSxnc",
       "name": "Sins of Sal",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Westerstraat 86",
       "description": "Sins of Sal, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
       "description_en": "Sins of Sal is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
@@ -4211,7 +4150,7 @@
     {
       "name": "SkyLounge Amsterdam",
       "area": "Centrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "rooftop",
         "manzara",
@@ -4382,7 +4321,7 @@
     {
       "name": "Tales & Spirits",
       "area": "Centrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kokteyl",
         "hikaye",
@@ -4409,7 +4348,7 @@
       "name": "The Brokers Bar",
       "category": "Cafe",
       "area": "Oudebrugsteeg 9",
-      "description": "Özel kahve çeşitleri ve ev yapımı lezzetleriyle tanınan, rahat atmosferi ile dikkat çeken bir kafe.",
+      "description": "Tarihi Beurs van Berlage (Eski Borsa Binası) içinde yer alan, geçmişin mimarisini modern konforla buluşturan şık bir bar. Zengin kokteyl menüsü, kaliteli içkileri ve bar atıştırmalıklarıyla iş çıkışı veya özel buluşmalar için sofistike bir atmosfer sunar.",
       "description_en": "Financial district bar with sophisticated drinks.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/amsterdam/the_brokers_bar.jpg",
       "location": "Oudebrugsteeg 9, 1012 JN Amsterdam, Hollanda",
@@ -4431,7 +4370,7 @@
     {
       "id": "gen_ChIJKQEowXAJxkcR1uPTdMCJs60",
       "name": "The Cottage",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Linnaeusstraat 88",
       "description": "Geleneksel lezzetler ile pazar günleri rosto servis edilen, açık havada masaları da olan, rahat atmosferli mekan.",
       "description_en": "Geleneksel lezzetler ile pazar günleri rosto servis edilen, açık havada masaları da olan, rahat atmosferli mekan.",
@@ -4501,7 +4440,7 @@
     {
       "id": "gen_ChIJG9c0F-kJxkcR0Yd6ANByMLE",
       "name": "The Pantry",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Leidsekruisstraat 21",
       "description": "Ev yapımı ve geleneksel lezzetlerin doyurucu porsiyonlarda servis edildiği, dışarıda oturma alanı da bulunan samimi restoran.",
       "description_en": "Ev yapımı ve geleneksel lezzetlerin doyurucu porsiyonlarda servis edildiği, dışarıda oturma alanı da bulunan samimi restoran.",
@@ -4525,7 +4464,7 @@
     {
       "id": "gen_ChIJb1daq2QJxkcRTADiOu8oKZ8",
       "name": "The Rum Barrel",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Spaarndammerstraat 17",
       "description": "The Rum Barrel, Amsterdam gece hayatının nabzını tutan, samimi ve enerjik bir mekandır. Yerel Hollanda biralarını tadabileceğiniz, dostlarınızla sohbet edip müziğin keyfini çıkarabileceğiniz, şehrin ruhunu yansıtan bir buluşma noktasıdır.",
       "description_en": "The Rum Barrel is an intimate and energetic venue keeping the pulse of Amsterdam nightlife. A meeting point reflecting the city's soul where you can taste local Dutch beers, chat with friends, and enjoy the music.",
@@ -4550,7 +4489,7 @@
       "name": "The Seafood Bar",
       "name_en": "The Seafood Bar",
       "area": "Spuistraat / De Pijp",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "deniz ürünleri",
         "taze",
@@ -4719,10 +4658,14 @@
       "area": "Centrum",
       "category": "Cafe",
       "tags": [
-        "cookie",
         "çikolata",
+        "sıra",
+        "ünlü",
         "tek ürün",
-        "sıra"
+        "kurabiye",
+        "gurme",
+        "lezzetli",
+        "cookie"
       ],
       "distanceFromCenter": 0.3,
       "lat": 52.3718,
@@ -4737,36 +4680,13 @@
       "reviewCount": 8500,
       "metro": "Dam + yürüyüş",
       "description_en": "Van Stapele offers one of the finest examples of Amsterdam's coffee culture. This cozy venue in Centrum is ideal for a break with its carefully crafted drinks, homemade desserts and peaceful atmosphere.",
-      "tips_en": "Stop by the small souvenir shops around."
-    },
-    {
-      "name": "Van Stapele Koekmakerij",
-      "name_en": "Van Stapele",
-      "area": "Centrum",
-      "category": "Cafe",
-      "tags": [
-        "kurabiye",
-        "ünlü",
-        "lezzetli",
-        "gurme"
-      ],
-      "distanceFromCenter": 0.4,
-      "lat": 52.3689,
-      "lng": 4.8906,
-      "price": "low",
-      "rating": 4.9,
-      "description": "Dünyanın en iyi kurabiyesini yaptığını iddia eden küçük dükkan. Sadece beyaz çikolata dolgulu bitter kurabiyeler yaparlar ve her zaman kapısında sıra olur.",
-      "description_en": "A small shop claiming to make the world's best cookie. They only make dark chocolate cookies with a white chocolate filling, and there's always a queue at the door.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/amsterdam/van_stapele_koekmakerij.jpg",
-      "bestTime": "Sabah (sıra uzamadan)",
-      "bestTime_en": "Morning (before lines get long)",
-      "tips": "Hafta içi ziyaret etmek daha sakin bir deneyim sunar.",
-      "tips_en": "Visiting on weekdays offers a calmer experience."
+      "tips_en": "Stop by the small souvenir shops around.",
+      "name_en": "Van Stapele"
     },
     {
       "id": "gen_ChIJg-upob8JxkcRArse20i7HeY",
       "name": "VanOost Restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Mauritskade 61",
       "description": "VanOost Restaurant, damak tadınıza hitap eden lezzetleri şık bir atmosferde sunar. Taze ve yerel malzemelerle hazırlanan menüsü, hem Hollanda mutfağından hem de dünya mutfaklarından seçkin örneklerle unutulmaz bir akşam yemeği vaat eder.",
       "description_en": "VanOost Restaurant offers flavors appealing to your palate in a stylish atmosphere. Its menu prepared with fresh and local ingredients promises an unforgettable dinner with distinguished examples from both Dutch and world cuisines.",
@@ -4839,7 +4759,7 @@
       "name": "Vleminckx de Sausmeester",
       "name_en": "Vleminckx",
       "area": "Centrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "patates",
         "sos",
@@ -4890,7 +4810,7 @@
       "name": "WALDO Chocolade & Patisserie",
       "category": "Cafe",
       "area": "Elandsgracht 91",
-      "description": "WALDO Chocolade & Patisserie, Amsterdam'ın kendine has karakterini ve özgür ruhunu yansıtan, keşfedilmeyi bekleyen bir yerdir. Meraklı gezginler için sunduğu detaylar ve atmosferiyle, seyahat anılarınızda özel bir yer edinecektir.",
+      "description": "Şef Waldo'nun yaratıcı dokunuşlarıyla hazırlanan artizan çikolata ve pasta cenneti. Özellikle mini tartletleri, frambozlu cheesecake'i ve çeşit çeşit scone'ları ile tatlı krizlerinin en lezzetli çözümü. De Pijp ve Jordaan'daki şubeleriyle şehrin en sevilen butik pastanelerinden.",
       "description_en": "WALDO Chocolade & Patisserie is a place waiting to be discovered, reflecting Amsterdam's unique character and free spirit. With details and atmosphere offered for curious travelers, it will earn a special place in your travel memories.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/amsterdam/waldo_chocolade_and_patisserie.jpg",
       "location": "Elandsgracht 91, 1016 TS Amsterdam, Hollanda",
@@ -4901,37 +4821,14 @@
       "price": "medium",
       "website": "http://www.waldopatisserie.nl/",
       "tags": [
-        "kafe",
         "popüler",
+        "kafe",
         "keşfet"
       ],
       "distanceFromCenter": 1.5,
       "tips": "Hafta içi ziyaret etmek daha sakin bir deneyim sunar.",
-      "tips_en": "Visiting on weekdays offers a calmer experience."
-    },
-    {
-      "id": "gen_ChIJK2s76Eu2xUcRD3gjM9EAlHo",
-      "name": "WALDO chocolade & patisserie",
-      "category": "Cafe",
-      "area": "Eerste Sweelinckstraat 14",
-      "description": "Özel kahve çeşitleri ve ev yapımı lezzetleriyle tanınan, rahat atmosferi ile dikkat çeken bir kafe.",
-      "description_en": "Artisan chocolates and pastries in elegant setting.",
-      "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AZLasHqhT3d0lBSGx3b7i4bKECIZ_A4szmcpQmtKVNGsOHHuwelcx5sOPBKmoKRK-eg4Lv5FnizHlaWASRDkbcr22XxbS5MkUpLRf9KOK7Hb8amuh0ovAuVvRedsnnljebFWIHOwG873TkSEeSb3n1m4xDUgq4SvtwbYBHq8TaO-7uo7vrsljy0sZ43FnYNWYYIZS277Mrkd8ZQ1UcO0UdMGcU6pLtu5Waw7NDqAGkzTB52ETpc4CteL3GD9FoNIPcMBopzefwLBhwL0isE4saBXwax8EwOxlyNlfNTkBaHwODcl5w&key=AIzaSyBOXbf-5v4aXyEYgciwX4EfPYAGXX6Yy9g",
-      "location": "Eerste Sweelinckstraat 14, 1073 CM Amsterdam, Hollanda",
-      "lat": 52.3562947,
-      "lng": 4.8973669,
-      "rating": 4.8,
-      "reviewCount": 163,
-      "price": "medium",
-      "website": "http://www.waldopatisserie.nl/",
-      "tags": [
-        "kafe",
-        "popüler",
-        "keşfet"
-      ],
-      "distanceFromCenter": 1.5,
-      "tips": "Google Maps yorumlarına göz atarak ne yiyeceğinize karar verin.",
-      "tips_en": "Decide what to eat by checking Google Maps reviews."
+      "tips_en": "Visiting on weekdays offers a calmer experience.",
+      "name_en": "WALDO chocolade & patisserie"
     },
     {
       "id": "gen_ChIJdSr0CHoJxkcRjcP5BTn9QlM",
@@ -5080,7 +4977,7 @@
       "name": "Winkel 43",
       "name_en": "Winkel 43",
       "area": "Jordaan",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "elmalı pasta",
         "appeltaart",
@@ -5223,7 +5120,7 @@
     {
       "id": "gen_ChIJd75Sd8gJxkcR3jy2XQJJlBo",
       "name": "de Silveren Spiegel",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Kattengat 4",
       "description": "1614 yılında inşa edilen tarihi bir binada hizmet veren restoran, mum ışığı ve gümüş çatal-bıçaklarla bezeli atmosferinde Hollanda 'fine dining' deneyimi sunar. Şefin mevsimsel tadım menüsü, domuz filetosu veya barbun gibi yerel lezzetleri modern tekniklerle yorumlar. Tarihi dokusu ve lezzetleriyle romantik bir akşam yemeği için idealdir.",
       "description_en": "Housed in a historic building built in 1614, the restaurant offers a Dutch fine dining experience in an atmosphere adorned with candlelight and silver cutlery. The chef's seasonal tasting menu interprets local flavors like piglet fillet or red mullet with modern techniques. Ideal for a romantic dinner with its historic texture and flavors.",

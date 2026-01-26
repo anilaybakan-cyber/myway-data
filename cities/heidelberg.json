@@ -162,7 +162,7 @@
       "name": "Brauhaus Vetter",
       "name_en": "Vetter's Brewery",
       "area": "Altstadt",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bira fabrikası",
         "restoran",
@@ -236,9 +236,9 @@
       "name": "Cafe Knösel",
       "category": "Kafe",
       "tags": [
-        "chocolate",
         "student kiss",
-        "historic"
+        "historic",
+        "chocolate"
       ],
       "lat": 49.412,
       "lng": 8.71,
@@ -251,7 +251,8 @@
       "tips": "Sessiz bir köşe bulup kitap okumak için ideal.",
       "tips_en": "Ideal for finding a quiet corner and reading a book.",
       "description_en": "'Öğrenci öpücüğü' çikolatalarıyla ünlü tarihi kafe. One of the right addresses to relieve the tiredness of the day and relax with a delicious coffee. The warm ambiance of the venue and the sweet surprises it offers will turn your break into pleasure.",
-      "source": "firebase"
+      "source": "firebase",
+      "name_en": "Café Knösel"
     },
     {
       "name": "Café Burkardt",
@@ -273,28 +274,6 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Kahvenin yanında ev yapımı tatlılarını mutlaka deneyin.",
       "tips_en": "Must try their homemade desserts with coffee."
-    },
-    {
-      "name": "Café Knösel",
-      "category": "Kafe",
-      "tags": [
-        "student kiss",
-        "chocolate",
-        "historic"
-      ],
-      "lat": 49.412,
-      "lng": 8.71,
-      "rating": 4.5,
-      "description": "'Öğrenci öpücüğü' çikolatalarıyla ünlü tarihi kafe. Günün yorgunluğunu atmak ve lezzetli bir kahve eşliğinde dinlenmek için en doğru adreslerden biri. Mekanın sıcak ambiyansı ve sunduğu tatlı sürprizler, molanızı keyfe dönüştürecek.",
-      "description_en": "Historic cafe famous for 'Student Kiss' chocolates. One of the right addresses to relieve the tiredness of the day and relax with a delicious coffee. The warm ambiance of the venue and the sweet surprises it offers will turn your break into pleasure.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/café_knösel.jpg",
-      "price": "medium",
-      "distanceFromCenter": 1.0,
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Laptop ile çalışmak için uygun, Wi-Fi hızı iyi.",
-      "tips_en": "Suitable for working with a laptop, Wi-Fi is good.",
-      "source": "firebase"
     },
     {
       "name": "Carl Bosch Müzesi",
@@ -326,7 +305,7 @@
       "name": "Chocolaterie Yilliy",
       "name_en": "Chocolaterie Yilliy",
       "area": "Altstadt",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "çikolata",
         "tatlı",
@@ -349,25 +328,32 @@
       "source": "firebase"
     },
     {
-      "name": "Church of the Holy Spirit",
+      "name": "Heiliggeistkirche (Kutsal Ruh Kilisesi)",
+      "name_en": "Church of the Holy Spirit",
+      "area": "Marktplatz",
       "category": "Tarihi",
       "tags": [
         "church",
+        "kilise",
+        "meydan",
+        "mimari",
         "gothic",
-        "market"
+        "market",
+        "gotik"
       ],
-      "lat": 49.4118,
-      "lng": 8.7105,
-      "rating": 4.5,
+      "distanceFromCenter": 0.1,
+      "lat": 49.4096,
+      "lng": 8.7099,
+      "price": "free",
+      "rating": 4.6,
       "description": "Gotik kilise ve pazar meydanı. Tarih meraklıları için eşsiz bir hazine olan bu mekan, geçmişe ışık tutan detaylarıyla ziyaretçilerini büyülüyor. Kültürel bir yolculuğa çıkmak isteyenler için ideal bir durak.",
       "description_en": "Gothic church and market square. A unique treasure for history buffs, this venue captivates visitors with details that shed light on the past. An ideal stop for those wishing to embark on a cultural journey.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/church_of_the_holy_spirit.jpg",
-      "price": "medium",
-      "distanceFromCenter": 1.0,
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Sabah erken saatlerde giderek turist kalabalığından kaçınabilirsiniz.",
-      "tips_en": "Go early in the morning to avoid tourist crowds.",
+      "bestTime": "Gündüz",
+      "bestTime_en": "Daytime",
+      "tips": "Kuleye çıkış 2€, muhteşem manzara için değer.",
+      "tips_en": "Tower climb is 2€, worth it for the stunning view.",
+      "id": "heiliggeistkirche-kutsal-ruh-kilisesi",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/heiliggeistkirche-kutsal-ruh-kilisesi.jpg",
       "source": "firebase"
     },
     {
@@ -398,7 +384,7 @@
     },
     {
       "name": "Essighaus",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "vinegar house",
         "german",
@@ -491,7 +477,7 @@
       "name": "Gelato Go",
       "name_en": "Gelato Go",
       "area": "Altstadt",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "dondurma",
         "gelato",
@@ -515,7 +501,7 @@
       "name": "Goldener Hecht",
       "name_en": "Golden Pike",
       "area": "Altstadt",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "balık",
         "geleneksel",
@@ -559,7 +545,7 @@
     },
     {
       "name": "Hackteufel",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "fine dining",
         "modern",
@@ -606,9 +592,13 @@
       "name": "Hauptstrasse",
       "category": "Alışveriş",
       "tags": [
-        "shopping",
         "pedestrian",
-        "longest"
+        "alışveriş",
+        "caddesi",
+        "shopping",
+        "longest",
+        "yaya",
+        "mağaza"
       ],
       "lat": 49.411,
       "lng": 8.705,
@@ -622,33 +612,9 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Pazar günleri kapalı olabilir, kontrol edin.",
       "tips_en": "Might be closed on Sundays, do check.",
-      "source": "firebase"
-    },
-    {
-      "name": "Hauptstraße",
+      "source": "firebase",
       "name_en": "Main Street",
-      "area": "Altstadt",
-      "category": "Alışveriş",
-      "tags": [
-        "caddesi",
-        "alışveriş",
-        "yaya",
-        "mağaza"
-      ],
-      "distanceFromCenter": 0.0,
-      "lat": 49.4095,
-      "lng": 8.705,
-      "price": "variable",
-      "rating": 4.5,
-      "description": "1.6 km uzunluğuyla Avrupa'nın en uzun yaya caddelerinden biri. Butikler, kafeler, restoranlar sıralanır.",
-      "description_en": "At 1.6 km, one of Europe's longest pedestrian streets. Lined with boutiques, cafes, restaurants.",
-      "bestTime": "Gündüz",
-      "bestTime_en": "Daytime",
-      "tips": "Baştan sona yürümek en az 1 saat alır.",
-      "tips_en": "Walking end to end takes at least 1 hour.",
-      "id": "hauptstrasse",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/hauptstrasse.jpg",
-      "source": "firebase"
+      "area": "Altstadt"
     },
     {
       "name": "Havana Bar",
@@ -677,24 +643,32 @@
       "source": "firebase"
     },
     {
-      "name": "Heidelberg Castle",
+      "name": "Heidelberg Kalesi (Schloss)",
+      "name_en": "Heidelberg Castle",
+      "area": "Schloss",
       "category": "Tarihi",
       "tags": [
-        "castle",
+        "panorama",
+        "kale",
         "ruins",
-        "view"
+        "castle",
+        "view",
+        "ikonik",
+        "rönesans"
       ],
-      "lat": 49.4105,
-      "lng": 8.7155,
-      "rating": 4.8,
-      "description": "Alman Romantizminin sembolü sayılan bu görkemli kale kalıntısı, Neckar Nehri ve şehir manzarasını ayaklarınızın altına serer. Dünyanın en büyük şarap fıçısını görebileceğiniz mahzenleri ve tarihi eczane müzesiyle keşfedilmeyi bekler.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/heidelberg_castle.jpg",
+      "distanceFromCenter": 0.5,
+      "lat": 49.4107,
+      "lng": 8.7153,
       "price": "medium",
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Kaleye füniküler ile çıkıp yürüyerek inin, manzara harikadır. Mahzende şarap tadımı yapabilirsiniz.",
-      "tips_en": "Take the funicular up and walk down for great views. You can do wine tasting in the cellar.",
+      "rating": 4.9,
+      "description": "Alman Romantizminin sembolü sayılan bu görkemli kale kalıntısı, Neckar Nehri ve şehir manzarasını ayaklarınızın altına serer. Dünyanın en büyük şarap fıçısını görebileceğiniz mahzenleri ve tarihi eczane müzesiyle keşfedilmeyi bekler.",
       "description_en": "Considered the symbol of German Romanticism, these majestic castle ruins lay the view of the Neckar River and city at your feet. It awaits discovery with its cellars housing the world's largest wine barrel and the historic pharmacy museum.",
+      "bestTime": "Gün batımı",
+      "bestTime_en": "Sunset",
+      "tips": "Füniküler (Bergbahn) ile çıkın, muhteşem manzara. Akşam ışıklandırması efsanevi.",
+      "tips_en": "Take the funicular (Bergbahn), amazing view. Evening illumination is legendary.",
+      "id": "heidelberg-kalesi-schloss",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/heidelberg-kalesi-schloss.jpg",
       "source": "firebase"
     },
     {
@@ -721,32 +695,6 @@
       "tips_en": "Less crowded on weekdays.",
       "id": "heidelberg-hayvanat-bahçesi",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/heidelberg-hayvanat-bahçesi.jpg",
-      "source": "firebase"
-    },
-    {
-      "name": "Heidelberg Kalesi (Schloss)",
-      "name_en": "Heidelberg Castle",
-      "area": "Schloss",
-      "category": "Tarihi",
-      "tags": [
-        "kale",
-        "rönesans",
-        "panorama",
-        "ikonik"
-      ],
-      "distanceFromCenter": 0.5,
-      "lat": 49.4107,
-      "lng": 8.7153,
-      "price": "medium",
-      "rating": 4.9,
-      "description": "Almanya'nın en romantik kalesi. Rönesans ve Gotik mimari öğeleri taşıyan, 16-17. yüzyıldan kalma muhteşem harabe. İçinde dünyanın en büyük şarap fıçısı (Heidelberg Tun - 220.000 litre) ve Alman Eczacılık Müzesi bulunur.",
-      "description_en": "Germany's most romantic castle. Magnificent ruins from the 16-17th century with Renaissance and Gothic architecture. Contains the world's largest wine barrel and German Pharmacy Museum.",
-      "bestTime": "Gün batımı",
-      "bestTime_en": "Sunset",
-      "tips": "Füniküler (Bergbahn) ile çıkın, muhteşem manzara. Akşam ışıklandırması efsanevi.",
-      "tips_en": "Take the funicular (Bergbahn), amazing view. Evening illumination is legendary.",
-      "id": "heidelberg-kalesi-schloss",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/heidelberg-kalesi-schloss.jpg",
       "source": "firebase"
     },
     {
@@ -803,9 +751,13 @@
       "name": "Heidelberg University",
       "category": "Tarihi",
       "tags": [
+        "akademik",
         "university",
+        "library",
+        "üniversite",
         "history",
-        "library"
+        "mimari",
+        "tarihi"
       ],
       "lat": 49.4125,
       "lng": 8.7065,
@@ -818,33 +770,9 @@
       "tips": "Fotoğraf çekimi için en iyi ışık gün batımına yakındır.",
       "tips_en": "Best light for photography is near sunset.",
       "description_en": "Almanya'nın en eski üniversitesi. A unique treasure for history buffs, this venue captivates visitors with details that shed light on the past. An ideal stop for those wishing to embark on a cultural journey.",
-      "source": "firebase"
-    },
-    {
-      "name": "Heidelberg Üniversitesi",
+      "source": "firebase",
       "name_en": "Heidelberg University",
-      "area": "Altstadt",
-      "category": "Tarihi",
-      "tags": [
-        "üniversite",
-        "tarihi",
-        "akademik",
-        "mimari"
-      ],
-      "distanceFromCenter": 0.2,
-      "lat": 49.4095,
-      "lng": 8.7067,
-      "price": "low",
-      "rating": 4.7,
-      "description": "1386'da kurulan Almanya'nın en eski üniversitesi. Nobel ödüllü 56 bilim insanı yetiştirmiş. Eski kampüs binaları ve Üniversite Müzesi görülmeye değer.",
-      "description_en": "Germany's oldest university founded in 1386. Produced 56 Nobel laureates. Old campus buildings and University Museum worth visiting.",
-      "bestTime": "Gündüz",
-      "bestTime_en": "Daytime",
-      "tips": "Öğrenci hapishanesini (Studentenkarzer) mutlaka ziyaret edin!",
-      "tips_en": "Must visit the Student Prison (Studentenkarzer)!",
-      "id": "heidelberg-universitesi",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/heidelberg-universitesi.jpg",
-      "source": "firebase"
+      "area": "Altstadt"
     },
     {
       "name": "Heidelberger Bergbahn (Füniküler)",
@@ -892,32 +820,6 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Yanınıza bir örtü alıp çimlerde piknik yapabilirsiniz.",
       "tips_en": "Bring a blanket and have a picnic on the grass.",
-      "source": "firebase"
-    },
-    {
-      "name": "Heiliggeistkirche (Kutsal Ruh Kilisesi)",
-      "name_en": "Church of the Holy Spirit",
-      "area": "Marktplatz",
-      "category": "Tarihi",
-      "tags": [
-        "kilise",
-        "gotik",
-        "meydan",
-        "mimari"
-      ],
-      "distanceFromCenter": 0.1,
-      "lat": 49.4096,
-      "lng": 8.7099,
-      "price": "free",
-      "rating": 4.6,
-      "description": "1398-1544 yılları arasında inşa edilen Gotik kilise, Marktplatz'ın merkezinde. Kuleye çıkarak şehrin panoramik manzarasını görebilirsiniz.",
-      "description_en": "Gothic church built between 1398-1544, in the center of Marktplatz. Climb the tower for a panoramic city view.",
-      "bestTime": "Gündüz",
-      "bestTime_en": "Daytime",
-      "tips": "Kuleye çıkış 2€, muhteşem manzara için değer.",
-      "tips_en": "Tower climb is 2€, worth it for the stunning view.",
-      "id": "heiliggeistkirche-kutsal-ruh-kilisesi",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/heiliggeistkirche-kutsal-ruh-kilisesi.jpg",
       "source": "firebase"
     },
     {
@@ -1040,7 +942,7 @@
     },
     {
       "name": "Kulturbrauerei",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "beer",
         "german",
@@ -1066,17 +968,20 @@
       "category": "Müze",
       "tags": [
         "müze",
-        "sanat",
         "tarih",
-        "arkeoloji"
+        "sanat",
+        "regional",
+        "art",
+        "arkeoloji",
+        "archaeology"
       ],
       "distanceFromCenter": 0.2,
       "lat": 49.4105,
       "lng": 8.708,
       "price": "medium",
       "rating": 4.5,
-      "description": "Palatinate bölgesinin sanat ve tarih müzesi. Riemenschneider'in orijinal Windsheim altar eseri ve arkeolojik koleksiyonlar.",
-      "description_en": "Art and history museum of the Palatinate region. Original Windsheim altar by Riemenschneider and archaeological collections.",
+      "description": "Bölgesel sanat ve arkeoloji. Sanat ve tarih severlerin mutlaka görmesi gereken bu müze, zengin koleksiyonuyla dikkat çekiyor. Sergilenen eserler, bölgenin kültürel mirasını derinlemesine anlamanızı sağlayacak.",
+      "description_en": "Regional art and archaeology. A must-see for art and history lovers, this museum stands out with its rich collection. The exhibited works will allow you to deeply understand the region's cultural heritage.",
       "bestTime": "Gündüz",
       "bestTime_en": "Daytime",
       "tips": "Pazar günleri giriş ücretsiz.",
@@ -1158,7 +1063,7 @@
       "name": "Marktplatz (Pazar Meydanı)",
       "name_en": "Market Square",
       "area": "Altstadt",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "meydan",
         "pazar",
@@ -1208,7 +1113,7 @@
       "name": "Nachtschwärmer",
       "name_en": "Night Owl",
       "area": "Altstadt",
-      "category": "Gece Hayatı",
+      "category": "Bar",
       "tags": [
         "kulüp",
         "dans",
@@ -1260,7 +1165,7 @@
       "name": "Neckarsteinach Dört Kale",
       "name_en": "Neckarsteinach Four Castles",
       "area": "Neckarsteinach",
-      "category": "Günlük Gezi",
+      "category": "Deneyim",
       "tags": [
         "kale",
         "yürüyüş",
@@ -1351,32 +1256,10 @@
       "source": "firebase"
     },
     {
-      "name": "Palatinate Museum",
-      "category": "Müze",
-      "tags": [
-        "art",
-        "archaeology",
-        "regional"
-      ],
-      "lat": 49.4118,
-      "lng": 8.71,
-      "rating": 4.5,
-      "description": "Bölgesel sanat ve arkeoloji. Sanat ve tarih severlerin mutlaka görmesi gereken bu müze, zengin koleksiyonuyla dikkat çekiyor. Sergilenen eserler, bölgenin kültürel mirasını derinlemesine anlamanızı sağlayacak.",
-      "description_en": "Regional art and archaeology. A must-see for art and history lovers, this museum stands out with its rich collection. The exhibited works will allow you to deeply understand the region's cultural heritage.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/palatinate_museum.jpg",
-      "price": "medium",
-      "distanceFromCenter": 1.0,
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Biletinizi online alarak gişe sırasından kurtulun.",
-      "tips_en": "Buy tickets online to skip the box office line.",
-      "source": "firebase"
-    },
-    {
       "name": "Palmbrau Gasse",
       "name_en": "Palmbrau Alley",
       "area": "Altstadt",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bira",
         "geleneksel",
@@ -1422,47 +1305,29 @@
       "name": "Philosophenweg (Filozoflar Yolu)",
       "name_en": "Philosophers' Walk",
       "area": "Neuenheim",
-      "category": "Yürüyüş",
+      "category": "Deneyim",
       "tags": [
-        "yürüyüş",
-        "manzara",
+        "walk",
         "romantik",
-        "doğa"
+        "manzara",
+        "doğa",
+        "yürüyüş",
+        "view",
+        "nature"
       ],
       "distanceFromCenter": 0.8,
       "lat": 49.4158,
       "lng": 8.7016,
       "price": "free",
       "rating": 4.9,
-      "description": "Neckar Nehri'nin karşı yakasında, Heiligenberg yamacındaki efsanevi yürüyüş yolu. Hegel, Goethe gibi filozofların düşünerek yürüdüğü söylenir. Kale ve eski şehir panoraması.",
-      "description_en": "Legendary walking path on the Heiligenberg slope across the Neckar. Said to be walked by philosophers like Hegel and Goethe. Castle and old town panorama.",
+      "description": "Filozofların düşünmek için yürüdüğü, harika manzaralı yol. A perfect getaway for those who want to experience peaceful moments in nature. Ideal for getting away from the city noise, taking a breath, and capturing great photos.",
+      "description_en": "Filozofların düşünmek için yürüdüğü, harika manzaralı yol. A perfect getaway for those who want to experience peaceful moments in nature. Ideal for getting away from the city noise, taking a breath, and capturing great photos.",
       "bestTime": "Gün batımı",
       "bestTime_en": "Sunset",
       "tips": "Gün batımında gidin, Heidelberg'in en güzel manzarası burada.",
       "tips_en": "Go at sunset, the most beautiful view of Heidelberg is here.",
       "id": "philosophenweg-filozoflar-yolu",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/philosophenweg-filozoflar-yolu.jpg",
-      "source": "firebase"
-    },
-    {
-      "name": "Philosophers' Walk",
-      "category": "Park",
-      "tags": [
-        "walk",
-        "view",
-        "nature"
-      ],
-      "lat": 49.416,
-      "lng": 8.711,
-      "rating": 4.9,
-      "description": "Filozofların düşünmek için yürüdüğü, harika manzaralı yol. A perfect getaway for those who want to experience peaceful moments in nature. Ideal for getting away from the city noise, taking a breath, and capturing great photos.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/heidelberg/philosophers__walk.jpg",
-      "price": "medium",
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "En güzel kale manzarası buradan görünür. Gün batımında yanınıza atıştırmalık alıp piknik yapın.",
-      "tips_en": "The best view of the castle is from here. Bring snacks for a picnic at sunset.",
-      "description_en": "Filozofların düşünmek için yürüdüğü, harika manzaralı yol. A perfect getaway for those who want to experience peaceful moments in nature. Ideal for getting away from the city noise, taking a breath, and capturing great photos.",
       "source": "firebase"
     },
     {
@@ -1541,7 +1406,7 @@
       "name": "Sakura Sushi",
       "name_en": "Sakura Sushi",
       "area": "Altstadt",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "japon",
         "sushi",
@@ -1611,7 +1476,7 @@
     },
     {
       "name": "Schnitzelbank",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "schnitzel",
         "rustic",
@@ -1634,7 +1499,7 @@
       "name": "Schwetzingen Sarayı (Günlük Gezi)",
       "name_en": "Schwetzingen Palace Day Trip",
       "area": "Schwetzingen",
-      "category": "Günlük Gezi",
+      "category": "Deneyim",
       "tags": [
         "saray",
         "bahçe",
@@ -1684,7 +1549,7 @@
       "name": "Stadtwald (Şehir Ormanı)",
       "name_en": "City Forest",
       "area": "Schloss",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "orman",
         "yürüyüş",
@@ -1805,7 +1670,7 @@
       "name": "Universitätsplatz",
       "name_en": "University Square",
       "area": "Altstadt",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "meydan",
         "üniversite",
@@ -1831,7 +1696,7 @@
       "name": "Untere Straße (Bar Sokağı)",
       "name_en": "Lower Street (Bar Street)",
       "area": "Altstadt",
-      "category": "Gece Hayatı",
+      "category": "Bar",
       "tags": [
         "bar",
         "gece",
@@ -1857,7 +1722,7 @@
       "name": "Weinstube Schnitzelbank",
       "name_en": "Schnitzelbank Wine Bar",
       "area": "Altstadt",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "şarap",
         "schnitzel",
@@ -1881,7 +1746,7 @@
       "name": "Wirtshaus Zum Nepomuk",
       "name_en": "Nepomuk Inn",
       "area": "Altstadt",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "geleneksel",
         "yöresel",
@@ -1949,7 +1814,7 @@
     },
     {
       "name": "Zum Roten Ochsen",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "historic",
         "student",
@@ -1973,7 +1838,7 @@
       "name": "Zum Seppl",
       "name_en": "Seppl's",
       "area": "Altstadt",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "restoran",
         "geleneksel",

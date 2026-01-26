@@ -12,7 +12,7 @@
       "name": "9 Pyramids Lounge",
       "name_en": "9 Pyramids Lounge",
       "area": "Giza",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "manzara",
         "piramit",
@@ -59,7 +59,7 @@
     {
       "name": "Abou El Sid",
       "area": "Zamalek",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "zamalek",
@@ -111,7 +111,7 @@
       "name": "Ahbab El-Sayyeda",
       "name_en": "Ahbab El-Sayyeda",
       "area": "Sayyeda Zeinab",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yerel",
         "et",
@@ -135,7 +135,7 @@
       "name": "Aisha Fahmy Palace",
       "name_en": "Aisha Fahmy Palace",
       "area": "Zamalek",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "saray",
         "sanat",
@@ -189,50 +189,30 @@
       "category": "Tarihi",
       "tags": [
         "cami",
+        "cephe",
+        "üniversite",
         "mimari",
-        "cephe"
+        "islam"
       ],
       "lat": 30.052,
       "lng": 31.2625,
       "price": "free",
       "rating": 4.5,
-      "description": "Taş işçiliği ve cephe mimarisiyle ünlü, Kahire'nin en zarif küçük camilerinden biri.",
+      "description": "Bin yıllık geçmişiyle İslam dünyasının en önemli eğitim ve ibadet merkezlerinden biri.",
       "description_en": "One of Cairo's most elegant small mosques, famous for its stonework and facade architecture.",
       "bestTime": "Gündüz",
       "tips": "'Ay Işığı' camisi anlamına gelir.",
       "tips_en": "Means 'Moonlight' mosque.",
       "id": "al-aqmar-mosque",
-      "distanceFromCenter": 0.5
-    },
-    {
-      "name": "Al-Azhar Mosque",
-      "name_en": "Al-Azhar Mosque",
-      "area": "Islamic Cairo",
-      "category": "Tarihi",
-      "tags": [
-        "cami",
-        "üniversite",
-        "islam"
-      ],
-      "lat": 30.045,
-      "lng": 31.262,
-      "price": "free",
-      "rating": 4.8,
-      "description": "Bin yıllık geçmişiyle İslam dünyasının en önemli eğitim ve ibadet merkezlerinden biri.",
-      "description_en": "One of Islamic world's most important education and worship centers with 1000-year history.",
-      "bestTime": "Gündüz",
-      "tips": "Kıyafet kurallarına dikkat edin.",
-      "tips_en": "Pay attention to dress code.",
-      "id": "al-azhar-mosque",
+      "distanceFromCenter": 0.5,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kahire/al-azhar-mosque.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
+      "source": "firebase"
     },
     {
       "name": "Al-Azhar Park",
       "name_en": "Al-Azhar Park",
       "area": "Islamic Cairo",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "park",
         "manzara",
@@ -326,7 +306,7 @@
       "name": "Al-Muizz Street",
       "name_en": "Al-Muizz Street",
       "area": "Islamic Cairo",
-      "category": "Yürüyüş",
+      "category": "Deneyim",
       "tags": [
         "cadde",
         "tarihi",
@@ -422,7 +402,7 @@
       "name": "Andalus Garden",
       "name_en": "Al-Andalus Garden",
       "area": "Zamalek",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "bahçe",
         "endülüs",
@@ -446,7 +426,7 @@
       "name": "Andrea Mariouteya",
       "name_en": "Andrea Mariouteya",
       "area": "New Giza",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tavuk",
         "manzara",
@@ -494,7 +474,7 @@
       "name": "Arkan Plaza",
       "name_en": "Arkan Plaza",
       "area": "Sheikh Zayed",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "lüks",
         "restoran",
@@ -641,7 +621,7 @@
       "name": "Babel",
       "name_en": "Babel Zamalek",
       "area": "Zamalek",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "modern",
         "yemek",
@@ -711,7 +691,7 @@
       "name": "Beit Al-Harrawi",
       "name_en": "Beit Al-Harrawi",
       "area": "Islamic Cairo",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "ev",
         "ud",
@@ -735,7 +715,7 @@
       "name": "Beit Al-Sinnari",
       "name_en": "Beit Al-Sinnari",
       "area": "Sayyeda Zeinab",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "ev",
         "tarihi",
@@ -785,8 +765,11 @@
       "category": "Tarihi",
       "subcategory": "Tarihi",
       "tags": [
-        "coptic cairo",
+        "sinagog",
+        "tarih",
         "kahire",
+        "coptic cairo",
+        "kutsal",
         "mısır",
         "tarihi"
       ],
@@ -795,7 +778,7 @@
       "lng": 31.2310336,
       "price": "low",
       "rating": 4.3,
-      "description": "Ornately adorned synagogue believed to have been built on the site where baby Moses was found.",
+      "description": "Kıpti Kahire'de konumlanan tarihi sinagog, Mısır Yahudi mirasının önemli eseri. Eski Ahit'in antik parçalarının bulunduğu 'Genizah' keşfiyle ünlü.",
       "bestTime": "Sabah",
       "bestFor": [
         "herkes"
@@ -803,32 +786,9 @@
       "source": "google",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kahire/ben_ezra_sinagogu.jpg",
       "tips": "Fotoğraf çekimi için en iyi ışık gün batımına yakındır.",
-      "description_en": "Ben Ezra Sinagogu is a highlight of Cairo in the Coptic Cairo area.",
-      "tips_en": "Best light for photography is near sunset."
-    },
-    {
-      "name": "Ben Ezra Synagogue",
-      "name_en": "Ben Ezra Synagogue",
-      "area": "Coptic Cairo",
-      "category": "Tarihi",
-      "tags": [
-        "sinagog",
-        "tarih",
-        "kutsal"
-      ],
-      "lat": 30.0062,
-      "lng": 31.2301,
-      "price": "free",
-      "rating": 4.5,
-      "description": "Kıpti Kahire'de konumlanan tarihi sinagog, Mısır Yahudi mirasının önemli eseri. Eski Ahit'in antik parçalarının bulunduğu 'Genizah' keşfiyle ünlü.",
       "description_en": "A historic synagogue in Coptic Cairo, an important piece of Egyptian Jewish heritage. Famous for 'Genizah' discovery containing ancient Old Testament fragments.",
-      "bestTime": "Gündüz",
-      "tips": "Kıpti bölgesinin kalbindedir.",
-      "tips_en": "In heart of Coptic area.",
-      "id": "ben-ezra-synagogue",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kahire/ben-ezra-synagogue.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
+      "tips_en": "Best light for photography is near sunset.",
+      "name_en": "Ben Ezra Synagogue"
     },
     {
       "name": "Bent Pyramid",
@@ -882,7 +842,7 @@
       "name": "Bibliotheca Alexandrina",
       "name_en": "Bibliotheca Alexandrina",
       "area": "Alexandria",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "kütüphane",
         "modern",
@@ -906,7 +866,7 @@
       "name": "Birqash Camel Market",
       "name_en": "Birqash Camel Market",
       "area": "Birqash",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "pazar",
         "deve",
@@ -930,7 +890,7 @@
       "name": "Blue Nile Boat",
       "name_en": "Blue Nile Boat",
       "area": "Zamalek",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tekne",
         "lüks",
@@ -1107,7 +1067,7 @@
       "name": "Cairo Opera House",
       "name_en": "Cairo Opera House",
       "area": "Zamalek",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "sanat",
         "müzik",
@@ -1177,7 +1137,7 @@
       "name": "Capital Business Park",
       "name_en": "Capital Business Park",
       "area": "Sheikh Zayed",
-      "category": "Yürüyüş",
+      "category": "Deneyim",
       "tags": [
         "modern",
         "iş",
@@ -1249,7 +1209,7 @@
       "name": "Caveman Restaurant",
       "name_en": "Caveman Restaurant",
       "area": "Mokattam",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "mağara",
         "manzara",
@@ -1394,7 +1354,7 @@
       "name": "Community Services Association",
       "name_en": "CSA Maadi",
       "area": "Maadi",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "bahçe",
         "kafe",
@@ -1442,7 +1402,7 @@
       "name": "Craves",
       "name_en": "Crave",
       "area": "Various",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "zincir",
         "modern",
@@ -1463,7 +1423,7 @@
     {
       "name": "Crimson Bar & Grill",
       "area": "Zamalek",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "zamalek",
@@ -1491,7 +1451,7 @@
       "name": "Dahab Island",
       "name_en": "Dahab Island",
       "area": "Nile",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "ada",
         "köy",
@@ -1515,7 +1475,7 @@
       "name": "Darb 1718",
       "name_en": "Darb 1718",
       "area": "Fustat",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "galeri",
         "çağdaş",
@@ -1563,7 +1523,7 @@
       "name": "Downtown Cairo",
       "name_en": "Downtown Cairo",
       "area": "Downtown",
-      "category": "Yürüyüş",
+      "category": "Deneyim",
       "tags": [
         "şehir",
         "mimari",
@@ -1587,7 +1547,7 @@
       "name": "Dream Park",
       "name_en": "Dream Park",
       "area": "6th of October",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "lunapark",
         "adrenalin",
@@ -1611,7 +1571,7 @@
       "name": "Eish & Malh",
       "name_en": "Eish & Malh",
       "area": "Downtown",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "italyan",
         "modern",
@@ -1635,7 +1595,7 @@
       "name": "El Abd Patisserie",
       "name_en": "El Abd Patisserie",
       "area": "Downtown",
-      "category": "Yemek",
+      "category": "Yeme-İçme",
       "tags": [
         "tatlı",
         "fırın",
@@ -1734,7 +1694,7 @@
       "name": "El Sawy Culturewheel",
       "name_en": "El Sawy Culturewheel",
       "area": "Zamalek",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "konser",
         "etkinlik",
@@ -1812,7 +1772,7 @@
       "name": "Family Park",
       "name_en": "Family Park Cairo",
       "area": "New Cairo",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "park",
         "aile",
@@ -1836,7 +1796,7 @@
       "name": "Fasahet Somaya",
       "name_en": "Fasahet Somaya",
       "area": "Downtown",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ev yemeği",
         "küçük",
@@ -1859,13 +1819,16 @@
     {
       "name": "Felfela",
       "area": "Downtown",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
-        "downtown",
+        "turistik",
         "kahire",
+        "downtown",
+        "restoran",
         "mısır",
-        "restoran"
+        "dekor",
+        "tarihi"
       ],
       "distanceFromCenter": 0,
       "lat": 41.0042187,
@@ -1880,38 +1843,15 @@
       "source": "google",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kahire/felfela.jpg",
       "tips": "Şefin spesiyal tabağını sormaktan çekinmeyin.",
-      "description_en": "Felfela is a highlight of Cairo in the Downtown area.",
-      "tips_en": "Don't hesitate to ask for the chef's special."
-    },
-    {
-      "name": "Felfela Downtown",
-      "name_en": "Felfela",
-      "area": "Downtown",
-      "category": "Restoran",
-      "tags": [
-        "tarihi",
-        "turistik",
-        "dekor"
-      ],
-      "lat": 30.046,
-      "lng": 31.24,
-      "price": "medium",
-      "rating": 4.3,
-      "description": "Kuş kafesleri ve bitkilerle dolu dekoruyla 1959'dan beri hizmet veren klasik restoran.",
       "description_en": "Classic restaurant serving since 1959 with decor full of bird cages and plants.",
-      "bestTime": "Öğle",
-      "tips": "Falafeli (Taameya) çok iyidir.",
-      "tips_en": "Falafel (Taameya) is very good.",
-      "id": "felfela",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kahire/felfela.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
+      "tips_en": "Don't hesitate to ask for the chef's special.",
+      "name_en": "Felfela"
     },
     {
       "name": "Felucca Ride",
       "name_en": "Felucca on the Nile",
       "area": "Nile",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "tekne",
         "romantik",
@@ -1935,7 +1875,7 @@
       "name": "Fish Garden",
       "name_en": "Fish Garden",
       "area": "Zamalek",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "park",
         "romantik",
@@ -1983,7 +1923,7 @@
       "name": "Gad",
       "name_en": "Gad Restaurant",
       "area": "Various",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "zincir",
         "kahvaltı",
@@ -2056,7 +1996,7 @@
       "name": "Garden 8",
       "name_en": "Garden 8",
       "area": "New Cairo",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "şık",
         "restoran",
@@ -2080,7 +2020,7 @@
       "name": "Gezira Art Center",
       "name_en": "Gezira Art Center",
       "area": "Zamalek",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "sanat",
         "sergi",
@@ -2398,7 +2338,7 @@
       "name": "Japanese Garden",
       "name_en": "Japanese Garden Helwan",
       "area": "Helwan",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "bahçe",
         "buda",
@@ -2500,7 +2440,7 @@
       "name": "Kazaz",
       "name_en": "Kazaz Restaurant",
       "area": "Downtown",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "hızlı",
         "lezzetli",
@@ -2570,7 +2510,7 @@
       "name": "Korba District",
       "name_en": "Korba",
       "area": "Heliopolis",
-      "category": "Yürüyüş",
+      "category": "Deneyim",
       "tags": [
         "mimari",
         "tarihi",
@@ -2593,7 +2533,7 @@
     {
       "name": "Koshary Abou Tarek",
       "area": "Downtown",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "downtown",
@@ -2648,7 +2588,7 @@
       "name": "Lake View Plaza",
       "name_en": "Lake View Plaza",
       "area": "New Cairo",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "modern",
         "restoran",
@@ -2672,7 +2612,7 @@
       "name": "Le Pacha 1901",
       "name_en": "Le Pacha 1901",
       "area": "Zamalek",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tekne",
         "restoran",
@@ -2696,7 +2636,7 @@
       "name": "Left Bank",
       "name_en": "Left Bank",
       "area": "Zamalek",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "nil",
         "modern",
@@ -2744,7 +2684,7 @@
       "name": "Magic Lake",
       "name_en": "Magic Lake Fayoum",
       "area": "Fayoum",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "göl",
         "çöl",
@@ -2867,7 +2807,7 @@
       "name": "Mashrabia Gallery",
       "name_en": "Mashrabia Gallery",
       "area": "Downtown",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "galeri",
         "çağdaş",
@@ -2942,7 +2882,7 @@
       "name": "Merryland Park",
       "name_en": "Merryland Park",
       "area": "Heliopolis",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "park",
         "göl",
@@ -2990,7 +2930,7 @@
       "name": "Montaza Palace",
       "name_en": "Montaza Palace Gardens",
       "area": "Alexandria",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "saray",
         "bahçe",
@@ -3314,7 +3254,7 @@
       "name": "Nile City Boat",
       "name_en": "Nile City Boat",
       "area": "Zamalek",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "tekne",
         "restoran",
@@ -3338,7 +3278,7 @@
       "name": "Nile Maxim",
       "name_en": "Nile Maxim",
       "area": "Zamalek",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "tekne",
         "yemek",
@@ -3410,7 +3350,7 @@
       "name": "Orman Botanical Garden",
       "name_en": "Orman Garden",
       "area": "Giza",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "bahçe",
         "botanik",
@@ -3434,7 +3374,7 @@
       "name": "Osana Family Wellness",
       "name_en": "Osana Family Wellness",
       "area": "Maadi",
-      "category": "Sağlık",
+      "category": "Deneyim",
       "tags": [
         "yoga",
         "kafe",
@@ -3482,7 +3422,7 @@
       "name": "Papyrus Institute",
       "name_en": "Papyrus Institute",
       "area": "Giza",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "kağıt",
         "sanat",
@@ -3506,7 +3446,7 @@
       "name": "Petrified Forest",
       "name_en": "Petrified Forest Protectorate",
       "area": "New Cairo",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "fosil",
         "orman",
@@ -3530,7 +3470,7 @@
       "name": "Pharaonic Village",
       "name_en": "Pharaonic Village",
       "area": "Giza",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "tarih",
         "canlandırma",
@@ -3602,7 +3542,7 @@
       "name": "Prince Taz Palace",
       "name_en": "Prince Taz Palace",
       "area": "Islamic Cairo",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "saray",
         "konser",
@@ -3746,7 +3686,7 @@
       "name": "Qanater Barrages",
       "name_en": "Qanater Gardens",
       "area": "Qanater",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "piknik",
         "nil",
@@ -3842,7 +3782,7 @@
       "name": "Road 9 Maadi",
       "name_en": "Road 9 Maadi",
       "area": "Maadi",
-      "category": "Yürüyüş",
+      "category": "Deneyim",
       "tags": [
         "cadde",
         "kafe",
@@ -3890,7 +3830,7 @@
       "name": "Room Art Space",
       "name_en": "Room Art Space Garden City",
       "area": "Garden City",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "müzik",
         "samimi",
@@ -3985,7 +3925,7 @@
     {
       "name": "Sequoia",
       "area": "Zamalek",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "zamalek",
@@ -4013,7 +3953,7 @@
       "name": "Sequoia (New/Alternative)",
       "name_en": "Biota",
       "area": "Zamalek",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "nil",
         "lüks",
@@ -4085,7 +4025,7 @@
       "name": "Smart Village",
       "name_en": "Smart Village Cairo",
       "area": "6th of October",
-      "category": "Modern",
+      "category": "Deneyim",
       "tags": [
         "iş",
         "teknoloji",
@@ -4109,7 +4049,7 @@
       "name": "Sobhy Kaber",
       "name_en": "Sobhy Kaber",
       "area": "Shubra",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "geleneksel",
         "ızgara",
@@ -4157,7 +4097,7 @@
       "name": "Sound and Light Show Giza",
       "name_en": "Giza Sound and Light Show",
       "area": "Giza",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "şov",
         "gece",
@@ -4302,7 +4242,7 @@
       "name": "Supreme Constitutional Court",
       "name_en": "Supreme Constitutional Court of Egypt",
       "area": "Maadi",
-      "category": "Mimari",
+      "category": "Tarihi",
       "tags": [
         "modern",
         "firavun",
@@ -4326,7 +4266,7 @@
       "name": "Taboula",
       "name_en": "Taboula",
       "area": "Garden City",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "lübnan",
         "meze",
@@ -4350,7 +4290,7 @@
       "name": "Tahrir Square",
       "name_en": "Tahrir Square",
       "area": "Downtown",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "meydan",
         "devrim",
@@ -4374,7 +4314,7 @@
       "name": "Talaat Harb Square",
       "name_en": "Talaat Harb Square",
       "area": "Downtown",
-      "category": "Meydan",
+      "category": "Tarihi",
       "tags": [
         "meydan",
         "mimari",
@@ -4398,7 +4338,7 @@
       "name": "Talaat Harb Street",
       "name_en": "Talaat Harb Street",
       "area": "Downtown",
-      "category": "Yürüyüş",
+      "category": "Deneyim",
       "tags": [
         "cadde",
         "alışveriş",
@@ -4494,7 +4434,7 @@
       "name": "Townhouse Gallery",
       "name_en": "Townhouse Gallery",
       "area": "Downtown",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "galeri",
         "saklı",
@@ -4518,7 +4458,7 @@
       "name": "Tunis Village",
       "name_en": "Tunis Village Fayoum",
       "area": "Fayoum",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "köy",
         "sanat",
@@ -4590,7 +4530,7 @@
       "name": "Wadi Degla Protectorate",
       "name_en": "Wadi Degla",
       "area": "Maadi",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kanyon",
         "yürüyüş",
@@ -4614,7 +4554,7 @@
       "name": "Wadi El Hitan",
       "name_en": "Wadi El Hitan",
       "area": "Fayoum",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "unesco",
         "balina",
@@ -4638,7 +4578,7 @@
       "name": "Wadi El Rayan",
       "name_en": "Wadi El Rayan",
       "area": "Fayoum",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "şelale",
         "çöl",
@@ -4662,7 +4602,7 @@
       "name": "Walk of Cairo",
       "name_en": "Walk of Cairo",
       "area": "Sheikh Zayed",
-      "category": "Yürüyüş",
+      "category": "Deneyim",
       "tags": [
         "cadde",
         "modern",
@@ -4686,7 +4626,7 @@
       "name": "Waterway",
       "name_en": "The Waterway",
       "area": "New Cairo",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "restoran",
         "modern",
@@ -4710,7 +4650,7 @@
       "name": "Wekalet El Ghouri",
       "name_en": "Wekalet El Ghouri Arts Center",
       "area": "Islamic Cairo",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "dans",
         "sufi",
@@ -4758,7 +4698,7 @@
       "name": "Wissa Wassef Art Center",
       "name_en": "Wissa Wassef Art Center",
       "area": "Harraniya",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "dokuma",
         "sanat",
@@ -4782,7 +4722,7 @@
       "name": "Zamalek District",
       "name_en": "Zamalek",
       "area": "Zamalek",
-      "category": "Yürüyüş",
+      "category": "Deneyim",
       "tags": [
         "ada",
         "modern",
@@ -4806,7 +4746,7 @@
       "name": "Zed Park",
       "name_en": "Zed Park",
       "area": "Sheikh Zayed",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "park",
         "lunapark",
@@ -4829,7 +4769,7 @@
     {
       "name": "Zööba",
       "area": "Zamalek",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "zamalek",

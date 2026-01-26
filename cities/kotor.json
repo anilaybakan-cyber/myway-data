@@ -10,7 +10,7 @@
       "name": "Al Posto Giusto",
       "name_en": "Al Posto Giusto",
       "area": "Tivat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pizza",
         "popüler",
@@ -104,7 +104,7 @@
       "name": "Astoria Restaurant",
       "name_en": "Astoria Restaurant",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "uluslararası",
         "modern",
@@ -126,7 +126,7 @@
     },
     {
       "name": "BBQ Tanjga",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "meat",
         "grill",
@@ -197,8 +197,11 @@
       "area": "Risan",
       "category": "Tarihi",
       "tags": [
-        "manastır",
+        "relics",
         "sahil",
+        "manastır",
+        "monastery",
+        "orthodox",
         "huzur"
       ],
       "lat": 42.513,
@@ -213,32 +216,12 @@
       "id": "banja-monastery",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kotor/banja-monastery.jpg",
       "source": "firebase",
-      "distanceFromCenter": 0.5
-    },
-    {
-      "name": "Banjo Monastery",
-      "area": "Risan",
-      "category": "Tarihi",
-      "subcategory": "Manastır",
-      "tags": [
-        "monastery",
-        "relics",
-        "orthodox"
-      ],
-      "price": "free",
-      "rating": 4.6,
-      "description": "George Kastrioti Skanderbeg'in kemiklerinin saklandığına inanılan tarihi manastır.",
-      "description_en": "Historic monastery believed to house the bones of George Kastrioti Skanderbeg.",
-      "tips": "Risan körfezine hakim bir konumdadır.",
-      "tips_en": "It dominates the Risan bay.",
-      "id": "banjo-monastery",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kotor/banjo-monastery.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 0.5,
+      "subcategory": "Manastır"
     },
     {
       "name": "Bastion",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "fine dining",
         "sea",
@@ -283,7 +266,7 @@
     {
       "name": "Beach Bar Pirate",
       "area": "Perast",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "subcategory": "Bar",
       "tags": [
         "beach",
@@ -356,15 +339,16 @@
       "category": "Tarihi",
       "tags": [
         "saray",
+        "portal",
         "gotik",
-        "portal"
+        "soylu"
       ],
       "lat": 42.4245,
       "lng": 18.7718,
       "price": "free",
       "rating": 4.4,
-      "description": "Gotik portalı ile ünlü tarihi saray. Portal aslında başka bir binadan taşınmıştır.",
-      "description_en": "Historic palace famous for its Gothic portal. The portal was actually moved from another building.",
+      "description": "Kotor'un en eski ve köklü soylu ailelerinden birine ait, gotik ve rönesans öğelerini harmanlayan tarihi saray. Cephesindeki zarif pencere süslemeleri ve balkonlarıyla, şehrin aristokratik mirasının en güzel örneklerinden biri.",
+      "description_en": "A historic palace belonging to one of Kotor's oldest and most distinguished noble families, blending Gothic and Renaissance elements. One of the finest examples of the city's aristocratic heritage with its elegant window decorations and balconies on its facade.",
       "bestTime": "Gündüz",
       "tips": "Girişteki aile armasını inceleyin.",
       "tips_en": "Examine the family coat of arms at the entrance.",
@@ -398,7 +382,7 @@
       "name": "Big Ben",
       "name_en": "Big Ben",
       "area": "Tivat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yerel",
         "teras",
@@ -445,7 +429,7 @@
     {
       "name": "Bigova",
       "area": "Kotor",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Balıkçı Köyü",
       "tags": [
         "quiet",
@@ -535,7 +519,7 @@
     {
       "name": "Bjelila",
       "area": "Tivat",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Gizli Mücevher",
       "tags": [
         "stone houses",
@@ -556,7 +540,7 @@
     {
       "name": "Blue Cave (Plava Spilja)",
       "area": "Lustica Peninsula",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Mağara",
       "tags": [
         "cave",
@@ -578,7 +562,7 @@
       "name": "Blue Cave Montenegro",
       "name_en": "Blue Cave",
       "area": "Lustica",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "mağara",
         "yüzme",
@@ -625,7 +609,7 @@
     {
       "name": "Bokeski Gusti",
       "area": "Prčanj",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Deniz Ürünleri",
       "tags": [
         "waterfront",
@@ -685,30 +669,6 @@
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kotor/bronza-palace.jpg",
       "source": "firebase",
       "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Buca Palace",
-      "name_en": "Buca Palace",
-      "area": "Old Town",
-      "category": "Tarihi",
-      "tags": [
-        "saray",
-        "soylu",
-        "gotik"
-      ],
-      "lat": 42.4243,
-      "lng": 18.7718,
-      "price": "free",
-      "rating": 4.4,
-      "description": "Kotor'un en eski ve köklü soylu ailelerinden birine ait, gotik ve rönesans öğelerini harmanlayan tarihi saray. Cephesindeki zarif pencere süslemeleri ve balkonlarıyla, şehrin aristokratik mirasının en güzel örneklerinden biri.",
-      "description_en": "A historic palace belonging to one of Kotor's oldest and most distinguished noble families, blending Gothic and Renaissance elements. One of the finest examples of the city's aristocratic heritage with its elegant window decorations and balconies on its facade.",
-      "bestTime": "Gündüz",
-      "tips": "Zaman içinde çok kez tadilat görmüştür.",
-      "tips_en": "Has remarkably renovated many times over time.",
-      "id": "buca-palace",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kotor/buca-palace.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
     },
     {
       "name": "Bucha-Lukovic Museum",
@@ -895,18 +855,20 @@
       "name": "Catovica Mlini",
       "name_en": "Catovica Mlini",
       "area": "Morinj",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "değirmen",
+        "balık",
+        "romantik",
         "doğa",
-        "balık"
+        "doğal"
       ],
       "lat": 42.484,
       "lng": 18.648,
       "price": "high",
       "rating": 4.8,
-      "description": "Eski bir su değirmeninin restore edilmesiyle oluşan, ördeklerin yüzdüğü derelerle çevrili masalsı restoran.",
-      "description_en": "Fairytale restaurant surrounded by streams with swimming ducks, formed by restoration of an old water mill.",
+      "description": "Kotor Körfezi'nin en romantik restoranlarından biri: 300 yıllık antik değirmenlerin içinde, küçük bir şelalenin hemen yanında konumlanan masalsı mekan. Işıl ışıl aydınlatılmış bahçesinde, su sesi eşliğinde Karadağ'ın en iyi mutfağını deneyimleyin.",
+      "description_en": "One of the most romantic restaurants in the Bay of Kotor: a fairytale venue located next to a small waterfall inside 300-year-old ancient mills. Experience Montenegro's best cuisine accompanied by the sound of water in its illuminated garden.",
       "bestTime": "Öğle",
       "tips": "Ortamı lezzetinden bile daha etkileyicidir.",
       "tips_en": "Ambience is even more impressive than its flavors.",
@@ -938,7 +900,7 @@
     },
     {
       "name": "Cesarica",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pizza",
         "pasta",
@@ -1121,7 +1083,7 @@
     {
       "name": "Citadela Restaurant",
       "area": "Kotor Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Teras",
       "tags": [
         "view",
@@ -1281,7 +1243,7 @@
       "name": "Conte Nautilus",
       "name_en": "Conte Nautilus",
       "area": "Perast",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "deniz ürünleri",
         "lüks",
@@ -1510,7 +1472,7 @@
       "name": "Forza Mare",
       "name_en": "Forza Mare",
       "area": "Dobrota",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "lüks",
         "butik",
@@ -1533,7 +1495,7 @@
     {
       "name": "Forza Terra",
       "area": "Dobrota",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Lüks",
       "tags": [
         "hotel",
@@ -1553,7 +1515,7 @@
     },
     {
       "name": "Galion",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "seafood",
         "view",
@@ -1665,7 +1627,7 @@
     {
       "name": "Gornji Stoliv",
       "area": "Stoliv",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Terk Edilmiş",
       "tags": [
         "hike",
@@ -1755,7 +1717,7 @@
     {
       "name": "Grispolis",
       "area": "Bigova",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Balık",
       "tags": [
         "fresh fish",
@@ -1867,7 +1829,7 @@
     {
       "name": "Havana Club",
       "area": "Kotor Old Town",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "subcategory": "Bar",
       "tags": [
         "cuban",
@@ -2311,7 +2273,7 @@
     {
       "name": "Kod Pera na Bukovicu",
       "area": "Njegusi",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Geleneksel",
       "tags": [
         "ham",
@@ -2332,7 +2294,7 @@
     {
       "name": "Konoba Akustik",
       "area": "Kotor",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Geleneksel",
       "tags": [
         "live music",
@@ -2353,7 +2315,7 @@
     {
       "name": "Konoba Boka Bay",
       "area": "Prčanj",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Deniz Ürünleri",
       "tags": [
         "beach side",
@@ -2374,7 +2336,7 @@
     {
       "name": "Konoba Bonaca",
       "area": "Dobrota",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Deniz Ürünleri",
       "tags": [
         "elegant",
@@ -2396,7 +2358,7 @@
       "name": "Konoba Feral",
       "name_en": "Konoba Feral",
       "area": "Herceg Novi",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "balık",
         "yerel",
@@ -2419,7 +2381,7 @@
     {
       "name": "Konoba Marius",
       "area": "Kotor",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Geleneksel",
       "tags": [
         "view",
@@ -2441,7 +2403,7 @@
       "name": "Konoba Portun",
       "name_en": "Konoba Portun",
       "area": "Dobrota",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "deniz kenarı",
         "balık",
@@ -2463,7 +2425,7 @@
     },
     {
       "name": "Konoba Scala Santa",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "traditional",
         "local",
@@ -2487,7 +2449,7 @@
       "name": "Konoba Trpeza",
       "name_en": "Konoba Trpeza",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "balık",
         "şık",
@@ -2510,7 +2472,7 @@
     {
       "name": "Kotor Art Cinema Boka",
       "area": "Kotor Old Town",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "subcategory": "Sinema",
       "tags": [
         "cinema",
@@ -2684,7 +2646,7 @@
     {
       "name": "Krasici",
       "area": "Tivat",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Yazlık",
       "tags": [
         "villas",
@@ -2729,7 +2691,7 @@
     {
       "name": "La Catedral Pasta Bar",
       "area": "Kotor Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "İtalyan",
       "tags": [
         "pasta",
@@ -2750,7 +2712,7 @@
     {
       "name": "Ladder of Kotor (Start Point)",
       "area": "Kotor",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Yürüyüş",
       "tags": [
         "hike",
@@ -2772,7 +2734,7 @@
       "name": "Ladovina",
       "name_en": "Ladovina",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yerel",
         "şarap",
@@ -2795,7 +2757,7 @@
     {
       "name": "Ladovina Kitchen & Wine Bar",
       "area": "Kotor",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Modern",
       "tags": [
         "wine",
@@ -2816,7 +2778,7 @@
     {
       "name": "Letrika Caffe Bar",
       "area": "Kotor Old Town",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "subcategory": "Bar",
       "tags": [
         "eclectic",
@@ -2838,7 +2800,7 @@
       "name": "Lipa Cave",
       "name_en": "Lipa Cave",
       "area": "Cetinje",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "mağara",
         "sarkıt",
@@ -2885,7 +2847,7 @@
     {
       "name": "Ljuta",
       "area": "Kotor Bay",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Yürüyüş",
       "tags": [
         "river",
@@ -2928,7 +2890,7 @@
       "name": "Lovcen Milli Parkı",
       "name_en": "Lovcen National Park",
       "area": "Dağlar",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "milli park",
         "dağ",
@@ -2976,7 +2938,7 @@
       "name": "Luna Rossa",
       "name_en": "Luna Rossa",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "geleneksel",
         "taş bina",
@@ -2999,52 +2961,34 @@
     {
       "name": "Lustica Bay",
       "area": "Tivat",
-      "category": "Lüks",
+      "category": "Deneyim",
       "subcategory": "Resort",
       "tags": [
-        "modern",
         "architecture",
+        "marina",
+        "yeni",
+        "modern",
         "beach"
       ],
       "price": "high",
       "rating": 4.8,
-      "description": "Modern mimari ve doğal güzelliğin birleştiği, yeni ve lüks bir sahil kasabası projesi.",
-      "description_en": "A new and luxurious seaside town project combining modern architecture and natural beauty.",
+      "description": "Yeni inşa edilen modern sahil kasabası. Şık mimarisi, marinası ve restoranlarıyla dikkat çeker.",
+      "description_en": "Newly built modern seaside town. Attracts attention with its stylish architecture, marina and restaurants.",
       "tips": "Chedi otelinin plaj barında bir şeyler için.",
       "tips_en": "Have a drink at the beach bar of the Chedi hotel.",
       "id": "lustica-bay",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kotor/lustica-bay.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Luštica Bay",
+      "distanceFromCenter": 1.0,
       "name_en": "Luštica Bay",
-      "area": "Lustica",
-      "category": "Alışveriş",
-      "tags": [
-        "yeni",
-        "modern",
-        "marina"
-      ],
-      "lat": 42.388,
-      "lng": 18.665,
-      "price": "high",
-      "rating": 4.7,
-      "description": "Yeni inşa edilen modern sahil kasabası. Şık mimarisi, marinası ve restoranlarıyla dikkat çeker.",
-      "description_en": "Newly built modern seaside town. Attracts attention with its stylish architecture, marina and restaurants.",
       "bestTime": "Gündüz",
-      "tips": "The Chedi Hotel'in terasında kahve için.",
-      "tips_en": "Have coffee at The Chedi Hotel terrace.",
-      "id": "luštica-bay",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kotor/luštica-bay.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
+      "lat": 42.388,
+      "lng": 18.665
     },
     {
       "name": "Mademoiselle Dine & Wine Lounge",
       "area": "Tivat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Lüks",
       "tags": [
         "beach club",
@@ -3066,7 +3010,7 @@
       "name": "Maestral",
       "name_en": "Maestral",
       "area": "Tivat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "balık",
         "yerel",
@@ -3156,7 +3100,7 @@
     {
       "name": "Markov Rt",
       "area": "Prčanj",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Plaj",
       "tags": [
         "long beach",
@@ -3334,7 +3278,7 @@
       "name": "Mudra Art Cuisine",
       "name_en": "Mudra Art Cuisine",
       "area": "Dobrota",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "fine dining",
         "modern",
@@ -3357,7 +3301,7 @@
     {
       "name": "Muo",
       "area": "Kotor Bay",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Balıkçı Köyü",
       "tags": [
         "fishing",
@@ -3400,7 +3344,7 @@
       "name": "Murano Restaurant",
       "name_en": "Murano Restaurant",
       "area": "Tivat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "şık",
         "italyan",
@@ -3495,44 +3439,27 @@
       "area": "Old Town",
       "category": "Tarihi",
       "tags": [
-        "tiyatro",
+        "otel",
+        "theatre",
         "ilk",
-        "otel"
+        "french",
+        "history",
+        "tiyatro"
       ],
       "lat": 42.425,
       "lng": 18.7702,
       "price": "free",
       "rating": 4.4,
-      "description": "19. yüzyılda Fransızlar tarafından kurulan, Balkanların ilk tiyatrolarından biri.",
-      "description_en": "One of first theaters in Balkans established by French in 19th century.",
+      "description": "Balkanlardaki ilk tiyatrolardan biri olarak Napolyon dönemi Fransız işgali sırasında inşa edilen tarihi yapı. Küçük ama etkileyici iç mekanıyla, şehrin kültür hayatına yaptığı tarihsel katkının simgesi.",
+      "description_en": "A historic building constructed during the Napoleonic French occupation as one of the first theaters in the Balkans. A symbol of the historical contribution to the city's cultural life with its small but impressive interior.",
       "bestTime": "Gündüz",
       "tips": "Şu an Cattaro Hotel'in bir parçasıdır.",
       "tips_en": "Currently part of Hotel Cattaro.",
       "id": "napoleons-theater",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kotor/napoleons-theater.jpg",
       "source": "firebase",
-      "distanceFromCenter": 0.5
-    },
-    {
-      "name": "Napoleon's Theatre",
-      "area": "Kotor Old Town",
-      "category": "Tarihi",
-      "subcategory": "Bina",
-      "tags": [
-        "theatre",
-        "french",
-        "history"
-      ],
-      "price": "free",
-      "rating": 4.2,
-      "description": "Balkanlardaki ilk tiyatrolardan biri olarak Napolyon dönemi Fransız işgali sırasında inşa edilen tarihi yapı. Küçük ama etkileyici iç mekanıyla, şehrin kültür hayatına yaptığı tarihsel katkının simgesi.",
-      "description_en": "A historic building constructed during the Napoleonic French occupation as one of the first theaters in the Balkans. A symbol of the historical contribution to the city's cultural life with its small but impressive interior.",
-      "tips": "Şu anda otel olarak hizmet veriyor ama tarihi önemi büyük.",
-      "tips_en": "Currently serves as a hotel but has great historical importance.",
-      "id": "napoleon-s-theatre",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kotor/napoleon-s-theatre.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 0.5,
+      "subcategory": "Bina"
     },
     {
       "name": "Naval Heritage Collection",
@@ -3606,7 +3533,7 @@
     {
       "name": "Nitrox BBQ",
       "area": "Kotor",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Fast Food",
       "tags": [
         "burger",
@@ -3746,7 +3673,7 @@
     },
     {
       "name": "Old Winery",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "wine",
         "local wines",
@@ -3931,7 +3858,7 @@
     {
       "name": "Park Slobode",
       "area": "Kotor",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Park",
       "tags": [
         "park",
@@ -4045,7 +3972,7 @@
     {
       "name": "Pescaria Dekaderon",
       "area": "Kotor Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Balık",
       "tags": [
         "fresh fish",
@@ -4066,7 +3993,7 @@
     {
       "name": "Pestori",
       "area": "Kotor Bay",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Köy",
       "tags": [
         "green",
@@ -4217,35 +4144,14 @@
       "distanceFromCenter": 1.0
     },
     {
-      "name": "Pima Palace",
-      "name_en": "Pima Palace",
-      "area": "Old Town",
-      "category": "Tarihi",
-      "tags": [
-        "saray",
-        "rönesans",
-        "mimari"
-      ],
-      "lat": 42.425,
-      "lng": 18.772,
-      "price": "free",
-      "rating": 4.6,
-      "description": "Rönesans ve Barok mimarisinin harika bir karışımı olan, Old Town'un en güzel saraylarından biri.",
-      "description_en": "One of the most beautiful palaces in Old Town, a wonderful blend of Renaissance and Baroque architecture.",
-      "bestTime": "Gündüz",
-      "tips": "Balkon demir işçiliğine dikkat edin.",
-      "tips_en": "Pay attention to the balcony ironwork.",
-      "id": "pima-palace",
-      "distanceFromCenter": 0.5
-    },
-    {
       "name": "Pima Sarayı",
       "name_en": "Pima Palace",
       "area": "Old Town",
       "category": "Tarihi",
       "tags": [
-        "saray",
         "barok",
+        "saray",
+        "rönesans",
         "mimari"
       ],
       "lat": 42.4248,
@@ -4289,7 +4195,7 @@
     {
       "name": "Pirun & Ozica",
       "area": "Dobrota",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Akdeniz",
       "tags": [
         "pasta",
@@ -4405,7 +4311,7 @@
       "name": "Ponta Seljanovo",
       "name_en": "Ponta Seljanovo",
       "area": "Tivat",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "plaj",
         "deniz feneri",
@@ -4428,7 +4334,7 @@
     {
       "name": "Pontus Beach Club",
       "area": "Tivat",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "subcategory": "Beach Club",
       "tags": [
         "relaxed",
@@ -4539,7 +4445,7 @@
     {
       "name": "Pržun",
       "area": "Kotor Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Geleneksel",
       "tags": [
         "meat",
@@ -4560,7 +4466,7 @@
     {
       "name": "Pub Old Town",
       "area": "Kotor Old Town",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "subcategory": "Pub",
       "tags": [
         "beer",
@@ -4584,47 +4490,32 @@
       "category": "Tarihi",
       "subcategory": "Saray",
       "tags": [
-        "captain",
+        "kaptan",
+        "barok",
         "palace",
-        "seafront"
+        "saray",
+        "seafront",
+        "captain"
       ],
       "price": "free",
       "rating": 4.4,
       "description": "Dobrota'nın denizci kaptan ailelerinin zenginliğini ve sosyal statüsünü yansıtan, 18. yüzyıldan kalma görkemli barok saray. Körfez manzaralı cephesi ve tarihi atmosferiyle, denizcilik tarihine tanıklık eden bir anıt.",
-      "description_en": "A magnificent baroque palace from the 18th century reflecting the wealth and social status of Dobrota's seafaring captain families. A monument witnessing maritime history with its bay-view facade and historic atmosphere.",
+      "description_en": "A magnificent baroque palace from the 18th century belonging to Dobrota's wealthy captain families. An important monument reflecting the bay's aristocratic past with its architecture and decorative details witnessing maritime history.",
       "tips": "Özel mülktür, dışarıdan fotoğraflanabilir.",
       "tips_en": "Private property, can be photographed from outside.",
       "id": "radoncic-palace",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kotor/radoncic-palace.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Radonicich Palace",
+      "distanceFromCenter": 1.0,
       "name_en": "Radonicich Palace",
-      "area": "Dobrota",
-      "category": "Tarihi",
-      "tags": [
-        "saray",
-        "kaptan",
-        "barok"
-      ],
-      "lat": 42.435,
-      "lng": 18.768,
-      "price": "free",
-      "rating": 4.5,
-      "description": "Dobrota'nın zengin kaptan ailelerine ait, 18. yüzyıldan kalma görkemli barok saray. Denizcilik tarihine tanıklık eden mimarisi ve dekoratif ayrıntılarıyla, körfezin aristokratik geçmişini yansıtan önemli bir anıt.",
-      "description_en": "A magnificent baroque palace from the 18th century belonging to Dobrota's wealthy captain families. An important monument reflecting the bay's aristocratic past with its architecture and decorative details witnessing maritime history.",
       "bestTime": "Gündüz",
-      "tips": "Özel mülktür, dışarıdan görülebilir.",
-      "tips_en": "Private property, visible from outside.",
-      "id": "radonicich-palace",
-      "distanceFromCenter": 0.5
+      "lat": 42.435,
+      "lng": 18.768
     },
     {
       "name": "Restaurant Galija",
       "area": "Tivat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Et",
       "tags": [
         "steak",
@@ -4645,7 +4536,7 @@
     {
       "name": "Restaurant Prova",
       "area": "Tivat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Modern",
       "tags": [
         "design",
@@ -4664,34 +4555,10 @@
       "distanceFromCenter": 1.0
     },
     {
-      "name": "Restoran Catovica Mlini",
-      "name_en": "Catovica Mlini",
-      "area": "Morinj",
-      "category": "Restoran",
-      "tags": [
-        "değirmen",
-        "doğal",
-        "romantik"
-      ],
-      "lat": 42.485,
-      "lng": 18.65,
-      "price": "high",
-      "rating": 4.8,
-      "description": "Kotor Körfezi'nin en romantik restoranlarından biri: 300 yıllık antik değirmenlerin içinde, küçük bir şelalenin hemen yanında konumlanan masalsı mekan. Işıl ışıl aydınlatılmış bahçesinde, su sesi eşliğinde Karadağ'ın en iyi mutfağını deneyimleyin.",
-      "description_en": "One of the most romantic restaurants in the Bay of Kotor: a fairytale venue located next to a small waterfall inside 300-year-old ancient mills. Experience Montenegro's best cuisine accompanied by the sound of water in its illuminated garden.",
-      "bestTime": "Akşam",
-      "tips": "Karadağ'ın en romantik restoranlarından.",
-      "tips_en": "One of Montenegro's most romantic restaurants.",
-      "id": "restoran-catovica-mlini",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/kotor/restoran-catovica-mlini.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
       "name": "Restoran Stari Mlini",
       "name_en": "Old Mills Restaurant",
       "area": "Ljuta",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "geleneksel",
         "nehir",
@@ -4739,7 +4606,7 @@
       "name": "Ribarsko Selo",
       "name_en": "Ribarsko Selo",
       "area": "Lustica",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "balık",
         "taze",
@@ -5014,7 +4881,7 @@
       "name": "Skadar Lake National Park",
       "name_en": "Skadar Lake National Park",
       "area": "Virpazar",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "göl",
         "milli park",
@@ -5037,7 +4904,7 @@
     {
       "name": "Skurda River",
       "area": "Kotor",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Nehir",
       "tags": [
         "river",
@@ -5104,7 +4971,7 @@
       "name": "Solila Nature Reserve",
       "name_en": "Solila Nature Reserve",
       "area": "Tivat",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kuş",
         "doğa",
@@ -5356,7 +5223,7 @@
       "name": "Stari Mlini",
       "name_en": "Stari Mlini",
       "area": "Ljuta",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "değirmen",
         "nehir",
@@ -5379,7 +5246,7 @@
     {
       "name": "Stoliv",
       "area": "Kotor Bay",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Köy",
       "tags": [
         "camellia",
@@ -5422,7 +5289,7 @@
       "name": "Sveti Nikolaj Island",
       "name_en": "Sveti Nikolaj Island",
       "area": "Budva",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "ada",
         "plaj",
@@ -5493,7 +5360,7 @@
     {
       "name": "The Harbour Pub",
       "area": "Kotor",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "subcategory": "Pub",
       "tags": [
         "beer",
@@ -5539,7 +5406,7 @@
       "name": "Tramontana Beach Bar",
       "name_en": "Tramontana Beach Bar",
       "area": "Morinj",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "plaj",
         "bar",
@@ -5651,7 +5518,7 @@
       "name": "Verige 65",
       "name_en": "Verige 65",
       "area": "Tivat",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "manzara",
         "modern",
@@ -5716,7 +5583,7 @@
     {
       "name": "Vinarija Delić",
       "area": "Tivat",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Şarap Evi",
       "tags": [
         "wine tasting",
@@ -5758,7 +5625,7 @@
     {
       "name": "Vrmac Ridge Trail",
       "area": "Vrmac",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Yürüyüş",
       "tags": [
         "hike",
@@ -5779,7 +5646,7 @@
     {
       "name": "Vrmac Tunnel",
       "area": "Kotor",
-      "category": "Ulaşım",
+      "category": "Deneyim",
       "subcategory": "Geçit",
       "tags": [
         "shortcut",

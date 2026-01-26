@@ -8,13 +8,15 @@
   "highlights": [
     {
       "name": "Abel Monument",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "matematik",
         "ünlü",
         "saray"
       ],
-      "description": "",
+      "description": "Monument dedicated to mathematician Niels Henrik Abel, sculpted by Gustav Vigeland in Royal Palace Park.",
+      "description_en": "Monument dedicated to mathematician Niels Henrik Abel, sculpted by Gustav Vigeland in Royal Palace Park.",
+      "description_tr": "Kraliyet Sarayı Parkı'nda bulunan, Gustav Vigeland tarafından yapılmış, matematikçi Niels Henrik Abel anıtı.",
       "id": "abel-monument",
       "price": "medium",
       "rating": 4.5,
@@ -52,7 +54,7 @@
       "name": "Akerselva River Walk",
       "name_en": "Akerselva Walk",
       "area": "Grünerløkka",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "nehir",
         "yürüyüş",
@@ -62,26 +64,29 @@
       "lng": 10.756,
       "price": "free",
       "rating": 4.8,
-      "description": "Green walking route passing through waterfalls and old factories in the middle of the city.",
-      "description_en": "Green walking route passing through waterfalls and old factories in the middle of the city.",
+      "description": "Scenic 8km trail along the river featuring industrial history, waterfalls, and lush parks.",
+      "description_en": "Scenic 8km trail along the river featuring industrial history, waterfalls, and lush parks.",
       "bestTime": "Sabah",
       "tips": "Mølla şelalesini mutlaka görün.",
       "tips_en": "Must see the Mølla waterfall.",
       "id": "akerselva-river-walk",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/akerselva-river-walk.jpg",
       "source": "firebase",
-      "distanceFromCenter": 0.5
+      "distanceFromCenter": 0.5,
+      "description_tr": "Endüstriyel tarih, şelaleler ve yemyeşil parklar sunan, nehir boyunca uzanan 8 kilometrelik manzaralı yürüyüş yolu."
     },
     {
       "name": "Akerselva Waterfall (Mølla)",
       "area": "Grünerløkka",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "şelale",
         "şehir içi",
         "güçlü"
       ],
-      "description": "",
+      "description": "One of Oslo's most impressive urban waterfalls, located near the vibrant Beierbrua bridge.",
+      "description_en": "One of Oslo's most impressive urban waterfalls, located near the vibrant Beierbrua bridge.",
+      "description_tr": "Beierbrua köprüsü yakınında bulunan, Oslo'nun en etkileyici şehir içi şelalelerinden biri.",
       "id": "akerselva-waterfall-molla",
       "price": "medium",
       "rating": 4.6,
@@ -105,15 +110,16 @@
       "lng": 10.737,
       "price": "free",
       "rating": 4.6,
-      "description": "Medieval fortress protecting the harbor. Peaceful escape with lush green areas and historic texture.",
-      "description_en": "Medieval fortress protecting the harbor. Peaceful escape with lush green areas and historic texture.",
+      "description": "Medieval castle and royal residence built in the late 13th century. It has served as a strategic military stronghold and offers historical museum tours and views of the harbor.",
+      "description_en": "Medieval castle and royal residence built in the late 13th century. It has served as a strategic military stronghold and offers historical museum tours and views of the harbor.",
       "bestTime": "Öğle",
       "tips": "Disney'in Frozen filmindeki Arendelle kalesine ilham vermiştir.",
       "tips_en": "It inspired the Arendelle castle in Disney's Frozen movie.",
       "id": "akershus-fortress",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/akershus-fortress.jpg",
       "source": "firebase",
-      "distanceFromCenter": 0.5
+      "distanceFromCenter": 0.5,
+      "description_tr": "13. yüzyılın sonunda inşa edilmiş Orta Çağ kalesi ve kraliyet rezidansı. Stratejik bir askeri kale olarak hizmet vermiş olup günümüzde tarihi müze turları ve liman manzarası sunmaktadır."
     },
     {
       "name": "Andre til Høyre",
@@ -124,7 +130,9 @@
         "apartman",
         "kokteyl"
       ],
-      "description": "",
+      "description": "Stylish cocktail bar designed like a retro apartment with a 'house party' vibe.",
+      "description_en": "Stylish cocktail bar designed like a retro apartment with a 'house party' vibe.",
+      "description_tr": "Retro bir daire gibi tasarlanmış, 'ev partisi' havasında şık kokteyl bar.",
       "id": "andre-til-hoyre",
       "price": "medium",
       "rating": 4.6,
@@ -143,7 +151,9 @@
         "tarih",
         "silah"
       ],
-      "description": "",
+      "description": "Museum in Akershus Fortress covering Norway's military history from Vikings to present.",
+      "description_en": "Museum in Akershus Fortress covering Norway's military history from Vikings to present.",
+      "description_tr": "Akershus Kalesi içinde, Vikinglerden günümüze Norveç askeri tarihini anlatan müze.",
       "id": "armed-forces-museum",
       "price": "medium",
       "rating": 4.6,
@@ -159,9 +169,12 @@
       "area": "Tjuvholmen",
       "category": "Müze",
       "tags": [
+        "renzo piano",
+        "modern art",
         "modern sanat",
         "mimari",
-        "renzo piano"
+        "contemporary",
+        "waterfront"
       ],
       "lat": 59.907,
       "lng": 10.722,
@@ -175,40 +188,21 @@
       "id": "astrup-fearnley-museet",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/astrup-fearnley-museet.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "id": "astrup-fearnley-museum",
-      "name": "Astrup Fearnley Museum",
-      "name_en": "Astrup Fearnley Museum of Modern Art",
-      "description": "Modern art museum designed by Renzo Piano.",
-      "description_en": "Modern art museum designed by Renzo Piano.",
-      "tips": "Damien Hirst eserleri koleksiyonda.",
-      "tips_en": "Damien Hirst works in collection.",
-      "category": "Müze",
-      "subcategory": "Sanat",
-      "tags": [
-        "modern art",
-        "contemporary",
-        "waterfront"
-      ],
-      "price": "medium",
-      "lat": 59.90680829999999,
-      "lng": 10.7215536,
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/astrup-fearnley-museum.jpg",
-      "rating": 4.3,
-      "source": "firebase"
+      "distanceFromCenter": 1.0,
+      "subcategory": "Sanat"
     },
     {
       "name": "Baker Hansen",
       "area": "Çeşitli",
-      "category": "Fırın",
+      "category": "Kafe",
       "tags": [
         "köklü",
         "gluten-free",
         "zincir"
       ],
-      "description": "",
+      "description": "Historic bakery chain since 1861, famous for cinnamon buns and gluten-free options.",
+      "description_en": "Historic bakery chain since 1861, famous for cinnamon buns and gluten-free options.",
+      "description_tr": "1861'den beri hizmet veren, tarçınlı çörekleri ve glutensiz seçenekleriyle ünlü tarihi fırın.",
       "id": "baker-hansen",
       "price": "medium",
       "rating": 4.6,
@@ -222,7 +216,7 @@
       "name": "Barcode Project",
       "name_en": "Barcode",
       "area": "Bjørvika",
-      "category": "Mimari",
+      "category": "Tarihi",
       "tags": [
         "gökdelen",
         "modern",
@@ -251,7 +245,7 @@
         "bit pazarı",
         "meydan"
       ],
-      "description": "",
+      "description": "Charming park in Grünerløkka known for its popular Sunday flea market (Birkelunden Marked).",
       "lat": 59.926,
       "lng": 10.76,
       "id": "birkelunden",
@@ -261,18 +255,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/birkelunden.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Charming park in Grünerløkka known for its popular Sunday flea market (Birkelunden Marked).",
+      "description_tr": "Grünerløkka'da bulunan, Pazar günleri kurulan bit pazarıyla (Birkelunden Marked) ünlü şirin park."
     },
     {
       "name": "Bleikøya",
       "area": "Fjord",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "küçük",
         "kulübe",
         "mahalle"
       ],
-      "description": "",
+      "description": "Idyllic island in the Oslofjord known for its small, historic summer cabins and nature reserve.",
       "id": "bleikoya",
       "price": "medium",
       "rating": 4.6,
@@ -280,18 +276,23 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/bleikoya.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Idyllic island in the Oslofjord known for its small, historic summer cabins and nature reserve.",
+      "description_tr": "Oslo Fiyordu'ndaki küçük, tarihi yazlık kulübeleri ve doğa rezerviyle bilinen huzurlu ada."
     },
     {
       "name": "Blå",
       "area": "Akerselva",
-      "category": "Gece Kulübü",
+      "category": "Bar",
       "tags": [
-        "caz",
+        "jazz",
         "nehir",
+        "caz",
+        "river",
+        "club",
         "alternatif"
       ],
-      "description": "",
+      "description": "Legendary independent music club by the Akerselva river, famous for jazz and industrial atmosphere.",
       "id": "bla",
       "price": "medium",
       "rating": 4.6,
@@ -299,40 +300,25 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/bla.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "id": "bla-club",
-      "name": "Blå Club",
+      "distanceFromCenter": 1.0,
+      "description_en": "Legendary independent music club by the Akerselva river, famous for jazz and industrial atmosphere.",
+      "description_tr": "Akerselva nehri kıyısında, caz müziği ve endüstriyel atmosferiyle ünlü efsanevi kulüp.",
       "name_en": "Blå",
-      "description": "Jazz and electronic music club by Akerselva river.",
-      "description_en": "Jazz and electronic music club by Akerselva river.",
-      "tips": "Yazın dış mekanı çok güzel.",
       "tips_en": "Outdoor area is very nice in summer.",
-      "category": "Eğlence",
-      "subcategory": "Gece Kulübü",
-      "tags": [
-        "club",
-        "jazz",
-        "river"
-      ],
-      "price": "medium",
       "lat": 59.9200628,
       "lng": 10.752875,
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/bla-club.jpg",
-      "rating": 4.4,
-      "source": "firebase"
+      "subcategory": "Gece Kulübü"
     },
     {
       "name": "Botanical Garden Greenhouses",
       "area": "Tøyen",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "sera",
         "bitki",
         "tropik"
       ],
-      "description": "",
+      "description": "Victorian-style greenhouses featuring diverse exotic plants and giant water lilies.",
       "lat": 59.918,
       "lng": 10.771,
       "id": "botanical-garden-greenhouses",
@@ -342,17 +328,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/botanical-garden-greenhouses.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Victorian-style greenhouses featuring diverse exotic plants and giant water lilies.",
+      "description_tr": "Egzotik bitkiler ve dev nilüferlere ev sahipliği yapan Victoria tarzı tarihi seralar."
     },
     {
       "name": "Botanisering (The Sprout)",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "heykel",
         "botanik",
         "bronz"
       ],
-      "description": "",
+      "description": "Bronze sculpture by Sivert Donali depicting a figure examining a plant.",
       "id": "botanisering-the-sprout",
       "price": "medium",
       "rating": 4.5,
@@ -360,7 +348,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/botanisering-the-sprout.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Bronze sculpture by Sivert Donali depicting a figure examining a plant.",
+      "description_tr": "Sivert Donali imzalı, bir bitkiyi inceleyen bir figürü tasvir eden bronz heykel."
     },
     {
       "id": "bygdoy-peninsula",
@@ -370,7 +360,7 @@
       "description_en": "Oslo's most beautiful peninsula with museums, beaches and royal manor.",
       "tips": "Bisikletle keşfetmek harika.",
       "tips_en": "Great to explore by bike.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "subcategory": "Yarımada",
       "tags": [
         "museums",
@@ -392,7 +382,7 @@
         "kitap",
         "kafe"
       ],
-      "description": "",
+      "description": "Unique travel concept store combining a bookshop, travel agency, gear shop, and café.",
       "id": "chillout-travel-store",
       "price": "medium",
       "rating": 4.5,
@@ -400,18 +390,20 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/chillout-travel-store.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Unique travel concept store combining a bookshop, travel agency, gear shop, and café.",
+      "description_tr": "Kitapçı, seyahat acentesi, ekipman mağazası ve kafeyi birleştiren eşsiz bir seyahat konsept mağazası."
     },
     {
       "name": "Christian IV Statue",
       "area": "Stortorvet",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "kral",
         "kurucu",
         "bronz"
       ],
-      "description": "",
+      "description": "Bronze statue of King Christian IV, the city's founder, located in Stortorvet square.",
       "id": "christian-iv-statue",
       "price": "medium",
       "rating": 4.6,
@@ -419,7 +411,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/christian-iv-statue.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Bronze statue of King Christian IV, the city's founder, located in Stortorvet square.",
+      "description_tr": "Stortorvet meydanında bulunan, şehrin kurucusu Kral Christian IV'ün bronz heykeli."
     },
     {
       "name": "Damstredet",
@@ -435,25 +429,26 @@
       "lng": 10.7483,
       "price": "free",
       "rating": 4.6,
-      "description": "Fairytale street filled with colorful wooden houses from 18th and 19th centuries.",
-      "description_en": "Fairytale street filled with colorful wooden houses from 18th and 19th centuries.",
+      "description": "Historic cobbled street lined with colorful, well-preserved 18th-century timber houses.",
+      "description_en": "Historic cobbled street lined with colorful, well-preserved 18th-century timber houses.",
       "bestTime": "Gündüz",
       "tips": "Fotoğraf çekmek için şehrin en şirin sokağıdır.",
       "tips_en": "It is the cutest street in the city for taking photos.",
       "id": "damstredet",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/damstredet.jpg",
       "source": "firebase",
-      "distanceFromCenter": 0.5
+      "distanceFromCenter": 0.5,
+      "description_tr": "Renkli ve iyi korunmuş 18. yüzyıl ahşap evleriyle çevrili tarihi arnavut kaldırımlı sokak."
     },
     {
       "id": "damstredet-street",
       "name": "Damstredet Street",
       "name_en": "Damstredet Street",
-      "description": "Picturesque street full of wooden houses from 18th-19th century.",
-      "description_en": "Picturesque street full of wooden houses from 18th-19th century.",
+      "description": "A picturesque and idyllic residential area offering a glimpse into old Christiania (Oslo).",
+      "description_en": "A picturesque and idyllic residential area offering a glimpse into old Christiania (Oslo).",
       "tips": "Fotoğraf için harika bir yer.",
       "tips_en": "Great spot for photos.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "subcategory": "Sokak",
       "tags": [
         "historic",
@@ -465,7 +460,8 @@
       "lng": 10.7476252,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/damstredet-street.jpg",
       "rating": 4.5,
-      "source": "firebase"
+      "source": "firebase",
+      "description_tr": "Eski Christiania'ya (Oslo) bir bakış sunan, pitoresk ve pastoral bir yerleşim bölgesi."
     },
     {
       "name": "Dapper",
@@ -475,7 +471,7 @@
         "berber",
         "bisiklet"
       ],
-      "description": "",
+      "description": "Trendy men's concept store offering clothing, grooming products, a barbershop, and bike accessories.",
       "id": "dapper",
       "price": "medium",
       "rating": 4.5,
@@ -483,18 +479,23 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/dapper.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Trendy men's concept store offering clothing, grooming products, a barbershop, and bike accessories.",
+      "description_tr": "Giyim, bakım ürünleri, berber ve bisiklet aksesuarları sunan trend erkek konsept mağazası."
     },
     {
       "name": "Deichman Bjørvika",
       "area": "Bjørvika",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
+        "architecture",
+        "free",
         "kütüphane",
+        "library",
         "modern",
         "mimari"
       ],
-      "description": "",
+      "description": "Award-winning modern public library featuring a striking cantilevered design and innovative light shafts.",
       "lat": 59.907,
       "lng": 10.752,
       "id": "deichman-bjorvika",
@@ -504,40 +505,23 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/deichman-bjorvika.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "id": "deichman-bjorvika-library",
-      "name": "Deichman Bjørvika Library",
+      "distanceFromCenter": 1.0,
+      "description_en": "Award-winning modern public library featuring a striking cantilevered design and innovative light shafts.",
+      "description_tr": "Çarpıcı konsol tasarımı ve yenilikçi ışık şaftlarıyla ödül kazanmış modern halk kütüphanesi.",
       "name_en": "Deichman Bjørvika",
-      "description": "Stunning modern library opened in 2020. Has rooftop terrace.",
-      "description_en": "Stunning modern library opened in 2020. Has rooftop terrace.",
-      "tips": "Sinema ve oyun alanları da var.",
       "tips_en": "Has cinema and gaming areas too.",
-      "category": "Görülmesi Gereken Yerler",
-      "subcategory": "Kütüphane",
-      "tags": [
-        "library",
-        "architecture",
-        "free"
-      ],
-      "price": "free",
-      "lat": 59.9087481,
-      "lng": 10.7526026,
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/deichman-bjorvika-library.jpg",
-      "rating": 4.7,
-      "source": "firebase"
+      "subcategory": "Kütüphane"
     },
     {
       "name": "Deichman Grünerløkka",
       "area": "Grünerløkka",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "kütüphane",
         "modern",
         "çizgi roman"
       ],
-      "description": "",
+      "description": "Modern library in a historic building, known for its comics section (Serieteket) and cinema.",
       "id": "deichman-grünerlokka",
       "price": "medium",
       "rating": 4.6,
@@ -545,18 +529,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/deichman-grünerlokka.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Modern library in a historic building, known for its comics section (Serieteket) and cinema.",
+      "description_tr": "Tarihi bir binada yer alan, çizgi roman bölümü (Serieteket) ve sinemasıyla ünlü modern kütüphane."
     },
     {
       "name": "Deichman Majorstuen",
       "area": "Majorstuen",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "kütüphane",
         "klasik",
         "çalışma"
       ],
-      "description": "",
+      "description": "Largest branch of the Deichman library network, offering extensive books, comics, and study spaces.",
       "id": "deichman-majorstuen",
       "price": "medium",
       "rating": 4.6,
@@ -564,7 +550,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/deichman-majorstuen.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Largest branch of the Deichman library network, offering extensive books, comics, and study spaces.",
+      "description_tr": "Geniş kitap, çizgi roman koleksiyonu ve çalışma alanları sunan, Deichman ağının en büyük şube kütüphanesi."
     },
     {
       "id": "drobak-day-trip",
@@ -574,7 +562,7 @@
       "description_en": "Charming town by fjord. Has year-round Christmas house.",
       "tips": "Feribot ile ulaşım çok keyifli.",
       "tips_en": "Ferry ride is very enjoyable.",
-      "category": "Gezi",
+      "category": "Deneyim",
       "subcategory": "Günübirlik",
       "tags": [
         "day trip",
@@ -591,13 +579,13 @@
     {
       "name": "Dykkar (The Diver)",
       "area": "Aker Brygge",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "dalgıç",
         "deniz",
         "modern"
       ],
-      "description": "",
+      "description": "Striking stainless steel sculpture of a diver at Aker Brygge by Ola Enstad.",
       "id": "dykkar-the-diver",
       "price": "medium",
       "rating": 4.6,
@@ -605,18 +593,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/dykkar-the-diver.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Striking stainless steel sculpture of a diver at Aker Brygge by Ola Enstad.",
+      "description_tr": "Aker Brygge'de bulunan, Ola Enstad imzalı, paslanmaz çelikten yapılmış çarpıcı dalgıç heykeli."
     },
     {
       "name": "Døgnvill Burger Vulkan",
       "area": "Vulkan",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "burger",
         "kaliteli",
         "süt"
       ],
-      "description": "",
+      "description": "American diner style burger joint in Vulkan, known for high quality local ingredients.",
       "lat": 59.9225,
       "lng": 10.7515,
       "id": "dognvill-burger-vulkan",
@@ -626,7 +616,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/dognvill-burger-vulkan.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "American diner style burger joint in Vulkan, known for high quality local ingredients.",
+      "description_tr": "Vulkan'da bulunan, yüksek kaliteli yerel malzemeleriyle ünlü Amerikan tarzı burgerci."
     },
     {
       "name": "Ekebergparken",
@@ -642,22 +634,23 @@
       "lng": 10.7725,
       "price": "free",
       "rating": 4.6,
-      "description": "Modern sculptures (Dali, Rodin) hidden in the forest and a great city view.",
-      "description_en": "Modern sculptures (Dali, Rodin) hidden in the forest and a great city view.",
+      "description": "A vast wooded park on the Ekeberg hillside offering spectacular panoramas over the Oslofjord.",
+      "description_en": "A vast wooded park on the Ekeberg hillside offering spectacular panoramas over the Oslofjord.",
       "bestTime": "Gün batımı",
       "tips": "'Munch Spot' (Çığlık tablosunun arka planı) buradadır.",
       "tips_en": "'Munch Spot' (background of The Scream) is here.",
       "id": "ekebergparken",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/ekebergparken.jpg",
       "source": "firebase",
-      "distanceFromCenter": 0.5
+      "distanceFromCenter": 0.5,
+      "description_tr": "Oslo fiyordu üzerinde muazzam manzaralar sunan, Ekeberg yamacında yer alan geniş ormanlık park."
     },
     {
       "id": "ekebergparken-sculpture-park",
       "name": "Ekebergparken Sculpture Park",
       "name_en": "Ekebergparken Sculpture Park",
-      "description": "Nature park on hill with Oslo view displaying over 80 sculptures.",
-      "description_en": "Nature park on hill with Oslo view displaying over 80 sculptures.",
+      "description": "World-class heritage park with over 30 sculptures by masters like Dalí, Renoir, and Rodin.",
+      "description_en": "World-class heritage park with over 30 sculptures by masters like Dalí, Renoir, and Rodin.",
       "tips": "Edvard Munch'un 'Çığlık'ı burada ilham aldığı yer.",
       "tips_en": "Where Edvard Munch was inspired for 'The Scream'.",
       "category": "Park",
@@ -672,7 +665,8 @@
       "lng": 10.7597663,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/ekebergparken-sculpture-park.jpg",
       "rating": 4.7,
-      "source": "firebase"
+      "source": "firebase",
+      "description_tr": "Dalí, Renoir ve Rodin gibi ustaların 30'dan fazla heykelini barındıran dünya çapında bir sanat parkı."
     },
     {
       "name": "Emanuel Vigeland Museum",
@@ -702,7 +696,7 @@
       "name": "Engebret Café",
       "name_en": "Engebret Café",
       "area": "Sentrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "en eski",
         "tarihi",
@@ -731,7 +725,7 @@
         "kakule",
         "şirin"
       ],
-      "description": "",
+      "description": "Artisan sourdough bakery in Kampen known for its exceptional cardamom buns and French-inspired pastries.",
       "lat": 59.912,
       "lng": 10.78,
       "id": "farine",
@@ -741,18 +735,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/farine.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Artisan sourdough bakery in Kampen known for its exceptional cardamom buns and French-inspired pastries.",
+      "description_tr": "Kampen'de yer alan, olağanüstü kakuleli çörekleri ve Fransız esintili pastalarıyla ünlü zanaatkar fırın."
     },
     {
       "name": "Fearless Girl Oslo",
       "area": "Sentrum",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "kız",
         "cesur",
         "kopya"
       ],
-      "description": "",
+      "description": "Replica of the famous Bronx sculpture, currently located at Drammensveien in support of Iranian women.",
       "id": "fearless-girl-oslo",
       "price": "medium",
       "rating": 4.6,
@@ -760,18 +756,21 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/fearless-girl-oslo.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Replica of the famous Bronx sculpture, currently located at Drammensveien in support of Iranian women.",
+      "description_tr": "Amerikalı sanatçının ünlü heykelinin bir replikası; şu an İranlı kadınlara destek için Drammensveien'de."
     },
     {
       "name": "Fiskeriet",
       "area": "Sentrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
-        "balık",
         "fish&chips",
-        "taze"
+        "taze",
+        "market",
+        "balık"
       ],
-      "description": "",
+      "description": "Renowned combined fish market and seafood restaurant in the city center, famous for its exceptionally fresh catch and legendary fish soup.",
       "lat": 59.9145,
       "lng": 10.749,
       "id": "fiskeriet",
@@ -781,7 +780,11 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/fiskeriet.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Renowned combined fish market and seafood restaurant in the city center, famous for its exceptionally fresh catch and legendary fish soup.",
+      "description_tr": "Şehir merkezinde bulunan, olağanüstü tazelikteki ürünleri ve efsanevi balık çorbasıyla ünlü, balık pazarı ve deniz ürünleri restoranı kombinasyonu.",
+      "name_en": "Fiskeriet",
+      "tips_en": "Creamy fish soup (Fiskesuppe) is legendary."
     },
     {
       "name": "Fiskeriet Shop",
@@ -791,7 +794,7 @@
         "taze",
         "deniz"
       ],
-      "description": "",
+      "description": "Renowned combined fish market and seafood restaurant in the city center, famous for its exceptionally fresh catch and legendary fish soup.",
       "id": "fiskeriet-shop",
       "price": "medium",
       "rating": 4.5,
@@ -799,31 +802,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/fiskeriet-shop.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Fiskeriet Youngstorget",
-      "name_en": "Fiskeriet",
-      "area": "Youngstorget",
-      "category": "Restoran",
-      "tags": [
-        "balık",
-        "taze",
-        "market"
-      ],
-      "lat": 59.915,
-      "lng": 10.749,
-      "price": "medium",
-      "rating": 4.6,
-      "description": "Both fishmonger and restaurant. City's best fish soup and Fish & Chips.",
-      "description_en": "Both fishmonger and restaurant. City's best fish soup and Fish & Chips.",
-      "bestTime": "Öğle",
-      "tips": "Kremalı balık çorbası (Fiskesuppe) efsane.",
-      "tips_en": "Creamy fish soup (Fiskesuppe) is legendary.",
-      "id": "fiskeriet-youngstorget",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/fiskeriet-youngstorget.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Renowned combined fish market and seafood restaurant in the city center, famous for its exceptionally fresh catch and legendary fish soup.",
+      "description_tr": "Şehir merkezinde bulunan, olağanüstü tazelikteki ürünleri ve efsanevi balık çorbasıyla ünlü, balık pazarı ve deniz ürünleri restoranı kombinasyonu."
     },
     {
       "name": "Fons",
@@ -833,7 +814,7 @@
         "seçkin",
         "moda"
       ],
-      "description": "",
+      "description": "Unique hair salon and curated vintage shop in Grünerløkka offering handpicked clothing and design.",
       "id": "fons",
       "price": "medium",
       "rating": 4.5,
@@ -841,7 +822,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/fons.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Unique hair salon and curated vintage shop in Grünerløkka offering handpicked clothing and design.",
+      "description_tr": "Grünerløkka'da bulunan, özenle seçilmiş kıyafetler ve tasarım ürünleri sunan özgün kuaför ve vintage dükkanı."
     },
     {
       "name": "Fram Museum",
@@ -857,26 +840,27 @@
       "lng": 10.7,
       "price": "medium",
       "rating": 4.8,
-      "description": "Museum where you can go inside the world's strongest polar ship Fram.",
-      "description_en": "Museum where you can go inside the world's strongest polar ship Fram.",
+      "description": "Dedicated to Norwegian polar exploration, this museum houses the original ship 'Fram', the strongest wooden vessel ever built, which sailed to both the North and South Poles.",
+      "description_en": "Dedicated to Norwegian polar exploration, this museum houses the original ship 'Fram', the strongest wooden vessel ever built, which sailed to both the North and South Poles.",
       "bestTime": "Gündüz",
       "tips": "Kuzey ışıkları simülasyonunu izleyin.",
       "tips_en": "Watch the Northern Lights simulation.",
       "id": "fram-museum",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/fram-museum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_tr": "Norveç kutup keşiflerine adanmış bu müze, hem Kuzey hem de Güney Kutbu'na yelken açmış, şimdiye kadar inşa edilmiş en güçlü ahşap gemi olan orijinal 'Fram' gemisine ev sahipliği yapar."
     },
     {
       "name": "Frogner Church",
       "area": "Frogner",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "konum",
         "mimari",
         "sakin"
       ],
-      "description": "",
+      "description": "Historic Art Nouveau church consecrated in 1907. It is uniquely integrated into a residential street row in Bygdøy allé and features beautiful granite and clay stone details.",
       "lat": 59.919,
       "lng": 10.709,
       "id": "frogner-church",
@@ -886,17 +870,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/frogner-church.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Historic Art Nouveau church consecrated in 1907. It is uniquely integrated into a residential street row in Bygdøy allé and features beautiful granite and clay stone details.",
+      "description_tr": "1907'de açılan tarihi Art Nouveau kilise. Bygdøy allé'deki bir konut sırasına eşsiz bir şekilde entegre edilmiştir; granit ve kil taşı detaylarıyla dikkat çeker."
     },
     {
       "name": "Frognerseteren",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tarihi",
         "elmalı kek",
         "manzara"
       ],
-      "description": "",
+      "description": "Historic wooden restaurant built in 'Dragon-style' (Dragestil) atop Holmenkollen. Known for stunning panoramas of Oslofjord and its signature apple cake.",
       "id": "frognerseteren",
       "price": "medium",
       "rating": 4.5,
@@ -904,7 +890,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/frognerseteren.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Historic wooden restaurant built in 'Dragon-style' (Dragestil) atop Holmenkollen. Known for stunning panoramas of Oslofjord and its signature apple cake.",
+      "description_tr": "Holmenkollen'in tepesinde, 'Ejderha tarzı' (Dragestil) ahşap mimarisiyle inşa edilmiş tarihi restoran. Oslo fiyordu manzarası ve meşhur elmalı pastasıyla tanınır."
     },
     {
       "name": "Fuglen",
@@ -920,22 +908,23 @@
       "lng": 10.74,
       "price": "high",
       "rating": 4.7,
-      "description": "Coffee shop by day, cocktail bar by night. Filled with Scandinavian vintage furniture.",
-      "description_en": "Coffee shop by day, cocktail bar by night. Filled with Scandinavian vintage furniture.",
+      "description": "Unique specialty coffee shop by day and classic cocktail bar by night, featuring a carefully curated mid-century vintage interior where almost everything is for sale.",
+      "description_en": "Unique specialty coffee shop by day and classic cocktail bar by night, featuring a carefully curated mid-century vintage interior where almost everything is for sale.",
       "bestTime": "Akşamüzeri",
       "tips": "Beğendiğiniz mobilyaları satın alabilirsiniz.",
       "tips_en": "You can buy the furniture you like.",
       "id": "fuglen",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/fuglen.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_tr": "Gündüzleri özel kahve dükkanı, geceleri ise klasik bir kokteyl barı olan; neredeyse her şeyin satılık olduğu özenle seçilmiş retro iç tasarımıyla ünlü mekan."
     },
     {
       "id": "fuglen-coffee",
       "name": "Fuglen Coffee",
       "name_en": "Fuglen Coffee Roasters",
-      "description": "Third wave coffee shop with retro furniture. Has branch in Tokyo too.",
-      "description_en": "Third wave coffee shop with retro furniture. Has branch in Tokyo too.",
+      "description": "Unique specialty coffee shop by day and classic cocktail bar by night, featuring a carefully curated mid-century vintage interior where almost everything is for sale.",
+      "description_en": "Unique specialty coffee shop by day and classic cocktail bar by night, featuring a carefully curated mid-century vintage interior where almost everything is for sale.",
       "tips": "Akşamları kokteyl barına dönüşür.",
       "tips_en": "Turns into cocktail bar in evenings.",
       "category": "Cafe",
@@ -950,7 +939,8 @@
       "lng": 10.7746492,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/fuglen-coffee.jpg",
       "rating": 4.6,
-      "source": "firebase"
+      "source": "firebase",
+      "description_tr": "Gündüzleri özel kahve dükkanı, geceleri ise klasik bir kokteyl barı olan; neredeyse her şeyin satılık olduğu özenle seçilmiş retro iç tasarımıyla ünlü mekan."
     },
     {
       "name": "Fuglen Oslo",
@@ -961,7 +951,7 @@
         "kokteyl",
         "tasarım"
       ],
-      "description": "",
+      "description": "Unique specialty coffee shop by day and classic cocktail bar by night, featuring a carefully curated mid-century vintage interior where almost everything is for sale.",
       "id": "fuglen-oslo",
       "price": "medium",
       "rating": 4.6,
@@ -969,7 +959,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/fuglen-oslo.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Unique specialty coffee shop by day and classic cocktail bar by night, featuring a carefully curated mid-century vintage interior where almost everything is for sale.",
+      "description_tr": "Gündüzleri özel kahve dükkanı, geceleri ise klasik bir kokteyl barı olan; neredeyse her şeyin satılık olduğu özenle seçilmiş retro iç tasarımıyla ünlü mekan."
     },
     {
       "name": "Godt Brød Grünerløkka",
@@ -980,7 +972,7 @@
         "fırın",
         "geniş"
       ],
-      "description": "",
+      "description": "Popular organic bakery known for handmade sourdough bread and legendary cinnamon rolls.",
       "lat": 59.923,
       "lng": 10.757,
       "id": "godt-brod-grünerlokka",
@@ -990,14 +982,16 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/godt-brod-grünerlokka.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Popular organic bakery known for handmade sourdough bread and legendary cinnamon rolls.",
+      "description_tr": "El yapımı ekşi mayalı ekmekleri ve efsanevi tarçınlı çörekleriyle ünlü popüler organik fırın."
     },
     {
       "id": "gol-stave-church",
       "name": "Gol Stave Church",
       "name_en": "Gol Stave Church",
-      "description": "Wooden church from 13th century. Inside Folkemuseet.",
-      "description_en": "Wooden church from 13th century. Inside Folkemuseet.",
+      "description": "Beautiful 12th-century wooden church originally from Gol, re-erected at the Norsk Folkemuseum. It is a masterpiece of medieval Norwegian architecture and craftsmanship.",
+      "description_en": "Beautiful 12th-century wooden church originally from Gol, re-erected at the Norsk Folkemuseum. It is a masterpiece of medieval Norwegian architecture and craftsmanship.",
       "tips": "Viking dönemi mimarisini görebilirsiniz.",
       "tips_en": "You can see Viking era architecture.",
       "category": "Tarihi",
@@ -1012,18 +1006,19 @@
       "lng": 10.6833793,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/gol-stave-church.jpg",
       "rating": 4.7,
-      "source": "firebase"
+      "source": "firebase",
+      "description_tr": "Aslen Gol'den gelen ve Norsk Folkemuseum'da yeniden inşa edilen 12. yüzyıldan kalma muazzam ahşap kilise. Orta Çağ Norveç mimarisi ve ustalığının bir şaheseridir."
     },
     {
       "name": "Grains",
       "area": "Majorstuen",
-      "category": "Fırın",
+      "category": "Kafe",
       "tags": [
         "fransız",
         "krep",
         "artisan"
       ],
-      "description": "",
+      "description": "A French-inspired artisan bakery and creperie in Majorstuen, beloved for its organic sourdough bread, authentic galettes, and cozy atmosphere.",
       "id": "grains",
       "price": "medium",
       "rating": 4.6,
@@ -1031,17 +1026,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/grains.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "A French-inspired artisan bakery and creperie in Majorstuen, beloved for its organic sourdough bread, authentic galettes, and cozy atmosphere.",
+      "description_tr": "Majorstuen'de bulunan, organik ekşi mayalı ekmekleri, orijinal krepleri (galette) ve samimi atmosferiyle sevilen Fransız esintili butik fırın."
     },
     {
       "id": "grefsenkollen",
       "name": "Grefsenkollen",
       "name_en": "Grefsenkollen",
-      "description": "Hill offering panoramic views of Oslo and fjord.",
-      "description_en": "Hill offering panoramic views of Oslo and fjord.",
+      "description": "Hilltop restaurant and viewpoint offering one of the best panoramic vistas of Oslo and the fjord. A popular spot for hiking, cross-country skiing, and summer concerts.",
+      "description_en": "Hilltop restaurant and viewpoint offering one of the best panoramic vistas of Oslo and the fjord. A popular spot for hiking, cross-country skiing, and summer concerts.",
       "tips": "Restoranda Norveç köfteleri deneyin.",
       "tips_en": "Try Norwegian meatballs at the restaurant.",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Manzara",
       "tags": [
         "viewpoint",
@@ -1053,7 +1050,8 @@
       "lng": 10.7982585,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/grefsenkollen.jpg",
       "rating": 4.5,
-      "source": "firebase"
+      "source": "firebase",
+      "description_tr": "Oslo ve fiyort manzarasını en iyi sunan tepelerden biri olan restoran ve seyir noktası. Yürüyüş, kayak ve yaz konserleri için popüler bir destinasyondur."
     },
     {
       "name": "Grefsenkollen Viewpoint",
@@ -1064,7 +1062,7 @@
         "gün batımı",
         "tepe"
       ],
-      "description": "",
+      "description": "Hilltop restaurant and viewpoint offering one of the best panoramic vistas of Oslo and the fjord. A popular spot for hiking, cross-country skiing, and summer concerts.",
       "id": "grefsenkollen-viewpoint",
       "price": "medium",
       "rating": 4.6,
@@ -1072,13 +1070,15 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/grefsenkollen-viewpoint.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Hilltop restaurant and viewpoint offering one of the best panoramic vistas of Oslo and the fjord. A popular spot for hiking, cross-country skiing, and summer concerts.",
+      "description_tr": "Oslo ve fiyort manzarasını en iyi sunan tepelerden biri olan restoran ve seyir noktası. Yürüyüş, kayak ve yaz konserleri için popüler bir destinasyondur."
     },
     {
       "name": "Gressholmen",
       "name_en": "Gressholmen",
       "area": "Fjord",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "ada",
         "tavşan",
@@ -1130,7 +1130,7 @@
         "gurme",
         "peynir"
       ],
-      "description": "",
+      "description": "Premier gourmet grocery store and delicatessen at St. Hanshaugen, offering high-quality local cheeses, cured meats, and international food specialties.",
       "id": "gutta-pa-haugen",
       "price": "medium",
       "rating": 4.5,
@@ -1138,18 +1138,20 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/gutta-pa-haugen.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Premier gourmet grocery store and delicatessen at St. Hanshaugen, offering high-quality local cheeses, cured meats, and international food specialties.",
+      "description_tr": "St. Hanshaugen'de bulunan, yüksek kaliteli yerel peynirler, şarküteri ürünleri ve uluslararası gurme lezzetler sunan seçkin bir şarküteri mağazası."
     },
     {
       "name": "Handwerk",
       "area": "Vulkan",
-      "category": "Fırın",
+      "category": "Kafe",
       "tags": [
         "ekşi maya",
         "organik",
         "mathallen"
       ],
-      "description": "",
+      "description": "Artisan cafe and bakery located in the heart of the Botanical Garden, housed in a historic timber building. Famous for its sourdough rolls and organic, local ingredients.",
       "id": "handwerk",
       "price": "medium",
       "rating": 4.6,
@@ -1157,18 +1159,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/handwerk.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Artisan cafe and bakery located in the heart of the Botanical Garden, housed in a historic timber building. Famous for its sourdough rolls and organic, local ingredients.",
+      "description_tr": "Botanik Bahçesi'nin kalbinde, tarihi bir ahşap binada yer alan butik kafe ve fırın. Ekşi mayalı sandviçleri, organik ve yerel malzemeleriyle tanınır."
     },
     {
       "name": "Haralds Vaffel",
       "area": "Grünerløkka",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "waffle",
         "norveç",
         "kahverengi peynir"
       ],
-      "description": "",
+      "description": "A cult-favorite waffle shop at Grünerløkka serving traditional heart-shaped Norwegian waffles with classic toppings like brown cheese and jam, as well as creative variations.",
       "lat": 59.923,
       "lng": 10.758,
       "id": "haralds-vaffel",
@@ -1178,7 +1182,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/haralds-vaffel.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "A cult-favorite waffle shop at Grünerløkka serving traditional heart-shaped Norwegian waffles with classic toppings like brown cheese and jam, as well as creative variations.",
+      "description_tr": "Grünerløkka'da bulunan, kahverengi peynir ve reçel gibi klasiklerin yanı sıra yaratıcı çeşitlerle sunulan geleneksel kalp şeklindeki Norveç vaflarıyla ünlü mekan."
     },
     {
       "name": "Heaven Scent",
@@ -1188,7 +1194,7 @@
         "niş",
         "parfüm"
       ],
-      "description": "",
+      "description": "Exclusive high-end concept perfumery offering a curated selection of niche luxury fragrances, skincare, and apothecary products from renowned international brands.",
       "id": "heaven-scent",
       "price": "medium",
       "rating": 4.5,
@@ -1196,7 +1202,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/heaven-scent.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Exclusive high-end concept perfumery offering a curated selection of niche luxury fragrances, skincare, and apothecary products from renowned international brands.",
+      "description_tr": "Dünyaca ünlü markalardan seçilmiş niş parfümler, cilt bakımı ve kozmetik ürünleri sunan seçkin ve lüks bir konsept parfümeri."
     },
     {
       "name": "Himkok",
@@ -1207,7 +1215,7 @@
         "dünyanın en iyi",
         "aquavit"
       ],
-      "description": "",
+      "description": "One of the world's best cocktail bars, this award-winning speakeasy features an in-house distillery and emphasizes unique Norwegian flavors and house-made spirits.",
       "id": "himkok",
       "price": "medium",
       "rating": 4.6,
@@ -1215,7 +1223,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/himkok.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "One of the world's best cocktail bars, this award-winning speakeasy features an in-house distillery and emphasizes unique Norwegian flavors and house-made spirits.",
+      "description_tr": "Dünyanın en iyi kokteyl barlarından biri olan ödüllü mekan. Bünyesindeki damıtımevi ile geleneksel Norveç aromalarını ve kendi üretimi olan içkileri ön plana çıkarır."
     },
     {
       "name": "Historical Museum",
@@ -1226,7 +1236,7 @@
         "tarih",
         "arkeoloji"
       ],
-      "description": "",
+      "description": "Housed in a stunning Art Nouveau building, this museum showcases Norway's largest collection of prehistoric and medieval artifacts, including magnificent Viking gold treasures.",
       "lat": 59.916,
       "lng": 10.735,
       "id": "historical-museum",
@@ -1236,17 +1246,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/historical-museum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Housed in a stunning Art Nouveau building, this museum showcases Norway's largest collection of prehistoric and medieval artifacts, including magnificent Viking gold treasures.",
+      "description_tr": "Görkemli bir Art Nouveau binasında yer alan müze, muazzam Viking altın hazineleri de dahil olmak üzere Norveç'in en büyük tarih öncesi ve Orta Çağ eserleri koleksiyonuna ev sahipliği yapar."
     },
     {
       "name": "Holberg Statue",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "tiyatro",
         "yazar",
         "ulusal"
       ],
-      "description": "",
+      "description": "Monument to writer Ludvig Holberg flanked by his famous comedy characters Henrik and Pernille.",
       "id": "holberg-statue",
       "price": "medium",
       "rating": 4.5,
@@ -1254,7 +1266,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/holberg-statue.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Monument to writer Ludvig Holberg flanked by his famous comedy characters Henrik and Pernille.",
+      "description_tr": "Yazar Ludvig Holberg'in, komedi karakterleri Henrik ve Pernille ile birlikte tasvir edildiği anıt."
     },
     {
       "name": "Holmenkollen Ski Museum",
@@ -1270,21 +1284,22 @@
       "lng": 10.6675,
       "price": "medium",
       "rating": 4.7,
-      "description": "Giant ski jumping tower atop the city offering panoramic Oslo views.",
-      "description_en": "Giant ski jumping tower atop the city offering panoramic Oslo views.",
+      "description": "World's oldest ski museum, located inside the Olympic ski jump with panoramic city views.",
+      "description_en": "World's oldest ski museum, located inside the Olympic ski jump with panoramic city views.",
       "bestTime": "Gündüz",
       "tips": "Kuleye asansörle çıkabilirsiniz, manzara nefes kesici.",
       "tips_en": "You can take the elevator to the tower, view is breathtaking.",
       "id": "holmenkollen-ski-museum",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/holmenkollen-ski-museum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 0.5
+      "distanceFromCenter": 0.5,
+      "description_tr": "Olimpik kayak atlama tepesinin içinde yer alan, dünyanın en eski kayak müzesi."
     },
     {
       "name": "Hovedøya",
       "name_en": "Hovedøya Island",
       "area": "Fjord",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "ada",
         "manastır",
@@ -1307,13 +1322,13 @@
     {
       "name": "Hrimnir Ramen",
       "area": "Vulkan",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ramen",
         "fermente",
         "modern"
       ],
-      "description": "",
+      "description": "Innovative Nordic-style ramen using local ingredients and handmade heritage grain noodles.",
       "lat": 59.923,
       "lng": 10.751,
       "id": "hrimnir-ramen",
@@ -1323,7 +1338,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/hrimnir-ramen.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Innovative Nordic-style ramen using local ingredients and handmade heritage grain noodles.",
+      "description_tr": "Yerel malzemeler ve el yapımı özel tahıl erişteleriyle sunulan yenilikçi Иskandinav tarzı ramen."
     },
     {
       "id": "huk-beach",
@@ -1356,7 +1373,7 @@
         "ev",
         "tarih"
       ],
-      "description": "",
+      "description": "The meticulously restored final home of playwright Henrik Ibsen, offering guided apartment tours.",
       "lat": 59.914,
       "lng": 10.729,
       "id": "ibsen-museum",
@@ -1366,18 +1383,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/ibsen-museum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "The meticulously restored final home of playwright Henrik Ibsen, offering guided apartment tours.",
+      "description_tr": "Ünlü oyun yazarı Henrik Ibsen'in titizlikle restore edilmiş son evi ve dairesi."
     },
     {
       "name": "Ille Brød",
       "area": "Løkka",
-      "category": "Fırın",
+      "category": "Kafe",
       "tags": [
         "ekmek",
         "organik",
         "ekşi maya"
       ],
-      "description": "",
+      "description": "Artisan sourdough bakery utilizing stone-milled organic flour and ancient grains.",
       "lat": 59.918,
       "lng": 10.765,
       "id": "ille-brod",
@@ -1387,13 +1406,15 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/ille-brod.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Artisan sourdough bakery utilizing stone-milled organic flour and ancient grains.",
+      "description_tr": "Taş değirmen organik unlar ve antik tahıllar kullanan zanaatkar ekşi mayalı fırın."
     },
     {
       "name": "Illegal Burger",
       "name_en": "Illegal Burger",
       "area": "Sentrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "burger",
         "salaş",
@@ -1422,7 +1443,7 @@
         "yüzme",
         "dalış"
       ],
-      "description": "",
+      "description": "Scenic beach complex featuring iconic 1930s functionalist architecture and a diving tower.",
       "lat": 59.815,
       "lng": 10.75,
       "id": "ingierstrand-beach",
@@ -1432,7 +1453,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/ingierstrand-beach.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Scenic beach complex featuring iconic 1930s functionalist architecture and a diving tower.",
+      "description_tr": "1930'ların ikonik fonksiyonel mimarisi ve atlama kulesiyle ünlü manzaralı plaj kompleksi."
     },
     {
       "name": "Intercultural Museum",
@@ -1443,7 +1466,7 @@
         "kültür",
         "hapishane"
       ],
-      "description": "",
+      "description": "Museum in Grønland dedicated to migration history and cultural diversity in Norway.",
       "id": "intercultural-museum",
       "price": "medium",
       "rating": 4.6,
@@ -1451,18 +1474,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/intercultural-museum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Museum in Grønland dedicated to migration history and cultural diversity in Norway.",
+      "description_tr": "Grønland'da bulunan, Norveç'teki göç tarihine ve kültürel çeşitliliğe odaklanan müze."
     },
     {
       "name": "Izakaya",
       "area": "St. Olavs Plass",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "japon",
         "saklı",
         "otantik"
       ],
-      "description": "",
+      "description": "Cozy Japanese gastropub (hole-in-the-wall) famous for sake and authentic small shared dishes.",
       "lat": 59.918,
       "lng": 10.738,
       "id": "izakaya",
@@ -1472,7 +1497,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/izakaya.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Cozy Japanese gastropub (hole-in-the-wall) famous for sake and authentic small shared dishes.",
+      "description_tr": "Sake ve otantik Japon atıştırmalıklarıyla (mezeleriyle) ünlü, samimi bir Japon gastropub'ı."
     },
     {
       "name": "Java Espressobar",
@@ -1483,7 +1510,7 @@
         "kalite",
         "mahalle"
       ],
-      "description": "",
+      "description": "Pioneering specialty coffee shop co-founded by the first World Barista Champion.",
       "lat": 59.923,
       "lng": 10.738,
       "id": "java-espressobar",
@@ -1493,7 +1520,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/java-espressobar.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Pioneering specialty coffee shop co-founded by the first World Barista Champion.",
+      "description_tr": "Dünyanın ilk Barista Şampiyonu tarafından kurulan, Oslo'nun öncü nitelikli kahve dükkanlarından biri."
     },
     {
       "name": "KaffeBrenneriet",
@@ -1504,7 +1533,7 @@
         "köşe",
         "gazete"
       ],
-      "description": "",
+      "description": "Norway's leading specialty coffee chain (est. 1994), focusing on direct trade and expert roasting.",
       "id": "kaffebrenneriet",
       "price": "medium",
       "rating": 4.6,
@@ -1512,7 +1541,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/kaffebrenneriet.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Norway's leading specialty coffee chain (est. 1994), focusing on direct trade and expert roasting.",
+      "description_tr": "1994'te kurulan, doğrudan ticaret ve uzman kavurma tekniklerine odaklanan Norveç'in lider nitelikli kahve zinciri."
     },
     {
       "id": "kampen-neighborhood",
@@ -1522,7 +1553,7 @@
       "description_en": "Quiet and authentic neighborhood with colorful wooden houses.",
       "tips": "Yerel bir kafe bulun ve dinlenin.",
       "tips_en": "Find a local cafe and rest.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "subcategory": "Mahalle",
       "tags": [
         "colorful",
@@ -1539,13 +1570,13 @@
     {
       "name": "Karl Johan Statue",
       "area": "Slottsplassen",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "kral",
         "atlı",
         "saray"
       ],
-      "description": "",
+      "description": "Equestrian statue of King Karl Johan standing prominently in front of the Royal Palace.",
       "id": "karl-johan-statue",
       "price": "medium",
       "rating": 4.6,
@@ -1553,17 +1584,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/karl-johan-statue.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Equestrian statue of King Karl Johan standing prominently in front of the Royal Palace.",
+      "description_tr": "Kraliyet Sarayı'nın önünde heybetli bir şekilde duran Kral Karl Johan'ın atlı heykelidir."
     },
     {
       "name": "Kikutstua",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "uzak",
         "kayak",
         "efsane"
       ],
-      "description": "",
+      "description": "Popular forest cabin in Nordmarka serving traditional food with panoramic lake views.",
       "id": "kikutstua",
       "price": "medium",
       "rating": 4.5,
@@ -1571,7 +1604,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/kikutstua.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Popular forest cabin in Nordmarka serving traditional food with panoramic lake views.",
+      "description_tr": "Nordmarka ormanında, Bjørnsjøen gölü manzaralı ve geleneksel yemekler sunan popüler dağ evi."
     },
     {
       "name": "Kiosk!",
@@ -1582,7 +1617,7 @@
         "ilginç",
         "küçük"
       ],
-      "description": "",
+      "description": "Independent neighborhood coffee bar in Galgeberg with a strong community focus.",
       "lat": 59.909,
       "lng": 10.785,
       "id": "kiosk!",
@@ -1592,17 +1627,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/kiosk_.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Independent neighborhood coffee bar in Galgeberg with a strong community focus.",
+      "description_tr": "Galgeberg'de bulunan, mahalle kültürünü yansıtan bağımsız ve nitelikli bir kahve barı."
     },
     {
       "name": "Kobberhaughytta",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "manzara",
         "turist derneği",
         "modern"
       ],
-      "description": "",
+      "description": "DNT cabin in Nordmarka offering panoramic forest views and boat rentals on the nearby lake.",
       "id": "kobberhaughytta",
       "price": "medium",
       "rating": 4.5,
@@ -1610,18 +1647,20 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/kobberhaughytta.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "DNT cabin in Nordmarka offering panoramic forest views and boat rentals on the nearby lake.",
+      "description_tr": "Nordmarka'da bulunan, panoramik orman manzarası ve yakınındaki gölde tekne kiralama imkanı sunan DNT dağ evi."
     },
     {
       "name": "Koie Ramen",
       "area": "Sentrum",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ramen",
         "hızlı",
         "lezzetli"
       ],
-      "description": "",
+      "description": "Authentic ramen shop near Torggata making its own noodles and slow-cooked rich broths.",
       "lat": 59.915,
       "lng": 10.752,
       "id": "koie-ramen",
@@ -1631,13 +1670,15 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/koie-ramen.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Authentic ramen shop near Torggata making its own noodles and slow-cooked rich broths.",
+      "description_tr": "Torggata yakınında, kendi eriştesini yapan ve ağır ateşte pişmiş zengin bulyonlarıyla ünlü otantik ramen dükkanı."
     },
     {
       "name": "Kok Oslo",
       "name_en": "Kok Oslo",
       "area": "Langkaia",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "sauna",
         "yüzen",
@@ -1689,7 +1730,7 @@
       "description_en": "Cultural center hosting concerts, stand-up and events.",
       "tips": "Program kontrol ederek gidin.",
       "tips_en": "Go after checking the program.",
-      "category": "Kültür",
+      "category": "Deneyim",
       "subcategory": "Etkinlik",
       "tags": [
         "culture",
@@ -1706,13 +1747,13 @@
     {
       "name": "Kulturkirken Jakob",
       "area": "Grünerløkka",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "konser",
         "etkinlik",
         "dönüşüm"
       ],
-      "description": "",
+      "description": "Repurposed 19th-century church now serving as a unique cultural venue for concerts and performances.",
       "lat": 59.9185,
       "lng": 10.754,
       "id": "kulturkirken-jakob",
@@ -1722,18 +1763,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/kulturkirken-jakob.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Repurposed 19th-century church now serving as a unique cultural venue for concerts and performances.",
+      "description_tr": "Konserler ve performanslar için eşsiz bir kültür mekanına dönüştürülmüş 19. yüzyıl kilisesi."
     },
     {
       "name": "Kveitemjøl",
       "area": "Aker Brygge",
-      "category": "Fırın",
+      "category": "Kafe",
       "tags": [
         "küp kruvasan",
         "modern",
         "brunch"
       ],
-      "description": "",
+      "description": "Artisan craft bakery at Aker Brygge known for exceptional sourdough bread and cinnamon buns.",
       "id": "kveitemjol",
       "price": "medium",
       "rating": 4.6,
@@ -1741,18 +1784,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/kveitemjol.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Artisan craft bakery at Aker Brygge known for exceptional sourdough bread and cinnamon buns.",
+      "description_tr": "Aker Brygge'de bulunan, olağanüstü ekşi mayalı ekmekleri ve tarçınlı çörekleriyle tanınan zanaatkar fırın."
     },
     {
       "name": "Langøyene",
       "area": "Fjord",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kamp",
         "plaj",
         "festival"
       ],
-      "description": "",
+      "description": "A popular recreation island in the Oslofjord known for its large beach, camping, and boat connections.",
       "id": "langoyene",
       "price": "medium",
       "rating": 4.6,
@@ -1760,7 +1805,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/langoyene.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "A popular recreation island in the Oslofjord known for its large beach, camping, and boat connections.",
+      "description_tr": "Geniş plajı, kamp alanları ve feribot bağlantılarıyla bilinen, Oslo fiyordundaki popüler dinlenme adası."
     },
     {
       "name": "Liebling",
@@ -1771,7 +1818,7 @@
         "tarz",
         "plak"
       ],
-      "description": "",
+      "description": "Cozy neighborhood cafe in Grünerløkka (now Babbo Øvrefoss) known for sourdough and relaxed vibes.",
       "id": "liebling",
       "price": "medium",
       "rating": 4.6,
@@ -1779,17 +1826,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/liebling.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Cozy neighborhood cafe in Grünerløkka (now Babbo Øvrefoss) known for sourdough and relaxed vibes.",
+      "description_tr": "Grünerløkka'da bulunan (şimdiki adıyla Babbo Øvrefoss), ekşi mayalı ürünleri ve rahat ortamıyla ünlü mahalle kafesi."
     },
     {
       "name": "Lilloseter",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "kuzey",
         "sakin",
         "orman"
       ],
-      "description": "",
+      "description": "Traditional forest lodge in Lillomarka, a central hub for hiking and skiing since 1918.",
       "id": "lilloseter",
       "price": "medium",
       "rating": 4.5,
@@ -1797,18 +1846,20 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/lilloseter.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Traditional forest lodge in Lillomarka, a central hub for hiking and skiing since 1918.",
+      "description_tr": "Lillomarka'da bulunan, 1918'den beri yürüyüş ve kayak rotalarının merkezi olan geleneksel orman kulübesi."
     },
     {
       "name": "Lindøya",
       "area": "Fjord",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "kulübe",
         "renkli",
         "yazlık"
       ],
-      "description": "",
+      "description": "Idyllic island in the inner Oslofjord famous for its colorful summer cabins and quiet swimming spots.",
       "id": "lindoya",
       "price": "medium",
       "rating": 4.6,
@@ -1816,13 +1867,15 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/lindoya.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Idyllic island in the inner Oslofjord famous for its colorful summer cabins and quiet swimming spots.",
+      "description_tr": "Renkli yazlık kulübeleri ve sakin yüzme yerleriyle ünlü, Oslo fiyordunun iç kısımlarında yer alan pastoral ada."
     },
     {
       "name": "Lofthus Samvirkelag",
       "name_en": "Lofthus Samvirkelag",
       "area": "Torshov",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pizza",
         "popüler",
@@ -1850,7 +1903,7 @@
         "tasarım",
         "defter"
       ],
-      "description": "",
+      "description": "Premium stationery and fountain pen boutique in Grünerløkka featuring global design products.",
       "id": "lush-dive",
       "price": "medium",
       "rating": 4.5,
@@ -1858,13 +1911,15 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/lush-dive.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Premium stationery and fountain pen boutique in Grünerløkka featuring global design products.",
+      "description_tr": "Grünerløkka'da bulunan, dünya çapında tasarım ürünleri ve dolma kalemler sunan butik kırtasiye."
     },
     {
       "name": "Maaemo",
       "name_en": "Maaemo",
       "area": "Bjørvika",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "michelin",
         "lüks",
@@ -1892,7 +1947,7 @@
       "description_en": "Norway's only three Michelin star restaurant.",
       "tips": "Aylar öncesinden rezervasyon gerekli.",
       "tips_en": "Reservation needed months in advance.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Fine Dining",
       "tags": [
         "michelin",
@@ -1909,13 +1964,13 @@
     {
       "name": "Maridalsvannet",
       "area": "Maridalen",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "içme suyu",
         "koruma",
         "manzara"
       ],
-      "description": "",
+      "description": "Oslo's largest lake and main drinking water reservoir, surrounded by scenic hiking trails.",
       "id": "maridalsvannet",
       "price": "medium",
       "rating": 4.6,
@@ -1923,17 +1978,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/maridalsvannet.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Oslo's largest lake and main drinking water reservoir, surrounded by scenic hiking trails.",
+      "description_tr": "Oslo'nun en büyük gölü ve ana içme suyu rezervuarı; etrafı manzaralı yürüyüş parkurlarıyla çevrilidir."
     },
     {
       "name": "Mariholtet Sportsstue",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "doğa",
         "bisiklet",
         "mola"
       ],
-      "description": "",
+      "description": "Beloved sports lodge in Østmarka by the Elvåga lake, famous for its fresh cinnamon buns.",
       "id": "mariholtet-sportsstue",
       "price": "medium",
       "rating": 4.5,
@@ -1941,13 +1998,15 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/mariholtet-sportsstue.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Beloved sports lodge in Østmarka by the Elvåga lake, famous for its fresh cinnamon buns.",
+      "description_tr": "Østmarka'da, Elvåga gölü kıyısında bulunan ve taze tarçınlı çörekleriyle ünlü popüler sporcu durağı."
     },
     {
       "name": "Mathallen Oslo",
       "name_en": "Mathallen Food Hall",
       "area": "Grünerløkka",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "gurme",
         "pazar",
@@ -1957,15 +2016,16 @@
       "lng": 10.752,
       "price": "medium",
       "rating": 4.5,
-      "description": "Indoor market hall offering gourmet products from Norwegian and world cuisine.",
-      "description_en": "Indoor market hall offering gourmet products from Norwegian and world cuisine.",
+      "description": "Vibrant indoor food hall at Vulkan featuring over 30 specialty shops, cafes, and eateries.",
+      "description_en": "Vibrant indoor food hall at Vulkan featuring over 30 specialty shops, cafes, and eateries.",
       "bestTime": "Öğle",
       "tips": "Fiskeriet'te balık çorbası için.",
       "tips_en": "Drink fish soup at Fiskeriet.",
       "id": "mathallen-oslo",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/mathallen-oslo.jpg",
       "source": "firebase",
-      "distanceFromCenter": 0.5
+      "distanceFromCenter": 0.5,
+      "description_tr": "Vulkan'da yer alan, 30'dan fazla uzman dükkan, kafe ve restorana ev sahipliği yapan canlı gurme merkezi."
     },
     {
       "name": "Mathallen Oslo (Shops)",
@@ -1976,7 +2036,7 @@
         "peynir",
         "balık"
       ],
-      "description": "",
+      "description": "Vibrant indoor food hall at Vulkan featuring over 30 specialty shops, cafes, and eateries.",
       "id": "mathallen-oslo-shops",
       "price": "medium",
       "rating": 4.6,
@@ -1984,18 +2044,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/mathallen-oslo-shops.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Vibrant indoor food hall at Vulkan featuring over 30 specialty shops, cafes, and eateries.",
+      "description_tr": "Vulkan'da yer alan, 30'dan fazla uzman dükkan, kafe ve restorana ev sahipliği yapan canlı gurme merkezi."
     },
     {
       "name": "Mendels Oslo",
       "area": "Sentrum",
-      "category": "Tatlı",
+      "category": "Yeme-İçme",
       "tags": [
         "pastane",
         "fransız",
         "sanat"
       ],
-      "description": "",
+      "description": "High-end Parisian pastry shop on Karl Johans Gate, fusion of French and Moroccan artistry.",
       "lat": 59.913,
       "lng": 10.742,
       "id": "mendels-oslo",
@@ -2005,7 +2067,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/mendels-oslo.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "High-end Parisian pastry shop on Karl Johans Gate, fusion of French and Moroccan artistry.",
+      "description_tr": "Karl Johans Gate'de bulunan, Fransız ve Fas sanatının birleşimi olan yüksek kaliteli pastane."
     },
     {
       "name": "Mini Bottle Gallery",
@@ -2016,7 +2080,7 @@
         "ilginç",
         "koleksiyon"
       ],
-      "description": "",
+      "description": "The world's largest collection of miniature bottles, featuring eccentric installations over three floors.",
       "id": "mini-bottle-gallery",
       "price": "medium",
       "rating": 4.6,
@@ -2024,18 +2088,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/mini-bottle-gallery.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "The world's largest collection of miniature bottles, featuring eccentric installations over three floors.",
+      "description_tr": "Üç kat üzerinde sergilenen ilginç enstalasyonlarıyla dünyanın en büyük minyatür şişe koleksiyonu."
     },
     {
       "name": "Mjøl Bakeri",
       "area": "Sentrum",
-      "category": "Fırın",
+      "category": "Kafe",
       "tags": [
         "ekşi maya",
         "pizza",
         "kalite"
       ],
-      "description": "",
+      "description": "Modern artisan bakery in Grünerløkka specializing in organic sourdough and seasonal pastries.",
       "id": "mjol-bakeri",
       "price": "medium",
       "rating": 4.6,
@@ -2043,7 +2109,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/mjol-bakeri.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Modern artisan bakery in Grünerløkka specializing in organic sourdough and seasonal pastries.",
+      "description_tr": "Grünerløkka'da bulunan, organik ekşi mayalı ürünler ve mevsimlik hamur işlerinde uzmanlaşmış modern butik fırın."
     },
     {
       "name": "Munch Museum",
@@ -2078,7 +2146,7 @@
         "edvard munch",
         "çığlık"
       ],
-      "description": "",
+      "description": "Spectacular waterfront museum dedicated to Edvard Munch, housing the world's largest collection of his work.",
       "lat": 59.905,
       "lng": 10.755,
       "id": "munch-museum-(munch)",
@@ -2088,18 +2156,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/munch-museum-_munch_.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Spectacular waterfront museum dedicated to Edvard Munch, housing the world's largest collection of his work.",
+      "description_tr": "Bjørvika kıyısında, Edvard Munch'un dünyadaki en büyük eser koleksiyonuna ev sahipliği yapan görkemli müze."
     },
     {
       "name": "Nakholmen",
       "area": "Fjord",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "sakin",
         "yürüyüş",
         "manzara"
       ],
-      "description": "",
+      "description": "Idyllic island in the Oslofjord known for its peaceful atmosphere and vibrant summer cottages.",
       "id": "nakholmen",
       "price": "medium",
       "rating": 4.6,
@@ -2107,7 +2177,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/nakholmen.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Idyllic island in the Oslofjord known for its peaceful atmosphere and vibrant summer cottages.",
+      "description_tr": "Oslo Fiyordu'nda, huzurlu atmosferi ve renkli yazlık kulübeleriyle bilinen pitoresk ada."
     },
     {
       "name": "National Museum",
@@ -2117,43 +2189,25 @@
       "tags": [
         "sanat",
         "tasarım",
-        "devasa"
+        "art",
+        "devasa",
+        "munch",
+        "national"
       ],
       "lat": 59.9115,
       "lng": 10.73,
       "price": "medium",
       "rating": 4.6,
-      "description": "Scandinavia's largest art museum. Old masters and modern design together.",
-      "description_en": "Scandinavia's largest art museum. Old masters and modern design together.",
+      "description": "Northern Europe's largest art museum opened in 2022. Munch's 'The Scream' is here.",
+      "description_en": "Northern Europe's largest art museum opened in 2022. Munch's 'The Scream' is here.",
       "bestTime": "Gündüz",
       "tips": "Munch Odası'ndaki Çığlık tablosunu görün.",
       "tips_en": "See The Scream painting in the Munch Room.",
       "id": "national-museum",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/national-museum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "id": "national-museum-of-art",
-      "name": "National Museum of Art",
-      "name_en": "National Museum",
-      "description": "Northern Europe's largest art museum opened in 2022. Munch's 'The Scream' is here.",
-      "description_en": "Northern Europe's largest art museum opened in 2022. Munch's 'The Scream' is here.",
-      "tips": "Gün içinde 2-3 saat ayırın.",
-      "tips_en": "Allocate 2-3 hours during the day.",
-      "category": "Müze",
-      "subcategory": "Sanat",
-      "tags": [
-        "art",
-        "munch",
-        "national"
-      ],
-      "price": "medium",
-      "lat": 59.911506,
-      "lng": 10.7292472,
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/national-museum-of-art.jpg",
-      "rating": 4.6,
-      "source": "firebase"
+      "distanceFromCenter": 1.0,
+      "subcategory": "Sanat"
     },
     {
       "name": "Natural History Museum",
@@ -2164,7 +2218,7 @@
         "dinozor",
         "botanik"
       ],
-      "description": "",
+      "description": "Museum within the Botanical Garden featuring Norway's only complete dinosaur skeletons (Zara and Zelda).",
       "lat": 59.919,
       "lng": 10.77,
       "id": "natural-history-museum",
@@ -2174,7 +2228,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/natural-history-museum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Museum within the Botanical Garden featuring Norway's only complete dinosaur skeletons (Zara and Zelda).",
+      "description_tr": "Botanik Bahçesi içinde yer alan, Norveç'in tek tam dinozor iskeletlerine (Zara ve Zelda) ev sahipliği yapan müze."
     },
     {
       "name": "Neongrut",
@@ -2185,7 +2241,7 @@
         "renkli",
         "modern"
       ],
-      "description": "",
+      "description": "Popular vegan cafe (now Papegøye in Tøyen) known for exceptional coffee and plant-based treats.",
       "id": "neongrut",
       "price": "medium",
       "rating": 4.6,
@@ -2193,7 +2249,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/neongrut.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Popular vegan cafe (now Papegøye in Tøyen) known for exceptional coffee and plant-based treats.",
+      "description_tr": "Olağanüstü kahveleri ve bitki bazlı tatlılarıyla tanınan popüler vegan kafe (şimdiki Papegøye, Tøyen)."
     },
     {
       "name": "Nobel Peace Center",
@@ -2227,7 +2285,7 @@
       "description_en": "Huge forest area just north of Oslo. Ideal for hiking and skiing.",
       "tips": "Sognsvann gölünden yürüyüşe başlayabilirsiniz.",
       "tips_en": "You can start hiking from Sognsvann lake.",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Orman",
       "tags": [
         "forest",
@@ -2247,23 +2305,27 @@
       "area": "Bygdøy",
       "category": "Müze",
       "tags": [
+        "geleneksel",
+        "open air",
         "açıkhava",
-        "ahşap",
-        "geleneksel"
+        "stave church",
+        "traditional",
+        "ahşap"
       ],
       "lat": 59.907,
       "lng": 10.686,
       "price": "medium",
       "rating": 4.7,
-      "description": "Giant open-air museum with historic buildings brought from all over Norway.",
-      "description_en": "Giant open-air museum with historic buildings brought from all over Norway.",
+      "description": "Open-air museum with over 160 historic buildings. Stave church is very important.",
+      "description_en": "Open-air museum with over 160 historic buildings. Stave church is very important.",
       "bestTime": "Gündüz",
       "tips": "Gol Stave Kilisesi'ni (ahşap kilise) mutlaka görün.",
       "tips_en": "Must see the Gol Stave Church.",
       "id": "norsk-folkemuseum",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/norsk-folkemuseum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "subcategory": "Açık Hava"
     },
     {
       "name": "Norway Resistance Museum",
@@ -2274,7 +2336,7 @@
         "tarih",
         "direniş"
       ],
-      "description": "",
+      "description": "Moving museum at Akershus Fortress documenting Norway's resistance movement during WWII occupation.",
       "lat": 59.908,
       "lng": 10.736,
       "id": "norway-resistance-museum",
@@ -2284,7 +2346,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/norway-resistance-museum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Moving museum at Akershus Fortress documenting Norway's resistance movement during WWII occupation.",
+      "description_tr": "Akershus Kalesi'nde bulunan, II. Dünya Savaşı işgali sırasındaki Norveç direniş hareketini belgeleyen etkileyici müze."
     },
     {
       "id": "norwegian-maritime-museum",
@@ -2309,37 +2373,15 @@
       "source": "firebase"
     },
     {
-      "id": "norwegian-museum-of-cultural-history",
-      "name": "Norwegian Museum of Cultural History",
-      "name_en": "Norsk Folkemuseum",
-      "description": "Open-air museum with over 160 historic buildings. Stave church is very important.",
-      "description_en": "Open-air museum with over 160 historic buildings. Stave church is very important.",
-      "tips": "En az yarım gün ayırın.",
-      "tips_en": "Allocate at least half a day.",
-      "category": "Müze",
-      "subcategory": "Açık Hava",
-      "tags": [
-        "open air",
-        "stave church",
-        "traditional"
-      ],
-      "price": "medium",
-      "lat": 59.90749150000001,
-      "lng": 10.6867036,
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/norwegian-museum-of-cultural-history.jpg",
-      "rating": 4.6,
-      "source": "firebase"
-    },
-    {
       "name": "Old Aker Church (Gamle Aker Kirke)",
       "area": "St. Hanshaugen",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "en eski",
         "taş",
         "ortaçağ"
       ],
-      "description": "",
+      "description": "Oslo's oldest building (c. 1080), a medieval stone church still in use.",
       "lat": 59.9235,
       "lng": 10.745,
       "id": "old-aker-church-(gamle-aker-kirke)",
@@ -2349,7 +2391,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/old-aker-church-_gamle-aker-kirke_.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Oslo's oldest building (c. 1080), a medieval stone church still in use.",
+      "description_tr": "Oslo'nun ayakta kalan en eski binası (yaklaşık 1080 yapımı), halen aktif olan orta çağ taş kilisesi."
     },
     {
       "name": "Oslo Botanical Garden",
@@ -2378,13 +2422,13 @@
     {
       "name": "Oslo Camping",
       "area": "Sentrum",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "minigolf",
         "bar",
         "kamp"
       ],
-      "description": "",
+      "description": "Unique indoor mini-golf bar in Møllergata offering 18 creative holes and a vibrant club atmosphere.",
       "lat": 59.915,
       "lng": 10.75,
       "id": "oslo-camping",
@@ -2394,7 +2438,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/oslo-camping.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Unique indoor mini-golf bar in Møllergata offering 18 creative holes and a vibrant club atmosphere.",
+      "description_tr": "Møllergata'da yer alan, 18 yaratıcı parkur ve canlı bir kulüp atmosferi sunan eşsiz kapalı mini golf barı."
     },
     {
       "id": "oslo-cathedral",
@@ -2421,13 +2467,13 @@
     {
       "name": "Oslo Cathedral (Domkirke)",
       "area": "Sentrum",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "katedral",
         "barok",
         "vitray"
       ],
-      "description": "",
+      "description": "Consecrated in 1697, featuring a Baroque interior, vibrant ceiling murals, and a historic bazaar.",
       "lat": 59.9125,
       "lng": 10.748,
       "id": "oslo-cathedral-(domkirke)",
@@ -2437,7 +2483,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/oslo-cathedral-_domkirke_.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Consecrated in 1697, featuring a Baroque interior, vibrant ceiling murals, and a historic bazaar.",
+      "description_tr": "1697'de ibadete açılan, Barok iç mekanı, tavan resimleri ve tarihi çarşısıyla ünlü katedral."
     },
     {
       "id": "oslo-city-hall",
@@ -2470,7 +2518,7 @@
         "tarih",
         "kültür"
       ],
-      "description": "",
+      "description": "Located in historic Frogner Manor, showcasing Oslo's urban development through varied exhibitions.",
       "lat": 59.924,
       "lng": 10.702,
       "id": "oslo-city-museum",
@@ -2480,17 +2528,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/oslo-city-museum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Located in historic Frogner Manor, showcasing Oslo's urban development through varied exhibitions.",
+      "description_tr": "Tarihi Frogner Malikanesi'nde yer alan, Oslo'nun kentsel gelişimini çeşitli sergilerle sunan müze."
     },
     {
       "name": "Oslo Lions (Stortinget)",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "aslan",
         "parlamento",
         "taş"
       ],
-      "description": "",
+      "description": "Iconic granite lion statues (Løvebakken) guarding the entrance to the Norwegian Parliament building.",
       "id": "oslo-lions-stortinget",
       "price": "medium",
       "rating": 4.5,
@@ -2498,7 +2548,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/oslo-lions-stortinget.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Iconic granite lion statues (Løvebakken) guarding the entrance to the Norwegian Parliament building.",
+      "description_tr": "Norveç Parlamento Binası'nın (Stortinget) girişini koruyan, granitten oyulmuş ikonik aslan heykelleri (Løvebakken)."
     },
     {
       "name": "Oslo Opera House",
@@ -2527,13 +2579,13 @@
     {
       "name": "Oslo Tree",
       "area": "Bjørvika",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "ışık",
         "ağaç",
         "yapay"
       ],
-      "description": "",
+      "description": "Stunning 14-meter light installation in Trettenparken featuring 150,000 computer-controlled LED lights.",
       "id": "oslo-tree",
       "price": "medium",
       "rating": 4.6,
@@ -2541,7 +2593,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/oslo-tree.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Stunning 14-meter light installation in Trettenparken featuring 150,000 computer-controlled LED lights.",
+      "description_tr": "Trettenparken'de yer alan, 150.000 bilgisayar kontrollü LED ışıktan oluşan 14 metrelik göz alıcı ışık enstalasyonu."
     },
     {
       "id": "oslofjord-islands",
@@ -2551,7 +2605,7 @@
       "description_en": "Islands in Oslo fjord reached by ferry. Ideal for picnics and swimming in summer.",
       "tips": "Hovedøya ve Langøyene en popüler adalardır.",
       "tips_en": "Hovedøya and Langøyene are most popular islands.",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Ada",
       "tags": [
         "islands",
@@ -2598,7 +2652,7 @@
         "moda",
         "merkez"
       ],
-      "description": "",
+      "description": "Sophisticated shopping destination on Karl Johans gate known for its high-end fashion and refined architecture.",
       "id": "paleet",
       "price": "medium",
       "rating": 4.6,
@@ -2606,7 +2660,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/paleet.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Sophisticated shopping destination on Karl Johans gate known for its high-end fashion and refined architecture.",
+      "description_tr": "Karl Johans gate'de bulunan, lüks moda markaları ve rafine mimarisiyle ünlü sofistike alışveriş merkezi."
     },
     {
       "id": "paradisbukta-beach",
@@ -2639,7 +2695,7 @@
         "eğlence",
         "fotoğraf"
       ],
-      "description": "",
+      "description": "Interactive museum with over 70 mind-bending optical illusions and paradox-based exhibits.",
       "lat": 59.912,
       "lng": 10.742,
       "id": "paradox-museum-oslo",
@@ -2649,14 +2705,16 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/paradox-museum-oslo.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Interactive museum with over 70 mind-bending optical illusions and paradox-based exhibits.",
+      "description_tr": "70'den fazla zihin bulandıran optik illüzyon ve paradoks temalı sergi sunan interaktif müze."
     },
     {
       "id": "parliament-building-stortinget",
       "name": "Parliament Building (Stortinget)",
       "name_en": "Stortinget Parliament",
-      "description": "Norwegian Parliament building. Free tours available.",
-      "description_en": "Norwegian Parliament building. Free tours available.",
+      "description": "The iconic seat of Norway's parliament, opened in 1866 and known for its eclectic yellow brick architecture.",
+      "description_en": "The iconic seat of Norway's parliament, opened in 1866 and known for its eclectic yellow brick architecture.",
       "tips": "Hafta sonları turlar düzenleniyor.",
       "tips_en": "Tours are organized on weekends.",
       "category": "Tarihi",
@@ -2671,17 +2729,18 @@
       "lng": 10.7401006,
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/parliament-building-stortinget.jpg",
       "rating": 4.4,
-      "source": "firebase"
+      "source": "firebase",
+      "description_tr": "Norveç parlamentosunun 1866'da açılan ikonik binası; eklektik sarı tuğla mimarisiyle tanınır."
     },
     {
       "name": "Peer Gynt Sculpture Park",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "ibsen",
         "park",
         "tiyatro"
       ],
-      "description": "",
+      "description": "Open-air sculpture park in Løren depicting Henrik Ibsen's play 'Peer Gynt' act by act.",
       "id": "peer-gynt-sculpture-park",
       "price": "medium",
       "rating": 4.5,
@@ -2689,7 +2748,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/peer-gynt-sculpture-park.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Open-air sculpture park in Løren depicting Henrik Ibsen's play 'Peer Gynt' act by act.",
+      "description_tr": "Løren'de bulunan, Henrik Ibsen'in 'Peer Gynt' oyununu sahne sahne tasvir eden açık hava heykel parkı."
     },
     {
       "name": "Pust Kaffebar",
@@ -2700,7 +2761,7 @@
         "bitki",
         "öğrenci"
       ],
-      "description": "",
+      "description": "Popular student-favored coffee bar at Majorstuen known for its Jacu coffee and campus-café vibe.",
       "id": "pust-kaffebar",
       "price": "medium",
       "rating": 4.6,
@@ -2708,13 +2769,15 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/pust-kaffebar.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Popular student-favored coffee bar at Majorstuen known for its Jacu coffee and campus-café vibe.",
+      "description_tr": "Majorstuen'de bulunan, Jacu kahvesi ve kampüs kafesi atmosferiyle öğrenciler arasında popüler olan mekan."
     },
     {
       "name": "Restaurant Schrøder",
       "name_en": "Restaurant Schrøder",
       "area": "St. Hanshaugen",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "geleneksel",
         "köfte",
@@ -2742,7 +2805,7 @@
         "plak",
         "giyim"
       ],
-      "description": "",
+      "description": "Iconic vintage store in Grünerløkka's Markveien, specializing in handpicked 90s and Y2K clothing.",
       "id": "robot",
       "price": "medium",
       "rating": 4.5,
@@ -2750,7 +2813,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/robot.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Iconic vintage store in Grünerløkka's Markveien, specializing in handpicked 90s and Y2K clothing.",
+      "description_tr": "Grünerløkka'da bulunan, 90'lar ve Y2K dönemine ait özenle seçilmiş kıyafetlerle ünlü ikonik vintage dükkanı."
     },
     {
       "name": "Rodeløkka",
@@ -2800,13 +2865,13 @@
     },
     {
       "name": "Rustadsaga",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "Nøklevann",
         "kulübe",
         "göl"
       ],
-      "description": "",
+      "description": "Historic forest lodge in Østmarka by Nøklevann lake, known for its homemade food and friendly animals.",
       "id": "rustadsaga",
       "price": "medium",
       "rating": 4.5,
@@ -2814,7 +2879,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/rustadsaga.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Historic forest lodge in Østmarka by Nøklevann lake, known for its homemade food and friendly animals.",
+      "description_tr": "Østmarka'daki Nøklevann gölü kıyısında bulunan, ev yapımı yemekleri ve cana yakın hayvanlarıyla ünlü tarihi orman kulübesi."
     },
     {
       "name": "Røtter St. Hanshaugen",
@@ -2824,7 +2891,7 @@
         "market",
         "sağlık"
       ],
-      "description": "",
+      "description": "Oslo's flagship organic grocery store offering a wide range of natural health products and local goods.",
       "id": "rotter-st-hanshaugen",
       "price": "medium",
       "rating": 4.5,
@@ -2832,7 +2899,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/rotter-st-hanshaugen.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Oslo's flagship organic grocery store offering a wide range of natural health products and local goods.",
+      "description_tr": "Doğal sağlık ürünleri ve yerel gıdalar sunan, Oslo'nun en önemli organik marketlerinden biri."
     },
     {
       "name": "Røør",
@@ -2843,7 +2912,7 @@
         "musluk",
         "çeşit"
       ],
-      "description": "",
+      "description": "Craft beer heaven in Rosenkrantzgate featuring over 60 taps and shuffleboard tables.",
       "id": "roor",
       "price": "medium",
       "rating": 4.6,
@@ -2851,13 +2920,15 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/roor.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Craft beer heaven in Rosenkrantzgate featuring over 60 taps and shuffleboard tables.",
+      "description_tr": "Rosenkrantzgate'de bulunan, 60'tan fazla musluk seçeneği ve shuffleboard masalarıyla ünlü bir bira cenneti."
     },
     {
       "name": "Salt",
       "name_en": "Salt",
       "area": "Havnelageret",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "sauna",
         "kültür",
@@ -2885,7 +2956,7 @@
       "description_en": "Nomadic art and culture project. Offers sauna and outdoor swimming.",
       "tips": "Etkinlik programını kontrol edin.",
       "tips_en": "Check the event schedule.",
-      "category": "Kültür",
+      "category": "Deneyim",
       "subcategory": "Sanat",
       "tags": [
         "sauna",
@@ -2901,13 +2972,13 @@
     },
     {
       "name": "Sandbakken Sportsstue",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "doğu",
         "tarihi",
         "waffle"
       ],
-      "description": "",
+      "description": "Family-friendly sports lodge in Østmarka famous for its warm atmosphere and traditional homemade waffles.",
       "id": "sandbakken-sportsstue",
       "price": "medium",
       "rating": 4.5,
@@ -2915,18 +2986,20 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/sandbakken-sportsstue.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Family-friendly sports lodge in Østmarka famous for its warm atmosphere and traditional homemade waffles.",
+      "description_tr": "Østmarka'da bulunan, sıcak atmosferi ve geleneksel ev yapımı vafları ile ünlü aile dostu sporcu durağı."
     },
     {
       "name": "Sauna at Langkaia (SALT)",
       "area": "Bjørvika",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "sauna",
         "kültür",
         "deniz"
       ],
-      "description": "",
+      "description": "Cultural arena at Langkaia featuring a unique 'sauna village' and views of the Opera House.",
       "lat": 59.906,
       "lng": 10.745,
       "id": "sauna-at-langkaia-(salt)",
@@ -2936,7 +3009,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/sauna-at-langkaia-_salt_.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Cultural arena at Langkaia featuring a unique 'sauna village' and views of the Opera House.",
+      "description_tr": "Langkaia'da bulunan, eşsiz bir 'sauna köyü' ve Opera Binası manzarası sunan kültürel etkinlik alanı."
     },
     {
       "name": "Schouskjelleren Mikrobryggeri",
@@ -2947,7 +3022,7 @@
         "bira",
         "tarihi"
       ],
-      "description": "",
+      "description": "Atmospheric microbrewery located in the historic vaulted cellars of the former Schous brewery.",
       "id": "schouskjelleren-mikrobryggeri",
       "price": "medium",
       "rating": 4.6,
@@ -2955,18 +3030,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/schouskjelleren-mikrobryggeri.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Atmospheric microbrewery located in the historic vaulted cellars of the former Schous brewery.",
+      "description_tr": "Eski Schous bira fabrikasının tarihi tonozlu mahzenlerinde yer alan atmosferik mikro-birahane."
     },
     {
       "name": "She Lies",
       "area": "Bjørvika",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "su üstünde",
         "modern",
         "buzdağı"
       ],
-      "description": "",
+      "description": "Monumental floating sculpture of glass and steel by Monica Bonvicini, inspired by Romantic landscape painting.",
       "id": "she-lies",
       "price": "medium",
       "rating": 4.6,
@@ -2974,17 +3051,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/she-lies.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Monumental floating sculpture of glass and steel by Monica Bonvicini, inspired by Romantic landscape painting.",
+      "description_tr": "Monica Bonvicini imzalı, Romantik dönem manzara resimlerinden ilham alan, cam ve çelikten devasa yüzen heykel."
     },
     {
       "name": "Skjennungstua",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "manzara",
         "kulübe",
         "tatlı"
       ],
-      "description": "",
+      "description": "Beloved sports lodge in Nordmarka offering homemade cakes and magnificent views across the forest.",
       "id": "skjennungstua",
       "price": "medium",
       "rating": 4.5,
@@ -2992,7 +3071,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/skjennungstua.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Beloved sports lodge in Nordmarka offering homemade cakes and magnificent views across the forest.",
+      "description_tr": "Nordmarka'da bulunan, ev yapımı pastaları ve orman üzerinden geçen muazzam manzarasıyla sevilen sporcu durağı."
     },
     {
       "name": "Sofienberg Park",
@@ -3003,7 +3084,7 @@
         "barbekü",
         "genç"
       ],
-      "description": "",
+      "description": "Large, vibrant green space in Grünerløkka (former cemetery) and a popular social hub for locals.",
       "lat": 59.922,
       "lng": 10.762,
       "id": "sofienberg-park",
@@ -3013,13 +3094,15 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/sofienberg-park.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Large, vibrant green space in Grünerløkka (former cemetery) and a popular social hub for locals.",
+      "description_tr": "Grünerløkka'da yer alan (eski mezarlık), yerel halk için popüler bir sosyal merkez olan geniş ve canlı yeşil alan."
     },
     {
       "name": "Sognsvann Lake",
       "name_en": "Sognsvann",
       "area": "Kringsjå",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "göl",
         "yürüyüş",
@@ -3048,7 +3131,7 @@
         "piknik",
         "popüler"
       ],
-      "description": "",
+      "description": "Classic hilly park offering panoramic views over Oslo, romantic atmosphere, and intimate picnic spots.",
       "lat": 59.927,
       "lng": 10.74,
       "id": "st-hanshaugen-park",
@@ -3058,18 +3141,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/st-hanshaugen-park.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Classic hilly park offering panoramic views over Oslo, romantic atmosphere, and intimate picnic spots.",
+      "description_tr": "Oslo üzerinden panoramik manzaralar, romantik bir atmosfer ve samimi piknik noktaları sunan klasik tepelik park."
     },
     {
       "name": "St. Olav's Cathedral",
       "area": "Sentrum",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "katolik",
         "neo-gotik",
         "tarihi"
       ],
-      "description": "",
+      "description": "The Neo-Gothic Roman Catholic cathedral of Oslo, consecrated in 1856 and featuring a relic of St. Olav.",
       "lat": 59.918,
       "lng": 10.743,
       "id": "st-olavs-cathedral",
@@ -3079,7 +3164,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/st-olavs-cathedral.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "The Neo-Gothic Roman Catholic cathedral of Oslo, consecrated in 1856 and featuring a relic of St. Olav.",
+      "description_tr": "Oslo'nun 1856'da açılan Neo-Gotik Roma Katolik katedrali; içinde Aziz Olav'a ait bir emanet bulunur."
     },
     {
       "name": "Stockfleths",
@@ -3090,7 +3177,7 @@
         "kalite",
         "norveç"
       ],
-      "description": "",
+      "description": "Historic coffee house (est. 1895) with a legacy of world-class baristas and high-quality specialty beans.",
       "id": "stockfleths",
       "price": "medium",
       "rating": 4.6,
@@ -3098,17 +3185,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/stockfleths.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Historic coffee house (est. 1895) with a legacy of world-class baristas and high-quality specialty beans.",
+      "description_tr": "1895'te kurulan, dünya çapında baristalar yetiştirmiş ve yüksek kaliteli nitelikli çekirdekleriyle ünlü tarihi kahve evi."
     },
     {
       "name": "Strøget",
-      "category": "Gece Hayatı",
+      "category": "Bar",
       "tags": [
         "pasaj",
         "bar",
         "gizli"
       ],
-      "description": "",
+      "description": "Vibrant and energetic nightclub located in a historic pedestrian passage near Torggata.",
       "id": "stroget",
       "price": "medium",
       "rating": 4.5,
@@ -3116,7 +3205,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/stroget.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Vibrant and energetic nightclub located in a historic pedestrian passage near Torggata.",
+      "description_tr": "Torggata yakınındaki tarihi bir yaya pasajında yer alan, canlı ve enerjik bir gece kulübü."
     },
     {
       "name": "Summit Bar",
@@ -3127,7 +3218,7 @@
         "çatı",
         "şık"
       ],
-      "description": "",
+      "description": "Chic cocktail bar designed by Snøhetta, located on the 21st floor with panoramic views of Oslo Fjord.",
       "id": "summit-bar",
       "price": "medium",
       "rating": 4.6,
@@ -3135,7 +3226,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/summit-bar.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Chic cocktail bar designed by Snøhetta, located on the 21st floor with panoramic views of Oslo Fjord.",
+      "description_tr": "Snøhetta tarafından tasarlanan, 21. katta yer alan ve Oslo Fiyordu'nun panoramik manzarasını sunan şık kokteyl barı."
     },
     {
       "name": "Supreme Roastworks",
@@ -3164,13 +3257,13 @@
     {
       "name": "Syverkiosken",
       "area": "Friedensborg",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "sosisli",
         "tarihi",
         "efsane"
       ],
-      "description": "",
+      "description": "Legendary traditional hot dog stand serving classic wieners in a secret family-recipe stock since 1936.",
       "lat": 59.924,
       "lng": 10.75,
       "id": "syverkiosken",
@@ -3180,7 +3273,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/syverkiosken.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Legendary traditional hot dog stand serving classic wieners in a secret family-recipe stock since 1936.",
+      "description_tr": "1936'den beri gizli bir aile tarifiyle hazırlanan sosisli sandviçler sunan efsanevi geleneksel büfe."
     },
     {
       "id": "sorenga-sjobad",
@@ -3190,7 +3285,7 @@
       "description_en": "Seawater pools and sunbathing areas in city center.",
       "tips": "Atlama platformları çok eğlenceli.",
       "tips_en": "Diving platforms are very fun.",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Havuz",
       "tags": [
         "swimming",
@@ -3213,7 +3308,7 @@
         "kahve",
         "renkli"
       ],
-      "description": "",
+      "description": "Acclaimed coffee roastery and donut shop known for creative flavors and high-quality specialty coffee.",
       "lat": 59.911,
       "lng": 10.755,
       "id": "talor-&-jorgen",
@@ -3223,7 +3318,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/talor-_-jorgen.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Acclaimed coffee roastery and donut shop known for creative flavors and high-quality specialty coffee.",
+      "description_tr": "Yaratıcı aromalı çörekleri ve yüksek kaliteli nitelikli kahveleriyle tanınan ünlü kahve kavurma evi ve çörekçi."
     },
     {
       "id": "technical-museum-oslo",
@@ -3274,13 +3371,13 @@
     {
       "name": "The Angry Boy (Sinnataggen)",
       "area": "Frogner Park",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "vigeland",
         "popüler",
         "bronz"
       ],
-      "description": "",
+      "description": "Iconic bronze sculpture by Gustav Vigeland in Frogner Park, famous for its raw emotional expression.",
       "id": "the-angry-boy-sinnataggen",
       "price": "medium",
       "rating": 4.6,
@@ -3288,17 +3385,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/the-angry-boy-sinnataggen.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Iconic bronze sculpture by Gustav Vigeland in Frogner Park, famous for its raw emotional expression.",
+      "description_tr": "Frogner Parkı'nda yer alan, ham duygusal ifadesiyle ünlü Gustav Vigeland imzalı ikonik bronz heykel."
     },
     {
       "name": "The Glove (Hansk)",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "eldiven",
         "kuruluş",
         "efsane"
       ],
-      "description": "",
+      "description": "Sculptural fountain monument by Wenche Gulbransen marking where Christian IV decided to rebuild Oslo.",
       "id": "the-glove-hansk",
       "price": "medium",
       "rating": 4.5,
@@ -3306,18 +3405,20 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/the-glove-hansk.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Sculptural fountain monument by Wenche Gulbransen marking where Christian IV decided to rebuild Oslo.",
+      "description_tr": "Christian IV'ün Oslo'yu yeniden inşa etmeye karar verdiği noktayı simgeleyen, Wenche Gulbransen imzalı görkemli heykel-çeşme."
     },
     {
       "name": "The Monolith (Monolitten)",
       "area": "Frogner Park",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "vigeland",
         "ikonik",
         "121 figür"
       ],
-      "description": "",
+      "description": "Towering 17-meter granite sculpture in Vigeland Park featuring 121 intertwined human figures climbing upward.",
       "id": "the-monolith-monolitten",
       "price": "medium",
       "rating": 4.6,
@@ -3325,18 +3426,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/the-monolith-monolitten.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Towering 17-meter granite sculpture in Vigeland Park featuring 121 intertwined human figures climbing upward.",
+      "description_tr": "Vigeland Parkı'nın kalbinde yer alan, 121 adet birbirine geçmiş insan figüründen oluşan 17 metrelik devasa granit heykel."
     },
     {
       "name": "The Tiger Statue",
       "area": "Sentrum",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "kaplan",
         "meydan",
         "buluşma"
       ],
-      "description": "",
+      "description": "Famous bronze tiger statue at Jernbanetorget, symbolizing Oslo's nickname 'Tigerstaden' since 2000.",
       "id": "the-tiger-statue",
       "price": "medium",
       "rating": 4.6,
@@ -3344,18 +3447,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/the-tiger-statue.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Famous bronze tiger statue at Jernbanetorget, symbolizing Oslo's nickname 'Tigerstaden' since 2000.",
+      "description_tr": "2000 yılından beri Oslo'nun 'Kaplan Şehri' (Tigerstaden) lakabını simgeleyen ünlü bronz kaplan heykeli."
     },
     {
       "name": "The Villa",
       "area": "Møllergata",
-      "category": "Gece Kulübü",
+      "category": "Bar",
       "tags": [
         "tekno",
         "yeraltı",
         "dans"
       ],
-      "description": "",
+      "description": "Renowned underground electronica club in a basement setting, famous for its intimate 'dungeon' vibe and techno music.",
       "id": "the-villa",
       "price": "medium",
       "rating": 4.6,
@@ -3363,18 +3468,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/the-villa.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Renowned underground electronica club in a basement setting, famous for its intimate 'dungeon' vibe and techno music.",
+      "description_tr": "Bodrum katındaki özgün atmosferi, 'zindan' benzeri havası ve tekno müziğiyle ünlü, Oslo'nun öncü elektronik müzik kulübü."
     },
     {
       "name": "The Wheel of Life",
       "area": "Frogner Park",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "vigeland",
         "sembolik",
         "çember"
       ],
-      "description": "",
+      "description": "Symbolic bronze sculpture by Gustav Vigeland representing eternity and the interconnected cycle of human life.",
       "id": "the-wheel-of-life",
       "price": "medium",
       "rating": 4.6,
@@ -3382,18 +3489,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/the-wheel-of-life.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Symbolic bronze sculpture by Gustav Vigeland representing eternity and the interconnected cycle of human life.",
+      "description_tr": "Vigeland Parkı'nda bulunan, sonsuzluğu ve insan yaşamının birbirine bağlı döngüsünü simgeleyen bronz heykel."
     },
     {
       "name": "Tilt",
       "area": "Torggata",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "arcade",
         "pinball",
         "bira"
       ],
-      "description": "",
+      "description": "Popular retro arcade bar in Torggata featuring Oslo's largest collection of pinball machines and classic games.",
       "id": "tilt",
       "price": "medium",
       "rating": 4.6,
@@ -3401,7 +3510,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/tilt.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Popular retro arcade bar in Torggata featuring Oslo's largest collection of pinball machines and classic games.",
+      "description_tr": "Torggata'da yer alan, Oslo'nun en geniş langırt ve klasik atari oyunu koleksiyonuna sahip popüler retro oyun barı."
     },
     {
       "name": "Tim Wendelboe",
@@ -3430,13 +3541,13 @@
     {
       "name": "Tjuvholmen Sculpture Park",
       "area": "Tjuvholmen",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "heykel",
         "deniz",
         "modern"
       ],
-      "description": "",
+      "description": "Stunning waterfront art space designed by Renzo Piano, featuring works by renowned international contemporary artists.",
       "lat": 59.9065,
       "lng": 10.721,
       "id": "tjuvholmen-sculpture-park",
@@ -3446,7 +3557,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/tjuvholmen-sculpture-park.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Stunning waterfront art space designed by Renzo Piano, featuring works by renowned international contemporary artists.",
+      "description_tr": "Renzo Piano tarafından tasarlanan, dünyaca ünlü modern sanatçıların eserlerine ev sahipliği yapan görkemli sahil heykel parkı."
     },
     {
       "name": "Torggata Botaniske",
@@ -3457,7 +3570,7 @@
         "sera",
         "kokteyl"
       ],
-      "description": "",
+      "description": "Intimate and enchanting cocktail bar with a lush botanical theme, using fresh herbs for innovative craft drinks.",
       "id": "torggata-botaniske",
       "price": "medium",
       "rating": 4.6,
@@ -3465,18 +3578,20 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/torggata-botaniske.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Intimate and enchanting cocktail bar with a lush botanical theme, using fresh herbs for innovative craft drinks.",
+      "description_tr": "Torggata'da yer alan, bitkilerle bezeli büyüleyici atmosferi ve taze baharatlarla hazırlanan yenilikçi kokteylleriyle ünlü bar."
     },
     {
       "name": "Trinity Church (Trefoldighetskirken)",
       "area": "Hammersborg",
-      "category": "Tarih",
+      "category": "Tarihi",
       "tags": [
         "kırmızı",
         "büyük",
         "akustik"
       ],
-      "description": "",
+      "description": "Grand Neo-Gothic church (1858) famous for its red brick architecture and a massive copper-clad central dome.",
       "lat": 59.917,
       "lng": 10.745,
       "id": "trinity-church-(trefoldighetskirken)",
@@ -3486,7 +3601,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/trinity-church-_trefoldighetskirken_.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Grand Neo-Gothic church (1858) famous for its red brick architecture and a massive copper-clad central dome.",
+      "description_tr": "1858 yapımı, kırmızı tuğla mimarisi ve devasa bakır kaplı merkezi kubbesiyle ünlü görkemli Neo-Gotik kilise."
     },
     {
       "name": "Tronsmo Bokhandel",
@@ -3497,7 +3614,7 @@
         "bağımsız",
         "kült"
       ],
-      "description": "",
+      "description": "Legendary independent bookstore established in 1973, a cultural institution known for its radical curation and comics.",
       "id": "tronsmo-bokhandel",
       "price": "medium",
       "rating": 4.6,
@@ -3505,7 +3622,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/tronsmo-bokhandel.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Legendary independent bookstore established in 1973, a cultural institution known for its radical curation and comics.",
+      "description_tr": "1973'ten beri hizmet veren, radikal seçkisi ve devasa çizgi roman bölümüyle ünlü efsanevi bağımsız kitapçı."
     },
     {
       "id": "tryvann-winter-park",
@@ -3515,7 +3634,7 @@
       "description_en": "Oslo's ski resort. Accessible by metro.",
       "tips": "Aralık-Mart arası açıktır.",
       "tips_en": "Open December to March.",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Kayak",
       "tags": [
         "skiing",
@@ -3538,7 +3657,7 @@
         "yeşil",
         "havuz"
       ],
-      "description": "",
+      "description": "Large urban park and former site of the Munch Museum, now the main venue for the Øya Festival.",
       "lat": 59.916,
       "lng": 10.775,
       "id": "toyen-park",
@@ -3548,17 +3667,19 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/toyen-park.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Large urban park and former site of the Munch Museum, now the main venue for the Øya Festival.",
+      "description_tr": "Munch Müzesi'nin eski yeri olan, günümüzde Øya Festivali'ne ev sahipliği yapan geniş şehir parkı."
     },
     {
       "name": "Ullevålseter",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "ormaniçi",
         "waffle",
         "popüler"
       ],
-      "description": "",
+      "description": "Historic sports lodge in Nordmarka, a central hub for hikers and skiers famous for its cinnamon buns.",
       "id": "ullevalseter",
       "price": "medium",
       "rating": 4.5,
@@ -3566,7 +3687,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/ullevalseter.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Historic sports lodge in Nordmarka, a central hub for hikers and skiers famous for its cinnamon buns.",
+      "description_tr": "Nordmarka'da bulunan, yürüyüşçülerin ve kayakçıların uğrak noktası olan ve tarçınlı çörekleriyle ünlü tarihi dağ evi."
     },
     {
       "id": "university-of-oslo",
@@ -3576,7 +3699,7 @@
       "description_en": "Norway's largest and oldest university.",
       "tips": "Aula'daki Munch duvar resimleri görülmeye değer.",
       "tips_en": "Munch murals in Aula are worth seeing.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "subcategory": "Kampüs",
       "tags": [
         "university",
@@ -3592,13 +3715,13 @@
     },
     {
       "name": "Vangen Skistue",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "çiftlik",
         "hayvanlar",
         "aile"
       ],
-      "description": "",
+      "description": "Traditional timber lodge in Østmarka featuring a visiting farm with various animals and famous 'Vangen-buns'.",
       "id": "vangen-skistue",
       "price": "medium",
       "rating": 4.5,
@@ -3606,7 +3729,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/vangen-skistue.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Traditional timber lodge in Østmarka featuring a visiting farm with various animals and famous 'Vangen-buns'.",
+      "description_tr": "Østmarka'da yer alan, çeşitli hayvanların bulunduğu bir çiftliğe ev sahipliği yapan ve 'Vangen çöreği' ile ünlü geleneksel ahşap kulübe."
     },
     {
       "name": "Velouria Vintage",
@@ -3617,7 +3742,7 @@
         "moda",
         "ikinci el"
       ],
-      "description": "",
+      "description": "Iconic vintage store in Grünerløkka specializing in handpicked 50s-90s clothing and rare band tees.",
       "id": "velouria-vintage",
       "price": "medium",
       "rating": 4.6,
@@ -3625,7 +3750,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/velouria-vintage.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Iconic vintage store in Grünerløkka specializing in handpicked 50s-90s clothing and rare band tees.",
+      "description_tr": "Grünerløkka'da bulunan, 50-90'lı yıllara ait özenle seçilmiş kıyafetler ve nadir grup tişörtleriyle ünlü ikonik vintage mağazası."
     },
     {
       "name": "Vettakollen Viewpoint",
@@ -3636,7 +3763,7 @@
         "fiyort",
         "kolay"
       ],
-      "description": "",
+      "description": "Easy hiking destination offering one of the most spectacular panoramic views over Oslo and the fjord.",
       "id": "vettakollen-viewpoint",
       "price": "medium",
       "rating": 4.6,
@@ -3644,7 +3771,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/vettakollen-viewpoint.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Easy hiking destination offering one of the most spectacular panoramic views over Oslo and the fjord.",
+      "description_tr": "Oslo ve fiyort üzerinden en muazzam panoramik manzaralardan birini sunan, kolay ulaşılabilir yürüyüş rotası."
     },
     {
       "name": "Vigeland Museum",
@@ -3655,7 +3784,7 @@
         "sanat",
         "atölye"
       ],
-      "description": "",
+      "description": "Grand museum dedicated to Gustav Vigeland, located in his former studio and residence.",
       "lat": 59.923,
       "lng": 10.7,
       "id": "vigeland-museum",
@@ -3665,7 +3794,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/vigeland-museum.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Grand museum dedicated to Gustav Vigeland, located in his former studio and residence.",
+      "description_tr": "Gustav Vigeland'ın eski atölyesi ve evi olan, sanatçının eserlerine adanmış görkemli müze."
     },
     {
       "name": "Vigeland Park",
@@ -3681,15 +3812,16 @@
       "lng": 10.7008,
       "price": "free",
       "rating": 4.7,
-      "description": "World's largest sculpture park. More than 200 sculptures depicting the cycle of human life.",
-      "description_en": "World's largest sculpture park. More than 200 sculptures depicting the cycle of human life.",
+      "description": "The world's largest sculpture park made by a single artist, featuring over 200 works by Gustav Vigeland.",
+      "description_en": "The world's largest sculpture park made by a single artist, featuring over 200 works by Gustav Vigeland.",
       "bestTime": "Sabah",
       "tips": "'Sinirli Çocuk' (Sinnataggen) heykelini bulun.",
       "tips_en": "Find the 'Angry Boy' (Sinnataggen) sculpture.",
       "id": "vigeland-park",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/vigeland-park.jpg",
       "source": "firebase",
-      "distanceFromCenter": 0.5
+      "distanceFromCenter": 0.5,
+      "description_tr": "Gustav Vigeland'ın 200'den fazla eserini barındıran, tek bir sanatçı tarafından yapılmış dünyanın en büyük heykel parkı."
     },
     {
       "id": "vippa-food-hall",
@@ -3699,7 +3831,7 @@
       "description_en": "Venue offering international street food in harbor area.",
       "tips": "Yazın dış mekanı çok güzeldir.",
       "tips_en": "Outdoor area is very nice in summer.",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Market",
       "tags": [
         "street food",
@@ -3717,7 +3849,7 @@
       "name": "Vippa Oslo",
       "name_en": "Vippa Street Food",
       "area": "Vippetangen",
-      "category": "Sokak Lezzeti",
+      "category": "Yeme-İçme",
       "tags": [
         "fiyort",
         "sokak lezzeti",
@@ -3745,7 +3877,7 @@
       "description_en": "Sustainable neighborhood converted from old industrial area. Mathallen is here.",
       "tips": "Arı kovanları ve güneş panelleri var.",
       "tips_en": "Has beehives and solar panels.",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "subcategory": "Mahalle",
       "tags": [
         "sustainable",
@@ -3768,7 +3900,7 @@
         "yerel",
         "kahvaltı"
       ],
-      "description": "",
+      "description": "Charming bakery and cafe in Majorstuen known for high-quality artisan sourdough.",
       "id": "vart-daglige-brod",
       "price": "medium",
       "rating": 4.6,
@@ -3776,7 +3908,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/vart-daglige-brod.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Charming bakery and cafe in Majorstuen known for high-quality artisan sourdough.",
+      "description_tr": "Majorstuen'de bulunan, yüksek kaliteli el yapımı ekşi mayalı ekmekleriyle tanınan şirin fırın ve kafe."
     },
     {
       "name": "W.B. Samson",
@@ -3784,52 +3918,36 @@
       "area": "Karl Johan",
       "category": "Kafe",
       "tags": [
-        "tarihi",
         "tatlı",
-        "zincir"
+        "zincir",
+        "kahve",
+        "tarihi",
+        "merkez"
       ],
       "lat": 59.913,
       "lng": 10.74,
       "price": "medium",
       "rating": 4.4,
-      "description": "One of Oslo's oldest patisseries.",
-      "description_en": "One of Oslo's oldest patisseries.",
+      "description": "Oslo's oldest bakery chain (est. 1894), famous for its traditional Norwegian 'boller'.",
+      "description_en": "Oslo's oldest bakery chain (est. 1894), famous for its traditional Norwegian 'boller'.",
       "bestTime": "Öğle",
       "tips": "Skolebrød (hindistan cevizli çörek) deneyin.",
       "tips_en": "Try Skolebrød (coconut bun).",
       "id": "wb-samson",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/wb-samson.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "WB Samson",
-      "area": "Egertorget",
-      "category": "Fırın",
-      "tags": [
-        "tarihi",
-        "kahve",
-        "merkez"
-      ],
-      "description": "",
-      "id": "wb-samson",
-      "price": "medium",
-      "rating": 4.6,
-      "bestTime": "Gündüz/Akşam",
-      "tips": "Google Haritalar'dan güncel saatlere bakın.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/wb-samson.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_tr": "1894'te kurulan, Oslo'nun en eski fırın zinciri; geleneksel Norveç çörekleriyle (boller) ünlüdür."
     },
     {
       "name": "Wergeland Statue",
-      "category": "Simge",
+      "category": "Tarihi",
       "tags": [
         "şair",
         "milli",
         "tarih"
       ],
-      "description": "",
+      "description": "Iconic monument of national poet Henrik Wergeland in Spikersuppa.",
       "id": "wergeland-statue",
       "price": "medium",
       "rating": 4.5,
@@ -3837,7 +3955,9 @@
       "tips": "Ziyaret öncesi saatleri kontrol edin.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/wergeland-statue.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "Iconic monument of national poet Henrik Wergeland in Spikersuppa.",
+      "description_tr": "Spikersuppa'da bulunan, ulusal şair Henrik Wergeland'a adanmış ikonik anıt."
     },
     {
       "name": "Åpent Bakeri - Barcode",
@@ -3866,13 +3986,13 @@
     {
       "name": "Åpent Bakeri Inkognito",
       "area": "Slottsparken",
-      "category": "Fırın",
+      "category": "Kafe",
       "tags": [
         "klasik",
         "zincir",
         "taze"
       ],
-      "description": "",
+      "description": "High-end artisan bakery near the Royal Palace using traditional slow-baking methods.",
       "id": "apent-bakeri-inkognito",
       "price": "medium",
       "rating": 4.6,
@@ -3880,7 +4000,9 @@
       "tips": "Google Haritalar'dan güncel saatlere bakın.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/oslo/apent-bakeri-inkognito.jpg",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_en": "High-end artisan bakery near the Royal Palace using traditional slow-baking methods.",
+      "description_tr": "Kraliyet Sarayı yakınında, geleneksel yavaş pişirme yöntemlerini kullanan üst düzey butik fırın."
     }
   ]
 }

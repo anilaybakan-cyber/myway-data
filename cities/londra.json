@@ -347,7 +347,7 @@
     {
       "id": "gen_ChIJpcab75QFdkgR8v_Sa5byh1w",
       "name": "Bantof",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "31 Great Windmill St",
       "description": "Modern Avrupa mutfağı. Contemporary dining, yaratıcı sunum.",
       "description_en": "Modern European cuisine. Contemporary dining, creative presentation.",
@@ -371,7 +371,7 @@
     {
       "name": "Bao Soho",
       "area": "Soho",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "tayvan",
@@ -399,7 +399,7 @@
     {
       "id": "gen_ChIJDzf38jEDdkgR7K3RI7sjeCE",
       "name": "Bar 1790",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "21-23 St Swithin's Ln",
       "description": "1790 yılına atıfen tarihi bar. Georgian era kokteyller, klasik formüller.",
       "description_en": "Historic bar referring to 1790. Georgian era cocktails, classic formulas.",
@@ -464,7 +464,7 @@
       "id": "lon_1766493060_20",
       "name": "Battersea Power Station",
       "description": "Endüstriyel mirasın yeniden doğuşu. Pink Floyd'un albüm kapağıyla ölümsüzleşen dört bacalı ikonik santral, şimdi lüks mağazalar, restoranlar ve 109 metrede cam asansör deneyimi sunuyor.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/battersea_power_station.jpg",
       "lat": 51.48202029999999,
       "lng": -0.1444907,
@@ -479,7 +479,7 @@
     {
       "name": "Beigel Bake",
       "area": "Shoreditch",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "bagel",
@@ -554,7 +554,7 @@
     {
       "id": "gen_ChIJOTAQhtMEdkgR9ZmC_mZR0UM",
       "name": "Blacklock Soho",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "24 Great Windmill St",
       "description": "Eski bir genelevden dönüştürülmüş popüler et restoranı. Uygun fiyatlı pirzolaları (chops) ve efsanevi Pazar rostosu (Sunday Roast) ile meşhur.",
       "description_en": "Atmospheric basement restaurant and bar for seared meat chops, plus cocktails from trolley carts.",
@@ -602,7 +602,7 @@
       "name": "Brick Lane",
       "name_en": "Brick Lane",
       "area": "Tower Hamlets",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "curry",
         "sokak sanatı",
@@ -627,9 +627,11 @@
       "area": "Bloomsbury",
       "category": "Müze",
       "tags": [
-        "tarih",
         "ücretsiz",
-        "dünya"
+        "tarih",
+        "sanat",
+        "dünya",
+        "bedava"
       ],
       "distanceFromCenter": 1.5,
       "lat": 51.5194,
@@ -642,7 +644,9 @@
       "bestTime": "Hafta içi sabah",
       "bestTime_en": "Weekday morning",
       "tips": "Bazı günler giriş ücretsiz olabilir, web sitesini kontrol edin.",
-      "tips_en": "Entry might be free on some days, check the website."
+      "tips_en": "Entry might be free on some days, check the website.",
+      "source": "local",
+      "subcategory": "Tarih"
     },
     {
       "id": "lon_1766493048_9",
@@ -663,7 +667,7 @@
     {
       "id": "gen_ChIJAQgrN8AbdkgRGhaGlWPrMDA",
       "name": "Broken Eggs",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "24",
       "description": "Kırık yumurtalar! Brunch mekanı, eggs benedict ve kahvaltı keyfi.",
       "description_en": "Broken eggs! Brunch venue, eggs benedict and breakfast joy.",
@@ -783,7 +787,7 @@
       "name": "Camden Market",
       "name_en": "Camden Market",
       "area": "Camden",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pazar",
         "alternatif",
@@ -894,7 +898,7 @@
       "name": "Chinatown",
       "name_en": "Chinatown",
       "area": "Westminster",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "asya",
         "yemek",
@@ -932,7 +936,7 @@
     {
       "id": "gen_ChIJK4j9CagbdkgRluwkqYLufoE",
       "name": "Circolo Popolare",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "40-41 Rathbone Pl",
       "description": "Geleneksel trattoria lezzetlerinin ve içeceklerin servis edildiği, 20.000 şişeyle dekore edilmiş, gösterişli ve etkileyici restoran.",
       "description_en": "Geleneksel trattoria lezzetlerinin ve içeceklerin servis edildiği, 20.000 şişeyle dekore edilmiş, gösterişli ve etkileyici restoran.",
@@ -980,7 +984,7 @@
     {
       "id": "gen_ChIJnVf83AIbdkgR054D55weEBY",
       "name": "Colonel Saab High Holborn",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "193-197 High Holborn",
       "description": "Hindistan'dan toplanan aile yadigarı antika eşyalarla dekore edilmiş, görsel şölen sunan bir Hint restoranı. Modern sunumlu klasik lezzetler.",
       "description_en": "Fancy restaurant with an old-world vibe offering creative Indian cooking, plus cocktails.",
@@ -1146,7 +1150,7 @@
     {
       "id": "gen_ChIJgcXyRs4DdkgRbwif6zf2gIU",
       "name": "Dave’s wine bar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "2 St James's Passage",
       "description": "Yerel ve uluslararası lezzetleri sunan, 5 puan ile ödüllendirilen popüler bir restoran. 62+ ziyaretçi tarafından değerlendirildi.",
       "description_en": "Wine bar with curated selection of quality wines and knowledgeable staff.",
@@ -1208,7 +1212,7 @@
     {
       "id": "gen_ChIJyXw4TdcDdkgRenNT4AGNrKI",
       "name": "Diogenes The Dog",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "96 Rodney Rd",
       "description": "Elephant & Castle yakınında, alışılmadık şarapları keşfedebileceğiniz rahat bir şarap barı. Samimi ortamı ve bilgili sommelier'leri ile ünlü.",
       "description_en": "A shop & a cafe in a rustic-style venue offering charcuterie & an extensive wine list.",
@@ -1232,7 +1236,7 @@
     {
       "name": "Dishoom",
       "area": "Covent Garden",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "hint",
         "kahvaltı",
@@ -1255,7 +1259,7 @@
       "id": "lon_1766493062_22",
       "name": "Dishoom Covent Garden",
       "description": "Bombay kafe kültürünü Londra'ya taşıyan efsanevi Hint restoranı. Bacon Naan Roll, siyah mercimek ve uzun kuyruklar.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/dishoom_covent_garden.jpg",
       "lat": 51.5125176,
       "lng": -0.1268291,
@@ -1270,7 +1274,7 @@
     {
       "id": "gen_ChIJxYs1ArocdkgR-G13PLmofec",
       "name": "Dishoom Shoreditch",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "7 Boundary St",
       "description": "Eski Bombay kafelerinden ilham alan efsanevi restoran. Pastırmalı naan ekmeği (Bacon Naan Roll) ve 24 saat pişen Black Daal'ı mutlaka denenmeli.",
       "description_en": "Buzzy destination for Indian street food in Bombay-style digs with vintage decor & upscale touches.",
@@ -1319,7 +1323,7 @@
       "id": "lon_1766493063_23",
       "name": "Duck & Waffle",
       "description": "Londra'nin sevilen restoranlarından biri. Yerel lezzetler ve özenli sunum ile gurme bir deneyim sunuyor.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/duck_and_waffle.jpg",
       "lat": 51.5162529,
       "lng": -0.0811942,
@@ -1382,7 +1386,7 @@
     {
       "id": "gen_ChIJL-HmB88EdkgRfH-wI_8ELLQ",
       "name": "Ekstedt at The Yard",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "3-5 Great Scotland Yard",
       "description": "İsveçli şef Niklas Ekstedt'in Londra restoranı. Nordic fire cooking, Michelin yıldızlı.",
       "description_en": "Swedish chef Niklas Ekstedt's London restaurant. Nordic fire cooking, Michelin-starred.",
@@ -1406,7 +1410,7 @@
     {
       "id": "gen_ChIJF3pGXOAFdkgRC8DY_cAioYA",
       "name": "El Pollote - Carnaby",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "13 Ganton St",
       "description": "Carnaby'de tavuk! Rotisserie chicken, Peru tarzı ve Latin lezzetler.",
       "description_en": "El Pollote in Carnaby! Rotisserie chicken, Peruvian style and Latin flavors.",
@@ -1492,7 +1496,7 @@
     {
       "id": "gen_ChIJtZpbttMEdkgRl7-te2KdeSg",
       "name": "Evelyn's Table",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "28 Rupert St",
       "description": "Soho'da bir pub'ın bodrum katına gizlenmiş, sadece 12 kişilik tezgah restoranı. İngiliz malzemeleriyle Fransız ve Japon tekniklerini harmanlayan Michelin yıldızlı deneyim.",
       "description_en": "Tiny former beer cellar of an 18th Century pub for Modern European dishes and lesser known wines.",
@@ -1540,7 +1544,7 @@
     {
       "id": "gen_ChIJSWN4ldUEdkgRGqo3OSnf1CY",
       "name": "Fallow",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "52 Haymarket",
       "description": "Contemporary destination serving innovative cuisine using carefully sourced ingredients.",
       "description_en": "Contemporary destination serving innovative cuisine using carefully sourced ingredients.",
@@ -1564,7 +1568,7 @@
     {
       "id": "gen_ChIJo3Ddx78FdkgRVRBegomu_4w",
       "name": "Fatt Pundit",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "77 Berwick St",
       "description": "Kalküta usulü Çin yemekleri (Indo-Chinese) sunan özgün bir restoran. Özellikle kuzu pirzolası ve baharatlı momo mantıları çok popüler.",
       "description_en": "Tapas-style Indo-Chinese specialties, fruit coolers & wine in a snug, industrial-chic space.",
@@ -1588,7 +1592,7 @@
     {
       "id": "gen_ChIJx9HIFgcFdkgRa_72Gio9T8E",
       "name": "Filo",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "19 Bute St",
       "description": "Yufka hamuru! Akdeniz börek ve hamur işleri.",
       "description_en": "Filo pastry! Mediterranean pastries and dough delights.",
@@ -1612,7 +1616,7 @@
     {
       "id": "gen_ChIJ7SOS0jIPdkgRjbLkboZPpFs",
       "name": "Flame & Fire",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "303-305 King St",
       "description": "Alev ve ateş! BBQ restoran, ızgara etler ve smokehouse.",
       "description_en": "Flame and fire! BBQ restaurant, grilled meats and smokehouse.",
@@ -1636,7 +1640,7 @@
     {
       "name": "Flat Iron",
       "area": "Soho",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "steak",
         "ucuz",
@@ -1675,7 +1679,7 @@
       "id": "lon_1766493064_24",
       "name": "Gloria",
       "description": "Shoreditch'te 70'ler Capri havası estiren İtalyan trattoria. Dev limonlu tart, trüflü makarna ve abartılı dekor.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/gloria.jpg",
       "lat": 51.5250896,
       "lng": -0.0813682,
@@ -1706,7 +1710,7 @@
     {
       "id": "gen_ChIJkWXN3oUDdkgRNhS1GGhMz50",
       "name": "Goldwood",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "30 Old Jewry",
       "description": "Altın orman! Sıcak ahşap dekor, şarap barı ve rahat atmosfer.",
       "description_en": "Gold wood! Warm wooden decor, wine bar and cozy atmosphere.",
@@ -1752,7 +1756,7 @@
     {
       "id": "gen_ChIJN4xC2ywbdkgRw6jKHfSG0sQ",
       "name": "Govinda's Soho Street",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "9 Soho St",
       "description": "Soho'nun en eski ve uygun fiyatlı vejetaryen restoranlarından biri. Hare Krishna tapınağına bağlı, huzurlu atmosferi ve doyurucu thali tabaklarıyla ünlü.",
       "description_en": "Linked to the Radha Krishna Temple, serving vegetarian and vegan Indian thalis, salads and sweets.",
@@ -1960,7 +1964,7 @@
     {
       "id": "gen_ChIJDbyTYa0EdkgRN72A4qL8dRk",
       "name": "Humble Grape",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "1 St. Bride's Passage",
       "description": "Bağımsız üreticilerden seçilen 400'den fazla şarap çeşidi sunan iddiasız ve rahat bir şarap barı. Tadım etkinlikleri için harika.",
       "description_en": "Easygoing venue for lesser-known, sustainable wines and unfussy, simple modern European dishes.",
@@ -1984,7 +1988,7 @@
     {
       "id": "gen_ChIJa-PR77IcdkgR9Yrdb0keRTU",
       "name": "Humble Grape Liverpool Street - Wine Bar & Restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "8 Devonshire Row",
       "description": "Mütevazı üzüm Liverpool Street. Şarap barı zinciri, doğal şaraplar.",
       "description_en": "Humble Grape Liverpool Street. Wine bar chain, natural wines.",
@@ -2008,7 +2012,7 @@
     {
       "id": "gen_ChIJqRRRk9UFdkgRCO7lejEKHnM",
       "name": "Hungama Indian Street Food",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "21 Charing Cross Rd",
       "description": "Hint sokak yemekleri Hungama! Bombay street food, samosa ve chai.",
       "description_en": "Indian street food Hungama! Bombay street food, samosa and chai.",
@@ -2119,7 +2123,7 @@
     {
       "id": "gen_ChIJb2hgTjkbdkgRsXAT7J8U4Ns",
       "name": "Karamay Uyghur Cuisine",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "12 Great Castle St",
       "description": "Uygur mutfağı Karamay! Kuzu kebap, laghman erişte ve Orta Asya.",
       "description_en": "Uyghur cuisine Karamay! Lamb kebab, laghman noodles and Central Asia.",
@@ -2228,7 +2232,7 @@
     {
       "id": "gen_ChIJ3aa-YCkbdkgRo5LPUQzy0hI",
       "name": "Kitchen Table",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "70 Charlotte St.",
       "description": "Sadece 20 kişilik, şefin mutfağını izleyebildiğiniz iki Michelin yıldızlı tadım menüsü deneyimi. İngiliz malzemeleriyle günlük değişen menü.",
       "description_en": "19-seat U-shaped table around a cooking station, with a multi-course menu of small European dishes.",
@@ -2268,7 +2272,7 @@
     {
       "id": "gen_ChIJ5z-IMH0PdkgRE4OJLTM-Qgw",
       "name": "La Parra Tapas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "158 Fulham Palace Rd",
       "description": "Asma yaprakları tapas. İspanyol klasikler, şarap ve fiesta ruhu.",
       "description_en": "Vine leaves tapas. Spanish classics, wine and fiesta spirit.",
@@ -2292,7 +2296,7 @@
     {
       "id": "gen_ChIJxR8qmHcPdkgRlsb_RATHtm8",
       "name": "La Terrazza",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "160 Cromwell Rd",
       "description": "İtalyan teras! Açık hava yemek, İtalyan mutfağı ve Londra skyline.",
       "description_en": "Italian terrace! Al fresco dining, Italian cuisine and London skyline.",
@@ -2316,7 +2320,7 @@
     {
       "id": "gen_ChIJowt3e80EdkgRe5DeF73GRZI",
       "name": "Le Beaujolais",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "25 Litchfield St",
       "description": "1972'den beri hizmet veren, Londra'nın en eski ve otantik Fransız şarap barlarından biri. Peynir tabakları ve geniş şarap menüsüyle bir klasik.",
       "description_en": "Ties and tankards hang off the ceiling in this intimate, lively wine bar serving rustic French food.",
@@ -2559,7 +2563,7 @@
     {
       "id": "gen_ChIJicTFEbADdkgRJTJMF_RX50o",
       "name": "Mallow Borough Market",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "1 Cathedral St",
       "description": "Yerel malzemelerle dünya mutfağından vegan lezzetler servis edilen çevre dostu bohem restoran.",
       "description_en": "Yerel malzemelerle dünya mutfağından vegan lezzetler servis edilen çevre dostu bohem restoran.",
@@ -2583,7 +2587,7 @@
     {
       "name": "Maltby Street Market",
       "area": "Bermondsey",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "gurme",
         "lokal",
@@ -2606,7 +2610,7 @@
       "id": "lon_1766493049_10",
       "name": "Mercato Mayfair",
       "description": "Londra'nin sevilen restoranlarından biri. Yerel lezzetler ve özenli sunum ile gurme bir deneyim sunuyor.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/mercato_mayfair.jpg",
       "lat": 51.5131568,
       "lng": -0.1528891,
@@ -2816,7 +2820,7 @@
     {
       "id": "gen_ChIJQzu8RIsPdkgR2uLo3f5W_CM",
       "name": "No.10 Restaurant 上海10號",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "10 Hogarth Pl",
       "description": "Earl's Court'ta otantik Şangay mutfağı. Özellikle kırmızı soslu domuz karnı (braised pork belly) ve tütsülenmiş balığıyla ünlü.",
       "description_en": "Chinese restaurant and takeaway serving a traditional menu and set meals in a straightforward space.",
@@ -2840,7 +2844,7 @@
     {
       "id": "gen_ChIJAzNI_8sFdkgRbRvnLqAvUJY",
       "name": "Noble Rot Mayfair",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "5 Trebeck St",
       "description": "Soylu küf Mayfair'de! Michelin yıldızlı şarap restoranı, premium wine list.",
       "description_en": "Noble Rot in Mayfair! Michelin-starred wine restaurant, premium wine list.",
@@ -2911,7 +2915,7 @@
     {
       "id": "gen_ChIJ4co2k5kDdkgROKjVBk6wD8k",
       "name": "OMA",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "3 Bedale St",
       "description": "Büyükanne! Ev yapımı lezzetler, comfort food ve nostalji.",
       "description_en": "Grandma! Homemade flavors, comfort food and nostalgia.",
@@ -2977,9 +2981,9 @@
       "area": "Tower Hamlets",
       "category": "Deneyim",
       "tags": [
+        "yemek",
         "pazar",
-        "vintage",
-        "yemek"
+        "vintage"
       ],
       "distanceFromCenter": 2.8,
       "lat": 51.5194,
@@ -2992,12 +2996,13 @@
       "bestTime": "Perşembe veya Pazar",
       "bestTime_en": "Thursday or Sunday",
       "tips": "Rehbere soru sormaktan çekinmeyin, çok ilginç hikayeler biliyorlar.",
-      "tips_en": "Don't hesitate to ask the guide questions, they know interesting stories."
+      "tips_en": "Don't hesitate to ask the guide questions, they know interesting stories.",
+      "name_en": "Spitalfields Market"
     },
     {
       "id": "gen_ChIJO-cGAocFdkgRHBI6sfVQK7c",
       "name": "Osteria Fiorentina",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "11 Park Walk",
       "description": "Floransalı osteria! Toskana mutfağı, bistecca alla fiorentina.",
       "description_en": "Florentine osteria! Tuscan cuisine, bistecca alla fiorentina.",
@@ -3021,7 +3026,7 @@
     {
       "id": "gen_ChIJb8xZZzgFdkgRvrsQVk8WJcI",
       "name": "Osteria romana",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "3-4 Park Cl",
       "description": "Knightsbridge'de Roma mutfağının kalbi. Taze makarna, cacio e pepe ve İtalya'dan gelen malzemelerle hazırlanan otantik lezzetler.",
       "description_en": "Intimate, elegant setting with a Roman theme for upscale Italian dishes made with imported produce.",
@@ -3045,7 +3050,7 @@
     {
       "name": "Padella",
       "area": "Southwark",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "makarna",
@@ -3097,7 +3102,7 @@
     {
       "id": "gen_ChIJBfOjfiUFdkgRvsanD9nfpA0",
       "name": "Pavyllon London",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Hamilton Pl",
       "description": "Yannick Alléno'nun Londra şubesi. Michelin yıldızlı Fransız fine dining.",
       "description_en": "Yannick Alléno's London branch. Michelin-starred French fine dining.",
@@ -3122,7 +3127,7 @@
       "id": "lon_1766493067_26",
       "name": "Peggy Porschen",
       "description": "Belgravia'nın pespembe, çiçeklerle süslü 'Instagramlık' pastanesi. Şık cupcakeler, çay saati ve peri masalı dekoru.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/peggy_porschen.jpg",
       "lat": 51.4933026,
       "lng": -0.1505416,
@@ -3222,7 +3227,7 @@
     {
       "id": "gen_ChIJ46R2PhMFdkgR1BjAhX30B_M",
       "name": "Pulse Bar London",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "18 New Globe Walk",
       "description": "Nabız barı! Enerji dolu kokteyller, elektronik müzik ve gece hayatı.",
       "description_en": "Pulse bar! Energetic cocktails, electronic music and nightlife.",
@@ -3324,7 +3329,7 @@
     {
       "id": "gen_ChIJIYBMe0gFdkgRvkjSUGze6lE",
       "name": "Riviera",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "23 St James's St",
       "description": "Fransız Rivierası! Akdeniz güneşi, Côte d'Azur ve rosé şaraplar.",
       "description_en": "French Riviera! Mediterranean sun, Côte d'Azur and rosé wines.",
@@ -3348,7 +3353,7 @@
     {
       "id": "gen_ChIJ0d9HoTUddkgRyg0oRpC_c3U",
       "name": "Rogues.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "460 Hackney Rd",
       "description": "Haydutlar! Rebel bar konsepti, cesur kokteyller ve alternative vibes.",
       "description_en": "Rogues! Rebel bar concept, bold cocktails and alternative vibes.",
@@ -3664,7 +3669,7 @@
     {
       "id": "gen_ChIJl8b8USsbdkgRwY4c6Yh7udU",
       "name": "Scarlett Green",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "4 Noel St",
       "description": "Buzzy, bi-level cafe & restaurant drawing on elevated Antipodean-inspired cuisine & drinks.",
       "description_en": "Buzzy, bi-level cafe & restaurant drawing on elevated Antipodean-inspired cuisine & drinks.",
@@ -3704,7 +3709,7 @@
     {
       "id": "gen_ChIJr4SsXNEEdkgRK-Tjo-eEEl4",
       "name": "Scully",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "4 St James's Market",
       "description": "Hip, wood-hued eatery serving artfully plated seasonal flavors from Australia to India & Ireland.",
       "description_en": "Hip, wood-hued eatery serving artfully plated seasonal flavors from Australia to India & Ireland.",
@@ -3752,7 +3757,7 @@
       "name": "Shoreditch",
       "name_en": "Shoreditch",
       "area": "Hackney",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "sokak sanatı",
         "trendy",
@@ -3839,7 +3844,7 @@
       "id": "lon_1766493061_21",
       "name": "Sketch",
       "description": "Sanat ve gastronomini sürreal buluşması. Pembe kadife koltukları, yumurta şeklindeki fütüristik tuvaletleri ve Michelin yıldızlı menüsüyle 'Alice Harikalar Diyarında' hissi.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/sketch.jpg",
       "lat": 51.512693,
       "lng": -0.141529,
@@ -3877,7 +3882,7 @@
       "name": "Soho",
       "name_en": "Soho",
       "area": "Westminster",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "gece hayatı",
         "LGBTQ",
@@ -3935,22 +3940,6 @@
       "tips_en": "Don't hesitate to ask the guide questions, they know interesting stories."
     },
     {
-      "id": "lon_1766493307_0",
-      "name": "Spitalfields Market",
-      "description": "Doğu Londra'nın kalbinde, moda, sanat ve yiyecek tezgahlarıyla dolu canlı pazar.",
-      "category": "Alışveriş",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/spitalfields_market.jpg",
-      "lat": 51.5197441,
-      "lng": -0.07606879999999999,
-      "rating": 4.5,
-      "address": "65 Brushfield St, London E1 6AA, Birleşik Krallık",
-      "expense": "€€",
-      "distanceFromCenter": 0.0,
-      "tips": "Pazarlık yapmayı deneyebilirsiniz (nazikçe).",
-      "tips_en": "You might try bargaining (politely).",
-      "description_en": "A shopping paradise in Londra. Offering a wide range from local products to souvenirs."
-    },
-    {
       "id": "lon_1766493051_12",
       "name": "St Dunstan in the East",
       "description": "Londra'nin yeşil alanlarından biri. Doğa yürüyüşleri, piknik ve dinlenme için ideal bir kaçış noktası.",
@@ -3969,9 +3958,9 @@
     {
       "id": "lon_1766493261_7",
       "name": "St Paul's Cathedral",
-      "description": "Sir Christopher Wren'in başyapıtı, devasa kubbeli katedral. Fısıltı Galerisi, şehir manzarası ve Prenses Diana'nın düğün yeri.",
+      "description": "Londra'nın direniş sembolü. 2. Dünya Savaşı'nda ayakta kalan bu muazzam kubbe, Fısıltı Galerisi'ndeki (Whispering Gallery) akustik mucizesiyle sizi şaşırtacak.",
       "category": "Tarihi",
-      "imageUrl": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AZLasHqD4PniswnpeI1H5t1cCmtm2FgCV3ekYDH8ZJ3jdUSR0e07_o6VR3_dXvPXV8kWmvAIou8EZ0ot8XY-wOqA1I-enXHNVQYpoYrFWcK0ccyWITQsPpxMeApM4h3ediva9YLaNs85uHYQkwYv8YxEXGynKpN2MQvzrfyDWxJb0ndKHjAvAt8zlfi699DEW_s4-c6iih0x0qxRBkJy1kqEpd1gfCVgl85yUjQiBx4Kf9t7frRwteSfPJzOsqKTvW7bvt2c7nHyst1lMLNEw-TnesPsXljbhxDdSQ3P0rvUzEw10g8PIIkJ0vgk9U4np72S6riz6fpE0zbbRNUNfARYtMlvZ2VpdspjNgJo68EbxOqUiK-5k62L7X73cUs8WVEzT_GamSk7s6HyXbhPTHSwlYxMJZdKtYqljAbOpgSbQyeaS2kCuNR1Dy3jK0Haj05ncjwhteYoelUmChiJqGgFLvC1jKCK0FXcx27BaE3oRJA7I3aHMJqhmzCmJRatXlHCkNf5thOIVMmeJkQH4eu5o6NUGLBFdEKy08NvAJd8zoPg-qEl_nrn3gjnUys7emBC7gQsqw&key=AIzaSyBOXbf-5v4aXyEYgciwX4EfPYAGXX6Yy9g",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/st_pauls_cathedral.jpg",
       "lat": 51.5138453,
       "lng": -0.0983506,
       "rating": 4.7,
@@ -3980,35 +3969,21 @@
       "distanceFromCenter": 0.0,
       "tips": "Fotoğraf çekimi için en iyi ışık gün batımına yakındır.",
       "tips_en": "Best light for photography is near sunset.",
-      "description_en": "Sir Christopher Wren's masterpiece, cathedral with massive dome. Whispering Gallery, city views, and Princess Diana's wedding venue."
-    },
-    {
-      "name": "St. Paul's Cathedral",
+      "description_en": "Sir Christopher Wren's masterpiece, cathedral with massive dome. Whispering Gallery, city views, and Princess Diana's wedding venue.",
       "name_en": "St. Paul's Cathedral",
-      "area": "City of London",
-      "category": "Tarihi",
       "tags": [
-        "katedral",
+        "manzara",
         "kubbe",
-        "manzara"
+        "katedral"
       ],
-      "distanceFromCenter": 1.2,
-      "lat": 51.5138,
-      "lng": -0.0984,
-      "price": "medium",
-      "rating": 4.6,
-      "description": "Londra'nın direniş sembolü. 2. Dünya Savaşı'nda ayakta kalan bu muazzam kubbe, Fısıltı Galerisi'ndeki (Whispering Gallery) akustik mucizesiyle sizi şaşırtacak.",
-      "description_en": "Christopher Wren's masterpiece. Climb 528 steps for 360° London view from dome. Whispering Gallery acoustic wonder.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/st_pauls_cathedral.jpg",
       "bestTime": "Sabah",
-      "bestTime_en": "Morning",
-      "tips": "Rehberli turla gezmek detayları anlamak için çok daha verimli.",
-      "tips_en": "A guided tour is much more efficient to understand the details."
+      "price": "medium",
+      "area": "City of London"
     },
     {
       "id": "gen_ChIJ98briVgFdkgRqYJkcVtFljI",
       "name": "Stables Bar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "1-3 Kensington Ct",
       "description": "Kensington'da tarihi bir ahırdan dönüştürülmüş, binici temalı zarif bir bar. Milestone Hotel içinde, imza kokteylleri ve Wagyu burgeri ile lüks bir deneyim.",
       "description_en": "Elegant, traditional bar serving cocktails and elevated pub fare at the Milestone Hotel.",
@@ -4079,7 +4054,7 @@
     {
       "id": "gen_ChIJHdd94hwbdkgRihDCyn0FD1Y",
       "name": "Tattu London",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "The Now Building Rooftop",
       "description": "Chic, spacious restaurant turning out sophisticated, contemporary takes on Cantonese classics.",
       "description_en": "Chic, spacious restaurant turning out sophisticated, contemporary takes on Cantonese classics.",
@@ -4103,7 +4078,7 @@
     {
       "id": "gen_ChIJtSn4m0AFdkgRBLJxUjtJDdU",
       "name": "The Beauchamp",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "43",
       "description": "Fashionable cocktail bar & eatery featuring a menu of Mediterranean & comfort food dishes.",
       "description_en": "Fashionable cocktail bar & eatery featuring a menu of Mediterranean & comfort food dishes.",
@@ -4127,7 +4102,7 @@
     {
       "name": "The Breakfast Club",
       "area": "Soho",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "kahvaltı",
@@ -4151,28 +4126,6 @@
       "tips": "Şefin spesiyal tabağını sormaktan çekinmeyin.",
       "description_en": "The Breakfast Club is a famous spot in London's Soho district.",
       "tips_en": "Don't hesitate to ask for the chef's special."
-    },
-    {
-      "name": "The British Museum",
-      "area": "Bloomsbury",
-      "category": "Müze",
-      "subcategory": "Tarih",
-      "tags": [
-        "tarih",
-        "sanat",
-        "bedava"
-      ],
-      "distanceFromCenter": 2.0,
-      "lat": 51.5194,
-      "lng": -0.127,
-      "price": "low",
-      "rating": 4.8,
-      "description": "İnsanlık tarihinin en önemli eserlerine ev sahipliği yapan devasa bir kütüphane ve müze.",
-      "description_en": "One of the world's greatest museums dedicated to human history, art and culture.",
-      "source": "local",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/the_british_museum.jpg",
-      "tips": "Bazı günler giriş ücretsiz olabilir, web sitesini kontrol edin.",
-      "tips_en": "Entry might be free on some days, check the website."
     },
     {
       "id": "gen_ChIJ___Pf_ZsdkgRQqQr9P9lwMc",
@@ -4201,7 +4154,7 @@
     {
       "name": "The Churchill Arms",
       "area": "Kensington",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "çiçekli",
         "thai",
@@ -4295,7 +4248,7 @@
     {
       "id": "gen_ChIJRUu52yAFdkgRT8l9ZN4Cs6M",
       "name": "The English Grill",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "39 Buckingham Palace Rd",
       "description": "Rubens at the Palace otelinde, avizeler altında krallara layık bir yemek salonu. Masada alevlendirilen (flambé) steak ve klasik İngiliz ızgaraları.",
       "description_en": "Posh British restaurant serving traditional fare, afternoon tea & cocktails in elegant quarters.",
@@ -4319,7 +4272,7 @@
     {
       "id": "gen_ChIJcRfgYH0FdkgRSJKO--T2rqs",
       "name": "The Fox and Pheasant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "1 Billing Rd",
       "description": "Chelsea'de James Blunt'a ait, köy evi sıcaklığında tarihi bir pub. Şömineli, rahat ortamı ve özellikle Pazar roast menüsüyle çok popüler.",
       "description_en": "Longtime tavern with charming decor & 3 fireplaces, serving English food, beer & spirits since 1846.",
@@ -4343,7 +4296,7 @@
     {
       "id": "gen_ChIJVVWyP54PdkgRwYr5IUtcOH4",
       "name": "The Little Blue Door",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "871-873 Fulham Rd.",
       "description": "Fulham'da \"ev partisi\" konseptli, hayali bir ev arkadaşı grubunun evi gibi dekore edilmiş eğlenceli bar. Pazar brunchları ve ev kokteylleri meşhur.",
       "description_en": "Casual bar with knick-knacks & board games plus small plates & cocktails named after classic cinema.",
@@ -4356,37 +4309,14 @@
       "price": "medium",
       "website": "https://www.thelittlebluedoor.co.uk/",
       "tags": [
-        "bar",
         "popüler",
-        "keşfet"
+        "keşfet",
+        "bar"
       ],
       "distanceFromCenter": 1.5,
       "tips": "Nakite hazırlıklı olun, bazı yerel yerler kart kabul etmeyebilir.",
-      "tips_en": "Be prepared with cash, some local places might not accept cards."
-    },
-    {
-      "id": "gen_ChIJ936KxucFdkgRV_Wlcb-EVL8",
-      "name": "The Little Violet Door",
-      "category": "Bar",
-      "area": "9 Kingly St",
-      "description": "Küçük mor kapı! Gizli speakeasy, renkli kokteyller ve gizemli giriş.",
-      "description_en": "Little violet door! Hidden speakeasy, colorful cocktails and mysterious entrance.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/londra/the_little_violet_door.jpg",
-      "location": "9 Kingly St, Carnaby, London W1B 5PH, Birleşik Krallık",
-      "lat": 51.5124357,
-      "lng": -0.1389853,
-      "rating": 4.8,
-      "reviewCount": 1105,
-      "price": "medium",
-      "website": "https://www.thelittlevioletdoor.co.uk/",
-      "tags": [
-        "bar",
-        "popüler",
-        "keşfet"
-      ],
-      "distanceFromCenter": 1.5,
-      "tips": "Hafta içi ziyaret etmek daha sakin bir deneyim sunar.",
-      "tips_en": "Visiting on weekdays offers a calmer experience."
+      "tips_en": "Be prepared with cash, some local places might not accept cards.",
+      "name_en": "The Little Violet Door"
     },
     {
       "id": "lon_1766493311_3",
@@ -4431,7 +4361,7 @@
     {
       "id": "gen_ChIJF5q5CG0FdkgRcGPhVlSy9Zk",
       "name": "The Rabbits Hole",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "Basement",
       "description": "Tavşan deliği! Alice Harikalar Diyarı teması, sürreal kokteyller.",
       "description_en": "Rabbit hole! Alice in Wonderland theme, surreal cocktails.",
@@ -4455,7 +4385,7 @@
     {
       "id": "gen_ChIJEVsnK8EbdkgRnhcdbsOhSik",
       "name": "The Royal Cocktail Exchange",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "31 Windmill St",
       "description": "Kraliyet kokteyl borsası! Victorian finans teması, premium spirits.",
       "description_en": "Royal Cocktail Exchange! Victorian finance theme, premium spirits.",
@@ -4517,7 +4447,7 @@
     {
       "id": "gen_ChIJs-wimwYFdkgRN5b5AIiO-Js",
       "name": "The Thin White Duke",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "22B Great Windmill St",
       "description": "David Bowie'nin alter egosu! Rock bar, vintage kokteyller ve 70'ler.",
       "description_en": "David Bowie's alter ego! Rock bar, vintage cocktails and 70s.",
@@ -4541,7 +4471,7 @@
     {
       "id": "gen_ChIJq6oaqNUadkgRpZOzYplQjq4",
       "name": "The Wigmore",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "15 Langham Pl",
       "description": "Langham Hotel'in ödüllü modern İngiliz pub'ı. Michel Roux Jr. imzalı menüsü ve özellikle XXL peynirli tostu (cheese toastie) efsaneleşmiş durumda.",
       "description_en": "Elevated pub food & drinks in a stylish, retro-inspired space attached to the Langham Hotel.",
@@ -4565,7 +4495,7 @@
     {
       "id": "gen_ChIJYzS7CpcFdkgRWjzUhmUGrYs",
       "name": "Toklas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "1 Surrey St",
       "description": "Strand yakınında brütalist mimarisi ve geniş terasıyla dikkat çeken modern bir restoran. Mevsimsel Akdeniz mutfağı ve kendi fırınından çıkan ekmekleri çok beğeniliyor.",
       "description_en": "Trendy restaurant with a bakery & an old-school vibe offering Mediterranean-inspired cuisine.",
@@ -4715,7 +4645,7 @@
     {
       "id": "gen_ChIJ2aYbjVUFdkgRkeP7FsawL90",
       "name": "Uzbek Corner",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "23-25 Queensway Market",
       "description": "Özbek köşesi! Pilaf, samsa ve İpek Yolu lezzetleri.",
       "description_en": "Uzbek corner! Pilaf, samsa and Silk Road flavors.",
@@ -4762,7 +4692,7 @@
     {
       "id": "gen_ChIJMSY-ZnIFdkgR9Gl8FyLYYjk",
       "name": "VATAVARAN",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "14-15 Beauchamp Pl",
       "description": "Sanskritçe 'atmosfer' anlamında Hint restoranı. Modern Hint mutfağı.",
       "description_en": "Indian restaurant meaning 'atmosphere' in Sanskrit. Modern Indian cuisine.",
@@ -4786,7 +4716,7 @@
     {
       "id": "gen_ChIJ6TX49NQHdkgRdiG88iqhcug",
       "name": "VIA Tapas Lounge",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "1447A London Rd",
       "description": "Via tapas lounge. İspanyol tapas, şarap ve Akdeniz keyfi.",
       "description_en": "Via tapas lounge. Spanish tapas, wine and Mediterranean joy.",
@@ -5001,7 +4931,7 @@
     {
       "name": "Ye Olde Cheshire Cheese",
       "area": "City of London",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tarihi",
         "pub",
@@ -5071,7 +5001,7 @@
     {
       "id": "gen_ChIJzTcyxG4FdkgR84rC1xuLXiA",
       "name": "aspen & meursault",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "96 Westbridge Rd",
       "description": "Aspen ve Meursault! Şarap isimleriyle zarif bar, premium şaraplar.",
       "description_en": "Aspen and Meursault! Elegant bar with wine names, premium wines.",

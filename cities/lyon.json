@@ -5,7 +5,7 @@
   "country_en": "France",
   "description": "Fransa'nın gastronomi başkenti. İki nehir arasında, Roma tarihi, gizli geçitler (traboules) ve ışık festivalleri şehri.",
   "description_en": "Gastronomy capital of France. Between two rivers, city of Roman history, secret passageways (traboules) and light festivals.",
-  "heroImage": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photo_reference=AZLasHrsg-fQXsU07fgGziMcMBRJZ_UQDdmfQBTYh5QjNn76aWmpSURIk2MXmrAFUEr3jrYQ7Vds7tPl7NF0V4sBuPWpQV2WL9wWAZszaB8SY5WYefEP1uEc4jgRvmePe0dPfU3NNoLDI_Xibqtraqc94D8dEqAzcpp8Pc_uva57JF_6F6dGoYtKm7Hd14BHJM8Fcsyt1eeVSvMRwVcF4zxYO196fslcHPd0CK28k4UsauKlQUnpxgOw01osLZZj8reBVKM8X3vMJwSFOLokwa1QbcCx_XTu62aORxJPWL9BkYYQCbb4fVry-vB_4cVeq1JWJkxgSZum1Hhzx46v1dceGapbH0yoxBUSRVuRJSgXzVD3AYiucH5ggsrPOCNOtgW_6FqhCdkxNjDfSfbSIjfeO7NIqAksjq_EE-5CuS_GZHLLC7btVPrTkxq_lcRgQdPkQzpOEs5-274AvtvvcoQk74qAvL0jBOZGM1VSqvOiBL54R-cFG8ealE9c3b3Z9_Kl-qzE6FX6ZO3rgAw592QyoB_QrWGnt7DHU7b1XlGgVQ0reMYS8iKAz_cM6lrAsyR00BaltA&key=AIzaSyBOXbf-5v4aXyEYgciwX4EfPYAGXX6Yy9g",
+  "heroImage": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lyon/a_notre_table.jpg",
   "coordinates": {
     "lat": 45.764,
     "lng": 4.8357
@@ -14,7 +14,7 @@
     {
       "id": "gen_ChIJ1y1GUfzr9EcRfq5sngr6H4c",
       "name": "A NOTRE TABLE",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "28 Rue Notre Dame",
       "description": "Masamıza! Paylaşımlı yemek, aile atmosferi.",
       "description_en": "To our table! Shared dining, family atmosphere.",
@@ -86,7 +86,7 @@
     {
       "id": "gen_ChIJOz5bdf3r9EcR6Lc45kXa5As",
       "name": "ART Restaurant Lyon",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "3 Rue Sala",
       "description": "Sanat restoranı! Gastronomik sanat, yaratıcı sunum.",
       "description_en": "Art restaurant! Gastronomic art, creative presentation.",
@@ -100,17 +100,18 @@
       "website": "https://www.art-restaurant.fr/",
       "tags": [
         "restoran",
-        "popüler",
-        "keşfet"
+        "keşfet",
+        "popüler"
       ],
       "distanceFromCenter": 1.5,
       "tips": "Akşam yemeği için rezervasyon yaptırmak şart.",
-      "tips_en": "Reservation is a must for dinner."
+      "tips_en": "Reservation is a must for dinner.",
+      "name_en": "Astral Restaurant Lyon"
     },
     {
       "id": "gen_ChIJr5Z3HRbr9EcRRUC4wnQ-8PY",
       "name": "AWANI RESTAURANT AFRICAIN LYON",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "86 Gd Rue de la Guillotière",
       "description": "Awani Afrika restoranı! Batı Afrika mutfağı, otantik lezzetler.",
       "description_en": "Awani African restaurant! West African cuisine, authentic flavors.",
@@ -158,7 +159,7 @@
     {
       "id": "gen_ChIJ5Rx9RvTq9EcR32omY2D5jaM",
       "name": "Agastache Restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "134 Rue Duguesclin",
       "description": "Wine & artfully plated dishes with thoughtfully sourced ingredients in a laid-back setting.",
       "description_en": "Wine & artfully plated dishes with thoughtfully sourced ingredients in a laid-back setting.",
@@ -204,7 +205,7 @@
     {
       "id": "gen_ChIJb4DaEgbr9EcR5xUxaVQcYWU",
       "name": "Anahera",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "22 Av. Jean Jaurès",
       "description": "Maori dilinde melek! Spirituel atmosfer, sağlıklı yemek.",
       "description_en": "Angel in Maori! Spiritual atmosphere, healthy food.",
@@ -292,30 +293,6 @@
       "bestTime_en": "Weekday",
       "tips": "Bazı günler giriş ücretsiz olabilir, web sitesini kontrol edin.",
       "tips_en": "Entry might be free on some days, check the website."
-    },
-    {
-      "id": "gen_ChIJvXmCjWXr9EcRMd1cDnlJRdc",
-      "name": "Astral Restaurant Lyon",
-      "category": "Restoran",
-      "area": "14 Rue Royale",
-      "description": "Astral restoran! Kozmik tema, fine dining.",
-      "description_en": "Astral restaurant! Cosmic theme, fine dining.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lyon/astral_restaurant_lyon.jpg",
-      "location": "14 Rue Royale, 69001 Lyon, Fransa",
-      "lat": 45.7711199,
-      "lng": 4.837199,
-      "rating": 4.9,
-      "reviewCount": 447,
-      "price": "medium",
-      "website": "https://astral-restaurant.com/",
-      "tags": [
-        "restoran",
-        "popüler",
-        "keşfet"
-      ],
-      "distanceFromCenter": 1.5,
-      "tips": "Nakite hazırlıklı olun, bazı yerel yerler kart kabul etmeyebilir.",
-      "tips_en": "Be prepared with cash, some local places might not accept cards."
     },
     {
       "id": "gen_ChIJl9cHrFrr9EcRZwTlP6Es1b0",
@@ -440,7 +417,7 @@
     {
       "id": "gen_ChIJs2Ntmxnr9EcRiX2iY7EHRiA",
       "name": "Bacchanales, restaurant gastronomique.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "31 Rue des Remparts d'Ainay à l'étage",
       "description": "Baküs şenlikleri! Gastronomik restoran, şarap ve lezzet.",
       "description_en": "Bacchanalia! Gastronomic restaurant, wine and flavor.",
@@ -490,8 +467,10 @@
       "area": "Fourvière",
       "category": "Tarihi",
       "tags": [
-        "bazilika",
+        "mozaik",
         "manzara",
+        "ikonik",
+        "bazilika",
         "ikon"
       ],
       "distanceFromCenter": 1.0,
@@ -500,36 +479,13 @@
       "price": "free",
       "rating": 4.8,
       "description": "Basilica of Notre-Dame de Fourvière, Lyon'nin zengin tarihine tanıklık eden muhteşem bir yapı. Fourvière bölgesindeki bu anıtsal mekan, yüzyılların izlerini taşıyan mimarisi, özgün detayları ve kültürel önemiyle hem tarih tutkunlarını hem mimari severlerini büyülüyor.",
-      "description_en": "Symbol of Lyon. White basilica on hill. Mosaics inside and city view outside are magnificent.",
+      "description_en": "Lyon's iconic hilltop basilica, visible from across the city. Famous for its ornate mosaics, Byzantine architecture, and breathtaking panoramic views.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lyon/basilica_of_notre_dame_de_fourviere.jpg",
       "bestTime": "Gün batımı",
       "bestTime_en": "Sunset",
       "tips": "Yapı içerisindeki akustik harika, sessizliği dinleyin.",
-      "tips_en": "The acoustics inside satisfy; listen to the silence."
-    },
-    {
-      "name": "Basilique Notre-Dame de Fourvière",
-      "name_en": "Basilica of Notre-Dame de Fourviere",
-      "area": "Fourvière",
-      "category": "Tarihi",
-      "tags": [
-        "bazilika",
-        "manzara",
-        "ikonik",
-        "mozaik"
-      ],
-      "distanceFromCenter": 1.2,
-      "lat": 45.7621,
-      "lng": 4.8225,
-      "price": "free",
-      "rating": 4.9,
-      "description": "Lyon'un 'dua eden dağı' Fourvière'in tepesinde yer alan, muazzam mozaikleri ve kenti kuş bakışı gören manzarasıyla şehrin simgesi.",
-      "description_en": "Lyon's iconic hilltop basilica, visible from across the city. Famous for its ornate mosaics, Byzantine architecture, and breathtaking panoramic views.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lyon/basilique_notre_dame_de_fourviere.jpg",
-      "bestTime": "Gündüz",
-      "bestTime_en": "Daytime",
-      "tips": "Yapı içerisindeki akustik harika, sessizliği dinleyin.",
-      "tips_en": "The acoustics inside satisfy; listen to the silence."
+      "tips_en": "The acoustics inside satisfy; listen to the silence.",
+      "name_en": "Basilica of Notre-Dame de Fourviere"
     },
     {
       "name": "Basilique Saint-Martin d'Ainay",
@@ -628,7 +584,7 @@
     {
       "id": "gen_ChIJO4VUjmPr9EcR9h25tilpXwo",
       "name": "Bis'Corner",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "19 Pl. Saint-Paul",
       "description": "B köşesi! Samimi mekan, yerel kalabalık.",
       "description_en": "B corner! Intimate venue, local crowd.",
@@ -652,7 +608,7 @@
     {
       "id": "gen_ChIJXZWu_G7r9EcRGR-JcT7vYRE",
       "name": "Black Hole",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "1 Rue de la Baleine",
       "description": "Kara delik! Kozmik bar, gizemli atmosfer.",
       "description_en": "Black hole! Cosmic bar, mysterious atmosphere.",
@@ -724,7 +680,7 @@
     {
       "name": "Bouchon Daniel & Denise",
       "area": "Presqu'île",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bouchon",
         "geleneksel",
@@ -747,7 +703,7 @@
       "name": "Bouchon Lyonnais (Deneyim)",
       "name_en": "Bouchon Lyonnais Experience",
       "area": "Vieux Lyon",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "gastronomi",
         "geleneksel",
@@ -770,7 +726,7 @@
     {
       "id": "gen_ChIJjw2hTurr9EcR1pIZYF421ww",
       "name": "Bouchon Tupin",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "30 Rue Tupin",
       "description": "Classic local cuisine presented in an elegant restaurant that has vintage decor.",
       "description_en": "Classic local cuisine presented in an elegant restaurant that has vintage decor.",
@@ -794,7 +750,7 @@
     {
       "id": "gen_ChIJbfu-p2Xq9EcRK9UJ-dVoZVo",
       "name": "Boulangerie L'Artisan (Maison Dumollard)",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "21 Rue Danton",
       "description": "Zanaatkar fırını Dumollard evi. Geleneksel Fransız ekmek.",
       "description_en": "Artisan bakery Dumollard house. Traditional French bread.",
@@ -867,7 +823,7 @@
       "name": "Boulangerie du Palais (Praline)",
       "name_en": "Palais Bakery (Tarte aux Pralines)",
       "area": "Vieux Lyon",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "fırın",
         "pralin",
@@ -890,7 +846,7 @@
     {
       "name": "Brasserie Georges",
       "area": "Perrache",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "brasserie",
         "tarihi",
@@ -912,7 +868,7 @@
     {
       "id": "gen_ChIJd-wmoFXq9EcRUdhxLd2Bf98",
       "name": "Burgundy by Matthieu",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "24 Quai Saint-Antoine",
       "description": "Tasting menus of artfully plated contemporary dishes, with wine pairings, in a muted, elegant space.",
       "description_en": "Tasting menus of artfully plated contemporary dishes, with wine pairings, in a muted, elegant space.",
@@ -1054,7 +1010,7 @@
     {
       "id": "gen_ChIJc99qBFjr9EcRB6N0FVrc5Zo",
       "name": "Canaima Restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "24 Rue René Leynaud",
       "description": "French-Latin American fusion cuisine is showcased at this cozy locale with cocktails, wine & beer.",
       "description_en": "French-Latin American fusion cuisine is showcased at this cozy locale with cocktails, wine & beer.",
@@ -1078,7 +1034,7 @@
     {
       "id": "gen_ChIJbYYf6Yfr9EcRZuuTuaufYgk",
       "name": "Carmelo",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "7 Rue Neuve",
       "description": "Ev samimiyetinde dekore edilmiş çok odalı, rengarenk restoranda doyurucu İtalyan yemekleri.",
       "description_en": "Ev samimiyetinde dekore edilmiş çok odalı, rengarenk restoranda doyurucu İtalyan yemekleri.",
@@ -1196,7 +1152,7 @@
     {
       "id": "gen_ChIJp3L-3efr9EcRdhFsQ7lYYGU",
       "name": "Comptoir B",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "23 Rue Saint-Pierre de Vaise",
       "description": "B tezgahı! Bistro klasikleri, şarap.",
       "description_en": "Counter B! Bistro classics, wine.",
@@ -1242,7 +1198,7 @@
     {
       "id": "gen_ChIJBUWJIgTr9EcRw705eIVo1m4",
       "name": "Contrast.",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "32 Rue Palais Grillet",
       "description": "Kontrast! Zıtlıkların uyumu, yaratıcı mutfak.",
       "description_en": "Contrast! Harmony of opposites, creative cuisine.",
@@ -1266,7 +1222,7 @@
     {
       "id": "gen_ChIJvTrZM1fr9EcRDDk87M02Umg",
       "name": "Court Bouillon",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "4 Rue Ferrachat",
       "description": "Kısa kaynatma! Deniz ürünleri, Fransız teknik.",
       "description_en": "Court bouillon! Seafood, French technique.",
@@ -1312,7 +1268,7 @@
     {
       "id": "gen_ChIJaQvXaWfr9EcRMCy3m2uNFEE",
       "name": "Cuisiné Sensée et Inspirée",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "24 Rue Ferrandière",
       "description": "Duyarlı ve ilham verici mutfak! Sürdürülebilir gastronomi.",
       "description_en": "Sensible and inspired cuisine! Sustainable gastronomy.",
@@ -1336,7 +1292,7 @@
     {
       "id": "gen_ChIJn6brcT_r9EcRadT3NOAijEs",
       "name": "Dr Yeast",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "6 Rue de Cuire",
       "description": "Maya doktoru! Craft bira, fermantasyon bilimi.",
       "description_en": "Dr. Yeast! Craft beer, fermentation science.",
@@ -1384,10 +1340,10 @@
     {
       "id": "gen_ChIJF6SZwKXr9EcRcQIDdWmtXm0",
       "name": "ESPERANTO LYON 2 - Tapas Restaurant - Cocktails & Wine",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "6 Rue Ferrandière",
-      "description": "Esperanto Lyon 2! Tapas barı, dünya dilleri.",
-      "description_en": "Esperanto Lyon 2! Tapas bar, world languages.",
+      "description": "Lyon'nin sevilen restoranlarından biri. Yerel lezzetler ve özenli sunum ile gurme bir deneyim sunuyor.",
+      "description_en": "Wine bar with curated selection of quality wines and knowledgeable staff.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lyon/esperanto_lyon_2_tapas_restaurant_cocktails_and_wi.jpg",
       "location": "6 Rue Ferrandière, 69002 Lyon, Fransa",
       "lat": 45.7619485,
@@ -1398,36 +1354,13 @@
       "website": "https://esperantolyon.fr/",
       "tags": [
         "restoran",
-        "popüler",
-        "keşfet"
+        "keşfet",
+        "popüler"
       ],
       "distanceFromCenter": 1.5,
       "tips": "Yerel şarapları denemenizi öneririz.",
-      "tips_en": "We recommend trying local wines."
-    },
-    {
-      "id": "gen_ChIJIRTtB5zr9EcRWmACHq2R_FY",
-      "name": "ESPERANTO LYON 6 - Tapas Restaurant - Cocktails & Wine -",
-      "category": "Restoran",
-      "area": "22 Rue Cuvier",
-      "description": "Lyon'nin sevilen restoranlarından biri. Yerel lezzetler ve özenli sunum ile gurme bir deneyim sunuyor.",
-      "description_en": "Wine bar with curated selection of quality wines and knowledgeable staff.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lyon/esperanto_lyon_6_tapas_restaurant_cocktails_and_wi.jpg",
-      "location": "22 Rue Cuvier, 69006 Lyon, Fransa",
-      "lat": 45.7665711,
-      "lng": 4.8436124,
-      "rating": 4.9,
-      "reviewCount": 191,
-      "price": "medium",
-      "website": "https://esperantolyon.fr/",
-      "tags": [
-        "restoran",
-        "popüler",
-        "keşfet"
-      ],
-      "distanceFromCenter": 1.5,
-      "tips": "Nakite hazırlıklı olun, bazı yerel yerler kart kabul etmeyebilir.",
-      "tips_en": "Be prepared with cash, some local places might not accept cards."
+      "tips_en": "We recommend trying local wines.",
+      "name_en": "ESPERANTO LYON 6 - Tapas Restaurant - Cocktails & Wine -"
     },
     {
       "name": "Eglise Saint-Georges",
@@ -1528,7 +1461,7 @@
     {
       "id": "gen_ChIJC_nNZ3br9EcRI9zKTRaU6SQ",
       "name": "Ernesto Bar Tapas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "8 Rue de la Platière",
       "description": "Ernesto tapas barı! Küba-İspanya füzyon, mojito ve tapas.",
       "description_en": "Ernesto tapas bar! Cuban-Spanish fusion, mojito and tapas.",
@@ -1624,7 +1557,7 @@
     {
       "id": "gen_ChIJnT0qNuzr9EcRwJMGBB2Ocqw",
       "name": "Fika Lyon",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "2 Rue Fernand Rey",
       "description": "İsveç fika Lyon'da! Scandinavian kahve molası.",
       "description_en": "Swedish fika in Lyon! Scandinavian coffee break.",
@@ -1648,7 +1581,7 @@
     {
       "id": "gen_ChIJJ3WGeEvq9EcRHkj_qxkRCZQ",
       "name": "Flair Restaurant",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "84 Rue de la Charité",
       "description": "Informal establishment presenting French-Japanese fusion cuisine & wine pairings.",
       "description_en": "Informal establishment presenting French-Japanese fusion cuisine & wine pairings.",
@@ -1721,9 +1654,10 @@
       "area": "Presqu'île",
       "category": "Deneyim",
       "tags": [
-        "duvar resmi",
         "ünlüler",
+        "tarih",
         "sanat",
+        "duvar resmi",
         "ikonik"
       ],
       "distanceFromCenter": 0.8,
@@ -1731,7 +1665,7 @@
       "lng": 4.829,
       "price": "free",
       "rating": 4.9,
-      "description": "Saint-Exupéry'den Paul Bocuse'e kadar Lyon tarihine damga vurmuş 30 ünlü ismin pencerelerden size baktığı devasa bir duvar resmi.",
+      "description": "La Fresque des Lyonnais, Lyon'nin Presqu'île bölgesinde bulunan dikkat çekici bir nokta. Eşsiz özellikleri ve sunduğu deneyimle ziyaretçilerine unutulmaz anlar yaşatıyor. Bölgenin en çok ziyaret edilen yerlerinden biri olarak her gezginin listesinde yer almalı.",
       "description_en": "A massive mural depicting 30 of Lyon's most famous historical figures looking out from the windows of a trompe-l'oeil building.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lyon/fresque_des_lyonnais.jpg",
       "bestTime": "Gündüz",
@@ -2068,7 +2002,7 @@
     {
       "id": "gen_ChIJW6MEvfPr9EcRmKXeJHsStRg",
       "name": "Kafé Stockholm",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "10 Rue Saint-Polycarpe",
       "description": "Stockholm kafesi! İsveç tasarımı, fika kültürü.",
       "description_en": "Stockholm cafe! Swedish design, fika culture.",
@@ -2140,7 +2074,7 @@
     {
       "id": "gen_ChIJF8T3Hvnq9EcRusr5rzShjwc",
       "name": "L Bar food & drink",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "19 Rue du Garet",
       "description": "L Bar yemek ve içecek. Casual dining, kokteyller.",
       "description_en": "L Bar food and drink. Casual dining, cocktails.",
@@ -2164,7 +2098,7 @@
     {
       "id": "gen_ChIJz0jRNF7q9EcRx7wrR8KgfkQ",
       "name": "L'Alexandrin",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "83 Rue Moncey",
       "description": "Tasting menus of inventive, seasonal Lyonnaise dishes with wine pairings in an elegant dining room.",
       "description_en": "Tasting menus of inventive, seasonal Lyonnaise dishes with wine pairings in an elegant dining room.",
@@ -2188,7 +2122,7 @@
     {
       "id": "gen_ChIJ1Z21F_7q9EcReZ2iUWAaxCM",
       "name": "L'Atelier des Augustins",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "17 Rue Hippolyte Flandrin",
       "description": "Inventive dishes, wine pairing & a surprise tasting menu in a snug space with modern furnishings.",
       "description_en": "Inventive dishes, wine pairing & a surprise tasting menu in a snug space with modern furnishings.",
@@ -2258,7 +2192,7 @@
     {
       "id": "gen_ChIJuSBHfuDr9EcR_3jfE1pr9Js",
       "name": "LE COMPTOIR LIBANAIS - Restaurant Libanais Lyon 6ème",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "54 Rue de Sèze",
       "description": "Lübnan tezgahı! Mezeler, falafel ve Ortadoğu.",
       "description_en": "Lebanese counter! Mezze, falafel and Middle East.",
@@ -2306,7 +2240,7 @@
     {
       "id": "gen_ChIJTT6PQwbr9EcRVu0Vk8Kty6o",
       "name": "La Beer Fabrique - Atelier bière et microbrasserie",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "10 Rue Saint-Polycarpe",
       "description": "Bira fabrikası! Mikro bira atölyesi, yerinde üretim.",
       "description_en": "Beer factory! Micro brewery workshop, on-site production.",
@@ -2354,7 +2288,7 @@
     {
       "id": "gen_ChIJj_nAWPzq9EcRW6_wRToQc7I",
       "name": "La Clef de Voûte",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "1 Pl. Chardonnet",
       "description": "Kilit taşı! Tarihi bina, fine dining.",
       "description_en": "Keystone! Historic building, fine dining.",
@@ -2376,31 +2310,9 @@
       "tips_en": "Be prepared with cash, some local places might not accept cards."
     },
     {
-      "name": "La Fresque des Lyonnais",
-      "area": "Presqu'île",
-      "category": "Deneyim",
-      "tags": [
-        "duvar resmi",
-        "ünlüler",
-        "tarih"
-      ],
-      "distanceFromCenter": 0.8,
-      "lat": 45.768,
-      "lng": 4.828,
-      "price": "free",
-      "rating": 4.6,
-      "description": "La Fresque des Lyonnais, Lyon'nin Presqu'île bölgesinde bulunan dikkat çekici bir nokta. Eşsiz özellikleri ve sunduğu deneyimle ziyaretçilerine unutulmaz anlar yaşatıyor. Bölgenin en çok ziyaret edilen yerlerinden biri olarak her gezginin listesinde yer almalı.",
-      "description_en": "Building painting showing Lyon's famous people on balconies. Bocuse, Little Prince, Lumière brothers.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lyon/la_fresque_des_lyonnais.jpg",
-      "bestTime": "Gündüz",
-      "bestTime_en": "Daytime",
-      "tips": "Fotoğraf makinenizin şarjının dolu olduğundan emin olun.",
-      "tips_en": "Make sure your camera battery is full."
-    },
-    {
       "id": "gen_ChIJs3E2Grfr9EcRjc2d9tphVpM",
       "name": "La Kave Maltée",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "81 Rue Louis Blanc",
       "description": "Maltlı mahzen! Craft bira, viski ve malt tutkunları.",
       "description_en": "Malted cellar! Craft beer, whisky and malt enthusiasts.",
@@ -2470,7 +2382,7 @@
     {
       "id": "gen_ChIJD22O7_Pr9EcRBt08AdW2880",
       "name": "La Table de Max",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "46 Av. Jean Jaurès",
       "description": "Hip spot for meaty home cooking, with bone marrow pasta & a signature platter of beef & lobster.",
       "description_en": "Hip spot for meaty home cooking, with bone marrow pasta & a signature platter of beef & lobster.",
@@ -2494,7 +2406,7 @@
     {
       "id": "gen_ChIJL88P0wrr9EcRCmL5DlmQ8_Y",
       "name": "La Table d’Ambre",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "46 Rue Franklin",
       "description": "Inventive takes on traditional fare served in a cozy, laid-back locale with exposed-stone walls.",
       "description_en": "Inventive takes on traditional fare served in a cozy, laid-back locale with exposed-stone walls.",
@@ -2518,7 +2430,7 @@
     {
       "id": "gen_ChIJ65kWPQDr9EcR5ra9thYt8H8",
       "name": "Le Bar Bu - Bar Lyon 5",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "21 Quai de Bondy",
       "description": "İçilmiş bar! Eğlenceli konsept, yerel favoriler.",
       "description_en": "The drunk bar! Fun concept, local favorites.",
@@ -2542,7 +2454,7 @@
     {
       "id": "gen_ChIJYxseon3r9EcRErwrxijNyHE",
       "name": "Le Bar à Vin Bio",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "17 Rue Désirée",
       "description": "Organik şarap barı! Biyodinamik üreticiler.",
       "description_en": "Organic wine bar! Biodynamic producers.",
@@ -2566,7 +2478,7 @@
     {
       "id": "gen_ChIJeUcTP4zq9EcRHQ5_GBOjRqs",
       "name": "Le Bouchon Comtois",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "129 Rue de Sèze",
       "description": "Compact bistro featuring fine wines, craft beers & sliced cheeses, meats & salad (closed Jun-Jul).",
       "description_en": "Compact bistro featuring fine wines, craft beers & sliced cheeses, meats & salad (closed Jun-Jul).",
@@ -2590,7 +2502,7 @@
     {
       "id": "gen_ChIJGUV9Vqrr9EcRW3BfTw4aC1o",
       "name": "Le Bœuf d'Argent",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "29 Rue du Bœuf",
       "description": "Artfully presented, refined French cuisine in a charming, vaulted restaurant with a relaxed vibe.",
       "description_en": "Artfully presented, refined French cuisine in a charming, vaulted restaurant with a relaxed vibe.",
@@ -2662,7 +2574,7 @@
     {
       "id": "gen_ChIJdw4clv7q9EcRKssP24ZXeMo",
       "name": "Le Moulin 1883",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "1 Rue Puits Gaillot",
       "description": "1883 değirmeni! Tarihi bina, Fransız gastronomi.",
       "description_en": "The Mill 1883! Historic building, French gastronomy.",
@@ -2689,17 +2601,18 @@
       "area": "Croix-Rousse",
       "category": "Deneyim",
       "tags": [
-        "trompe l'oeil",
+        "dev",
         "duvar resmi",
-        "grafiti",
-        "dev"
+        "illüzyon",
+        "trompe l'oeil",
+        "grafiti"
       ],
       "distanceFromCenter": 2.5,
       "lat": 45.7797,
       "lng": 4.8299,
       "price": "free",
       "rating": 4.8,
-      "description": "Avrupa'nın en büyük 'trompe l'oeil' (göz yanılması) duvar resmi. Bir mahallenin günlük yaşamını inanılmaz bir gerçeklikle tasvir eder.",
+      "description": "Mur des Canuts, Lyon'nin Croix-Rousse bölgesinde bulunan dikkat çekici bir nokta. Eşsiz özellikleri ve sunduğu deneyimle ziyaretçilerine unutulmaz anlar yaşatıyor. Bölgenin en çok ziyaret edilen yerlerinden biri olarak her gezginin listesinde yer almalı.",
       "description_en": "Europe's largest mural, a 1,200-square-meter masterpiece that uses optical illusions to depict the daily life of the Croix-Rousse neighborhood.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lyon/le_mur_des_canuts.jpg",
       "bestTime": "Gündüz",
@@ -2710,7 +2623,7 @@
     {
       "id": "gen_ChIJzZhX5juz9UcR74W_XDtOxIo",
       "name": "Le Neuvième Art",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "173 Rue Cuvier",
       "description": "Tasting menus of inventive, artfully plated modern French cuisine, in a sleek, pastel-hued space.",
       "description_en": "Tasting menus of inventive, artfully plated modern French cuisine, in a sleek, pastel-hued space.",
@@ -2780,7 +2693,7 @@
     {
       "id": "gen_ChIJidX6rFrr9EcRfu3dAOP5G5Y",
       "name": "Le PoliGone",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "12 Rue d'Amboise",
       "description": "Çokgen! Geometrik konsept, modern mutfak.",
       "description_en": "Polygon! Geometric concept, modern cuisine.",
@@ -2828,7 +2741,7 @@
     {
       "id": "gen_ChIJ6UkQ7Gvr9EcRRkfDgOotn94",
       "name": "Le Starck bar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "29 Rue Delandine",
       "description": "Starck barı! Philippe Starck tarzı, modern tasarım.",
       "description_en": "Starck bar! Philippe Starck style, modern design.",
@@ -2852,7 +2765,7 @@
     {
       "id": "gen_ChIJ3-EXxebr9EcRF8WwDkI7Suw",
       "name": "Le Vitis Bar",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "131 Bd de la Croix-Rousse",
       "description": "Asma barı! Şarap odaklı, terroir vurgusu.",
       "description_en": "Vine bar! Wine focused, terroir emphasis.",
@@ -2876,7 +2789,7 @@
     {
       "id": "gen_ChIJp1cVWHfr9EcRPsThtYD8y4I",
       "name": "Les Demoiselles de l’Antonin",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "7 Pl. Antonin Poncet",
       "description": "Yerel ve uluslararası lezzetleri sunan, 4.9 puan ile ödüllendirilen popüler bir restoran. 240+ ziyaretçi tarafından değerlendirildi.",
       "description_en": "Quality establishment offering great experience and warm hospitality.",
@@ -2922,7 +2835,7 @@
     {
       "id": "gen_ChIJfXh7-jTr9EcRGZIBNRba8fM",
       "name": "Levantia | cave à vin & bar à manger",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "5 Pl. Edgar Quinet",
       "description": "Levant! Şarap mahzeni ve yemek barı, Doğu Akdeniz.",
       "description_en": "Levantia! Wine cellar and eating bar, Eastern Mediterranean.",
@@ -2994,7 +2907,7 @@
     {
       "id": "gen_ChIJrZBCJvzr9EcRvcrSUWjuc6U",
       "name": "L’Engrenache (Bar-Restaurant)",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "59 Av. Jean Jaurès",
       "description": "Yerel ve uluslararası lezzetleri sunan, 4.8 puan ile ödüllendirilen popüler bir restoran. 82+ ziyaretçi tarafından değerlendirildi.",
       "description_en": "Stylish bar with quality drinks and welcoming atmosphere.",
@@ -3018,7 +2931,7 @@
     {
       "id": "gen_ChIJP7JgGvPq9EcR7-EkxVpCPB0",
       "name": "MOFUSAN",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "60 Rue Garibaldi",
       "description": "Mofusan! Japon konsepti, modern sunum.",
       "description_en": "Mofusan! Japanese concept, modern presentation.",
@@ -3090,7 +3003,7 @@
     {
       "id": "gen_ChIJG7jhrOjr9EcRr0nfyLBD8Og",
       "name": "Maison Moly",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "38 Rue de l'Arbre Sec",
       "description": "Moly evi! Fransız gastronomi, zarif ortam.",
       "description_en": "Moly house! French gastronomy, elegant setting.",
@@ -3115,7 +3028,7 @@
       "name": "Maison de la Danse",
       "name_en": "House of Dance",
       "area": "Mermoz",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "dans",
         "performans",
@@ -3184,7 +3097,7 @@
     {
       "id": "gen_ChIJqR4P3Rzr9EcRiBSFcCrTLyY",
       "name": "Meloco, Épicerie - Cuisine - Rencontres",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "6 Rue Duviard",
       "description": "Grocery store selling regional, organic products directly from farmers, plus a lunchtime canteen with veggie options.",
       "description_en": "Grocery store selling regional, organic products directly from farmers, plus a lunchtime canteen with veggie options.",
@@ -3254,7 +3167,7 @@
     {
       "id": "gen_ChIJq6oadPvq9EcRU4EEtEsBI3k",
       "name": "Monsieur P",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "8 Pl. des Célestins",
       "description": "Tasting menus of artfully plated, contemporary French cooking served in an elegant dining room.",
       "description_en": "Tasting menus of artfully plated, contemporary French cooking served in an elegant dining room.",
@@ -3296,28 +3209,6 @@
       "bestTime_en": "Weekend",
       "tips": "Akşam saatlerinde şehir ışıklarını izlemek çok romantik.",
       "tips_en": "Watching city lights in the evening is very romantic."
-    },
-    {
-      "name": "Mur des Canuts",
-      "area": "Croix-Rousse",
-      "category": "Deneyim",
-      "tags": [
-        "duvar resmi",
-        "illüzyon",
-        "trompe l'oeil"
-      ],
-      "distanceFromCenter": 2.0,
-      "lat": 45.778,
-      "lng": 4.827,
-      "price": "free",
-      "rating": 4.7,
-      "description": "Mur des Canuts, Lyon'nin Croix-Rousse bölgesinde bulunan dikkat çekici bir nokta. Eşsiz özellikleri ve sunduğu deneyimle ziyaretçilerine unutulmaz anlar yaşatıyor. Bölgenin en çok ziyaret edilen yerlerinden biri olarak her gezginin listesinde yer almalı.",
-      "description_en": "Europe's largest mural (1200 m²). Optical illusion depicting daily life of neighborhood.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/lyon/mur_des_canuts.jpg",
-      "bestTime": "Gündüz",
-      "bestTime_en": "Daytime",
-      "tips": "Rehbere soru sormaktan çekinmeyin, çok ilginç hikayeler biliyorlar.",
-      "tips_en": "Don't hesitate to ask the guide questions, they know interesting stories."
     },
     {
       "name": "Musée Cinéma et Miniature",
@@ -3550,7 +3441,7 @@
     {
       "id": "gen_ChIJmV3Ul6fr9EcReMli4AqTkyY",
       "name": "My Little Babka",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "42 Rue Sergent Blandan",
       "description": "Küçük babkam! Doğu Avrupa tatlısı, Yahudi geleneği.",
       "description_en": "My little babka! Eastern European dessert, Jewish tradition.",
@@ -3598,7 +3489,7 @@
     {
       "id": "gen_ChIJDxPX_EXr9EcRB0E5hiLKKtk",
       "name": "Ombellule",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "36 Cr Franklin Roosevelt",
       "description": "Küçük şemsiye! Botanik tema, zarif atmosfer.",
       "description_en": "Little umbrella! Botanical theme, elegant atmosphere.",
@@ -3810,7 +3701,7 @@
     {
       "id": "gen_ChIJsRj41efr9EcRIjmX2MNiKNU",
       "name": "Petite Pension",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "10 Rue Burdeau",
       "description": "Küçük pansiyon! Ev yemekleri, nostaljik atmosfer.",
       "description_en": "Little guesthouse! Home cooking, nostalgic atmosphere.",
@@ -4046,7 +3937,7 @@
     {
       "name": "Place des Terreaux",
       "area": "Presqu'île",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "çeşme",
         "meydan",
@@ -4140,7 +4031,7 @@
     {
       "id": "gen_ChIJHV55kfnr9EcRPXv459gY6r0",
       "name": "Pélican - Lyon - cocktails & tapas",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "7 Rue Terme",
       "description": "Pelikan! Kokteyller ve tapas, şık ortam.",
       "description_en": "Pelican! Cocktails and tapas, chic setting.",
@@ -4164,7 +4055,7 @@
     {
       "id": "gen_ChIJ5eEMoyfr9EcRy2roo-cg07s",
       "name": "Pépée Pia",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "12 Rue de Condé",
       "description": "Pépée Pia! Retro Fransız, bistro klasikleri.",
       "description_en": "Pépée Pia! Retro French, bistro classics.",
@@ -4330,7 +4221,7 @@
     {
       "id": "gen_ChIJszFIqU3r9EcREnbKOObG2Bo",
       "name": "Regain restaurant LYON",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "3 Rue d'Algérie",
       "description": "Yeniden doğuş restoranı! Farm to table, sürdürülebilir mutfak.",
       "description_en": "Rebirth restaurant! Farm to table, sustainable cuisine.",
@@ -4378,7 +4269,7 @@
     {
       "id": "gen_ChIJ_ZtSoCSV9EcRwSyhmyggeeQ",
       "name": "Restaurant Paul Bocuse",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "40 Rue de la Plage",
       "description": "Efsanevi şef Paul Bocuse'un 3 Michelin yıldızlı restoranı. Fransız haute cuisine'in beşiği, 50+ yıllık gelenek.",
       "description_en": "Legendary chef Paul Bocuse's 3 Michelin star restaurant. Cradle of French haute cuisine, 50+ year tradition.",
@@ -4402,7 +4293,7 @@
     {
       "id": "gen_ChIJv9dhnQ3r9EcRSK4TvV7AUGI",
       "name": "Restaurant Rustique* - Lyon",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "14 Rue d'Enghien",
       "description": "Rustik restoran! Kırsal şarm, geleneksel Fransız.",
       "description_en": "Rustic restaurant! Rural charm, traditional French.",
@@ -4471,7 +4362,7 @@
       "name": "Rue Saint-Jean",
       "name_en": "Rue Saint-Jean",
       "area": "Vieux Lyon",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ortaçağ",
         "turistik",
@@ -4494,7 +4385,7 @@
     {
       "id": "gen_ChIJe_xNcrDr9EcRPt9eisOJ-4g",
       "name": "STEPPE BAR",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "7 Quai Antoine Riboud",
       "description": "Bozkır barı! Orta Asya temalı, egzotik kokteyller.",
       "description_en": "Steppe bar! Central Asian themed, exotic cocktails.",
@@ -4682,7 +4573,7 @@
     {
       "id": "gen_ChIJpe4UM7zr9EcRdy5G7eme9ko",
       "name": "Soul brothers",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "5 Rue Neuve",
       "description": "Ruh kardeşleri! Soul food, Amerikan comfort.",
       "description_en": "Soul brothers! Soul food, American comfort.",
@@ -4706,7 +4597,7 @@
     {
       "id": "gen_ChIJW49BXxXr9EcRSYka3rfeX_s",
       "name": "Sweet Lyon 2",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "28 Rue Henri Germain",
       "description": "Tatlı Lyon 2! Pastane, tatlı cennet.",
       "description_en": "Sweet Lyon 2! Pastry, dessert paradise.",
@@ -4730,7 +4621,7 @@
     {
       "id": "gen_ChIJQ1d-PDrr9EcRQDDo_61bf9s",
       "name": "Söma",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "9 Pl. Saint-Paul",
       "description": "Soma Yunanca beden anlamında! Beden ve ruh dengesi, wellness gastronomi ve sağlıklı menü.",
       "description_en": "Soma means body in Greek! Body and soul balance, wellness gastronomy and healthy menu.",
@@ -5226,7 +5117,7 @@
     {
       "id": "gen_ChIJwd8MbATr9EcRAxHy9rlGvX4",
       "name": "Vivants",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "26 Rue Neuve",
       "description": "Yaşayanlar! Canlı kültürler, fermente gıdalar.",
       "description_en": "Living! Live cultures, fermented foods.",
@@ -5416,7 +5307,7 @@
     {
       "id": "gen_ChIJV3jus-Pr9EcRBhQvBJxFJ5E",
       "name": "Ô Passage",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "27 Rue du Bœuf",
       "description": "Ey geçit! Gizli mekan, speakeasy vibes.",
       "description_en": "Oh passage! Hidden venue, speakeasy vibes.",
@@ -5464,7 +5355,7 @@
     {
       "id": "gen_ChIJsVkkkv7q9EcRaxCC8uQVoX4",
       "name": "‍L'Étage",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "area": "4 Pl. des Terreaux",
       "description": "Intimate, century-old eatery on the 2nd floor offering gourmet fixed-price menus for lunch & dinner.",
       "description_en": "Intimate, century-old eatery on the 2nd floor offering gourmet fixed-price menus for lunch & dinner.",

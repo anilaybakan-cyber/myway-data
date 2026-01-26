@@ -10,7 +10,7 @@
       "name": "A Fuego Negro",
       "name_en": "A Fuego Negro",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "modern",
         "tadım",
@@ -32,7 +32,7 @@
       "name": "Aia",
       "name_en": "Aia",
       "area": "Aia",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "köy",
         "manzara",
@@ -56,7 +56,7 @@
       "name": "Akelarre",
       "name_en": "Akelarre",
       "area": "Igueldo",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "3 michelin",
         "manzara",
@@ -200,7 +200,7 @@
       "name": "Amelia by Paulo Airaudo",
       "name_en": "Amelia",
       "area": "Centro",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "2 michelin",
         "modern",
@@ -224,7 +224,7 @@
       "name": "Ametzagaña Park",
       "name_en": "Ametzagana Park",
       "area": "Egia",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "park",
         "piknik",
@@ -248,7 +248,7 @@
       "name": "Anoeta Stadium",
       "name_en": "Reale Arena",
       "area": "Amara",
-      "category": "Spor",
+      "category": "Deneyim",
       "tags": [
         "futbol",
         "stadyum",
@@ -294,7 +294,7 @@
       "name": "Aralar Mendi Elkartea",
       "name_en": "Aralar Mountain Club",
       "area": "Gros",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "kulüp",
         "dağcılık",
@@ -314,7 +314,7 @@
     },
     {
       "name": "Arzak",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "michelin",
         "famous",
@@ -360,7 +360,7 @@
       "name": "Asador Bedua",
       "name_en": "Asador Bedua",
       "area": "Zumaia",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ızgara",
         "nehir",
@@ -428,7 +428,7 @@
       "name": "Bar Antonio",
       "name_en": "Bar Antonio",
       "area": "Centro",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tortilla",
         "yerel",
@@ -500,7 +500,7 @@
       "name": "Bar Martinez",
       "name_en": "Bar Martinez",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "klasik",
         "deniz ürünü",
@@ -522,29 +522,7 @@
     },
     {
       "name": "Bar Nestor",
-      "category": "Restoran",
-      "tags": [
-        "tortilla",
-        "steak",
-        "legendary"
-      ],
-      "lat": 43.3235,
-      "lng": -1.9835,
-      "rating": 4.7,
-      "description": "Efsanevi tortilla ve biftek. Yerel lezzetlerin tadına varmak ve keyifli bir akşam geçirmek için harika bir seçenek. Samimi atmosferi ve kaliteli hizmetiyle damak zevkinize hitap edecek unutulmaz bir deneyim sunuyor.",
-      "description_en": "Legendary tortilla and steak. A great option to taste local flavors and spend a pleasant evening. It offers an unforgettable experience appealing to your palate with its friendly atmosphere and quality service.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/san_sebastian/bar_nestor.jpg",
-      "price": "medium",
-      "distanceFromCenter": 1.0,
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Akşam yemeği için rezervasyon yaptırmak şart.",
-      "tips_en": "Reservation is a must for dinner.",
-      "source": "firebase"
-    },
-    {
-      "name": "Bar Nestorn",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tortilla",
         "steak",
@@ -554,20 +532,22 @@
       "lng": -1.9835,
       "rating": 4.7,
       "description": "Efsanevi Tortilla (patatesli omlet) burada yenir. Yerel lezzetlerin tadına varmak ve keyifli bir akşam geçirmek için harika bir seçenek. Samimi atmosferi ve kaliteli hizmetiyle damak zevkinize hitap edecek unutulmaz bir deneyim sunuyor.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/san_sebastian/bar_nestorn.jpg",
+      "description_en": "Efsanevi Tortilla (patatesli omlet) burada yenir. A great option to taste local flavors and spend a pleasant evening. It offers an unforgettable experience appealing to your palate with its friendly atmosphere and quality service.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/san_sebastian/bar_nestor.jpg",
       "price": "medium",
+      "distanceFromCenter": 1.0,
       "bestTime": "09:00 - 18:00",
       "bestTime_en": "09:00 - 18:00",
       "tips": "Akşam yemeği için rezervasyon yaptırmak şart.",
       "tips_en": "Reservation is a must for dinner.",
-      "description_en": "Efsanevi Tortilla (patatesli omlet) burada yenir. A great option to taste local flavors and spend a pleasant evening. It offers an unforgettable experience appealing to your palate with its friendly atmosphere and quality service.",
-      "source": "firebase"
+      "source": "firebase",
+      "name_en": "Bar Nestorn"
     },
     {
       "name": "Bar Sport",
       "name_en": "Bar Sport",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pintxos",
         "foie",
@@ -591,7 +571,7 @@
       "name": "Bar Zeruko",
       "name_en": "Bar Zeruko",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "modern",
         "deneyim",
@@ -615,7 +595,7 @@
       "name": "Bardenas Reales",
       "name_en": "Bardenas Reales",
       "area": "Navarra",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "çöl",
         "kanyon",
@@ -661,7 +641,7 @@
       "name": "Basque Culinary Center",
       "name_en": "Basque Culinary Center",
       "area": "Miramon",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "gastronomi",
         "mimari",
@@ -685,7 +665,7 @@
       "name": "Bataplan Disco",
       "name_en": "Bataplan",
       "area": "La Concha",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "disko",
         "parti",
@@ -733,7 +713,7 @@
       "name": "Bergara Bar",
       "name_en": "Bergara",
       "area": "Gros",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ödüllü",
         "pintxos",
@@ -757,7 +737,7 @@
       "name": "Bermeo Port",
       "name_en": "Bermeo",
       "area": "Bermeo",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "liman",
         "renkli",
@@ -805,7 +785,7 @@
       "name": "Bideluze",
       "name_en": "Bideluze",
       "area": "Centro",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "sandviç",
         "gece",
@@ -829,7 +809,7 @@
       "name": "Bodega Donostiarra",
       "name_en": "Bodega Donostiarra",
       "area": "Gros",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "geleneksel",
         "ızgara",
@@ -851,7 +831,7 @@
     },
     {
       "name": "Bodegón Alejandro",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "traditional",
         "basque",
@@ -875,7 +855,7 @@
       "name": "Borda Berri",
       "name_en": "Borda Berri",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pintxos",
         "risotto",
@@ -1017,7 +997,7 @@
       "name": "Casa Urola",
       "name_en": "Casa Urola",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ızgara",
         "klasik",
@@ -1041,7 +1021,7 @@
       "name": "Casino Kursaal",
       "name_en": "Casino",
       "area": "Old Town",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "kumarhane",
         "oyun",
@@ -1113,7 +1093,7 @@
       "name": "Cider House Petritegi",
       "name_en": "Petritegi Sidreria",
       "area": "Astigarraga",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "sidra",
         "et",
@@ -1161,7 +1141,7 @@
       "name": "Club de Golf Basozabal",
       "name_en": "Basozabal Golf",
       "area": "Aiete",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "golf",
         "yeşil",
@@ -1185,7 +1165,7 @@
       "name": "Convent Garden",
       "name_en": "Convent Garden",
       "area": "Centro",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "teras",
         "konser",
@@ -1257,7 +1237,7 @@
       "name": "Dabadaba",
       "name_en": "Dabadaba",
       "area": "Egia",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "konser",
         "kulüp",
@@ -1281,7 +1261,7 @@
       "name": "Egia Cultural Center",
       "name_en": "Egia Center",
       "area": "Egia",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "konser",
         "tiyatro",
@@ -1305,7 +1285,7 @@
       "name": "El Peine del Viento Sculptures",
       "name_en": "Wind Comb",
       "area": "Ondarreta",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "heykel",
         "chillida",
@@ -1329,7 +1309,7 @@
       "name": "Elantxobe",
       "name_en": "Elantxobe",
       "area": "Elantxobe",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "eğim",
         "liman",
@@ -1353,7 +1333,7 @@
       "name": "Elkano",
       "name_en": "Elkano",
       "area": "Getaria",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kalkan",
         "ızgara",
@@ -1473,7 +1453,7 @@
       "name": "Funicular de Igueldo",
       "name_en": "Igueldo Funicular",
       "area": "Ondarreta",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "tren",
         "tarihi",
@@ -1495,7 +1475,7 @@
     },
     {
       "name": "Ganbara",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "mushrooms",
         "seasonal",
@@ -1517,7 +1497,7 @@
     },
     {
       "name": "Gandarias",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pintxos",
         "meat",
@@ -1565,7 +1545,7 @@
       "name": "Geoparkea (Basque Coast Geopark)",
       "name_en": "Basque Geopark",
       "area": "Zumaia",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "flysch",
         "jeoloji",
@@ -1613,7 +1593,7 @@
       "name": "Getaria",
       "name_en": "Getaria",
       "area": "Çevre",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "kasaba",
         "balenciaga",
@@ -1661,7 +1641,7 @@
       "name": "Goiz Argi",
       "name_en": "Goiz Argi",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "karides",
         "brochette",
@@ -1709,7 +1689,7 @@
       "name": "Gu San Sebastian",
       "name_en": "Gu",
       "area": "Old Town",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "kokteyl",
         "manzara",
@@ -1781,7 +1761,7 @@
       "name": "Hegalak Sports Center",
       "name_en": "Hegalak",
       "area": "La Concha",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "havuz",
         "spor",
@@ -1805,7 +1785,7 @@
       "name": "Hipodromo de San Sebastian",
       "name_en": "Hippodrome",
       "area": "Lasarte",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "at yarışı",
         "bahis",
@@ -1829,7 +1809,7 @@
       "name": "Hondarribia",
       "name_en": "Hondarribia",
       "area": "Çevre",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "kasaba",
         "renkli",
@@ -1877,7 +1857,7 @@
       "name": "Igeldo Amusement Park",
       "name_en": "Igeldo Park",
       "area": "Igueldo",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "tags": [
         "lunapark",
         "nostalji",
@@ -1971,7 +1951,7 @@
       "name": "Jazzaldia",
       "name_en": "Jazz Festival",
       "area": "Gros",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "caz",
         "konser",
@@ -1993,7 +1973,7 @@
       "name": "KATA4",
       "name_en": "KATA4",
       "area": "Centro",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "istiridye",
         "şampanya",
@@ -2017,7 +1997,7 @@
       "name": "Kaia Kaipe",
       "name_en": "Kaia Kaipe",
       "area": "Getaria",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "balık",
         "deniz",
@@ -2065,7 +2045,7 @@
       "name": "Kokotxa",
       "name_en": "Kokotxa",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "michelin",
         "modern",
@@ -2135,7 +2115,7 @@
       "name": "Kutxa Kultur",
       "name_en": "Kutxa Cultura",
       "area": "Egia",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "sanat",
         "sergi",
@@ -2202,7 +2182,7 @@
       "name": "La Cuchara de San Telmo",
       "name_en": "La Cuchara de San Telmo",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "sıcak",
         "gurme",
@@ -2250,7 +2230,7 @@
       "name": "La Madame",
       "name_en": "La Madame",
       "area": "Centro",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "brunch",
         "kokteyl",
@@ -2274,7 +2254,7 @@
       "name": "La Perla Gym",
       "name_en": "La Perla Gym",
       "area": "La Concha",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "spor",
         "manzara",
@@ -2298,7 +2278,7 @@
       "name": "La Perla Thalasso",
       "name_en": "La Perla Spa",
       "area": "La Concha",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "spa",
         "deniz suyu",
@@ -2320,7 +2300,7 @@
     },
     {
       "name": "La Viña",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "cheesecake",
         "dessert",
@@ -2343,7 +2323,7 @@
       "name": "Leitza",
       "name_en": "Leitza",
       "area": "Navarra",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "spor",
         "köy",
@@ -2367,7 +2347,7 @@
       "name": "Lekeitio",
       "name_en": "Lekeitio",
       "area": "Lekeitio",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "balıkçı",
         "ada",
@@ -2511,7 +2491,7 @@
       "name": "Martin Berasategui",
       "name_en": "Martin Berasategui",
       "area": "Lasarte",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "3 michelin",
         "klasik",
@@ -2650,7 +2630,7 @@
       "name": "Miramon Park",
       "name_en": "Miramon Park",
       "area": "Miramon",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "orman",
         "yürüyüş",
@@ -2674,7 +2654,7 @@
       "name": "Momo Donostia",
       "name_en": "Momo",
       "area": "Centro",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "vejetaryen",
         "dünya",
@@ -2719,7 +2699,7 @@
       "name": "Monte San Anton (Mouse of Getaria)",
       "name_en": "The Mouse",
       "area": "Getaria",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "yürüyüş",
         "manzara",
@@ -2789,7 +2769,7 @@
       "name": "Motorboat to Santa Clara",
       "name_en": "Island Boat",
       "area": "Port",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "tekne",
         "ada",
@@ -2809,7 +2789,7 @@
     },
     {
       "name": "Mugaritz",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "2 michelin",
         "avant-garde",
@@ -2833,7 +2813,7 @@
       "name": "Mundaka",
       "name_en": "Mundaka",
       "area": "Mundaka",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "sörf",
         "liman",
@@ -2881,7 +2861,7 @@
       "name": "Narru",
       "name_en": "Narru",
       "area": "Centro",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "modern",
         "şık",
@@ -2905,7 +2885,7 @@
       "name": "Ni Neu",
       "name_en": "Ni Neu",
       "area": "Gros",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "modern",
         "manzara",
@@ -2977,7 +2957,7 @@
       "name": "Oma Painted Forest",
       "name_en": "Oma Forest",
       "area": "Kortezubi",
-      "category": "Sanat",
+      "category": "Deneyim",
       "tags": [
         "orman",
         "boyalı",
@@ -3023,7 +3003,7 @@
       "name": "Paco Bueno",
       "name_en": "Paco Bueno",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "gambas",
         "boks",
@@ -3047,7 +3027,7 @@
       "name": "Pagoeta Natural Park",
       "name_en": "Pagoeta Park",
       "area": "Aia",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "doğa",
         "botanik",
@@ -3071,7 +3051,7 @@
       "name": "Pamplona Old Town",
       "name_en": "Pamplona",
       "area": "Pamplona",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "boğa",
         "hemingway",
@@ -3116,7 +3096,7 @@
       "name": "Pasai Donibane",
       "name_en": "Pasajes San Juan",
       "area": "Çevre",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "kasaba",
         "tarihi",
@@ -3349,7 +3329,7 @@
       "name": "Ramuntxo Berri",
       "name_en": "Ramuntxo Berri",
       "area": "Gros",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "pintxos",
         "brie",
@@ -3373,7 +3353,7 @@
       "name": "Real Club de Tenis",
       "name_en": "Tennis Club",
       "area": "Ondarreta",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "tenis",
         "kulüp",
@@ -3397,7 +3377,7 @@
       "name": "Rekondo",
       "name_en": "Rekondo",
       "area": "Igueldo",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "şarap",
         "mahzen",
@@ -3469,7 +3449,7 @@
       "name": "SSua Arde Donostia",
       "name_en": "SSua",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "modern",
         "pintxos",
@@ -3517,7 +3497,7 @@
       "name": "Saint-Jean-de-Luz",
       "name_en": "Saint-Jean-de-Luz",
       "area": "St Jean de Luz",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "fransa",
         "bask",
@@ -3589,7 +3569,7 @@
       "name": "San Juan de Gaztelugatxe",
       "name_en": "Gaztelugatxe",
       "area": "Bermeo",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "game of thrones",
         "ejderha",
@@ -3637,7 +3617,7 @@
       "name": "San Pedro Pasai",
       "name_en": "Pasajes San Pedro",
       "area": "Pasaia",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "balıkçı",
         "liman",
@@ -3681,7 +3661,7 @@
       "name": "San Sebastian International Film Festival",
       "name_en": "Film Festival",
       "area": "Centro",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "festival",
         "sinema",
@@ -3774,7 +3754,7 @@
       "name": "Sare",
       "name_en": "Sare",
       "area": "Fransa",
-      "category": "Kasaba",
+      "category": "Deneyim",
       "tags": [
         "fransa",
         "güzel",
@@ -3798,7 +3778,7 @@
       "name": "Semana Grande (Aste Nagusia)",
       "name_en": "Big Week",
       "area": "Citywide",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "festival",
         "havai fişek",
@@ -3822,7 +3802,7 @@
       "name": "Sirimiri",
       "name_en": "Sirimiri",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "kokteyl",
         "modern",
@@ -3868,7 +3848,7 @@
       "name": "Tabakalera",
       "name_en": "Tabakalera",
       "area": "Egia",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "sanat",
         "teras",
@@ -3892,7 +3872,7 @@
       "name": "Tamboril",
       "name_en": "Tamboril",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "mantar",
         "meydan",
@@ -3916,7 +3896,7 @@
       "name": "Tamborrada",
       "name_en": "Drum Festival",
       "area": "Old Town",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "davul",
         "festival",
@@ -3988,7 +3968,7 @@
       "name": "Topa Sukalderia",
       "name_en": "Topa Sukalderia",
       "area": "Gros",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "bask-latin",
         "füzyon",
@@ -4032,7 +4012,7 @@
     },
     {
       "name": "Txepetxa",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "anchovies",
         "pintxos",
@@ -4056,7 +4036,7 @@
       "name": "Txuleta",
       "name_en": "Txuleta",
       "area": "Old Town",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "et",
         "steak",
@@ -4080,7 +4060,7 @@
       "name": "Urdaibai Biosphere Reserve",
       "name_en": "Urdaibai Reserve",
       "area": "Bermeo",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "doğa",
         "kuş",
@@ -4104,7 +4084,7 @@
       "name": "Urederra Nature Reserve",
       "name_en": "Urederra",
       "area": "Baquedano",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "turkuaz",
         "su",
@@ -4128,7 +4108,7 @@
       "name": "Urkiola Natural Park",
       "name_en": "Urkiola Park",
       "area": "Abadiño",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "dağ",
         "tırmanış",
@@ -4152,7 +4132,7 @@
       "name": "Victoria Eugenia Theatre",
       "name_en": "Victoria Eugenia Theatre",
       "area": "Centro",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "tiyatro",
         "belle epoque",
@@ -4176,7 +4156,7 @@
       "name": "Vitoria-Gasteiz Green Ring",
       "name_en": "Green Ring",
       "area": "Vitoria",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "park",
         "bisiklet",
@@ -4224,7 +4204,7 @@
       "name": "Zabaleta",
       "name_en": "Zabaleta",
       "area": "Gros",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "tortilla",
         "basit",
@@ -4365,7 +4345,7 @@
       "name": "Zurriola Surf School",
       "name_en": "Zurriola Surf",
       "area": "Gros",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "sörf",
         "ders",

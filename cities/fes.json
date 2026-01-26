@@ -11,7 +11,7 @@
     {
       "id": "ain-azliten",
       "name": "Ain Azliten",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "authentic",
         "quiet",
@@ -31,7 +31,7 @@
     {
       "id": "ain-nokbi",
       "name": "Ain Nokbi",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "ceramics",
         "pottery",
@@ -51,7 +51,7 @@
     {
       "id": "ain-vittel",
       "name": "Ain Vittel",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "waterfall",
         "picnic",
@@ -232,7 +232,7 @@
     {
       "id": "atlas-film-studios-ouarzazate",
       "name": "Atlas Film Studios (Ouarzazate)",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "movies",
         "sets",
@@ -272,7 +272,7 @@
     {
       "id": "avenue-hassan-ii",
       "name": "Avenue Hassan II",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "boulevard",
         "shopping",
@@ -292,7 +292,7 @@
     {
       "id": "azrou-cedar-forest",
       "name": "Azrou Cedar Forest",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "monkeys",
         "cedar trees",
@@ -519,7 +519,7 @@
     {
       "id": "bab-makina",
       "name": "Bab Makina",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "festival",
         "concerts",
@@ -539,7 +539,7 @@
     {
       "id": "bab-mansour-laleuj",
       "name": "Bab Mansour Laleuj",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "tags": [
         "meknes",
         "gate",
@@ -639,7 +639,7 @@
     {
       "id": "bhalil",
       "name": "Bhalil",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "cave houses",
         "colorful",
@@ -773,11 +773,15 @@
     {
       "id": "cafe-clock",
       "name": "Cafe Clock",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
+        "medina",
         "camel burger",
-        "cultural center",
-        "terrace"
+        "terrace",
+        "fas",
+        "fes",
+        "cafe",
+        "cultural center"
       ],
       "lat": 34.0622241,
       "lng": -4.9830884,
@@ -788,12 +792,16 @@
       "price": "medium",
       "tips": "Gün batımında terastan Bou Inania minaresini izleyin.",
       "tips_en": "Watch Bou Inania minaret from the terrace at sunset.",
-      "subcategory": "Cafe"
+      "subcategory": "Cafe",
+      "name_en": "Café Clock",
+      "source": "google",
+      "bestTime": "Akşam",
+      "area": "Medina"
     },
     {
       "id": "cafe-la-noria",
       "name": "Cafe La Noria",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "water wheel",
         "garden",
@@ -813,7 +821,7 @@
     {
       "id": "cafe-restaurant-al-oud",
       "name": "Cafe Restaurant Al Oud",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "simple",
         "tasty",
@@ -831,36 +839,9 @@
       "subcategory": "Cafe"
     },
     {
-      "name": "Café Clock",
-      "area": "Medina",
-      "category": "Cafe",
-      "subcategory": "Cafe",
-      "tags": [
-        "medina",
-        "fes",
-        "fas",
-        "cafe"
-      ],
-      "distanceFromCenter": 0,
-      "lat": 34.0622241,
-      "lng": -4.9830884,
-      "price": "medium",
-      "rating": 4.4,
-      "description": "Café Clock, nane çayı içip soluklanmak için keyifli bir durak. Medina'da yer alan bu kafe, genellikle harika bir çatı manzarasına sahip.",
-      "bestTime": "Akşam",
-      "bestFor": [
-        "herkes"
-      ],
-      "source": "google",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/cafe_clock.jpg",
-      "tips": "Google Maps yorumlarına göz atarak ne yiyeceğinize karar verin.",
-      "description_en": "Café Clock is a highlight of Fes in the Medina area.",
-      "tips_en": "Decide what to eat by checking Google Maps reviews."
-    },
-    {
       "id": "centre-de-formation-aux-metiers-de-lartisanat",
       "name": "Centre de Formation aux Metiers de l'Artisanat",
-      "category": "Kültür",
+      "category": "Deneyim",
       "tags": [
         "crafts",
         "learning",
@@ -880,7 +861,7 @@
     {
       "id": "chefchaouen-day-trip",
       "name": "Chefchaouen Day Trip",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "blue city",
         "photography",
@@ -900,7 +881,7 @@
     {
       "id": "chez-rachid",
       "name": "Chez Rachid",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "street food",
         "cheap",
@@ -967,7 +948,7 @@
     {
       "id": "chouara-tannery",
       "name": "Chouara Tannery",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "tags": [
         "leather",
         "dyeing",
@@ -1074,7 +1055,7 @@
     {
       "id": "cremerie-la-place",
       "name": "Cremerie La Place",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "ice cream",
         "juice",
@@ -1094,7 +1075,7 @@
     {
       "id": "culture-box",
       "name": "Culture Box",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "fusion",
         "art",
@@ -1201,7 +1182,7 @@
     {
       "name": "Dar Roumana",
       "area": "Medina",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "medina",
@@ -1228,7 +1209,7 @@
     {
       "id": "dar-saada",
       "name": "Dar Saada",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "large groups",
         "historic",
@@ -1288,7 +1269,7 @@
     {
       "id": "darori-resto",
       "name": "Darori Resto",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "hidden",
         "courtyard",
@@ -1308,7 +1289,7 @@
     {
       "id": "diamant-vert",
       "name": "Diamant Vert",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "water park",
         "pools",
@@ -1348,7 +1329,7 @@
     {
       "id": "fes-country-club",
       "name": "Fes Country Club",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "tennis",
         "pool",
@@ -1388,7 +1369,7 @@
     {
       "id": "fes-saiss-airport",
       "name": "Fes Saiss Airport",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "architecture",
         "modern",
@@ -1435,49 +1416,30 @@
     {
       "id": "fez-cafe",
       "name": "Fez Cafe",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
+        "medina",
+        "restoran",
         "garden",
         "stylish",
-        "cocktails"
+        "fes",
+        "cocktails",
+        "fas"
       ],
       "lat": 34.0610281,
       "lng": -4.978378699999999,
       "rating": 4.3,
-      "description": "Le Jardin des Biehn otelinin içinde, muazzam bir bahçeye bakan şık bir restoran.",
-      "description_en": "Stylish restaurant inside Le Jardin des Biehn hotel, overlooking a magnificent garden.",
+      "description": "Traditional rooms & suites in a laid-back riad offering free breakfast, plus a hammam & gardens.",
+      "description_en": "Traditional rooms & suites in a laid-back riad offering free breakfast, plus a hammam & gardens.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/fez-cafe.jpg",
       "price": "high",
       "tips": "Kargaşadan kaçıp sakin bir yemek için ideal.",
       "tips_en": "Ideal for a quiet meal escaping the chaos.",
-      "subcategory": "Restoran"
-    },
-    {
-      "name": "Fez Café",
-      "area": "Medina",
-      "category": "Restoran",
       "subcategory": "Restoran",
-      "tags": [
-        "medina",
-        "fes",
-        "fas",
-        "restoran"
-      ],
-      "distanceFromCenter": 0,
-      "lat": 34.0611043,
-      "lng": -4.978329,
-      "price": "medium",
-      "rating": 4.6,
-      "description": "Traditional rooms & suites in a laid-back riad offering free breakfast, plus a hammam & gardens.",
-      "bestTime": "Akşam",
-      "bestFor": [
-        "herkes"
-      ],
+      "name_en": "Fez Café",
       "source": "google",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/fez_cafe.jpg",
-      "tips": "Öğle yemeği menüleri genellikle akşamdan daha uygundur.",
-      "description_en": "Traditional rooms & suites in a laid-back riad offering free breakfast, plus a hammam & gardens.",
-      "tips_en": "Lunch menus are usually cheaper than dinner."
+      "bestTime": "Akşam",
+      "area": "Medina"
     },
     {
       "id": "funduq-al-najjarin",
@@ -1522,7 +1484,7 @@
     {
       "id": "gare-de-fes",
       "name": "Gare de Fes",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "train",
         "architecture",
@@ -1709,7 +1671,7 @@
     {
       "id": "hotel-sahrai",
       "name": "Hotel Sahrai",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "luxury",
         "view",
@@ -1756,7 +1718,7 @@
     {
       "id": "ifrane",
       "name": "Ifrane",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "tags": [
         "little switzerland",
         "snow",
@@ -1776,7 +1738,7 @@
     {
       "id": "imouzzer-kandar",
       "name": "Imouzzer Kandar",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "apples",
         "nature",
@@ -1796,7 +1758,7 @@
     {
       "id": "jawharat-fes",
       "name": "Jawharat Fes",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "view",
         "food",
@@ -1836,7 +1798,7 @@
     {
       "id": "jnan-palace",
       "name": "Jnan Palace",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "luxury",
         "pool",
@@ -1883,7 +1845,7 @@
     {
       "id": "jnan-sbil-gardens",
       "name": "Jnan Sbil Gardens",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "garden",
         "oasis",
@@ -2044,7 +2006,7 @@
     {
       "id": "lamandier-palais-faraj",
       "name": "L'Amandier Palais Faraj",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "luxury",
         "best view",
@@ -2064,7 +2026,7 @@
     {
       "id": "le-tarbouche-fes",
       "name": "Le Tarbouche Fes",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "tacos",
         "moroccan fusion",
@@ -2084,7 +2046,7 @@
     {
       "id": "les-jardins-de-sheherazade",
       "name": "Les Jardins de Sheherazade",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "romantic",
         "garden",
@@ -2151,7 +2113,7 @@
     {
       "id": "maison-moi-anan",
       "name": "Maison Moi Anan",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "thai",
         "asian",
@@ -2218,7 +2180,7 @@
     {
       "id": "meknes-medina",
       "name": "Meknes Medina",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "quieter",
         "market",
@@ -2285,7 +2247,7 @@
     {
       "id": "mezzanine",
       "name": "Mezzanine",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "lounge",
         "cocktails",
@@ -2325,7 +2287,7 @@
     {
       "id": "moulay-abdellah-quarter",
       "name": "Moulay Abdellah Quarter",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "local",
         "market",
@@ -2345,7 +2307,7 @@
     {
       "id": "moulay-idriss-zerhoun",
       "name": "Moulay Idriss Zerhoun",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "tags": [
         "holy city",
         "view",
@@ -2365,7 +2327,7 @@
     {
       "id": "mount-zalagh",
       "name": "Mount Zalagh",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "hiking",
         "view",
@@ -2425,7 +2387,7 @@
     {
       "id": "nach-mama",
       "name": "Nach Mama",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "homemade",
         "ladies",
@@ -2445,7 +2407,7 @@
     {
       "name": "Nagham Cafe",
       "area": "Bab Boujloud",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "bab boujloud",
@@ -2499,7 +2461,7 @@
     {
       "name": "Nur Restaurant",
       "area": "Medina",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "medina",
@@ -2526,49 +2488,30 @@
     {
       "id": "palais-de-fes-dar-tazi",
       "name": "Palais De Fes Dar Tazi",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "panoramic view",
+        "medina",
+        "restoran",
+        "fas",
+        "fes",
         "luxury",
         "traditional"
       ],
       "lat": 34.0603974,
       "lng": -4.971474199999999,
       "rating": 4.3,
-      "description": "Tarihi sarayda lüks konaklama ve restoran, geleneksel Fas mimarisi. Avlu, çeşme ve kraliyet atmosferi.",
+      "description": "Palais De Fès Dar Tazi, Fas mutfağının en özel lezzetlerini (tajin, kuskus) tadabileceğiniz otantik bir mekan. Medina bölgesindeki bu restoran, geleneksel dekorasyonuyla da büyülüyor.",
       "description_en": "Luxury accommodation and restaurant in historic palace with traditional Moroccan architecture. Courtyard, fountain, and royal atmosphere.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/palais-de-fes-dar-tazi.jpg",
       "price": "high",
       "tips": "Gün batımında terasta yer ayırtın.",
       "tips_en": "Book a table on the terrace at sunset.",
-      "subcategory": "Restoran"
-    },
-    {
-      "name": "Palais De Fès Dar Tazi",
-      "area": "Medina",
-      "category": "Restoran",
       "subcategory": "Restoran",
-      "tags": [
-        "medina",
-        "fes",
-        "fas",
-        "restoran"
-      ],
-      "distanceFromCenter": 0,
-      "lat": 34.0603974,
-      "lng": -4.971474199999999,
-      "price": "medium",
-      "rating": 4.2,
-      "description": "Palais De Fès Dar Tazi, Fas mutfağının en özel lezzetlerini (tajin, kuskus) tadabileceğiniz otantik bir mekan. Medina bölgesindeki bu restoran, geleneksel dekorasyonuyla da büyülüyor.",
-      "bestTime": "Akşam",
-      "bestFor": [
-        "herkes"
-      ],
+      "name_en": "Palais De Fès Dar Tazi",
       "source": "google",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/palais_de_fes_dar_tazi.jpg",
-      "tips": "Akşam yemeği için rezervasyon yaptırmak şart.",
-      "description_en": "Palais De Fès Dar Tazi is a highlight of Fes in the Medina area.",
-      "tips_en": "Reservation is a must for dinner."
+      "bestTime": "Akşam",
+      "area": "Medina"
     },
     {
       "id": "palais-el-mokri",
@@ -2577,18 +2520,21 @@
       "tags": [
         "architecture",
         "riad",
+        "visit",
+        "hotel",
         "view"
       ],
       "lat": 34.058391,
       "lng": -4.9752104,
       "rating": 4.3,
-      "description": "Muazzam avluları ve ahşap işçiliğiyle ünlü, ziyaret edilebilen tarihi aile sarayı.",
-      "description_en": "Historic family palace open to visitors, famous for its magnificent courtyards and woodwork.",
+      "description": "19. yüzyıldan kalma tarihi saray, geleneksel Fas zanaatkarlarının şaheserlerini barındırır. Ahşap oyma, çini ve stuko.",
+      "description_en": "19th-century historic palace housing masterpieces of traditional Moroccan craftsmen. Wood carving, tiles, and stucco.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/palais-el-mokri.jpg",
       "price": "medium",
       "tips": "Gün batımında terası çok güzeldir.",
       "tips_en": "Its terrace is very beautiful at sunset.",
-      "subcategory": "Saray"
+      "subcategory": "Saray",
+      "name_en": "Palais Mokri"
     },
     {
       "id": "palais-glaoui",
@@ -2631,26 +2577,6 @@
       "subcategory": "Saray"
     },
     {
-      "id": "palais-mokri",
-      "name": "Palais Mokri",
-      "category": "Tarihi",
-      "tags": [
-        "architecture",
-        "hotel",
-        "visit"
-      ],
-      "lat": 34.058391,
-      "lng": -4.9752104,
-      "rating": 4.3,
-      "description": "19. yüzyıldan kalma tarihi saray, geleneksel Fas zanaatkarlarının şaheserlerini barındırır. Ahşap oyma, çini ve stuko.",
-      "description_en": "19th-century historic palace housing masterpieces of traditional Moroccan craftsmen. Wood carving, tiles, and stucco.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/palais-mokri.jpg",
-      "price": "medium",
-      "tips": "Şimdi kısmen otel olarak kullanılıyor.",
-      "tips_en": "Now partially used as a hotel.",
-      "subcategory": "Saray"
-    },
-    {
       "id": "palais-royal-dar-el-makhzen",
       "name": "Palais Royal Dar El Makhzen",
       "category": "Tarihi",
@@ -2673,7 +2599,7 @@
     {
       "id": "petit-mechouar",
       "name": "Petit Mechouar",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "royal",
         "courtyard",
@@ -2693,7 +2619,7 @@
     {
       "id": "place-baghdadi",
       "name": "Place Baghdadi",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "walls",
         "history",
@@ -2713,7 +2639,7 @@
     {
       "id": "place-el-hedim",
       "name": "Place El-Hedim",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "tags": [
         "square",
         "atmosphere",
@@ -2753,7 +2679,7 @@
     {
       "id": "place-seffarine",
       "name": "Place Seffarine",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "tags": [
         "copper",
         "crafts",
@@ -2793,7 +2719,7 @@
     {
       "id": "place-des-alaouites",
       "name": "Place des Alaouites",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "royal palace",
         "square",
@@ -2860,7 +2786,7 @@
     {
       "id": "restaurant-al-fassia",
       "name": "Restaurant Al Fassia",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "classic",
         "music",
@@ -2880,7 +2806,7 @@
     {
       "name": "Restaurant Dar Hatim",
       "area": "Medina",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "medina",
@@ -2907,7 +2833,7 @@
     {
       "id": "restaurant-ouliya",
       "name": "Restaurant Ouliya",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "terrace",
         "tagine",
@@ -2927,7 +2853,7 @@
     {
       "id": "restaurant-sekaya",
       "name": "Restaurant Sekaya",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "traditional",
         "tagine",
@@ -2974,7 +2900,7 @@
     {
       "id": "riad-fes---relais-chteaux",
       "name": "Riad Fes - Relais & Châteaux",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "tags": [
         "luxury",
         "pool",
@@ -2994,7 +2920,7 @@
     {
       "id": "riad-rcif",
       "name": "Riad Rcif",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "view",
         "square",
@@ -3014,7 +2940,7 @@
     {
       "id": "royal-golf-de-fes",
       "name": "Royal Golf de Fes",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "tags": [
         "sports",
         "green",
@@ -3034,7 +2960,7 @@
     {
       "id": "rue-talaa-kebira",
       "name": "Rue Talaa Kebira",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "main street",
         "shopping",
@@ -3054,7 +2980,7 @@
     {
       "id": "rue-talaa-seghira",
       "name": "Rue Talaa Seghira",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "tags": [
         "market",
         "narrow",
@@ -3074,7 +3000,7 @@
     {
       "id": "rue-des-mrinides",
       "name": "Rue des Mérinides",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "shopping",
         "local",
@@ -3161,7 +3087,7 @@
     {
       "id": "sefrou-falls",
       "name": "Sefrou Falls",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "waterfall",
         "nature",
@@ -3181,7 +3107,7 @@
     {
       "id": "sidi-harazem-oasis",
       "name": "Sidi Harazem Oasis",
-      "category": "Doğa",
+      "category": "Park",
       "tags": [
         "mineral water",
         "palm trees",
@@ -3201,7 +3127,7 @@
     {
       "id": "sidi-mguild",
       "name": "Sidi Mguild",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Deneyim",
       "tags": [
         "rugs",
         "berber",
@@ -3221,7 +3147,7 @@
     {
       "id": "sidi-moussa-tannery",
       "name": "Sidi Moussa Tannery",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "leather",
         "authentic",
@@ -3481,7 +3407,7 @@
     {
       "id": "thamis",
       "name": "Thami's",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "popular",
         "local",
@@ -3501,7 +3427,7 @@
     {
       "name": "The Ruined Garden",
       "area": "Medina",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "medina",
@@ -3548,7 +3474,7 @@
     {
       "id": "veggie-pause",
       "name": "Veggie-pause",
-      "category": "Yeme & İçme",
+      "category": "Yeme-İçme",
       "tags": [
         "vegetarian",
         "healthy",
@@ -3568,7 +3494,7 @@
     {
       "id": "ville-nouvelle-french-city",
       "name": "Ville Nouvelle (French City)",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "modern",
         "french",
@@ -3588,7 +3514,7 @@
     {
       "id": "volubilis",
       "name": "Volubilis",
-      "category": "Görülmesi Gereken Yerler",
+      "category": "Tarihi",
       "tags": [
         "roman ruins",
         "mosaics",

@@ -30,7 +30,7 @@
     {
       "name": "'t Vonder",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Brasserie",
       "tags": [
         "casual",
@@ -51,7 +51,7 @@
     {
       "name": "Aquarium Giethoorn",
       "area": "center",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Akvaryum",
       "tags": [
         "fish",
@@ -112,7 +112,7 @@
     {
       "name": "Beachclub Bodelaeke",
       "area": "lake",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Beach Club",
       "tags": [
         "beach",
@@ -133,7 +133,7 @@
     {
       "name": "Bed & Breakfast Giethoorn",
       "area": "center",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "subcategory": "B&B",
       "tags": [
         "cozy",
@@ -154,7 +154,7 @@
     {
       "name": "Belt-Schutsloot",
       "area": "village",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Köy",
       "tags": [
         "village",
@@ -175,7 +175,7 @@
     {
       "name": "Belterwijde",
       "area": "lake",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Göl",
       "tags": [
         "lake",
@@ -196,7 +196,7 @@
     {
       "name": "Beulakerwijde",
       "area": "lake",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Göl",
       "tags": [
         "lake",
@@ -280,7 +280,7 @@
     {
       "name": "Black Sheep Hostel",
       "area": "center",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "subcategory": "Hostel",
       "tags": [
         "budget",
@@ -301,7 +301,7 @@
     {
       "name": "Blauwe Hand",
       "area": "harbor",
-      "category": "Liman",
+      "category": "Deneyim",
       "subcategory": "Marina",
       "tags": [
         "port",
@@ -323,7 +323,7 @@
       "name": "Blokzijl",
       "name_en": "Blokzijl",
       "area": "Çevre",
-      "category": "Liman",
+      "category": "Deneyim",
       "tags": [
         "liman",
         "tarihi",
@@ -347,15 +347,17 @@
       "name": "Boating Trail North",
       "category": "Manzara",
       "tags": [
-        "boat route",
         "scenic",
-        "quiet"
+        "popular",
+        "quiet",
+        "boat route",
+        "lake access"
       ],
       "lat": 52.745,
       "lng": 6.083,
       "rating": 4.7,
       "description": "Kuzey yönünde sakin tekne rotası. Şehrin en etkileyici manzaralarından birini sunan bu nokta, fotoğraf tutkunları için adeta bir cennet. Özellikle gün batımında büründüğü renkler, ziyaretçilere görsel bir şölen yaşatıyor.",
-      "description_en": "Quiet boat route heading north. Offering one of the most impressive views of the city, this spot is a paradise for photography enthusiasts. The colors it takes on, especially at sunset, provide a visual feast for visitors.",
+      "description_en": "Southern boat route leading to the lake. Offering one of the most impressive views of the city, this spot is a paradise for photography enthusiasts. The colors it takes on, especially at sunset, provide a visual feast for visitors.",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/giethoorn/boating_trail_north.jpg",
       "price": "medium",
       "distanceFromCenter": 1.0,
@@ -363,29 +365,8 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Akşam saatlerinde şehir ışıklarını izlemek çok romantik.",
       "tips_en": "Watching city lights in the evening is very romantic.",
-      "source": "firebase"
-    },
-    {
-      "name": "Boating Trail South",
-      "category": "Manzara",
-      "tags": [
-        "boat route",
-        "lake access",
-        "popular"
-      ],
-      "lat": 52.738,
-      "lng": 6.085,
-      "rating": 4.6,
-      "description": "Göle çıkan güney tekne rotası. Şehrin en etkileyici manzaralarından birini sunan bu nokta, fotoğraf tutkunları için adeta bir cennet. Özellikle gün batımında büründüğü renkler, ziyaretçilere görsel bir şölen yaşatıyor.",
-      "description_en": "Southern boat route leading to the lake. Offering one of the most impressive views of the city, this spot is a paradise for photography enthusiasts. The colors it takes on, especially at sunset, provide a visual feast for visitors.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/giethoorn/boating_trail_south.jpg",
-      "price": "medium",
-      "distanceFromCenter": 1.0,
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Çok popüler olduğu için rezervasyon yapmak veya erken gitmek şart.",
-      "tips_en": "Since it's very popular, reservation or going early is a must.",
-      "source": "firebase"
+      "source": "firebase",
+      "name_en": "Boating Trail South"
     },
     {
       "name": "Botterwerf",
@@ -411,7 +392,7 @@
     {
       "name": "Bovenmeester",
       "area": "steenwijk",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Tapas",
       "tags": [
         "tapas",
@@ -453,7 +434,7 @@
     {
       "name": "Buitencentrum Weerribben",
       "area": "ossenzijl",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Ziyaretçi Merkezi",
       "tags": [
         "nature",
@@ -474,7 +455,7 @@
     {
       "name": "Burgeth",
       "area": "center",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Burger",
       "tags": [
         "burger",
@@ -493,7 +474,7 @@
     {
       "name": "Café Restaurant De Otterskooi",
       "area": "dwarsgracht",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "local",
@@ -514,12 +495,14 @@
     {
       "name": "Café-Restaurant De Rietstulp",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
-        "traditional",
         "soup",
-        "terrace"
+        "dutch",
+        "terrace",
+        "rustic",
+        "traditional"
       ],
       "price": "medium",
       "rating": 4.3,
@@ -530,12 +513,13 @@
       "id": "cafe-restaurant-de-rietstulp",
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/giethoorn/cafe-restaurant-de-rietstulp.jpg",
       "source": "firebase",
-      "distanceFromCenter": 0.5
+      "distanceFromCenter": 0.5,
+      "name_en": "Restaurant De Rietstulp"
     },
     {
       "name": "Camping De Sloothaak",
       "area": "camping",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "subcategory": "Kamp",
       "tags": [
         "camping",
@@ -556,7 +540,7 @@
     {
       "name": "Camping Tussen de Diepen",
       "area": "blokzijl",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "subcategory": "Kamp",
       "tags": [
         "camping",
@@ -578,7 +562,7 @@
       "name": "Canal Grande",
       "name_en": "Canal Grande",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "ızgara",
         "teras",
@@ -601,7 +585,7 @@
     {
       "name": "Canal Grande Giethoorn",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "İtalyan",
       "tags": [
         "italian",
@@ -622,7 +606,7 @@
     {
       "name": "Chaletpark Kroondomein",
       "area": "resort",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "subcategory": "Tatil Köyü",
       "tags": [
         "chalet",
@@ -643,7 +627,7 @@
     {
       "name": "Chinees Indisch Restaurant 'Lotus'",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Asya",
       "tags": [
         "chinese",
@@ -726,7 +710,7 @@
     {
       "name": "De Bovenstreek",
       "area": "steenwijk",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Steakhouse",
       "tags": [
         "meat",
@@ -747,7 +731,7 @@
     {
       "name": "De Eetkamer van Giethoorn",
       "area": "resort",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Büfe",
       "tags": [
         "buffet",
@@ -768,7 +752,7 @@
     {
       "name": "De Fanfare",
       "area": "center",
-      "category": "Kültür",
+      "category": "Deneyim",
       "subcategory": "Sinema",
       "tags": [
         "movie",
@@ -787,7 +771,7 @@
     {
       "name": "De Grachthof",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "lounge",
@@ -829,7 +813,7 @@
     {
       "name": "De Herberg van Smallingerland",
       "area": "rottevalle",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Gastro-Pub",
       "tags": [
         "gourmet",
@@ -850,7 +834,7 @@
     {
       "name": "De Kruumte",
       "area": "center",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "subcategory": "Otel",
       "tags": [
         "hotel",
@@ -870,7 +854,7 @@
     },
     {
       "name": "De Lindenhof",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "michelin",
         "fine dining",
@@ -912,7 +896,7 @@
     },
     {
       "name": "De Otters",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "terrace",
         "casual",
@@ -978,7 +962,7 @@
       "name": "De Rietstulp",
       "name_en": "De Rietstulp",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "yerel",
         "saz çatı",
@@ -1001,7 +985,7 @@
     {
       "name": "De Sloothaak",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "cozy",
@@ -1022,7 +1006,7 @@
     {
       "name": "De Witte Eend",
       "area": "canal",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "subcategory": "Tatil Evi",
       "tags": [
         "rental",
@@ -1043,7 +1027,7 @@
     {
       "name": "De Witte Hoeve",
       "area": "center",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "subcategory": "Otel",
       "tags": [
         "hotel",
@@ -1064,7 +1048,7 @@
     {
       "name": "De Zwieseborg",
       "area": "loozen",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Krep",
       "tags": [
         "pancakes",
@@ -1168,7 +1152,7 @@
       "name": "Dwarsgracht",
       "name_en": "Dwarsgracht",
       "area": "Çevre",
-      "category": "Köy",
+      "category": "Deneyim",
       "tags": [
         "köy",
         "sakin",
@@ -1236,7 +1220,7 @@
     {
       "name": "Eetcafé de Fanfare",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Kafe",
       "tags": [
         "terrace",
@@ -1258,9 +1242,10 @@
       "name": "Fietspad (Bike Path)",
       "category": "Manzara",
       "tags": [
+        "view",
         "cycling",
-        "path",
-        "view"
+        "scenic",
+        "path"
       ],
       "lat": 52.738,
       "lng": 6.085,
@@ -1273,29 +1258,8 @@
       "tips": "Rüzgarlı olabilir, yanınıza ince bir ceket alın.",
       "tips_en": "It can be windy, bring a light jacket.",
       "description_en": "Kanalların yanından giden ünlü bisiklet yolu. Offering one of the most impressive views of the city, this spot is a paradise for photography enthusiasts. The colors it takes on, especially at sunset, provide a visual feast for visitors.",
-      "source": "firebase"
-    },
-    {
-      "name": "Fietspad Bike Path",
-      "category": "Manzara",
-      "tags": [
-        "cycling",
-        "path",
-        "scenic"
-      ],
-      "lat": 52.738,
-      "lng": 6.085,
-      "rating": 4.7,
-      "description": "Kanalların yanından giden ünlü bisiklet yolu. Şehrin en etkileyici manzaralarından birini sunan bu nokta, fotoğraf tutkunları için adeta bir cennet. Özellikle gün batımında büründüğü renkler, ziyaretçilere görsel bir şölen yaşatıyor.",
-      "description_en": "Famous bike path along the canals. Offering one of the most impressive views of the city, this spot is a paradise for photography enthusiasts. The colors it takes on, especially at sunset, provide a visual feast for visitors.",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/giethoorn/fietspad_bike_path.jpg",
-      "price": "medium",
-      "distanceFromCenter": 1.0,
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Teleskop/dürbün varsa yanınıza alın.",
-      "tips_en": "Bring a telescope/binoculars if you have them.",
-      "source": "firebase"
+      "source": "firebase",
+      "name_en": "Fietspad Bike Path"
     },
     {
       "name": "Gebroeders Pilsner",
@@ -1321,7 +1285,7 @@
     {
       "name": "Geertien",
       "area": "muggenbeet",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "reed atmosphere",
@@ -1363,7 +1327,7 @@
     {
       "name": "Giethoorn Boat",
       "area": "rental",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Tekne Kiralama",
       "tags": [
         "rental",
@@ -1532,7 +1496,7 @@
     {
       "name": "Grand Café Bergveen",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Kafe",
       "tags": [
         "modern",
@@ -1553,7 +1517,7 @@
     {
       "name": "Grand Café De Eendracht",
       "area": "weerribben",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Kafe",
       "tags": [
         "nature",
@@ -1595,7 +1559,7 @@
     {
       "name": "Havelte",
       "area": "village",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Köy",
       "tags": [
         "dolmens",
@@ -1637,7 +1601,7 @@
     {
       "name": "Het Proeflokaal",
       "area": "giethoorn",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Bar",
       "tags": [
         "tasting",
@@ -1658,7 +1622,7 @@
     {
       "name": "Het Wapen van Giethoorn",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "traditional",
@@ -1722,7 +1686,7 @@
     {
       "name": "Hotel-Restaurant De Harmonie",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "classic",
@@ -1764,7 +1728,7 @@
     {
       "name": "IJs & Zo",
       "area": "center",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Dondurma",
       "tags": [
         "ice cream",
@@ -1850,7 +1814,7 @@
     {
       "name": "Jonen",
       "area": "village",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Köy",
       "tags": [
         "tiny",
@@ -1894,7 +1858,7 @@
       "name": "Kaatje bij de Sluis",
       "name_en": "Kaatje bij de Sluis",
       "area": "Blokzijl",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "michelin",
         "gurme",
@@ -1918,7 +1882,7 @@
       "name": "Kalenberg",
       "name_en": "Kalenberg",
       "area": "Weerribben",
-      "category": "Köy",
+      "category": "Deneyim",
       "tags": [
         "köy",
         "doğa",
@@ -2066,7 +2030,7 @@
     {
       "name": "Kiersche Wijde",
       "area": "lake",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Göl",
       "tags": [
         "lake",
@@ -2087,7 +2051,7 @@
     {
       "name": "Klimbos Avontuurlijk Paasloo",
       "area": "paasloo",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Macera",
       "tags": [
         "climbing",
@@ -2148,7 +2112,7 @@
     {
       "name": "Lemmer",
       "area": "friesland",
-      "category": "Şehir",
+      "category": "Deneyim",
       "subcategory": "Liman",
       "tags": [
         "beach",
@@ -2169,7 +2133,7 @@
     {
       "name": "Meppel",
       "area": "town",
-      "category": "Şehir",
+      "category": "Deneyim",
       "subcategory": "Şehir",
       "tags": [
         "canals",
@@ -2232,7 +2196,7 @@
     {
       "name": "Muggenbeet",
       "area": "village",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Köy",
       "tags": [
         "village",
@@ -2440,7 +2404,7 @@
     {
       "name": "Ossenzijl",
       "area": "village",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Köy",
       "tags": [
         "hub",
@@ -2482,7 +2446,7 @@
     {
       "name": "Paviljoen De Witte Hoeve",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "terrace",
@@ -2503,7 +2467,7 @@
     {
       "name": "Piccola Roma",
       "area": "steenwijk",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "İtalyan",
       "tags": [
         "pizza",
@@ -2545,7 +2509,7 @@
     {
       "name": "Plompeblad",
       "area": "center",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "subcategory": "B&B",
       "tags": [
         "b&b",
@@ -2566,7 +2530,7 @@
     {
       "name": "Plopsa Indoor Coevorden",
       "area": "coevorden",
-      "category": "Eğlence",
+      "category": "Deneyim",
       "subcategory": "Tema Parkı",
       "tags": [
         "kids",
@@ -2587,7 +2551,7 @@
     {
       "name": "Pontje Jonen",
       "area": "transport",
-      "category": "Ulaşım",
+      "category": "Deneyim",
       "subcategory": "Feribot",
       "tags": [
         "ferry",
@@ -2672,7 +2636,7 @@
     {
       "name": "Punterwerf Wildeboer",
       "area": "shipyard",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Tekne Turu",
       "tags": [
         "boat",
@@ -2693,7 +2657,7 @@
     {
       "name": "Recreatiecentrum De Kluft",
       "area": "ossenzijl",
-      "category": "Konaklama",
+      "category": "Deneyim",
       "subcategory": "Otel",
       "tags": [
         "hotel",
@@ -2736,7 +2700,7 @@
     {
       "name": "Restaurant 't Zwaantje",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "pancakes",
@@ -2757,7 +2721,7 @@
     {
       "name": "Restaurant 141",
       "area": "center",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Modern",
       "tags": [
         "modern",
@@ -2778,7 +2742,7 @@
     {
       "name": "Restaurant De Dames van de Jonge",
       "area": "hotel",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "local",
@@ -2799,7 +2763,7 @@
     {
       "name": "Restaurant De Gele Lis",
       "area": "weerribben",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "nature",
@@ -2820,7 +2784,7 @@
     {
       "name": "Restaurant De Pergola",
       "area": "hotel",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Brasserie",
       "tags": [
         "heated terrace",
@@ -2837,30 +2801,9 @@
       "distanceFromCenter": 0.5
     },
     {
-      "name": "Restaurant De Rietstulp",
-      "area": "center",
-      "category": "Restoran",
-      "subcategory": "Restoran",
-      "tags": [
-        "dutch",
-        "rustic",
-        "terrace"
-      ],
-      "price": "medium",
-      "rating": 4.4,
-      "description": "Saz çatılı tarihi bir çiftlik evinde hizmet veren, otantik Hollanda mutfağı sunan restoran.",
-      "description_en": "Restaurant serving authentic Dutch cuisine in a historic thatched-roof farmhouse.",
-      "tips": "Mantar çorbası çok lezzetlidir.",
-      "tips_en": "Mushroom soup is very delicious.",
-      "id": "restaurant-de-rietstulp",
-      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/giethoorn/restaurant-de-rietstulp.jpg",
-      "source": "firebase",
-      "distanceFromCenter": 0.5
-    },
-    {
       "name": "Restaurant Het Doevehuis",
       "area": "kalenberg",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "nature",
@@ -2880,7 +2823,7 @@
     },
     {
       "name": "Restaurant Hollands Venetië",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "dutch",
         "pancakes",
@@ -2902,7 +2845,7 @@
     },
     {
       "name": "Restaurant't Achterhuus",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "farm",
         "local",
@@ -2926,7 +2869,7 @@
       "name": "Ristorante Fratelli",
       "name_en": "Fratelli",
       "area": "Merkez",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "italyan",
         "kanal",
@@ -2949,7 +2892,7 @@
     {
       "name": "Rondvaart Zuideinde",
       "area": "south",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Tekne Turu",
       "tags": [
         "boat tour",
@@ -2991,7 +2934,7 @@
     {
       "name": "Scheerwolde",
       "area": "village",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Köy",
       "tags": [
         "village",
@@ -3054,7 +2997,7 @@
     {
       "name": "Sint-Jansklooster",
       "area": "village",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Köy",
       "tags": [
         "tower",
@@ -3096,7 +3039,7 @@
     {
       "name": "Sluiszicht",
       "area": "blokzijl",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Restoran",
       "tags": [
         "lock view",
@@ -3117,7 +3060,7 @@
     {
       "name": "Smit Giethoorn Catering",
       "area": "service",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Piknik Sepeti",
       "tags": [
         "picnic",
@@ -3137,7 +3080,7 @@
     },
     {
       "name": "Smit's Paviljoen",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "tags": [
         "lake view",
         "traditional",
@@ -3159,7 +3102,7 @@
     {
       "name": "Smit's Paviljoen Boat Rental",
       "area": "lake",
-      "category": "Aktivite",
+      "category": "Deneyim",
       "subcategory": "Tekne Kiralama",
       "tags": [
         "rental",
@@ -3180,7 +3123,7 @@
     {
       "name": "Snackpoint Giethoorn",
       "area": "center",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Fast Food",
       "tags": [
         "fries",
@@ -3222,7 +3165,7 @@
     {
       "name": "Staphorst",
       "area": "village",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Geleneksel",
       "tags": [
         "tradition",
@@ -3243,7 +3186,7 @@
     {
       "name": "Steenwijkerwold",
       "area": "village",
-      "category": "Köy",
+      "category": "Deneyim",
       "subcategory": "Köy",
       "tags": [
         "rural",
@@ -3286,7 +3229,7 @@
     {
       "name": "Taman Indonesia",
       "area": "kallenkote",
-      "category": "Hayvanat Bahçesi",
+      "category": "Deneyim",
       "subcategory": "Park",
       "tags": [
         "animals",
@@ -3307,7 +3250,7 @@
     {
       "name": "Taman Indonesia Restaurant",
       "area": "kallenkote",
-      "category": "Restoran",
+      "category": "Yeme-İçme",
       "subcategory": "Endonezya",
       "tags": [
         "spicy",
@@ -3373,7 +3316,7 @@
     {
       "name": "Urk",
       "area": "town",
-      "category": "Şehir",
+      "category": "Deneyim",
       "subcategory": "Balıkçı Kasabası",
       "tags": [
         "fishing",
@@ -3394,7 +3337,7 @@
     {
       "name": "Venezia Ijs",
       "area": "center",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Dondurma",
       "tags": [
         "ice cream",
@@ -3415,7 +3358,7 @@
     {
       "name": "Vishandel Gerrits & De Boer",
       "area": "center",
-      "category": "Yeme İçme",
+      "category": "Yeme-İçme",
       "subcategory": "Deniz Ürünleri",
       "tags": [
         "fish",
@@ -3457,7 +3400,7 @@
     {
       "name": "Vollenhove",
       "area": "town",
-      "category": "Şehir",
+      "category": "Deneyim",
       "subcategory": "Kasaba",
       "tags": [
         "historic",
@@ -3521,7 +3464,7 @@
       "name": "Wanneperveen",
       "name_en": "Wanneperveen",
       "area": "Çevre",
-      "category": "Köy",
+      "category": "Deneyim",
       "tags": [
         "köy",
         "göl",
@@ -3675,7 +3618,7 @@
     {
       "name": "Wildlands Adventure Zoo Emmen",
       "area": "emmen",
-      "category": "Hayvanat Bahçesi",
+      "category": "Deneyim",
       "subcategory": "Macera",
       "tags": [
         "zoo",
@@ -3717,7 +3660,7 @@
     {
       "name": "Zuideindigerwijde",
       "area": "lake",
-      "category": "Doğa",
+      "category": "Park",
       "subcategory": "Göl",
       "tags": [
         "lake",
@@ -3757,7 +3700,7 @@
     {
       "name": "Zwartsluis",
       "area": "town",
-      "category": "Şehir",
+      "category": "Deneyim",
       "subcategory": "Liman",
       "tags": [
         "harbor",
