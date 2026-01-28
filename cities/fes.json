@@ -470,11 +470,12 @@
       "rating": 4.0,
       "description": "Medinanın batısındaki tarihi kapı, Karaouine Camii'ne yakın stratejik giriş. Yaya trafiği ve eski şehir yaşamı.",
       "description_en": "Historic gate west of medina, strategic entry near Karaouine Mosque. Pedestrian traffic and old city life.",
-      "imageUrl": "",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/bab_jiaf.jpg",
       "price": "free",
       "tips": "Biraz harap durumdadır ama atmosferiktir.",
       "tips_en": "A bit in ruins but atmospheric.",
-      "subcategory": "Kapı"
+      "subcategory": "Kapı",
+      "source": "firebase"
     },
     {
       "id": "bab-khoukha",
@@ -681,7 +682,8 @@
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/borj_nord.jpg",
       "tips": "Çantanızı vestiyere bırakmanız gerekebilir, hazırlıklı olun.",
       "description_en": "Overlooking the city, this 16th-century fortress now houses the Museum of Arms. Climbing its ramparts offers the best panoramic view where you can see the labyrinthine streets, minarets, and tanneries of Fes el Bali from a bird's eye view.",
-      "tips_en": "You might need to leave bags at the cloakroom, be prepared."
+      "tips_en": "You might need to leave bags at the cloakroom, be prepared.",
+      "area_en": "Hill"
     },
     {
       "id": "borj-sheikh-ahmed",
@@ -2155,7 +2157,8 @@
       "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/marinid_mezarlari.jpg",
       "tips": "Rüzgarlı olabilir, yanınıza ince bir ceket alın.",
       "description_en": "Hilltop ruins of 2 tall mausoleums with horseshoe-shaped entrances built in the 14th century.",
-      "tips_en": "It can be windy, bring a light jacket."
+      "tips_en": "It can be windy, bring a light jacket.",
+      "area_en": "Hill"
     },
     {
       "id": "medinart",
@@ -2630,11 +2633,12 @@
       "rating": 4.1,
       "description": "Place Baghdadi, Fes'in bin yıllık tarihinin izlerini taşıyan, keşfedilmeyi bekleyen bir detaydır. Dar sokakların arasında karşınıza çıkan bu nokta, şehrin mistik ve egzotik havasını solumanız için size bir pencere açar.",
       "description_en": "Place Baghdadi is a detail waiting to be discovered, bearing traces of Fes's thousand-year history. This spot, appearing among narrow streets, opens a window for you to breathe in the city's mystical and exotic atmosphere.",
-      "imageUrl": "",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/fes/place_baghdadi.jpg",
       "price": "free",
       "tips": "Bazen sokak sanatçılarına ve festivallere ev sahipliği yapar.",
       "tips_en": "Sometimes hosts street performers and festivals.",
-      "subcategory": "Meydan"
+      "subcategory": "Meydan",
+      "source": "firebase"
     },
     {
       "id": "place-el-hedim",
@@ -3578,5 +3582,7 @@
       "tips_en": "Non-Muslims are not allowed to enter but can be seen from the door.",
       "subcategory": "Türbe"
     }
-  ]
+  ],
+  "city_en": "Fez",
+  "country_en": "Morocco"
 }
