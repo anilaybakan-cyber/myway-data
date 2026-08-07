@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "screens": {
+    "explore": {
+      "travel_together_chip": true,
+      "ai_card": true,
+      "travel_planning_row": true,
+      "city_guide_banner": true,
+      "trending_section": true,
+      "search_mood_row": true,
+      "category_chips": true,
+      "place_list": true
+    },
+    "city_guide": {
+      "featured_carousel": true,
+      "city_search": true,
+      "editorial_list": true
+    },
+    "nearby": {
+      "location_card": true,
+      "distance_filter": true,
+      "search_bar": true,
+      "category_filters": true,
+      "place_list": true
+    },
+    "routes": {
+      "suggested_routes_tab": true,
+      "my_list_tab": true,
+      "share_banner": true,
+      "collaborator_notice": true
+    },
+    "profile": {
+      "interests_section": true,
+      "memories_section": true,
+      "quick_actions": true,
+      "shared_trips_section": true,
+      "trips_section": true,
+      "orphan_section": true,
+      "settings_section": true
+    }
+  },
+  "blocks": {
+    "explore_top": [],
+    "city_guide_top": [],
+    "nearby_top": [],
+    "profile_top": [],
+    "routes_suggested_top": []
+  }
+}
