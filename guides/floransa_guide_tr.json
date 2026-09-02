@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Floransa",
+    "country": "İtalya",
+    "language": "tr",
+    "version": "2.1",
+    "color_primary": "#8B3A2E",
+    "color_light": "#F8EEE8",
+    "tagline": "Rönesans burada doğdu — ve şehir bunu her köşede hatırlatıyor, ama hiç de bıktırmadan",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Müzeleri sabah erken ziyaret et",
+    "Lampredottoya bütçen izin veriyorsa dene",
+    "Oltrarno'ya geç"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Floransa küçük bir şehir — tarihi merkezi yürüyerek gezilebilecek boyutta. İçinde Botticelli, Michelangelo, Leonardo, Brunelleschi; Uffizi, Accademia, Bargello; her köşede bir kilise, her kilisede bir fresk. Bu yoğunlukla baş etmenin tek yolu öncelik belirlemek: her şeyi tek bir anda görmeye çalışırsan hiçbirini gerçekten göremezsin. Floransa'nın toz rengi taş binaları, dar sokakları, sabah pazarları ve akşam aperitivosu başka hiçbir şehirde bu formülle bir araya gelmiyor. Arno Nehri şehri ikiye bölüyor; karşı yakada Oltrarno mahalleleri, turistlerin büyük bölümünün geçmediği, atölyelerin ve yerel barların devam ettiği gerçek Floransa hayatı.",
+      "local_word": {
+        "pronunciation": "ku-CHI-na PO-ve-ra",
+        "definition": "Yoksulların mutfağı. Floransa'nın en iyi yemekleri buradan çıkmış: lampredotto (inek işkembesi), ribollita (bayat ekmek çorbası), pappa al pomodoro (domates-ekmek lapası). Ucuz malzeme, uzun pişirme süresi, derin lezzet. Bistecca alla Fiorentina pahalı ve gösterişli — cucina povera ise şehrin gerçek yüzü.",
+        "word": "Cucina povera"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Rezervasyon olmadan Uffizi'ye girme",
+          "description": "Uffizi ve Accademia (Michelangelo'nun Davut heykeli) Floransa'nın en çok ziyaret edilen müzeleri. Kapıda kuyruk saatlerce sürebilir, hatta içeri giremeyebilirsin. Resmi web sitelerinden önceden bilet al — ek ücret var ama kuyrukta kaybedilen zaman ve enerjiye değer. Sabahın ilk saatleri (09:00-10:00) en az kalabalık dönem."
+        },
+        {
+          "number": 2,
+          "title": "Tuscan ekmek tuzsuz — buna hazır ol",
+          "description": "Pane sciocco (tuzsuz ekmek) Toskana'ya özgü, yüzyıllık bir gelenek. İlk ısırıkta garip gelebilir. Ama salamlı, peynirli veya şişe soslara batırdığında anlamlı hale geliyor — yanındaki yemeğin tuzunu emmek için tasarlanmış. Tek başına yenmesi için değil. Buna karşın schiacciata (tuzlu, zeytinyağlı düz ekmek) tuzlu ve lezzetli."
+        },
+        {
+          "number": 3,
+          "title": "Gelato'nun gerçeğini tanı",
+          "description": "Büyük vitrinlerde yüksek tepeli, neon renkli gelato turist tuzağı. Gerçek iyi gelato ise tam tersi görünüyor: sade, mütevazı, doğal renkli. Antep fıstığının gerçeği yeşil değil sarımsı, çilek kırmızı değil pembemsi. Çünkü boya yok, yapay değil ve renk sadece doğal malzemeden geliyor."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "FLR — Amerigo Vespucci",
+          "sub": "T2 tramvayı ile Santa Maria Novella'ya ~25 dk · 1,70€"
+        },
+        {
+          "icon": "🚌",
+          "label": "Ulaşım",
+          "value": "Autolinee Toscane — otobüs ve tramvay",
+          "sub": "Tek biniş 1,70€ · 90 dakika geçerli · tabacchi'den al"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Hava",
+          "value": "Akdeniz iklimi — yaz sıcak ve kalabalık",
+          "sub": "Nis–Haz ve Eyl–Eki ideal · Tem–Ağu çok sıcak · Ara–Şub soğuk"
+        },
+        {
+          "icon": "🥩",
+          "label": "Yemek",
+          "value": "Bistecca, lampredotto, ribollita, gelato",
+          "sub": "Trattoria'da öğle: 12-18€ · lampredotto sandviçi: 4-5€"
+        }
+      ],
+      "tip": {
+        "label": "Piazzale Michelangelo — gün batımı için git ama erken git",
+        "text": "Floransa'nın en ünlü seyir terası. Duomo, Ponte Vecchio ve şehrin tamamı panoramik görünüyor. Kendine iyi bir yer bulmak için gün batımından 45 dakika önce git. Yürüyerek çıkılabilir (Ponte Vecchio'dan yaklaşık 20 dakika) veya 13 numaralı otobüsle. Girişi ücretsiz.",
+        "type": "tip"
+      },
+      "title": "Floransa'ya Hoş Geldin"
+    },
+    "transport": {
+      "intro": "Floransa küçük ve tarihi merkezi yürüyerek gezilebilir. Otobüs ve tramvay ikinci seçenek, taksi pahalı.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanı → Şehir",
+          "description": "T2 Vespucci tramvayı havalimanından Santa Maria Novella tren istasyonuna yaklaşık 25 dakikada ulaştırıyor. Her 5 dakikada bir sefer, bilet 1,70 euro. Şubat 2025'ten itibaren hat Piazza San Marco'ya kadar uzatıldı. Taksi sabit fiyat yaklaşık 22-25 euro. Tramvay açık ara en pratik seçenek."
+        },
+        {
+          "icon": "🚌",
+          "title": "Autolinee Toscane — otobüs ağı",
+          "description": "Şehir içi otobüsler ve tramvay aynı bilet sistemiyle çalışıyor. Tek biniş 1,70 euro, 90 dakika geçerli, aktarma serbest. Biletler tabacchi (tütüncü) dükkanlarından, otobüs duraklarındaki makinelerden veya tramvay duraklarından alınıyor. Otobüse bindikten sonra bilet alamazsın. Bu yüzden biletini önceden al ve binerken mutlaka makineden onaylat. Temassız kredi kartıyla da doğrudan 1,70 euro ödeme yapılabiliyor."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tramvay — T1 ve T2",
+          "description": "T1 hattı Scandicci'den Santa Maria Novella'ya, T2 hattı Vespucci Havalimanı'ndan Santa Maria Novella üzerinden Piazza San Marco'ya gidiyor. İkisi de şehir merkezine erişim için kullanışlı. Bilet otobüsle aynı, 1,70 euro."
+        },
+        {
+          "icon": "🚲",
+          "title": "Bisiklet ve scooter",
+          "description": "Floransa'nın tarihi merkezi büyük ölçüde yayaya açık — araçlar kısıtlı. Bisiklet kiralama seçenekleri var ama dar ve kalabalık sokaklarda dikkatli olmak gerekiyor. Arno kıyısı boyunca bisiklet dostu. Elektrikli scooter paylaşım uygulamaları çalışıyor."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürüyüş — en iyi seçenek",
+          "description": "Duomo'dan Uffizi 10 dakika, Ponte Vecchio 15 dakika, Santa Croce 15 dakika, Mercato Centrale 10 dakika. Tarihi merkez neredeyse tamamıyla yürüyerek gezilebilir. Oltrarno'ya geçmek için Ponte Vecchio veya diğer köprülerden yürüyerek 5 dakika."
+        }
+      ],
+      "callout": {
+        "label": "ZTL — arabayla tarihi merkeze girme",
+        "text": "Floransa'nın tarihi merkezi ZTL (Zona a Traffico Limitato) bölgesi — yani araç trafiğine kısıtlı alan. İzinsiz giren araçlar otomatik kameralarla tespit ediliyor ve yüksek ceza kesiyor. Kiralık araçla geldiysen, otel dışında park etme ve tarihi merkeze girme. Otel konseyi aracılığıyla izin alınabiliyor ama bu süreç karmaşık. En iyi çözüm tarihi merkezin dışında park etmek.",
+        "type": "tip"
+      },
+      "title": "Şehirde Ulaşım"
+    },
+    "stay": {
+      "intro": "Floransa'da konum önemli — tarihi merkez her şeye yakın ama pahalı, Oltrarno daha yerel ve uygun fiyatlı.",
+      "local_word": {
+        "pronunciation": "ol-TRAR-no",
+        "definition": "Arno'nun öte yakası. Ponte Vecchio'dan geçip karşıya geçtiğinde Oltrarno başlıyor. Turistlerin büyük bölümü bu yakayı es geçiyor — Pitti Sarayı ve Boboli Bahçeleri için gelenler dışında. Atölyeler, küçük restoranlar, mahalle barları ve sanatçı stüdyoları bu tarafta. Floransa'nın daha sakin ve daha yaşayan yüzü.",
+        "word": "Oltrarno"
+      },
+      "items": [
+        {
+          "name": "Centro Storico — tarihi merkez",
+          "badge": "En merkezi",
+          "badge_type": "hot",
+          "description": "Duomo, Uffizi, Ponte Vecchio, Mercato Centrale hepsi yürüme mesafesinde. Her şeye en yakın nokta ama aynı zamanda en kalabalık ve en pahalı. Sabah erken saatlerde ve akşam geç saatlerde sokaklar görece sakinleşiyor. Konaklama bütçen varsa en rahat seçenek bu.",
+          "tags": [
+            "Her şeye yürüme mesafesi",
+            "En kalabalık",
+            "En pahalı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo+Florence"
+        },
+        {
+          "name": "Oltrarno",
+          "badge": "En yerel",
+          "badge_type": "local",
+          "description": "Ponte Vecchio'nun karşı yakasında. Pitti Sarayı, Boboli Bahçeleri ve Bardini Bahçeleri bu tarafta. Santo Spirito meydanı akşamları dolup taşıyor. Atölyeler, butik restoranlar ve mahalle barları burada. Tarihi merkeze yürüyerek 10-15 dakika. Fiyatlar biraz daha uygun, atmosfer çok daha yerel.",
+          "tags": [
+            "Santo Spirito meydanı",
+            "Pitti Sarayı",
+            "Yerel mahalle hayatı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Oltrarno+Florence"
+        },
+        {
+          "name": "Santa Croce mahallesi",
+          "badge": "En dengeli",
+          "badge_type": "hot",
+          "description": "Santa Croce Bazilikası'nın çevresinde. Tarihi merkezin doğu yakasında, Uffizi'ye yürüyerek 15 dakika. Turistik baskı merkezden biraz daha az. Sant'Ambrogio Pazarı bu mahallede — yerel halkın sabah alışveriş yeri. Akşamları Piazza Santa Croce çevresinde canlı.",
+          "tags": [
+            "Sant'Ambrogio Pazarı",
+            "Santa Croce Bazilikası",
+            "Biraz daha sakin"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Croce+Florence"
+        },
+        {
+          "name": "San Lorenzo mahallesi",
+          "badge": "En pazar yeri",
+          "badge_type": "local",
+          "description": "Mercato Centrale ve San Lorenzo Pazarı'nın çevresinde. Sabahları en canlı mahalle. Medici Şapelleri ve Laurentian Kütüphanesi burada. Günün erken saatlerinde pazar tezgahları ve yerel kafeler aktif. Öğleden sonra sakinleşiyor.",
+          "tags": [
+            "Mercato Centrale",
+            "San Lorenzo Pazarı",
+            "Sabah pazarı kültürü"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Lorenzo+Florence"
+        },
+        {
+          "name": "Santa Maria Novella yakını",
+          "badge": "Tren istasyonuna yakın",
+          "badge_type": "hot",
+          "description": "Floransa'nın ana tren istasyonu olan SMN'ye yürüme mesafesinde. Havalimanı tramvayı (T2) buradan geçiyor. Günübirlik Toskana gezileri için pratik — Siena, San Gimignano, Cinque Terre trene yakın. Tarihi merkeze yürüyerek 10 dakika.",
+          "tags": [
+            "SMN tren istasyonu",
+            "T2 tramvay",
+            "Günübirlik geziler için pratik"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Maria+Novella+Florence"
+        }
+      ],
+      "title": "Nerede Kalmalı"
+    },
+    "best_time": {
+      "intro": "Floransa yıl boyu ziyaret edilebilir ama yaz aylarında kalabalık ve sıcaklık zirveye çıkıyor.",
+      "items": [
+        {
+          "label": "İlkbahar",
+          "name": "En iyi dönem",
+          "months": "Nis – May",
+          "description": "Nisan ve Mayıs Floransa'nın en dengeli dönemi. Havalar ılık, turistler var ama yaz kalabalığından uzak. Bardini Bahçeleri'nde wisteria (mor salkım) Nisan ortasından Mayıs başına kadar tam çiçekte.",
+          "callout": {
+            "label": "Bardini Bahçeleri'nde wisteria — Nisan ortası",
+            "text": "Oltrarno'da, Forte di Belvedere'nin yanında. Uzun mor salkım tünelleri Nisan ortasından Mayıs başına kadar açıyor — her yıl biraz değişiyor, sosyal medyadan takip et. Boboli'ye göre çok daha sakin. Tepeden Floransa panoraması ücretsiz, bahçe girişi biletli. Sabahın erken saatlerinde en az kalabalık.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "İlkbahar · Wisteria, ılık hava, makul kalabalık"
+        },
+        {
+          "label": "Yaz",
+          "name": "Sıcak ve kalabalık",
+          "months": "Haz – Ağu",
+          "description": "Temmuz ve Ağustos en kalabalık ve en sıcak aylar — 35-38°C normal. Müzeler, köprüler ve meydanlar turist dolu. Rezervasyon olmadan hiçbir yere giremeyebilirsin. Ama Floransa kışın uykuya çekmiyor: akşam aperitivo kültürü, açık hava etkinlikleri ve Arno kıyısındaki barlar bu mevsimde en canlı. Sabah 08:00'den önce ve akşam 20:00'den sonra şehir nispeten sakin.",
+          "callout": {
+            "label": "Estate Fiesolana — yaz boyunca açık hava etkinlikleri",
+            "text": "Floransa'nın hemen üzerindeki tepede Fiesole kasabasında yaz boyunca konserler, tiyatro ve film gösterimleri. Antik Roma tiyatrosunda müzik dinlemek başka bir deneyim. Floransa'dan 7 numaralı otobüsle 30 dakika. Etkinlik takvimi için oratoriodellagiostra.com veya estatefiesolana.it kontrol edilebilir.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Yaz · 35°C üzeri, müzeler tıklım tıklım"
+        },
+        {
+          "label": "Sonbahar",
+          "name": "İkinci en iyi dönem",
+          "months": "Eyl – Kas",
+          "description": "Eylül ve Ekim kalabalığın azaldığı, havanın hâlâ ılık olduğu dönem. Chianti bölgesinde üzüm hasatı Eylül-Ekim'de başlıyor — Floransa'dan günübirlik Chianti turu ideal. Trattorialar yeni mevsim menüleriyle açılıyor: mantar, av eti, kestane. Kasım'dan itibaren yağmur artıyor ama müzeler neredeyse boş.",
+          "callout": {
+            "label": "Chianti bölgesi — sonbaharın en iyi kaçışı",
+            "text": "Floransa'nın hemen güneyinde, arabayla 30-45 dakika. Greve in Chianti, Radda, Gaiole — küçük kasabalar, şarap mahzenleri, zeytinlikler. Eylül-Ekim'de bağbozumu dönemi: birçok çiftlik ziyaretçilere açık, şarap tadımı ve taze üzüm. Arabasız gitmek için Floransa'dan düzenli otobüs seferleri var. Tam gün plan yap.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Sonbahar · Yaz kalabalığı azaldı, şarap hasatı başladı"
+        },
+        {
+          "label": "Kış",
+          "name": "Müzeler boş, şehir sakin",
+          "months": "Ara – Şub",
+          "description": "Aralık'ta Noel pazarları ve ışıklar şehri canlandırıyor. Ocak ve Şubat Floransa'nın en sakin dönemi — müzeler neredeyse boş, Uffizi kuyruğu yok, trattorialar rezervasyonsuz girilebilir. Soğuk var ama kar nadir. Şubat sonunda Carnevale dönemi: geleneksel maskeler, etkinlikler. Schiacciata alla Fiorentina (Karnaval pastası) bu dönemde fırınlarda.",
+          "callout": {
+            "label": "Schiacciata alla Fiorentina — Karnaval pastası",
+            "text": "Floransa'ya özgü yumuşak, hafif süngerpasta, portakal kabuğu aromalı ve pudra şekerli — üzerinde Floransa'nın arması olan zambak (giglio) işlenmiş. Karnaval döneminde (Ocak sonu-Şubat) fırınlarda ve pastanelerde. Yıl boyunca da bazı yerlerde bulunabilir ama bu dönemde en taze ve yaygın. Trattorialarda dessert olarak da sunuluyor.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Kış · En az kalabalık, en ucuz fiyatlar"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "Paskalya",
+          "text": "Scoppio del Carro: Duomo önünde 'arabanın patlaması' — mekanik güvercinle ateşlenen havai fişek yüklü tarihi araba, yüzyıllardır aynı ritüel."
+        },
+        {
+          "month": "24 Haziran",
+          "text": "San Giovanni: şehrin koruyucu azizi günü — calcio storico finali (tarihi kostümlü rugby-güreş karışımı) ve gece Arno üstünde havai fişek."
+        },
+        {
+          "month": "Eylül–Ekim",
+          "text": "Bağbozumu: Chianti tepeleri hasat telaşında; şehirde yeni şarap, yarım günlük bağ turları en keyifli halinde."
+        },
+        {
+          "month": "Kasım–Şubat",
+          "text": "Sakin sezon: kuyruklar kısa, oteller ucuz, trattoria'lar yerlilere kalmış — ribollita mevsimi tam da budur."
+        }
+      ],
+      "title": "Ne Zaman Gitmeli"
+    },
+    "eat": {
+      "intro": "Floransa İtalya'nın en iyi mutfaklarından birine ev sahipliği yapıyor — ama gösterişsiz. Bistecca pahalı, lampredotto ucuz, ikisi de Floransalı.",
+      "local_word": {
+        "pronunciation": "bis-TEK-ka al-la fyo-ren-TEE-na",
+        "definition": "Chianina ırkı sığırdan kesilmiş dev T-bone biftek. En az 1,5 kilo, kömür ateşinde pişirilir, içi pembe-kırmızı servis edilir — pişmiş istersen başka bir şehre git derler. Sadece zeytinyağı, kaya tuzu ve taze biberle yenir. Kilo üzerinden satılır, pahalıdır, ama paylaşılarak yenir. Floransa'da en az bir kez yemek şart.",
+        "word": "Bistecca alla Fiorentina"
+      },
+      "items": [
+        {
+          "icon": "🥩",
+          "name": "Bistecca alla Fiorentina",
+          "description": "Dev T-bone biftek, Chianina sığırından, kömürde pişirilmiş, içi kırmızı. Kilo başına 45-60 euro arasında — iki kişiyle paylaşılır. 'Al sangue' (kanlı) olmak zorunda; 'ben iyi pişmiş isterim' dersen sert bakarlar. Bunu kabul edebiliyorsan Floransa'nın en ikonik deneyimlerinden biri. Bunu yemek için gelen Floransalılar Trattoria Mario, Buca Mario veya Il Latini gibi yerleri tercih eder.",
+          "tag": "Kilo başına 45-60€ · iki kişilik · içi kırmızı servis edilir",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria+Mario+Florence"
+        },
+        {
+          "icon": "🥪",
+          "name": "Lampredotto sandviçi",
+          "description": "İneğin dördüncü midesinden yapılan, haşlanmış, dilimlenmiş ve sıradan bir semmel ekmeğe konulan sokak yemeği. Üzerine yeşil maydanoz sosu (salsa verde) ve acı sos. 'Bagnato' iste — ekmeğin üst kısmını et suyuna batırıyorlar, ekmek ıslanıyor, bu kritik fark. 4-5 euro. Mercato Centrale veya Sant'Ambrogio Pazarı'nın tezgahlarında. Denersin ya seversin ya sevmezsin, ama denemeden Floransa bitmez.",
+          "tag": "Mercato Centrale veya Sant'Ambrogio · 4-5€ · 'bagnato' iste",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Da+Nerbone+Florence"
+        },
+        {
+          "icon": "🍲",
+          "name": "Ribollita",
+          "description": "Beyaz fasulye, kara lahana (cavolo nero), havuç, kereviz ve bayat Toskana ekmeğiyle yapılan kalın çorba. İkinci gün daha lezzetli olduğu için adı 'tekrar kaynatılmış'. Kış yemeği — Ekim'den Mart'a. Trattorialarda günlük spesyal olarak çıkıyor. Ucuz ve doyurucu: 8-12 euro.",
+          "tag": "Kış ayları · trattorialarda günlük spesyal · 8-12€",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria+La+Casalinga+Florence"
+        },
+        {
+          "icon": "🥪",
+          "name": "Schiacciata sandviçi",
+          "description": "Zeytinyağlı ve tuzlu Toskana düz ekmeği (schiacciata), içine prosciutto, pecorino peyniri veya ızgara sebzeler doldurulmuş. Floransa'nın öğle arası yemeği: hızlı, uygun fiyatlı, ayakta yenir. Forno Sartoni ve diğer fırınlarda sabahtan itibaren taze. Şehrin tütüncü dükkanlarından ve fırınlardan alınan bu ekmek, bisteccanın yanında mütevazı ama çok daha sık tüketilen Floransa lezzeti.",
+          "tag": "Fırınlar ve şarküteriler · öğle arası · 4-7€",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=All%27Antico+Vinaio+Florence"
+        },
+        {
+          "icon": "🍨",
+          "name": "Gerçek gelato",
+          "description": "Metal kaplarda, üstü düz, renkleri doğal: fıstık sarımsı-kahve, çilek soluk pembe, muz sarı. Bunlar gerçek. Plastik kaplar, neon renkler, yüksek tepeler — bunlar turist tuzağı. Gelateria dei Neri, Gelateria della Passera (Oltrarno), Bonchi. Bir top 1,50-2,50 euro arasında — gözünü korkutuyorsa yanlış yerdeydin.",
+          "tag": "Gelateria dei Neri veya Oltrarno'dakiler · 1,50-2,50€ top",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gelateria+La+Carraia+Florence"
+        },
+        {
+          "icon": "🍷",
+          "name": "Aperitivo kültürü",
+          "description": "Saat 18:00-20:00 arası İtalya'nın en keyifli alışkanlığı. Bir Negroni veya Aperol Spritz söyle — yanında küçük atıştırmalıklar geliyor. Bazı barlarda aperitivo'ya dahil büfe var. Oltrarno'daki barlar, Santo Spirito meydanı çevresi ve San Niccolò sokağı bu ritüel için en doğru adresler. Akşam yemeğine hazırlık, sosyalleşme, duraklama.",
+          "tag": "Saat 18:00-20:00 · Oltrarno ve Santo Spirito · Negroni veya Spritz",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazza+Santo+Spirito+Florence"
+        }
+      ],
+      "callout": {
+        "label": "Mercato Centrale — sabahın en iyi saatleri",
+        "text": "San Lorenzo'nun hemen yanında, iki katlı demir-cam yapı. Alt kat gıda pazarı: kasap, balıkçı, peynirci, manav — sabah 07:00'den öğleden sonraya kadar. Üst katta farklı tezgahlardan pasta, pizza, lampredotto, bistecca alabilirsin. Turistik ancak deneyimlemeye değer. Alt kat yerel ve gerçek. Sabahın erken saatlerinde alt kata in ve tadını çıkar. Yorulunca soluklanmak için ise üst kat.",
+        "type": "tip"
+      },
+      "title": "Ne Yemeli"
+    },
+    "hidden_gems": {
+      "intro": "Floransa'nın en sakin ve en beklenmedik köşeleri çoğunlukla ünlü müzelerin gölgesinde kalıyor.",
+      "items": [
+        {
+          "name": "Bargello Müzesi",
+          "description": "Via del Proconsolo'da, Uffizi'ye yürüyerek 5 dakika. Rönesans heykelinin en önemli koleksiyonu burada: Donatello'nun Davut'u, Michelangelo'nun erken dönem eserleri, Ghiberti ve Verrocchio. Uffizi'nin on binde birini çeken ziyaretçi sayısıyla. İlk katlı avlu — öğleden sonra ışık içinden geçtiğinde — Floransa'nın en güzel ve en sessiz mekanlarından biri. Sabah 08:30'da aç, öğlene kadar çoğu zaman sakin.",
+          "rarity": "Uffizi kalabalığından kaçış — Bargello'nun sessizliği",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bargello+Florence"
+        },
+        {
+          "name": "Laurentian Kütüphanesi",
+          "description": "San Lorenzo Bazilikası'nın üst katında, ayrı biletli bir bölüm. Michelangelo'nun tasarladığı giriş holü ve içindeki dalgalı merdiven — Maniyerizm'in en erken örneklerinden biri. Yaklaşık 11.000 Medici el yazması koleksiyonu burada. Pazartesi-Cumartesi 10:00-13:00 açık.",
+          "rarity": "Michelangelo'nun kütüphanesi — ve o merdiven",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca+Medicea+Laurenziana+Florence"
+        },
+        {
+          "name": "Caffetteria delle Oblate",
+          "description": "Via dell'Oriuolo'da, Duomo'ya yürüyerek 3 dakika. Belediye kütüphanesinin çatı katında küçük bir kafeterya. Kahven ya da aperitivonun yanında Duomo'nun arka cephesi ve şehir panoraması önünde. Oturma yeri az, önceden kontrol et. Kütüphane serbesttir — içeride de oturulabilir. Turistlerin büyük bölümü adresini bilmiyor.",
+          "rarity": "Kafeteryadan daha iyi bir Duomo manzarası — ve kitaplık",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Caffetteria+delle+Oblate+Florence"
+        },
+        {
+          "name": "Piazza Santo Spirito",
+          "description": "Oltrarno'da, Ponte Vecchio'dan 15 dakika yürüyüş. Gündüzleri sade bir meydan — ama akşam 18:00'den sonra Floransalılar burada toplanıyor. Çevresi bar ve osteria dolu, merkezde çeşme, basamaklarda oturan insanlar. Pazartesi hariç her sabah küçük pazar var. Pazar günleri organik ve el işi pazarı. Turistik baskının çok azaldığı bu meydan, şehrin sosyal dokusunu en iyi anlatan yerlerden biri.",
+          "rarity": "Santo Spirito — akşam Floransa'nın gerçek meydanı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazza+Santo+Spirito+Florence"
+        },
+        {
+          "name": "San Miniato al Monte",
+          "description": "Piazzale Michelangelo'nun hemen üzerinde, 10 dakika yürüyüş daha. 11. yüzyıldan kalma bazilika, şehrin üzerinde. Ziyaretçi sayısı Piazzale'nin onda biri. İçerideki Toskana mermer zemin ve apse mozaiği Floransa'nın en az bilinen sanat hazinelerinden. Günbatımından önce git: önce San Miniato, sonra aşağı Piazzale'ye. Her ikisi de ücretsiz.",
+          "rarity": "Brunelleschi'nin kubbesine en yakın ve en az kalabalık bakış açısı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Miniato+al+Monte+Florence"
+        },
+        {
+          "name": "Ponte Vecchio'nun tüccarları",
+          "description": "Ortaçağ'dan kalma kuyumcu dükkanlarıyla dolulu bu köprü bugün mücevher satıcılarıyla kaplı — alışveriş için değil, mimarisi için git. Sabah 07:30-08:30 arasında dükkanlar açılmadan önce köprü neredeyse boş. Bu saatte üzerinde durabilir, Arno'yu seyredebilir ve aynı zamanda Vasari Koridoru'nun köprünün üstünden geçişini görebilirsin. Köprünün ortasındaki boşluğa dikkat: burası özellikle açık bırakılmış, büst ve Arno manzarası için.",
+          "rarity": "Arno'nun üzerinden geçerken içi dolu olan tek köprü",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ponte+Vecchio+Florence"
+        }
+      ],
+      "callout": {
+        "label": "Sant'Ambrogio Pazarı — Mercato Centrale'ye alternatif",
+        "text": "Santa Croce mahallesinde, Piazza Sant'Ambrogio'da. Daha küçük, daha az turistik, daha yerel. Taze sebze, meyve, peynir, et. İçeride küçük trattoria tezgahları — öğle yemeği için lampredotto veya günlük spesyal. Sabah 07:00-14:00 arası. Pazar kapalı. Mercato Centrale'ye göre çok daha az kalabalık ve çok daha gerçek.",
+        "type": "tip"
+      },
+      "title": "Gizli Köşeler"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Uffizi için önceden bilet al",
+          "sub": "uffizi.it adresinden. Kapıda kuyruk saatlerce sürebilir. Sabah 09:00'daki ilk girişi seç — en az kalabalık dönem."
+        },
+        {
+          "label": "Lampredotto sandviçi dene",
+          "sub": "Mercato Centrale veya Sant'Ambrogio Pazarı. 4-5 euro. 'Bagnato' iste — ekmeğin üstü et suyuna batırılsın. Ayakta ye."
+        },
+        {
+          "label": "Oltrarno'ya geç",
+          "sub": "Ponte Vecchio'dan yürüyerek karşıya geç. Santo Spirito meydanında otur. Akşam 18:00'den sonra en canlı hali."
+        },
+        {
+          "label": "Bargello Müzesi'ne git",
+          "sub": "Via del Proconsolo. Uffizi'ye 5 dakika. Donatello'nun Davut'u burada. Genellikle kuyruksuz."
+        },
+        {
+          "label": "Gerçek gelato bul",
+          "sub": "Metal kaplar, doğal renkler, düz ya da hafif çukur üst. Gelateria dei Neri veya Oltrarno'dakiler. 1,50-2,50€ top."
+        },
+        {
+          "label": "Piazzale Michelangelo'ya gün batımında git",
+          "sub": "45 dakika önce var. 13 numaralı otobüs veya Ponte Vecchio'dan 20 dk yürüyüş. Yanında bir şeyler al — oradaki barlar pahalı."
+        },
+        {
+          "label": "San Miniato al Monte'ye çık",
+          "sub": "Piazzale Michelangelo'nun üzerinde, 10 dakika daha. 11. yüzyıl bazilikası. Ücretsiz. Piazzale'den çok daha sakin."
+        },
+        {
+          "label": "Aperitivo yap — Oltrarno'da",
+          "sub": "Saat 18:00-20:00. Santo Spirito veya San Niccolò sokağı. Negroni veya Spritz. Yanında atıştırmalık gelir."
+        },
+        {
+          "label": "Mercato Centrale'ye sabah erkenden gir",
+          "sub": "Alt kat — gıda pazarı. Sabah 07:00'den itibaren. Üst kat pahalı; alt kat yerel ve gerçek."
+        },
+        {
+          "label": "Ponte Vecchio'yu sabah erken geç",
+          "sub": "07:30-08:30 arası dükkanlar kapalı. Köprü neredeyse boş. Arno manzarası ve Vasari Koridoru görünüyor."
+        },
+        {
+          "label": "Schiacciata sandviçini dene",
+          "sub": "Herhangi bir fırında. Zeytinyağlı düz ekmek, içinde prosciutto veya peynir. 4-7 euro. Öğle arası yemeği."
+        },
+        {
+          "label": "Bistecca paylaş",
+          "sub": "En az iki kişiyle. Kilo başına 45-60€. 'Al sangue' — içi kırmızı olacak. Trattoria Mario veya benzer yerlerde."
+        }
+      ],
+      "title": "Floransa Checklist",
+      "completion_message": "Floransa'yı listeden değil, gözünden gördün."
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Floransa küçük ve turist yoğun; tuzaklar da o oranda sık. Bu dördünü bil, Rönesans'ı huzurla gez.",
+      "items": [
+        {
+          "icon": "🎟️",
+          "name": "Sokakta 'kuyruksuz Uffizi' satıcıları",
+          "description": "Müze çevresinde dolaşan 'skip-the-line' satıcıları resmi biletin katbekat fazlasını ister; bazı biletler kapıda geçersiz çıkar.",
+          "instead": "Bileti yalnızca resmi siteden tarihli-saatli al; en sakin saatler kapının açıldığı an ve kapanıştan iki saat öncesi."
+        },
+        {
+          "icon": "👜",
+          "name": "San Lorenzo tezgahlarında 'gerçek deri'",
+          "description": "'Vera pelle' etiketli her ürün gerçek değildir; turist tezgahlarında yapıştırma taban ve suni deri boldur.",
+          "instead": "Ateş testi isteme gerek yok: dikişe ve kokuya bak, Scuola del Cuoio gibi atölyelerden ya da köklü dükkanlardan al."
+        },
+        {
+          "icon": "🥩",
+          "name": "Fotoğraflı menüde 'sabit fiyat bistecca'",
+          "description": "Gerçek bistecca alla fiorentina etto (100 gr) ile satılır ve kanlı servis edilir; 'tabak fiyatına' bistecca vaadi inceltilmiş hayal kırıklığıdır.",
+          "instead": "Fiyatı etto üzerinden soran yere git, az pişmişi kabul et; iki kişilik paylaşım zaten geleneğin kendisi."
+        },
+        {
+          "icon": "🚌",
+          "name": "Piazzale Michelangelo'ya otobüs saatinde çıkmak",
+          "description": "Günbatımına yarım saat kala teras otobüs kafileleriyle dolar; manzara güzel, deneyim itiş kakış.",
+          "instead": "On dakika daha tırman: San Miniato al Monte'nin merdivenlerinde aynı manzara, üstüne keşiş ilahileri — ve nefes alacak yer."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Floransa'da nehrin karşısına geç: Oltrarno'da fiyatlar iner, zanaat gerçekleşir, masalarda Floransalılar oturur. Turist merkezi vitrindir, şehir atölyededir."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Kubbe, Davut ve Oltrarno akşamı",
+          "steps": [
+            {
+              "time": "08:15",
+              "title": "Duomo kubbesine tırmanış",
+              "description": "İlk seansı haftalar önceden ayırt: 463 basamak, Brunelleschi'nin mucizesi ve kahvaltı öncesi hak edilmiş bir manzara."
+            },
+            {
+              "time": "10:30",
+              "title": "Uffizi — seçerek",
+              "description": "Botticelli, Leonardo, Caravaggio: üç salon hedefle, iki saatte çık. Hepsini görmeye çalışan hiçbir şey görmez."
+            },
+            {
+              "time": "13:00",
+              "title": "Lampredotto molası",
+              "description": "Nerbone ya da bir sokak tezgahından lampredotto: Floransa'nın işçi klasiği, cesaretin ödülü lezzet."
+            },
+            {
+              "time": "15:00",
+              "title": "Ponte Vecchio + Oltrarno atölyeleri",
+              "description": "Köprüyü geç, kuyumcu vitrinlerinden zanaat sokaklarına dal: ciltçiler, marangozlar, restoratörler."
+            },
+            {
+              "time": "18:00",
+              "title": "San Miniato günbatımı",
+              "description": "Piazzale'nin üstündeki bin yıllık bazilikaya tırman; şehir altın yaldız gibi yanarken keşişler ilahiye başlar."
+            },
+            {
+              "time": "20:30",
+              "title": "Santo Spirito akşamı",
+              "description": "Meydanda aperitivo, sonra bistecca ya da ribollita: masalar sokakta, hayat meydanda."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehri turist gibi değil, misafir gibi yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "İkonlar",
+              "description": "Yukarıdaki 1 günlük akış: kubbe, Uffizi, Oltrarno, San Miniato."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Davut ve Medici'ler",
+              "description": "Sabah Accademia'da Davut (ilk seans), sonra Laurentian Kütüphanesi'nin Michelangelo merdiveni, öğleden sonra Bargello'nun avlusu, akşam San Lorenzo çevresinde trattoria."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Yavaş Floransa ve veda",
+              "description": "Sabah Boboli veya Bardini bahçeleri, öğlen Sant'Ambrogio pazarında yerlilerle yemek, öğleden sonra Oblate terasında kubbe manzaralı kahve, akşam son gelato — gerçek olanından."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "İtalyanca nezaket üçlüsü artı iki Floransa dokunuşu; bu beşle her kapı açılır.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "buoncorno",
+          "meaning": "Günaydın / iyi günler — dükkana girerken söylemek şart"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "gratsiye",
+          "meaning": "Teşekkürler — kısa, net, her zaman"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "per favore",
+          "meaning": "Lütfen — siparişin sonuna ekle"
+        },
+        {
+          "word": "Salute!",
+          "pronunciation": "salute",
+          "meaning": "Şerefe! — Chianti kadehleri bununla kalkar"
+        },
+        {
+          "word": "Che bello!",
+          "pronunciation": "ke bello",
+          "meaning": "Ne kadar güzel! — Floransa'da günde on kez ihtiyaç duyacağın cümle"
+        }
+      ]
+    }
+  }
+}

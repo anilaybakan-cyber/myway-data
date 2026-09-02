@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Madrid",
+    "country": "İspanya",
+    "language": "tr",
+    "version": "2.1",
+    "color_primary": "#8B1A1A",
+    "color_light": "#F8EAEA",
+    "tagline": "Avrupa'nın en geç uyuyan şehri — saat 02:00'de dışarıda olmak burada açıklama gerektirmiyor",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Öğle yemeğini geç ye, akşamı daha geç",
+    "Tapas bar'da ayakta ye",
+    "El Rastro'ya Pazar sabahı git"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Madrid'e inmeden önce saatin farkını sıfırla. Burada öğle yemeği 14:00'te başlıyor, akşam yemeği 21:30'dan önce neredeyse hiçbir yerde yok ve gece 02:00'de hâlâ sokaklarda insan kalabalığı var. Bu bir abartı değil, Madrid'in gerçek ritmi. Prado'yu gez, Reina Sofía'ya git, Royal Palace'ı ziyaret et — ama bunların hepsini akşam yemeğinden sonra konuşmaya başlarsan Madrileño gibi düşünmeye başlamışsın demek. Metro kafe menüsünden ucuz. Güneş geç batıyor. Tapas ayakta, konuşarak, acelesiz yeniyor.",
+      "local_word": {
+        "pronunciation": "ber-moo-TAY-o",
+        "definition": "Öğle yemeğinden önce yapılan vermutu içme ritüeli. Saat 12:00-14:00 arası barlarda vermutu musluğundan dolduruyorlar, yanına cips, zeytin, bir parça tortilla koyuyorlar. Pazar günleri El Rastro'dan dönerken ya da hafta içi öğle araları. 'Vermut yapalım mı?' sorusu Madrileño'ların en sık kurduğu cümlelerden.",
+        "word": "Vermuteo"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Madrid ritmine gir — yoksa şehir sana kapanır",
+          "description": "Kahvaltı hafif ve erken. Öğle yemeği 14:00-16:00 arası — bu şehrin en önemli yemeği ve en ucuz seçenek: başlangıç, ana yemek ve tatlıdan oluşan tam menü 12-15 euro arası, çoğunlukla içki dahil. Akşam yemeği 21:00'den önce başlama. Gece 23:00'te hâlâ yemek yiyen masalar var. Bu saatlere uyarsan hem ucuz hem de yerel yerlerde yiyorsun."
+        },
+        {
+          "number": 2,
+          "title": "Turistik tuzaklardan kaçın — iki blok yürü",
+          "description": "Plaza Mayor'un etrafındaki restoranlar, Gran Vía'nın büyük bölümü ve Mercado de San Miguel turistik ve pahalı. İki blok yana yürüdüğünde hem fiyatlar düşüyor hem kalite artıyor. Menüde fotoğraf varsa, kapıda davet edici biri duruyorsa veya İngilizce menü çok öne çıkarılmışsa içeri girme."
+        },
+        {
+          "number": 3,
+          "title": "Tapas kültürünü doğru anla",
+          "description": "Madrid'de tapas içkiyle birlikte ücretsiz gelmiyor — bazı barlarda küçük bir şey koyuyorlar ama bu kural değil. Tapas bar'da ayakta ye, birkaç barı gez, her yerde bir şey iç ve ye. İnce, küçük, paylaşılan: croquetas, patatas bravas, boquerones, tortilla dilimi."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "MAD — Adolfo Suárez Madrid-Barajas",
+          "sub": "Metro Line 8 ile Nuevos Ministerios'a ~25 dk · 3€ ek ücret"
+        },
+        {
+          "icon": "🚇",
+          "label": "Metro",
+          "value": "13 hat, 300'den fazla istasyon",
+          "sub": "Tek biniş 1,50-2€ (mesafeye göre) · 10'lu bilet 7,30€"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Hava",
+          "value": "Karasal iklim — aşırı uçlar",
+          "sub": "May–Haz ve Eyl–Eki ideal · Tem–Ağu çok sıcak · Ara–Şub soğuk"
+        },
+        {
+          "icon": "🍷",
+          "label": "Yemek saatleri",
+          "value": "Öğle 14:00–16:00 · Akşam 21:00+",
+          "sub": "Menú del día 12-15€ · bu saatlerin dışında yerler boş"
+        }
+      ],
+      "tip": {
+        "label": "Menú del día — Madrid'in en iyi değeri",
+        "text": "Pazartesi'den Cuma'ya, 14:00-16:00 arası neredeyse her restoranın menú del día'sı var. Başlangıç, ana yemek ve tatlı, ekmek, içki (bira veya şarap) dahil — 12-15 euro. Turistik yerlerde bu fiyat daha yüksek ve kalite genellikle daha düşük. Yan sokaklara gir, İngilizce menü olmayan yerlere bak — orada gerçek menú del día var.",
+        "type": "tip"
+      },
+      "title": "Madrid'e Hoş Geldin"
+    },
+    "transport": {
+      "intro": "Metro her yere gider ama şehir merkezi yürünecek kadar küçük. Taksi mümkün ama gerekli değil.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanı → Şehir",
+          "description": "Metro Line 8 ile Nuevos Ministerios'a 25 dakika, oradan aktarma ile şehir merkezine. Bilet normal metro ücreti artı 3 euro ek ücret — toplamda yaklaşık 5 euro. Havalimanından sabit fiyat taksi 33 euro. T1-T2-T3 terminalleri birbirine bağlı; T4 ayrı, metro ile 10 dakika."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro — şehrin omurgası",
+          "description": "13 hat, 300'den fazla istasyon. Tek biniş 1,50-2 euro arası, mesafeye göre değişiyor. 10'lu bilet (MetroBus) 7,30 euro — hem metroda hem otobüste geçerli. İstasyon makinelerinden önce Multi Kart satın alman gerekiyor (2,50 euro). Sabah 06:00'dan gece 01:30'a kadar çalışıyor."
+        },
+        {
+          "icon": "🚌",
+          "title": "EMT Otobüsleri — gece için",
+          "description": "200'den fazla gündüz hattı, 35 gece hattı (Búho). Gündüz hatları 06:00-23:30 arası. Gece otobüsleri Cibeles'ten dağılıyor — metro kapandıktan sonra tek seçenek. Ödeme kartla doğrudan ya da 10'lu bilet ile."
+        },
+        {
+          "icon": "🚲",
+          "title": "BiciMAD — elektrikli bisiklet",
+          "description": "Şehir genelinde istasyonlarda elektrikli bisiklet paylaşımı. Dakika başına 0,50 euro veya aylık 10 euro sabit tarife. Paseo del Prado, Retiro ve Madrid Río boyunca bisiklet için ideal güzergahlar."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürüyüş — en iyi seçenek",
+          "description": "Şehir merkezi düşündüğünden küçük. Sol'dan La Latina 15 dakika, Malasaña 20 dakika, Chueca 10 dakika. Gece de güvenli. Metroya gerek duymadan tüm gün geçirebilirsin."
+        }
+      ],
+      "callout": {
+        "label": "Turist Kartı mı, 10'lu bilet mi?",
+        "text": "Birkaç gün için 10'lu MetroBus bileti (7,30 euro) çoğunlukla daha mantıklı — hem metroda hem otobüste geçerli, birden fazla kişi kullanabilir. Turist kartı Zone A için günlük 10 euro, haftalık 42 euro — havalimanı dahil sınırsız biniş. 3 günden fazla kalıyorsan ve çok dolaşacaksan turist kartını değerlendir.",
+        "type": "tip"
+      },
+      "title": "Şehirde Ulaşım"
+    },
+    "stay": {
+      "intro": "Madrid'de konum çok önemli — şehir gece yaşıyor ve mahallenin karakteri geceyi doğrudan etkiliyor.",
+      "local_word": {
+        "pronunciation": "BAR-ryo",
+        "definition": "Mahalle. Madrid onlarca barrio'dan oluşuyor ve her birinin ayrı bir kimliği var. Sol-Gran Vía ekseni turistik merkez. La Latina tarihi ve tapas; Malasaña genç ve alternatif; Chueca canlı ve modern; Chamberí sakin ve yerel; Lavapiés çok kültürlü ve sanatçı. Hangi barrio'da kaldığın şehri nasıl hissedeceğini belirliyor.",
+        "word": "Barrio"
+      },
+      "items": [
+        {
+          "name": "La Latina / Lavapiés",
+          "badge": "En tarihsel, en canlı",
+          "badge_type": "local",
+          "description": "La Latina Madrid'in en eski mahallelerinden biri. Cava Baja sokağı boyunca tapas bar'ları ve tarihi tavernalar. Plaza de la Paja ortaçağdan kalma sakin bir meydan. Pazar günleri El Rastro buradan geçiyor. Yanındaki Lavapiés çok kültürlü, sanatçı ve sürekli dönüşen bir mahalle — Mercado de San Fernando burada.",
+          "tags": [
+            "El Rastro Pazar",
+            "Cava Baja tapas",
+            "Tarihi sokaklar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Latina+Madrid"
+        },
+        {
+          "name": "Malasaña",
+          "badge": "En alternatif",
+          "badge_type": "local",
+          "description": "1980'lerin Movida Madrileña hareketi bu mahallede doğdu. Hâlâ o ruhu taşıyor: sokak sanatı, vintage dükkanlar, küçük barlar ve kafeler. Plaza del Dos de Mayo akşamları dolup taşıyor. Kalabalık ama otantik. Gran Vía'ya 10 dakika yürüyüş ama dünyanın öbür yüzü gibi hissettiriyor.",
+          "tags": [
+            "Sokak sanatı",
+            "Vintage dükkanlar",
+            "Gece hayatı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Malasaña+Madrid"
+        },
+        {
+          "name": "Chueca",
+          "badge": "En canlı",
+          "badge_type": "hot",
+          "description": "Renkli, modern ve gece hayatı güçlü. Mercado de San Antón burada — üç katlı, en üstte terasa bakan bir bar. Bodega de la Ardosa 1892'den beri aynı yerde vermutu doğrudan fıçıdan servis ediyor. Malasaña'ya sınır komşusu, birinden diğerine geçmek beş dakika.",
+          "tags": [
+            "Mercado de San Antón",
+            "Bodega de la Ardosa",
+            "Gece hayatı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chueca+Madrid"
+        },
+        {
+          "name": "Chamberí",
+          "badge": "En yerel, en sakin",
+          "badge_type": "local",
+          "description": "Madrid'de yaşayan ve burada kalmak isteyenlerin seçtiği mahalle. Plaza de Olavide etrafında sabah kahvesi içen aileler, gazeteleri paylaşan yaşlı çiftler. Turistik baskı yok. Andén 0 — hayalet metro istasyonu — burada. Şehir merkezine 15-20 dakika yürüyüş.",
+          "tags": [
+            "Plaza de Olavide",
+            "Andén 0",
+            "Sakin mahalle ritmi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chamberí+Madrid"
+        },
+        {
+          "name": "Barrio de las Letras",
+          "badge": "En kültürel",
+          "badge_type": "hot",
+          "description": "Prado ile Puerta del Sol arasında, Lope de Vega ve Cervantes'in yaşadığı mahalle. Calle de las Huertas'ın kaldırımına yazarların alıntıları işlenmiş — yürürken aşağıya bak. Thyssen ve Reina Sofía yürüme mesafesinde. Sabah erken sakinleşiyor — o saatte en güzel hali bu.",
+          "tags": [
+            "Calle de las Huertas alıntıları",
+            "Müzelere yakın",
+            "Edebi tarih"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Barrio+de+las+Letras+Madrid"
+        }
+      ],
+      "title": "Nerede Kalmalı"
+    },
+    "best_time": {
+      "intro": "Madrid karasal iklimde — yaz çok sıcak, kış soğuk, ilkbahar ve sonbahar mükemmel.",
+      "items": [
+        {
+          "label": "İlkbahar",
+          "name": "En iyi dönem",
+          "months": "Nis – Haz",
+          "description": "Nisan'dan Haziran'a Madrid'in en dengeli dönemi. Güneş var ama sıcaklık gezmeye uygun. Retiro Parkı'nın gül bahçesi Rosaleda Mayıs'ta çiçekte. Fiestas de San Isidro Mayıs'ta — Madrid'in en büyük yerel festivali, sokak müzisyenleri, geleneksel kostümler, açık hava konserleri. Quinta de los Molinos'ta badem çiçekleri Mart sonunda.",
+          "callout": {
+            "label": "Fiestas de San Isidro — Mayıs'ın ikinci haftası",
+            "text": "Madrid'in koruyucu azizi San Isidro'nun şeref festivali. Bir hafta boyunca şehir genelinde açık hava konserleri, geleneksel chotis dansı gösterileri, yerel kostümler ve festivaller. Pradera de San Isidro alanı merkez — şehrin güneybatısında, ücretsiz. En özgün yerel festival bu.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "İlkbahar · Şehir açılıyor, kalabalık henüz yok"
+        },
+        {
+          "label": "Sonbahar",
+          "name": "Yaz sonrası nefes",
+          "months": "Eyl – Kas",
+          "description": "Eylül ortasından Kasım'a Madrid yeniden canlanıyor. Müzeler yeni sergiler açıyor, restoranlar yeni menüler sunuyor. Retiro Parkı sonbaharda altın sarısına bürünüyor — hafta içi sabahı en güzel hali. Kalabalık yaz aylarından düşük.",
+          "callout": {
+            "label": "Retiro Parkı — sabahın erken saatleri, hafta içi",
+            "text": "350 hektar, şehrin tam ortasında. Kristal Saray ise tam bir ücretsiz sergi mekanı. Mutlaka göl üzerinde küçük bir tekne kira ve keyfini çıkar. Hafta sonu öğleden sonra çok kalabalık, ancak hafta içi sabah 09:00'da başka bir dünya. Fallen Angel heykeli ise güneydeki küçük tepede ve az ziyaretçili.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Sonbahar · Şehir yaz yorgunluğundan çıkıyor"
+        },
+        {
+          "label": "Yaz",
+          "name": "Sıcak ama şehir uyumuyor",
+          "months": "Tem – Ağu",
+          "description": "Temmuz ve Ağustos Madrid'in en sıcak ayları — 40°C normal. Öğleden sonra 14:00-19:00 arası dışarıda olmak zor. Ama gece hayatı zirveye çıkıyor. Veranos de la Villa: açık hava konserleri, film gösterimleri ve kültürel etkinlikler tüm yaz boyunca. Casa de Campo gölünde piknik. Rooftop barlar bu mevsimde en canlı halinde.",
+          "callout": {
+            "label": "Azoteas — Madrid'in Rooftop barları",
+            "text": "Círculo de Bellas Artes çatısı (5 euro giriş) Gran Vía panoraması sunuyor. Mercado de San Antón'un rooftop barı Chueca'nın üzerinde. Gün batımında şehir silueti ve Gran Vía manzarası için en iyi yer. Yaz aylarında rezervasyon şart.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Yaz · 40°C olabilir ama gece hayatı zirveye çıkıyor"
+        },
+        {
+          "label": "Kış",
+          "name": "Sessiz ama cüzdan dostu",
+          "months": "Ara – Şub",
+          "description": "Aralık'ta Navidad ışıkları Gran Vía'yı kaplamış, 5 Ocak akşamı Reyes Magos büyük geçit töreni. Ocak ve Şubat sessiz — müzeler boş, restoranlar kuyruksuz, oteller ucuz. Cocido madrileño — nohutlu kış güveci — bu ayların yemeği. Soğuk var ama kar nadir.",
+          "callout": {
+            "label": "Reyes Magos — 5 Ocak akşamı",
+            "text": "İspanya'da Noel değil, Üç Kral (Reyes Magos) geleneği asıl. 5 Ocak akşamı Madrid sokaklarında büyük geçit töreni — üç kral ve yüzlerce figür şehir merkezinden geçiyor, kalabalığa şeker atıyor. Yılın en kalabalık gecesi bu. 6 Ocak sabahı çocuklar hediyelerini buluyor.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Kış · Şehir sakinleşiyor, cüzdana dostça"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "15 Mayıs",
+          "text": "San Isidro: şehrin koruyucu azizi haftası — çayırda piknik, chulapo kıyafetleri, konserler ve şotis dansı."
+        },
+        {
+          "month": "Haziran–Ağustos",
+          "text": "Teraza mevsimi: sıcak öğlenler ağır geçer ama akşamları bütün şehir sokakta; gece yarısı bile çocuklar meydanda."
+        },
+        {
+          "month": "Eylül–Kasım",
+          "text": "İdeal sezon: gök masmavi, sıcak kırılmış, kültür takvimi dolu — Madrid gezmenin en tatlı ayları."
+        },
+        {
+          "month": "31 Aralık",
+          "text": "Puerta del Sol'da yılbaşı: saat çanıyla 12 üzüm yeme ritüeli — her çana bir üzüm, yetiştirirsen yıl şanslı geçer."
+        }
+      ],
+      "title": "Ne Zaman Gitmeli"
+    },
+    "eat": {
+      "intro": "Madrid denizden uzak ama deniz ürünleri bu şehrin en iyilerinden. Bu şehir her şeyi barda, ayakta ve telaşsız yiyor.",
+      "local_word": {
+        "pronunciation": "bo-ka-DIL-yo de ka-la-MA-res",
+        "definition": "Kızarmış kalamar doldurulmuş ekmek. Madrid'in sokak yemeği. Plaza Mayor etrafındaki barlarda, özellikle Bar La Campana'da. Açık denizi olmayan bir şehirde, dünyanın en büyük balık pazarlarından MercaMadrid sayesinde taze deniz ürünleri her yerde. Bu sandviç Madrid olmanın özeti: sade, lezzetli, ayakta yenen.",
+        "word": "Bocadillo de Calamares"
+      },
+      "items": [
+        {
+          "icon": "🦑",
+          "name": "Bocadillo de calamares",
+          "description": "Kızarmış kalamar, ekmek arası, limon sıkılmış — hepsi bu. Bar La Campana Plaza Mayor'un hemen arkasında, 1979'dan beri. Kuyruk var ama hızlı ilerliyor. Yanında bir bira, Plaza Mayor'da ayakta ye. Madrid'de 'nereye gideyim' diye düşünmeden önce bunu ye.",
+          "tag": "Bar La Campana, Plaza Mayor arkası · ayakta ye · her gün",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar+La+Campana+Madrid"
+        },
+        {
+          "icon": "🍳",
+          "name": "Huevos rotos",
+          "description": "Kızarmış yumurtalar, çıtır patates, jamón veya chorizo üzerine. Yumurta kırılıyor, sarısı patateslere yayılıyor — buradan geliyor adı. Madrid'e özgü. Casa Lucio ünlü ama kalabalık; aynı yemeği La Latina'nın küçük barlarında bulursun.",
+          "tag": "La Latina barları · öğle ve akşam · paylaşılarak yenir",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Lucio+Madrid"
+        },
+        {
+          "icon": "🥘",
+          "name": "Cocido madrileño",
+          "description": "Nohut, domuz eti, tavuk, morcilla ve sebzelerden yapılan güveç — üç aşamada servis ediliyor. Önce nohut suyu çorbası, sonra sebzeler, sonra etler. Kış yemeği, Kasım'dan Mart'a. Taberna La Bola 1870'ten beri bu yemeği yapıyor. Önceden rezervasyon şart.",
+          "tag": "Kış · öğle yemeği · Taberna La Bola 1870'ten beri · rezervasyon",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Bola+Madrid"
+        },
+        {
+          "icon": "🍟",
+          "name": "Patatas bravas",
+          "description": "Çıtır patates, biri acı (brava) biri sarımsaklı aioli sos ile. Madrid versiyonunda sos patateslerin üzerine dökülüyor. Her tapas bar'ın kendine özgü tarifi var. Docamar şehrin en ünlü patatas bravas barı — Alcalá Caddesi üzerinde.",
+          "tag": "Her tapas barında · Docamar en ünlüsü",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Docamar+Madrid"
+        },
+        {
+          "icon": "🍩",
+          "name": "Churros con chocolate",
+          "description": "Gece 02:00'de bir eğlencenin kapanışında ya da Pazar sabahı uykulu gözlerle. Chocolatería San Ginés 1894'ten beri Puerta del Sol'un hemen yanında. Churros kızgın yağdan çıkmış, çikolata kalın ve koyu. Gece geç saatte burada oturmak Madrid deneyiminin bir parçası.",
+          "tag": "Chocolatería San Ginés · 1894'ten beri · gece geç veya Pazar sabahı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chocolatería+San+Ginés+Madrid"
+        },
+        {
+          "icon": "🍶",
+          "name": "Vermut ritüeli",
+          "description": "Pazar öğlesi El Rastro'dan sonra ya da hafta içi 12:00-14:00. Fıçıdan vermut, yanında zeytin. Bodega de la Ardosa Chueca'da 1892'den beri fıçıdan vermut servis ediyor. Casa Alberto Barrio de las Letras'ta 1827'den beri. Bu sadece içki değil, duraklama ritüeli.",
+          "tag": "Pazar günleri El Rastro'dan dönüşte ya da hafta içi öğle aralarında · Bodega de la Ardosa veya Casa Alberto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bodega+de+la+Ardosa+Madrid"
+        }
+      ],
+      "callout": {
+        "label": "Tapas barında nasıl yenir",
+        "text": "İçeri gir, bar tezgâhında yer bul, ne istediğini söyle. Ayakta yemek normalden daha iyi. Birkaç barı gez: bir yerde croquetas, öbür yerde patatas bravas, bir sonrakinde bocadillo. Bu Madrid'de tapas yemenin doğru yolu. Hesap sormadan önce biraz bekle — burada acele olmaz.",
+        "type": "tip"
+      },
+      "title": "Ne Yemeli"
+    },
+    "hidden_gems": {
+      "intro": "Madrid büyük bir şehir ama en iyi köşeleri iki blok yürüyüp sapınca çıkıyor karşına.",
+      "items": [
+        {
+          "name": "Andén 0 — Hayalet İstasyon",
+          "description": "Sol metro istasyonunun altında, 1919'dan kalma kullanılmayan istasyon. 2021'de müzeye dönüştürüldü. Metro'nun yapım aşamasından kalma orijinal altyapı, eski tabelalar ve araçlar korunmuş. Biletli; turlar belirli saatlerde. İspanya'nın ilk metro hattının başlangıç noktası.",
+          "rarity": "Metro'nun altında gizli bir metro daha var",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Anden+0+Chamberí+Madrid"
+        },
+        {
+          "name": "Calle de las Huertas",
+          "description": "Barrio de las Letras'ta, Puerta del Sol ile Prado arasında. Cervantes, Lope de Vega ve diğer Altın Çağ yazarlarının yaşadığı sokağın kaldırımına alıntıları işlenmiş — yürürken aşağı bak. Sabah 10:00'dan önce tur grupları gelmeden gezersen kalabalık yok. Lope de Vega'nın evi müze olarak açık.",
+          "rarity": "Kaldırıma işlenmiş şiirler — edebi mahalle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Calle+de+las+Huertas+Madrid"
+        },
+        {
+          "name": "Cerro del Tío Pío — Siete Tetas",
+          "description": "Vallecas mahallesinde, Line 1 Buenos Aires durağından yürüyüş mesafesinde. Yedi küçük tepe — halk arasında 'Siete Tetas' olarak biliniyor. Madrid silüeti ve gün batımı manzarası için şehrin en az kalabalık noktalarından biri. Battaniye, yiyecek getir; akşam üstü yerel halkla otur.",
+          "rarity": "Gün batımı için şehrin en yerel tepesi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cerro+del+Tio+Pio+Madrid"
+        },
+        {
+          "name": "Casa Alberto",
+          "description": "Barrio de las Letras'ta, Calle de las Huertas 18. 1827'den beri açık. Ahşap bar, fıçı vermut, duvarlarda eski Madrid fotoğrafları. Vermutu fıçıdan iç, yanında caracoles (salyangoz) sipariş et — mevsiminde.",
+          "rarity": "1827'den beri aynı yerde",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Alberto+Madrid"
+        },
+        {
+          "name": "Quinta de los Molinos",
+          "description": "Alcalá Caddesi üzerinde, Ventas boğa arenasının yakınında. 1500 badem ağacı — Mart sonunda hepsi birden çiçek açıyor, yer ve hava beyaza dönüyor. Ücretsiz, park her zaman açık. Pazar sabahı git — komşular burada yürüyor.",
+          "rarity": "Mart'ta badem çiçekleri — Madrid'in en görülmez festivali",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quinta+de+los+Molinos+Madrid"
+        },
+        {
+          "name": "Círculo de Bellas Artes Çatısı",
+          "description": "Alcalá Caddesi 42, Gran Vía'nın köşesinde. 5 euro ödeyip çatıya çıkıyorsun — Gran Vía, Kral Sarayı, Sierra de Guadarrama dağları 360 derece görünüyor. Kendi barı var. İçeride sanat sergileri de var, çoğu zaman ücretsiz. Gün batımında en güzel.",
+          "rarity": "Gran Vía'nın üzerinden şehre bak",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Circulo+de+Bellas+Artes+Madrid"
+        }
+      ],
+      "callout": {
+        "label": "El Rastro — Pazar sabahının ritüeli",
+        "text": "Her Pazar 09:00-15:00 arası La Latina'da. Calle de la Ribera de Curtidores ana sokak — ikinci el eşya, antika, giyim, kitap, her şey. Pazar'da El Rastro, sonra La Latina'da öğle vermuteo — Madrileño'ların standart Pazar planı. Cebine dikkat et, kalabalık. Sabah erken saatlerde en iyi seçenek.",
+        "type": "tip"
+      },
+      "title": "Gizli Köşeler"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Bocadillo de calamares ye",
+          "sub": "Bar La Campana, Plaza Mayor arkası. Kuyruk hızlı ilerliyor. Yanında bira, Plaza Mayor'da ayakta."
+        },
+        {
+          "label": "Menú del día ye — doğru yerde",
+          "sub": "Pazartesi-Cuma, 14:00-16:00. Yan sokaklara gir, 12-15 euro, tam menü, içki dahil."
+        },
+        {
+          "label": "Pazar sabahı El Rastro'ya git",
+          "sub": "09:00'dan önce. La Latina, Calle de la Ribera de Curtidores. Sonra aynı mahallede vermuteo."
+        },
+        {
+          "label": "Retiro Parkı'nda hafta içi sabahı yürü",
+          "sub": "Hafta içi 09:00. Kristal Saray, gül bahçesi, göl. Hafta sonu öğleden sonradan kaçın."
+        },
+        {
+          "label": "Calle de las Huertas'ta yere bak",
+          "sub": "Barrio de las Letras. Kaldırıma işlenmiş yazar alıntıları. Sabah erken, tur kalabalığı gelmeden."
+        },
+        {
+          "label": "Churros con chocolate — gece geç veya Pazar sabahı",
+          "sub": "Chocolatería San Ginés, 1894'ten beri. Puerta del Sol'un hemen yakınında. Gece 02:00'de de açık."
+        },
+        {
+          "label": "Círculo de Bellas Artes çatısına çık",
+          "sub": "Alcalá Caddesi 42. Giriş 5 euro. Gran Vía, Kral Sarayı, dağlar. Gün batımında."
+        },
+        {
+          "label": "Vermuteo yap",
+          "sub": "Bodega de la Ardosa (Chueca, 1892) veya Casa Alberto (Letras, 1827). Pazar günleri geleneksel El Rastro'dan dönüş sonrasında ya da hafta içi öğle aralarında."
+        },
+        {
+          "label": "Tapas bar gezisi yap",
+          "sub": "La Latina Cava Baja veya Malasaña. Ayakta ye, birkaç barı gez."
+        },
+        {
+          "label": "Andén 0'ı ziyaret et",
+          "sub": "Puerta del Sol metro istasyonunun altında hayalet istasyon. 1919'dan kalma. Biletli, turlar belirli saatlerde."
+        },
+        {
+          "label": "Gün batımında Cerro del Tío Pío'ya çık",
+          "sub": "Vallecas, Line 1 Buenos Aires. Piknik örtüsü, yiyecek. Madrid silüeti, yerel kalabalık."
+        },
+        {
+          "label": "Prado veya Reina Sofía'ya git",
+          "sub": "Prado Salı-Cumartesi 18:00-20:00 ücretsiz. Reina Sofía Pazartesi-Cumartesi 19:00-21:00, Pazar 13:30-19:00 ücretsiz."
+        }
+      ],
+      "title": "Madrid Checklist",
+      "completion_message": "Madrid'i ritmiyle yaşadın. Bir dahaki sefere daha geç kal."
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Madrid cömert bir şehir; tuzakları yalnızca en turistik üç meydana sıkışmıştır. Bu dördünü bil, gerisi güvenli bölge.",
+      "items": [
+        {
+          "icon": "🍤",
+          "name": "Plaza Mayor'da masaya oturmak",
+          "description": "Meydanın terasları tarihi manzarayı satar, mutfağı değil: donuk calamares, çift fiyatlı sangria.",
+          "instead": "Meydanı gez, fotoğrafını çek; bocadillo de calamares'i meydanın hemen dışındaki klasik barlarda ayakta ye."
+        },
+        {
+          "icon": "🥘",
+          "name": "Mercado San Miguel'i 'gerçek pazar' sanmak",
+          "description": "Cam pazar güzeldir ama artık turist vitrini: küçük porsiyon, büyük hesap.",
+          "instead": "Gerçek pazar deneyimi için Mercado de la Cebada veya Antón Martín'e git; aynı lezzet, yarı fiyat, bol yerli."
+        },
+        {
+          "icon": "🎩",
+          "name": "Sol'da üç kağıt ve imza oyunları",
+          "description": "Puerta del Sol çevresinde bardak oyunu, 'sağır dernek imzası' ve biberiye dalı uzatan falcılar aynı ekibin farklı kostümleri.",
+          "instead": "Durma, gülümse, yürü; çantan önde, telefon cepte. İzlemek bile ekibin kalabalık numarasına hizmet eder."
+        },
+        {
+          "icon": "💃",
+          "name": "Turist otobüsü flamenko 'gala'ları",
+          "description": "Yemekli dev salon şovları flamenkonun ruhunu vermez; Madrid'in tablao geleneği daha küçük ve daha sahicidir.",
+          "instead": "Köklü bir tablao seç, yemeği ayrı ye, şovu içkiyle izle: daha ucuz ve kat kat etkileyici."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Madrid'de kural basit: turistik meydandan iki blok yürü, fiyat yarıya iner, lezzet ikiye katlanır. Şehir zaten bunu söylüyor; dinle."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Sanat, park ve gece yarısı churros",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Prado — ilk saat",
+              "description": "Bileti önceden al, Velázquez ve Goya'ya taze kafayla gir; iki saat yeter, hepsini gezmeye çalışma."
+            },
+            {
+              "time": "11:30",
+              "title": "Retiro Parkı",
+              "description": "Cam saraya uğra, gölde sandal ya da sadece bankta güneş: Madrid'in nefes aldığı yer."
+            },
+            {
+              "time": "14:00",
+              "title": "La Latina'da uzun öğle",
+              "description": "Cava Baja boyunca bar bar: huevos rotos, tortilla, bir kadeh vermut. Acele etmek yasak."
+            },
+            {
+              "time": "17:30",
+              "title": "Malasaña + Chueca turu",
+              "description": "Vintage dükkanlar, plakçılar, üçüncü dalga kahveciler; Madrid'in genç kalbi bu iki mahallede atar."
+            },
+            {
+              "time": "20:30",
+              "title": "Círculo çatısında günbatımı",
+              "description": "Círculo de Bellas Artes'in terasından Gran Vía'ya bak: şehir ışıkları tam bu saatte açılır."
+            },
+            {
+              "time": "23:30",
+              "title": "San Ginés'te churros",
+              "description": "Gece yarısı sıcak çikolataya churros banmak Madrid'in kapanış ritüelidir; kuyruk hızlı ilerler."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehri turist gibi değil, misafir gibi yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasikler",
+              "description": "Yukarıdaki 1 günlük akış: Prado, Retiro, La Latina, çatı."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Saray ve gizli Madrid",
+              "description": "Sabah Kraliyet Sarayı ve Almudena, öğlen Chamberí'de Andén 0 hayalet istasyonu, akşam Barrio de las Letras'ta tapas + Casa Alberto."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Pazar ve veda",
+              "description": "Pazarsa El Rastro bit pazarı, ardından La Latina'da vermut saati; öğleden sonra Reina Sofía'da Guernica, akşam Cerro del Tío Pío'dan şehir silüetiyle veda."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Madrid İngilizceye sabırlıdır ama beş İspanyolca kelime kapıları ardına kadar açar.",
+      "items": [
+        {
+          "word": "Buenas",
+          "pronunciation": "buenas",
+          "meaning": "Selamların kısası — bara, dükkana girerken günün her saati"
+        },
+        {
+          "word": "Gracias",
+          "pronunciation": "grasyas",
+          "meaning": "Teşekkürler — kısa, net, her zaman"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "por favor",
+          "meaning": "Lütfen — siparişin sonuna ekle"
+        },
+        {
+          "word": "¡Salud!",
+          "pronunciation": "salud",
+          "meaning": "Şerefe! — vermut kadehleri bununla kalkar"
+        },
+        {
+          "word": "Vale",
+          "pronunciation": "bale",
+          "meaning": "Tamam / anlaştık — İspanya'nın en çok kullanılan kelimesi; iki kez söylenir: vale, vale"
+        }
+      ]
+    }
+  }
+}

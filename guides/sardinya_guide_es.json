@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Sardinia",
+    "country": "Italy",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#0F7E8A",
+    "color_light": "#E5F4F5",
+    "tagline": "Mar azul Caribe, montañas de granito y una isla que habla su propio idioma."
+  },
+  "pills": [
+    "Cerdeña sin coche es media isla",
+    "Mar Caribe, alma de pastor",
+    "¡Ajò! — ¡Vamos!"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Cerdeña",
+      "intro": "Cerdeña no es una isla, sino un pequeño continente: calas de azul caribeño en la costa, montañas de granito tierra adentro, torres de piedra de tres mil años llamadas nuraghi, y una lengua aparte del italiano. Los yates de la Costa Esmeralda son el escaparate; la verdadera Cerdeña vive en los pueblos de pastores, en el crujido del pan y en la tranquilidad de la gente que dice 'ajò' y se pone en camino. No subestimes las distancias, no apresures el mar: esta isla pertenece a los viajeros lentos.",
+      "local_word": {
+        "word": "Ajò",
+        "pronunciation": "ah-YO",
+        "definition": "Sardo para 'vamos, en marcha': el espíritu de la isla en una palabra. Al mar, a la montaña, a la mesa, no importa; di ajò y un sardo te considerará uno de los suyos."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Alquila un coche — sin negociación",
+          "description": "El transporte público es deficiente entre las ciudades costeras; las calas, los nuraghi y los pueblos de montaña solo son accesibles en coche. En verano, reserva con meses de antelación; los automáticos se agotan pronto."
+        },
+        {
+          "number": 2,
+          "title": "No recorras la isla desde una única base",
+          "description": "De Cagliari a Alghero hay cuatro horas. Establece bases separadas para el norte, el este y el sur, o dedica el viaje a una sola región; la ambición de 'verlo todo' convierte unas vacaciones en una autopista."
+        },
+        {
+          "number": 3,
+          "title": "Deja la arena y las conchas donde están",
+          "description": "Llevarse arena, guijarros o conchas de las playas es ilegal y está seriamente multado; las maletas se escanean en los aeropuertos. Para un recuerdo, una foto y una botella de mirto son suficientes."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Cómo llegar",
+          "value": "Vuelo o ferry",
+          "sub": "Aeropuertos de Cagliari, Olbia, Alghero"
+        },
+        {
+          "icon": "🚗",
+          "label": "En la isla",
+          "value": "Coche de alquiler esencial",
+          "sub": "Grandes distancias, pocos autobuses"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "Italiano + Sardo",
+          "sub": "En Alghero incluso hablan catalán"
+        },
+        {
+          "icon": "🏖️",
+          "label": "Distintivo",
+          "value": "Calas turquesas",
+          "sub": "Las aguas más claras de Europa"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofía sarda",
+        "text": "Los sardos se encuentran entre los pueblos más longevos de la Tierra y el secreto es sencillo: pocas prisas, mesas largas, aire marino constante. Cuenta cada día lento en la isla como una dosis de la receta."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "En Cerdeña, el plan empieza con un coche; el resto es elegir calas.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Llegada — tres aeropuertos",
+          "description": "Cagliari es la puerta al sur, Olbia al noreste (Costa Esmeralda) y Alghero al noroeste. Vuela a la región en la que se base tu ruta; los traslados por la isla llevan horas."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Ferry — trae tu propio coche",
+          "description": "Los ferries nocturnos desde Civitavecchia, Livorno y Génova llegan a Olbia y Cagliari; traer tu propio coche puede ser más económico que alquilar en verano. Reserva el camarote con antelación."
+        },
+        {
+          "icon": "🚗",
+          "title": "Coche de alquiler — la clave de la isla",
+          "description": "Las carreteras costeras son panorámicas pero sinuosas, las del interior, estrechas. Llena el depósito entre pueblos, guarda monedas para los aparcamientos de playa. Un coche pequeño es ideal para los estrechos caminos de las calas."
+        },
+        {
+          "icon": "🚆",
+          "title": "El Trenino Verde y la línea principal",
+          "description": "La línea principal de ferrocarril recorre el eje Cagliari–Sassari, lenta pero panorámica; el histórico 'Trenino Verde' de vía estrecha no es un medio de transporte, sino una excursión en sí mismo."
+        },
+        {
+          "icon": "⛵",
+          "title": "Barcos a las calas",
+          "description": "A Cala Goloritzé, el archipiélago de La Maddalena y la mayoría de las calas escondidas se llega mejor por mar: hay excursiones diarias en barco y alquiler de 'gommone' (embarcaciones neumáticas) por todas partes. Pregunta por el límite de motor para embarcaciones sin licencia."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Advertencia sobre el aforo de playas",
+        "text": "Algunas playas famosas (La Pelosa, Tuerredda, el sendero de Goloritzé) tienen cupos de visitantes en verano con reserva online; consulta el día anterior y ve temprano por la mañana."
+      }
+    },
+    "stay": {
+      "title": "Dónde alojarse",
+      "intro": "En Cerdeña, 'dónde alojarse' significa en realidad 'qué Cerdeña': cinco regiones, cinco vacaciones diferentes.",
+      "local_word": {
+        "word": "Stazzu",
+        "pronunciation": "STAH-tsoo",
+        "definition": "La casa de campo de piedra de la región de Gallura: la mayoría son ahora agroturismos. Alojarse en un stazzu significa dormir en la Cerdeña de los pastores, a diez minutos del mar."
+      },
+      "items": [
+        {
+          "name": "Cagliari — capital del sur",
+          "badge": "La más urbana",
+          "badge_type": "value",
+          "description": "El barrio de la ciudadela de Castello, la extensa playa del Poetto y la auténtica vida urbana: los vuelos son fáciles, los restaurantes están llenos y las calas del sur (Chia, Villasimius) están al alcance de una excursión de un día. El punto de partida más sensato para un recorrido por la isla.",
+          "tags": [
+            "Barrio de Castello",
+            "Playa del Poetto",
+            "Base para el sur"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cagliari"
+        },
+        {
+          "name": "Alguer — el balcón catalán",
+          "badge": "La más pintoresca",
+          "badge_type": "vibe",
+          "description": "Un casco antiguo amurallado con pasado catalán y tradición de artesanía del coral: atardeceres en las murallas al anochecer, un barco a la Gruta de Neptuno al amanecer. La base más encantadora del noroeste.",
+          "tags": [
+            "Calles amuralladas",
+            "Herencia catalana",
+            "Gruta de Neptuno"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Alghero"
+        },
+        {
+          "name": "Costa Smeralda / San Teodoro",
+          "badge": "La más glamurosa",
+          "badge_type": "hot",
+          "description": "La costa de calas esmeralda y puertos deportivos: Porto Cervo es el escaparate, San Teodoro y Palau las alternativas más auténticas. Desde aquí parten las excursiones en barco a La Maddalena.",
+          "tags": [
+            "Calas esmeralda",
+            "La Maddalena",
+            "Ambiente veraniego"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Teodoro+Sardinia"
+        },
+        {
+          "name": "Ogliastra — Cala Gonone y el este",
+          "badge": "La más salvaje",
+          "badge_type": "local",
+          "description": "La costa de las calas legendarias — Goloritzé, Mariolu, Luna: barcos, senderos y el lugar donde la montaña se funde con el mar. La región para amantes de la naturaleza y coleccionistas de calas; se requiere coche y calzado resistente.",
+          "tags": [
+            "Calas legendarias",
+            "Rutas de senderismo",
+            "Montaña y mar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Gonone"
+        },
+        {
+          "name": "La costa sur — Chia/Pula",
+          "badge": "Ideal para familias",
+          "badge_type": "value",
+          "description": "Extensas playas, aguas turquesas poco profundas y lagunas de flamencos: la generosa costa del sur para familias y vacaciones tranquilas. La proximidad al aeropuerto de Cagliari es un plus.",
+          "tags": [
+            "Playas poco profundas",
+            "Laguna de flamencos",
+            "Cerca del aeropuerto"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chia+Sardinia"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Cuándo Ir",
+      "intro": "El mar de Cerdeña sigue cálido incluso en septiembre; la verdadera cuestión es encontrar el equilibrio entre la afluencia y los precios.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "La Isla Verde",
+          "months": "Abr – Jun",
+          "subtitle": "Primavera · Matorral en flor, calas vacías",
+          "description": "La isla se tiñe de verde bajo el aroma del matorral, los senderos se abren, el mar se calienta en junio. Las restricciones de aforo aún no están activas, los precios son justos: la mejor época para hacer senderismo y explorar calas.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de junio",
+            "text": "Mediados de junio es el pico secreto de Cerdeña: el mar de julio, la calma de mayo, pleno sol."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "El Mar en su Apogeo",
+          "months": "Jul – Ago",
+          "subtitle": "Verano · Calas cálidas, playas llenas",
+          "description": "El mar es un baño, las noches son fiestas, las playas más famosas tienen aforo limitado. En agosto, media Italia está en la isla: reserva todo con antelación y llega a las playas antes de las 9 de la mañana.",
+          "callout": {
+            "type": "warning",
+            "label": "Advertencia de agosto",
+            "text": "En la semana de Ferragosto (15 de agosto), los ferris y las carreteras se desbordan; céntrate en una sola región esa semana y evita los trayectos largos."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "Mar Cálido, Calas Vacías",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · Septiembre es el mes dorado",
+          "description": "En septiembre el mar conserva el calor de agosto y las playas están medio vacías; octubre trae la vendimia y las fiestas de los pueblos (sagre). La temporada más inteligente de la isla.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de septiembre",
+            "text": "A mediados de septiembre, el aforo del sendero de Goloritzé deja de ser una preocupación; la clásica caminata matutina + baño al mediodía se disfruta en todo su esplendor."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "La Cara Interior de la Isla",
+          "months": "Dic – Mar",
+          "subtitle": "Invierno · Cerdeña pastoril, carnaval",
+          "description": "Los complejos costeros cierran parcialmente, pero el interior cobra vida: los eventos 'Cortes Apertas' en los pueblos de Barbagia, y en enero-febrero el inquietante carnaval de los Mamuthones de Mamoiada. Sin mar, pero una isla plena.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de carnaval",
+            "text": "Ver la procesión de los Mamuthones en Mamoiada en febrero es asomarse al rostro milenario de Cerdeña; no vas como turista, sino como testigo."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "¿Qué Comer?",
+      "intro": "La mesa sarda es dos mundos: la cosecha del mar en la costa, la cocina del pastor tierra adentro — y sobre ambos, una crujiente hoja de carasau.",
+      "local_word": {
+        "word": "Porceddu",
+        "pronunciation": "por-CHED-doo",
+        "definition": "Cochinillo asado durante horas sobre leña de mirto: el festín de la cocina del pastor. El auténtico se come en un agriturismo, pidiéndolo con antelación — el crujido de su piel es el sonido de la isla."
+      },
+      "items": [
+        {
+          "icon": "🥟",
+          "name": "Culurgiones",
+          "description": "Empanadillas hechas a mano rellenas de patata, pecorino y menta, selladas como una espiga de trigo: el orgullo de Ogliastra. Con mantequilla y salvia o salsa de tomate — poesía en ambos casos.",
+          "tag": "Clásico de Ogliastra · hecho a mano",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ogliastra+Sardinia"
+        },
+        {
+          "icon": "🍖",
+          "name": "Porceddu — al estilo agriturismo",
+          "description": "Cochinillo asado lentamente sobre brasas, aromatizado con mirto: la cumbre de la mesa del pastor. Llega después de un ejército de antipasti en el menú del agriturismo — ven con hambre.",
+          "tag": "En un agriturismo · pedir con antelación",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Oliena+Sardinia"
+        },
+        {
+          "icon": "🫓",
+          "name": "Pane carasau and guttiau",
+          "description": "El pan de pastor fino como el papel que se conserva durante meses. Horneado con aceite de oliva y sal se convierte en guttiau — el primer crujido en llegar a la mesa.",
+          "tag": "En cada mesa · como guttiau",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercato+di+San+Benedetto+Cagliari"
+        },
+        {
+          "icon": "🐟",
+          "name": "Bottarga y el plato de marisco",
+          "description": "Las huevas de mújol curadas de la laguna de Cabras son polvo de oro sobre espaguetis; en la costa, el plato de mar se extiende con gambas, pulpo y fregola.",
+          "tag": "Bottarga de Cabras · con fregola",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cabras+Sardinia"
+        },
+        {
+          "icon": "🧀",
+          "name": "Pecorino sardo y miel",
+          "description": "El queso de oveja joven es dulce, el añejo, intenso; su maridaje con la amarga miel de madroño es un clásico de la isla. El alma de las seadas es este mismo dúo.",
+          "tag": "Queso + miel · pide corbezzolo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gavoi+Sardinia"
+        },
+        {
+          "icon": "🍷",
+          "name": "Cannonau, Vermentino and mirto",
+          "description": "La fuerza del Cannonau en el tinto, la salinidad del Vermentino en el blanco; la cena se sella con el licor de mirto. Pon a prueba la leyenda del 'vino de la larga vida' en su origen.",
+          "tag": "La secuencia de copas · termina con mirto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jerzu+Sardinia"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla del agriturismo",
+        "text": "Una vez en la vida, vive una noche de agriturismo sardo: precio fijo, innumerables platos, vino de la casa en jarra. Come ligero al mediodía y no te rindas antes de que lleguen los culurgiones."
+      }
+    },
+    "hidden_gems": {
+      "title": "Joyas Escondidas",
+      "intro": "Detrás de las calas de postal se esconde una isla milenaria; estas seis combinan mar e historia en un mismo día.",
+      "items": [
+        {
+          "rarity": "Capital de la Edad del Bronce",
+          "name": "Su Nuraxi — Barumini",
+          "description": "El complejo nurágico más grande, Patrimonio de la UNESCO: una torre de piedra y un entramado de aldea del 1500 a.C. Las visitas guiadas entran en la torre, la lección introductoria a la misteriosa civilización de la isla.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Su+Nuraxi+Barumini"
+        },
+        {
+          "rarity": "Una cala como una catedral",
+          "name": "Cala Goloritzé",
+          "description": "La joya de Ogliastra con su arco de granito y su aguja: solo se llega a pie (con cupo controlado) o nadando desde un barco. La recompensa es la cala más pura del Mediterráneo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Goloritzé"
+        },
+        {
+          "rarity": "Un pueblo de colores pastel junto a un río",
+          "name": "Bosa",
+          "description": "Casas de colores apiladas a lo largo del río Temo bajo el castillo de Malaspina: el pueblo más fotogénico de la isla, a la sombra de Alghero. También es la cuna del vino Malvasía.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bosa"
+        },
+        {
+          "rarity": "El pueblo cuyas paredes hablan",
+          "name": "Orgosolo",
+          "description": "El pueblo rebelde de Barbagia, una galería al aire libre con más de 150 murales político-poéticos: la voz de la Cerdeña pastoril en sus paredes. Un almuerzo de pastor cercano completa el clásico.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Orgosolo+murals"
+        },
+        {
+          "rarity": "Un palacio al que se entra desde el mar",
+          "name": "Gruta de Neptuno",
+          "description": "La gran cueva de estalactitas en los acantilados de Capo Caccia en Alghero: por la escalera de acantilado de 654 escalones (Escala del Cabirol) o en barco. Ambas opciones son parte del espectáculo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta+di+Nettuno+Alghero"
+        },
+        {
+          "rarity": "Una ciudad antigua en la laguna",
+          "name": "Tharros",
+          "description": "La ciudad fenicio-romana situada junto al mar en la península de Sinis: azul detrás de cada columna. Con la iglesia de San Giovanni di Sinis y las cabañas de mújol cercanas, un medio día perfecto.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tharros"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo de combinación",
+        "text": "La fórmula de Cerdeña es 'piedra por la mañana, mar al mediodía': visita primero el nuraghe o la ciudad antigua, luego báñate en la cala más cercana; historia y vacaciones caben en el mismo día."
+      }
+    },
+    "traps": {
+      "title": "Evita las Trampas",
+      "intro": "Cerdeña es una isla honesta; la mayoría de las trampas surgen de expectativas equivocadas. Conoce estas cuatro.",
+      "items": [
+        {
+          "icon": "🛥️",
+          "name": "Confundir la Costa Esmeralda con Cerdeña",
+          "description": "El escaparate de yates de Porto Cervo es el uno por ciento de la isla; juzgar la isla por esos precios —o limitarla a ellos— son ambos errores.",
+          "instead": "Visita el escaparate para tomar un café, y luego vuelve a la isla real: las calas de San Teodoro, los pueblos de Gallura, las mesas del interior."
+        },
+        {
+          "icon": "🏖️",
+          "name": "Llegar sin planificar a una playa con aforo",
+          "description": "Llega a La Pelosa a mediodía y verás el mar desde detrás de una cuerda; en verano las calas famosas exigen reserva.",
+          "instead": "Reserva las playas con aforo online con un día de antelación y llega a las 8; o elige la cala vecina, igual de encantadora —esta isla siempre tiene una."
+        },
+        {
+          "icon": "🦞",
+          "name": "'Langosta a la catalana' sin preguntar el precio",
+          "description": "La famosa langosta de Alghero se vende por etto (100 g); pide sin preguntar y la cuenta hará temblar el presupuesto de tus vacaciones.",
+          "instead": "Acuerda el peso y el precio por etto de antemano; o disfruta igual a un precio justo con fregola y gambas."
+        },
+        {
+          "icon": "⏱️",
+          "name": "Fiarse de las distancias del mapa",
+          "description": "Una carretera costera de 80 km puede llevar dos horas; los planes de 'llegaremos a cenar' se desvanecen en las curvas.",
+          "instead": "Añade un treinta por ciento a la estimación de la app y haz un gran trayecto al día; en Cerdeña, menos carreteras y más calas es siempre la ecuación correcta."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de oro",
+        "text": "El color del mar de Cerdeña no es proporcional a tu dinero, sino a lo temprano que te levantes: ningún club de playa supera una cala vacía a las 8 de la mañana."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Prediseñadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "El clásico del sur desde Cagliari",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Mañana en Castello",
+              "description": "Contempla el golfo desde las murallas de la ciudadela de Cagliari; café por la Piazza Yenne, parada para un dulce permitida."
+            },
+            {
+              "time": "10:00",
+              "title": "Mercado de San Benedetto",
+              "description": "Desciende a la planta de pescado de uno de los mercados cubiertos más grandes de Italia: bottarga, queso y provisiones para el almuerzo."
+            },
+            {
+              "time": "11:30",
+              "title": "Al sur hacia las calas de Chia",
+              "description": "Conduce por la carretera de la costa hasta Chia: agua turquesa, dunas blancas, una laguna de flamencos. Báñate en Su Giudeu."
+            },
+            {
+              "time": "14:00",
+              "title": "Almuerzo detrás de la playa",
+              "description": "Fregola o un panino en un chiringuito con suelo de arena; luego una cala más — Tuerredda si te atreves, consulta su aforo."
+            },
+            {
+              "time": "17:30",
+              "title": "La antigua Nora",
+              "description": "Haz una parada en la ciudad fenicio-romana junto al mar de camino de vuelta: mosaicos, teatro y el sol poniente en un solo encuadre."
+            },
+            {
+              "time": "20:30",
+              "title": "Noche en Cagliari",
+              "description": "Una mesa de marisco en el barrio de la Marina, para terminar con mirto. ¡Ajò — otra cala mañana!"
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Vive la isla como un invitado, no como un turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "El clásico del sur",
+              "description": "El itinerario de 1 día anterior: Castello, mercado, Chia, Nora."
+            },
+            {
+              "time": "Day 2",
+              "title": "Piedra y el interior",
+              "description": "Su Nuraxi (Barumini) por la mañana, la ruta hacia Barbagia al mediodía, los murales de Orgosolo después; un festín en un agriturismo por la noche — porceddu y Cannonau."
+            },
+            {
+              "time": "Day 3",
+              "title": "Las calas del este",
+              "description": "Levántate temprano para tomar el barco desde Cala Gonone a lo largo de la línea Goloritzé–Mariolu: nada, descansa, vuelve a nadar. Aperitivo al atardecer en Santa Maria Navarrese; despedida con pecorino y miel."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "El kit de supervivencia de 5 palabras",
+      "intro": "El italiano es suficiente, pero una palabra en sardo te abrirá las puertas de par en par.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "bwon-JOR-noh",
+          "meaning": "Buenos días / buenas tardes — obligatorio al entrar en el bar del pueblo"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Gracias — corto, claro, siempre"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "Por favor — añádelo al final de tu pedido"
+        },
+        {
+          "word": "Salute!",
+          "pronunciation": "sah-LOO-teh",
+          "meaning": "¡Salud! — Las copas de Cannonau se alzan con esto"
+        },
+        {
+          "word": "Ajò!",
+          "pronunciation": "ah-YO",
+          "meaning": "Sardo para '¡vamos!' — dilo una vez y ya te considerarán un isleño"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Lista de Imprescindibles en Cerdeña",
+      "completion_message": "¡Ajò! ¡Has vivido Cerdeña como se debe!",
+      "items": [
+        {
+          "label": "Nada en una cala turquesa a las 8 de la mañana",
+          "sub": "La cala para ti, los colores en su estado más puro"
+        },
+        {
+          "label": "Entra en la torre nurágica de Su Nuraxi",
+          "sub": "Barumini — una civilización de piedra de tres mil años"
+        },
+        {
+          "label": "Disfruta de un festín de porceddu en un agriturismo",
+          "sub": "Precio fijo, platos infinitos, vino de la casa"
+        },
+        {
+          "label": "Observa el cierre en forma de espiga en los culurgiones",
+          "sub": "La pasta rellena de Ogliastra — solo artesanal"
+        },
+        {
+          "label": "Nada hasta Goloritzé desde un barco",
+          "sub": "Arco de granito y aguja de roca — el Mediterráneo en su estado más puro"
+        },
+        {
+          "label": "Lee los muros de Orgosolo",
+          "sub": "Más de 150 murales — la voz de la Cerdeña pastoril"
+        },
+        {
+          "label": "Sube la escalera del acantilado hasta la Gruta de Neptuno",
+          "sub": "654 escalones — el precio de las vistas"
+        },
+        {
+          "label": "Pasea por las callejuelas de colores pastel de Bosa",
+          "sub": "La orilla del río Temo + una copa de Malvasía"
+        },
+        {
+          "label": "Come espaguetis con bottarga",
+          "sub": "El oro en polvo de Cabras — la fregola también sirve"
+        },
+        {
+          "label": "Termina con un mirto",
+          "sub": "El licor de mirto — y una botella para la maleta"
+        }
+      ]
+    }
+  }
+}

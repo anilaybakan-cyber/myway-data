@@ -1,0 +1,533 @@
+{
+  "meta": {
+    "city": "Bologna",
+    "country": "Italy",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#8B1A1A",
+    "color_light": "#F9EAEA",
+    "tagline": "La Rossa, La Dotta, La Grassa — la Roja, la Sabia, la Gorda",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "La mejor comida de Italia",
+    "40 km de pórticos",
+    "La universidad más antigua"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Bolonia",
+      "intro": "Bolonia tiene tres apodos y cada uno se ha ganado su lugar. La Rossa —la roja— por los tejados de terracota y la mampostería medieval que brillan con la luz del atardecer. La Dotta —la culta— por la universidad más antigua del mundo, fundada en 1088, que sigue llenando cada plaza de estudiantes e ideas. La Grassa —la gorda— porque Bolonia inventó los tagliatelle al ragù, la mortadella, los tortellini y los tortelloni, y los boloñeses no se disculpan en absoluto por ello. Este es el secreto mejor guardado de Italia: una ciudad real, con comida auténtica, historia de verdad y casi sin multitudes de turistas.",
+      "local_word": {
+        "word": "Sfogline",
+        "pronunciation": "sfol-YEE-neh",
+        "definition": "Las mujeres que elaboran pasta a mano en Bolonia, una tradición centenaria. Cuando un boloñés dice que la sfoglina hizo la pasta, significa que es auténtica. El mayor cumplido que puede recibir un plato. Búscalo en los menús y confía plenamente."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Bolonia es una ciudad para caminar: lleva buen calzado",
+          "description": "El centro histórico es compacto, llano y casi completamente transitable a pie. Los 40 km de pórticos declarados Patrimonio de la Humanidad por la UNESCO te mantendrán seco bajo la lluvia y fresco bajo el sol. No necesitarás taxis ni autobuses una vez que estés en el centro. Simplemente camina, ese es el objetivo principal."
+        },
+        {
+          "number": 2,
+          "title": "Come a mediodía —no cenes— como tu comida principal",
+          "description": "La tradición culinaria boloñesa se centra en la comida del mediodía. Los restaurantes están en su mejor momento, más frescos y más locales a la hora del almuerzo. Muchas trattorias ofrecen un Menú del Giorno —dos o tres platos, vino incluido, a un valor extraordinario. Así es como se come aquí."
+        },
+        {
+          "number": 3,
+          "title": "El ragù boloñés NO es lo que crees",
+          "description": "El auténtico se cocina a fuego lento, con mucha carne, muy poco tomate —casi naranja, no rojo. Se sirve con tagliatelle, nunca con espaguetis. Si un restaurante sirve 'spaghetti bolognese', no es un verdadero restaurante boloñés. Pasa de largo sin mirar atrás."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "BLQ Marconi",
+          "sub": "Marconi Express · 7 min · directo a Centrale"
+        },
+        {
+          "icon": "🚶",
+          "label": "Cómo moverse",
+          "value": "Camina por todas partes",
+          "sub": "Centro compacto · llano · con pórticos"
+        },
+        {
+          "icon": "🚆",
+          "label": "Nudo ferroviario",
+          "value": "Bologna Centrale",
+          "sub": "Florencia 35 min · Milán 1 h · Roma 2 h"
+        },
+        {
+          "icon": "🍝",
+          "label": "Hora de comer",
+          "value": "El almuerzo es sagrado",
+          "sub": "Aperitivo 18–20 h · cena 20 h+"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La maravilla acústica secreta",
+        "text": "Bajo el Voltone del Podestà en Piazza Maggiore — ponte en una esquina, haz que un amigo se ponga en la esquina diagonalmente opuesta, susurra a la pared. Os oiréis perfectamente. Uno de los Siete Secretos de Bolonia. Pruébalo antes de contárselo a nadie."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "Bolonia es la ciudad más fácil de recorrer a pie de Italia. Una vez en el centro histórico, apenas necesitarás transporte. La clave está en cómo llegar desde el aeropuerto.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeropuerto (BLQ) → Centro de la ciudad",
+          "description": "El monorraíl Marconi Express es el más rápido: 7 minutos desde el aeropuerto directamente a la estación Bologna Centrale, con salidas cada 15 minutos. Desde Centrale, el centro histórico está a 15 minutos a pie. El autobús lanzadera Aerobus es más económico y te deja cerca de Piazza Maggiore, ideal si tu hotel está en el centro. Los taxis tardan unos 20 minutos y son considerablemente más caros."
+        },
+        {
+          "icon": "🚶",
+          "title": "Caminar: tu principal medio de transporte",
+          "description": "Todo el centro histórico tiene unos 2 km de diámetro. Los 40 km de pórticos declarados Patrimonio de la UNESCO te permiten caminar completamente resguardado en cualquier clima. Desde Bologna Centrale hasta Piazza Maggiore hay 15 minutos a pie. Casi todos los lugares a los que querrás ir están a menos de 20 minutos andando."
+        },
+        {
+          "icon": "🚌",
+          "title": "Autobuses urbanos (TPER)",
+          "description": "Rara vez necesitarás un autobús en el centro, pero son útiles para llegar a la basílica de San Luca, el parque Giardini Margherita o barrios fuera de las murallas. Compra billetes en estancos (tabacchi), máquinas en las paradas o las apps Roger/Muver. Valida a bordo."
+        },
+        {
+          "icon": "🚲",
+          "title": "Ciclismo",
+          "description": "Bolonia es muy amigable con las bicicletas, con carriles dedicados por todo el centro. Alquila bicicletas a través de las apps BikeMi o Mobike, o en tiendas de alquiler cerca de la estación. El terreno llano lo hace fácil y rápido. Perfecto para llegar a barrios como Bolognina o el barrio universitario."
+        },
+        {
+          "icon": "🚆",
+          "title": "Bolonia como base: excursiones de un día",
+          "description": "Bologna Centrale es uno de los grandes nudos ferroviarios de Italia. Florencia está a 35 minutos en tren de alta velocidad, Milán a 1 hora, Venecia a 1,5 horas, Roma a 2 horas. Módena —hogar del mejor vinagre balsámico del mundo y del museo Ferrari— está a solo 17 minutos. Una de las mejores bases de toda Italia."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La peregrinación a San Luca",
+        "text": "Para llegar al Santuario de San Luca, recorre la arcada porticada más larga del mundo: 3,8 km y 666 arcos desde Porta Saragozza. Se tarda entre 60 y 90 minutos cuesta arriba, pero las vistas y el logro valen cada paso. O, si lo prefieres, toma el tren turístico San Luca Express."
+      }
+    },
+    "stay": {
+      "title": "¿Dónde Alojarse?",
+      "intro": "El centro histórico de Bolonia es compacto: casi cualquier lugar dentro de las murallas es una buena opción. Las diferencias radican en la atmósfera, no en la distancia.",
+      "local_word": {
+        "word": "Osteria",
+        "pronunciation": "os-teh-REE-ah",
+        "definition": "Un lugar sencillo y tradicional italiano para comer y beber, más humilde que un restaurante y más centrado en la comida que un bar. Las osterias de Bolonia son el verdadero corazón de la cultura gastronómica de la ciudad. Encontrar la tuya en tu barrio es lo primero que harás después de registrarte."
+      },
+      "items": [
+        {
+          "name": "Centro Histórico (Alrededores de Piazza Maggiore)",
+          "badge": "El más céntrico",
+          "badge_type": "hot",
+          "description": "El corazón absoluto de Bolonia. Arquitectura medieval, las Dos Torres, las mejores trattorias, la propia Piazza Maggiore. A poca distancia de todo. Ligeramente más ruidoso las noches de fin de semana cuando los estudiantes llenan las plazas, pero nada comparado con el caos de Roma o Florencia.",
+          "tags": [
+            "A poca distancia de todo",
+            "Ambiente histórico",
+            "Los mejores restaurantes cerca"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro+Storico+Bologna"
+        },
+        {
+          "name": "Barrio Universitario",
+          "badge": "El más estudiantil",
+          "badge_type": "vibe",
+          "description": "La zona alrededor de Via Zamboni y los edificios universitarios. Vibrante con energía estudiantil, librerías independientes, bares de aperitivos baratos, arte callejero. La universidad más antigua del mundo sigue plenamente viva aquí: sientes 1088 y 2025 simultáneamente. Ideal para viajeros jóvenes.",
+          "tags": [
+            "Energía joven",
+            "Aperitivo barato",
+            "Librerías y arte"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Via+Zamboni+Bologna"
+        },
+        {
+          "name": "Quadrilatero y Santo Stefano",
+          "badge": "El más local",
+          "badge_type": "local",
+          "description": "El antiguo distrito del mercado y la zona alrededor de la hermosa Piazza Santo Stefano. Más tranquilo que el centro principal, increíblemente atmosférico, rodeado de las mejores tiendas de comida, talleres de artesanos y la escondida Osteria del Sole, el pub más antiguo de Bolonia, abierto desde 1465.",
+          "tags": [
+            "Las mejores tiendas de comida",
+            "El más atmosférico",
+            "Más tranquilo por la noche"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quadrilatero+Bologna"
+        },
+        {
+          "name": "Bolognina (Norte de la Estación)",
+          "badge": "Mejor relación calidad-precio",
+          "badge_type": "value",
+          "description": "Justo al norte de Bologna Centrale, este barrio obrero se está convirtiendo rápidamente en el más interesante de Bolonia. Escena gastronómica multicultural, bares locales, arte callejero, vida de barrio auténtica. A 10 minutos a pie del centro histórico. Donde los viajeros inteligentes se alojan para ahorrar dinero sin sacrificar nada.",
+          "tags": [
+            "El más asequible",
+            "Multicultural",
+            "A 10 min del centro"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bolognina+Bologna"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Mejor Época para Visitar",
+      "intro": "Bolonia es una ciudad para todas las estaciones, pero cada una ofrece algo completamente diferente. Nunca está excesivamente concurrida, que es precisamente su encanto.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Clima Perfecto",
+          "months": "Mar – May",
+          "subtitle": "Primavera · Clima Ideal para Pasear",
+          "description": "Temperaturas suaves, flores en las plazas, mercados repletos de productos de primavera: alcachofas, espárragos, guisantes. La universidad está en plena ebullición, la Piazza Maggiore acoge eventos al aire libre y proyecciones de cine. Aún no hay aglomeraciones. Es cuando Bolonia está más enérgica y es más fácil enamorarse de ella.",
+          "callout": {
+            "type": "tip",
+            "label": "No te pierdas",
+            "text": "El cine al aire libre de la Cineteca di Bologna comienza en primavera: proyecciones gratuitas o muy económicas en la plaza. Una experiencia ineludiblemente boloñesa."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Caluroso y Local",
+          "months": "Jun – Aug",
+          "subtitle": "Verano · Caluroso, Tranquilo, Local",
+          "description": "En julio y agosto, los estudiantes se van y la ciudad se calma. Las temperaturas pueden superar los 35°C y la humedad es alta. Pero las trattorias están menos concurridas, los precios bajan y la ciudad se siente más auténticamente local que en cualquier otra época. El festival al aire libre Sotto le Stelle del Cinema en la Piazza Maggiore es mágico.",
+          "callout": {
+            "type": "warning",
+            "label": "Advertencia de calor",
+            "text": "Agosto es realmente caluroso. Muchos restaurantes pequeños cierran durante 2-3 semanas a mediados de agosto. Consulta antes de ir. Los pórticos proporcionan sombra que hace que los paseos al mediodía sean soportables."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "La Mejor Estación",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · La Mejor Estación",
+          "description": "De septiembre a noviembre, Bolonia está en su punto álgido. Los estudiantes regresan, los mercados se llenan de trufas, boletus y caza, la luz dora la terracota y la escena gastronómica alcanza su máximo esplendor. Octubre es la temporada de la trufa blanca en la cercana Alba, a 45 minutos en tren.",
+          "callout": {
+            "type": "tip",
+            "label": "No te pierdas",
+            "text": "Festival Mortadella BOlogna (septiembre/octubre): toda la ciudad celebra su producto más famoso. Degustaciones gratuitas, productores, eventos. Lo más boloñés que ocurre en todo el año."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Acogedor y Nebuloso",
+          "months": "Dec – Feb",
+          "subtitle": "Invierno · Nebuloso, Acogedor, Auténtico",
+          "description": "Los inviernos en Bolonia son neblinosos: la niebla del Valle del Po (la nebbia) se asienta sobre la ciudad y le da una atmósfera misteriosa y cinematográfica. El mercado de Navidad en la Piazza Maggiore es precioso. Las trattorias son cálidas y están llenas de lugareños. La época más tranquila, asequible y, posiblemente, más auténtica para visitar.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de experto",
+            "text": "Enero es el mejor mes para cenar en una osteria: solo lugareños, sin turistas, cada lugar en su versión más auténtica. La niebla añade una atmósfera que ninguna otra estación puede igualar."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "June–July",
+          "text": "Cinema Ritrovato + Sotto le Stelle: La Piazza Maggiore se convierte en un cine gigante al aire libre, con proyecciones gratuitas de películas clásicas."
+        },
+        {
+          "month": "October–November",
+          "text": "Temporada de trufas: La trufa blanca de los Apeninos llega a los menús; el festival de la trufa de Savigno merece una escapada de medio día."
+        },
+        {
+          "month": "December",
+          "text": "Fiera di Santa Lucia: el centenario mercado de Navidad bajo el pórtico de los Servi."
+        },
+        {
+          "month": "January–February",
+          "text": "Arte Fiera + la temporada tranquila: los hoteles son baratos, las mesas en las trattorias son fáciles de encontrar y el ragú sabe aún mejor en invierno."
+        }
+      ]
+    },
+    "eat": {
+      "title": "¿Qué Comer?",
+      "intro": "Bolonia es la capital gastronómica indiscutible de Italia. Cada plato aquí tiene una historia, una tradición y un boloñés que te dirá que lo estás comiendo mal.",
+      "local_word": {
+        "word": "¡Buon appetito!",
+        "pronunciation": "bwon ah-peh-TEE-toh",
+        "definition": "Pero en Bolonia, el verdadero saludo antes de una comida es '¡Mangia bene!' — come bien. Y en esta ciudad, eso no es un deseo. Es una garantía."
+      },
+      "items": [
+        {
+          "icon": "🍝",
+          "name": "Tagliatelle al Ragù — el auténtico",
+          "description": "NO son espaguetis a la boloñesa. Tagliatelle —fresco, a base de huevo, hecho a mano— con un ragú de carne cocinado a fuego lento que es casi naranja, no rojo. La receta está registrada en la Cámara de Comercio de Bolonia. Un restaurante sin este plato no entiende Bolonia.",
+          "tag": "Receta registrada · nunca con espaguetis",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria+Anna+Maria+Bologna"
+        },
+        {
+          "icon": "🥟",
+          "name": "Tortellini en Brodo",
+          "description": "Pequeños paquetitos de pasta rellenos de lomo de cerdo, mortadela, jamón serrano, Parmigiano-Reggiano y nuez moscada — servidos en un caldo de capón claro. Esta es el alma de Bolonia en un cuenco. Los lugareños lo comen en Nochebuena. Tú deberías comerlo el día que llegues.",
+          "tag": "El alma de Bolonia en un cuenco",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante+Diana+Bologna"
+        },
+        {
+          "icon": "🥩",
+          "name": "Mortadella — no es lo que conoces",
+          "description": "La original —con IGP, hecha solo en Bolonia, salpicada de pistachos y granos de pimienta, sedosa y dulce. Nada que ver con la versión procesada que se vende en otros lugares. Pídela en lonchas finas en cualquier salumeria del Quadrilatero. Pide un sándwich de crescentina relleno de ella.",
+          "tag": "Con IGP · compra en el Quadrilatero",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Salumeria+Simoni+Bologna"
+        },
+        {
+          "icon": "🧀",
+          "name": "Parmigiano-Reggiano — saborea las edades",
+          "description": "Estás a 30 km de donde se elabora este queso. En cualquier buena salumeria, pide probar versiones de 24, 36 y 48 meses de curación una al lado de la otra. La diferencia es extraordinaria. Compra una cuña para llevar a casa —mucho más barata que en cualquier otro lugar.",
+          "tag": "Prueba diferentes curaciones una al lado de la otra",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quadrilatero+Bologna"
+        },
+        {
+          "icon": "🍷",
+          "name": "Cultura del Aperitivo",
+          "description": "Cada tarde, de 18:00 a 20:00, los bares de Bolonia ofrecen comida gratis con cada bebida. Comida de verdad —pasta, bruschetta, embutidos, quesos. Pide un Spritz o un Lambrusco (el vino tinto espumoso local), y come gratis con él. Este es el ritual vespertino de la ciudad.",
+          "tag": "18:00–20:00 · comida gratis con cada bebida",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Via+del+Pratello+Bologna"
+        },
+        {
+          "icon": "🍦",
+          "name": "Gelato — pero bien hecho",
+          "description": "Busca gelato que sea mate, no brillante, guardado plano en bandejas metálicas con tapa, no apilado en torres altas. Cremeria Funivia y Gelateria Gianni son las opciones de los lugareños. Nunca pidas en un lugar con torres de gelato de colores neón.",
+          "tag": "Mate, no brillante · plano en bandejas",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cremeria+Santo+Stefano+Bologna"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "El ritual del Quadrilatero",
+        "text": "El antiguo distrito del mercado de Bolonia —una cuadrícula de calles medievales entre la Piazza Maggiore y las Dos Torres. Ve por la mañana. Compra mortadella en un puesto, Parmigiano en otro, una copa de vino Pignoletto en la barra. Come de pie. Así es exactamente como lo han hecho los boloñeses durante siglos."
+      }
+    },
+    "hidden_gems": {
+      "title": "Tesoros Ocultos",
+      "intro": "Bolonia recompensa a los curiosos como pocas ciudades en Italia. Lo mejor aquí se esconde tras puertas sin señalizar, subiendo a torres medievales y a través de pequeñas ventanas.",
+      "items": [
+        {
+          "rarity": "La ventana a la Pequeña Venecia",
+          "name": "Finestrella di Via Piella",
+          "description": "Una pequeña ventana abierta en una pared de Via Piella: mira a través de ella y verás uno de los canales secretos de Bolonia, que refleja los edificios medievales de arriba. Se le llama La Piccola Venezia (Pequeña Venecia). Ve temprano por la mañana o al atardecer para disfrutar de la mejor luz. Camina 20 metros más para ver un segundo canal a través de una rejilla en la calle.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Finestrella+di+Via+Piella+Bologna"
+        },
+        {
+          "rarity": "El pub más antiguo de Bolonia — desde 1465",
+          "name": "Osteria del Sole — sin cartel en la puerta",
+          "description": "Abierta desde 1465, escondida en el Quadrilatero sin ningún cartel exterior. Dentro: techos bajos, largas mesas de madera compartidas, lugareños bebiendo vino al mediodía. No se sirve comida: trae la tuya de los puestos del mercado de fuera. Pide una copa de vino de la casa en la barra. Uno de los lugares más auténticos de Italia.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria+del+Sole+Bologna"
+        },
+        {
+          "rarity": "Siete iglesias en un solo edificio",
+          "name": "Santo Stefano — las Siete Iglesias",
+          "description": "Desde fuera: un voluminoso edificio medieval. Dentro: un complejo de siete iglesias interconectadas de diferentes siglos. Data del siglo V. Uno de los monumentos más extraordinarios y a menudo pasados por alto de Bolonia. Casi sin colas, casi sin turistas. Entrada gratuita.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Basilica+Santo+Stefano+Bologna"
+        },
+        {
+          "rarity": "Teatro anatómico medieval",
+          "name": "Teatro Anatómico del Archiginnasio",
+          "description": "Dentro del Archiginnasio —antiguo edificio principal de la universidad más antigua del mundo—, un teatro anatómico del siglo XVII completamente intacto, tallado íntegramente en madera, donde los primeros estudiantes de medicina observaban disecciones a la luz de las velas. Una de las salas más extraordinarias de Italia. Pequeña tarifa de entrada. Casi siempre sin aglomeraciones.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Teatro+Anatomico+Archiginnasio+Bologna"
+        },
+        {
+          "rarity": "Ruinas romanas bajo una biblioteca",
+          "name": "Biblioteca Salaborsa — suelo de cristal a la antigua Roma",
+          "description": "La biblioteca pública junto a la Piazza Maggiore tiene un suelo de cristal transparente: mira a través de él las ruinas excavadas de calzadas y edificios romanos. Entrada gratuita. Casi ningún turista sabe que está ahí. Ve, mira hacia abajo, no digas nada.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca+Salaborsa+Bologna"
+        },
+        {
+          "rarity": "El secreto oculto de Neptuno — desde 1566",
+          "name": "La Fuente de Neptuno — un ángulo específico",
+          "description": "Desde un ángulo muy específico —directamente desde la esquina suroeste—, el pulgar de la mano extendida de Neptuno crea una sugerente ilusión óptica que el escultor Giambologna ocultó deliberadamente a los censores en 1566. Encuentra el ángulo. Lo sabrás de inmediato.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fontana+del+Nettuno+Bologna"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La peregrinación porticada",
+        "text": "La caminata al Santuario de San Luca — 3,8 km cuesta arriba a través de la arcada porticada más larga del mundo, 666 arcos, desde Porta Saragozza. Sal temprano por la mañana. La ciudad se extiende bajo tus pies en la cima. La experiencia mejor guardada de Bolonia."
+      }
+    },
+    "checklist": {
+      "title": "Bolonia: Tu Lista de Imprescindibles",
+      "completion_message": "¡Bravísimo! ¡Has vivido Bolonia como se debe!",
+      "items": [
+        {
+          "label": "Come tagliatelle al ragù en una auténtica trattoria",
+          "sub": "Con tagliatelle, nunca espagueti. Pregunta si la sfoglina hizo la pasta."
+        },
+        {
+          "label": "Encuentra la Finestrella di Via Piella",
+          "sub": "La pequeña ventana a la Pequeña Venecia. Ve a la hora dorada."
+        },
+        {
+          "label": "Prueba el truco del susurro acústico en Piazza Maggiore",
+          "sub": "Voltone del Podestà: esquinas opuestas, susurra a la pared."
+        },
+        {
+          "label": "Visita el Teatro Anatómico en el Archiginnasio",
+          "sub": "Pequeña entrada, sin colas, una de las salas más extraordinarias de Italia."
+        },
+        {
+          "label": "Bebe vino en la Osteria del Sole",
+          "sub": "Sin letrero en la puerta. Trae tu propia comida del mercado. Desde 1465."
+        },
+        {
+          "label": "Pasea por el Quadrilatero por la mañana",
+          "sub": "Compra mortadela, Parmigiano, una copa de Pignoletto. Come de pie."
+        },
+        {
+          "label": "Mira a través del suelo de cristal en la Biblioteca Salaborsa",
+          "sub": "La Antigua Roma bajo la biblioteca. Gratis. Casi nadie lo sabe."
+        },
+        {
+          "label": "Toma un aperitivo con comida gratis en un bar local",
+          "sub": "De 18:00 a 20:00. Pide un Lambrusco. Disfruta del bufé gratuito. Así son las noches en Bolonia."
+        },
+        {
+          "label": "Recorre el camino porticado hasta San Luca",
+          "sub": "3,8 km, 666 arcos, la arcada porticada más larga del mundo. Vistas espectaculares en la cima."
+        },
+        {
+          "label": "Come tortellini en brodo",
+          "sub": "El alma de Bolonia en un plato. Especialmente buenos en invierno."
+        },
+        {
+          "label": "Encuentra la ilusión óptica oculta de Neptuno",
+          "sub": "Esquina suroeste de la fuente. El pulgar. Lo entenderás al instante."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Evita las Trampas",
+      "intro": "Bolonia es una de las grandes ciudades menos turísticas de Italia; las trampas son pocas, pero existen. Conócelas y guarda tu apetito para la verdadera Bolonia.",
+      "items": [
+        {
+          "icon": "🍝",
+          "name": "Cualquier lugar con 'Spaghetti Bolognese' en el menú",
+          "description": "Tal plato no existe en Bolonia; el ragú se sirve con tagliatelle. Un menú que anuncie 'spag bol' es una declaración: cocinamos para turistas.",
+          "instead": "Busca 'tagliatelle al ragù'; las trattorias que estiran su sfoglia a mano son evidentes desde la entrada."
+        },
+        {
+          "icon": "💶",
+          "name": "Mesas justo en la Piazza Maggiore",
+          "description": "Los cafés frente a la plaza cobran dos o tres veces más, coperto incluido. La vista es preciosa, pero el mismo espresso cuesta un tercio dos calles más atrás.",
+          "instead": "Bebe de pie en la plaza; para sentarte y comer, adéntrate en las callejuelas del Quadrilatero o en Via del Pratello."
+        },
+        {
+          "icon": "🍾",
+          "name": "Botellas de 'vinagre balsámico' de recuerdo",
+          "description": "La mayoría de las botellas brillantes en las tiendas de turistas son zumo de uva caramelizado. El auténtico Aceto Balsamico Tradizionale di Modena envejece al menos 12 años y se vende sellado.",
+          "instead": "Busca el sello DOP; compra en una salumeria de confianza y prueba antes de pagar."
+        },
+        {
+          "icon": "🎡",
+          "name": "Confundir FICO con la 'verdadera comida boloñesa'",
+          "description": "El gigantesco parque gastronómico a las afueras de la ciudad puede ser divertido, pero el alma culinaria de Bolonia no está allí; el milagro reside en las tiendas centenarias del centro.",
+          "instead": "Dedica esa media jornada al Quadrilatero en su lugar: el Mercato di Mezzo, las salumerias, las queserías, todo a un corto paseo."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de oro",
+        "text": "En Bolonia, la señal de un buen lugar es un menú escrito a mano y pocas mesas. Cuanto más corto sea el menú, más orgullosa estará la cocina."
+      }
+    },
+    "itinerary": {
+      "title": "Itinerarios Listos",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Pórticos, torres y la pasta de tu vida",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Piazza Maggiore + San Petronio",
+              "description": "Un espresso de pie en la esquina de la plaza, luego a San Petronio con su famosa fachada inacabada."
+            },
+            {
+              "time": "10:30",
+              "title": "Paseo por el Quadrilatero",
+              "description": "Calles de mercado medievales: escaparates de salumerías, el aroma de la mortadela, Mercato di Mezzo. Guarda sitio para el almuerzo."
+            },
+            {
+              "time": "13:00",
+              "title": "Tagliatelle al ragù",
+              "description": "Come la pasta de tu vida en una trattoria. El almuerzo es el evento principal; así funciona Bolonia."
+            },
+            {
+              "time": "15:00",
+              "title": "Santo Stefano + Finestrella",
+              "description": "Explora el complejo de las siete iglesias, luego asómate por la pequeña ventana en Via Piella para ver el canal escondido."
+            },
+            {
+              "time": "17:30",
+              "title": "Torre Asinelli o San Luca",
+              "description": "498 escalones para la vista desde la azotea; o camina bajo los pórticos hacia San Luca en su lugar."
+            },
+            {
+              "time": "19:30",
+              "title": "Noche en Via del Pratello",
+              "description": "Aperitivo en la calle de estudiantes y locales, luego una osteria. En Osteria del Sole: vino, más los embutidos que hayas traído tú mismo."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Vive la ciudad como un invitado, no como un turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "El centro y los clásicos",
+              "description": "El itinerario de 1 día anterior: Maggiore, Quadrilatero, ragù, las torres."
+            },
+            {
+              "time": "Day 2",
+              "title": "Universidad y rincones escondidos",
+              "description": "El teatro anatómico del Archiginnasio, Via Zamboni, el suelo de cristal de Salaborsa. Gelato en Piazza Santo Stefano por la tarde, tortellini en brodo por la noche."
+            },
+            {
+              "time": "Day 3",
+              "title": "San Luca y una despedida lenta",
+              "description": "Camina hasta la Madonna di San Luca bajo 666 arcos de pórtico (3.8 km, todo cubierto). Una última crescentina de vuelta; la estación está a cinco minutos."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Tu kit de supervivencia de 5 palabras",
+      "intro": "Unas pocas palabras en italiano abren todas las puertas; en Bolonia, además, abren el apetito.",
+      "items": [
+        {
+          "word": "Ciao",
+          "pronunciation": "chow",
+          "meaning": "Hola / Adiós — a cualquier hora, para cualquiera"
+        },
+        {
+          "word": "Grazie mille",
+          "pronunciation": "GRAH-tsyeh MEE-leh",
+          "meaning": "Muchas gracias — nunca está de más, siempre funciona"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "Por favor — añádelo al final de tu pedido"
+        },
+        {
+          "word": "Cin cin!",
+          "pronunciation": "chin chin",
+          "meaning": "¡Salud! — aquí las copas se alzan con Lambrusco"
+        },
+        {
+          "word": "Che buono!",
+          "pronunciation": "keh BWOH-noh",
+          "meaning": "¡Qué rico! — la frase que más necesitarás en Bolonia"
+        }
+      ]
+    }
+  }
+}

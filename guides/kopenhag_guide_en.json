@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#235A75",
+    "color_light": "#E8F1F7",
+    "tagline": "The capital of bicycles, harbour water and hygge"
+  },
+  "pills": [
+    "More bikes than cars",
+    "Harbour clean enough to swim in",
+    "Perennial champion of happiness studies"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Copenhagen",
+      "intro": "Copenhagen doesn't show off with grandeur but with a well-built life: at eight in the morning a man in a suit glides past you on a bicycle, at noon people dive into the sea from the harbour steps, and in the evening someone chats in a candlelit window without once looking at their phone. This city is an elegant answer to the question 'how should one live'. Take your postcard shot of colourful Nyhavn, then get down to the real business: pedal, get in the water, sit down around a candle. Copenhagen isn't seen — it's lived.",
+      "local_word": {
+        "word": "Hygge",
+        "pronunciation": "hoo-gah",
+        "definition": "Danish's gift to the world: that indefinable state of cosiness made of candlelight, good friends, a warm drink and the absence of hurry. If you see blankets and candles in a café, hygge is there — joining in is allowed."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Never step into the bike lane",
+          "description": "The bike lane is not a pavement, it's a motorway: step into a flow moving at 20 km/h and you'll hear a Danish warning before the bell. Cross it like an arrow, take your photos from the pavement."
+        },
+        {
+          "number": 2,
+          "title": "Respect the trust",
+          "description": "Denmark is a society of trust: prams sleep outside cafés, bikes are held by thin locks, the metro has no turnstiles. As this system's guest, buy your ticket and keep your astonishment to a smile."
+        },
+        {
+          "number": 3,
+          "title": "Swimming is free — with rules",
+          "description": "The harbour baths (havnebad) are free and the water is clean enough to swim in; swimming outside the marked areas and in the boat lanes is both forbidden and dangerous. Jump in where the locals jump."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Airport",
+          "value": "Kastrup (CPH)",
+          "sub": "Metro to centre ~15 min"
+        },
+        {
+          "icon": "🚲",
+          "label": "Getting around",
+          "value": "Bike + metro",
+          "sub": "The driverless metro runs 24/7"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Language",
+          "value": "Danish",
+          "sub": "English fluent as a mother tongue"
+        },
+        {
+          "icon": "💳",
+          "label": "Money",
+          "value": "Danish krone",
+          "sub": "Cash is nearly history"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The Copenhagen philosophy",
+        "text": "Copenhagen is expensive, true; but its best moments are free: sunset on the harbour, a picnic on park grass, the free havnebad. Save the money for one good restaurant and leave the rest to the city's free happiness infrastructure."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "In Copenhagen the king of transport is the bicycle; the metro is driverless and punctual, and the harbour boats are the 'bus' with the best view.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Airport to the centre",
+          "description": "Metro line M2 reaches Kongens Nytorv in 15 minutes; the train reaches Central Station in about the same. Both share one ticket system — tap through with a contactless card."
+        },
+        {
+          "icon": "🚲",
+          "title": "The bicycle — the city's mother tongue",
+          "description": "With a rental bike the city is yours in a day: wide lanes, bicycle bridges, bicycle traffic lights. The rules are serious: keep right, signal your turns, raise a hand when stopping."
+        },
+        {
+          "icon": "🚇",
+          "title": "The driverless metro",
+          "description": "Lines M1–M4 run 24/7, and watching the tracks through the front window feels like a childhood dream. The Cityringen loop (M3) ties all the central districts together."
+        },
+        {
+          "icon": "⛴️",
+          "title": "The harbour boats",
+          "description": "The yellow harbour buses (havnebus) run on a normal public transport ticket: go from Nyhavn to the Opera and on to Refshaleøen over the water — at bus fare, not tour-boat fare."
+        },
+        {
+          "icon": "🚶",
+          "title": "The centre on foot",
+          "description": "From Strøget to Nyhavn and on to the palace square, the centre walks comfortably; but Copenhagen is a broad city — for Nørrebro and Refshaleøen trust the pedals or the metro."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Havnebus tip",
+        "text": "The yellow 991/992 boats are the city's cheapest 'cruise': the whole waterfront from the Royal Library to the Opera on a normal ticket. Time it for the sunset departure."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "Copenhagen's districts compete on character: the fairytale centre, bohemian Nørrebro, formerly-meat-now-cool Vesterbro, canal-laced Christianshavn.",
+      "local_word": {
+        "word": "Kvarter",
+        "pronunciation": "kvar-tehr",
+        "definition": "District, neighbourhood: a Copenhagener explains their identity by which side of the bridge they live on. Being 'from Nørrebro' is a lifestyle declaration — offered without being asked."
+      },
+      "items": [
+        {
+          "name": "Indre By (the centre)",
+          "badge": "Most central",
+          "badge_type": "vibe",
+          "description": "A fairytale set between Strøget, Nyhavn and the palaces: walking distance to everything, morning coffee by the canal. Prices above even capital level — location is paid for in cash.",
+          "tags": [
+            "Nyhavn two steps away",
+            "Walk to everything",
+            "High prices"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Indre+By+Copenhagen"
+        },
+        {
+          "name": "Nørrebro",
+          "badge": "Most bohemian",
+          "badge_type": "hot",
+          "description": "The multicultural energy across the bridge: world kitchens, vintage shops, Superkilen park, picnics in the cemetery park. Young, alive, and home to the city's best coffee roasters.",
+          "tags": [
+            "World kitchens",
+            "Vintage shops",
+            "Young energy"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nørrebro+Copenhagen"
+        },
+        {
+          "name": "Vesterbro",
+          "badge": "Coolest",
+          "badge_type": "local",
+          "description": "The bars of the old meatpacking district Kødbyen, third-wave coffee and design hotels: new life inside old fabric. Next to Central Station — practical with a suitcase too.",
+          "tags": [
+            "Kødbyen bars",
+            "Design hotels",
+            "Near the station"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vesterbro+Copenhagen"
+        },
+        {
+          "name": "Christianshavn",
+          "badge": "Most picturesque",
+          "badge_type": "value",
+          "description": "Canals, boats and façades that recall Amsterdam: five minutes to the centre over the bridge, the sound of water in the evening. For those after canalside breakfasts and quiet nights.",
+          "tags": [
+            "Canal views",
+            "Bridge to centre",
+            "Quiet evenings"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Christianshavn+Copenhagen"
+        },
+        {
+          "name": "Østerbro",
+          "badge": "Calmest",
+          "badge_type": "value",
+          "description": "The district of embassies, lakes and wide avenues: the density of prams is the city's index of trust. Walking distance to the Little Mermaid; the quarter for families and seekers of calm.",
+          "tags": [
+            "Lakeside",
+            "Family friendly",
+            "Broad parks"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Østerbro+Copenhagen"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "When to Go",
+      "intro": "Copenhagen's summer is like a reward and its winter like a lesson: the reward is daylight, the lesson is hygge. Both are worth having.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "The Awakening",
+          "months": "Apr – Jun",
+          "subtitle": "Spring · Terraces open, the lakes come alive",
+          "description": "Cherry blossoms open, café tables spill into the street, blankets are hung over chairs. The light stretches fast; in June it's still twilight at eleven at night.",
+          "callout": {
+            "type": "tip",
+            "label": "April tip",
+            "text": "In late April the cherry-tree tunnel of Bispebjerg cemetery turns pink: go early in the morning — the crowds arrive towards noon."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "Harbour Summer",
+          "months": "Jul – Aug",
+          "subtitle": "Summer · Havnebad season, long evenings",
+          "description": "The city moves outdoors: the harbour pools fill, the waterfronts become beaches, the street-food markets live into the night. The day lasts 17 hours and nobody wants to stay inside.",
+          "callout": {
+            "type": "tip",
+            "label": "July tip",
+            "text": "An evening like a local: jump in the water at Islands Brygge, dry off in the sun, then beer and sunset on the waterfront grass. Total cost: the price of one beer."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "Golden Light",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · Culture night, the first candles",
+          "description": "The trees turn, candles are lit early in the cafés, museums and concert halls open their seasons. On Kulturnatten in October, hundreds of venues keep their doors open until midnight.",
+          "callout": {
+            "type": "tip",
+            "label": "October tip",
+            "text": "On Kulturnatten a single wristband takes you everywhere from the palace to the fire station: from the royal stables to the parliament rostrum, one night a year."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Hygge Season",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Candlelight, Tivoli lights, short days",
+          "description": "The day darkens at four, but the city answers the dark with candles: Tivoli becomes a winter garden, cafés hand out blankets, hygge peaks. Dress for the cold, look warmly on the soul.",
+          "callout": {
+            "type": "tip",
+            "label": "December tip",
+            "text": "Tivoli at Christmas is the heart of the Copenhagen winter: lights, gløgg (spiced mulled wine) and æbleskiver (little round pancakes). Go on a weekday evening and save the weekend queue for watching the lights."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "You're in the capital of New Nordic cuisine, but don't be intimidated: the smørrebrød counter, the sausage cart and the cinnamon roll are every bit as sacred as the starred menus.",
+      "local_word": {
+        "word": "Smørrebrød",
+        "pronunciation": "smur-broth",
+        "definition": "The art of the open sandwich built on rye bread: herring, shrimp, roast beef — each one a composition with rules. Eaten with knife and fork, in order: herring first, then fish, then meat."
+      },
+      "items": [
+        {
+          "icon": "🥪",
+          "name": "The smørrebrød ritual",
+          "description": "The lunch classic: pickled herring on rye, veal with remoulade, or shrimp with egg. Eaten in century-old lunch rooms with white tablecloths and snaps — leave the ordering sequence to the waiter.",
+          "tag": "Lunch classic · with a snaps",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Schønnemann+Copenhagen"
+        },
+        {
+          "icon": "🌭",
+          "name": "Pølsevogn — the sausage cart",
+          "description": "A red sausage (rød pølse) with the bread on the side, plenty of mustard, chocolate milk to drink: Denmark's standing national menu. The organic sausage carts have carried the classic into a new generation.",
+          "tag": "On your feet · ristet + the works",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=DØP+Copenhagen"
+        },
+        {
+          "icon": "🥐",
+          "name": "Kanelsnegl and the truth about the Danish",
+          "description": "What the world calls a 'Danish pastry' is called wienerbrød (Vienna bread) here — and the cinnamon snail, the kanelsnegl, is the city's morning religion. When you see a bakery queue, join the back of it.",
+          "tag": "From a morning bakery · a queue is a good sign",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Juno+the+Bakery+Copenhagen"
+        },
+        {
+          "icon": "🏪",
+          "name": "Torvehallerne market",
+          "description": "The glass-roofed gourmet market: smørrebrød counters, fresh fish, coffee, and Danish cooking portion by portion. The address for both the rainy-day plan and the sunny picnic shop.",
+          "tag": "Covered market · lunch counters",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Torvehallerne+Copenhagen"
+        },
+        {
+          "icon": "🍺",
+          "name": "Craft beer and the culture of skål",
+          "description": "In Carlsberg's city the new wave is strong: Mikkeller and the micro beer bars draw pilgrims worldwide. When the glasses rise, meet everyone's eyes, say 'skål', then drink — the order matters.",
+          "tag": "Micro beer bar · eye contact + skål",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mikkeller+Bar+Copenhagen"
+        },
+        {
+          "icon": "🔥",
+          "name": "Refshaleøen street food",
+          "description": "Reffen, on the old shipyard island, is a giant street kitchen built from containers: world cuisines, harbour views, fire pits. Go by havnebus, stay for the sunset.",
+          "tag": "In summer · go by boat",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Reffen+Copenhagen"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Budget tip",
+        "text": "Restaurant bills swell in Copenhagen; strike the balance like a local: smørrebrød or a market counter at noon, one good restaurant in the evening. Tap water is free and excellent everywhere — don't hesitate to ask."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Corners",
+      "intro": "Everyone sees the Little Mermaid (and is surprised); these six are Copenhagen's real character.",
+      "items": [
+        {
+          "rarity": "A picnic park with philosophers",
+          "name": "Assistens Kirkegård",
+          "description": "The cemetery where Andersen and Kierkegaard rest is also Nørrebro's park: locals sunbathe among the headstones, cycle through, read books. There are few places where death and life stand so amicably side by side.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Assistens+Kirkegård+Copenhagen"
+        },
+        {
+          "rarity": "A power plant with a ski slope on its roof",
+          "name": "CopenHill",
+          "description": "The roof of the city's waste-to-energy plant is an artificial ski slope, a hiking path and the world's tallest climbing wall: sport on top of clean energy. From the summit, the harbour and the wind turbines — a view that summarises Copenhagen.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=CopenHill+Copenhagen"
+        },
+        {
+          "rarity": "A park like a world map",
+          "name": "Superkilen",
+          "description": "Nørrebro's park assembled from objects from more than 60 countries: a Moroccan fountain, a Thai boxing ring, Soviet neon and the famous white-striped pink-and-black hills. A world-renowned classroom of urban design.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Superkilen+Copenhagen"
+        },
+        {
+          "rarity": "A free harbour beach",
+          "name": "Islands Brygge Havnebad",
+          "description": "A free five-pool harbour bath in the city's belly: a Copenhagener leaving the office loosens their tie, jumps in, and goes back to work. If you have the courage, the five-metre platform is waiting.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Islands+Brygge+Havnebadet+Copenhagen"
+        },
+        {
+          "rarity": "An art cistern underground",
+          "name": "Cisternerne",
+          "description": "The old water cistern beneath Frederiksberg hill is the city's most atmospheric art space: darkness, dripping water and giant site-specific installations. The park above is a bonus view.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cisternerne+Frederiksberg"
+        },
+        {
+          "rarity": "Sunset on the shipyard island",
+          "name": "Refshaleøen and La Banchina",
+          "description": "The old shipyard island is the city's new creative quarter: street food, a sauna-and-sea combination, and tiny La Banchina, where wine is drunk on the jetty. Go by havnebus and meet the sunset at the jetty's edge.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Banchina+Copenhagen"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Morning tip",
+        "text": "See Nyhavn at 8 am: colourful façades, an empty quay, coffee steam. The same frame becomes a flood of people by noon — the postcard is shot in the morning; the afternoon escapes to the Christianshavn canals."
+      }
+    },
+    "traps": {
+      "title": "Tourist Traps",
+      "intro": "Copenhagen is an honest city; its traps come less from bad faith than from the price tag.",
+      "items": [
+        {
+          "icon": "🧜",
+          "name": "The Little Mermaid pilgrimage",
+          "description": "The world-famous statue is 1.25 metres tall with a fifty-person selfie queue in front; the disappointment is bigger than she is.",
+          "instead": "Make her one stop on a morning bike ride: pass through the star fortress of Kastellet, greet the statue in 30 seconds, and give your real time to the fortress and the waterfront path."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Dinner on the Nyhavn quay",
+          "description": "The menus under the colourful façades add the view to the bill: mediocre fish at above-capital prices.",
+          "instead": "Have only a beer at Nyhavn (on the quay stones, from a shop — a legitimate local tradition); eat dinner in Kødbyen or Nørrebro."
+        },
+        {
+          "icon": "🚕",
+          "name": "Taking a taxi from the airport",
+          "description": "With the metro 15 minutes from the centre, a taxi does the same trip at ten times the price; add time on top if it hits traffic.",
+          "instead": "Metro M2 drops straight into the centre and the fare is a contactless tap at the gate. Even with lots of luggage, think metro first — the stations have lifts."
+        },
+        {
+          "icon": "💸",
+          "name": "Trying to eat every meal in a restaurant",
+          "description": "Three restaurant meals a day will finish your budget in one day in Copenhagen; the city itself doesn't live that way.",
+          "instead": "Copy the local pattern: bakery in the morning, market counter or smørrebrød at noon, one chosen restaurant at night. The difference buys you a ticket to Louisiana."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Golden rule",
+        "text": "If something is expensive in Copenhagen, the locals found the cheap version long ago: ask, and copy. The city's best moments — harbour, park, bicycle, sunset — carry no price tag anyway."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Routes",
+      "intro": "If you hate planning, follow these flows. The times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "A Copenhagen day from pedals to harbour",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Bakery + empty Nyhavn",
+              "description": "Start the day with a kanelsnegl and coffee, and shoot Nyhavn's colourful façades before the crowds; the quay is yours alone in the morning."
+            },
+            {
+              "time": "10:00",
+              "title": "A palace loop by bike",
+              "description": "Pedal a rental bike from Amalienborg to Kastellet; stop if you catch the changing of the guard, greet the Little Mermaid in 30 seconds, carry on along the water."
+            },
+            {
+              "time": "12:30",
+              "title": "Lunch at Torvehallerne",
+              "description": "Sit at a smørrebrød counter in the glass-roofed market: herring, shrimp, one snaps — the Danish lunch in summary."
+            },
+            {
+              "time": "14:30",
+              "title": "The Christianshavn canals",
+              "description": "Walk the canalside, look at the boats, and if you have the nerve climb the twisted spire of Vor Frelsers: an external staircase, a city panorama, slightly trembling knees."
+            },
+            {
+              "time": "17:00",
+              "title": "Harbour life at Islands Brygge",
+              "description": "Jump in if it's summer; if not, sit on the waterfront steps: sun, grass and half the city sitting with something in hand — Copenhagen's favourite hour."
+            },
+            {
+              "time": "19:30",
+              "title": "An evening in Kødbyen",
+              "description": "Dinner and bars in the old meatpacking district: one good plate, then skål at a micro beer bar. If the Tivoli lights are still on, close the day there."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Pedal the city like a local",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Classic Copenhagen",
+              "description": "The one-day flow above: Nyhavn, palace, Torvehallerne, Christianshavn, harbour, Kødbyen."
+            },
+            {
+              "time": "Day 2",
+              "title": "Nørrebro and the creative island",
+              "description": "A morning walk in Assistens park and Superkilen; world food in Nørrebro at noon; the havnebus to Refshaleøen in the afternoon — Reffen street food, sunset at La Banchina; climb CopenHill's roof on the way back."
+            },
+            {
+              "time": "Day 3",
+              "title": "Art day and farewell",
+              "description": "Take the train 40 minutes to the Louisiana Museum of Modern Art: the seaside sculpture garden alone is worth the fare. On the way back, Cisternerne or the Ny Carlsberg Glyptotek; in the evening, candlelight in one last hygge café."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Word Survival Kit",
+      "intro": "Danish pronunciation is an extreme sport, but everyone speaks English; these five words still open doors with a smile.",
+      "items": [
+        {
+          "word": "Hej",
+          "pronunciation": "hi",
+          "meaning": "Hello — say it twice (hej hej) and it becomes goodbye"
+        },
+        {
+          "word": "Tak",
+          "pronunciation": "tahk",
+          "meaning": "Thank you — 'tusind tak' means a thousand thanks"
+        },
+        {
+          "word": "Skål!",
+          "pronunciation": "skohl",
+          "meaning": "Cheers! — eye contact with everyone as the glasses rise is mandatory"
+        },
+        {
+          "word": "Hyggeligt",
+          "pronunciation": "hoo-geh-lit",
+          "meaning": "'That was lovely, so cosy' — the best summary of a get-together; smile when you hear it"
+        },
+        {
+          "word": "Undskyld",
+          "pronunciation": "oon-skool",
+          "meaning": "Excuse me / sorry — if you hear it with a bicycle bell, step aside fast"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Copenhagen Checklist",
+      "completion_message": "Skål! You've lived Copenhagen like a local!",
+      "items": [
+        {
+          "label": "Spend a whole day on a bicycle",
+          "sub": "Join the lane, match the flow, see the city like a local"
+        },
+        {
+          "label": "Photograph Nyhavn empty in the morning",
+          "sub": "Colourful façades, coffee steam, no crowds"
+        },
+        {
+          "label": "Eat a smørrebrød + snaps lunch",
+          "sub": "Start with herring; leave the order to the waiter"
+        },
+        {
+          "label": "Swim — or at least dip a foot — at a havnebad",
+          "sub": "Islands Brygge — free and spotless"
+        },
+        {
+          "label": "Climb the twisted spire of Vor Frelsers",
+          "sub": "External stairs, 360-degree Copenhagen"
+        },
+        {
+          "label": "Queue at a bakery for a kanelsnegl",
+          "sub": "A long queue means the right bakery"
+        },
+        {
+          "label": "Take a havnebus harbour tour",
+          "sub": "991/992 — a cruise for a bus ticket"
+        },
+        {
+          "label": "Walk the pink hills of Superkilen",
+          "sub": "Nørrebro — a park like a world map"
+        },
+        {
+          "label": "Look over the harbour from CopenHill's roof",
+          "sub": "A hiking path on top of a power plant"
+        },
+        {
+          "label": "Do candlelit hygge in a café",
+          "sub": "A blanket, a warm drink, a phone-free chat"
+        }
+      ]
+    }
+  }
+}

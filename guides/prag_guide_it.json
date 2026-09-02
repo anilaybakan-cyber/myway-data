@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#1B3A6B",
+    "color_light": "#E8EDF7",
+    "tagline": "Una città così bella da sembrare quasi irreale, eppure molto più profonda di quanto appaia.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Prendi il tram, non un taxi",
+    "Ordina la svíčková almeno una volta",
+    "Attraversa il ponte prima delle 8 del mattino"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Benvenuti a Praga",
+      "intro": "Praga è una delle città medievali meglio conservate d'Europa, il che significa che ha impiegato trent'anni per imparare a esibirsi per i dodici milioni di turisti che arrivano ogni anno. La Praga che la maggior parte dei visitatori vede — le trappole per birra troppo costose nella Piazza della Città Vecchia, i negozi di souvenir lungo Karlova, i pub crawl organizzati — è una città che mette in scena la propria storia. La vera Praga scorre sotto di essa: nei wine bar di quartiere di Vinohrady, sull'argine del fiume a Náplavka un venerdì sera, nei giardini barocchi che i turisti superano per raggiungere il castello, nei tram che ancora trasportano la città attraverso ogni possibile versione del tempo. Questa è una delle città architettonicamente più straordinarie della terra — Gotico, Rinascimentale, Barocco, Art Nouveau e Brutalismo Comunista a pochi passi l'uno dall'altro. La domanda non è se vedere il castello. La domanda è cosa succede quando smetti di seguire la folla.",
+      "local_word": {
+        "word": "Hospoda",
+        "pronunciation": "HOS-poh-dah",
+        "definition": "Un tradizionale pub ceco — non un beer bar, non un gastropub, ma una hospoda. Legno scuro, tavoli lunghi, clienti abituali che siedono nello stesso posto da vent'anni, Pilsner Urquell o Kozel alla spina servite senza chiedere. La hospoda è il centro sociale della vita di quartiere ceca. È dove si scambiano notizie, si guarda il calcio e si negozia silenziosamente il complicato rapporto del paese con la propria storia. Una buona hospoda non ha un menu in inglese e nessun arredamento pensato per i turisti. Trovarne una è il punto di accesso alla vera città."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "La birra ceca viene riempita senza chiedere",
+          "description": "In una hospoda tradizionale, il cameriere ti porterà un'altra birra quando il tuo bicchiere sarà quasi vuoto, senza che tu glielo chieda. Questo è il comportamento corretto. Per fermarti, posiziona un sottobicchiere sopra il tuo bicchiere. Non capire questo sistema è il modo più affidabile per bere accidentalmente sei birre in un pomeriggio. La Repubblica Ceca ha il più alto consumo di birra pro capite al mondo. Non è una coincidenza."
+        },
+        {
+          "number": 2,
+          "title": "Il sistema tranviario è straordinario",
+          "description": "Praga vanta una delle migliori reti tranviarie d'Europa — 26 linee che coprono l'intera città, inclusi il centro storico, Malá Strana e l'accesso al castello. Un singolo biglietto da 90 minuti (40 CZK) copre tutti i mezzi (metro, tram e autobus) con trasferimenti illimitati. Acquista i biglietti presso le macchinette gialle nelle stazioni della metro, in qualsiasi edicola (trafika) o tramite l'app PID Lítačka. Convalida il biglietto nella macchinetta gialla quando sali a bordo — i biglietti non convalidati sono considerati non validi. La multa è di 1.500 CZK. L'abbonamento da 24 ore (120 CZK) è la scelta giusta per la maggior parte dei visitatori."
+        },
+        {
+          "number": 3,
+          "title": "La corona ceca — le carte non sono sempre ben accette",
+          "description": "Praga utilizza la corona ceca (CZK / Kč), non l'euro. Molte hospoda di quartiere, bancarelle del mercato e ristoranti più piccoli accettano ancora solo contanti. Il tasso di cambio è importante: gli uffici di cambio in aeroporto offrono il peggior valore in città. Preleva contanti da un bancomat bancario nel centro città. Non usare mai gli uffici di cambio privati con insegne lampeggianti — i tassi sono predatori e le commissioni sono nascoste."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeroporto",
+          "value": "Václav Havel Airport (PRG)",
+          "sub": "Autobus 119 → Nádraží Veleslavín (Metro A) → centro, ~35 min"
+        },
+        {
+          "icon": "🚇",
+          "label": "Trasporti",
+          "value": "Metro (3 linee) + tram + bus",
+          "sub": "Biglietto 90 min 40 CZK · Abbonamento 24h 120 CZK · Convalidare all'imbarco"
+        },
+        {
+          "icon": "💰",
+          "label": "Valuta",
+          "value": "Corona Ceca (CZK / Kč)",
+          "sub": "Non euro — prelevare solo da bancomat bancari"
+        },
+        {
+          "icon": "🍺",
+          "label": "Regola della birra",
+          "value": "Bicchiere riempito automaticamente",
+          "sub": "Sottobicchiere sul bicchiere = stop · senza sottobicchiere = continua"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Prague Visitor Pass — ne vale la pena per le visite al castello",
+        "text": "Il Prague Visitor Pass include il Castello di Praga (compresi la Cattedrale di San Vito, il Vecchio Palazzo Reale e la Basilica di San Giorgio), i musei del Quartiere Ebraico, la Torre dell'Orologio Astronomico e trasporti pubblici illimitati. Si ripaga da solo se prevedi di visitare il complesso del castello e il Quartiere Ebraico. Disponibile nelle versioni da 48, 72 e 120 ore. Acquista online prima dell'arrivo."
+      }
+    },
+    "transport": {
+      "title": "Muoversi in città",
+      "intro": "Praga è una città compatta, perfetta per essere esplorata a piedi o in tram. Il centro storico è in gran parte pedonale. Il tram è il mezzo ideale per attraversare la città; la metropolitana copre le distanze più lunghe.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeroporto → Centro Città",
+          "description": "L'autobus 119 collega l'aeroporto a Nádraží Veleslavín (linea A della metropolitana, verde) ogni 10-15 minuti. Da lì, la metropolitana vi porterà in centro in altri 10 minuti. Il viaggio totale dura circa 35 minuti. L'autobus Airport Express (AE) va direttamente alla stazione ferroviaria principale ma richiede un biglietto separato. I taxi hanno il tassametro ma sono costosi — concordate sempre la tariffa prima di salire o utilizzate le app Bolt o Uber."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metropolitana — tre linee, veloce e pulita",
+          "description": "Tre linee: A (verde), B (gialla), C (rossa). La linea A copre la Città Vecchia e il quartiere del castello. La linea B attraversa la città nuova da est a ovest. La linea C collega la stazione ferroviaria principale e la zona sud. La metropolitana chiude intorno a mezzanotte. Nota: la metropolitana non raggiunge Malá Strana o il castello — per queste destinazioni, prendete il tram."
+        },
+        {
+          "icon": "🚃",
+          "title": "Tram — il modo migliore per vedere la città",
+          "description": "Il tram 22 è il percorso classico — dal Teatro Nazionale attraverso Malá Strana, fino al Castello di Praga. Salite dalla porta centrale, convalidate immediatamente il biglietto nella macchina gialla e sedetevi sul lato destro in direzione del castello. I tram diurni circolano fino a mezzanotte; le linee notturne (91-99) coprono la città ogni 30 minuti fino alle 4:30 circa."
+        },
+        {
+          "icon": "🚶",
+          "title": "A piedi — le scelte migliori",
+          "description": "La maggior parte del centro storico è raggiungibile a piedi in 20-30 minuti dalla maggior parte delle altre zone. Dal Ponte Carlo al Castello di Praga ci vogliono 20 minuti in salita attraverso Malá Strana. Da Piazza della Città Vecchia a Piazza Venceslao 10 minuti. Da Vinohrady al Museo Nazionale 15 minuti. La città premia chi cammina: i passaggi, i cortili, le scalinate che tagliano le colline, i portali Art Nouveau — tutto questo è invisibile dal tram."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxi — usate solo le app",
+          "description": "I taxi di strada a Praga hanno una lunga storia di sovrapprezzi per i turisti. Usate sempre Bolt o Uber — prezzo fisso, percorso tracciabile, nessuna negoziazione. Dalla Città Vecchia a Vinohrady dovrebbe costare circa 80-120 CZK. Dall'aeroporto al centro, 400-600 CZK. Non accettate mai un taxi da qualcuno che vi si avvicina nei siti turistici o nella sala arrivi dell'aeroporto."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tram 22 — il miglior tour gratuito della città",
+        "text": "Il tram 22 parte da Náměstí Míru a Vinohrady, passa per il Teatro Nazionale, attraversa la Moldava, percorre le tortuose strade di Malá Strana, oltrepassa i cancelli del castello e prosegue fino a Střešovice. Per il costo di un biglietto da 90 minuti (40 CZK), è il più bel viaggio in tram urbano dell'Europa Centrale. Percorretelo da un capo all'altro almeno una volta — idealmente al tramonto, quando il castello è illuminato e la città è al suo massimo splendore teatrale."
+      }
+    },
+    "stay": {
+      "title": "Dove Alloggiare",
+      "intro": "I quartieri di Praga sono profondamente diversi. Il centro storico è bellissimo ma sempre più votato al turismo. La base migliore per un'esperienza autentica della città è un quartiere più esterno.",
+      "local_word": {
+        "word": "Čtvrť",
+        "pronunciation": "CHTVRZHT",
+        "definition": "Quartiere o rione — la parola che i cechi usano per le distinte aree residenziali che conferiscono a Praga il suo carattere. Ogni čtvrť ha la sua cultura dei caffè, le sue hospoda, il suo ritmo. Vinohrady è l'elegante quartiere del vino. Žižkov è il quartiere operaio con la torre della televisione. Holešovice è la zona industriale trasformata in creativa. Soggiornare nella čtvrť giusta cambia tutto."
+      },
+      "items": [
+        {
+          "name": "Vinohrady — Prague 2/3",
+          "badge": "La base migliore",
+          "badge_type": "hot",
+          "description": "Il quartiere più raccomandato dai praghesi. Palazzi Art Nouveau, viali alberati, la migliore scena di caffè e ristoranti della città, enoteche aperte fino a tardi e un'atmosfera autenticamente locale. A due fermate di metro dalla Città Vecchia, ma si sente completamente separato dal circuito turistico. La risposta giusta alla domanda 'dove dovrei alloggiare a Praga' per chiunque ci sia già stato.",
+          "tags": [
+            "Migliori ristoranti",
+            "Strade Art Nouveau",
+            "Atmosfera più autentica"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vinohrady+Prague"
+        },
+        {
+          "name": "Malá Strana (Città Piccola) — Praga 1",
+          "badge": "Più suggestivo",
+          "badge_type": "hot",
+          "description": "Il quartiere barocco sotto il castello — strade acciottolate, giardini nascosti, palazzi trasformati in ambasciate, l'architettura più raffinata dell'Europa Centrale, in gran parte immutata dal XVIII secolo. Costoso e sempre più turistico, ma ancora magico. Il miglior quartiere di Praga per passeggiare senza meta.",
+          "tags": [
+            "Architettura barocca",
+            "Giardini nascosti",
+            "Sotto il castello"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mala+Strana+Prague"
+        },
+        {
+          "name": "Žižkov — Prague 3",
+          "badge": "Più locale",
+          "badge_type": "local",
+          "description": "Il quartiere operaio a est del centro — un po' rude, sede della torre della televisione, la più alta densità di hospoda pro capite a Praga e una scena creativa che si è sviluppata silenziosamente per un decennio. Non bello nel senso convenzionale, ma completamente vivo. Dove vivono davvero artisti, musicisti e nottambuli di Praga.",
+          "tags": [
+            "Più hospoda",
+            "Scena creativa",
+            "Completamente non turistico"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zizkov+Prague"
+        },
+        {
+          "name": "Holešovice — Prague 7",
+          "badge": "Più creativo",
+          "badge_type": "local",
+          "description": "L'ex quartiere industriale a nord del centro, ora il quartiere più creativo di Praga — il DOX Centre for Contemporary Art, il mercato alimentare Manifesto, caffè indipendenti e una giovane folla locale. Non centrale ma con eccellenti collegamenti tramviari. Il quartiere con più energia a Praga in questo momento.",
+          "tags": [
+            "Arte contemporanea",
+            "Mercati alimentari",
+            "Giovane e creativo"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Holesovice+Prague"
+        },
+        {
+          "name": "Staré Město (Città Vecchia) — Praga 1",
+          "badge": "Più centrale",
+          "badge_type": "local",
+          "description": "A pochi passi da tutto, bellissimo alle 6 del mattino prima dell'arrivo dei turisti, invaso dalle 10. La base più comoda ma l'esperienza meno autentica. Se alloggi nella Città Vecchia, usala come trampolino di lancio — mangia, bevi e trascorri le serate a Vinohrady o Žižkov.",
+          "tags": [
+            "Più centrale",
+            "Tutti i monumenti a piedi",
+            "Affollato di giorno"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Stare+Mesto+Prague"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Il Periodo Migliore per Visitare",
+      "intro": "Praga è affascinante in ogni stagione: ognuna offre una città diversa. La domanda è quanto sopporti la folla.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "La Stagione Migliore",
+          "months": "Mar – Mag",
+          "subtitle": "Primavera · Praga al Suo Massimo Splendore",
+          "description": "Aprile e maggio sono i mesi in cui Praga è al suo meglio. I giardini aprono, i castagni fioriscono lungo ogni viale, le terrazze si riempiono. Il tempo è ideale per passeggiare, la luce è limpida e lunga, e le folle di turisti sono ancora gestibili. Maggio è uno dei mesi migliori per visitare Praga: i giardini del castello, i parchi barocchi di Malá Strana, Letná, tutti al loro massimo splendore.",
+          "callout": {
+            "type": "tip",
+            "label": "Festival Internazionale di Musica Primavera di Praga (Maggio)",
+            "text": "Il festival Primavera di Praga si svolge per tutto maggio e si apre ogni anno il 12 maggio – anniversario della morte di Smetana – con un'esecuzione di Má vlast (La mia patria) nella Smetana Hall. I biglietti per gli eventi principali si esauriscono con mesi di anticipo, ma molti concerti sono accessibili con prenotazione anticipata. Uno dei grandi festival di musica classica in Europa, ospitato in una città fatta per esso."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Estate",
+          "name": "Affollata ma Viva",
+          "months": "Giu – Ago",
+          "subtitle": "Estate · Alta Stagione",
+          "description": "Giugno è il miglior mese estivo: serate lunghe, la città viva ma non ancora sopraffatta, concerti all'aperto nel castello e nei giardini. Luglio e agosto portano le folle di turisti al culmine: il Ponte Carlo diventa una processione lenta, la Piazza della Città Vecchia un'opportunità fotografica permanente. Ma il lungofiume Náplavka si riempie di gente del posto la sera, la birreria all'aperto di Letná è al suo meglio, e i giardini barocchi sono in piena fioritura. La città è bella anche quando è più affollata.",
+          "callout": {
+            "type": "tip",
+            "label": "Náplavka il venerdì sera",
+            "text": "Il venerdì sera, dalla primavera all'autunno, l'argine di Náplavka sulla riva sinistra della Moldava si trasforma in un ritrovo all'aperto: bancarelle di cibo, mercato contadino, gente seduta lungo il muro del fiume con vino e birra. Nessun costo d'ingresso, nessuna prenotazione. Ecco come appare Praga quando appartiene alle persone che ci vivono."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autunno",
+          "name": "La Stagione dei Locali",
+          "months": "Set – Nov",
+          "subtitle": "Autunno · Quando Praga Appartiene a Se Stessa",
+          "description": "Settembre è il segreto meglio custodito per un viaggio a Praga. I turisti estivi sono partiti, la luce diventa ambrata e bassa, i vigneti di Vinohrady e Grébovka sono in vendemmia, e la città torna al suo ritmo. Ottobre porta i colori più belli: i parchi di Vinohrady, le passeggiate tra i castagni di Malá Strana, Stromovka che si tinge d'oro. Novembre è freddo e grigio, ma le hospoda sono piene e la città non si è mai sentita più autenticamente se stessa.",
+          "callout": {
+            "type": "tip",
+            "label": "Stagione della vendemmia a Vinohrady (Settembre–Ottobre)",
+            "text": "Il parco Grébovka a Vinohrady ospita un vigneto funzionante che produce vino dal XIX secolo. A settembre e ottobre, la vendemmia viene celebrata con un piccolo festival del vino locale nel parco. Ingresso gratuito, interamente locale, e uno dei pomeriggi più piacevoli che Praga offre in autunno."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Inverno",
+          "name": "Magica e Sottovalutata",
+          "months": "Dic – Feb",
+          "subtitle": "Inverno · Mercatini di Natale e Strade Vuote",
+          "description": "Dicembre porta i mercatini di Natale in Piazza della Città Vecchia e Piazza Venceslao: veramente belli, veramente suggestivi e veramente affollati. Gennaio e febbraio sono i mesi più tranquilli dell'anno: le code ai musei spariscono, i ristoranti sono prenotabili, i prezzi scendono, e Praga sotto la neve è qualcosa di simile a una fiaba. Le hospoda sono calde, la svíčková è al suo meglio con il freddo, e la città appartiene interamente a se stessa.",
+          "callout": {
+            "type": "tip",
+            "label": "Mercatino di Natale in Piazza della Città Vecchia (Dicembre)",
+            "text": "Il mercatino di Natale in Piazza della Città Vecchia è uno dei più suggestivi dell'Europa Centrale: la Chiesa di Týn gotica sullo sfondo, l'Orologio Astronomico da un lato, bancarelle di legno che vendono trdelník (torta a camino), svařák (vin brulé) e ornamenti fatti a mano. Andate la sera quando le luci sono accese. Affollato ma ne vale la pena."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "Late April",
+          "text": "Čarodějnice (30 aprile): notte dei falò delle streghe – falò nei parchi, salsicce e una celebrazione della primavera."
+        },
+        {
+          "month": "May",
+          "text": "Primavera di Praga (Pražské jaro): il festival internazionale di musica classica, inaugurato con la Má vlast di Smetana."
+        },
+        {
+          "month": "October",
+          "text": "Signal Festival: per quattro notti gli edifici della città si trasformano in installazioni luminose e video."
+        },
+        {
+          "month": "December",
+          "text": "Mercatini di Natale: Piazza della Città Vecchia si trasforma in un set cinematografico; svařák (vin brulé) in mano – e se nevica, la perfezione."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Cosa Mangiare",
+      "intro": "La cucina ceca è più sostanziosa, autentica e interessante di quanto la sua reputazione suggerisca. L'obiettivo non è un menu degustazione stellato Michelin. L'obiettivo è una vera svíčková in una hospoda che esiste dagli anni '50, o un piatto di arrosto di maiale con gnocchi di pane e crauti che costa meno di un caffè nell'Europa occidentale.",
+      "local_word": {
+        "word": "Svíčková",
+        "pronunciation": "SVEECH-koh-vah",
+        "definition": "Il piatto nazionale. Lombo di manzo brasato lentamente in una salsa di verdure a radice (sedano rapa, carota, pastinaca, panna), servito con gnocchi di pane (houskový knedlík), una fetta di limone, una cucchiaiata di panna montata e salsa di mirtilli rossi. Sembra improbabile. È straordinario. Ogni famiglia ceca ha una ricetta. Ogni hospoda ha la sua versione. Ordinalo almeno una volta."
+      },
+      "items": [
+        {
+          "icon": "🥩",
+          "name": "Svíčková na smetaně — il piatto nazionale",
+          "description": "Manzo brasato lentamente in salsa cremosa di verdure a radice, servito con gnocchi di pane, limone, panna montata e salsa di mirtilli rossi. La combinazione è più ricca e complessa di quanto sembri. Una buona svíčková richiede ore di preparazione; la salsa dovrebbe essere densa, color ambra e leggermente agrodolce. Evita i posti che la servono come piatto turistico. Le migliori versioni si trovano nelle vere hospoda e nei ristoranti tradizionali cechi lontano dal centro storico.",
+          "tag": "Con gnocchi di pane · in una vera hospoda · evita i menu turistici",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lokál+Dlouhá+Prague"
+        },
+        {
+          "icon": "🍲",
+          "name": "Guláš — la versione ceca",
+          "description": "Il guláš ceco è una versione più ricca e scura dell'originale ungherese — manzo o maiale brasato per ore in paprika e spezie finché la salsa non diventa densa e profonda. Servito quasi universalmente con gnocchi di pane (houskový knedlík) per assorbire la salsa. Un classico di ogni menu di hospoda. Una ciotola di guláš e una birra è il miglior pranzo che Praga possa offrire.",
+          "tag": "Con gnocchi di pane · in ogni menu di hospoda · ottimo soprattutto in inverno",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurace+Mlejnice+Prague"
+        },
+        {
+          "icon": "🍺",
+          "name": "Birra ceca — la migliore al mondo",
+          "description": "La Repubblica Ceca ha inventato la Pilsner nel 1842 a Plzeň (Pilsen). La Pilsner Urquell è l'originale e ancora lo standard. Kozel è la lager scura preferita. Staropramen è la birra locale di Praga. Bernard è l'alternativa indipendente. La birra ceca viene servita alla temperatura corretta, nel bicchiere giusto, con una schiuma densa e non opzionale. Mezzo litro di birra alla spina in una vera hospoda costa 40-60 CZK — meno che in quasi ogni altra capitale europea.",
+          "tag": "Solo alla spina · la schiuma è d'obbligo · sottobicchiere sul bicchiere per indicare che hai finito",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=U+Zlatého+Tygra+Prague"
+        },
+        {
+          "icon": "🥐",
+          "name": "Trdelník — provalo una volta",
+          "description": "La torta a camino venduta in ogni strada turistica non è in realtà un piatto tradizionale ceco — è un dolce ungherese/slovacco diventato un'attrazione turistica di Praga negli anni 2000. Va bene. Ma provalo una volta, con zucchero e cannella anziché Nutella, e poi cerca qualcosa di più interessante. Il vero street food ceco è il langos (pasta fritta con formaggio e panna acida) o un párek v rohlíku (salsiccia in un panino) da un chiosco.",
+          "tag": "Una volta è abbastanza · solo con cannella · non è un piatto tradizionale ceco",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Old+Town+Square+Prague"
+        },
+        {
+          "icon": "🫙",
+          "name": "Arrosto di maiale, gnocchi, crauti",
+          "description": "Vepřo knedlo zelo — arrosto di maiale con gnocchi di pane e crauti — è l'altro standard nazionale. Semplice, saziante ed economico. Il maiale dovrebbe essere grasso e arrostito lentamente, gli gnocchi dovrebbero assorbire il sugo, i crauti dovrebbero essere abbastanza aciduli da bilanciare il tutto. Disponibile in ogni vero ristorante ceco. Evita i posti dove arriva come una fotografia — le migliori versioni non sono mai fotogeniche.",
+          "tag": "Maiale grasso · gnocchi di pane · crauti aciduli",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=U+Pinkasů+Prague"
+        },
+        {
+          "icon": "🦆",
+          "name": "Anatra arrosto — la specialità autunnale",
+          "description": "Pečená kachna (anatra arrosto) è il piatto ceco autunnale e invernale per eccellenza — arrostita lentamente fino a quando la pelle non è laccata e croccante, servita con cavolo rosso, crauti e gnocchi di pane o patate. La combinazione di grasso d'anatra ricco, cavolo acidulo e gnocchi che assorbono il sugo è uno dei grandi piatti della cucina dell'Europa centrale. Disponibile tutto l'anno ma al suo meglio da settembre in poi, quando i ristoranti cechi ne fanno un piatto stagionale di punta. Ordinalo in un vero ristorante ceco, non in un menu turistico.",
+          "tag": "Con cavolo rosso e gnocchi · meglio da settembre a febbraio · ordinalo in un vero ristorante ceco",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=U+Modré+Kachničky+Prague"
+        },
+        {
+          "icon": "🍷",
+          "name": "Vino moravo — sottovalutato",
+          "description": "La Moravia, la regione ceca orientale, produce vini che quasi nessuno al di fuori del paese conosce. Welschriesling, Müller-Thurgau, Grüner Veltliner, Palava — vini bianchi con un carattere minerale, leggermente ossidativo. Le enoteche di Vinohrady sono il posto migliore per trovarli. Chiedi Moravské víno (vino moravo) e lasciati guidare dal cameriere. Una caraffa di vino della casa in un'enoteca di Vinohrady costa meno di un bicchiere a Parigi.",
+          "tag": "Vino moravo · enoteche di Vinohrady · più economico che altrove",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vinograf+Prague"
+        },
+        {
+          "icon": "☕",
+          "name": "La cultura del caffè ceca",
+          "description": "Praga ha sviluppato una seria scena del caffè di terza ondata nell'ultimo decennio — EMA Espresso Bar, Kavárna Místo, Můj šálek kávy e altri. Ma il tradizionale caffè ceco (kavárna) è un'istituzione diversa e altrettanto valida: interni Art Nouveau ampi, leggermente sbiaditi, giornali su supporti di legno, un lungo menu di preparazioni di caffè e torte. Il Café Imperial su Na Příkopě è l'esempio più spettacolare. Entrambe le tradizioni coesistono ed entrambe meritano di essere vissute.",
+          "tag": "EMA Espresso Bar · Kavárna Místo · Café Imperial per l'ambiente",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+Louvre+Prague"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Lokál — l'hospoda di riferimento",
+        "text": "Lokál è una piccola catena di hospoda tradizionali ceche gestite con uno standard insolitamente elevato — Pilsner Urquell perfettamente spillata, cibo ceco classico, lunghi tavoli di legno, prezzi non da trappola per turisti. L'originale su Dlouhá nel centro storico è sempre pieno; le filiali di Vinohrady e Žižkov sono più facili da frequentare. Non sono necessarie prenotazioni, basta arrivare. Lo standard con cui vengono giudicate le altre hospoda."
+      }
+    },
+    "hidden_gems": {
+      "title": "Tesori Nascosti",
+      "intro": "Praga nasconde le sue meraviglie appena fuori dalle rotte turistiche più battute — una strada oltre il Ponte Carlo, una fermata di tram dopo la Città Vecchia, una porta più in là a Malá Strana.",
+      "items": [
+        {
+          "rarity": "Il più bel giardino barocco di Praga — e quasi nessuno lo visita",
+          "name": "Giardino di Wallenstein (Valdštejnská zahrada) — Malá Strana",
+          "description": "Costruito tra il 1623 e il 1630 per Albrecht von Wallenstein — il comandante militare che desiderava un giardino che rivaleggiasse con il Castello di Praga — il Giardino di Wallenstein è uno dei più raffinati giardini barocchi precoci dell'Europa Centrale. Pavoni bianchi si aggirano liberamente tra statue di bronzo di dei greci, uno stagno di carpe koi, una parete a grotta di stalattiti artificiali e un padiglione a sala terrena decorato con affreschi della Guerra di Troia. Si trova direttamente dietro l'uscita della metropolitana Malostranska. Quasi nessun turista lo scopre. Ingresso gratuito. Aperto da aprile a ottobre.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Valdstejnska+zahrada+Prague"
+        },
+        {
+          "rarity": "Una fortezza medievale con le migliori viste della città — e quasi nessuna coda",
+          "name": "Vyšehrad — la fortezza dimenticata",
+          "description": "Mentre i turisti fanno la fila per il Castello di Praga, Vyšehrad si erge su una scogliera sopra la Moldava, nella parte sud della città — una fortezza del X secolo con la migliore vista panoramica di Praga, una rotonda romanica, il Cimitero Nazionale dove sono sepolti Dvořák e Smetana, e un parco pieno di gente del posto che fa picnic. I giardini sono completamente gratuiti. La Basilica dei Santi Pietro e Paolo all'interno richiede un biglietto. Passeggia sui bastioni al tramonto e ammira la città sottostante.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vysehrad+Prague"
+        },
+        {
+          "rarity": "Un vicolo da fiaba del XIV secolo — a tre minuti dal castello",
+          "name": "Nový Svět — il vicolo dimenticato",
+          "description": "Nový Svět ('Mondo Nuovo') è uno stretto vicolo acciottolato nascosto sotto le mura del castello a Hradčany — una fila di minuscoli cottage medievali che ospitarono i servi del castello dal XIV secolo in poi. Si trova a tre minuti dall'ingresso del castello ed è quasi completamente sconosciuto ai visitatori. A qualsiasi ora del giorno, è tranquillo. Al mattino presto, prima che arrivino le folle del castello, è una delle strade più suggestive d'Europa. Libero accesso. Andate prima delle 9 del mattino.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Novy+Svet+Prague"
+        },
+        {
+          "rarity": "Il più bel giardino barocco di Malá Strana — a pagamento ma completamente privo di folla",
+          "name": "Giardino Vrtba (Vrtbovská zahrada) — Malá Strana",
+          "description": "Nascosto dietro una porta anonima in via Karmelitská, il Giardino Vrtba è un capolavoro barocco a terrazze costruito nel 1720 — sculture di Matyáš Bernard Braun, affreschi di Václav Vavřinec Reiner e una scalinata che sale a una terrazza con una delle migliori viste sul Castello di Praga e sui tetti di Malá Strana. Votato come il secondo giardino storico più bello d'Europa. Ingresso a pagamento. Quasi nessuno lo visita — anche in alta stagione, potreste averlo quasi tutto per voi.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vrtbovska+zahrada+Prague"
+        },
+        {
+          "rarity": "Il caffè Art Nouveau che Kafka ed Einstein frequentavano",
+          "name": "Café Imperial — Na Příkopě",
+          "description": "Aperto nel 1914, il Café Imperial vanta una sala da pranzo rivestita dal pavimento al soffitto con piastrelle di ceramica Art Nouveau dipinte a mano — pareti, pilastri, soffitto — un interno che non ha eguali a Praga. Kafka lavorava nelle vicinanze; Einstein visse a Praga per un anno. Il caffè serve piatti tradizionali cechi insieme a caffè e dolci. Andate a metà mattina, quando è più tranquillo, e sedetevi abbastanza a lungo da ammirare bene la sala. Nessun costo d'ingresso — solo il prezzo di un caffè.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+Imperial+Prague"
+        },
+        {
+          "rarity": "La riva del fiume che appartiene a Praga — non al turismo",
+          "name": "Náplavka — Lungofiume della Moldava",
+          "description": "La Náplavka è un lungofiume sulla riva sinistra della Moldava, a sud del Teatro Nazionale. Durante il giorno è una piacevole passeggiata. Il venerdì sera, dalla primavera all'autunno, si trasforma completamente — bancarelle di cibo, un mercato contadino, persone sedute lungo il muro di pietra con vino e birra, occasionalmente DJ, l'intera città sembra essere qui tutta insieme. Gratuito. Nessuna prenotazione. Una delle migliori serate che Praga ha da offrire.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Naplavka+Prague"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Biblioteca di Strahov — prenotate prima di andare",
+        "text": "La biblioteca del Monastero di Strahov, tra il Castello di Praga e la collina di Petřín, contiene due delle più belle sale bibliotecarie barocche del mondo — la Sala Teologica e la Sala Filosofica, entrambe interamente originali del XVII e XVIII secolo, con affreschi sul soffitto, globi e migliaia di volumi rilegati. Ingresso a pagamento, prenotazione anticipata obbligatoria. Uno degli interni più straordinari dell'Europa Centrale. Non perdetelo."
+      }
+    },
+    "checklist": {
+      "title": "Lista di cose da fare a Praga",
+      "completion_message": "Na zdraví! Hai scoperto la vera Praga.",
+      "items": [
+        {
+          "label": "Attraversa il Ponte Carlo prima delle 8 del mattino",
+          "sub": "Dopo le 9 del mattino diventa una folla lenta. Prima delle 8 è quasi vuoto e straordinario. Gratuito."
+        },
+        {
+          "label": "Prendi il tram 22 da capolinea a capolinea",
+          "sub": "Da Vinohrady a Střešovice, passando per Malá Strana e il castello. 40 CZK per 90 minuti. Siediti sul lato destro andando verso il castello."
+        },
+        {
+          "label": "Trova i Giardini di Wallenstein",
+          "sub": "Dietro l'uscita della metro Malostranska. Pavoni bianchi, statue barocche, laghetto con carpe koi. Gratuito. Aperto da aprile a ottobre."
+        },
+        {
+          "label": "Passeggia fino a Vyšehrad al tramonto",
+          "sub": "Fortezza, cimitero, la migliore vista panoramica della città. I giardini sono interamente gratuiti. L'ingresso alla Basilica è a pagamento."
+        },
+        {
+          "label": "Mangia la svíčková in una vera hospoda",
+          "sub": "Manzo in salsa cremosa di verdure a radice con gnocchi di pane. In una hospoda lontano dal centro storico. Il piatto nazionale."
+        },
+        {
+          "label": "Passeggia per Nový Svět prima delle 9 del mattino",
+          "sub": "Vicolo medievale sotto il castello. A tre minuti dall'ingresso del castello. Quasi nessuno ci va. Gratuito."
+        },
+        {
+          "label": "Visita i Giardini Vrtba",
+          "sub": "Porta nascosta in via Karmelitská. Terrazza barocca con la migliore vista su Malá Strana. Ingresso a pagamento. Quasi mai affollato."
+        },
+        {
+          "label": "Siediti a Náplavka un venerdì sera",
+          "sub": "Lungofiume, a sud del Teatro Nazionale. Cibo, vino, gente del posto. Gratuito. Dalla primavera all'autunno."
+        },
+        {
+          "label": "Visita la Biblioteca di Strahov — prenota in anticipo",
+          "sub": "Due sale della biblioteca barocche, interamente originali. Tra il castello e Petřín. A pagamento, prenotazione anticipata obbligatoria."
+        },
+        {
+          "label": "Bevi una birra in una hospoda lontano dal centro turistico",
+          "sub": "Lascia che il cameriere riempia automaticamente. Metti il sottobicchiere sul bicchiere per fermarlo. 40–60 CZK per mezzo litro."
+        },
+        {
+          "label": "Visita il Café Imperial per un caffè e per ammirare la sala",
+          "sub": "Na Příkopě. Piastrelle in ceramica Art Nouveau dal pavimento al soffitto. Nessun costo d'ingresso — basta ordinare qualcosa."
+        },
+        {
+          "label": "Guarda l'Orologio Astronomico battere l'ora — poi sali sulla torre",
+          "sub": "Lo spettacolo orario (dalle 9 alle 23) è gratuito dalla piazza. Salire sulla torre ed entrare nel Municipio della Città Vecchia è a pagamento (~450 CZK). Prenota online in anticipo."
+        },
+        {
+          "label": "Prendi la metro per Vinohrady per cena",
+          "sub": "Due fermate dal centro storico. La migliore scena gastronomica della città. Nessun menù turistico."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Evita le Trappole",
+      "intro": "Praga è famosa per la sua bellezza — e per le sue trappole. Fortunatamente sono tutte ben note e facili da evitare. Queste quattro sono in cima alla lista.",
+      "items": [
+        {
+          "icon": "💱",
+          "name": "Uffici di cambio '0% commissioni'",
+          "description": "La trappola più famosa della città: zero commissioni sull'insegna, disastro nel tasso di cambio. Alcuni uffici costano ai turisti il 20-30 percento.",
+          "instead": "Preleva corone da un bancomat (al tasso della tua banca — rifiuta sempre l'opzione DCC 'converti nella tua valuta'), oppure usa i noti uffici di cambio che confrontano i tassi."
+        },
+        {
+          "icon": "🌀",
+          "name": "Scambiare il trdelník per 'pasticcino tradizionale ceco'",
+          "description": "Quell'impasto rotante è un'invenzione commercializzata per i turisti; le nonne ceche non preparano il trdelník. Una volta per la foto, va bene — ma questa non è cucina ceca.",
+          "instead": "Per veri dolci prova i koláče o i větrník; trova una cukrárna (pasticceria) e assaggia la differenza."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Ristoranti direttamente sulla Piazza della Città Vecchia",
+          "description": "Tavoli con vista sull'Orologio Astronomico portano a conti astronomici; la cucina è spesso surgelata, il servizio frettoloso.",
+          "instead": "Ammira la piazza, mangia a Vinohrady o Žižkov: svíčková due volte più buona a metà prezzo."
+        },
+        {
+          "icon": "🚕",
+          "name": "Fermare i taxi per strada",
+          "description": "I taxi di Praga che girano liberamente sono famosi per la tariffa turistica; una negoziazione a mezzanotte fuori dalla stazione è già persa.",
+          "instead": "Usa un'app (Liftago, Bolt) o gli già eccellenti tram; i tram notturni circolano fino al mattino."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regola d'oro",
+        "text": "Più un posto è vicino al Ponte Carlo, più il conto costa come il ponte. Spostati di due fermate di tram e la città ti ringrazierà."
+      }
+    },
+    "itinerary": {
+      "title": "Itinerari Pronti",
+      "intro": "Se non ami pianificare, lasciati guidare da questi itinerari. Gli orari sono indicativi; segui lo spirito, non la lettera.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Se Hai 1 Giorno",
+          "subtitle": "Ponte, castello e birra — nel giusto ordine",
+          "steps": [
+            {
+              "time": "07:30",
+              "title": "Ponte Carlo — all'alba",
+              "description": "Prima delle 8 il ponte è tutto tuo: nebbia, statue e pietre silenziose. La mezz'ora più magica della giornata."
+            },
+            {
+              "time": "09:00",
+              "title": "Castello di Praga + San Vito",
+              "description": "Sali, ammira le vetrate della cattedrale, osserva la città dai cortili del castello. Scendi prima che arrivi la folla."
+            },
+            {
+              "time": "12:00",
+              "title": "Pranzo a Malá Strana",
+              "description": "Attraversa i Giardini di Wallenstein (saluta i pavoni), poi svíčková e birra in una hospoda."
+            },
+            {
+              "time": "14:30",
+              "title": "Città Vecchia + l'orologio",
+              "description": "Ammira l'Orologio Astronomico una volta (basta e avanza), poi scappa dalla piazza: i vicoli dietro Týn e Nový Svět sono molto più belli."
+            },
+            {
+              "time": "17:00",
+              "title": "Lungofiume Náplavka",
+              "description": "Passeggia lungo la Moldava, osserva i cigni, bevi una birra in un bar sul fiume. Se è sabato, il mercato contadino è un bonus."
+            },
+            {
+              "time": "19:30",
+              "title": "Serata in Hospoda",
+              "description": "Spalla a spalla con i locali in una birreria come U Zlatého Tygra: la birra arriva senza chiedere, la conversazione inizia da sé."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Se Hai 3 Giorni",
+          "subtitle": "Vivi la città da ospite, non da turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "I classici",
+              "description": "L'itinerario di 1 giorno qui sopra: ponte, castello, Malá Strana, hospoda."
+            },
+            {
+              "time": "Day 2",
+              "title": "Vyšehrad e Vinohrady",
+              "description": "Fortezza e cimitero di Vyšehrad al mattino (Dvořák riposa qui), i caffè di Vinohrady nel pomeriggio e una birra al tramonto a Riegrovy Sady."
+            },
+            {
+              "time": "Day 3",
+              "title": "Praga alternativa e arrivederci",
+              "description": "Arte contemporanea al DOX a Holešovice + la vista sulla città dal parco di Letná, saluta Praga tra i bar di Žižkov di notte; se osi, sali sulla torre della TV."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Il Kit di Sopravvivenza da 5 Parole",
+      "intro": "Il ceco sembra difficile, ma cinque parole sono sufficienti; ogni porta di birreria si apre con queste.",
+      "items": [
+        {
+          "word": "Dobrý den",
+          "pronunciation": "DOH-bree den",
+          "meaning": "Buon giorno — il saluto formale e sicuro che funziona ovunque"
+        },
+        {
+          "word": "Děkuji",
+          "pronunciation": "DYEH-koo-yee",
+          "meaning": "Grazie — sembra difficile, ma ci si riesce al secondo tentativo"
+        },
+        {
+          "word": "Prosím",
+          "pronunciation": "PROH-seem",
+          "meaning": "Prego / ecco a lei / di niente — il jolly ceco"
+        },
+        {
+          "word": "Na zdraví!",
+          "pronunciation": "nah ZDRAH-vee",
+          "meaning": "Salute! — contatto visivo obbligatorio, o dicono che porti sette anni di sfortuna"
+        },
+        {
+          "word": "Ahoj",
+          "pronunciation": "ah-HOY",
+          "meaning": "Ciao — la versione amichevole; un saluto da marinaio da un paese senza sbocco sul mare"
+        }
+      ]
+    }
+  }
+}

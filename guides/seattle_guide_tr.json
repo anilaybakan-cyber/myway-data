@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Seattle",
+    "country": "ABD",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#4D6B8A",
+    "color_light": "#EAEFF4",
+    "tagline": "Kahve buharı, feribot düdüğü ve dağ manzarasıyla zümrüt şehir"
+  },
+  "pills": [
+    "Kahve kültürünün başkenti",
+    "Dağ ile deniz arasında",
+    "Grunge'ın ve teknolojinin evi"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Seattle'a Hoş Geldin",
+      "intro": "Seattle iki su arasına sıkışmış bir zümrüt şerididir: bir yanda Puget Sound'un feribotları, öbür yanda Washington Gölü, ufukta ise bulutların arasından bir görünüp bir kaybolan Rainier Dağı. Bu şehir dünyaya kahve kültürünü, grunge müziğini ve yazılım devlerini verdi ama gündelik hayatı hâlâ pazar tezgahında, feribot güvertesinde ve mahalle kahvecisinde akar. Yağmur şöhreti abartılıdır — çiseler, geçer; yerli şemsiye bile taşımaz. 'Dağ çıktıysa' o gün her şey güzeldir.",
+      "local_word": {
+        "word": "The Mountain is out",
+        "pronunciation": "dı mauntın iz aut",
+        "definition": "'Dağ çıktı': Rainier'in bulutların arkasından görünmesini haber veren yerel deyiş. 4.392 metrelik volkan çoğu gün gizlidir; göründüğü sabah ofislerde, otobüslerde, kahvecilerde bu cümle dolaşır. Duyduğunda pencereye koş — Seattle'ın en güzel günleri bu cümleyle açılır."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Pike Place'e sabah git, ilk Starbucks kuyruğunu atla",
+          "description": "Pazar 09.00'da tezgah kurulumuyla capcanlıdır, öğlen ise omuz omuzadır: balık fırlatmayı, çiçekçileri ve zanaat tezgahlarını sabah sakinliğinde gör. 'İlk Starbucks' kuyruğu bir saat sürebilir — içerisi sıradan bir şubedir; kahveni şehrin bağımsız kavurucularında iç."
+        },
+        {
+          "number": 2,
+          "title": "Şemsiyeyi bırak, katman giy",
+          "description": "Seattle yağmuru sağanak değil çiseleyiştir: yerli kapüşonlu mont giyer, şemsiye turist işaretidir. Su geçirmez bir katman ve yürüyüş ayakkabısı yeter — yağmur programı iptal ettirmez, kahve molasına çevirir."
+        },
+        {
+          "number": 3,
+          "title": "Bir feribota bin — nereye olduğu önemli değil",
+          "description": "Puget Sound feribotları şehrin en güzel 'turudur': Bainbridge seferi 35 dakikada silüeti, dağları ve martıları sunar. Yaya bilet ucuzdur — karşıya geç, kasabada kahve iç, dönüşte gün batımını güvertede karşıla."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Sea-Tac (SEA)",
+          "sub": "Link treniyle merkeze ~40 dk"
+        },
+        {
+          "icon": "⛰️",
+          "label": "İmza",
+          "value": "Pike Place + Rainier",
+          "sub": "Pazar tezgahı ve volkan silüeti"
+        },
+        {
+          "icon": "💵",
+          "label": "Para birimi",
+          "value": "Dolar (USD)",
+          "sub": "Kart her yerde, bahşiş %18-20"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "İngilizce",
+          "sub": "Kibar ama mesafeli: Seattle Freeze"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Seattle felsefesi",
+        "text": "Bu şehirde hava değil, havaya rağmen yaşanır: çisede yürüyüş, bulutta kahve, güneşte herkes dışarıda. Programını esnek tut, 'sunbreak' geldiğinde dışarı fırla — Seattle günleri parça parça güzeldir ve o parçalar kaçırılmaz."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Seattle raylı sistemle rahatlamış bir tepe şehridir: Link treni omurga, feribotlar şölen, mahalleler yürünebilir adalar.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından geliş",
+          "description": "Sea-Tac'tan Link hafif rayı Downtown'a 40 dakikada bağlar: ucuz ve trafiksiz. ORCA kart ya da temassız ödeme — uygulama aracı trafiğe göre 25-50 dakikadır, tren çoğu saatte kazanır."
+        },
+        {
+          "icon": "🚈",
+          "title": "Link hafif rayı",
+          "description": "Kuzey-güney hattı üniversiteden havalimanına iner: Capitol Hill ve Downtown durakları turistin işini görür. Genişleyen ağ şehri hızla raylıya çeviriyor — otel seçimini hatta yakın yap."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Feribot ağı",
+          "description": "Colman Dock'tan Bainbridge ve Bremerton'a feribotlar gün boyu kalkar: yaya binişi ucuz ve zahmetsizdir. Güverte soğuk olabilir — manzara ceket farkını fazlasıyla öder."
+        },
+        {
+          "icon": "🚶",
+          "title": "Tepe yürüyüşleri",
+          "description": "Downtown-Pike Place-sahil üçgeni yürünebilir ama tepeli: Pike Place'ten sahile inen merdivenler ve yeni sahil promenadı keyifli rotadır. Capitol Hill ve Fremont kendi içinde yürünür."
+        },
+        {
+          "icon": "🚲",
+          "title": "Burke-Gilman patikası",
+          "description": "Eski demiryolu hattı göl kıyısı boyunca kilometrelerce bisiklet yolu sunar: Fremont'tan Gas Works'e bölüm klasiktir. Paylaşımlı bisiklet ve scooter yaygın — yağmursuz günde en iyi rota."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Feribot tüyosu",
+        "text": "Gün batımından kırk dakika önce Bainbridge feribotuna yaya bin: gidişte silüet altınlaşır, dönüşte şehir ışıkları yanar. Açık güvertede dur — Rainier çıktıysa manzara üçlenir. Şehrin en ucuz mucizesi bu bilettir."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Seattle'da seçim ritim seçimidir: pazara komşu Downtown, Capitol Hill'in gece enerjisi, Fremont'un tuhaf şirinliği, Ballard'ın İskandinav ruhu.",
+      "local_word": {
+        "word": "The Sound",
+        "pronunciation": "dı saund",
+        "definition": "Puget Sound'un yerli kısaltması: şehri batıdan saran buzul yadigarı iç deniz. Feribotlar onu kat eder, orkalar onda yüzer, gün batımı ona iner. 'Sound manzaralı oda' Seattle'da bir statüdür — yerli yön tarifini bile 'Sound tarafı' diye verir."
+      },
+      "items": [
+        {
+          "name": "Downtown ve Pike Place çevresi",
+          "badge": "Pazara komşu",
+          "badge_type": "hot",
+          "description": "Pazar tezgahlarına, sahile ve Link hattına yürüme mesafesi: ilk gelişin pratik üssü. Sabah pazarın kurulumunu izlemek bu konumun ödülüdür.",
+          "tags": [
+            "Pazara yürüme",
+            "Sahil promenadı",
+            "Link üstünde"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pike+Place+Market+Downtown+Seattle"
+        },
+        {
+          "name": "Capitol Hill",
+          "badge": "Gece enerjisi",
+          "badge_type": "vibe",
+          "description": "Kahveciler, plakçılar, barlar ve şehrin en canlı gece sahnesi: genç Seattle'ın kalbi. Link ile Downtown'a iki durak — enerji ve karakter arayana.",
+          "tags": [
+            "Kahve sahnesi",
+            "Gece hayatı",
+            "Link bağlantılı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Capitol+Hill+Seattle"
+        },
+        {
+          "name": "Ballard",
+          "badge": "İskandinav ruhu",
+          "badge_type": "local",
+          "description": "Eski balıkçı mahallesinin bira imalathaneleri, pazar günü sokak pazarı ve kanal kilitleri: kendi kasaba ritminde yaşar. Deniz mahsulü sofraları güçlü — sakin ve karakterli taraf.",
+          "tags": [
+            "Bira imalathaneleri",
+            "Pazar pazarı",
+            "Kanal kilitleri"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ballard+Seattle"
+        },
+        {
+          "name": "Fremont",
+          "badge": "Tuhaf ve şirin",
+          "badge_type": "local",
+          "description": "'Evrenin merkezi' ilan edilen mahalle: köprü altında trol heykeli, pazar günleri bit pazarı, kanal kıyısı yürüyüşleri. Seattle'ın mizah duygusu burada oturur.",
+          "tags": [
+            "Trol komşusu",
+            "Kanal yürüyüşü",
+            "Pazar biti"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fremont+Seattle"
+        },
+        {
+          "name": "Queen Anne",
+          "badge": "Manzara tepesi",
+          "badge_type": "value",
+          "description": "Space Needle'a komşu tepe mahalle: Kerry Park'ın meşhur silüet karesi buradadır. Sakin sokaklar, veranda kahvaltıları — manzara öncelikliye zarif üs.",
+          "tags": [
+            "Kerry Park",
+            "Needle komşusu",
+            "Sakin sokaklar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Queen+Anne+Seattle"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Seattle'ın sırrı takvimdedir: temmuz-eylül neredeyse yağmursuz bir cennettir, kış ise kahve ve müze mevsimidir.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Kiraz Çiçeği ve Sunbreak",
+          "months": "Mar – May",
+          "subtitle": "İlkbahar · Çiçekli kampüs, parçalı güneş",
+          "description": "Mart sonunda üniversite kampüsünün kiraz ağaçları pembe kubbeye döner, lale tarlaları kuzeyde açar. Hava kararsızdır: çise, güneş ve gökkuşağı aynı saate sığar — katman ve esneklik mevsimidir.",
+          "callout": {
+            "type": "tip",
+            "label": "Nisan ipucu",
+            "text": "Nisan başında UW kampüsünün Quad avlusuna sabah git: kiraz çiçekleri altında Gotik binalar — Seattle baharının kartpostalı. Bir saat kuzeydeki Skagit lale tarlalarıyla birleştirirsen gün tamamlanır."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Kuru Sezon Mucizesi",
+          "months": "Haz – Eyl",
+          "subtitle": "Yaz · Güneşli 24 derece, uzun akşamlar, dağ hep dışarıda",
+          "description": "Seattle yazı Amerika'nın en iyi saklanan sırrıdır: temmuz-ağustos neredeyse yağmursuz, 22.00'ye kadar aydınlık ve nemsizdir. Dağ çoğu gün dışarıdadır, göller yüzülür, şehir festivallenir — takvimin altın penceresi.",
+          "callout": {
+            "type": "tip",
+            "label": "Ağustos ipucu",
+            "text": "Ağustos akşamı Gas Works Park'ın tepesine otur: göl, silüet ve gün batımı tek karede. Rainier günü içinse arabayla iki saat — Paradise patikalarında kır çiçeği mevsimi tam bu haftalardadır."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Altın Yaprak ve Somon",
+          "months": "Eki – Kas",
+          "subtitle": "Sonbahar · Kızıl parklar, dönen somonlar, ilk çiseler",
+          "description": "Ekim şehri altına boyar, kanal kilitlerinde somonlar yuvaya döner, kahveciler kış moduna geçer. Çise başlar ama dramatik değildir — sakin, buğulu ve fotojenik bir mevsimdir.",
+          "callout": {
+            "type": "tip",
+            "label": "Ekim ipucu",
+            "text": "Ballard kilitlerinin balık merdivenine ekimde uğra: camın ardından somonların tırmanışını izle — ücretsiz ve büyüleyici. Dönüşte Ballard'da bir imalathane birası, güzün doğru kapanışıdır."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Kahve ve Buğu Mevsimi",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Kısa günler, çise, buharlı camlar",
+          "description": "Kış Seattle'ı içeri taşınır: kahveciler dolar, müzeler sakinleşir, erken kararan gün ışıklı vitrinlere devrolur. Kar nadirdir, çise sabittir — şehrin şöhretli 'gri'si bu aylarda hakkını verir ama kahve de tam bu yüzden bu kadar iyidir.",
+          "callout": {
+            "type": "tip",
+            "label": "Ocak ipucu",
+            "text": "Çiseli bir sabah kahve haritası çıkar: üç bağımsız kavurucu, üç farklı demleme, arada plakçı ve kitapçı molaları. Seattle kışının doğru okunuşu budur — şemsiyesiz, kapüşonlu ve elinde sıcak bardakla."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Seattle sofrası soğuk suların bereketidir: somon ve istiridye, pazar tezgahının taze uğultusu ve dünyanın en ciddi kahve bardağı.",
+      "local_word": {
+        "word": "Teriyaki",
+        "pronunciation": "teriyaki",
+        "definition": "Seattle'ın gündelik yemek imzası: 1970'lerde Japon göçmen ustaların açtığı küçük dükkanlarda doğan, tatlı-soyalı ızgara tavuk + pirinç formülü. Şehirde yüzlerce bağımsız teriyaki dükkanı vardır — ucuz, hızlı ve sahici. New York'un pizzası neyse, Seattle'ın teriyakisi odur."
+      },
+      "items": [
+        {
+          "icon": "☕",
+          "name": "Kahve ritüeli",
+          "description": "Starbucks burada doğdu ama şehrin kalbi bağımsız kavurucularda atar: single origin, pour over ve latte art ciddiyeti. Baristaya 'bugün ne demliyorsun' diye sor — Seattle'da bu soru saygı işaretidir.",
+          "tag": "Kavurucu turu · baristaya danış",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=coffee+roaster+Seattle"
+        },
+        {
+          "icon": "🐟",
+          "name": "Pike Place tezgah turu",
+          "description": "Balık fırlatan tezgahlar, piroshky fırını, chowder kasesi ve taze meyve: pazarın içinde ayaküstü tur en iyi öğle yemeğidir. Sabah git — tezgahların kurulumu gösterinin kendisidir.",
+          "tag": "Pazar turu · sabah saatinde",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pike+Place+Market+Seattle"
+        },
+        {
+          "icon": "🍗",
+          "name": "Teriyaki dükkanı klasiği",
+          "description": "Tatlı-soyalı ızgara tavuk, buharlı pirinç ve lahana salatası: mahalle teriyaki dükkanının tabldotu. Gösterişsiz vitrin, dolu masalar — Seattle'ın gündelik lezzet demokrasisi.",
+          "tag": "Şehir imzası · gösterişsiz dükkan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=teriyaki+Seattle"
+        },
+        {
+          "icon": "🦪",
+          "name": "İstiridye ve somon sofrası",
+          "description": "Puget Sound istiridyeleri buz üstünde, kızıl somon közde: soğuk suların bereketi tabakta. İstiridye barlarının happy hour'ı şehrin en iyi ekonomik lüksüdür — mevsim somonu sorulur, geçiştirilmez.",
+          "tag": "Soğuk su bereketi · happy hour",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=oyster+bar+Seattle"
+        },
+        {
+          "icon": "🍜",
+          "name": "ID District'te pho ve dim sum",
+          "description": "Chinatown-International District'in köklü mutfakları: buharlı pho kaseleri, dim sum arabaları ve Filipin fırınları. Çiseli günün en sıcak cevabı bu mahallededir.",
+          "tag": "Buharlı mahalle · çise ilacı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=pho+International+District+Seattle"
+        },
+        {
+          "icon": "🍩",
+          "name": "Doughnut ve dondurma sahnesi",
+          "description": "Artizan doughnut dükkanları ve yerel dondurmacılar tatlı rekabeti ciddiye alır: lavantalı ya da tuzlu karamelli top, kahvenin yanında imza kapanıştır.",
+          "tag": "Tatlı rekabet · kahve yanına",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=doughnut+Seattle"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sofra kuralı",
+        "text": "Seattle'da 'ilk Starbucks' kuyruğuna girme: aynı sürede iki bağımsız kavurucu gezersin ve ikisi de daha iyidir. Deniz mahsulünde mevsim sorusu saygı görür — 'bugün hangi istiridye?' diye sor, cevap seni doğru tabağa götürür."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Space Needle'ı herkes görür; bu altısı Seattle'ın feribot düdüklü, trol gölgeli saklı yüzü.",
+      "items": [
+        {
+          "rarity": "Endüstriyel gün batımı parkı",
+          "name": "Gas Works Park",
+          "description": "Eski gaz fabrikasının paslı kuleleri göl kıyısında heykele dönüşmüş: tepesinden silüet, yelkenliler ve gün batımı izlenir. Seattle'ın en sevilen çimi — uçurtma ve piknik yerlisiyle paylaşılır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gas+Works+Park+Seattle"
+        },
+        {
+          "rarity": "Silüetin tahtı",
+          "name": "Kerry Park",
+          "description": "Queen Anne tepesinin küçük terası: Space Needle, silüet ve açık günde Rainier aynı karede. Kartpostalların çekildiği nokta — gün batımından yirmi dakika önce yerini al.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kerry+Park+Seattle"
+        },
+        {
+          "rarity": "Somonlu kanal kapısı",
+          "name": "Ballard Kilitleri",
+          "description": "Deniz ile göl arasındaki gemi kilitleri ve balık merdiveni: tekneler yükselirken camın ardında somonlar tırmanır. Ücretsiz, mühendislik ve doğa aynı sahnede — botanik bahçesi de cabası.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ballard+Locks+Seattle"
+        },
+        {
+          "rarity": "Deniz feneri ve klif patikası",
+          "name": "Discovery Park",
+          "description": "Şehrin en büyük parkı: orman patikaları klifli sahile iner, West Point fenerinde Sound açılır. İki saatlik döngü rotası şehirden çıkmadan vahşi doğa verir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Discovery+Park+Seattle"
+        },
+        {
+          "rarity": "Köprü altında dev",
+          "name": "Fremont Trolü",
+          "description": "Aurora köprüsünün altında gerçek bir Volkswagen'i avuçlayan beton dev: mahallenin mizah anıtı. Fremont pazarı ve Lenin heykeliyle birleştir — 'evrenin merkezi' turu yarım gün ister.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fremont+Troll+Seattle"
+        },
+        {
+          "rarity": "Feribotla kasaba kaçamağı",
+          "name": "Bainbridge Adası",
+          "description": "35 dakikalık feribotla ada kasabası: ana caddede kitapçı, şarap tadım odaları ve sakin koylar. Dönüş güvertesinde silüet manzarası — Seattle'ın en keyifli yarım günü.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bainbridge+Island+ferry"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Manzara stratejisi",
+        "text": "Seattle manzaraları saatle çalışır: Kerry Park gün batımı, Gas Works akşamüstü, feribot güvertesi altın saat. 'Dağ çıktıysa' her planı boz ve manzara noktasına koş — Rainier'li kare, Seattle'ın en değerli hatırasıdır."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Seattle dürüst bir şehirdir; tuzakları küçük ama vakit yutucudur — bu dördünü bil.",
+      "items": [
+        {
+          "icon": "☕",
+          "name": "'İlk Starbucks' kuyruğu",
+          "description": "Pike Place'teki tarihi şube önünde bir saatlik kuyruk: içeride sıradan menü ve hediyelik bardak satışı vardır — kahve deneyimi değil, fotoğraf molasıdır.",
+          "instead": "Cepheyi dışarıdan fotoğrafla ve iki sokak ötedeki bağımsız kavurucuya geç: Seattle kahvesinin gerçeği orada demleniyor. Pazar içindeki köklü tezgahlar da kuyruksuz ve üstündür."
+        },
+        {
+          "icon": "🗼",
+          "name": "Space Needle'ı tek manzara sanmak",
+          "description": "Needle bileti pahalıdır ve manzarasında Needle'ın kendisi yoktur; kuyruk yaz günlerinde uzar.",
+          "instead": "Silüeti Needle'LA birlikte görmek için Kerry Park ücretsizdir; Smith Tower'ın tarihi gözlem katı daha ucuz ve karakterlidir. Needle'a çıkacaksan gün batımı seansını önceden biletle."
+        },
+        {
+          "icon": "🌂",
+          "name": "Şemsiyeyle gezmek",
+          "description": "Seattle çisesi şemsiyeyi işe yaramaz kılar: rüzgar ters çevirir, yerli tuhaf bakar, elin meşgul olur.",
+          "instead": "Kapüşonlu su geçirmez mont ve yürüyüş ayakkabısı: yerli üniforması budur. Çise programı bozmaz — 'sunbreak' gelince zaten güneş açar, sen yoluna devam et."
+        },
+        {
+          "icon": "🅿️",
+          "name": "Pike Place'e arabayla dalmak",
+          "description": "Pazar çevresinin dar sokakları ve pahalı otoparkları öğlen kilitlenir: park arayışı pazar keyfini yutar.",
+          "instead": "Link ya da yürüyüşle gel; araç şartsa sahil otoparklarını kullan. Pazar sabah 09.00'da hem park hem tezgah sakinliği sunar — geç kalan kalabalığı, erken gelen pazarı görür."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Seattle'da en iyi şeyler ya ücretsiz ya sabahtır: pazar kurulumu, feribot güvertesi, Kerry Park ve balık merdiveni para istemez. Bütçeyi kahveye, istiridyeye ve bir Rainier gününe sakla — şehir gerisini çiseyle ve manzarayla hediye eder."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Pazar sabahından feribot gün batımına",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Pike Place kurulumu",
+              "description": "Tezgahlar kurulurken pazara gir: balık fırlatma, çiçek kuleleri ve ilk piroshky. Kahveni bağımsız kavurucudan al."
+            },
+            {
+              "time": "10:30",
+              "title": "Sahil promenadı ve akvaryum",
+              "description": "Pazardan merdivenlerle sahile in: yeni promenatta yürü, istersen akvaryumda su samurlarına uğra."
+            },
+            {
+              "time": "12:30",
+              "title": "Teriyaki ya da chowder öğleni",
+              "description": "Mahalle teriyaki dükkanında tabldot ya da pazar tezgahında chowder: Seattle'ın gündelik lezzeti."
+            },
+            {
+              "time": "14:00",
+              "title": "Seattle Center ve müzik müzesi",
+              "description": "Monorail ile Seattle Center'a: MoPOP'un gitar kulesi ve grunge hafızası ya da Chihuly'nin cam bahçesi — seçim senin."
+            },
+            {
+              "time": "16:30",
+              "title": "Kerry Park karesi",
+              "description": "Queen Anne tepesine çık: Needle, silüet ve şanslıysan Rainier. Şehrin kartpostalı bu terastan çekilir."
+            },
+            {
+              "time": "18:00",
+              "title": "Bainbridge feribotu gün batımı",
+              "description": "Yaya biletiyle güverteye çık: gidişte altın silüet, dönüşte şehir ışıkları. Kapanış Downtown'da istiridye happy hour'ı."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Pazar, kanallar ve dağ — tam Seattle",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Seattle",
+              "description": "Yukarıdaki 1 günlük akış: pazar sabahı, sahil, Seattle Center, Kerry Park, feribot gün batımı."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Kuzey mahalleleri",
+              "description": "Sabah Fremont: trol, kanal yürüyüşü ve kahve; öğlen Ballard Kilitleri'nde somon merdiveni; ikindi Ballard'da imalathane birası ve dükkan turu; akşam Gas Works tepesinde gün batımı + Wallingford'da akşam yemeği."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Dağ ya da ada günü",
+              "description": "Açık havaysa Rainier'e tam gün (Paradise patikaları, kır çiçekleri ya da kar manzarası); değilse Capitol Hill kahve turu + ID District'te dim sum + müze öğleden sonrası. Veda sofrası közde somon — dağ görünmese de tabakta."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Seattle dili yumuşak, esprili ve hava durumuyla iç içedir; bu beş ifade şehrin frekansını yakalar.",
+      "items": [
+        {
+          "word": "The Mountain is out",
+          "pronunciation": "dı mauntın iz aut",
+          "meaning": "'Dağ çıktı' — Rainier göründü, gün güzelleşti; duyunca pencereye koş"
+        },
+        {
+          "word": "Sunbreak",
+          "pronunciation": "sanbreyk",
+          "meaning": "Bulutların arasından güneş molası — Seattle hava durumunun resmi kelimesi"
+        },
+        {
+          "word": "Seattle Freeze",
+          "pronunciation": "sietıl friz",
+          "meaning": "Şehrin kibar ama mesafeli sosyalliğinin adı — kişisel algılama, kahve teklif et"
+        },
+        {
+          "word": "The Sound",
+          "pronunciation": "dı saund",
+          "meaning": "Puget Sound'un kısaltması — feribotların ve orkaların iç denizi"
+        },
+        {
+          "word": "Drip",
+          "pronunciation": "drip",
+          "meaning": "Filtre kahvenin yerli adı — 'just a drip, please' en sade ve saygın sipariştir"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Seattle Checklist",
+      "completion_message": "The Mountain is out! Zümrüt şehri hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Pike Place'te balık fırlatmayı izle",
+          "sub": "Sabah kurulum saatinde — kalabalıksız"
+        },
+        {
+          "label": "Bağımsız kavurucuda pour over iç",
+          "sub": "İlk Starbucks kuyruğu yerine"
+        },
+        {
+          "label": "Bainbridge feribotunda güverteye çık",
+          "sub": "Gün batımı seferi — silüet altınlaşır"
+        },
+        {
+          "label": "Kerry Park'tan silüet karesini çek",
+          "sub": "Needle + Rainier, açık günde"
+        },
+        {
+          "label": "Ballard Kilitleri'nde somon merdiveni gör",
+          "sub": "Camın ardında tırmanış — ücretsiz"
+        },
+        {
+          "label": "Fremont Trolü'yle yüzleş",
+          "sub": "Köprü altında Volkswagen avuçlayan dev"
+        },
+        {
+          "label": "Gas Works tepesinde gün batımı otur",
+          "sub": "Paslı kuleler ve göl silüeti"
+        },
+        {
+          "label": "Teriyaki tabldotunu mahalle dükkanında ye",
+          "sub": "Şehrin gündelik imzası"
+        },
+        {
+          "label": "İstiridye happy hour'ına otur",
+          "sub": "'Bugün hangi istiridye?' diye sor"
+        },
+        {
+          "label": "MoPOP'ta grunge hafızasına dal",
+          "sub": "Gitar kulesi ve Nirvana odaları"
+        }
+      ]
+    }
+  }
+}

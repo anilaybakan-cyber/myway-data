@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Zermatt",
+    "country": "İsviçre",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#4E5A6E",
+    "color_light": "#ECEFF3",
+    "tagline": "Arabasız köy, buzul trenleri ve Matterhorn'un gölgesi"
+  },
+  "pills": [
+    "Benzinli araç girmez",
+    "Matterhorn: dünyanın en ünlü zirvesi",
+    "Avrupa'nın en yüksek açık hava treni"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Zermatt'a Hoş Geldin",
+      "intro": "Zermatt tek bir dağın etrafında kurulmuş bir ibadete benzer: Matterhorn'un eğri piramidi her sokağın ucunda, her balkonun karşısında, her fotoğrafın köşesindedir. Köye benzinli araba giremez — elektrikli mini taksiler vızıldar, kayakçılar tren garından pistlere yürür, yüzyıllık kararmış ahşap ambarlar butik otellerin arasında durur. Kışın dünyanın en yüksek kayak bölgelerinden biri, yazın patika cennetidir. Zirve bulutunu açtığı an köyde herkesin başı aynı yöne döner — sen de döneceksin.",
+      "local_word": {
+        "word": "Horu",
+        "pronunciation": "horu",
+        "definition": "Matterhorn'un yerel Valais lehçesindeki adı: köylü dağına 'ds Horu' der — 'Boynuz'. Bir Zermattlı'nın 'Horu açık mı?' sorusu, günün planını belirleyen milli hava durumu bültenidir."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Zirve saatini sabaha kur",
+          "description": "Matterhorn öğleden sonra sık sık bulut şapkasını takar: net görüş şansı sabah saatlerinde en yüksektir. Gornergrat ve fotoğraf planlarını erken saate koy — öğleden sonrayı köye ve vadiye bırak."
+        },
+        {
+          "number": 2,
+          "title": "Yüksekliğe saygı, katmana güven",
+          "description": "Köy 1600, zirve istasyonları 3000-3900 metrededir: yükseklik hissedilir, hava dakikada döner. Yavaş tırman, su iç, güneş kremini ihmal etme — dağ güneşi karda iki kat yakar."
+        },
+        {
+          "number": 3,
+          "title": "Arabanı Täsch'te bırak",
+          "description": "Zermatt'a özel araç giremez: sürücüler aracı Täsch terminaline bırakır, mekik trenle 12 dakikada köye iner. Bagaj arabaları trene kadar gelir — sistem kusursuz işler, direnme."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚆",
+          "label": "Ulaşım",
+          "value": "Täsch'ten mekik tren",
+          "sub": "Araçsız köy · Visp'ten ~1 saat"
+        },
+        {
+          "icon": "🚡",
+          "label": "Köy içi",
+          "value": "Yayan + e-taksi",
+          "sub": "Elektrikli minibüsler ve yaya sokaklar"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Almanca (Valais lehçesi)",
+          "sub": "İngilizce her yerde sorunsuz"
+        },
+        {
+          "icon": "🏔️",
+          "label": "İmza",
+          "value": "Matterhorn (4478 m)",
+          "sub": "Gornergrat treni en iyi loca"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Zermatt felsefesi",
+        "text": "Bu köyde plan Horu'ya göre yapılır: zirve açıksa her şeyi bırak yukarı çık, kapalıysa köy müzesi, hamam ve fondü saati. Dağ takvimi senin takviminden üstündür — kabullen, rahatla."
+      }
+    },
+    "transport": {
+      "title": "Köyde ve Dağda Ulaşım",
+      "intro": "Zermatt ulaşımı üç boyutludur: sokaklar yayan, vadiler trenle, zirveler teleferikle — hepsi saat gibi işler.",
+      "items": [
+        {
+          "icon": "🚆",
+          "title": "Geliş — Visp ve Täsch üzerinden",
+          "description": "Ana hat treni Visp'te dağ hattına bağlanır; araçlılar Täsch terminalinde park edip 12 dakikalık mekik trene biner. Cenevre-Zürih yönünden toplam yolculuk manzarasıyla ödüllendirir."
+        },
+        {
+          "icon": "🚞",
+          "title": "Gornergrat treni — açık hava locası",
+          "description": "1898'den beri çalışan dişli tren köyden 3089 metreye tırmanır: sağ tarafa otur, Matterhorn yol boyu penceredir. Zirvede buzul amfitiyatrosu ve 29 dört binlik seni bekler."
+        },
+        {
+          "icon": "🚡",
+          "title": "Matterhorn Glacier Paradise hattı",
+          "description": "Teleferik zinciri Avrupa'nın en yüksek teleferik istasyonuna (3883 m) çıkar: buzul sarayı, yaz kayağı ve İtalya tarafına bakış. Crystal Ride kabinlerinin camlı tabanı cesaret bonusudur."
+        },
+        {
+          "icon": "🚶",
+          "title": "Köy içi yayan + e-taksi",
+          "description": "Ana cadde (Bahnhofstrasse) uçtan uca on dakikadır; oteller misafirlerini elektrikli minibüslerle taşır. Sessizliğe kulak ver — motor yerine nal sesi ve dere uğultusu duyarsın."
+        },
+        {
+          "icon": "🥾",
+          "title": "Patikalar ve kızak yolları",
+          "description": "400 km yaz patikası ve kışın yürüyüşe açık kar yolları: Sunnegga füniküleri beş göl rotasının, Furi teleferiği buzul geçidinin kapısıdır. Patika işaretleri İsviçre standardında kusursuzdur."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tren tüyosu",
+        "text": "Gornergrat'a ilk trenle çık, dönüşte Riffelberg ya da Rotenboden'de in ve bir etabı yürü: tren hattı boyunca inen patikalar, bilet parasının iki katı manzara verir. Rotenboden-Riffelsee inişi, yansıma fotoğrafının resmi rotasıdır."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Zermatt'ta soru balkon sorusudur: Horu'ya bakan cephe mi, dere sesi mi, pist kenarı mı?",
+      "local_word": {
+        "word": "Gädi",
+        "pronunciation": "gedi",
+        "definition": "Valais'nin kararmış ahşap tahıl ambarları: fare girmesin diye taş diskler üstünde duran yüzyıllık yapılar. Hinterdorf sokağında hâlâ dizi dizi dururlar — köyün en eski fotoğraf stüdyosu orasıdır."
+      },
+      "items": [
+        {
+          "name": "Bahnhofstrasse ve merkez",
+          "badge": "En pratik",
+          "badge_type": "vibe",
+          "description": "Ana caddenin üstünde ve çevresinde: gara, teleferiklere ve restoranlara yürüme mesafesi. Kayak sezonunda canlı, aprés-ski sesi dahil — konum her şeyi kolaylaştırır.",
+          "tags": [
+            "Gara yakın",
+            "Restoran bolluğu",
+            "Sezonda canlı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bahnhofstrasse+Zermatt"
+        },
+        {
+          "name": "Hinterdorf çevresi",
+          "badge": "En karakterli",
+          "badge_type": "local",
+          "description": "Yüzyıllık ahşap ambarların mahallesi: eski Zermatt dokusu, taş çatılar ve sessiz sokaklar. Merkeze iki dakika, atmosferi iki yüzyıl geride — tarih içinde uyanmak isteyene.",
+          "tags": [
+            "Tarihi ambarlar",
+            "Sessiz sokaklar",
+            "Merkeze iki dakika"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hinterdorf+Zermatt"
+        },
+        {
+          "name": "Matterhorn cephesi — güney balkonlar",
+          "badge": "En manzaralı",
+          "badge_type": "hot",
+          "description": "Horu'ya bakan balkonlu otel ve dağ evleri: sabah perdeyi aç, zirve yatağının karşısında. Fiyat manzarayla katlanır — Zermatt'a bir kez gelinir, çoğu kişi burada kalır.",
+          "tags": [
+            "Zirve manzarası",
+            "Balkon kahvaltısı",
+            "Fiyat zirvesi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zermatt+Matterhorn+view+hotel"
+        },
+        {
+          "name": "Winkelmatten",
+          "badge": "En sakin",
+          "badge_type": "value",
+          "description": "Köyün üst mahallesi: şale sokakları, aile pansiyonları ve pistlere kestirme. Merkez yürüyüşü beş-on dakika — sükunet ve kayak dengesi arayana.",
+          "tags": [
+            "Şale mahallesi",
+            "Piste yakın",
+            "Aile pansiyonları"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Winkelmatten+Zermatt"
+        },
+        {
+          "name": "Täsch",
+          "badge": "Bütçe üssü",
+          "badge_type": "value",
+          "description": "Vadinin aşağısındaki terminal köyü: fiyatlar belirgin dostane, Zermatt'a mekik tren 12 dakika. Araçla gelen ve bütçeyi dağ biletlerine saklayanların mantıklı seçimi.",
+          "tags": [
+            "Uygun fiyat",
+            "Araç parkı",
+            "Mekik tren"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Täsch"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Zermatt çift sezonlu bir sahnedir: kışın kayak katedrali, yazın patika cenneti; aralar sessiz ama zirve hep yerinde.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Bahar Karı ve Ara Sezon",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Yüksekte kayak, vadide ilk yeşil",
+          "description": "Nisan sonuna dek yüksek pistlerde bahar karı kayılır; mayıs-haziran köyün nefes aldığı ara sezondur — bazı tesisler bakıma girer, fiyatlar yumuşar, patikaların alçak kotları açılır.",
+          "callout": {
+            "type": "tip",
+            "label": "Haziran ipucu",
+            "text": "Haziranda gel: yaylalar çiçekte, dereler kar suyuyla gür, köy sakin. Yüksek patikalarda kar kalıntısı olabilir — rotayı açılış durumuna göre seç, bilgiyi turizm ofisi güncel tutar."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Patika Zirvesi",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · 400 km patika, göl yansımaları",
+          "description": "Yürüyüş sezonunun kalbi: beş göl rotası, buzul geçitleri ve Avrupa'nın en yüksek zirve istasyonları tam kapasite çalışır. Hava sabah berrak, öğleden sonra bulut üretir — erken çıkan kazanır.",
+          "callout": {
+            "type": "tip",
+            "label": "Temmuz ipucu",
+            "text": "Riffelsee'ye ilk trenle git: rüzgar çıkmadan gölde Matterhorn yansıması ayna gibidir. Saat 10 sonrası hem rüzgar hem kalabalık yansımayı bozar — bu fotoğrafın vardiyası sabah 8'dir."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Altın Lärchen",
+          "months": "Eyl – Eki",
+          "subtitle": "Sonbahar · Sarı melez ormanları, berrak zirveler",
+          "description": "Eylül-ekim Zermatt'ın gizli şaheseridir: melez ormanları altın sarısına döner, hava berraklaşır, patikalar boşalır. İlk kar zirveleri pudralar — fotoğrafın en cömert mevsimi.",
+          "callout": {
+            "type": "tip",
+            "label": "Ekim ipucu",
+            "text": "Ekim başında Sunnegga-Findeln hattını yürü: altın lärchen'ler, kararmış şaleler ve karlı Horu aynı karede. Findeln'in dağ restoranlarında sezon kapanışı sakinliği — masalar manzaralı, rezervasyon kolay."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Kayak Katedrali",
+          "months": "Kas – Mar",
+          "subtitle": "Kış · 360 km pist, İtalya'ya kayak, aprés-ski",
+          "description": "Üç bölgeli dev kayak alanı İtalya'nın Cervinia'sına bağlanır: yükseklik kar garantisi verir, sezon uzundur. Köy ışıl ışıl, fiyatlar zirvede — yılbaşı ve şubat tatili aylar önce dolar.",
+          "callout": {
+            "type": "warning",
+            "label": "Sezon notu",
+            "text": "Kış tatilini erken kilitle: yılbaşı ve şubat yarıyılında köy aylar önce dolar. Pist dışına rehbersiz çıkma — buzul bölgesinin kuralları serttir ve sebepleri ciddidir."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Valais mutfağı dağın mutfağıdır: erimiş peynir, kurutulmuş et, çavdar ekmeği ve Avrupa'nın en yüksek bağlarının şarabı.",
+      "local_word": {
+        "word": "Cholera",
+        "pronunciation": "kolera",
+        "definition": "Adı korkutan, kendisi sevimli Valais böreği: patates, pırasa, elma ve peynir aynı hamurda. Adını salgın günlerinde evdeki malzemeyle yapılmasından alır — tarihin en lezzetli zorunluluğu."
+      },
+      "items": [
+        {
+          "icon": "🧀",
+          "name": "Raclette du Valais — memleketinde",
+          "description": "Raclette'in anavatanındasın: tekerin yüzü ateşte eritilir, patatese kazınır, turşuyla dengelenir. Köy restoranlarında 'AOP Valais' ibaresi gerçeğin mührüdür.",
+          "tag": "Anavatanında · AOP mührüyle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Walliserkanne+Zermatt"
+        },
+        {
+          "icon": "🫕",
+          "name": "Fondü — zirve sonrası kazan",
+          "description": "Soğuk pist gününün resmi kapanışı: kazan ortada, ekmek şişte, beyaz şarap yanında. Ekmeği kazanda düşürenin cezası masada belirlenir — gelenek ciddidir.",
+          "tag": "Pist sonrası · kazan ortada",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Whymper-Stube+Zermatt"
+        },
+        {
+          "icon": "🥩",
+          "name": "Walliserteller — kurutulmuş et tabağı",
+          "description": "Dağ havasında kurutulmuş sığır eti, füme jambon, dağ peyniri ve çavdar ekmeği: Valais'nin şarküteri gururu tek tabakta. Fendant şarabıyla açılış klasiğidir.",
+          "tag": "Başlangıç klasiği · Fendant ile",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Schäferstube+Zermatt"
+        },
+        {
+          "icon": "🥧",
+          "name": "Cholera böreği",
+          "description": "Patates-pırasa-elma-peynir dörtlüsünün hamur işi hali: dağ kulübelerinde ve köy fırınlarında bulunur. Tuhaf adına takılma — tatlı-tuzlu dengesi şaşırtıcı derecede iyidir.",
+          "tag": "Valais mirası · kulübede dene",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bäckerei+Fuchs+Zermatt"
+        },
+        {
+          "icon": "🍷",
+          "name": "Yüksek bağların şarabı — Heida",
+          "description": "Avrupa'nın en yüksek bağlarından (Visperterminen, 1150 m) gelen Heida beyazı ve Valais'nin Fendant'ı: dağ sofrasının yerli kadehleri. 'Dağ şarabı' burada pazarlama değil, coğrafyadır.",
+          "tag": "Yerel kadeh · yüksek bağlardan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Visperterminen+Heida+wine"
+        },
+        {
+          "icon": "🫖",
+          "name": "Dağ kulübesi molası",
+          "description": "Patika üstü kulübelerde (Findeln, Zum See yönü) rösti, ev turtası ve manzaralı sıcak çikolata: Zermatt'ta öğle yemeğinin en iyi adresi çoğu zaman 2100 metrededir. Güneşli terasta rezervasyon sezonda şarttır.",
+          "tag": "Patika üstünde · güneşli terasta",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chez+Vrony+Findeln"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bütçe tüyosu",
+        "text": "Zermatt fiyatları zirve rakımıyla yarışır: dengeyi fırın sandviçi + market pikniği + tek iyi akşam yemeği üçlüsüyle kur. Dağ istasyonu self-servisleri de restoranlardan belirgin dosttur — manzara aynı, hesap değil."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Gornergrat'ı herkes bilir; bu altısı Zermatt'ın sakin katmanları.",
+      "items": [
+        {
+          "rarity": "Ayna gölün sabahı",
+          "name": "Riffelsee yansıması",
+          "description": "Rotenboden durağından beş dakikada: rüzgarsız sabahta Matterhorn gölde ikizini bulur. Fotoğrafçıların şafak nöbeti buradadır — sen de ilk trenle katıl, sonra Riffelberg'e yürüyerek in.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Riffelsee+Zermatt"
+        },
+        {
+          "rarity": "Köyün içinde 16. yüzyıl",
+          "name": "Hinterdorf sokağı",
+          "description": "Ana caddenin iki adım arkasında kararmış ahşap ambarlar ve taş diskli kilerler: köyün turizm öncesi hali burada donmuş. Akşam feneri yanınca sokak, zaman makinesine döner.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hinterdorf+Zermatt"
+        },
+        {
+          "rarity": "Dağa verilen bedelin hafızası",
+          "name": "Dağcı Mezarlığı",
+          "description": "Kilise bahçesindeki mezarlıkta Matterhorn'a ve çevre zirvelere hayatını veren dağcılar yatar: 1865 ilk tırmanış faciasının izleri de burada. Köyün en sessiz ve en derin köşesi.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mountaineers+Cemetery+Zermatt"
+        },
+        {
+          "rarity": "Buzulun oyduğu koridor",
+          "name": "Gorner Boğazı (Gornerschlucht)",
+          "description": "Köyün ucundaki buzul suyu kanyonu: ahşap köprüler turkuaz suyun üstünde asılıdır. Yarım saatlik tur, öğleden sonra bulutlu günün en iyi B planıdır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gorner+Gorge+Zermatt"
+        },
+        {
+          "rarity": "Şalelerin arasında öğle",
+          "name": "Findeln yaylası",
+          "description": "Sunnegga'dan inen patikadaki eski yayla köyü: kararmış şaleler, altın melezler ve Horu manzaralı dağ restoranları. Kayakçılar kışın, yürüyüşçüler yazın aynı teraslarda buluşur.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Findeln+Zermatt"
+        },
+        {
+          "rarity": "Beş gölün rotası",
+          "name": "5-Seenweg'in az bilinen gölleri",
+          "description": "Beş göl rotasının yıldızı Stellisee'dir ama Grindjisee'nin melez çerçevesi ve Leisee'nin yüzme iskelesi çoğu ziyaretçiden kaçar: rotayı tamamla, her göl başka bir Horu portresi verir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=5-Seenweg+Zermatt"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Gün batımı tüyosu",
+        "text": "Akşam ışığında köyden yukarı — kilise köprüsüne ya da Winkelmatten yönüne — yürü: alpenglow denen pembe yangın önce Horu'nun ucunu, sonra bütün duvarı sarar. Beş dakika sürer, ömür boyu kalır."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Zermatt dürüsttür ama dağ turizminin fiyat ve beklenti oyunları buralarda da geçerlidir.",
+      "items": [
+        {
+          "icon": "🌫️",
+          "name": "Kapalı havada zirve bileti yakmak",
+          "description": "Teleferik biletleri ciddi paradır; bulutun içindeki zirvede buzul sarayı dışında görecek şey kalmaz.",
+          "instead": "Sabah webcam'lere bak (köyün her ekranında akar): Horu kapalıysa günü boğaz, müze, hamam ve fondüyle takas et. Bilet kaçmaz — bulut geçer."
+        },
+        {
+          "icon": "🎿",
+          "name": "Ekipmanı plansız kiralamak",
+          "description": "Sezon zirvesinde kayak ekipmanını son dakika arayan, kalan bedenlere kalan fiyatı öder.",
+          "instead": "Ekipmanı online önceden rezerve et, çok günlü kiralamada indirim iste. Yürüyüşçüysen baton ve bot kalitesinden kısma — patikalar taşlıdır, dizler tektir."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Ana cadde vitrininde her öğün",
+          "description": "Bahnhofstrasse'nin vitrin restoranları turist temposuyla çalışır: fiyat yüksek, mutfak ortalama olabilir.",
+          "instead": "Bir sokak içeri gir ya da öğleni dağ kulübesinde ye: aynı bütçeyle hem manzara hem mutfak kazanırsın. Akşam için yerlinin önerdiği raclette adresini sor."
+        },
+        {
+          "icon": "🥾",
+          "name": "Yüksekliği hafife almak",
+          "description": "Deniz seviyesinden gelip ilk gün 3800 metreye çıkan, baş ağrısı ve nefes darlığıyla tanışır; buzul bölgesinde patika dışına çıkan ciddi risk alır.",
+          "instead": "İlk günü köy ve orta kotlarda geçir, yüksekliğe kademeli çık, bol su iç. Buzul bölgesinde işaretli rotadan ayrılma — o çizgiler süs değil, sigortadır."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Zermatt'ta en pahalı hata acele, en iyi yatırım sabırdır: zirveyi açık güne, büyük harcamayı planlı seçime sakla. Horu dört bin yıldır orada — senin iki saatlik esnekliğini bekleyebilir."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz. (Yaz kurgusu — kışın patika yerine pist geçer.)",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Yansımadan alpenglow'a bir Horu günü",
+          "steps": [
+            {
+              "time": "07:00",
+              "title": "İlk trenle Gornergrat",
+              "description": "Sağ pencereye otur: Horu yol boyunca eşlik eder. Zirvede buzul amfitiyatrosu ve 29 dört binlik — kahvaltını terasta yap."
+            },
+            {
+              "time": "09:00",
+              "title": "Riffelsee yansıması",
+              "description": "Rotenboden'de in, beş dakikada göle yürü: rüzgar çıkmadan ayna fotoğrafını çek, sonra Riffelberg'e patikadan in."
+            },
+            {
+              "time": "12:30",
+              "title": "Findeln'de kulübe öğleni",
+              "description": "Sunnegga yönüne geç, Findeln şalelerinin terasında rösti + Heida: manzara menüye dahildir."
+            },
+            {
+              "time": "15:00",
+              "title": "Leisee ve köye iniş",
+              "description": "Leisee'de cesaret yüzmesi ya da iskele molası; füniküler ya da patikayla köye in, Hinterdorf'un ambar sokağından geç."
+            },
+            {
+              "time": "18:00",
+              "title": "Alpenglow nöbeti",
+              "description": "Kilise köprüsünde yerini al: Horu'nun pembe yangınını izle — köyün en sessiz beş dakikası."
+            },
+            {
+              "time": "19:30",
+              "title": "Fondü kapanışı",
+              "description": "Kazan ortada, Fendant yanda: pist ve patika günü Valais usulü mühürlenir. Ekmeği düşürme — ceza masada konuşulur."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Zirveler, göller ve buzul — tam doz Horu",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Zermatt",
+              "description": "Yukarıdaki 1 günlük akış: Gornergrat, Riffelsee, Findeln, alpenglow, fondü."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Buzul dünyası",
+              "description": "Matterhorn Glacier Paradise'a teleferik zinciri: buzul sarayı, 3883 metre terası ve İtalya manzarası; inişte Furi'de mola + Gorner Boğazı köprüleri; akşam raclette ve dağcı mezarlığında sessiz saygı."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Beş göl ve veda",
+              "description": "5-Seenweg rotasını tamamla: Stellisee'den Leisee'ye her göl başka Horu portresi; öğle kulübede, ikindi köyde hamam ya da Bahnhofstrasse turu; veda akşamı cholera böreği + son alpenglow."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Valais lehçesi dağ gibi sağlamdır; bu beşi patikada da kulübede de kapı açar.",
+      "items": [
+        {
+          "word": "Grüezi / Grüessech",
+          "pronunciation": "grütsi / grüesseh",
+          "meaning": "Merhaba — patikada karşılaşan herkes selamlaşır, kural gibidir"
+        },
+        {
+          "word": "Merci vilmal",
+          "pronunciation": "mersi filmal",
+          "meaning": "Çok teşekkürler — kulübe terasında da geçer"
+        },
+        {
+          "word": "En Guete!",
+          "pronunciation": "en gute",
+          "meaning": "Afiyet olsun — fondü kazanı açılırken söylenir"
+        },
+        {
+          "word": "Proscht!",
+          "pronunciation": "proşt",
+          "meaning": "Şerefe! — Fendant kadehi kalkarken göz teması şart"
+        },
+        {
+          "word": "Ds Horu",
+          "pronunciation": "ds horu",
+          "meaning": "'Boynuz' — Matterhorn'un yerli adı; kullanırsan köylü gülümser"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Zermatt Checklist",
+      "completion_message": "Proscht! Horu'nun gölgesini hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Gornergrat'a ilk trenle çık",
+          "sub": "Sağ pencere — Horu yol boyu"
+        },
+        {
+          "label": "Riffelsee'de yansımayı yakala",
+          "sub": "Rüzgarsız sabah — vardiya 8'de"
+        },
+        {
+          "label": "Alpenglow'un pembe yangınını izle",
+          "sub": "Gün batımında kilise köprüsünden"
+        },
+        {
+          "label": "Hinterdorf'un ambarları arasında yürü",
+          "sub": "16. yüzyıl — iki adım arkada"
+        },
+        {
+          "label": "Raclette'i anavatanında kazı",
+          "sub": "AOP Valais mührüyle"
+        },
+        {
+          "label": "Fondü kazanına ekmek ban",
+          "sub": "Düşürme — ceza masada"
+        },
+        {
+          "label": "Buzul sarayında 3883'e çık",
+          "sub": "Glacier Paradise — Avrupa'nın en yükseği"
+        },
+        {
+          "label": "Beş göl rotasını tamamla",
+          "sub": "Her göl başka Horu portresi"
+        },
+        {
+          "label": "Dağcı mezarlığında sessiz dur",
+          "sub": "Dağa verilen bedelin hafızası"
+        },
+        {
+          "label": "Kulübe terasında Heida iç",
+          "sub": "Avrupa'nın en yüksek bağlarından"
+        }
+      ]
+    }
+  }
+}

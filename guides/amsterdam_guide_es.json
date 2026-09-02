@@ -1,0 +1,543 @@
+{
+  "meta": {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#1A6B5A",
+    "color_light": "#E8F5F1",
+    "tagline": "Libertad, canales y más bicicletas que personas",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Solo pago con tarjeta",
+    "No uses carriles bici",
+    "Ambiente acogedor"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Ámsterdam",
+      "intro": "Desde el instante en que bajas del tren, Ámsterdam te envuelve de una forma única. Las casas se inclinan hacia los lados —sí, a propósito, son del siglo XVII y están orgullosas de ello. Los canales serpentean por la ciudad como un laberinto. Y de alguna manera, todo el lugar simplemente se siente libre.",
+      "local_word": {
+        "word": "Gezellig",
+        "pronunciation": "heh-ZEL-ikh",
+        "definition": "Esa atmósfera cálida, acogedora y difícil de traducir del holandés —sentarse junto al agua con un café, viendo pasar los barcos. Esta única palabra explica el alma de Ámsterdam. La sentirás en todas partes."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Nunca camines por los carriles bici rojos",
+          "description": "Los ciclistas son los dueños de esta ciudad y no se detendrán por ti. Pisar un carril bici = peligro instantáneo. El error turístico número uno en Ámsterdam."
+        },
+        {
+          "number": 2,
+          "title": "Ámsterdam funciona con tarjetas, no con efectivo",
+          "description": "Desde pequeñas panaderías hasta mercados callejeros, la mayoría de los lugares solo aceptan tarjeta. No te sorprendas por el cartel de 'Solo tarjeta' —simplemente acerca y listo."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "Schiphol (AMS)",
+          "sub": "Tren directo · 15–20 min · cada 10–15 min"
+        },
+        {
+          "icon": "🚲",
+          "label": "Cómo moverse",
+          "value": "Bici o tranvía",
+          "sub": "Valida al entrar Y al salir en los tranvías"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "Neerlandés · Inglés en todas partes",
+          "sub": "Prácticamente todo el mundo habla inglés"
+        },
+        {
+          "icon": "⛵",
+          "label": "Ferry gratuito",
+          "value": "Detrás de la Estación Central",
+          "sub": "A Noord — gratis, todo el día"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Consejo local",
+        "text": "Cuando encuentres un acogedor 'brown café' en una tarde lluviosa, pide una cerveza y simplemente siéntate —eso es 'gezellig' en acción. Sin planes. Sin prisas. Solo Ámsterdam."
+      }
+    },
+    "transport": {
+      "title": "Moverse por la ciudad",
+      "intro": "En Ámsterdam, la forma en que te mueves es parte de la experiencia. Hazlo bien y la ciudad se abrirá completamente ante ti.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeropuerto → Centro de la ciudad",
+          "description": "La opción más sencilla es el tren. Schiphol tiene su propia estación directamente debajo de la terminal: baja por las escaleras mecánicas con tu equipaje y sube a bordo. Los trenes a Amsterdam Centraal salen cada 10-15 minutos y tardan entre 15 y 20 minutos. Rápido, barato y sin estrés. Los taxis y servicios de traslado cuestan 4-5 veces más y están sujetos al tráfico."
+        },
+        {
+          "icon": "🚲",
+          "title": "Bicicleta: el alma de la ciudad",
+          "description": "Alquila una y Ámsterdam cobrará sentido de repente. Tres reglas de oro: nunca camines por los carriles bici rojos; usa siempre dos candados (el robo de bicicletas aquí es prácticamente un deporte local); nunca te detengas en medio de un carril bici para hacer una foto. Los demás ciclistas no te avisarán, simplemente te adelantarán."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tranvías, Autobuses y Metro",
+          "description": "Los tranvías son la columna vertebral de la ciudad, deslizándose por calles estrechas para llegar a todas partes. Valida tu OV-chipkaart o teléfono al subir Y al bajar. Olvidar validar la salida se procesa como la tarifa máxima por el sistema. Todo el mundo comete este error al principio."
+        },
+        {
+          "icon": "⛵",
+          "title": "Ferries gratuitos a Noord",
+          "description": "Los ferries gratuitos salen continuamente desde justo detrás de la Estación Central hacia Amsterdam Noord, gratis para peatones, ciclistas y ciclomotores. Corto, agradable y una pequeña experiencia en sí mismo. Funcionan todo el día y hasta bien entrada la noche."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxi y Uber",
+          "description": "Ambas opciones existen, pero cuestan 4-5 veces más que el transporte público. Vale la pena considerarlas para las noches o situaciones especiales, no como transporte diario. Uber funciona sin problemas en Ámsterdam."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Consejo sobre calzado",
+        "text": "Usa zapatos cómodos y planos. Las piedras junto a los canales son irregulares y resbaladizas. Al cruzar cualquier calle, busca primero las bicicletas, luego los coches. El ejército de bicicletas es silencioso y rápido."
+      }
+    },
+    "stay": {
+      "title": "Dónde Alojarse",
+      "intro": "Tu barrio define todo tu viaje. El Centrum es caro y ruidoso; sal un anillo y Ámsterdam se vuelve real.",
+      "local_word": {
+        "word": "Borrel",
+        "pronunciation": "bor-EL",
+        "definition": "El sagrado ritual holandés después del trabajo: cerveza, bitterballen y una tarde que no va a ninguna parte en particular. Elegir un barrio en Ámsterdam significa elegir dónde tendrá lugar tu Borrel. Encuentra el adecuado y el bruin café perfecto estará a la vuelta de la esquina."
+      },
+      "items": [
+        {
+          "name": "Jordaan",
+          "badge": "El más romántico",
+          "badge_type": "vibe",
+          "description": "El barrio más 'Ámsterdam' que existe. Callejones estrechos, casas de canal cubiertas de hiedra, hoteles boutique justo en el agua. Los edificios tienen 400 años, espera escaleras muy empinadas y habitaciones pequeñas. Trae una maleta pequeña.",
+          "tags": [
+            "Tranquilo y céntrico",
+            "Escaleras empinadas",
+            "Maleta pequeña esencial"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jordaan+Amsterdam"
+        },
+        {
+          "name": "De Pijp",
+          "badge": "Mejor vida nocturna",
+          "badge_type": "hot",
+          "description": "El 'Barrio Latino' de Ámsterdam. Hogar del Albert Cuypmarkt —el mercado al aire libre más grande de la ciudad—, una animada escena estudiantil y restaurantes de todos los rincones del mundo. Ligeramente más barato que el centro, mucho más vivo.",
+          "tags": [
+            "Ideal para vida nocturna",
+            "Gran oferta gastronómica",
+            "Económico"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=De+Pijp+Amsterdam"
+        },
+        {
+          "name": "Grachtengordel (Canal Belt)",
+          "badge": "Patrimonio UNESCO",
+          "badge_type": "vibe",
+          "description": "Vivir dentro de un Sitio Patrimonio de la Humanidad por la UNESCO. Grandes casas de canal con techos altos que aparecen en cada postal. A poca distancia de todo, pero espera multitudes de turistas los fines de semana.",
+          "tags": [
+            "El más prestigioso",
+            "Multitudes los fines de semana",
+            "De postal"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grachtengordel+Amsterdam"
+        },
+        {
+          "name": "Oud-West",
+          "badge": "Favorito de los locales",
+          "badge_type": "local",
+          "description": "El secreto de los locales. Hogar de De Hallen —un precioso mercado gastronómico y cine en una antigua estación de tranvías—, a poca distancia de Vondelpark. La zona con mejor relación calidad-precio de Ámsterdam. A 10 minutos del centro en tranvía.",
+          "tags": [
+            "Mejor relación calidad-precio",
+            "Cerca de Vondelpark",
+            "Seguro y con estilo"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Oud-West+Amsterdam"
+        },
+        {
+          "name": "Amsterdam Noord",
+          "badge": "Ferry gratuito",
+          "badge_type": "value",
+          "description": "Al otro lado del ferry gratuito detrás de la Estación Central. Antiguos astilleros convertidos en hoteles geniales, enormes murales de arte callejero, centro de nómadas digitales. Una energía completamente diferente. No te pierdas el mercadillo NDSM los fines de semana.",
+          "tags": [
+            "Acceso con ferry gratuito",
+            "Arte callejero",
+            "Mercadillo de fin de semana"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Amsterdam+Noord"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Mejor Época para Visitar",
+      "intro": "Ámsterdam no es una ciudad de 'una época perfecta', sino una ciudad de 'depende de lo que busques'.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Temporada de Tulipanes",
+          "months": "Mar – May",
+          "subtitle": "Primavera · La más icónica",
+          "description": "Los Jardines de Keukenhof estallan con millones de tulipanes. Luego, el 27 de abril —Día del Rey—, toda la ciudad se tiñe de naranja, cada calle se convierte en una fiesta y los canales se llenan de barcos. Una de las mayores celebraciones callejeras de Europa. Si solo puedes ir una vez, que sea en primavera.",
+          "callout": {
+            "type": "tip",
+            "label": "No te pierdas",
+            "text": "El Día del Rey (27 de abril) — reserva alojamiento con meses de antelación. Las calles se convierten en mercadillos y toda la ciudad baila."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Días Largos",
+          "months": "Jun – Aug",
+          "subtitle": "Verano · El más social",
+          "description": "El sol se pone pasadas las 22:00. Los lugareños hacen pícnics en barcos por los canales. Vondelpark bulle con música en directo. Pero el tiempo es impredecible: ¿mañana cálida? Lleva una chaqueta de todos modos. La lluvia llega sin avisar.",
+          "callout": {
+            "type": "warning",
+            "label": "Nota para la maleta",
+            "text": "Lleva siempre un chubasquero compacto, incluso en julio. El tiempo en Ámsterdam no sigue ninguna lógica."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "Melancólico y Dorado",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · El más atmosférico",
+          "description": "Los árboles de los canales se tiñen de ámbar y naranja, la ciudad adquiere su famosa belleza melancólica y evocadora. Octubre trae el Amsterdam Dance Event (ADE): toda la ciudad se convierte en la capital mundial de la música electrónica. El espíritu 'gezellig' alcanza su punto álgido: tardes lluviosas, cálidos 'brown cafes', y los lugareños, por fin, en casa.",
+          "callout": {
+            "type": "tip",
+            "label": "Palabra local",
+            "text": "'Bruin café' (café marrón) — los pubs con paneles de madera oscura donde el 'gezellig' cobra vida. Busca uno en plena tormenta."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Magia en los Canales",
+          "months": "Dec – Feb",
+          "subtitle": "Invierno · El más mágico",
+          "description": "Más tranquilo, más brumoso y, sinceramente, mágico. El Festival de la Luz de Ámsterdam transforma los canales en un museo de arte al aire libre. Y si tienes mucha suerte —es raro, pero sucede—, los canales se congelan y los lugareños patinan sobre ellos.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de experto",
+            "text": "Los canales congelados ocurren quizás una vez cada década. Sigue las noticias locales de Ámsterdam en enero; si sucede, déjalo todo y ve."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "March–May",
+          "text": "Keukenhof está abierto (finales de marzo-mediados de mayo) — el corazón de la temporada de tulipanes, una excursión de medio día desde Ámsterdam."
+        },
+        {
+          "month": "April 27",
+          "text": "Koningsdag (Día del Rey): toda la ciudad se tiñe de naranja y los canales se convierten en una gran fiesta de barcos. O te sumerges de lleno, o no estés en la ciudad ese día."
+        },
+        {
+          "month": "August",
+          "text": "Grachtenfestival: música clásica en los canales, muchos conciertos gratuitos. Desfile del orgullo en los canales la primera semana."
+        },
+        {
+          "month": "December–January",
+          "text": "Festival de la Luz de Ámsterdam: los canales se llenan de instalaciones luminosas, mejor vistas desde un barco."
+        }
+      ]
+    },
+    "eat": {
+      "title": "¿Qué Comer?",
+      "intro": "La comida holandesa es mejor de lo que su reputación sugiere. Algunas de estas delicias solo las encontrarás aquí.",
+      "local_word": {
+        "word": "Proost!",
+        "pronunciation": "prohst",
+        "definition": "¡Salud! Dilo cuando llegue tu cerveza durante un Borrel — el sagrado ritual de bebida de Ámsterdam después del trabajo. Inmediatamente seguido de bitterballen."
+      },
+      "items": [
+        {
+          "icon": "🍟",
+          "name": "Vlaamse Frites + Patat Oorlog",
+          "description": "Patatas gruesas, doblemente fritas, en un cono de papel. Pide Patat Oorlog (Patatas de Guerra): salsa de cacahuete, mayonesa y cebolla cruda. Suena caótico. Sabe increíble.",
+          "tag": "Prueba esto primero",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vleminckx+Sausmeesters+Amsterdam"
+        },
+        {
+          "icon": "🧇",
+          "name": "Stroopwafel — fresco, no envasado",
+          "description": "Dos finas capas de gofre con caramelo en el medio. Consigue uno caliente en Albert Cuypmarkt. Las versiones de supermercado no se comparan.",
+          "tag": "Solo en Albert Cuypmarkt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Albert+Cuypmarkt+Amsterdam"
+        },
+        {
+          "icon": "🧀",
+          "name": "Queso Holandés (Kaas)",
+          "description": "Estás en el país del Gouda. Las queserías ofrecen degustaciones gratuitas: añejos, jóvenes, ahumados, con hierbas. Prueba Henri Willig u Old Amsterdam. Siempre gratis para probar.",
+          "tag": "Degustaciones gratuitas disponibles",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Henri+Willig+Cheese+Amsterdam"
+        },
+        {
+          "icon": "🍺",
+          "name": "Bitterballen + Borrel",
+          "description": "Bolas crujientes fritas rellenas de ragú cremoso de carne, mojadas en mostaza. Siempre se comen con una cerveza por la tarde — ese es el Borrel, el ritual de Ámsterdam después del trabajo. En cualquier 'brown café'.",
+          "tag": "El verdadero ritual local",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cafe+Hoppe+Amsterdam"
+        },
+        {
+          "icon": "🐟",
+          "name": "Haring (Arenque Crudo)",
+          "description": "Sujétalo por la cola, inclina la cabeza hacia atrás, bájalo — esa es la forma tradicional. ¿Demasiado atrevido? Pide un broodje haring con pepinillos y cebolla. De cualquier manera, pruébalo una vez.",
+          "tag": "Rito de iniciación",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Stubbe%27s+Haring+Amsterdam"
+        },
+        {
+          "icon": "🍛",
+          "name": "Rijsttafel — Festín Indonesio",
+          "description": "15-20 pequeños platos indonesios servidos juntos — ricos, especiados, completamente diferentes a cualquier otra cosa en Ámsterdam. El vestigio más delicioso de la historia colonial holandesa. Reserva una noche.",
+          "tag": "Reserva con antelación",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Blauw+Amsterdam"
+        },
+        {
+          "icon": "🥞",
+          "name": "Poffertjes",
+          "description": "Pequeñas y esponjosas mini-tortitas espolvoreadas con azúcar glas y mantequilla. Un favorito de la infancia en los Países Bajos. Encuéntralas en cualquier mercado callejero.",
+          "tag": "A niños y adultos les encantan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Pancake+Bakery+Amsterdam"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Secreto nocturno",
+        "text": "Encuentra un FEBO automático — pasa tu tarjeta en una pared de pequeñas ventanas de cristal y saca una kroket caliente. La tradición de comida rápida más antigua de Ámsterdam. Completamente único después de medianoche."
+      }
+    },
+    "hidden_gems": {
+      "title": "Joyas Escondidas",
+      "intro": "La verdadera Ámsterdam se esconde tras sus puertas, en sus callejones y al otro lado de sus transbordadores gratuitos. La mayoría de los turistas pasan de largo sin verlas.",
+      "items": [
+        {
+          "rarity": "Hallazgo extremadamente raro",
+          "name": "Ons' Lieve Heer op Solder — Iglesia en un Ático",
+          "description": "Por fuera: una casa-canal normal. Por dentro, escondida en el último piso: una iglesia católica del siglo XVII completamente intacta. Construida en secreto cuando el culto católico estaba prohibido. El símbolo más poderoso de tolerancia de Ámsterdam, casi nadie sabe que está ahí.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ons+Lieve+Heer+op+Solder+Amsterdam"
+        },
+        {
+          "rarity": "Secreto medieval",
+          "name": "Begijnhof — El Patio Escondido",
+          "description": "Un patio medieval tras una puerta sin marcar en la plaza Spui. Atraviesa y el ruido desaparece por completo. Construido en el siglo XIV. No hay cartel en la puerta; busca una pequeña verja de madera en la pared.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Begijnhof+Amsterdam"
+        },
+        {
+          "rarity": "Obra maestra Art Decó",
+          "name": "Teatro Tuschinski",
+          "description": "Uno de los edificios Art Decó más bellos del mundo. Aunque no vayas a ver una película, entra en el vestíbulo. Alfombras, techo, lámparas de araña: una máquina del tiempo a la Ámsterdam de 1921. La mayoría de los turistas pasan de largo y nunca entran.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pathe+Tuschinski+Amsterdam"
+        },
+        {
+          "rarity": "Secreto de Noord — solo fines de semana",
+          "name": "NDSM Werf + Mercado de Pulgas de Fin de Semana",
+          "description": "Antiguo astillero convertido en un paraíso del arte callejero al que se llega con el transbordador gratuito. Esculturas gigantes de chatarra, murales enormes. Los fines de semana: el mercado de pulgas NDSM reúne a artistas, food trucks y puestos vintage. La Ámsterdam del futuro.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=NDSM+Werf+Amsterdam"
+        },
+        {
+          "rarity": "El secreto mejor guardado del Jordaan",
+          "name": "Hofjes — Patios con Jardín Escondidos",
+          "description": "Ámsterdam tiene docenas de jardines escondidos tras puertas de madera sin marcar. Begijnhof es el famoso, pero el Jordaan tiene varios más: Karthuizerhofje, Sint Andrieshofje. Sigue las pequeñas señales en las paredes. Atraviesa y encontrarás un jardín a 400 años de distancia de la ciudad exterior.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Karthuizerhofje+Amsterdam"
+        },
+        {
+          "rarity": "El debate sobre la mejor tarta de manzana, resuelto",
+          "name": "Winkel 43 — La Peregrinación de la Tarta de Manzana",
+          "description": "Espesa, con mucho sabor a canela, servida caliente con una montaña de nata montada fresca (slagroom). La cola merece cada minuto. Ve a tomar un café por la tarde en un día lluvioso.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Winkel+43+Amsterdam"
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Regla de De Wallen",
+        "text": "NO fotografíes los escaparates del Barrio Rojo. Es ilegal, profundamente irrespetuoso y te garantiza una respuesta hostil. El teléfono se queda en el bolsillo, sin excepciones."
+      }
+    },
+    "checklist": {
+      "title": "Lista de imprescindibles en Ámsterdam",
+      "completion_message": "¡Has vivido Ámsterdam a tope!",
+      "items": [
+        {
+          "label": "Siéntate junto a un canal al atardecer",
+          "sub": "En Jordaan o Prinsengracht: los pies colgando y una cerveza en la mano."
+        },
+        {
+          "label": "Visita la Casa de Ana Frank",
+          "sub": "Reserva con 2-3 meses de antelación. No hay entradas sin reserva. Merece cada paso."
+        },
+        {
+          "label": "Piérdete en las 9 Straatjes",
+          "sub": "Las Nueve Calles: tiendas vintage, boutiques, joyas escondidas. Dedica tiempo extra."
+        },
+        {
+          "label": "Echa un vistazo a la Biblioteca Cuypers del Rijksmuseum",
+          "sub": "Aunque no visites las galerías, su arquitectura te dejará sin aliento."
+        },
+        {
+          "label": "Toma el ferry gratuito a Ámsterdam Noord",
+          "sub": "Detrás de la Estación Central: gratis, 5 minutos, un mundo completamente diferente."
+        },
+        {
+          "label": "Pasea por el Bloemenmarkt",
+          "sub": "El único mercado de flores flotante del mundo. Bulbos de tulipán para llevarte a casa."
+        },
+        {
+          "label": "Haz un tour por los canales a la hora dorada",
+          "sub": "La luz sobre las casas de los canales una hora antes del atardecer es incomparable."
+        },
+        {
+          "label": "Disfruta de un Borrel con bitterballen",
+          "sub": "En cualquier 'brown café', cualquier tarde. Bitterballen + cerveza. ¡Di 'Proost'!"
+        },
+        {
+          "label": "Vive un momento FEBO",
+          "sub": "El muro de comida automática nocturna: una kroket de una pequeña ventana de cristal."
+        },
+        {
+          "label": "Pasea por Begijnhof",
+          "sub": "Encuentra la puerta sin marcar en la plaza Spui. Crúzala. Respira."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Evita las Trampas",
+      "intro": "Ámsterdam no es despiadada con las trampas para turistas, pero el centro tiene algunos clásicos. Identifícalas y dedica tu dinero y tiempo a la auténtica Ámsterdam.",
+      "items": [
+        {
+          "icon": "🍽️",
+          "name": "Restaurantes con menú fotográfico en Damrak y Leidseplein",
+          "description": "Los locales iluminados con neón que te reciben al bajar del tren, con un camarero en la puerta y un menú en 12 idiomas. Caros, mediocres y donde ningún holandés se sienta jamás.",
+          "instead": "Camina dos calles: en Jordaan o De Pijp, el mismo dinero te compra una comida el doble de buena."
+        },
+        {
+          "icon": "🚢",
+          "name": "Grandes barcos acristalados para los canales",
+          "description": "Los grandes barcos que transportan a 70 personas con una audioguía grabada te muestran los canales sin dejarte sentirlos. Incluso las fotos son difíciles a través del cristal.",
+          "instead": "Elige un barco pequeño y abierto con un patrón en vivo, y hazlo coincidir con el atardecer."
+        },
+        {
+          "icon": "🧀",
+          "name": "Tiendas de quesos y tulipanes de recuerdo en Damrak",
+          "description": "'Gouda' envasado al vacío y bulbos de tulipán que nunca florecerán. Precios inflados, baja calidad y gran parte ni siquiera es de fabricación local.",
+          "instead": "Compra queso en una auténtica tienda de 'kaas' después de probarlo; consigue bulbos certificados (aprobados por aduanas) en los puestos del Bloemenmarkt."
+        },
+        {
+          "icon": "🚕",
+          "name": "Taxi de Schiphol a la ciudad",
+          "description": "Pagarás 60-70 € y tardarás el doble que el tren debido al tráfico. La cola de taxis del aeropuerto es la sala de espera más cara de Ámsterdam.",
+          "instead": "El tren llega a Centraal en 15-20 minutos; los andenes están justo debajo de la terminal."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de oro",
+        "text": "Si alguien en la puerta te está llamando para que entres, el lugar no puede venderse por sí mismo. Los buenos sitios en Ámsterdam nunca te llaman, tú los encuentras."
+      }
+    },
+    "itinerary": {
+      "title": "Itinerarios Listos",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Los clásicos + un toque de la auténtica Ámsterdam",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Desayuno en Jordaan",
+              "description": "Empieza el día con tarta de manzana en Winkel 43 — sí, tarta para desayunar, ¡estás aquí!"
+            },
+            {
+              "time": "10:30",
+              "title": "Paseo por las 9 Straatjes + el Anillo de Canales",
+              "description": "Desde las Nueve Calles hacia el sur por Prinsengracht; no te apresures, detente en los puentes."
+            },
+            {
+              "time": "13:00",
+              "title": "Almuerzo en Albert Cuypmarkt",
+              "description": "Un stroopwafel calentito, arenque fresco, o lo que te apetezca. De pie, al estilo del mercado."
+            },
+            {
+              "time": "14:30",
+              "title": "Rijksmuseum o Van Gogh",
+              "description": "No intentes ver los dos en un solo día. Elige uno y tómate tu tiempo. Reserva la entrada con antelación."
+            },
+            {
+              "time": "17:30",
+              "title": "Borrel en un bruin café",
+              "description": "Bitterballen + cerveza. La hora más holandesa del día."
+            },
+            {
+              "time": "19:30",
+              "title": "Junto al canal al atardecer",
+              "description": "Coge una botella de algo en un mercado, siéntate al borde del canal, deja que tus pies cuelguen. Todo el día fue para esto."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Vive la ciudad como un invitado, no como un turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "El centro y los clásicos",
+              "description": "El itinerario de 1 día anterior: Jordaan, canales, un gran museo, borrel."
+            },
+            {
+              "time": "Day 2",
+              "title": "Noord y la Ámsterdam alternativa",
+              "description": "Coge el ferry gratuito a Noord: NDSM, arte callejero, torre A'DAM. Por la tarde, Casa de Ana Frank (¡reserva con meses de antelación!) y cena en De Pijp."
+            },
+            {
+              "time": "Day 3",
+              "title": "La Ámsterdam oculta + un último gezellig",
+              "description": "Begijnhof, Ons' Lieve Heer op Solder, los patios hofjes. Un crucero en barco pequeño por los canales por la tarde, y una cena de despedida rijsttafel por la noche."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "El kit de supervivencia de 5 palabras",
+      "intro": "Todo el mundo habla inglés, pero incluso una sola palabra en neerlandés te abrirá puertas.",
+      "items": [
+        {
+          "word": "Dank je wel",
+          "pronunciation": "dank ye vel",
+          "meaning": "Gracias — la palabra que más usarás"
+        },
+        {
+          "word": "Alsjeblieft",
+          "pronunciation": "als-ye-bleeft",
+          "meaning": "Por favor / aquí tienes — también se usa al entregar algo"
+        },
+        {
+          "word": "Proost!",
+          "pronunciation": "prohst",
+          "meaning": "¡Salud! No olvides el contacto visual"
+        },
+        {
+          "word": "Lekker",
+          "pronunciation": "leck-er",
+          "meaning": "Sabroso / Genial — funciona tanto para la comida como para el clima"
+        },
+        {
+          "word": "Doei!",
+          "pronunciation": "doo-ee",
+          "meaning": "Adiós — alegre, se dice dos veces: ¡doei doei!"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "meta": {
+    "city": "London",
+    "country": "Birleşik Krallık",
+    "language": "tr",
+    "version": "2.1",
+    "color_primary": "#003580",
+    "color_light": "#E8EEF7",
+    "tagline": "33 ilçe, milyonlarca hikâye — ve hepsini görmeye çalışma",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Temassız ödeme kullan",
+    "En iyi müzeler ücretsiz",
+    "Solda yürü, sağda dur"
+  ],
+  "sections": {
+    "overview": {
+      "title": "London'a Hoş Geldin",
+      "intro": "London kendini hemen açmaz. Tek bir şehir bekliyorsun; onlarca şehir buluyorsun. Ortaçağ meydanları cam gökdelenlerin yanı başında, kadim pazarlar Michelin yıldızlı restoranların komşusu, sakin Gürcü dönem sokakları dünyanın en kalabalık alışveriş caddelerinden sadece iki blok ötede. Dünyanın en çok ziyaret edilen şehri ve bir şekilde neredeyse kimsenin görmediği şeylerle hâlâ dolu. Sır şu: nereye bakacağını ve nasıl hareket edeceğini bilmek.",
+      "local_word": {
+        "word": "The Local",
+        "pronunciation": "dö LO-kıl",
+        "definition": "Sadece bir pub değil; senin pub'ın. London'ın her mahallesinde bir tane var: müdavimlerin aynı koltuğa oturduğu, barmenin siparişi ezberlediği, hiçbir turistin adım atmadığı yer. Ziyaretçi olarak bile o pub'ı bulmak London'ın en sade ve en büyük zevklerinden biri."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Tube (London metrosu) için bilet alma",
+          "description": "Tube, London'ın efsanevi yeraltı metro sistemi. Standart bilet aynı yolculuk için temassız ödemenin iki katından fazlasına mal oluyor. Banka kartın, Apple Pay veya Google Pay kullan; en ucuz, en kolay, en hızlı yöntem bu. Sistem günlük azami ücret uyguluyor; o noktaya ulaştığında o günkü kalan tüm yolculuklar ücretsiz."
+        },
+        {
+          "number": 2,
+          "title": "Yürüyen merdivenler: solda yürü, sağda dur",
+          "description": "Solda yürü, sağda dur. Bu bir öneri değil; London'ın en ciddiye alınan yazılı olmayan kurallarından biri. Yoğun saatlerde bunu çiğnemek, bir an önce her şeyde son derece kibar olan insanlardan gerçek bir tepki almak demek."
+        },
+        {
+          "number": 3,
+          "title": "London'ın en iyi müzeleri tamamen ücretsiz",
+          "description": "British Museum, Natural History Museum, V&A, Science Museum, National Gallery, Tate Modern: hepsi ücretsiz ve sonsuza kadar öyle kalacak. Bu UK yasası, bir kampanya değil. Senden giriş ücreti isteyen herhangi biri dolandırıcılık yapıyor demektir. İçeri gir, tüm gün kal."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Heathrow (LHR)",
+          "sub": "Elizabeth line · 35 dk · merkeze direkt"
+        },
+        {
+          "icon": "💳",
+          "label": "Ulaşım",
+          "value": "Temassız ödeme",
+          "sub": "Günlük azami ücret uygulanıyor; ne çok gidersen o kadar avantajlı"
+        },
+        {
+          "icon": "🏛️",
+          "label": "Müzeler",
+          "value": "En iyileri ücretsiz",
+          "sub": "British Museum · V&A · Tate Modern"
+        },
+        {
+          "icon": "🍺",
+          "label": "Pub saatleri",
+          "value": "Genellikle 23:00'e kadar",
+          "sub": "Son sipariş 22:45"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Asıl London kuralı",
+        "text": "London devasa: 33 ilçede 9 milyon insan. Her şeyi görmeye çalışırsan çoğunu kaçırırsın. İki ya da üç mahalleyi seç, derinlemesine keşfet. Gerçek London orada seni bekliyor."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "London'ın ulaşım ağı dünyanın en kapsamlılarından biri. Sistemi anlamak 5 dakika sürer ve hem zaman hem para kazandırır.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Heathrow (LHR) → Şehir Merkezi",
+          "description": "Elizabeth line maliyet ve hız dengesi açısından en iyi seçenek: şehir merkezindeki istasyonlara 35 dakikada, birkaç dakikada bir sefer. Piccadilly line daha ucuz ama yavaş (60+ dakika) ve bagajla kullanımı zor. Heathrow Express hızlı (Paddington'a 15 dk) ama Elizabeth line varken buna değmez. Heathrow'dan taksiyle gitmeyi düşünme: çok pahalı ve trafiğe bağlı."
+        },
+        {
+          "icon": "✈️",
+          "title": "Gatwick (LGW) → Şehir Merkezi",
+          "description": "Gatwick Express, London Victoria'ya 30 dakikada direkt sefer yapıyor. Thameslink trenleri daha uygun fiyatlı ve London Bridge ile St Pancras dahil daha fazla istasyona uğruyor; genellikle aynı hızda. National Express otobüsleri en uygun fiyatlı seçenek ama trafikte 90 dakika veya daha uzun sürebiliyor. Taksi çok pahalı; değmez."
+        },
+        {
+          "icon": "🚇",
+          "title": "Tube (London Metrosu) — tek ihtiyacın temassız ödeme",
+          "description": "Her Tube istasyonuna girişte ve çıkışta sarı okuyucuya banka kartını, Apple Pay veya Google Pay'i dokut. Sistem otomatik olarak en ucuz tarifyi hesaplıyor ve günlük azami ücret uyguluyor; azami ücrete ulaşınca o günkü kalan tüm yolculuklar ücretsiz. Tek kart her şey için geçerli: Tube (yeraltı metrosu), otobüs, Overground (banliyö treni), Elizabeth line ve DLR (sürücüsüz hafif metro)."
+        },
+        {
+          "icon": "🚌",
+          "title": "Otobüsler — şehri görerek ulaşım",
+          "description": "London'da her otobüs sabit tarifeli; mesafeden bağımsız. Hiçbir otobüste nakit kabul edilmiyor, yalnızca temassız ödeme ile. Tube (London metrosu)'dan yavaş ama London'ı sokak seviyesinde görüyorsun. 11 ve 15 numaralı hatlar şehrin merkezinde özellikle güzel güzergahlar. Gezi amaçlı kullanıldığında otobüs çoğu zaman Tube'dan daha keyifli."
+        },
+        {
+          "icon": "🚲",
+          "title": "Santander Cycles (Boris Bikes)",
+          "description": "Şehrin merkezinde yüzlerce istasyonda kiralık bisiklet. Erişim ücreti karşılığında 30 dakikalık sürüşler; istasyona bırakıp tekrar alarak sınırsız kullanım. TfL (Transport for London) uygulaması veya herhangi bir istasyondaki temassız okuyucuyla kullanabilirsin. Şehir merkezi şaşırtıcı biçimde düz. South Bank, parklar ve kanal yolları için harika."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Bilet tuzağı",
+        "text": "Standart bilet, aynı yolculuk için temassız ödemeyle ödeyeceğinden çok daha fazla. Birkaç günlük seyahatte bu fark ciddi miktara ulaşıyor. Temassız ödemeyi alışkanlık haline getir."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı?",
+      "intro": "London'ın mahalleleri birbirinden köklü biçimde farklı. Nerede kaldığın tüm deneyimini şekillendiriyor; şehir yeterince büyük ki konum gerçekten önemli.",
+      "local_word": {
+        "word": "Manor",
+        "pronunciation": "MEN-ır",
+        "definition": "London argosu: senin bölgen, ait olduğun mahalle, toprağın. Her Londralının sadık olduğu bir manor'ı vardır. London'da nerede kalacağını seçmek, manor'ını seçmek demek. Doğrusunu bulursan şehir ev gibi hissettiriyor; biraz araştırmaya değer."
+      },
+      "items": [
+        {
+          "name": "South Bank & Borough",
+          "badge": "En manzaralı",
+          "badge_type": "local",
+          "description": "Tate Modern, Borough Market, Shakespeare's Globe: hepsi yürüme mesafesinde, Tamesis'in tam kenarında. London'ın en güzel nehir kenarı yürüyüşleri burada. Covent Garden'ın turist kaosu olmadan tam merkezde. Sabah uyandığında en tatmin edici manor'lardan biri.",
+          "tags": [
+            "Nehir kenarı",
+            "Borough Market",
+            "Harika ulaşım"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=South+Bank+London"
+        },
+        {
+          "name": "Shoreditch & Hackney",
+          "badge": "En yaratıcı",
+          "badge_type": "hot",
+          "description": "Doğu London'ın yaratıcı kalbi. Her yerde sokak sanatı, bağımsız restoranlar, vintage pazarlar, London'ın en iyi kahveleri. Londralıların gerçekte yaşayıp çıktığı yer. Ana turistik alanlardan biraz uzak ama Tube her yere 20 dakikada götürüyor.",
+          "tags": [
+            "Sokak sanatı ve kahve",
+            "En iyi restoranlar",
+            "Yerel hayat"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Shoreditch+London"
+        },
+        {
+          "name": "Marylebone & Fitzrovia",
+          "badge": "En sakin",
+          "badge_type": "local",
+          "description": "Bağımsız kitapçılar, Gürcü dönem konutları ve sakin kafe sokakları. Hyde Park'a, British Museum'a ve Oxford Street'e yürüme mesafesi; bunların içine gömülmeden. London'da kalmak için en keyifli manor'lardan biri: sakin, güzel ve merkezi.",
+          "tags": [
+            "Gürcü mimari",
+            "Sakin sokaklar",
+            "Hyde Park yakını"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marylebone+London"
+        },
+        {
+          "name": "Covent Garden & Strand",
+          "badge": "En merkezi",
+          "badge_type": "vibe",
+          "description": "West End tiyatroları, Trafalgar Square, National Gallery, Somerset House: hepsi yürüme mesafesinde. Canlı, gürültülü, sonsuz derecede pratik. Her yerden daha pahalı ama hiç ulaşıma ihtiyaç duymuyorsun. İlk kez gelenler için ve her şeye kolay erişmek isteyenler için harika bir seçim.",
+          "tags": [
+            "Her yer yürünebilir",
+            "Tiyatro bölgesi",
+            "İlk kez gelenler için"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Covent+Garden+London"
+        },
+        {
+          "name": "Brixton & Peckham",
+          "badge": "En uygun fiyat",
+          "badge_type": "value",
+          "description": "Güney London'ın canlı, çok kültürlü manor'ları. Pazar kültürü, olağanüstü yemek, aktif gece hayatı, gerçekten yerel atmosfer. Victoria hattı Brixton'ı Oxford Circus'a 15 dakikada bağlıyor. Genç Londralıların gerçekte yaşadığı yer ve Thames'in kuzeyine göre çok daha uygun fiyatlı.",
+          "tags": [
+            "Çok kültürlü yemek",
+            "Uygun fiyat",
+            "Yerel gece hayatı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Brixton+London"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bölge seçimi",
+        "text": "Zone 1 veya 2'de kalmak ideal. Zone 3 ve ötesinde konaklama daha uygun ama ulaşım süresi ve maliyeti artıyor. Tatlı nokta Zone 2: makul otel fiyatı, merkeze kolay erişim."
+      }
+    },
+    "best_time": {
+      "title": "En İyi Zaman Hangisi?",
+      "intro": "London dört mevsim de işliyor ama her biri bambaşka bir şehir sunuyor. Hava durumu meşhur derecede tahmin edilemez; tahmin ne olursa olsun yanına bir kat ekstra giysi al.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Parklar ve Çiçekler",
+          "months": "Mar – May",
+          "subtitle": "İlkbahar · Parklar, Çiçekler, Enerji",
+          "description": "London'ın parkları ilkbaharda dönüşüyor: Greenwich Park ve Battersea'da kiraz çiçekleri, Hyde Park ve Regent's Park'ta nergisler, açık hava pazarları ve teraslar yeniden hayat buluyor. Şehir umut dolu ve canlı. Kalabalık artıyor ama henüz bunaltıcı değil. Büyük ihtimalle London'ın en güzel olduğu dönem. Chelsea Flower Show Mayıs'ta dünya çapında bir etkinlik.",
+          "callout": {
+            "type": "tip",
+            "label": "Kaçırma",
+            "text": "Greenwich Park'ta kiraz çiçekleri (Mart sonu–Nisan) ve Columbia Road Çiçek Pazarı (Pazar günleri): London'ın beklenmedik biçimde en güzel olduğu anlar."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Festival Sezonu",
+          "months": "Haz – Ağu",
+          "subtitle": "Yaz · Festivaller, Parklar ve Uzun Günler",
+          "description": "Wimbledon, Notting Hill Carnival (Ağustos Bank Holiday: dünyanın en büyük sokak partilerinden biri), parklarda açık hava konserleri. Günler uzun; gece 22:00'ye kadar aydınlık. Ama zirve kalabalık, yüksek fiyatlar ve tahmin edilemez sıcaklıklar var. London aşırı sıcak hava için tasarlanmamış ve gerçek yaz aylarında zorlanabiliyor.",
+          "callout": {
+            "type": "warning",
+            "label": "Yaz uyarısı",
+            "text": "Wimbledon (Haziran sonu–Temmuz) ve Notting Hill Carnival (Ağustos Bank Holiday): bu hafta sonları için konaklamayı aylarca önceden ayırt et. Fiyatlar ciddi biçimde yükseliyor."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Altın Dönem",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Tatlı Nokta",
+          "description": "Eylül ve Ekim London'ın en iyi saklanan sırrı. Yaz kalabalıkları dağılıyor, parklar altın sarısına bürünüyor, kültür sezonu başlıyor: büyük sergiler, tiyatro açılışları, London Film Festivali. Hava hâlâ ılık ve güzel. Müze kuyrukları belirgin biçimde kısalıyor. Londralıların kendi şehirlerini en çok sevdiği dönem bu.",
+          "callout": {
+            "type": "tip",
+            "label": "Kaçırma",
+            "text": "London Film Festivali (Ekim): şehir genelinde gösterimler, pek çok bilet şaşırtıcı biçimde erişilebilir. Frieze Art Fair: Regent's Park'ta dünyanın en önemli çağdaş sanat fuarı."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Büyülü ve Sakin",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Noel, Tiyatro ve Karanlık Büyü",
+          "description": "London'ın Noel'i gerçekten görkemli: Regent Street'teki ışıklar, Southbank'taki pazarlar, antik kiliselerde koro konserleri, Hyde Park'ta Winter Wonderland. Ocak en sakin ay: fiyatlar düşüyor, kuyruklar kayboluyor, şehir kendine dönüyor. Tiyatro biletleri yılın en uygun fiyatlı dönemine giriyor.",
+          "callout": {
+            "type": "tip",
+            "label": "Yerel sır",
+            "text": "Ocak London'ı ziyaret etmek için en iyi ay. Fiyatlar düşüyor, kuyruklar kayboluyor, şehir kendine dönüyor. Ocak indirimleri gerçek ve ciddi. Tiyatro biletleri en düşük seviyesinde."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "Mayıs",
+          "text": "Chelsea Flower Show: dünyanın en ünlü bahçe şovu; şehir çiçeğe kesilir, bilet erkenden tükenir."
+        },
+        {
+          "month": "Haziran sonu–Temmuz",
+          "text": "Wimbledon: sabah kuyruğuyla (The Queue) aynı gün kort bileti mümkün; çilek + krema zorunlu ritüel."
+        },
+        {
+          "month": "Ağustos sonu",
+          "text": "Notting Hill Carnival: Avrupa'nın en büyük sokak festivali — renk, soca müziği ve iki gün boyunca durmayan dans."
+        },
+        {
+          "month": "Aralık",
+          "text": "Noel ışıkları: Regent Street ve Carnaby süslenir, Kew Gardens'ın ışık yolu büyülüdür; Boxing Day indirimleri 26 Aralık'ta başlar."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yenmeli?",
+      "intro": "London dünyanın büyük yemek şehirlerinden biri. Çeşitliliği sayesinde yeryüzündeki her mutfağı gerçekten yüksek bir seviyede bulabiliyorsun; en iyisi de nadiren beklenen yerlerde.",
+      "local_word": {
+        "word": "Cheers!",
+        "pronunciation": "çırz",
+        "definition": "Bardaklar tokuştuğunda, biri kapı tuttuğunda, bir şey verildiğinde, dükkândan çıkarken söylenir. \"Teşekkür ederim\", \"rica ederim\", \"hoşça kal\" ve onlarca başka ifadenin yerini tutuyor. Öğren. Sürekli kullan. Hemen uyum sağlarsın."
+      },
+      "items": [
+        {
+          "icon": "🍳",
+          "name": "Full English Breakfast — gerçek olanı",
+          "description": "Pastırma, yumurta, sosis, fırında fasulye, közlenmiş domates, mantar, kan sucuğu ve tost. Britanya'nın dünya mutfağına en büyük katkısı. Düzgün bir \"caff\" (greasy spoon: küçük, bağımsız, gösterişsiz kafe) bulmaya çalış. İyi bir caff'ta hem uygun hem lezzetli. Lokalden birine \"caff'ın nerede?\" diye sor; cevabın o olsun.",
+          "tag": "Greasy spoon caff bul · otel büfesinden kaçın",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Regency+Cafe+London"
+        },
+        {
+          "icon": "🍛",
+          "name": "Brick Lane ve curry house'lar",
+          "description": "London, Hint Yarımadası dışındaki en iyi Hint ve Bangladeş yemeğine sahip şehir. Shoreditch'teki Brick Lane tarihi merkez; ama tüm East End olağanüstü. Dishoom (birden fazla şubesi var) en çok sevilen: kahvaltıda bacon naan için gerçek bir kuyruk oluşuyor. Beklemeye değiyor.",
+          "tag": "Dishoom · Brick Lane klasikleri",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Brick+Lane+London"
+        },
+        {
+          "icon": "🧺",
+          "name": "Borough Market — gerçek olanı",
+          "description": "London'ın en eski ve en iyi yemek pazarı; London Bridge yakınındaki demiryolu kemerlerinin altında. Salı–Cumartesi açık. London'ın en iyi şefleri buradan alışveriş yapıyor. Buradaki Monmouth Coffee London'ın en iyileri arasında. Aç git. Her şeyden tat. Ertesi gün tekrar gel.",
+          "tag": "Sal–Cum · aç git · Monmouth Coffee",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Borough+Market+London"
+        },
+        {
+          "icon": "🐟",
+          "name": "Fish & chips — ama düzgün şekilde",
+          "description": "Gerçek fish & chips için şehrin içine gir; turistik yerlerden uzak dur. Gerçeği: kalın kesilmiş patates, taze hamurlu morina ya da mezgit, mushy peas (ezilmiş bezelye) ve malt sirkesi. Spitalfields'da Poppies veya Covent Garden'da Rock & Sole Plaice iyi seçenekler. Kâğıda sarılmış ye. London'ın en dürüst yemeği.",
+          "tag": "Poppies Spitalfields · Rock & Sole Plaice",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Poppies+Fish+and+Chips+London"
+        },
+        {
+          "icon": "🍺",
+          "name": "Pub — bir Britanya kurumu",
+          "description": "Masada servis bekleme; barda sipariş ver. Bir bardak gerçek ale, bitter (geleneksel İngiliz birasının hafif ve aromatlı türleri) veya London Pride. Gastropub (yemek odaklı pub) İngiliz mutfağını dönüştürdü; bazıları Michelin yıldızı kalitesinde yemek sunuyor. Geleneksel bir Viktorya dönemi pub'ı bul ve bir öğleden sonrasını içinde geçir. London gerçekte bu.",
+          "tag": "Barda sipariş ver · son sipariş 22:45",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Churchill+Arms+London"
+        },
+        {
+          "icon": "☕",
+          "name": "Specialty coffee sahnesi",
+          "description": "London dünyanın en iyi specialty coffee sahnelerinden birine sahip. Monmouth Coffee, Ozone, Workshop ve Allpress referans noktaları. Bu sahne büyük ölçüde 2000'lerde gelen ve kafe kültürünü kalıcı olarak dönüştüren Avustralyalı ve Yeni Zelandalı expat'lar tarafından kuruldu.",
+          "tag": "Monmouth · Ozone · Workshop Coffee",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Monmouth+Coffee+London"
+        },
+        {
+          "icon": "🫖",
+          "name": "Afternoon tea — düzgün şekilde",
+          "description": "Küçük sandviçler, sıcak scone'lar (geleneksel İngiliz ekmeği), kaymak ve reçel (önce kaymak, sonra reçel; Devon geleneği bu — Cornwall'da tam tersi) ve gerçek yaprak çay. Fortnum & Mason klasik. Önceden rezervasyon yap. Biraz özel ama gerçekten buna değen bir deneyim.",
+          "tag": "Fortnum & Mason · önceden rezervasyon · önce kaymak",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fortnum+and+Mason+London"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Pazar rostası",
+        "text": "Her Pazar London'ın pub'ları geleneksel rostayu sunuyor: sığır, kuzu, domuz veya tavuk, fırın patates, Yorkshire pudding (İngiliz mutfağına özgü hafif hamur işi), sebzeler, sos. En Britanyalı yemeklerden biri. İyi bir pub bul, öğle ile 15:00 arasında git, önceden rezervasyon yap. En iyileri erken doluyor."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "London merakı Avrupa'daki herhangi bir şehirden daha fazla ödüllendiriyor. Buradaki en iyi şeyler ücretsiz, işaretsiz ve herkesin fotoğrafladığı ünlü yerlerin tam arasına sıkışmış.",
+      "items": [
+        {
+          "rarity": "Ekrandan gerçeğe — Harry Potter",
+          "name": "King's Cross İstasyonu — Platform 9¾",
+          "description": "Harry Potter'ın Hogwarts Ekspresi'ne bindiği efsanevi platform. King's Cross İstasyonu'nun içinde gerçek bir kurulum var: yarısı duvara gömülmüş bir bagaj arabası ve üzerinde '9¾' tabelası. Fotoğraf çektirmek için sıra oluşuyor ama kısa sürüyor. Harry Potter hayranı olsan da olmasan da uğramaya değiyor. Ücretsiz.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kings+Cross+Platform+9+3/4+London"
+        },
+        {
+          "rarity": "Ekrandan gerçeğe — Diagon Alley",
+          "name": "Leadenhall Market",
+          "description": "City of London'ın kalbinde, 14. yüzyıldan kalma bu görkemli kapalı pazar Harry Potter filmlerinde Diagon Alley olarak çekildi. Viktorya dönemi demir ve cam tavan, renkli boyalı duvarlar. Film olmasa bile London'ın en güzel iç mekanlarından biri. Ücretsiz, her gün açık. Öğle aralarında çalışanlarla, akşamları ise neredeyse tamamen sessiz.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Leadenhall+Market+London"
+        },
+        {
+          "rarity": "İkinci Dünya Savaşı bombalarından gizli bahçe",
+          "name": "St Dunstan in the East",
+          "description": "12. yüzyıldan kalma kilise, 1941'de İkinci Dünya Savaşı'ndaki Alman hava bombardımanı (Blitz) sırasında yerle bir edildi. Yıkıntılar olduğu gibi bırakıldı ve kamusal bahçeye dönüştürüldü: bombalanmış duvarları tırmanan sarmaşıklar, pencere kemerlerinden büyüyen ağaçlar, bir zamanlar şefon olan yerde banklar. London'ın en olağanüstü mekanlarından biri. Ücretsiz, her gün açık. Bilenlerin sırrı olmaya devam ediyor.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=St+Dunstan+in+the+East+London"
+        },
+        {
+          "rarity": "London'ın en iyi ücretsiz manzarası — rezervasyon gerekmez",
+          "name": "Primrose Hill'de Günbatımı",
+          "description": "Kuzey London'da 64 metrelik tepe; tüm şehir silüetine panoramik manzara sunuyor. Bilet yok, kuyruk yok, ticari hiçbir şey yok. Yaz akşamları Londralılar şarap ve piknik sepetleriyle geliyor. Günbatımında dünyanın en güzel kentsel manzaralarından biri. Burası bedava.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Primrose+Hill+London"
+        },
+        {
+          "rarity": "City of London'da gizli bahçe",
+          "name": "Postman's Park — Kahramanca Fedakârlık Anıtı",
+          "description": "St Paul's Katedrali yakınında sakin bir park; içinde olağanüstü bir anıt var. Başkalarını kurtarırken hayatını kaybeden sıradan insanları anlatan kısa ve yürek burkan hikâyelerle dolu seramik karolar. 1900'de yapıldı. London'ın en etkileyici ve en az bilinen anıtlarından biri. Gören her insanı yerinde durduruyor.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Postman%27s+Park+London"
+        },
+        {
+          "rarity": "Ücretsiz çatı bahçesi — önceden online rezervasyon şart",
+          "name": "Sky Garden at 20 Fenchurch Street",
+          "description": "\"Walkie-Talkie\" binasının tepesinde London'ın 360 derece manzarasına sahip görkemli bir kamusal bahçe; tamamen ücretsiz ama önceden online rezervasyon gerekiyor. Sky Garden sitesinden birkaç gün önceden rezervasyon yap; gittiğinde pişman olmayacaksın.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sky+Garden+London"
+        },
+        {
+          "rarity": "Viktorya dönemi zevk bahçesi — tamamen işaretsiz",
+          "name": "The Hill Garden & Pergola — Hampstead",
+          "description": "Hampstead Heath'in üzerinde gizlenmiş olağanüstü bir Edwardian pergola (yükseltilmiş sütunlu yürüyüş yolu): sarkık glisinya ve tırmanıcı güller dökülen taş kemerler boyunca uzanıyor. 1904'te inşa edildi. Girişi ücretsiz, neredeyse tamamen bilinmiyor. Glisinyanın çiçek açtığı Mayıs sonunda git; İngiltere'nin en romantik mekanlarından birine dönüşüyor.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Hill+Garden+and+Pergola+London"
+        },
+        {
+          "rarity": "Zamanın unuttuğu pub — 1546'dan beri",
+          "name": "Ye Olde Cheshire Cheese — Fleet Street",
+          "description": "1666 Büyük Yangını'ndan sonra yeniden inşa edilmiş London'ın en eski pub'larından biri. Koyu ahşap, alçak tavanlar, zeminde testere talaşı. Dickens, Samuel Johnson ve Mark Twain burada içti. Fleet Street'ten dar bir geçitle bulunuyor; küçük bir tabela ve başka hiçbir şey. London pub'ının gerçekte ne olduğu bu.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ye+Olde+Cheshire+Cheese+London"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Columbia Road Pazar ritüeli",
+        "text": "Her Pazar sabahı Columbia Road, Shoreditch'te London'ın en güzel çiçek pazarına dönüşüyor: dar Viktorya dönemi sokağı çiçek tezgahları ve yüksek sesle satan tezgah sahipleriyle dolup taşıyor. 09:00–11:00 arasında kalabalık zirveden önce git. Çiçek al. Çevredeki kafelerden birinde kahvaltı et. London'ın en güzel Pazar anlarından biri."
+      }
+    },
+    "checklist": {
+      "title": "London Checklist",
+      "completion_message": "Cheers! London'da güzel vakit geçirdin!",
+      "items": [
+        {
+          "label": "Gelmeden önce telefonuna temassız ödeme kur",
+          "sub": "Apple Pay veya Google Pay: her yolculukta para kazandırıyor. Standart bilet almak zorunda değilsin."
+        },
+        {
+          "label": "Platform 9¾'te fotoğraf çektir, Leadenhall Market'te kaybol",
+          "sub": "King's Cross'ta Harry Potter'ın duvara girdiği o meşhur sahne, Leadenhall Market'te ise gerçek Diagon Alley. İkisi de ücretsiz."
+        },
+        {
+          "label": "Düzgün bir caff'ta Full English ye",
+          "sub": "Lokalden birine 'caff'ın nerede?' diye sor. Hem uygun hem lezzetli."
+        },
+        {
+          "label": "Kırmızı çift katlı otobüse bin — üst kat, ön koltuk",
+          "sub": "11 veya 15 numaralı hat şehrin merkezinden geçiyor. Her turistik otobüsten iyi. Sadece temassız ödeme ile."
+        },
+        {
+          "label": "Şafakta Tower Bridge'den geç",
+          "sub": "Kalabalık gelmeden önce. Ücretsiz. London'ın en ikonik köprüsü."
+        },
+        {
+          "label": "Ücretsiz dünya klasmanı bir müzeyi ziyaret et",
+          "sub": "British Museum, V&A, Tate Modern, Natural History Museum: birini seç ve derine in."
+        },
+        {
+          "label": "Afternoon tea — düzgün şekilde",
+          "sub": "Fortnum & Mason veya benzeri. Önceden rezervasyon yap. Önce kaymak, sonra reçel. Devon geleneği."
+        },
+        {
+          "label": "St Dunstan in the East'i bul",
+          "sub": "Bombalanmış kilise yıkıntısındaki gizli bahçe. Ücretsiz. Bilenlerin sırrı."
+        },
+        {
+          "label": "Primrose Hill'de günbatımını izle",
+          "sub": "London'ın en iyi ücretsiz manzarası. Yanına şarap al. Işıklar yanana kadar kal."
+        },
+        {
+          "label": "Viktorya dönemi bir pub'da bira iç",
+          "sub": "Barda sipariş ver. Bir köşeye otur. London'ın London olduğunu izle."
+        },
+        {
+          "label": "South Bank'ta Tower Bridge'den Tate Modern'e yürü",
+          "sub": "Dünyanın en güzel kentsel yürüyüşlerinden biri. Ücretsiz. Her saatte yapılabilir."
+        },
+        {
+          "label": "Borough Market'te ye",
+          "sub": "Aç git. Her şeyden dene. Monmouth Coffee al. İki kez gel."
+        },
+        {
+          "label": "Sky Garden'ı rezerve et ve git",
+          "sub": "City'nin en iyi manzarasına sahip ücretsiz çatı bahçesi. Önceden online rezervasyon şart."
+        },
+        {
+          "label": "Düzgün bir pub'da Pazar rostası ye",
+          "sub": "Önceden rezervasyon yap. Öğle ile 15:00 arası. Yorkshire pudding'i söylemeyi unutma."
+        },
+        {
+          "label": "Tanımadığın bir mahalleye gir ve kaybol",
+          "sub": "Bermondsey, Dalston, Stoke Newington, Nunhead. Birini seç. Yürü. Bu London."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "London pahalı bir şehir; tuzaklara para bırakırsan gerçek güzelliklere bütçe kalmaz. Bu dördünü ezberle.",
+      "items": [
+        {
+          "icon": "🍬",
+          "name": "Oxford Street'in 'Amerikan şeker' dükkanları",
+          "description": "Rengarenk vitrinli candy shop'lar şehrin en bilinen tuzağı: fahiş fiyatlar, şaibeli ürünler. Aynı şey turistik 'İngiliz hediyelik' zincirlerinin çoğu için geçerli.",
+          "instead": "Hediyelik için müze dükkanlarına bak (ücretsiz müzelerin dükkanları harikadır) ya da bir marketten İngiliz çayı al."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Leicester Square çevresinde yemek",
+          "description": "Piccadilly ile Leicester Square arasındaki 'Angus Steakhouse' tarzı restoranlar ve zincirler, London'ın en vasat ve en pahalı yemeğini satar.",
+          "instead": "On dakika yürü: Soho'nun ara sokakları, Chinatown ya da Borough Market. Aynı para, bambaşka bir şehir."
+        },
+        {
+          "icon": "🎡",
+          "name": "London Eye'a tam tarife binmek",
+          "description": "Kapı fiyatı yüksek, kuyruk uzun ve manzaranın daha iyisi ücretsiz alternatiflerde var.",
+          "instead": "Sky Garden'a haftalar önceden ücretsiz bilet ayırt ya da günbatımında Primrose Hill'e çık."
+        },
+        {
+          "icon": "💂",
+          "name": "Buckingham nöbet değişiminde ezilmek",
+          "description": "Saatler önce yer kapma savaşı, omuz üstünden telefon ekranı izleme deneyimi. Çoğu gün buna değmez.",
+          "instead": "Horse Guards Parade'deki atlı nöbet değişimine git: daha yakın, daha sakin, en az onun kadar görkemli."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "London'da en iyi şeylerin çoğu ücretsizdir: müzeler, parklar, pazarlar, manzaralar. Para istemeyen şehre güven, para isteyen kuyruğa güvenme."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Nehir boyunca klasik London",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Full English kahvaltı",
+              "description": "Regency Cafe tarzı bir yerde güne başla: bir kez, hakkını vererek."
+            },
+            {
+              "time": "10:00",
+              "title": "Westminster + South Bank yürüyüşü",
+              "description": "Big Ben ve Parlamento'yu gör, köprüyü geç, nehir boyunca Tate Modern'e yürü. Şehrin en iyi bedava turu."
+            },
+            {
+              "time": "13:00",
+              "title": "Borough Market'te öğle",
+              "description": "Tezgah tezgah gez, ayaküstü ye. Cumartesi kalabalığından kaçmak için hafta içi gel."
+            },
+            {
+              "time": "15:00",
+              "title": "Tek müze seç",
+              "description": "British Museum, National Gallery veya Tate — hepsi ücretsiz. Birini seç, iki saatini ver, çıkışta kendine teşekkür et."
+            },
+            {
+              "time": "17:30",
+              "title": "Pub saati",
+              "description": "Mesai çıkışı pub kültürünü yaşa: kaldırımda elde bira, gürültü, sohbet. Ye Olde Cheshire Cheese tarihi bir başlangıç."
+            },
+            {
+              "time": "19:30",
+              "title": "Sky Garden veya Primrose Hill günbatımı",
+              "description": "Ücretsiz rezervasyonla camdan bahçede ya da tepede çimlerin üstünde: London ayaklarının altında."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehri turist gibi değil, misafir gibi yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasikler ve nehir",
+              "description": "Yukarıdaki 1 günlük akış: Westminster, South Bank, Borough, pub."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Doğu London",
+              "description": "Brick Lane ve Spitalfields'ta sokak sanatı + vintage, öğlen curry house, öğleden sonra Shoreditch kahvecileri, akşam Columbia Road civarında bir pub."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Köy London'ı ve veda",
+              "description": "Hampstead Heath'te yürüyüş ve Hill Garden Pergola, öğleden sonra Notting Hill veya Marylebone'da kitapçı-butik turu, akşam Covent Garden'da veda yemeği."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Dil zaten İngilizce ama London'ın kendi sözlüğü var; bu beşi seni yerli gibi gösterir.",
+      "items": [
+        {
+          "word": "Cheers",
+          "pronunciation": "çiırs",
+          "meaning": "Teşekkürler + hoşça kal + şerefe — London'ın İsviçre çakısı"
+        },
+        {
+          "word": "Mate",
+          "pronunciation": "meyt",
+          "meaning": "Dostum — barmenden taksiciye herkese: cheers mate"
+        },
+        {
+          "word": "Sorry",
+          "pronunciation": "sori",
+          "meaning": "Pardon — biri SANA çarpınca bile sen söylersin, kural böyle"
+        },
+        {
+          "word": "Quid",
+          "pronunciation": "kuid",
+          "meaning": "Pound'un sokak adı: five quid = 5 sterlin"
+        },
+        {
+          "word": "Fancy a pint?",
+          "pronunciation": "fensi ı paynt",
+          "meaning": "Bir bira içelim mi? — London sosyalleşmesinin resmi açılış cümlesi"
+        }
+      ]
+    }
+  }
+}

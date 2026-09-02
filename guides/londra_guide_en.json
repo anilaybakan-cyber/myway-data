@@ -1,0 +1,585 @@
+{
+  "meta": {
+    "city": "London",
+    "country": "United Kingdom",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#003580",
+    "color_light": "#E8EEF8",
+    "tagline": "One city, a thousand cities inside it",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Tap in & out on the Tube",
+    "Free world-class museums",
+    "Pub culture is real"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to London",
+      "intro": "London doesn't reveal itself all at once. You arrive expecting one city and discover it's actually dozens — medieval square miles next to glass skyscrapers, ancient markets next to Michelin stars, quiet Georgian terraces two streets from the world's busiest shopping streets. It is the most visited city on earth, and somehow still full of things almost no one sees. The trick is knowing where to look, and how to move.",
+      "local_word": {
+        "word": "The Local",
+        "pronunciation": "thuh LOH-kul",
+        "definition": "Not just a pub — your pub. Every neighbourhood in London has one: a place where regulars have the same seat, the landlord knows their order, and no tourist has ever walked in. Finding yours, even as a visitor, is one of London's greatest simple pleasures."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Never buy a paper ticket for the Tube",
+          "description": "A paper ticket in Zone 1 costs more than double the same journey with contactless. Use your bank card, Apple Pay or Google Pay — it's the cheapest, easiest, fastest method. The system automatically applies a daily cap, so once you hit it, all further journeys that day are free."
+        },
+        {
+          "number": 2,
+          "title": "Stand on the right on escalators",
+          "description": "Walk on the left, stand on the right. This is not a suggestion — it is one of London's most seriously observed unwritten rules. Breaking it during rush hour will earn you genuine hostility from people who are otherwise perfectly polite."
+        },
+        {
+          "number": 3,
+          "title": "London's best museums are completely free",
+          "description": "The British Museum, Natural History Museum, V&A, Science Museum, National Gallery, Tate Modern — all free, forever. This is UK law, not a promotion. Anyone who charges you to enter any of these has committed fraud. Walk in. Stay all day."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Main airport",
+          "value": "Heathrow (LHR)",
+          "sub": "Elizabeth line · 35 min · direct to central London"
+        },
+        {
+          "icon": "💳",
+          "label": "Best transport",
+          "value": "Contactless card",
+          "sub": "Daily cap applies — the more you travel, the better value"
+        },
+        {
+          "icon": "🏛️",
+          "label": "Museums",
+          "value": "All major ones free",
+          "sub": "British Museum · V&A · Tate Modern"
+        },
+        {
+          "icon": "🍺",
+          "label": "Pub hours",
+          "value": "Usually 11am–11pm",
+          "sub": "Last orders at 10:45 PM"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The real London rule",
+        "text": "London is enormous — 9 million people across 33 boroughs. Try to see everything and you'll miss most of it. Pick two or three neighbourhoods and go deep. The real city is waiting there."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "London's transport network is one of the world's most comprehensive. Understanding it takes 5 minutes and saves you hours — and significant money.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Heathrow (LHR) → City Center",
+          "description": "The Elizabeth line is the best balance of cost and speed — 35 minutes to central London stations, trains every few minutes. The Piccadilly line is slower (60+ minutes) and uncomfortable with luggage. The Heathrow Express is fast (15 min to Paddington) but significantly overpriced — not worth it when the Elizabeth line exists. Never take a taxi from Heathrow — very expensive and unpredictable."
+        },
+        {
+          "icon": "✈️",
+          "title": "Gatwick (LGW) → City Center",
+          "description": "The Gatwick Express runs direct to London Victoria in 30 minutes. Thameslink trains are cheaper and serve more stations including London Bridge and St Pancras — usually just as fast. National Express coaches are the budget option but take 90 minutes or more in traffic. Taxi is very expensive — always avoid it."
+        },
+        {
+          "icon": "💳",
+          "title": "The Tube — contactless is all you need",
+          "description": "Tap your contactless bank card, Apple Pay or Google Pay on the yellow reader when entering AND exiting every Tube station. The system automatically calculates the cheapest fare and applies a daily cap — once you hit the cap, all further journeys that day are free. One card for everything: Tube, buses, Overground, Elizabeth line, DLR."
+        },
+        {
+          "icon": "🚌",
+          "title": "Buses — the scenic alternative",
+          "description": "Every bus in London is a flat fare, regardless of distance. No cash accepted on any bus — contactless only. The bus is slower than the Tube but you see London from street level. Routes 11 and 15 are particularly scenic through the center. For sightseeing, a bus often beats the Tube completely."
+        },
+        {
+          "icon": "🚲",
+          "title": "Santander Cycles (Boris Bikes)",
+          "description": "London's public hire bikes available at hundreds of docking stations across central London. An access fee covers 30-minute trips, with unlimited docking and undocking. Use the TfL app or contactless at any docking station. Central London is surprisingly flat. Excellent for the South Bank, parks, and canal paths."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Paper ticket trap",
+        "text": "A paper ticket costs significantly more than paying with a contactless card for the same journey. On a multi-day trip making several journeys a day, the difference adds up fast. Always use contactless. Always."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "London's neighbourhoods are radically different from each other. Where you stay shapes your entire experience — and the city is large enough that location genuinely matters.",
+      "local_word": {
+        "word": "Manor",
+        "pronunciation": "MAN-uh",
+        "definition": "London slang for your patch — the neighbourhood you belong to, your territory, your turf. Every Londoner has a manor they're loyal to. Choosing where to stay in London means choosing your manor. Get it right and the city feels like home. Get it wrong and you spend half your time in transit."
+      },
+      "items": [
+        {
+          "name": "South Bank & Borough",
+          "badge": "Most iconic",
+          "badge_type": "vibe",
+          "description": "The Thames on your doorstep, Tate Modern, Borough Market, Shakespeare's Globe — all within walking distance. The best riverside walks in London. Genuinely central without the tourist chaos of Covent Garden. One of the most satisfying manors to wake up in.",
+          "tags": [
+            "Thames views",
+            "Borough Market",
+            "Excellent transport"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=South+Bank+London"
+        },
+        {
+          "name": "Shoreditch & Hackney",
+          "badge": "Most local",
+          "badge_type": "local",
+          "description": "East London's creative heart. Street art everywhere, independent restaurants, vintage markets, the best coffee in London. Where Londoners actually live and go out. Rough around the edges in the best way. Further from the main tourist sights but the Tube brings you anywhere in 20 minutes.",
+          "tags": [
+            "Street art & coffee",
+            "Most authentic",
+            "Best restaurants"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Shoreditch+London"
+        },
+        {
+          "name": "Marylebone & Fitzrovia",
+          "badge": "Most elegant",
+          "badge_type": "vibe",
+          "description": "The London of independent bookshops, Georgian townhouses, and quiet café streets. Walking distance to Hyde Park, the British Museum, and Oxford Street without being engulfed by them. One of the most genuinely pleasant manors to stay — residential, beautiful, and central.",
+          "tags": [
+            "Georgian architecture",
+            "Quiet & central",
+            "Near Hyde Park"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marylebone+London"
+        },
+        {
+          "name": "Covent Garden & Strand",
+          "badge": "Most central",
+          "badge_type": "hot",
+          "description": "Everything within walking distance — West End theatres, Trafalgar Square, the National Gallery, Somerset House. Lively, noisy, endlessly convenient. More expensive than anywhere else but you genuinely never need transport. Perfect for first-timers who want maximum access.",
+          "tags": [
+            "Everything walkable",
+            "Theatre district",
+            "Most expensive"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Covent+Garden+London"
+        },
+        {
+          "name": "Brixton & Peckham",
+          "badge": "Best value",
+          "badge_type": "value",
+          "description": "South London's vibrant, multicultural manors. Market culture, incredible food, alive nightlife, genuinely local atmosphere. The Victoria line makes Brixton 15 minutes from Oxford Circus. Where young Londoners actually live — and significantly cheaper than north of the river.",
+          "tags": [
+            "Best value",
+            "Multicultural food",
+            "Victoria line"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Brixton+London"
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Zone warning",
+        "text": "Staying in Zone 1 or 2 is ideal. Zone 3 and beyond saves money on accommodation but costs more in transport time and fares. The sweet spot is Zone 2 — lower hotel prices with genuinely easy access to everything in the center."
+      }
+    },
+    "best_time": {
+      "title": "Best Time to Visit",
+      "intro": "London works in all four seasons but each one offers a radically different city. The weather is famously unpredictable — pack a layer regardless of the forecast.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "Parks & Blossom",
+          "months": "Mar – May",
+          "subtitle": "Spring · Parks, Blossom, Energy",
+          "description": "London's parks transform in spring — cherry blossoms in Greenwich Park and Battersea, daffodils across Hyde Park and Regent's Park, outdoor markets and terraces reopening. The city feels hopeful and alive. Crowds are building but not yet overwhelming. Arguably London at its most beautiful. The Chelsea Flower Show in May is a world-class event.",
+          "callout": {
+            "type": "tip",
+            "label": "Don't miss",
+            "text": "Cherry blossom in Greenwich Park (late March–April) and the Columbia Road Flower Market (Sundays) — London at its most unexpectedly beautiful."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "Festival Season",
+          "months": "Jun – Aug",
+          "subtitle": "Summer · Festivals, Parks & Long Days",
+          "description": "Wimbledon, Notting Hill Carnival (August Bank Holiday — one of the world's great street parties), open-air concerts in the parks. Days are long — light until 10 PM. But peak crowds, peak prices, and unpredictable heat. London isn't designed for extreme heat and can struggle in real summers.",
+          "callout": {
+            "type": "warning",
+            "label": "Book ahead",
+            "text": "Wimbledon (late June–July) and Notting Hill Carnival (August Bank Holiday) — book accommodation months ahead for these weekends. Prices spike significantly."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "Golden & Calm",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · The Sweet Spot",
+          "description": "September and October are London's best-kept secret. Summer crowds clear, the parks turn golden, the cultural season kicks off — major exhibitions, theatre openings, the London Film Festival. Weather is still mild and pleasant. Museum queues shorten noticeably. This is when Londoners actually enjoy their own city most.",
+          "callout": {
+            "type": "tip",
+            "label": "Don't miss",
+            "text": "London Film Festival (October) — screenings across the city, many tickets surprisingly accessible. And Frieze Art Fair — the world's most important contemporary art fair, in Regent's Park."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Magical & Quiet",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Christmas, Theatre & Dark Magic",
+          "description": "London's Christmas is genuinely spectacular — the lights on Regent Street, markets at Southbank, carol concerts in ancient churches, Winter Wonderland in Hyde Park. January is the quietest month: prices drop, queues disappear, the city returns to itself. Theatre tickets hit their lowest point of the year.",
+          "callout": {
+            "type": "tip",
+            "label": "Insider tip",
+            "text": "January is the best month to visit London. Prices drop, queues disappear, the city returns to itself. The January sales are genuine and significant. Theatre tickets are at their cheapest."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "May",
+          "text": "Chelsea Flower Show: the world's most famous garden show; the city blooms and tickets sell out early."
+        },
+        {
+          "month": "Late June–July",
+          "text": "Wimbledon: same-day court tickets are possible via the morning Queue; strawberries and cream are a compulsory ritual."
+        },
+        {
+          "month": "Late August",
+          "text": "Notting Hill Carnival: Europe's biggest street festival — colour, soca and two days of non-stop dancing."
+        },
+        {
+          "month": "December",
+          "text": "Christmas lights: Regent Street and Carnaby dress up, Kew Gardens' light trail is magical; Boxing Day sales start December 26."
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "London is one of the world's great food cities. Its diversity means you can eat every cuisine on earth at a genuinely high level — and the best of it is rarely in the obvious places.",
+      "local_word": {
+        "word": "Cheers!",
+        "pronunciation": "cheerz",
+        "definition": "Said when glasses clink, when someone holds a door, when you're given something, when you leave a shop. It replaces 'thank you', 'you're welcome', 'goodbye' and dozens of other phrases. Learn it. Use it constantly. You'll blend in immediately."
+      },
+      "items": [
+        {
+          "icon": "🍳",
+          "name": "Full English Breakfast — the real one",
+          "description": "Bacon, eggs, sausages, baked beans, grilled tomato, mushrooms, black pudding, and toast. Britain's greatest contribution to world cuisine. The key: find a proper 'caff' (greasy spoon) — a small, independent, no-frills café. At a good caff it's very affordable. At a tourist spot near a major attraction the same thing costs several times more and is inferior. Ask a local where their caff is. That's your answer.",
+          "tag": "Find a greasy spoon caff · very affordable · avoid hotel buffets",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Regency+Cafe+London"
+        },
+        {
+          "icon": "🍛",
+          "name": "Brick Lane & the curry houses",
+          "description": "London has the best Indian and Bangladeshi food outside the subcontinent. Brick Lane in Shoreditch is the historic center but the whole East End is extraordinary. Dishoom (multiple locations) is the most celebrated — the bacon naan at breakfast has a genuine queue. Worth every minute.",
+          "tag": "Dishoom · any Brick Lane classic",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Brick+Lane+London"
+        },
+        {
+          "icon": "🥐",
+          "name": "Borough Market — the real one",
+          "description": "London's oldest and finest food market, under the railway arches near London Bridge. Open Tuesday–Saturday. This is where London's best chefs shop. Monmouth Coffee here is among the best in London. Go hungry. Eat everything. Come back the next day.",
+          "tag": "Tue–Sat · arrive hungry · Monmouth Coffee",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Borough+Market+London"
+        },
+        {
+          "icon": "🐟",
+          "name": "Fish & chips — but properly",
+          "description": "Not the tourist chip shops near Leicester Square. The real thing: thick-cut chips, fresh battered cod or haddock, mushy peas, malt vinegar. Poppies in Spitalfields or Rock & Sole Plaice in Covent Garden. Eat it wrapped in paper. London's most honest food.",
+          "tag": "Poppies Spitalfields · Rock & Sole Plaice",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Poppies+Fish+and+Chips+London"
+        },
+        {
+          "icon": "🍺",
+          "name": "The pub — a British institution",
+          "description": "Order at the bar — never wait to be served at a table unless it's a food order. A pint of real ale, bitter, or London Pride. The gastropub has transformed pub food — some serve Michelin-star quality. Find a traditional Victorian pub and spend an afternoon in it. This is what London actually is.",
+          "tag": "Order at the bar · last orders 10:45 PM",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Churchill+Arms+London"
+        },
+        {
+          "icon": "☕",
+          "name": "The specialty coffee scene",
+          "description": "London has one of the world's best specialty coffee scenes. Monmouth Coffee, Ozone, Workshop, and Allpress are the benchmarks. The scene was largely built by Australian and New Zealand expats who arrived in the 2000s and transformed café culture here permanently.",
+          "tag": "Monmouth · Ozone · Workshop Coffee",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Monmouth+Coffee+London"
+        },
+        {
+          "icon": "🫖",
+          "name": "Afternoon tea — done properly",
+          "description": "Finger sandwiches, warm scones with clotted cream and jam (cream first, then jam — the correct order), and proper loose-leaf tea. Fortnum & Mason is the classic. Book ahead. One experience that genuinely earns its tourist status.",
+          "tag": "Fortnum & Mason · book ahead · cream first",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fortnum+and+Mason+London"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The Sunday roast",
+        "text": "Every Sunday, London's pubs serve the traditional roast — beef, lamb, pork or chicken, roast potatoes, Yorkshire pudding, vegetables, gravy. The most British meal that exists. Find a good pub, go between noon and 3 PM, book ahead. The best ones fill up fast."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Gems",
+      "intro": "London rewards the curious more than any city in Europe. The best things here are free, unmarked, and tucked between the famous things everyone photographs.",
+      "items": [
+        {
+          "rarity": "On screen to real life — Harry Potter",
+          "name": "King's Cross Station — Platform 9¾",
+          "description": "The legendary platform where Harry Potter boards the Hogwarts Express. Inside King's Cross there's a real installation: a luggage trolley disappearing into the wall with a '9¾' sign above it. There's a queue for photos but it moves fast. Worth visiting whether you're a Harry Potter fan or not. Free.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kings+Cross+Platform+9+3/4+London"
+        },
+        {
+          "rarity": "On screen to real life — Diagon Alley",
+          "name": "Leadenhall Market",
+          "description": "This magnificent Victorian covered market in the heart of the City of London was filmed as Diagon Alley in the Harry Potter films. Victorian iron and glass ceiling, richly painted walls. Even without the film connection it's one of the most beautiful interiors in London. Free, open daily. Packed with city workers at lunch, almost entirely silent in the evenings.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Leadenhall+Market+London"
+        },
+        {
+          "rarity": "WWII bombed church turned secret garden",
+          "name": "St Dunstan in the East",
+          "description": "A 12th-century church devastated in the Blitz in 1941. The ruins were left standing and turned into a public garden — vines climbing over bombed walls, trees growing through window arches, benches in what was once the nave. One of the most extraordinary spaces in London. Free, open daily. Almost no tourist ever finds it.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=St+Dunstan+in+the+East+London"
+        },
+        {
+          "rarity": "Best free view in London — no booking needed",
+          "name": "Primrose Hill at sunset",
+          "description": "A 64-metre hill in north London with a panoramic view across the entire city skyline. No ticket, no queue, no commercial processing. On summer evenings, Londoners bring wine and picnics. At sunset it is one of the most beautiful urban views in the world. The London Eye charges a significant fee for an inferior perspective. This costs nothing.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Primrose+Hill+London"
+        },
+        {
+          "rarity": "Hidden garden in the City of London",
+          "name": "Postman's Park — Memorial to Heroic Self Sacrifice",
+          "description": "A quiet park near St Paul's Cathedral containing an extraordinary memorial — ceramic tiles commemorating ordinary people who died saving others, each with a brief, heartbreaking story. Created in 1900. One of London's most affecting and least-known monuments. The tiles stop every single person who sees them.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Postman%27s+Park+London"
+        },
+        {
+          "rarity": "Free rooftop garden — book online in advance",
+          "name": "Sky Garden at 20 Fenchurch Street",
+          "description": "The top of the 'Walkie-Talkie' building houses a stunning public garden with 360-degree views of London — completely free but requires booking online in advance. Far better views than the London Eye at no cost. Book a few days ahead on the Sky Garden website.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sky+Garden+London"
+        },
+        {
+          "rarity": "Victorian pleasure garden — completely unmarked",
+          "name": "The Hill Garden & Pergola — Hampstead",
+          "description": "Hidden above Hampstead Heath, an extraordinary Edwardian pergola — a raised walkway of stone arches dripping with wisteria and climbing roses. Built for Lord Leverhulme in 1904. Free to enter, almost entirely unknown. Go in late May when the wisteria blooms and it becomes one of the most romantic spaces in England.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Hill+Garden+and+Pergola+London"
+        },
+        {
+          "rarity": "The pub that time forgot — since 1546",
+          "name": "Ye Olde Cheshire Cheese — Fleet Street",
+          "description": "One of the oldest pubs in London, rebuilt after the Great Fire of 1666. Dark wood, low ceilings, sawdust on the floor. Dickens, Samuel Johnson, and Mark Twain all drank here. Find it through a narrow alleyway off Fleet Street — a small sign and nothing else. This is what a London pub actually is.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ye+Olde+Cheshire+Cheese+London"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Columbia Road Sunday ritual",
+        "text": "Every Sunday morning, Columbia Road in Shoreditch becomes London's most beautiful flower market — narrow Victorian street packed with flowers, stallholders in full theatrical cry. Go between 9–11 AM before peak crowds. Buy flowers. Have brunch in one of the surrounding cafés. One of London's great Sunday rituals."
+      }
+    },
+    "checklist": {
+      "title": "London Checklist",
+      "completion_message": "Cheers! You did London right.",
+      "items": [
+        {
+          "label": "Set up contactless on your phone before landing",
+          "sub": "Apple Pay or Google Pay — saves money every journey. No need to buy a standard ticket."
+        },
+        {
+          "label": "Take a photo at Platform 9¾, then get lost in Leadenhall Market",
+          "sub": "King's Cross for the Harry Potter installation, Leadenhall Market for the real Diagon Alley. Both free."
+        },
+        {
+          "label": "Have a Full English at a proper caff",
+          "sub": "Find a local greasy spoon — not a hotel buffet. Very affordable and the real thing."
+        },
+        {
+          "label": "Ride a red double-decker bus — upstairs, front seat",
+          "sub": "Route 11 or 15 through central London. Better than any tourist bus. Contactless only."
+        },
+        {
+          "label": "Walk across Tower Bridge at dawn",
+          "sub": "Before the tourists arrive. Free. London's most iconic bridge."
+        },
+        {
+          "label": "Visit a free world-class museum",
+          "sub": "British Museum, V&A, Tate Modern, Natural History Museum — pick one and go deep."
+        },
+        {
+          "label": "Have afternoon tea — properly",
+          "sub": "Fortnum & Mason or similar. Book ahead. Cream first, then jam. That's the Devon way."
+        },
+        {
+          "label": "Find St Dunstan in the East",
+          "sub": "The secret garden in the bombed church ruins. Free. Known only to those who find it."
+        },
+        {
+          "label": "Watch the sunset from Primrose Hill",
+          "sub": "Best free view in London. Bring wine. Stay until the lights come on."
+        },
+        {
+          "label": "Have a pint in a Victorian pub",
+          "sub": "Order at the bar. Sit in a corner. Watch London being London."
+        },
+        {
+          "label": "Walk the South Bank from Tower Bridge to Tate Modern",
+          "sub": "One of the world's great urban walks. Free. Do it at any hour."
+        },
+        {
+          "label": "Eat at Borough Market",
+          "sub": "Go hungry. Try everything. Get Monmouth Coffee. Come back twice."
+        },
+        {
+          "label": "Book Sky Garden and go",
+          "sub": "Free rooftop garden with the best views in the City. Book online in advance."
+        },
+        {
+          "label": "Sunday roast at a proper pub",
+          "sub": "Book ahead. Noon to 3 PM. Don't skip the Yorkshire pudding."
+        },
+        {
+          "label": "Get lost in a neighbourhood you don't know",
+          "sub": "Bermondsey, Dalston, Stoke Newington, Nunhead. Pick one. Walk. That's London."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Skip the Traps",
+      "intro": "London is expensive; money left in traps is budget stolen from the real thing. Memorise these four.",
+      "items": [
+        {
+          "icon": "🍬",
+          "name": "Oxford Street's 'American candy' shops",
+          "description": "The garish candy shops are the city's best-known trap: outrageous prices, dubious products. The same goes for most of the touristy 'British gifts' chains.",
+          "instead": "For souvenirs try the museum shops (the free museums have brilliant ones), or just buy proper English tea from a supermarket."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Eating around Leicester Square",
+          "description": "The 'Angus Steakhouse'-style restaurants and chains between Piccadilly and Leicester Square sell London's most mediocre, most expensive food.",
+          "instead": "Walk ten minutes: Soho's side streets, Chinatown, or Borough Market. Same money, different city."
+        },
+        {
+          "icon": "🎡",
+          "name": "Paying full price for the London Eye",
+          "description": "High walk-up prices, long queues — and better views exist for free.",
+          "instead": "Book a free Sky Garden slot weeks ahead, or climb Primrose Hill at sunset."
+        },
+        {
+          "icon": "💂",
+          "name": "Getting crushed at the Buckingham guard change",
+          "description": "A turf war that starts hours early, then watching it through someone else's phone screen. Most days it is not worth it.",
+          "instead": "Go to the mounted guard change at Horse Guards Parade: closer, calmer, and every bit as ceremonial."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The golden rule",
+        "text": "Most of London's best things are free: museums, parks, markets, views. Trust the city that asks no money; distrust the queue that does."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Routes",
+      "intro": "If you hate planning, follow these flows. The times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "Classic London along the river",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Full English breakfast",
+              "description": "Start the day somewhere like the Regency Cafe: once, done properly."
+            },
+            {
+              "time": "10:00",
+              "title": "Westminster + South Bank walk",
+              "description": "See Big Ben and Parliament, cross the bridge, walk the river to Tate Modern. The city's best free tour."
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch at Borough Market",
+              "description": "Stall by stall, eating as you go. Come on a weekday to dodge the Saturday crush."
+            },
+            {
+              "time": "15:00",
+              "title": "Pick one museum",
+              "description": "British Museum, National Gallery or Tate — all free. Choose one, give it two hours, thank yourself on the way out."
+            },
+            {
+              "time": "17:30",
+              "title": "Pub hour",
+              "description": "Live the after-work pub ritual: pint in hand on the pavement, noise, chatter. Ye Olde Cheshire Cheese is a historic place to start."
+            },
+            {
+              "time": "19:30",
+              "title": "Sunset at Sky Garden or Primrose Hill",
+              "description": "In the glass garden with a free booking, or on the grass at the top of the hill: London at your feet."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Live the city as a guest, not a tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "The classics and the river",
+              "description": "The 1-day flow above: Westminster, South Bank, Borough, the pub."
+            },
+            {
+              "time": "Day 2",
+              "title": "East London",
+              "description": "Street art and vintage around Brick Lane and Spitalfields, a curry house at noon, Shoreditch coffee in the afternoon, a pub near Columbia Road at night."
+            },
+            {
+              "time": "Day 3",
+              "title": "Village London and goodbye",
+              "description": "A walk on Hampstead Heath and the Hill Garden Pergola, a bookshop-and-boutique crawl in Notting Hill or Marylebone, and a farewell dinner in Covent Garden."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "The 5-Word Survival Kit",
+      "intro": "The language is already English — but London has its own dictionary. These five make you sound local.",
+      "items": [
+        {
+          "word": "Cheers",
+          "pronunciation": "cheerz",
+          "meaning": "Thanks + bye + a toast — London's Swiss army knife"
+        },
+        {
+          "word": "Mate",
+          "pronunciation": "mayt",
+          "meaning": "Friend — for barmen and cabbies alike: cheers mate"
+        },
+        {
+          "word": "Sorry",
+          "pronunciation": "SOH-ree",
+          "meaning": "Excuse me — you say it even when someone bumps into YOU; those are the rules"
+        },
+        {
+          "word": "Quid",
+          "pronunciation": "kwid",
+          "meaning": "Street name for the pound: five quid = £5"
+        },
+        {
+          "word": "Fancy a pint?",
+          "pronunciation": "FAN-see uh pynt",
+          "meaning": "Shall we get a beer? — the official opening line of London social life"
+        }
+      ]
+    }
+  }
+}

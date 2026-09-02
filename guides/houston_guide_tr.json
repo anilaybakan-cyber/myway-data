@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Houston",
+    "country": "ABD",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#1B2E5E",
+    "color_light": "#E7EAF4",
+    "tagline": "Uzaya komuta eden, dünyanın sofrasını kuran bayou şehri"
+  },
+  "pills": [
+    "'Houston, bir sorunumuz var'ın Houston'ı",
+    "Amerika'nın en çok kültürlü şehri",
+    "Viet-Cajun'dan fajitaya lezzet başkenti"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Houston'a Hoş Geldin",
+      "intro": "Houston iki efsaneyi aynı anda taşır: biri Ay'a giden her komutun geçtiği Görev Kontrol odası, öbürü Amerika'nın en çeşitli sofrası. Bu bayou şehri petrol parasıyla müze doldurmuş, göçle mutfak zenginleştirmiş, plansız büyümüş ve tam da bu yüzden özgürleşmiştir — kimse kimseye 'nereden geldin' diye sormaz, 'ne yiyelim' diye sorar. Rothko'nun sessiz şapeli, Menil'in ücretsiz koleksiyonu, Asiatown'ın dev yemek pasajları ve fajitanın doğduğu tavalar aynı haritadadır. H-Town gösterişsizdir; sevmesi bu yüzden kolaydır.",
+      "local_word": {
+        "word": "H-Town",
+        "pronunciation": "eyç-taun",
+        "definition": "Houston'ın yerli takma adı: rap kültüründen gündelik dile geçmiş bir aidiyet mührü. 'H-Town proud' diyen, şehrin gösterişsiz gururunu kuşanmıştır. Houston kendini dev sloganlarla değil, bu iki heceyle anlatır — duyduğunda başını salla, sen de dahilsin."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "NASA'ya 'kısa uğrama' planı yapma",
+          "description": "Space Center Houston merkeze 45 dakikadır ve tam gün ister: Görev Kontrol turu (Apollo dönemi salon!) saatli tramvayla yapılır, bileti önceden al. Sabah git, tramvay turunu ilk saatlere kur — 'iki saatte döneriz' planı bu şehirde klasik pişmanlıktır."
+        },
+        {
+          "number": 2,
+          "title": "Arabayı kabul et, mahalle mahalle gez",
+          "description": "Houston Amerika'nın en yayılmış şehirlerindendir: araç şart, otoyol ağı devasa, feeder'lar başta kafa karıştırır. Panzehir mahalle stratejisidir — Montrose, Museum District ve Heights kendi içinde yürünür; araları öğlen saatlerinde geç."
+        },
+        {
+          "number": 3,
+          "title": "Sofrayı dünya turuna çevir",
+          "description": "Houston'da 'yerel mutfak' dünya demektir: fajita burada doğdu, Viet-Cajun kerevit burada icat edildi, Asiatown Amerika'nın en iyi Çin-Vietnam sofralarını kurar. Her öğünü başka kıtaya ver — şehrin asıl müzesi menülerdir."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Bush (IAH) / Hobby (HOU)",
+          "sub": "IAH uluslararası dev, Hobby şehre yakın"
+        },
+        {
+          "icon": "🚀",
+          "label": "İmza",
+          "value": "Space Center + sofra",
+          "sub": "Görev Kontrol ve dünya mutfağı"
+        },
+        {
+          "icon": "💵",
+          "label": "Para birimi",
+          "value": "Dolar (USD)",
+          "sub": "Kart her yerde, bahşiş %18-20"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "İngilizce (+145 dil)",
+          "sub": "Amerika'nın en çok dilli şehri"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Houston felsefesi",
+        "text": "Bu şehir vitrin değil derinliktir: güzelliğini otoyoldan değil, müze bahçesinden, taquería tezgahından ve bayou patikasından gösterir. Beklentiyi manzaradan sofraya kaydır — Houston seni masada fetheder."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Houston otoyol okyanusudur: araç esas, METRORail merkezde işe yarar, mahalleler kendi içinde yürünür.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından geliş",
+          "description": "Bush (IAH) merkeze 35-50 dakikadır: uygulama aracı en pratik çözüm. Hobby daha yakın ve sakin — iç hat geliyorsan tercih sebebi. İkisinde de trafik saatini hesaba kat."
+        },
+        {
+          "icon": "🚈",
+          "title": "METRORail kırmızı hat",
+          "description": "Downtown'dan Museum District ve Tıp Merkezi'ne inen hat, turistin işine en çok yarayan koridordur: müze günü için arabayı bırak, trene bin. Bilet peronda otomattan."
+        },
+        {
+          "icon": "🚗",
+          "title": "Araç ve feeder düzeni",
+          "description": "Otoyol boyunca paralel akan 'feeder' yan yollar Houston'a özgüdür: çıkışı kaçırırsan feeder'dan dolaşırsın, panik yok. Park bol ve çoğu yerde kolay — bu şehir araba için kurulmuştur."
+        },
+        {
+          "icon": "🚲",
+          "title": "Buffalo Bayou patikaları",
+          "description": "Şehri kat eden bayou boyunca kilometrelerce yürüyüş-bisiklet yolu: Downtown silüetine karşı koşucular, kanolar ve yarasa kolonisi. BCycle istasyonlarından bisiklet kirala — Houston'ın en yeşil yüzü."
+        },
+        {
+          "icon": "🚌",
+          "title": "Mahalle stratejisi",
+          "description": "Montrose, Heights ve Rice Village kendi içinde yürünebilir adalardır: aracı park et, mahalleyi yaya gez. Museum District'te 19 müze yürüme mesafesinde dizilir — Houston'ın en Avrupai köşesi."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bayou tüyosu",
+        "text": "Gün batımından önce Buffalo Bayou Park'taki Waugh Köprüsü'ne git: yüz binlerce yarasa alacakaranlıkta köprü altından bulut gibi çıkar. Ardından Eleanor Tinsley tepesinden Downtown silüetinin ışıklanışını izle — Houston'ın en iyi ücretsiz gösterisi."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Houston'da seçim ada seçimidir: Montrose'un bohem sokakları, Museum District'in sakin yeşili, Heights'ın bungalovları ya da Downtown pratikliği.",
+      "local_word": {
+        "word": "The Loop",
+        "pronunciation": "dı lup",
+        "definition": "Şehri saran 610 çevre yolunun yerli adı: 'Inside the Loop' demek, Houston'ın yürünebilir, karakterli çekirdeğinde olmak demektir. Emlak ilanından sohbete her yerde geçer — turist için tercüme basittir: kal Loop içinde, ye Loop içinde, gerekirse dışına sadece NASA için çık."
+      },
+      "items": [
+        {
+          "name": "Montrose",
+          "badge": "Bohem kalp",
+          "badge_type": "vibe",
+          "description": "Sanat galerileri, vintage dükkanlar, dövmeciler ve şehrin en iyi restoran yoğunluğu: Houston'ın özgür ruhlu mahallesi. Menil ve Rothko yürüme mesafesinde — karakter arayanın adresi.",
+          "tags": [
+            "Menil komşusu",
+            "Restoran yoğunluğu",
+            "Bohem sokaklar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Montrose+Houston"
+        },
+        {
+          "name": "Museum District",
+          "badge": "Sakin ve yeşil",
+          "badge_type": "value",
+          "description": "On dokuz müzenin ve Hermann Park'ın mahallesi: sabah müze, öğlen park pikniği, akşam sakinlik. METRORail hattında — kültür odaklı ziyaretin doğal üssü.",
+          "tags": [
+            "19 müze",
+            "Hermann Park",
+            "Rail üstünde"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Museum+District+Houston"
+        },
+        {
+          "name": "The Heights",
+          "badge": "Bungalov ruhu",
+          "badge_type": "local",
+          "description": "Victorian bungalovlar, antikacılar ve 19th Street'in mahalle dükkanları: Houston'ın kasaba dokulu köşesi. Craft bira ve brunch sahnesi güçlü — yerli ritimde konaklama.",
+          "tags": [
+            "Victorian sokaklar",
+            "Antikacılar",
+            "Brunch sahnesi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Heights+Houston"
+        },
+        {
+          "name": "Downtown",
+          "badge": "Pratik merkez",
+          "badge_type": "value",
+          "description": "Tünel sistemli iş merkezi maç ve konser akşamları canlanır: Minute Maid ve Toyota Center kapı komşusu. Rail kavşağında — etkinlik odaklı ziyarete mantıklı üs.",
+          "tags": [
+            "Stadyum komşusu",
+            "Rail kavşağı",
+            "Otel bolluğu"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Downtown+Houston"
+        },
+        {
+          "name": "Rice Village ve West U",
+          "badge": "Zarif taraf",
+          "badge_type": "local",
+          "description": "Rice Üniversitesi'nin meşeli kampüsüne komşu dükkan ve kafe bölgesi: sakin, güvenli, yürünebilir. Aile ve konfor öncelikli konaklamanın dengeli seçimi.",
+          "tags": [
+            "Meşeli sokaklar",
+            "Kampüs komşusu",
+            "Kafe bölgesi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rice+Village+Houston"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Houston'ın takvimi nemle pazarlıktır: kasım-nisan altın pencere, yaz sauna, mart rodeo şenliği demektir.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Rodeo ve Bluebonnet",
+          "months": "Mar – May",
+          "subtitle": "İlkbahar · Dünyanın en büyük rodeosu, ılık akşamlar",
+          "description": "Mart, Houston Livestock Show and Rodeo demektir: üç hafta boyunca konserler, barbekü yarışları ve gerçek rodeo. Nisan-mayıs ılık ve yeşildir — bayou patikalarının en güzel mevsimi.",
+          "callout": {
+            "type": "tip",
+            "label": "Rodeo ipucu",
+            "text": "Rodeoya hafta içi git: önce hayvan barınakları ve barbekü, akşam rodeo + konser. Bilet ve otel rodeo haftalarında fiyatlanır — tarihini erken kontrol et."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Sauna Sezonu",
+          "months": "Haz – Eyl",
+          "subtitle": "Yaz · Nem + sıcak, klimalı iç dünyalar",
+          "description": "Houston yazı nemli bir saunadır: öğlen dışarısı zorlayıcı, içerisi buz gibidir. Müzeler, akvaryum ve Asiatown pasajları mevsimin doğal rotasıdır — akşam bayou yürüyüşü ödül olarak kalır.",
+          "callout": {
+            "type": "warning",
+            "label": "Nem notu",
+            "text": "Yaz öğleninde açık hava planını zorlamaya kalkma: iki blokluk yürüyüş bile terletir. Programı sabah 09.00 öncesi ve 19.00 sonrasına kur — arada müze soğuğu en iyi arkadaşındır. Ağustos-eylül kasırga takvimini de gözden geçir."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Nemin Vedası",
+          "months": "Eki – Kas",
+          "subtitle": "Sonbahar · Ilık kuru günler, açık hava mevsimi",
+          "description": "Ekimde nem kırılır ve Houston dışarı çıkar: bayou piknikleri, açık hava konserleri ve veranda sofraları. Kasım bu şehrin gizli zirve ayıdır — hava tatlı, kalabalık yok, sofralar tam kadro.",
+          "callout": {
+            "type": "tip",
+            "label": "Kasım ipucu",
+            "text": "Kasım öğleden sonrası Menil kampüsünde geç: koleksiyon ücretsiz, çimlerde pikniğe izin var, Rothko Şapeli iki adım. Houston'ın en zarif yarım günü bu kampüste saklıdır."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Yumuşak ve Açık",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · 18 derecelik günler, nadir soğuk dalgalar",
+          "description": "Houston kışı çoğunlukla ceketlik ve güneşlidir: açık hava programı yıl boyu sürer. Ara sıra ani soğuk dalgası gelir ve şehir şaşırır — ama çoğu kış günü, kuzeyin kaçıp geldiği tatlı bir iklimdir.",
+          "callout": {
+            "type": "tip",
+            "label": "Ocak ipucu",
+            "text": "Ilık bir kış sabahında Space Center gününü yap: kalabalık düşük, tramvay turu sakin, Görev Kontrol salonunda daha uzun kalınır. Dönüşte Asiatown'da sıcak pho — kışın Houston formülü budur."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Houston Amerika'nın sofra başkentidir: fajitanın doğum yeri, Viet-Cajun'un icat evi, körfez istiridyesinin limanı — menü burada pasaporttur.",
+      "local_word": {
+        "word": "Kolache",
+        "pronunciation": "kolaçi",
+        "definition": "Çek göçmenlerin Teksas'a getirdiği yumuşak hamurlu sabah çöreği: meyveli aslı tatlı, sosisli-jalapeñolu Teksas yorumu 'klobasnek' efsanedir. Houston sabahı kolache kutusuyla başlar — fırın kuyruğu gördüğünde sıraya gir, çeşit çeşit al."
+      },
+      "items": [
+        {
+          "icon": "🥩",
+          "name": "Fajita",
+          "description": "Cazırdayan tavada etek eti, tortilla ve guacamole: fajita bu şehirde doğdu ve tarifi hâlâ burada en iyidir. Duman tavadan yükselirken sarma sanatı sana kalır — soğan-biberli klasiğinden şaşma.",
+          "tag": "Houston doğumlu · cazır tava",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=fajitas+Houston"
+        },
+        {
+          "icon": "🦞",
+          "name": "Viet-Cajun kerevit",
+          "description": "Vietnam göçmenlerinin Cajun kerevit kaynatmasına sarımsak-tereyağ-limon otu katmasıyla doğan Houston icadı: eldiven tak, önlük bağla, masaya dökülen kerevitlere gir. Sezon ilkbahar zirvesindedir.",
+          "tag": "Houston icadı · eldivenle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Viet-Cajun+crawfish+Houston"
+        },
+        {
+          "icon": "🥐",
+          "name": "Kolache sabahı",
+          "description": "Sosisli-kaşarlı klobasnek ve meyveli kolache kutusu: yol kahvaltısının Teksas-Çek klasiği. Sabah fırınından düzine ile alınır — ofise, yola, otele; kutu açıldığında diplomasi biter.",
+          "tag": "Sabah kutusu · düzineyle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=kolache+Houston"
+        },
+        {
+          "icon": "🍖",
+          "name": "Houston barbeküsü",
+          "description": "Brisket ve ribs'in yanında bu şehrin farkı çeşitliliktir: boudin dolgulu, Tex-Mex dokunuşlu, fırın böreğine giren barbekü yorumları. Öğlen kuyruğu kuralı burada da geçerlidir.",
+          "tag": "Çeşitli yorum · öğlen kuyruğu",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=barbecue+Houston"
+        },
+        {
+          "icon": "🦪",
+          "name": "Körfez istiridyesi",
+          "description": "Galveston Körfezi'nin istiridyeleri buz üstünde ya da közde: mignonette yerine limon-tabasco yerli usuldür. İstiridye barlarının happy hour'ı Houston'ın en iyi ekonomik lüksüdür.",
+          "tag": "Körfezden · happy hour",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gulf+oysters+Houston"
+        },
+        {
+          "icon": "🍜",
+          "name": "Asiatown pasajları",
+          "description": "Bellaire bulvarı boyunca Amerika'nın en iyi Vietnam-Çin-Malezya sofraları: sabah pho, öğlen dim sum, akşam banh mi. Dev pasajlarda menüler cömert, fiyatlar dosttur — bir günü buraya ada.",
+          "tag": "Dünya bulvarı · bir gün ada",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Asiatown+Bellaire+Houston"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sofra kuralı",
+        "text": "Houston'da şöhretli vitrine gerek yok: strip mall'daki gösterişsiz lokanta çoğu kez şehrin en iyisidir. Kuyruk, dolu aile masaları ve tek mutfağa adanmış menü — bu üç işaret Houston'da asla yanıltmaz."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Space Center'ı herkes bilir; bu altısı Houston'ın sessiz, sanatlı ve sürprizli saklı yüzü.",
+      "items": [
+        {
+          "rarity": "Sessizliğin şapeli",
+          "name": "Rothko Chapel",
+          "description": "Mark Rothko'nun on dört devasa tuvaliyle çevrili sekizgen meditasyon şapeli: içeride ses yok, sadece ışık ve koyu mor. İnancı ne olursa olsun herkesi susturur — Houston'ın en derin yarım saati, ücretsiz.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rothko+Chapel+Houston"
+        },
+        {
+          "rarity": "Ücretsiz dünya koleksiyonu",
+          "name": "Menil Collection kampüsü",
+          "description": "Petrol servetiyle kurulmuş, tamamen ücretsiz müze kampüsü: sürrealistlerden Bizans ikonalarına, çim bahçeler arasında. Cy Twombly galerisi ve bungalov sokakları dahil — Amerika'nın en zarif sanat adası.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Menil+Collection+Houston"
+        },
+        {
+          "rarity": "Yer altı katedrali",
+          "name": "Buffalo Bayou Cistern",
+          "description": "1926'dan kalma yeraltı su deposu: 221 beton sütun, ayna gibi su ve katedral akustiği. Rehberli turla girilir, sanat enstalasyonları dönem dönem değişir — Houston'ın en beklenmedik mekanı.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Buffalo+Bayou+Park+Cistern"
+        },
+        {
+          "rarity": "Mozaik hayal bahçesi",
+          "name": "Smither Park",
+          "description": "Yüzlerce sanatçının atık malzeme ve mozaikle ördüğü halk sanatı parkı: her paneli başka el yapmış. Yanındaki Orange Show ile birlikte — Houston'ın 'tuhaf ve harika' geleneğinin anıtı.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Smither+Park+Houston"
+        },
+        {
+          "rarity": "Şehir içinde Vietnam",
+          "name": "Asiatown (Bellaire) turu",
+          "description": "Sekiz kilometrelik bulvar boyunca pasajlar, fırınlar, boba dükkanları ve dev marketler: Amerika'nın en canlı Asya koridorlarından. Cumartesi öğleni dim sum salonları ziyafete döner.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Asiatown+Bellaire+Houston"
+        },
+        {
+          "rarity": "Silüetin en iyi çimi",
+          "name": "Eleanor Tinsley Park",
+          "description": "Buffalo Bayou'nun yamacından Downtown silüetinin tam karşısı: piknikçiler, kanocular ve gün batımı fotoğrafçıları. 4 Temmuz havai fişeklerinin de ana sahnesi — şehrin kartpostalı bu çimden çekilir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Eleanor+Tinsley+Park+Houston"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sessiz-yoğun stratejisi",
+        "text": "Houston gününü kontrastla kur: sabah Rothko'nun sessizliği, öğlen Asiatown'ın uğultusu, akşam bayou'da yarasalar. Bu şehir tek tonda gezilmez — tonları değiştikçe açılır."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Houston mütevazı ve dürüsttür; tuzakları ölçek yanılgısından doğar — bu dördünü bil.",
+      "items": [
+        {
+          "icon": "🚀",
+          "name": "NASA'ya 'uğrayıveririz' planı",
+          "description": "Space Center merkezden 45 dakika uzaktadır ve tramvay turları saatlidir: öğleden sonra gelen, Görev Kontrol'ü göremeden döner.",
+          "instead": "Tam gün ayır, bileti ve tram turunu önceden al, sabah git. Apollo Görev Kontrol salonu restore haliyle gezinin zirvesidir — onsuz dönmek, Houston'ı yarım görmektir."
+        },
+        {
+          "icon": "🚶",
+          "name": "Yürünebilirlik varsayımı",
+          "description": "Harita 'yakın' der, gölgesiz feeder ve dev bloklar 'hayır' der: Houston'da noktalar arası yürüyüş çoğu kez mümkün değildir.",
+          "instead": "Mahalle adaları içinde yürü (Montrose, Heights, Museum District), aralarda araç kullan. Müze günü için METRORail arabadan iyidir — park derdi olmadan on dokuz müze."
+        },
+        {
+          "icon": "🍤",
+          "name": "Turistik 'Gulf seafood' vitrini",
+          "description": "Bazı akvaryum-restoran vitrinleri donmuş karidesi körfez fiyatına satar: manzara var, tazelik yok.",
+          "instead": "İstiridyeyi köklü oyster barlarda, kereviti sezonunda Viet-Cajun salonlarında ye. 'Günün istiridyesi hangi koydan?' sorusuna cevap alamadığın yerde oturma."
+        },
+        {
+          "icon": "🌀",
+          "name": "Kasırga sezonunu yok saymak",
+          "description": "Ağustos-eylülde tropik fırtına ihtimali gerçektir: plansız yakalanan turist, iptal ve kapanma sürprizi yaşar.",
+          "instead": "O aylarda seyahat sigortası yaptır, uçuş esnekliği seç ve hava takibini aç. Fırtına uzaktaysa panik yok — Houston altyapısı güçlüdür, yerliyi izle ve talimata uy."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Houston'da hayal kırıklığının tek kaynağı yanlış beklentidir: vitrin arayan yorulur, sofra ve sanat arayan bayram eder. Planı azalt, iştahı büyüt — H-Town karşılığını misliyle verir."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Sessiz şapelden yarasa bulutuna",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Kolache kahvaltısı",
+              "description": "Fırından karışık kutu: sosisli klobasnek ve meyveli kolache. Kahve büyük boy — Houston sabahı böyle açılır."
+            },
+            {
+              "time": "09:30",
+              "title": "Menil ve Rothko",
+              "description": "Ücretsiz koleksiyonda sabah turu, ardından Rothko Şapeli'nde yarım saat sessizlik: Houston'ın ruhani çekirdeği."
+            },
+            {
+              "time": "12:30",
+              "title": "Fajita öğleni",
+              "description": "Cazırdayan tavada etek eti, elde tortilla: fajitayı doğduğu şehirde ye."
+            },
+            {
+              "time": "14:30",
+              "title": "Museum District saatleri",
+              "description": "Doğa müzesinin dinozor salonu ya da güzel sanatlar: on dokuz seçenek, tek mahalle. Hermann Park'ta soluklan."
+            },
+            {
+              "time": "18:00",
+              "title": "Buffalo Bayou ve yarasalar",
+              "description": "Bayou patikasında yürüyüş, Waugh Köprüsü'nde alacakaranlık yarasa bulutu, Eleanor Tinsley'de silüet."
+            },
+            {
+              "time": "20:00",
+              "title": "Asiatown kapanışı",
+              "description": "Bellaire bulvarında pho ya da Viet-Cajun kerevit: eldivenli, önlüklü, dolu masalı bir Houston gecesi."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Uzay, sanat ve dünya sofrası — tam H-Town",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Houston",
+              "description": "Yukarıdaki 1 günlük akış: kolache, Menil-Rothko, fajita, müzeler, bayou, Asiatown."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Space Center günü",
+              "description": "Sabah erken yola çık: Görev Kontrol tram turu, Saturn V roketi ve mekik sergisi — tam gün. Dönüşte körfez istiridyeli akşam yemeği; enerji kaldıysa Downtown'da maç ya da konser."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Mahalleler ve tuhaf harikalar",
+              "description": "Sabah Heights'ta bungalov sokakları ve antikacılar; öğlen barbekü kuyruğu; ikindi Smither Park mozaikleri + Cistern rehberli turu; veda akşamı Montrose'ta şehrin en iyi restoran sokaklarında."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Houston İngilizcesi Teksas tatlılığına dünya aksanları karışmış halidir; bu beşi şehirle aranı ısıtır.",
+      "items": [
+        {
+          "word": "H-Town",
+          "pronunciation": "eyç-taun",
+          "meaning": "Houston'ın takma adı — kullandığında yerli gülümser"
+        },
+        {
+          "word": "Y'all",
+          "pronunciation": "yol",
+          "meaning": "Hepiniz — Teksas'ın resmi zamiri, burada da geçerli akçe"
+        },
+        {
+          "word": "Feeder",
+          "pronunciation": "fidır",
+          "meaning": "Otoyol yan yolu — 'feeder'dan dön' Houston'a özgü yol tarifi"
+        },
+        {
+          "word": "Howdy",
+          "pronunciation": "haudi",
+          "meaning": "Merhaba — Teksas selamı; baş sallamayla birlikte"
+        },
+        {
+          "word": "Slab",
+          "pronunciation": "sleb",
+          "meaning": "Houston'ın parlak jantlı, ağır bas müzikli klasik araba kültürü — birini görürsen selamla"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Houston Checklist",
+      "completion_message": "H-Town proud! Uzayın ve sofranın şehrini hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Görev Kontrol salonunu tramvay turuyla gör",
+          "sub": "Apollo dönemi restore hali — tam gün ayır"
+        },
+        {
+          "label": "Rothko Şapeli'nde yarım saat sus",
+          "sub": "On dört tuval, tek sessizlik"
+        },
+        {
+          "label": "Fajitayı doğduğu şehirde ye",
+          "sub": "Cazırdayan tava, elde tortilla"
+        },
+        {
+          "label": "Viet-Cajun kerevite eldivenle gir",
+          "sub": "Sarımsak-tereyağ-limon otu — Houston icadı"
+        },
+        {
+          "label": "Menil kampüsünü ücretsiz gez",
+          "sub": "Sürrealistlerden ikonalara, çim bahçede"
+        },
+        {
+          "label": "Waugh Köprüsü'nde yarasa bulutunu izle",
+          "sub": "Alacakaranlıkta, bayou üstünde"
+        },
+        {
+          "label": "Kolache kutusuyla sabah aç",
+          "sub": "Sosisli klobasnek dahil — düzineyle"
+        },
+        {
+          "label": "Asiatown'da pho ya da dim sum sofrası kur",
+          "sub": "Bellaire bulvarı — bir gün ada"
+        },
+        {
+          "label": "Eleanor Tinsley'den silüeti çek",
+          "sub": "Bayou çiminden Downtown karesi"
+        },
+        {
+          "label": "Cistern'in sütun ormanına in",
+          "sub": "Rehberli turla — katedral akustiği"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Sardinya",
+    "country": "İtalya",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#0F7E8A",
+    "color_light": "#E5F4F5",
+    "tagline": "Karayip mavisi deniz, granit dağlar ve kendi dilini konuşan bir ada"
+  },
+  "pills": [
+    "Araçsız Sardinya yarım kalır",
+    "Deniz Karayip, ruh çoban",
+    "Ajò! — hadi gidelim"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Sardinya'ya Hoş Geldin",
+      "intro": "Sardinya bir ada değil, küçük bir kıtadır: kıyıda Karayip mavisi koylar, içeride granit dağlar, nurag denen üç bin yıllık taş kuleler ve İtalyanca'dan ayrı bir dil. Costa Smeralda'nın yatları vitrindir; asıl Sardinya çoban köylerinde, ekmeğin çıtırtısında ve 'ajò' diyip yola çıkan insanların rahatlığındadır. Mesafeleri küçümseme, denizi aceleye getirme — bu ada yavaş gezenindir.",
+      "local_word": {
+        "word": "Ajò",
+        "pronunciation": "ayo",
+        "definition": "Sardca 'hadi, gidelim': adanın ruh hali tek kelimede. Denize mi, dağa mı, sofraya mı — fark etmez; ajò dersen Sardinyalı seni kendinden sayar."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Araç kirala — pazarlıksız",
+          "description": "Toplu taşıma kıyı kasabaları arasında zayıftır; koylar, nuraglar ve dağ köyleri ancak arabayla yaşanır. Yazın aracı aylar önce ayırt; otomatik vites erken tükenir."
+        },
+        {
+          "number": 2,
+          "title": "Adayı tek üsden gezmeye çalışma",
+          "description": "Cagliari-Alghero arası dört saattir. Kuzey, doğu ve güney için ayrı üsler kur ya da rotanı tek bölgeye adá; 'hepsini görme' hırsı tatili otobana çevirir."
+        },
+        {
+          "number": 3,
+          "title": "Kumu ve kabuğu yerinde bırak",
+          "description": "Plajdan kum, çakıl, kavkı götürmek yasak ve ciddi para cezasına tabidir; havalimanında valizler taranır. Hatıra istiyorsan fotoğraf ve mirto şişesi yeter."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Ulaşım",
+          "value": "Uçak veya feribot",
+          "sub": "Cagliari, Olbia, Alghero havalimanları"
+        },
+        {
+          "icon": "🚗",
+          "label": "Ada içi",
+          "value": "Kiralık araç şart",
+          "sub": "Mesafeler uzun, otobüs seyrek"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "İtalyanca + Sardca",
+          "sub": "Alghero'da Katalanca bile konuşulur"
+        },
+        {
+          "icon": "🏖️",
+          "label": "İmza",
+          "value": "Turkuaz koylar",
+          "sub": "Avrupa'nın en berrak suları"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Sardinya felsefesi",
+        "text": "Sardinyalı dünyanın en uzun yaşayan halklarındandır ve sırrı bellidir: az acele, çok sofra, sürekli deniz havası. Adada geçirdiğin her yavaş gün, bu reçeteden bir doz say."
+      }
+    },
+    "transport": {
+      "title": "Adada Ulaşım",
+      "intro": "Sardinya'da plan araçla başlar; gerisi koy seçmekten ibarettir.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Varış — üç havalimanı",
+          "description": "Cagliari güneyin, Olbia kuzeydoğunun (Costa Smeralda), Alghero kuzeybatının kapısıdır. Rotanı hangi bölgeye kurduysan oraya uç; ada içi transfer saatler alır."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Feribot — arabanla gel",
+          "description": "Civitavecchia, Livorno ve Genova'dan gece feribotları Olbia ve Cagliari'ye iner; kendi aracını getirmek yaz kiralarından ucuza gelebilir. Kamarayı erken ayırt."
+        },
+        {
+          "icon": "🚗",
+          "title": "Kiralık araç — adanın anahtarı",
+          "description": "Kıyı yolları manzaralı ama virajlı; dağ içi yollar dar. Depoyu köy aralarında doldur, koyu plaj park ücretlerine bozukluk ayır. Küçük araba dar plaj yollarında avantajdır."
+        },
+        {
+          "icon": "🚆",
+          "title": "Trenino Verde ve hatlar",
+          "description": "Ana tren hattı Cagliari-Sassari eksenindedir, yavaş ama manzaralıdır; tarihi 'Trenino Verde' dar hatları ise ulaşım değil, başlı başına gezidir."
+        },
+        {
+          "icon": "⛵",
+          "title": "Tekneyle koylara",
+          "description": "Cala Goloritzé, La Maddalena takımadası ve gizli koyların çoğuna en iyi erişim denizden: günlük tekne turları ve gommone (bot) kiralama yaygındır. Ehliyetsiz botların motor sınırını sor."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Plaj kota uyarısı",
+        "text": "Bazı ünlü plajlar (La Pelosa, Tuerredda, Goloritzé patikası) yazın günlük ziyaretçi kotası ve online rezervasyonla çalışır; gitmeden bir gün önce kontrol et, sabah erken git."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Sardinya'da 'nerede kalmalı' sorusu aslında 'hangi Sardinya' sorusudur: beş bölge, beş ayrı tatil.",
+      "local_word": {
+        "word": "Stazzu",
+        "pronunciation": "statsu",
+        "definition": "Gallura bölgesinin taş çiftlik evi: bugün çoğu agriturismo'ya dönüştü. Bir stazzu'da kalmak, denize on dakika mesafede çoban Sardinya'sında uyumaktır."
+      },
+      "items": [
+        {
+          "name": "Cagliari — güneyin başkenti",
+          "badge": "En şehirli",
+          "badge_type": "value",
+          "description": "Kale mahallesi Castello, uzun Poetto plajı ve gerçek şehir hayatı: uçuş bulmak kolay, restoranlar dolu, güney koyları (Chia, Villasimius) günübirlik mesafede. Ada turuna en mantıklı başlangıç.",
+          "tags": [
+            "Castello mahallesi",
+            "Poetto plajı",
+            "Güney koylarına üs"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cagliari"
+        },
+        {
+          "name": "Alghero — Katalan balkonu",
+          "badge": "En karakterli",
+          "badge_type": "vibe",
+          "description": "Surlarla çevrili eski şehri, Katalan geçmişi ve mercan işçiliğiyle kendine has bir kasaba: akşam surlarda günbatımı, sabah Neptün Mağarası'na tekne. Kuzeybatının en tatlı üssü.",
+          "tags": [
+            "Sur içi sokaklar",
+            "Katalan mirası",
+            "Neptün Mağarası"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Alghero"
+        },
+        {
+          "name": "Costa Smeralda / San Teodoro",
+          "badge": "En gösterişli",
+          "badge_type": "hot",
+          "description": "Zümrüt koyların ve yat limanlarının kıyısı: Porto Cervo vitrin, San Teodoro ve Palau daha ayakları yere basan alternatifler. La Maddalena tekne turları buradan kalkar.",
+          "tags": [
+            "Zümrüt koylar",
+            "La Maddalena",
+            "Yaz hareketi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Teodoro+Sardinia"
+        },
+        {
+          "name": "Ogliastra — Cala Gonone ve doğu",
+          "badge": "En vahşi",
+          "badge_type": "local",
+          "description": "Goloritzé, Mariolu, Luna gibi efsane koyların yakası: tekneler, patikalar ve dağın denize düştüğü yer. Doğa ve koy koleksiyoncusunun bölgesi; araç ve sağlam ayakkabı şart.",
+          "tags": [
+            "Efsane koylar",
+            "Trekking rotaları",
+            "Dağ-deniz"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Gonone"
+        },
+        {
+          "name": "Güney kıyısı — Chia/Pula",
+          "badge": "Aile dostu",
+          "badge_type": "value",
+          "description": "Uzun kumsallar, sığ turkuaz sular ve flamingolu lagünler: aileler ve sakin tatilciler için güneyin cömert kıyısı. Cagliari havalimanına yakınlık bonus.",
+          "tags": [
+            "Sığ kumsallar",
+            "Flamingolu lagün",
+            "Havalimanına yakın"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chia+Sardinia"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Sardinya'nın denizi eylülde bile sıcaktır; asıl soru kalabalık ve fiyat dengesidir.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Yeşil Ada",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Çiçekli maki, boş koylar",
+          "description": "Ada maki kokusuyla yeşerir, patikalar açılır, haziranda deniz ısınır. Kotalar başlamamış, fiyatlar insaflı — trekking ve koy keşfi için en iyi pencere.",
+          "callout": {
+            "type": "tip",
+            "label": "Haziran ipucu",
+            "text": "Haziran ortası Sardinya'nın gizli zirvesidir: temmuz denizi, mayıs sakinliği, tam güneş."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Zirve Deniz",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Sıcak koylar, dolu plajlar",
+          "description": "Deniz banyo, akşamlar festival, ünlü plajlar kotalı. Ağustosta İtalya'nın yarısı adadadır: her şeyi önceden ayırt, plajlara sabah 9'dan önce var.",
+          "callout": {
+            "type": "warning",
+            "label": "Ağustos uyarısı",
+            "text": "Ferragosto (15 Ağustos) haftasında feribotlar ve yollar taşar; o hafta rotayı tek bölgeye sabitle, uzun sürüşlerden kaçın."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Sıcak Deniz, Boş Koylar",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Eylül altın aydır",
+          "description": "Eylülde deniz ağustos sıcaklığında, plajlar yarı yarıya boştur; ekimde bağbozumu ve köy festivalleri (sagra) başlar. Adanın en akıllı sezonu.",
+          "callout": {
+            "type": "tip",
+            "label": "Eylül ipucu",
+            "text": "Eylül ortasında Goloritzé patikasında kota derdi biter; sabah yürüyüşü + öğlen koyda yüzme klasiği tadında yapılır."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Adanın İç Yüzü",
+          "months": "Ara – Mar",
+          "subtitle": "Kış · Çoban Sardinya'sı, karnaval",
+          "description": "Kıyı tesisleri kısmen kapanır ama iç bölge yaşar: Barbagia köylerinde 'Autunno/Cortes' etkinlikleri, ocak-şubatta Mamoiada'nın ürpertici Mamuthones karnavalı. Deniz yoksa da ada doludur.",
+          "callout": {
+            "type": "tip",
+            "label": "Karnaval ipucu",
+            "text": "Şubatta Mamoiada'daki Mamuthones geçidini görmek, Sardinya'nın üç bin yıllık yüzüne bakmaktır; turist değil tanık olursun."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Sardinya sofrası iki dünyadır: kıyıda deniz mahsulü, içeride çoban mutfağı — ikisinin de üstünde çıtır bir carasau yaprağı.",
+      "local_word": {
+        "word": "Porceddu",
+        "pronunciation": "porçeddu",
+        "definition": "Mersin dallarında saatlerce çevrilen süt domuzu: çoban mutfağının şöleni. Gerçeği agriturismo'da, önceden sipariş ile yenir — kabuğunun çıtırtısı adanın sesidir."
+      },
+      "items": [
+        {
+          "icon": "🥟",
+          "name": "Culurgiones",
+          "description": "Patates, pecorino ve nane dolgulu, başak gibi kapatılmış el yapımı mantı: Ogliastra'nın gururu. Tereyağı-adaçayı ya da domates sosuyla, her halinde şiir.",
+          "tag": "Ogliastra klasiği · el kapaması",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ogliastra+Sardinia"
+        },
+        {
+          "icon": "🍖",
+          "name": "Porceddu — agriturismo usulü",
+          "description": "Közde yavaş çevrilen süt domuzu, mersin kokusuyla: çoban sofrasının zirvesi. Agriturismo menüsünde antipasti ordusuyla birlikte gelir — aç git.",
+          "tag": "Agriturismo'da · önceden sipariş",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Oliena+Sardinia"
+        },
+        {
+          "icon": "🫓",
+          "name": "Pane carasau ve guttiau",
+          "description": "Kağıt inceliğinde çoban ekmeği: kuru halde aylarca dayanır. Zeytinyağı ve tuzla fırınlanınca guttiau olur — masaya gelen ilk çıtırtı.",
+          "tag": "Her sofrada · guttiau olarak",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercato+di+San+Benedetto+Cagliari"
+        },
+        {
+          "icon": "🐟",
+          "name": "Bottarga ve deniz tabağı",
+          "description": "Cabras lagününün kurutulmuş kefal yumurtası bottarga, spagetti üstünde altın tozu gibidir; kıyıda karides, ahtapot ve fregola ile deniz faslı uzar.",
+          "tag": "Cabras bottargası · fregola ile",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cabras+Sardinia"
+        },
+        {
+          "icon": "🧀",
+          "name": "Pecorino sardo ve bal",
+          "description": "Koyun peynirinin genci tatlı, olgunu keskindir; acı 'corbezzolo' balıyla eşleşmesi ada klasiğidir. Seadas'ın da ruhu bu ikilidir.",
+          "tag": "Peynir + bal · corbezzolo iste",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gavoi+Sardinia"
+        },
+        {
+          "icon": "🍷",
+          "name": "Cannonau, Vermentino ve mirto",
+          "description": "Kırmızıda Cannonau'nun gücü, beyazda Vermentino'nun tuzu; yemek sonu ise mersin likörü mirto ile mühürlenir. 'Uzun yaşam şarabı' efsanesini yerinde test et.",
+          "tag": "Kadeh sıralaması · mirto ile bitir",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jerzu+Sardinia"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Agriturismo kuralı",
+        "text": "Sardinya'da hayatında bir kez agriturismo akşamı yaşa: sabit fiyat, sayısız tabak, ev şarabı sürahiyle. Öğlen az ye, akşam pes etmeden önce culurgiones'i bekle."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Kartpostal koyların arkasında üç bin yıllık bir ada saklı; bu altısı denizle tarihi aynı güne sığdırır.",
+      "items": [
+        {
+          "rarity": "Bronz çağının başkenti",
+          "name": "Su Nuraxi — Barumini",
+          "description": "UNESCO listesindeki en büyük nurag kompleksi: MÖ 1500'den kalma taş kule ve köy dokusu. Rehberli turla kulenin içine girilir — adanın gizemli uygarlığına giriş dersi.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Su+Nuraxi+Barumini"
+        },
+        {
+          "rarity": "Katedral gibi koy",
+          "name": "Cala Goloritzé",
+          "description": "Denize inen granit kemeri ve iğne kayasıyla Ogliastra'nın mücevheri: sadece patikayla (kotalı) ya da tekneden yüzerek ulaşılır. Zahmetin ödülü, Akdeniz'in en saf koyu.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Goloritzé"
+        },
+        {
+          "rarity": "Nehir kenarında pastel kasaba",
+          "name": "Bosa",
+          "description": "Temo Nehri'nin kıyısına dizilmiş rengarenk evler, tepede Malaspina Kalesi: Alghero'nun gölgesinde kalmış, adanın en fotojenik kasabası. Malvasia şarabının da evi.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bosa"
+        },
+        {
+          "rarity": "Duvarları konuşan köy",
+          "name": "Orgosolo",
+          "description": "Barbagia'nın asi köyü, 150'den fazla politik-şiirsel duvar resmiyle açık hava galerisi: çoban Sardinya'sının sesi duvarlarda. Yanında bir çoban sofrası deneyimi klasiktir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Orgosolo+murals"
+        },
+        {
+          "rarity": "Denizden girilen saray",
+          "name": "Neptün Mağarası",
+          "description": "Alghero'nun Capo Caccia falezlerindeki dev sarkıt mağara: ya 654 basamaklı falez merdiveniyle (Escala del Cabirol) ya tekneyle. İkisi de gösterinin parçası.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta+di+Nettuno+Alghero"
+        },
+        {
+          "rarity": "Lagünün ortasında antik kent",
+          "name": "Tharros",
+          "description": "Sinis Yarımadası'nda deniz kenarına kurulmuş Fenike-Roma kenti: sütunların arkası masmavi. Yanındaki San Giovanni di Sinis kilisesi ve kefal barları ile tam bir yarım gün.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tharros"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Kombinasyon tüyosu",
+        "text": "Sardinya'nın formülü 'sabah taş, öğlen deniz'dir: nurag ya da antik kent gezisini sabaha koy, en yakın koyda öğleden sonra yüz — tarih ve tatil aynı güne sığar."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Sardinya dürüst bir adadır; tuzakların çoğu yanlış beklentiden doğar. Bu dördünü bil.",
+      "items": [
+        {
+          "icon": "🛥️",
+          "name": "Costa Smeralda'yı Sardinya sanmak",
+          "description": "Porto Cervo'nun yat vitrini adanın yüzde biridir; oradaki fiyatlarla adayı yargılamak da, adayı oraya hapsetmek de yanlıştır.",
+          "instead": "Vitrini bir kahvelik gez, sonra gerçek adaya dön: San Teodoro koyları, Gallura köyleri, iç bölge sofraları."
+        },
+        {
+          "icon": "🏖️",
+          "name": "Kotalı plaja plansız gitmek",
+          "description": "La Pelosa'ya öğlen varan, kota dolduğu için denizi parmaklık arkasından izler; yazın ünlü koylar rezervasyon ister.",
+          "instead": "Kotalı plajları bir gün önce online ayırt, sabah 8'de var; ya da aynı güzellikte komşu koyu seç — bu adada hep vardır."
+        },
+        {
+          "icon": "🦞",
+          "name": "Fiyatı sorulmamış 'catalana ıstakoz'",
+          "description": "Alghero'nun ünlü ıstakozu etto (100 gr) fiyatıyla satılır; sormadan sipariş edenin hesabı tatil bütçesini sarsar.",
+          "instead": "Tartıyı ve etto fiyatını baştan konuş; ya da aynı keyfi fregola ve karides tabağıyla insaflı fiyata yaşa."
+        },
+        {
+          "icon": "⏱️",
+          "name": "Haritadaki mesafeye güvenmek",
+          "description": "80 km'lik kıyı yolu iki saat sürebilir; 'akşam yemeğine yetişiriz' planları virajlarda erir.",
+          "instead": "Google'ın süresine yüzde otuz ekle, günde tek büyük rota yap; Sardinya'da az yol, çok koy her zaman doğru denklemdir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Sardinya'da denizin rengi paranla değil, sabah erken kalkmanla orantılıdır: en pahalı plaj kulübü bile, sabah 8'in boş koyundan güzel değildir."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Cagliari üssünden güney klasiği",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Castello sabahı",
+              "description": "Cagliari'nin kale mahallesinde surlardan körfeze bak; kahve Piazza Yenne civarında, pastane molası serbest."
+            },
+            {
+              "time": "10:00",
+              "title": "San Benedetto pazarı",
+              "description": "İtalya'nın en büyük kapalı pazarlarından birinde balık katına in: bottarga, peynir ve öğle için atıştırmalıklar."
+            },
+            {
+              "time": "11:30",
+              "title": "Güneye yol — Chia koyları",
+              "description": "Kıyı yoluyla Chia'ya sür: turkuaz sular, beyaz kumullar, flamingolu lagün. Su Giudeu'da denize gir."
+            },
+            {
+              "time": "14:00",
+              "title": "Plaj arkasında öğle",
+              "description": "Kum ayaklı bir chiringuito'da fregola ya da panino; sonra bir koy daha — Tuerredda cesaret ister, kotasını kontrol et."
+            },
+            {
+              "time": "17:30",
+              "title": "Nora antik kenti",
+              "description": "Dönüşte deniz kenarındaki Fenike-Roma kentine uğra: mozaikler, tiyatro ve batan güneş aynı karede."
+            },
+            {
+              "time": "20:30",
+              "title": "Cagliari akşamı",
+              "description": "Marina mahallesinde deniz mahsullü sofra, kapanış mirto ile. Ajò, yarın başka koy!"
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Adayı turist gibi değil, misafir gibi yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Güney klasiği",
+              "description": "Yukarıdaki 1 günlük akış: Castello, pazar, Chia, Nora."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Taş ve iç bölge",
+              "description": "Sabah Su Nuraxi (Barumini) turu, öğlen Barbagia yönüne sürüş, Orgosolo duvar resimleri; akşam agriturismo şöleni — porceddu ve Cannonau ile."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Doğunun koyları",
+              "description": "Erken kalk, Cala Gonone'den tekneyle Goloritzé-Mariolu hattı: yüz, dinlen, tekrar yüz. Dönüşte Santa Maria Navarrese'de günbatımı aperitivosu; veda pecorino + bal ile."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "İtalyanca yeter ama bir kelime Sardca kapıları ardına kadar açar.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "buoncorno",
+          "meaning": "Günaydın / iyi günler — köy barına girerken şart"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "gratsiye",
+          "meaning": "Teşekkürler — kısa, net, her zaman"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "per favore",
+          "meaning": "Lütfen — siparişin sonuna ekle"
+        },
+        {
+          "word": "Salute!",
+          "pronunciation": "salute",
+          "meaning": "Şerefe! — Cannonau kadehleri bununla kalkar"
+        },
+        {
+          "word": "Ajò!",
+          "pronunciation": "ayo",
+          "meaning": "Sardca 'hadi gidelim!' — söylediğin an adalı sayılırsın"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Sardinya Checklist",
+      "completion_message": "Ajò! Sardinya'yı hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Turkuaz bir koyda sabah 8'de denize gir",
+          "sub": "Koy senin, renkler en saf halinde"
+        },
+        {
+          "label": "Su Nuraxi'de nurag kulesine gir",
+          "sub": "Barumini — üç bin yıllık taş uygarlık"
+        },
+        {
+          "label": "Agriturismo'da porceddu şölenine otur",
+          "sub": "Sabit fiyat, sonsuz tabak, ev şarabı"
+        },
+        {
+          "label": "Culurgiones'in başak kapamasını gör",
+          "sub": "Ogliastra mantısı — el yapımından şaşma"
+        },
+        {
+          "label": "Tekneyle Goloritzé'ye yüz",
+          "sub": "Granit kemer ve iğne kaya — Akdeniz'in en safı"
+        },
+        {
+          "label": "Orgosolo duvarlarını oku",
+          "sub": "150+ mural — çoban Sardinya'sının sesi"
+        },
+        {
+          "label": "Neptün Mağarası'na falez merdiveninden in",
+          "sub": "654 basamak — manzara bedeli"
+        },
+        {
+          "label": "Bosa'nın pastel sokaklarında yürü",
+          "sub": "Temo kıyısı + Malvasia kadehi"
+        },
+        {
+          "label": "Bottarga'lı spagetti ye",
+          "sub": "Cabras'ın altın tozu — fregola da olur"
+        },
+        {
+          "label": "Kapanışı mirto ile yap",
+          "sub": "Mersin likörü — ve bir şişe valize"
+        }
+      ]
+    }
+  }
+}

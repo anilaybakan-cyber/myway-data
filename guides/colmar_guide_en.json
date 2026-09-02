@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Colmar",
+    "country": "France",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#9C4A3C",
+    "color_light": "#F7EAE6",
+    "tagline": "When the fairytale set turns out real: half-timber, canals and Riesling"
+  },
+  "pills": [
+    "The canals of Little Venice",
+    "Capital of the Alsace Wine Route",
+    "Walkable in half a day, savoured in three"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Colmar",
+      "intro": "Your first steps in Colmar feel like walking onto a film set: candy-coloured half-timbered houses, flower-draped canals, street names left over from the Middle Ages. Then the smell of a bakery hits you, glasses clink in a winstub, and you understand — this is no set, it's a living Alsatian town. French elegance and German order share a table here; on the table, there is Riesling.",
+      "local_word": {
+        "word": "Winstub",
+        "pronunciation": "VIN-shtub",
+        "definition": "Alsace's wine tavern: wood panelling, checked tablecloths, choucroute steam and local wine by the jug. Warmer than a restaurant, heartier than a bar; a winstub table is the shortest route to understanding Colmar."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Be on the streets before 9 am",
+          "description": "Colmar is small and its fame is big: by day, coach tours fill Little Venice. The town's fairytale self lives in the early morning and early evening — that's when both the photos and the peace are taken."
+        },
+        {
+          "number": 2,
+          "title": "Don't leave the Wine Route unplanned",
+          "description": "Colmar sits at the very centre of the Alsace Wine Route; Eguisheim and Riquewihr are half an hour away. Car, tour or bicycle — decide how on day one, not on your last day."
+        },
+        {
+          "number": 3,
+          "title": "Mind the Monday–Tuesday closures",
+          "description": "Museums and many restaurants close on Monday or Tuesday; check the day so you don't leave without seeing the Unterlinden."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚄",
+          "label": "Getting there",
+          "value": "TGV from Paris ≈2.5 h",
+          "sub": "Strasbourg 30 min · Basel 45 min"
+        },
+        {
+          "icon": "🚶",
+          "label": "In town",
+          "value": "Fully walkable",
+          "sub": "Centre closed to traffic"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Language",
+          "value": "French",
+          "sub": "German widespread, Alsatian still alive"
+        },
+        {
+          "icon": "🍷",
+          "label": "Signature",
+          "value": "Alsace Riesling",
+          "sub": "Capital of the Wine Route"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The Colmar philosophy",
+        "text": "In this town the list of sights is short and the list of corners to sit in is long. When you find a bench by the canal, pocket the list; Colmar comes to you anyway."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "Colmar's mode of transport is called shoes; the rest is for leaving town.",
+      "items": [
+        {
+          "icon": "🚄",
+          "title": "Arriving by train",
+          "description": "About 2.5 hours from Paris by TGV, 30 minutes from Strasbourg, 45 from Basel. The station is a 10-minute walk from the centre; no taxi needed."
+        },
+        {
+          "icon": "🚶",
+          "title": "Everywhere on foot",
+          "description": "The historic centre is 20 minutes end to end: Little Venice, the Unterlinden, the old market streets all within strolling range. Cobble-proof shoes are the only requirement."
+        },
+        {
+          "icon": "🚲",
+          "title": "The Wine Route by bicycle",
+          "description": "Colmar sits on a plain; the wine villages are 30–60 minutes by bike. Rental shops in the centre, routes signposted — in spring and autumn this is the loveliest way to travel."
+        },
+        {
+          "icon": "🚌",
+          "title": "Buses and tours to the villages",
+          "description": "Regional buses reach Eguisheim, Riquewihr and Kaysersberg but run sparsely; wine-tour minibuses with tastings included are a practical alternative."
+        },
+        {
+          "icon": "🚗",
+          "title": "Rental car — the free route",
+          "description": "To ride the Wine Route at your own tempo, rent by the station; parking inside the villages is tight, use the main lots. The taster doesn't drive — tastings are serious in Alsace."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Little train note",
+        "text": "The tourist 'petit train' in the centre is sweet, but Colmar is a town made for walking; spend the money on a glass of Grand Cru instead."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "In Colmar the distances are small and the differences in atmosphere are big; canal view or vineyard view — your call.",
+      "local_word": {
+        "word": "Gîte",
+        "pronunciation": "zheet",
+        "definition": "The French holiday house-guesthouse: in Alsace usually a historic half-timbered building with a flowered courtyard. Friendlier than a hotel, comfortable as home — the classic way to stay in the villages."
+      },
+      "items": [
+        {
+          "name": "Little Venice (Petite Venise)",
+          "badge": "Most romantic",
+          "badge_type": "vibe",
+          "description": "Waking in a canal-side house puts you in Colmar's very heart: geraniums at the window, empty morning lanes. Prices high, rooms few — book early.",
+          "tags": [
+            "Canal views",
+            "Morning quiet",
+            "Photographer's dream"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Petite+Venise+Colmar"
+        },
+        {
+          "name": "Old Town — around the cathedral",
+          "badge": "Most practical",
+          "badge_type": "value",
+          "description": "Around Saint-Martin and the market streets: restaurants, patisseries and museums at your doorstep. Daytime tourist density rises, but the location is beyond argument.",
+          "tags": [
+            "Walk everywhere",
+            "Restaurant riches",
+            "Historic fabric"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Colmar+Cathedral"
+        },
+        {
+          "name": "Around the station",
+          "badge": "Budget friendly",
+          "badge_type": "value",
+          "description": "A calm quarter 10 minutes' walk from the centre: chain hotels and fair prices. A sensible base for Wine Route drivers and train connections.",
+          "tags": [
+            "Good value",
+            "Next to the train",
+            "Quiet nights"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gare+de+Colmar"
+        },
+        {
+          "name": "Eguisheim — sleeping in a wine village",
+          "badge": "Most Alsatian",
+          "badge_type": "local",
+          "description": "The circular medieval village 10 minutes away: when the tourists leave at dusk the village is yours, and you wake to walks in the vines. A sweet alternative to Colmar for those with a car.",
+          "tags": [
+            "Vineyard views",
+            "Silent nights",
+            "Winstub next door"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Eguisheim"
+        },
+        {
+          "name": "Towards Riquewihr — Wine Route bases",
+          "badge": "Wine route",
+          "badge_type": "local",
+          "description": "The gîtes around Riquewihr and Kaysersberg suit a tasting-heavy program: the producers become your neighbours. Colmar is 20–30 minutes away; in the evening your own village's fairytale suffices.",
+          "tags": [
+            "Producer neighbours",
+            "Fairytale villages",
+            "Car needed"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Riquewihr"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "When to Go",
+      "intro": "Colmar has two peaks: flowers in summer, lights in winter. The seasons between are the connoisseur's secret.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "The Awakening",
+          "months": "Apr – Jun",
+          "subtitle": "Spring · Flowering canals, calm streets",
+          "description": "Geraniums go up in the windows, the first green shows in the vines, the crowds haven't reached summer scale. The airiest window for cycling the Wine Route.",
+          "callout": {
+            "type": "tip",
+            "label": "May tip",
+            "text": "In May the wine villages switch to festival mode; if a weekend fête coincides with your trip, change your plans and choose the fête."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "Flower Peak",
+          "months": "Jul – Aug",
+          "subtitle": "Summer · Painted façades, full terraces",
+          "description": "The town drowns in flowers, canal boats and terraces run at capacity. The price of the beauty is the crowd: at midday you walk shoulder to shoulder in Little Venice.",
+          "callout": {
+            "type": "warning",
+            "label": "Midday warning",
+            "text": "Coach tours fill the town from 10:00 to 16:00; save those hours for museums or the villages, and live the streets at morning and dusk."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "The Harvest",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · Vendanges, golden vines, new wine",
+          "description": "The vineyards turn gold, harvest festivals begin in the villages, the air smells of grapes. Colmar's most photogenic and most delicious season — those in the know always choose it.",
+          "callout": {
+            "type": "tip",
+            "label": "October tip",
+            "text": "In early October, during the vendanges, producers open their doors; new wine with warm onion tart is not to be missed."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "The Christmas Tale",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Christmas markets, lights, mulled wine",
+          "description": "In December Colmar becomes one of Europe's loveliest Christmas markets: five separate squares, light shows, vin chaud steam. January and February are the town at its calmest and most local.",
+          "callout": {
+            "type": "warning",
+            "label": "December note",
+            "text": "Christmas market season pushes hotel prices past the summer peak; a December plan needs booking two or three months ahead."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "Alsatian cooking is the marriage of French technique and German appetite; Colmar is that marriage's kitchen.",
+      "local_word": {
+        "word": "Choucroute",
+        "pronunciation": "shoo-KROOT",
+        "definition": "The Alsace classic of fermented cabbage crowned with sausages and cuts of meat: it looks heavy and lightens with Riesling. Eat it properly once, in a winstub — after that it's a memory."
+      },
+      "items": [
+        {
+          "icon": "🥧",
+          "name": "Tarte flambée (flammekueche)",
+          "description": "Cream, onion and bacon on paper-thin dough: Alsace's 'pizza' comes out of the wood oven in seconds and is shared by hand. Beer works, so does Riesling.",
+          "tag": "Winstub classic · must be shared",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wistub+Brenner+Colmar"
+        },
+        {
+          "icon": "🥨",
+          "name": "Bretzel and kugelhopf",
+          "description": "The icons of the bakery window: the glossy salted bretzel and the sweet almond-apricot kugelhopf. One of them beside your morning coffee — both if undecided.",
+          "tag": "From the bakery · fresh in the morning",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+Alsacienne+de+Biscuiterie+Colmar"
+        },
+        {
+          "icon": "🍖",
+          "name": "Choucroute garnie",
+          "description": "Fermented cabbage, three kinds of sausage, smoked meats: the monument of the Alsatian table. Portions are serious; sharing is not shameful, it is wise.",
+          "tag": "At a winstub · with Riesling",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wistub+de+la+Petite+Venise+Colmar"
+        },
+        {
+          "icon": "🧀",
+          "name": "Munster cheese",
+          "description": "The washed-rind cheese from the valley: its smell demands courage, its taste repays it. Served with cumin; a legendary match with Gewurztraminer.",
+          "tag": "For the brave · try it with cumin",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fromagerie+Saint+Nicolas+Colmar"
+        },
+        {
+          "icon": "🍷",
+          "name": "Alsace whites — Riesling to Gewurz",
+          "description": "Riesling, Pinot Gris, Gewurztraminer, Crémant: in the capital of the Wine Route, the glasses are in town and the cellars in the villages. Leaving without a tasting does Colmar an injustice.",
+          "tag": "Cellar tastings · ask for Grand Cru",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Martin+Jund+Colmar"
+        },
+        {
+          "icon": "🍰",
+          "name": "Tarte aux quetsches — plum tart",
+          "description": "The Alsatian tart of purple damsons in season: light on sugar, heavy on fruit, pure patisserie classic. If you've come in late summer, smile at your luck.",
+          "tag": "At the patisseries · seasonal",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pâtisserie+Gilg+Colmar"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The winstub rule",
+        "text": "The marks of a good winstub: a short menu, a French-German mix of language, wine arriving by the jug. Ask for 'Edelzwicker' — an honest Alsatian blend at a friendly price."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Gems",
+      "intro": "Colmar's shop window belongs to everyone; these six corners belong to early risers and corner-turners.",
+      "items": [
+        {
+          "rarity": "A quiet giant of world art",
+          "name": "Unterlinden Museum — the Isenheim Altarpiece",
+          "description": "At the heart of the museum, set in an old convent, stands Grünewald's Isenheim Altarpiece: the most shattering work of the Northern Renaissance. None of the Louvre's crowds, several times the impact.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Musée+Unterlinden+Colmar"
+        },
+        {
+          "rarity": "The sculptor's house",
+          "name": "Bartholdi Museum",
+          "description": "Auguste Bartholdi, creator of the Statue of Liberty, was a Colmar man; his birth house is now a museum. A courtyard full of models of New York's icon — the town's sweetest surprise.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Musée+Bartholdi+Colmar"
+        },
+        {
+          "rarity": "Keep your head up",
+          "name": "Maison des Têtes",
+          "description": "A mansion from 1609 whose façade is covered with 106 grotesque heads: most visitors pass without looking. Count them slowly from across the street — every one is different.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+des+Têtes+Colmar"
+        },
+        {
+          "rarity": "The covered market's delicious side",
+          "name": "Marché Couvert",
+          "description": "The brick market hall of 1865: cheesemongers, charcutiers, tart stalls. Its rear terrace over the canal is lunch's best-kept address.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Couvert+Colmar"
+        },
+        {
+          "rarity": "Three castles on one hill",
+          "name": "Above Eguisheim — the Three Towers",
+          "description": "Just outside Colmar, three ruined medieval keeps on a hill above the vines: a short walk, an endless vineyard view, and solitude at sunset.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trois+Châteaux+Eguisheim"
+        },
+        {
+          "rarity": "The hidden language of façades",
+          "name": "The rooftops of the Tanners' Quarter",
+          "description": "The steep-roofed houses of the tanners' district were built with drying lofts; for those who know the façade colours once coded the old guilds, the town reads like an open book.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quartier+des+Tanneurs+Colmar"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Morning bonus",
+        "text": "Little Venice's classic photo spot, the Saint-Pierre bridge, is empty at 8 am — and the light rises exactly there."
+      }
+    },
+    "traps": {
+      "title": "Skip the Traps",
+      "intro": "Colmar is a harmless town; its traps cost time rather than fortunes. Know these four and live the fairytale efficiently.",
+      "items": [
+        {
+          "icon": "🚣",
+          "name": "The midday queue for the canal boats",
+          "description": "Waiting 45 minutes at noon for a very short boat ride is the worst way to spend time in Colmar.",
+          "instead": "Take the first morning boat or skip it entirely: the same canal is lovelier on foot, and free."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Photo menus on the Little Venice quay",
+          "description": "Some canal-view terraces sell frozen flammekueche at tourist prices; it's the one thing that shadows Alsatian cooking's good name.",
+          "instead": "Walk two streets in: in the locals' winstubs the same dish arrives at half the price with twice the flavour."
+        },
+        {
+          "icon": "🧸",
+          "name": "Souvenir 'Alsace dolls' and stork piles",
+          "description": "Mass-produced storks and imported ornaments labelled 'handmade' fill every corner of the old town; space in the suitcase, a hole in the budget.",
+          "instead": "For a real keepsake choose wine from a producer, local pottery (Soufflenheim), or a jar of honey from the market."
+        },
+        {
+          "icon": "🚌",
+          "name": "Cramming the Wine Route into one day",
+          "description": "The five-villages-in-a-day 'completion' tour means seeing them all through a bus window; Alsace villages are beautiful in the lingering, not the rushing.",
+          "instead": "Pick two villages (Eguisheim + Riquewihr is the classic) and give each half a day; never hurry a tasting."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The golden rule",
+        "text": "In Colmar the crowd flows one way; walk two streets against it. Ninety percent of the town waits quietly just behind the ten percent in the shop window."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Routes",
+      "intro": "If you hate planning, follow these flows. The times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "Canal, altarpiece and a wine village",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "Little Venice — empty",
+              "description": "Start from the Saint-Pierre bridge and walk the canal: before the tourists, the town belongs to you and the bakers."
+            },
+            {
+              "time": "09:30",
+              "title": "Bakery breakfast + old town",
+              "description": "Coffee with a bretzel or kugelhopf; then a heads-up walk past the façades of the Maison des Têtes and the Pfister House."
+            },
+            {
+              "time": "11:00",
+              "title": "Unterlinden Museum",
+              "description": "Give the Isenheim Altarpiece two hours; breathe in the convent courtyard. This is Colmar's one world-class 'must'."
+            },
+            {
+              "time": "13:30",
+              "title": "Lunch at the Marché Couvert",
+              "description": "A cheese-and-charcuterie plate or a tart from the market hall; eat on the rear terrace over the canal."
+            },
+            {
+              "time": "15:30",
+              "title": "Eguisheim escape",
+              "description": "A 10-minute hop to the circular village: walk its concentric lanes, taste a Riesling at a producer, climb to the Three Towers."
+            },
+            {
+              "time": "19:30",
+              "title": "Winstub evening",
+              "description": "Back in Colmar: choucroute or flammekueche under wood panelling, Edelzwicker by the jug. Santé!"
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Live the town as a guest, not a tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Colmar itself",
+              "description": "The 1-day flow above: canals at dawn, the Unterlinden, the market hall, a winstub at night."
+            },
+            {
+              "time": "Day 2",
+              "title": "The northern Wine Route",
+              "description": "Riquewihr's walled lanes, lunch in Ribeauvillé, the climb to the Schlossberg above Kaysersberg; two producer tastings, then a village gîte or the drive back to Colmar."
+            },
+            {
+              "time": "Day 3",
+              "title": "A slow goodbye",
+              "description": "The Bartholdi Museum and the Tanners' Quarter in the morning, a tarte aux quetsches break at noon, an afternoon cycling the vineyard plain — then to the train or the road, bottles of Riesling aboard."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "The 5-Word Survival Kit",
+      "intro": "French courtesy is the key here too; a pinch of Alsatian on top guarantees smiles.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Hello — the mandatory first word of every exchange"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Thank you — stronger with beaucoup"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "Please — add it to the end of your order"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "Cheers! — Riesling glasses rise to this"
+        },
+        {
+          "word": "Hopla!",
+          "pronunciation": "HOP-lah",
+          "meaning": "The all-purpose Alsatian exclamation: 'come on, okay, there we go' — hear it and you're in Alsace"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Colmar Checklist",
+      "completion_message": "Hopla! You've done Colmar properly!",
+      "items": [
+        {
+          "label": "Walk Little Venice before 9 am",
+          "sub": "Start at the Saint-Pierre bridge, savour the empty lanes"
+        },
+        {
+          "label": "Stand before the Isenheim Altarpiece",
+          "sub": "Unterlinden Museum — the Northern Renaissance's masterpiece"
+        },
+        {
+          "label": "Eat choucroute in a winstub",
+          "sub": "With Riesling; sharing allowed"
+        },
+        {
+          "label": "Share a tarte flambée by hand",
+          "sub": "From the wood oven, edges charred"
+        },
+        {
+          "label": "Count the heads of the Maison des Têtes",
+          "sub": "106 of them — look from across the street"
+        },
+        {
+          "label": "Circle the lanes of Eguisheim",
+          "sub": "The fairytale village 10 minutes away"
+        },
+        {
+          "label": "Do a tasting at a producer",
+          "sub": "From Riesling to Gewurztraminer — ask for Grand Cru"
+        },
+        {
+          "label": "Sit on the Marché Couvert's rear terrace",
+          "sub": "Build a plate in the market hall, eat over the canal"
+        },
+        {
+          "label": "Drop by Bartholdi's house",
+          "sub": "You're in the birthplace of the Statue of Liberty"
+        },
+        {
+          "label": "Leave with a kugelhopf mould",
+          "sub": "Or at least a kugelhopf — fresh from the bakery"
+        }
+      ]
+    }
+  }
+}

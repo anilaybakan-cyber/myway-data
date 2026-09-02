@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#C0523A",
+    "color_light": "#F9EEE6",
+    "tagline": "La plaza, los jardines y el teatro sin fin de la ciudad roja."
+  },
+  "pills": [
+    "La Ciudad Roja — Al-Hamra",
+    "Jemaa el-Fnaa: la plaza más animada del mundo",
+    "Las Montañas del Atlas a media hora"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Marrakech",
+      "intro": "Marrakech es menos una ciudad que un escenario: dentro de sus muros rojos, encantadores de serpientes y cuentacuentos se congregan en la plaza, el aroma a cobre y cuero asciende por las estrechas venas del zoco, y la serenidad de los azulejos se esconde tras las puertas de los riads. Los picos nevados del Atlas brillan tras las palmeras; rara vez cabe tanto contraste en un solo encuadre. Marrakech es agotadora, hipnotizante y completamente descarada: únete a su ritmo, pero guarda en tu bolsillo las direcciones de las puertas de la calma.",
+      "local_word": {
+        "word": "Derb",
+        "pronunciation": "derb",
+        "definition": "El callejón sin salida de la medina: las direcciones reales de los riads siempre están dentro de un derb. 'Al final del derb, la puerta verde' es tan válida como una escritura en esta ciudad; perderse es parte del sistema de direcciones."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Visita la plaza dos veces",
+          "description": "Jemaa el-Fnaa es una cosa de día y otra completamente distinta de noche: carritos de zumo de naranja y vendedores de agua por la tarde, y luego humo, tambores y una cocina al aire libre de cien puestos al anochecer. Si te pierdes cualquiera de las dos, no habrás visto la plaza."
+        },
+        {
+          "number": 2,
+          "title": "Las fotos tienen precio: sé consciente y elige",
+          "description": "Los encantadores de serpientes, los cuidadores de monos y las mujeres de henna de la plaza cobran por foto, a menudo de forma agresiva. Si no quieres, no apuntes con la cámara, evita el contacto visual, sigue caminando; si sí quieres, acuerda el precio primero."
+        },
+        {
+          "number": 3,
+          "title": "Programa tus dosis de calma",
+          "description": "La intensidad de Marrakech puede saturarte: incluye un jardín, un patio de riad o un hammam en cada día. El secreto de la ciudad es el ritmo: el caos y la serenidad están ambos en el menú."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "Menara (RAK)",
+          "sub": "~20 min a la medina en taxi"
+        },
+        {
+          "icon": "🚶",
+          "label": "En la medina",
+          "value": "A pie + petit taxi",
+          "sub": "Los callejones del zoco son peatonales"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "Árabe (Darija) + Francés",
+          "sub": "Inglés común en la ruta turística"
+        },
+        {
+          "icon": "🏔️",
+          "label": "Sello distintivo",
+          "value": "Jemaa el-Fnaa + el Atlas",
+          "sub": "La plaza es Patrimonio Oral de la UNESCO"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofía de Marrakech",
+        "text": "Aprender a decir 'no' en Marrakech duplica el placer de decir 'sí': sigue caminando con un 'la shukran', pero una vez al día cruza una puerta inesperada; los mejores recuerdos de la ciudad viven detrás de esas puertas."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "La medina a pie, el resto en pequeños taxis beige: las distancias son cortas — ten tus reflejos de regateo a punto.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Del aeropuerto al centro",
+          "description": "Menara está a 20 minutos de la ciudad: fija el precio del taxi antes de subir o reserva un traslado con tu riad. El autobús 19 es la opción económica — para en la plaza y en Gueliz."
+        },
+        {
+          "icon": "🚶",
+          "title": "La medina a pie",
+          "description": "La plaza, los zocos y los palacios están a poca distancia; perderse por los derbs es parte del programa. Las motos se cuelan incluso por los callejones más estrechos — camina por el lado, atento a lo que viene por detrás."
+        },
+        {
+          "icon": "🚕",
+          "title": "Petit taxi — los pequeños de color beige",
+          "description": "El vehículo para trayectos cortos por la ciudad: pide el taxímetro, y si no lo pone, acuerda el precio primero. La tarifa nocturna es más alta que la diurna — eso es normal; no normalices lo desorbitado."
+        },
+        {
+          "icon": "🐎",
+          "title": "La calesa — un paseo en carruaje",
+          "description": "Un paseo en calesa por las murallas es un placer clásico: fija la ruta y el precio antes de subir, y elige un carruaje con caballos bien cuidados. Al atardecer, el recorrido tiñe las paredes rojas de un naranja ámbar."
+        },
+        {
+          "icon": "🚐",
+          "title": "Escapadas al Atlas y al desierto",
+          "description": "El Valle de Ourika y los pueblos del Atlas están a una hora, el desierto de Agafay a 45 minutos: planifica un día con un tour en grupo pequeño o un conductor privado. Salir de la ciudad duplica la experiencia de Marrakech."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo para el taxi",
+        "text": "En cualquier taxi en una puerta de la medina, dos frases bastan: 'compteur, afak' (el taxímetro, por favor) y una sonrisa. Si no lo pone, bájate — uno que sí lo ponga estará a dos pasos. Pregunta en tu riad las tarifas justas para trayectos cortos con antelación."
+      }
+    },
+    "stay": {
+      "title": "Dónde Alojarse",
+      "intro": "En Marrakech, ¿eliges entre dos mundos: la serenidad de un riad en la medina o la amplitud con piscina de la ciudad nueva?",
+      "local_word": {
+        "word": "Riad",
+        "pronunciation": "ree-ad",
+        "definition": "La casa tradicional con patio interior: en Marrakech, cientos se han convertido en hoteles boutique. Cuanto más sencilla es la puerta, más espléndido suele ser el interior; en esta ciudad, la riqueza mira hacia el patio, no hacia la calle."
+      },
+      "items": [
+        {
+          "name": "Medina — alrededor de la plaza",
+          "badge": "Con más ambiente",
+          "badge_type": "vibe",
+          "description": "Riads a poca distancia de la plaza Jemaa el-Fnaa y los zocos: el pulso de la ciudad a tus pies. El bullicio de la plaza puede llegar hasta ti por la noche, el precio del ambiente, con una vista del minarete desde la terraza como recompensa.",
+          "tags": [
+            "Cerca de la plaza",
+            "Terrazas de riads",
+            "El pulso de la ciudad a tus pies"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jemaa+el-Fnaa+Marrakech"
+        },
+        {
+          "name": "Medina — Kasbah y Mellah",
+          "badge": "El más histórico",
+          "badge_type": "local",
+          "description": "El distrito de las tumbas saadíes, las ruinas del palacio y la plaza de las especias: un punto más tranquilo que el bullicio de la plaza, denso en historia. Los nidos de cigüeñas en las murallas son la seña de identidad del barrio.",
+          "tags": [
+            "Tumbas saadíes",
+            "Plaza de las especias",
+            "Cigüeñas en las murallas"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kasbah+Marrakech"
+        },
+        {
+          "name": "Gueliz — la Ciudad Nueva",
+          "badge": "El más moderno",
+          "badge_type": "value",
+          "description": "Bulevares de la época francesa, cafés, galerías y tiendas: la base espaciosa para quienes desean distanciarse de la intensidad de la medina. A poca distancia de Majorelle, un corto trayecto en taxi hasta la medina.",
+          "tags": [
+            "Cafés de bulevar",
+            "Cerca de Majorelle",
+            "Confort moderno"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gueliz+Marrakech"
+        },
+        {
+          "name": "Hivernage",
+          "badge": "El más cómodo",
+          "badge_type": "hot",
+          "description": "El distrito de grandes hoteles con piscina y discotecas: avenidas bordeadas de palmeras, spas y noches tranquilas. Para viajeros que priorizan el confort, a cinco minutos de la medina en taxi.",
+          "tags": [
+            "Hoteles con piscina",
+            "Cultura de spa",
+            "Noches tranquilas"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hivernage+Marrakech"
+        },
+        {
+          "name": "La Palmeraie y hoteles rurales",
+          "badge": "El refugio perfecto",
+          "badge_type": "value",
+          "description": "Villas con piscina entre los palmerales y campamentos en el desierto hacia Agafay: ciudad de día, silencio estrellado de noche. Funciona con coche o servicio de transporte; un clásico para lunas de miel.",
+          "tags": [
+            "Palmeral",
+            "Noches estrelladas",
+            "Junto a la piscina"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palmeraie+Marrakech"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Cuándo Ir",
+      "intro": "El calendario de la ciudad roja lo escribe el sol: oro en primavera y otoño, un horno en verano, y una sorpresa soleada y fresca en invierno.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Temporada de Azahar",
+          "months": "Mar – May",
+          "subtitle": "Primavera · Días suaves, jardines perfumados",
+          "description": "Los jardines huelen a azahar, la nieve aún brilla en las cumbres del Atlas y las terrazas son perfectas. La época más querida de Marrakech, con multitudes y precios acordes.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de abril",
+            "text": "Una mañana de abril, entra en Majorelle a primera hora y combínalo con el museo Yves Saint Laurent: el jardín cobalto antes de las multitudes es un lugar completamente diferente. Compra la entrada online con antelación."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Los Meses del Horno",
+          "months": "Jun – Aug",
+          "subtitle": "Verano · Mediodías por encima de los 40 grados",
+          "description": "El calor es intenso: la vida se traslada a la mañana, la noche y la piscina. Los precios bajan y la plaza sigue llenándose por la noche; Marrakech en verano es posible, siempre que el plan se base en sombra y aire acondicionado.",
+          "callout": {
+            "type": "warning",
+            "label": "Nota de julio",
+            "text": "En verano, no hagas planes callejeros entre las 11 y las 5: zoco por la mañana, piscina del riad o hammam al mediodía, la plaza por la noche. Agua, sombrero y electrolitos: el trío imprescindible."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "Luz Dorada",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · El calor amaina, cielos despejados",
+          "description": "El calor amaina en septiembre; octubre-noviembre es el periodo más equilibrado de la ciudad: días suaves, noches frescas, ideal para excursiones al Atlas. La luz adquiere el tono que los fotógrafos llaman 'oro de Marrakech'.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de octubre",
+            "text": "En octubre, dedica un día al Atlas: cosecha de nueces en los pueblos de Ourika o Imlil, aire puro de montaña y té bereber. De vuelta en la ciudad, incluso el ruido de la plaza suena dulce."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Fresco Soleado",
+          "months": "Dec – Feb",
+          "subtitle": "Invierno · Días suaves, noches frías",
+          "description": "Soleado y con temperatura de chaqueta durante el día, notablemente frío por la noche; pregunta en tu riad por la calefacción. El refugio clásico del invierno europeo: jardines tranquilos, zoco relajado y la ciudad en su punto más fotogénico contra el Atlas nevado.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de enero",
+            "text": "Un almuerzo en terraza bajo el sol invernal es el lujo oculto de Marrakech: una rebeca en la espalda, un tajín delante, el Atlas nevado cruzando el cielo. Nadie puede tomar esa foto en verano."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "¿Qué Comer?",
+      "intro": "La mesa de Marrakech cocina sobre brasas y en barro: la firma de la ciudad es la tanjia, la de la plaza es el humo, y la de las terrazas es el atardecer.",
+      "local_word": {
+        "word": "Tanjia",
+        "pronunciation": "tan-jee-ya",
+        "definition": "El plato propio de Marrakech: carne, limón encurtido y especias sellados en una urna de barro y cocinados durante horas en las cenizas del hammam. Originalmente la comida de los viernes de los obreros solteros, hoy la firma gastronómica de la ciudad."
+      },
+      "items": [
+        {
+          "icon": "🏺",
+          "name": "Tanjia — la leyenda cocinada en ceniza",
+          "description": "La carne cocinada a fuego lento en la urna se deshace en hebras, el aroma a limón encurtido envuelve el plato: un ritual de Marrakech, distinto del tajín. Pregunta por un lugar que haga la auténtica — se sirve directamente de la urna.",
+          "tag": "La firma de Marrakech · servida de la urna",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mechoui+Alley+Marrakech"
+        },
+        {
+          "icon": "🍲",
+          "name": "Las variaciones del tajín",
+          "description": "Cordero con ciruelas y almendras, pollo con limón y aceitunas, kefta con huevo: bajo la tapa cónica cada casa cuenta una historia diferente. Pídelo en tu riad la noche anterior — siempre un paso por delante del menú del zoco.",
+          "tag": "Cocina de riad · pedir el día anterior",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dar+Cherifa+Marrakech"
+        },
+        {
+          "icon": "🍢",
+          "name": "Los puestos de la plaza — una mesa de humo",
+          "description": "La cocina al aire libre de cien puestos que se monta cada noche: brochetas sobre brasas, harira, sopa de caracoles. El puesto concurrido es el puesto fresco — memoriza su número y vuelve mañana por la noche.",
+          "tag": "En la plaza por la noche · del puesto concurrido",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jemaa+el-Fnaa+food+stalls"
+        },
+        {
+          "icon": "🥗",
+          "name": "Ensaladas marroquíes y zaalouk",
+          "description": "Zaalouk de berenjena ahumada, taktouka de zanahoria, platos de aceitunas: el colorido ejército que viste la mesa antes del plato principal. Mojar con pan es la costumbre — el tenedor es opcional.",
+          "tag": "El ejército de entrantes · con pan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nomad+Marrakech"
+        },
+        {
+          "icon": "🍊",
+          "name": "Naranjas de la plaza y batidos de aguacate",
+          "description": "Los carritos de zumo son el clásico diurno de la plaza; el batido de aguacate y almendras de las lecherías es el secreto refrescante de los locales. Ambos cuestan unos pocos dirhams, ambos son leyendas.",
+          "tag": "Clásico diurno · fresco del carrito",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jemaa+el-Fnaa+orange+juice"
+        },
+        {
+          "icon": "🍬",
+          "name": "Té a la menta y dulces marroquíes",
+          "description": "Cuernos de gacela (kaab el ghazal), chebakia bañada en miel y paquetitos de pasta de almendra: el ejército dulce de la ceremonia del té. En una terraza, frente al atardecer — indica tu nivel de azúcar al principio.",
+          "tag": "Ceremonia en terraza · con el atardecer",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pâtisserie+des+Princes+Marrakech"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de la mesa en la plaza",
+        "text": "En los puestos nocturnos bastan dos reglas: elige el puesto donde se sientan los locales y nunca te sientes sin ver la lista de precios. El meze que llega 'de regalo' va en la cuenta — devuelve lo que no pediste con una sonrisa; eso también es parte del juego."
+      }
+    },
+    "hidden_gems": {
+      "title": "Rincones Escondidos",
+      "intro": "Todo el mundo conoce Majorelle; estos seis son los patios ocultos de la ciudad roja.",
+      "items": [
+        {
+          "rarity": "Paraíso tras los muros",
+          "name": "Le Jardin Secret",
+          "description": "Un jardín palaciego restaurado en el corazón del zoco: los canales de agua del arte de jardinería islámico, una colección de cactus y los tejados de la medina desde su torre. A dos pasos del caos, una serenidad matemática.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Jardin+Secret+Marrakech"
+        },
+        {
+          "rarity": "La mejor azotea de la ciudad",
+          "name": "La terraza de la Maison de la Photographie",
+          "description": "El museo de antiguas fotografías marroquíes está coronado por una de las mejores terrazas de la medina: contempla la colección, toma tu té en la azotea, divisa el Atlas en el horizonte. Entrada modesta, vistas generosas.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+de+la+Photographie+Marrakech"
+        },
+        {
+          "rarity": "Un palacio con cigüeñas matutinas",
+          "name": "Las murallas del Palacio El Badi",
+          "description": "La gigantesca ruina de la edad de oro saadí: piscinas hundidas, fosos de naranjos y cigüeñas anidando en las murallas. Ve temprano: el repiqueteo de las cigüeñas precede al murmullo de la multitud.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Badi+Palace+Marrakech"
+        },
+        {
+          "rarity": "Esplendor tras las puertas",
+          "name": "Las salas tranquilas del Palacio de la Bahía y las tumbas saadíes a la apertura",
+          "description": "Los patios traseros del Palacio de la Bahía y las cámaras alicatadas de las tumbas saadíes están casi vacíos a la hora de apertura: admira el zellij y los techos de cedro sin colas. Compra la misma entrada al mediodía y comprarás la cola con ella.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Saadian+Tombs+Marrakech"
+        },
+        {
+          "rarity": "La plaza de las especias de los lugareños",
+          "name": "Rahba Kedima",
+          "description": "La antigua plaza del grano dentro del zoco principal: pirámides de especias, tiendas de herbolarios y puestos de sombreros tejidos. Los cafés con terraza a su alrededor son el remedio oficial para el cansancio del zoco.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rahba+Kedima+Marrakech"
+        },
+        {
+          "rarity": "Atardecer en el umbral del desierto",
+          "name": "Una cena en Agafay",
+          "description": "Una meseta desértica pedregosa a 45 minutos de la ciudad: campamentos de tiendas, siluetas de camellos y mesas al atardecer con el Atlas de fondo. 'El desierto para quienes no tienen tiempo para el Sahara' — con la combinación cena + estrellas.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Agafay+desert"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Estrategia para los jardines",
+        "text": "Los jardines de Marrakech se visitan gestionando las multitudes: Majorelle a la apertura, Le Jardin Secret en la calma del mediodía, el olivar de Menara al atardecer. Cada jardín es un turno; los tres caben en un día si se mantiene el orden."
+      }
+    },
+    "traps": {
+      "title": "Trampas para turistas",
+      "intro": "Marrakech juega sus cartas en un escenario abierto: para quienes conocen las reglas, es teatro, no peligro.",
+      "items": [
+        {
+          "icon": "🐒",
+          "name": "Las trampas fotográficas de la plaza",
+          "description": "El mono se posa en tu hombro, la serpiente se enrosca en tu cuello, la henna te toca la mano... y luego viene una exigencia de pago contundente; regatear entre la multitud es difícil.",
+          "instead": "Si no lo quieres, mantén la distancia, no apuntes con la cámara, evita el contacto visual. Si sí lo quieres, acuerda el precio claramente y ten billetes pequeños listos; que tanto la experiencia como el precio sean tu elección."
+        },
+        {
+          "icon": "🧭",
+          "name": "El guía del 'zoco está cerrado, sígueme'",
+          "description": "El juego de Fez en el escenario de Marrakech: el guía voluntario te lleva en círculos y termina el recorrido en una tienda con comisión.",
+          "instead": "'La shukran' + sigue caminando. Cíñete a los ejes principales señalizados; si realmente quieres un guía, pide a tu riad que te reserve uno oficial y acreditado."
+        },
+        {
+          "icon": "🌿",
+          "name": "El espectáculo de la 'farmacia bereber'",
+          "description": "Algunas tiendas de especias montan espectáculos de curación para grupos de autocares: especias comunes vendidas a precios multiplicados bajo etiquetas de 'milagro'.",
+          "instead": "Compra especias en los puestos sencillos alrededor de Rahba Kedima, observando el pesaje. El azafrán real es caro; el 'azafrán barato' es en realidad cártamo."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Impuesto por las vistas en la terraza + sorpresas en la cuenta",
+          "description": "Algunas terrazas con vistas a la plaza venden un menú normal a precios de mirador y disfrutan añadiendo líneas a la cuenta.",
+          "instead": "Usa la terraza para tomar un té al atardecer, y come una calle más adentro o en tu riad. Revisar la cuenta línea por línea no es de mala educación aquí, es costumbre."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de oro",
+        "text": "En Marrakech, cada 'regalo', cada 'gratis' y cada 'solo para mirar' es una frase de apertura: sonríe, di 'la shukran' y sigue tu camino. Luego, una vez al día, a través de una puerta de tu propia elección, entra en el regateo: el placer del juego funciona para quienes conocen sus reglas."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Preparadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Un día completo en la ciudad roja, del jardín a la plaza",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Majorelle a primera hora",
+              "description": "Sé el primero en entrar al jardín azul cobalto; luego, una breve inmersión en el museo YSL. Estarás fuera antes de que lleguen las multitudes."
+            },
+            {
+              "time": "10:30",
+              "title": "La Koutoubia y hacia la medina",
+              "description": "Camina desde la sombra del minarete hasta las murallas y entra en la medina por la puerta de la Kasbah: las cámaras alicatadas de las tumbas saadíes aún están en calma."
+            },
+            {
+              "time": "12:30",
+              "title": "Un almuerzo de tanjia",
+              "description": "Vierte la tanjia cocinada en cenizas de su urna al plato: la comida insignia de Marrakech. Té de menta para acompañar, media hora a la sombra."
+            },
+            {
+              "time": "14:30",
+              "title": "El zoco y Le Jardin Secret",
+              "description": "Piérdete entre las pirámides de especias y las venas de cuero y cobre; cuando estés cansado, respira en el patio con canales de agua del jardín secreto."
+            },
+            {
+              "time": "17:30",
+              "title": "Té al atardecer en una terraza",
+              "description": "Sube a la azotea de la Maison de la Photographie: sorbe té mientras los tejados de la medina se tiñen de rojo — abajo, la plaza ya se está animando."
+            },
+            {
+              "time": "19:30",
+              "title": "Una noche en Jemaa el-Fnaa",
+              "description": "Humo, tambores, círculos de cuentacuentos y la cocina de cien puestos: cena en un puesto concurrido, luego piérdete en el teatro de la plaza."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Ciudad, palacios y montaña — tres actos",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Marrakech Clásico",
+              "description": "El itinerario de un día anterior: Majorelle, Kasbah, tanjia, zoco, la plaza por la noche."
+            },
+            {
+              "time": "Day 2",
+              "title": "Palacios y el hammam",
+              "description": "El Palacio de la Bahía + las murallas con cigüeñas de El Badi por la mañana; un recorrido de tapas por Rahba Kedima al mediodía; un hammam tradicional + descanso por la tarde; cocina marroquí moderna en Gueliz por la noche."
+            },
+            {
+              "time": "Day 3",
+              "title": "Atlas o Agafay",
+              "description": "Elige tu día: pueblos bereberes y valles de nogales en Imlil, o una cena al atardecer en el desierto de Agafay; una última vuelta de despedida por la plaza al regresar — zumo de naranja en mano, tambores a tu espalda."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de Supervivencia de 5 Palabras",
+      "intro": "Cinco palabras en dariya funcionan en el escenario de Marrakech como escudo y llave.",
+      "items": [
+        {
+          "word": "Salam alikoum",
+          "pronunciation": "sah-lam ah-lay-koom",
+          "meaning": "Hola — el saludo que abre cada interacción"
+        },
+        {
+          "word": "Shukran",
+          "pronunciation": "shook-ran",
+          "meaning": "Gracias — doble efecto con una sonrisa"
+        },
+        {
+          "word": "La, shukran",
+          "pronunciation": "lah shook-ran",
+          "meaning": "'No, gracias' — el escudo de la plaza y el zoco; se dice mientras caminas"
+        },
+        {
+          "word": "Bshhal?",
+          "pronunciation": "bish-hal",
+          "meaning": "¿'Cuánto cuesta?' — la frase que abre el telón del regateo"
+        },
+        {
+          "word": "Wakha",
+          "pronunciation": "wah-kha",
+          "meaning": "'Vale, trato hecho' — el final feliz del regateo; sellado con un apretón de manos"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Lista de Imprescindibles en Marrakech",
+      "completion_message": "¡Wakha! ¡Has vivido la ciudad roja como se debe!",
+      "items": [
+        {
+          "label": "Contempla la plaza de día y de noche",
+          "sub": "Dos escenarios distintos, una misma Jemaa el-Fnaa"
+        },
+        {
+          "label": "Cena en un puesto nocturno",
+          "sub": "El puesto más concurrido es el más fresco"
+        },
+        {
+          "label": "Prueba la tanjia de la urna",
+          "sub": "El plato estrella de Marrakech cocinado en cenizas"
+        },
+        {
+          "label": "Entra al azul Majorelle a primera hora",
+          "sub": "El jardín cobalto — entrada online"
+        },
+        {
+          "label": "Toma un respiro en Le Jardin Secret",
+          "sub": "Serenidad a dos pasos del zoco"
+        },
+        {
+          "label": "Termina un regateo en el zoco con un 'wakha'",
+          "sub": "Empieza por un tercio, estrecha la mano"
+        },
+        {
+          "label": "Observa las cigüeñas de El Badi",
+          "sub": "Temprano por la mañana — desde las murallas"
+        },
+        {
+          "label": "Toma un té al atardecer desde una terraza",
+          "sub": "Mientras los tejados de la medina se tiñen de rojo"
+        },
+        {
+          "label": "Déjate exfoliar en un hammam tradicional",
+          "sub": "Guante kessa + jabón + serenidad"
+        },
+        {
+          "label": "Llega al Atlas o a Agafay",
+          "sub": "Pueblo de montaña o meseta desértica — dedica un día"
+        }
+      ]
+    }
+  }
+}

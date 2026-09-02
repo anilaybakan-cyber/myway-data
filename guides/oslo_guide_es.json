@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Oslo",
+    "country": "Norway",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2F4E7E",
+    "color_light": "#EAEFF7",
+    "tagline": "Una capital entre el fiordo y el bosque, con un techo de ópera transitable."
+  },
+  "pills": [
+    "Entre fiordo y bosque",
+    "Se puede subir al tejado de la ópera",
+    "Capital del coche eléctrico"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Oslo",
+      "intro": "Oslo es una capital encajada entre dos naturalezas: un fiordo salpicado de islas al frente, un bosque interminable detrás. La ciudad utiliza ambas no como decoración, sino como parte de la vida diaria: el hombre que sale de su reunión matutina está en una sauna del fiordo al mediodía, y la última parada del metro conecta con una pista de esquí. Caminas por el tejado de la ópera, te paras frente a El Grito de Munch, pelas gambas frescas en el muelle. Oslo no alardea; pero es una de las respuestas más serenas a la pregunta '¿cómo es vivir bien?'.",
+      "local_word": {
+        "word": "Friluftsliv",
+        "pronunciation": "free-loofts-leev",
+        "definition": "'Vida al aire libre': el vínculo diario, casi religioso, que los noruegos mantienen con la naturaleza. La lluvia no es excusa: 'no hay mal tiempo, solo mala ropa' es el proverbio fundacional de esta filosofía."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "La naturaleza es parte de la ciudad: úsala",
+          "description": "El ferry urbano llega a las islas del fiordo con un billete normal, y el metro del bosque (línea 1) te deja en el inicio de un sendero en media hora. Quien piense que Oslo es solo su centro se ha perdido la mitad de la ciudad."
+        },
+        {
+          "number": 2,
+          "title": "Prepara tu cartera para Noruega",
+          "description": "Oslo es cara y no lo esconde: los restaurantes y el alcohol funden un presupuesto rápidamente. El equilibrio es a la manera local: cantina o panadería al mediodía, un buen restaurante por la noche, happy hour para la cerveza."
+        },
+        {
+          "number": 3,
+          "title": "El efectivo está olvidado: la tarjeta habla por sí misma",
+          "description": "Noruega es casi una sociedad sin efectivo: la tarjeta y el teléfono funcionan en todas partes, las monedas en ninguna. Los billetes de transporte se compran en la app; buscar un billete de papel es una pérdida de tiempo."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "Gardermoen (OSL)",
+          "sub": "Flytoget exprés 19 min · tren regular a mitad de precio"
+        },
+        {
+          "icon": "🚋",
+          "label": "Cómo moverse",
+          "value": "Metro + tranvía + ferry",
+          "sub": "Un único sistema de billetes: Ruter"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "Noruego",
+          "sub": "Inglés fluido como lengua materna"
+        },
+        {
+          "icon": "💳",
+          "label": "Moneda",
+          "value": "Corona noruega",
+          "sub": "Sociedad sin efectivo: tarjeta en todas partes"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofía de Oslo",
+        "text": "Un habitante de Oslo nunca pasa un día hermoso en interiores: si sale el sol, los planes cambian y todo el mundo sale. Haz lo mismo: guarda los museos para un día de lluvia, y aprovecha el sol en el fiordo y el bosque."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "El sistema de billete único de Ruter agrupa metro, tranvía, autobús y los ferris del fiordo bajo un mismo techo: un solo billete, toda la ciudad — islas incluidas.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Del aeropuerto al centro",
+          "description": "El expreso Flytoget llega a la Estación Central en 19 minutos; el tren regional regular (Vy) hace el mismo trayecto minutos más lento a mitad de precio. En esta ciudad, un taxi es el último recurso."
+        },
+        {
+          "icon": "🚇",
+          "title": "El metro (T-bane) — una red que se adentra en el bosque",
+          "description": "Cinco líneas se unen en el centro y se dispersan en la naturaleza en sus extremos: la línea 1 te deja en los senderos forestales de Frognerseteren, la línea Sognsvann en la orilla de un lago. Del centro a la naturaleza salvaje: 30 minutos."
+        },
+        {
+          "icon": "🚋",
+          "title": "Los clásicos tranvías",
+          "description": "El tranvía 12 es como la línea turística de la ciudad: une el Parque Vigeland, Aker Brygge y Gamlebyen. Los tranvías azules son las figuras constantes de la fotografía callejera de Oslo."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Los ferris del fiordo",
+          "description": "Los ferris desde Aker Brygge llegan a Hovedøya, Gressholmen y las otras islas con un billete normal de Ruter: en verano, las playas de las islas, las ruinas del monasterio y las zonas de pícnic son la piscina de la ciudad."
+        },
+        {
+          "icon": "🚶",
+          "title": "El centro y la orilla a pie",
+          "description": "El paseo marítimo (Havnepromenaden) recorre de punta a punta desde la Ópera, pasando por la Fortaleza de Akershus, hasta Aker Brygge: una ruta de 9 km marcada por torres naranjas, el mejor tour gratuito de la ciudad."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo del ferri",
+        "text": "En una tarde de verano, toma el ferri a Hovedøya y regresa en la última salida: desde el lado de la isla, el perfil de la ciudad, la ópera y las torres Barcode se reflejan en el agua al atardecer — por el precio de un billete de ciudad, no de un barco turístico."
+      }
+    },
+    "stay": {
+      "title": "¿Dónde alojarse?",
+      "intro": "Los barrios de Oslo no ocultan su personalidad: el centro es práctico, Grünerløkka bohemio, Frogner elegante, y Sørenga, a estrenar, está justo sobre el agua.",
+      "local_word": {
+        "word": "Marka",
+        "pronunciation": "mar-ka",
+        "definition": "El nombre del cinturón forestal que rodea Oslo: por ley, la ciudad no puede crecer más allá de sus límites. El plan de fin de semana de un habitante de Oslo a menudo se resume en una palabra: 'vamos a Marka' — a esquiar, hacer senderismo o simplemente a disfrutar del silencio."
+      },
+      "items": [
+        {
+          "name": "Sentrum (alrededores de Karl Johan)",
+          "badge": "Lo más práctico",
+          "badge_type": "vibe",
+          "description": "Entre la estación, el palacio, la ópera y la calle principal: camina a todas partes, llega a cualquier línea. Alta densidad hotelera, menos carácter — la base eficiente para una visita corta.",
+          "tags": [
+            "Cerca de la estación",
+            "Se va andando a todas partes",
+            "Muchos hoteles"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Karl+Johans+gate+Oslo"
+        },
+        {
+          "name": "Grünerløkka",
+          "badge": "Lo más bohemio",
+          "badge_type": "hot",
+          "description": "La nueva vida del antiguo barrio obrero, con tostadores de café, bares y tiendas vintage: paseos a lo largo del río Akerselva, mercados de segunda mano los domingos. El corazón joven de Oslo late aquí.",
+          "tags": [
+            "Café de tercera ola",
+            "Paseos junto al río",
+            "Mercados vintage"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grünerløkka+Oslo"
+        },
+        {
+          "name": "Frogner y Majorstuen",
+          "badge": "Lo más elegante",
+          "badge_type": "local",
+          "description": "El barrio de las embajadas, edificios de apartamentos modernistas y el Parque Vigeland: calles tranquilas, cafeterías con encanto, carreras por el parque. El escaparate de la vida clásica de Oslo.",
+          "tags": [
+            "Parque Vigeland",
+            "Apartamentos elegantes",
+            "Noches tranquilas"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Frogner+Oslo"
+        },
+        {
+          "name": "Aker Brygge y Tjuvholmen",
+          "badge": "Las mejores vistas",
+          "badge_type": "hot",
+          "description": "Vida moderna en el muelle: hoteles con vistas al fiordo, el museo Astrup Fearnley, restaurantes frente al mar. Precios altos, puesta de sol incluida.",
+          "tags": [
+            "Vistas al fiordo",
+            "Restaurantes en el muelle",
+            "Arquitectura moderna"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Aker+Brygge+Oslo"
+        },
+        {
+          "name": "Sørenga y Bjørvika",
+          "badge": "Lo más nuevo",
+          "badge_type": "value",
+          "description": "El nuevo barrio junto al agua detrás de la ópera: un muelle para bañarse (Sørenga Sjøbad), el museo Munch y las torres Barcode. Una base moderna para bañistas y amantes de la arquitectura.",
+          "tags": [
+            "Muelle para bañarse",
+            "Museo Munch",
+            "Arquitectura nueva"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sørenga+Oslo"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "¿Cuándo ir?",
+      "intro": "Oslo cambia de forma con las estaciones: una ciudad de fiordos en verano, una ciudad de esquí en invierno, y dos transiciones cortas y encantadoras entre medias.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "El despertar y el 17 de mayo",
+          "months": "Apr – Jun",
+          "subtitle": "Primavera · Terrazas, alegría del día nacional",
+          "description": "La nieve se retira, las terrazas abren y la ciudad se deleita con la luz. El Día de la Constitución, 17 de mayo, toda Noruega sale a la calle con sus trajes nacionales (bunad): desfiles, helados y bandas de música, el día más colorido del año.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo para el 17 de mayo",
+            "text": "Si estás en Oslo el 17 de mayo, llega temprano a Karl Johan: el desfile infantil pasa por el palacio y la familia real saluda desde el balcón. No te saltes el desayuno del hotel ese día, encontrar una mesa en la ciudad es difícil."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Temporada de fiordos",
+          "months": "Jul – Aug",
+          "subtitle": "Verano · Playas en las islas, luz hasta las 23:00",
+          "description": "Los días son largos, el fiordo se considera cálido, las islas se llenan de gente de pícnic: la ciudad se traslada al aire libre. La temporada de utepils (cerveza al aire libre) alcanza su punto álgido; los hoteles están relativamente tranquilos porque los noruegos también están de vacaciones.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo para julio",
+            "text": "Dedica una tarde a una sauna en el fiordo: caliéntate en las saunas flotantes frente a la Ópera, salta al fiordo, vuelve a calentarte. Reserva con unos días de antelación: el nuevo clásico de Oslo está a rebosar."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "Marka dorada",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · Bosques amarillos, temporada de museos",
+          "description": "El bosque de Marka se tiñe de oro, el aire se vuelve más nítido, los museos se tranquilizan. Septiembre es para hacer senderismo, octubre y noviembre para museos y café; la primera nieve a veces llega a la ciudad en noviembre.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo para septiembre",
+            "text": "En el punto álgido del color otoñal, toma la línea 1 del metro hasta Frognerseteren: tarta de manzana en el restaurante con vistas al fiordo a través del bosque amarillo, la torre de esquí de Holmenkollen de camino de vuelta, el mejor tour de medio día con vistas de Oslo."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Capital del esquí",
+          "months": "Dec – Mar",
+          "subtitle": "Invierno · Esquí en metro, días cortos, bebidas calientes",
+          "description": "Cuando cae la nieve, Oslo recupera su segunda identidad: vas en metro a las pistas de esquí, patinas en lagos helados y los cafés cambian a la luz de las velas. Los días son cortos, pero la ciudad gestiona bien la oscuridad.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo para febrero",
+            "text": "Aunque no sepas esquiar, deslízate en trineo desde Frognerseteren hasta Midtstuen (la pista Korketrekkeren): subida con billete de metro, trineo alquilado, 2 km de gritos. La diversión más barata de un invierno en Oslo."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Qué Comer",
+      "intro": "La ola de la Nueva Cocina Nórdica es fuerte también en Oslo, pero la esencia de la ciudad es sencilla: buen salmón, gambas en el muelle, un bollo de canela de la panadería y café de primera división mundial.",
+      "local_word": {
+        "word": "Utepils",
+        "pronunciation": "oo-teh-pils",
+        "definition": "'Una cerveza bebida al aire libre': el nombre especial que un pueblo acostumbrado a largos inviernos da a la primera cerveza del año en una terraza soleada. Si ves terrazas abarrotadas bajo el sol de abril, sabrás que la temporada de utepils ha comenzado oficialmente."
+      },
+      "items": [
+        {
+          "icon": "🦐",
+          "name": "Gambas frescas en el muelle",
+          "description": "Gambas cocidas compradas directamente del barco, peladas en el muelle con baguette, mayonesa y limón: el ritual más querido del verano en Oslo. Busca un banco en el muelle de Aker Brygge y defiende las cáscaras de las gaviotas.",
+          "tag": "Clásico de verano · a pie de muelle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Aker+Brygge+pier+Oslo"
+        },
+        {
+          "icon": "🐟",
+          "name": "Salmón y skrei — cocina de fiordo",
+          "description": "El salmón noruego es excelente en todas partes, pero la sopa de pescado y, en temporada, el skrei (el bacalao migratorio) son el verdadero orgullo de la ciudad. Las lonjas y los mostradores de Mathallen exhiben la pesca fresca del día.",
+          "tag": "En Mathallen · el pescado del día",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mathallen+Oslo"
+        },
+        {
+          "icon": "🧀",
+          "name": "Brunost — el queso de caramelo",
+          "description": "El queso de cabra marrón es el clásico peculiar y entrañable de Noruega: con sabor a caramelo, sobre un gofre o el pan del desayuno. Sorpréndete al primer bocado, engánchate al tercero.",
+          "tag": "En el desayuno · sobre un gofre",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fenaknoken+Oslo"
+        },
+        {
+          "icon": "🥐",
+          "name": "Kanelbolle y kardemummebolle",
+          "description": "Los bollos de canela y cardamomo son la competición diaria de las panaderías de Oslo: en una buena, no duran más allá del mediodía. En una ciudad de campeones mundiales de café, un bollo + café de filtro cuenta como una comida.",
+          "tag": "De una panadería matutina · con café",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Apent+Bakeri+Oslo"
+        },
+        {
+          "icon": "🌭",
+          "name": "Pølse med lompe",
+          "description": "Una salchicha envuelta en pan plano de patata (lompe), coronada con mostaza y cebolla crujiente: el tentempié nacional por excelencia de Noruega. Desde la gasolinera hasta el estadio, la misma autenticidad en todas partes.",
+          "tag": "De pie · envuelto en lompe",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Syverkiosken+Oslo"
+        },
+        {
+          "icon": "🍺",
+          "name": "Cerveza artesanal y la aritmética de la happy hour",
+          "description": "La escena de microcervecerías de Oslo es potente y sus precios, valientes: los descuentos de primera hora en los bares de Grünerløkka son un amigo para el bolsillo. Vinmonopolet (el monopolio estatal) cierra a las 18:00, los sábados a las 16:00 — planifica con antelación.",
+          "tag": "En Grünerløkka · a primera hora",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grünerløkka+Brygghus+Oslo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo para el bolsillo",
+        "text": "La forma de controlar la cuenta del restaurante en Oslo es a la hora de comer: los menús 'dagens rett' (plato del día) cuestan la mitad que por la noche. Pide agua — el agua del grifo es gratis y tan limpia como el fiordo."
+      }
+    },
+    "hidden_gems": {
+      "title": "Rincones Escondidos",
+      "intro": "Todo el mundo pasea por el tejado de la ópera; estos seis lugares te llevarán una capa más allá en Oslo.",
+      "items": [
+        {
+          "rarity": "Un monasterio insular dentro de la ciudad",
+          "name": "Hovedøya",
+          "description": "La isla a diez minutos en ferry: una ruina de monasterio de 800 años, pequeñas playas y zonas de pícnic a la sombra de los pinos. Se llega con un billete de transporte urbano normal, las 'vacaciones' más baratas de Oslo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hovedøya+Oslo"
+        },
+        {
+          "rarity": "Un camino fluvial de cascadas",
+          "name": "The Akerselva walk",
+          "description": "El río que divide la ciudad desciende 8 km entre cascadas y antiguas fábricas: escuelas de arte, tostadores de café y saltos de agua bajo los puentes, la memoria industrial de Oslo. Recórrelo cuesta abajo y haz una parada en Grünerløkka.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Akerselva+Oslo"
+        },
+        {
+          "rarity": "Un bosque de esculturas sobre el fiordo",
+          "name": "Ekebergparken",
+          "description": "El parque de esculturas en la cresta donde Munch dibujó el paisaje de El Grito: una colección al aire libre de Dalí a Vigeland, entre los árboles. Sube en tranvía: la ciudad y el fiordo se extienden a tus pies.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ekebergparken+Oslo"
+        },
+        {
+          "rarity": "Una cápsula del tiempo de casas de madera",
+          "name": "Damstredet and Telthusbakken",
+          "description": "Casas de madera del siglo XVIII a dos pasos del centro: callejuelas torcidas, fachadas de colores, rosales de jardín. Un desvío de cinco minutos, doscientos años de tranquilidad.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Damstredet+Oslo"
+        },
+        {
+          "rarity": "Balsas de sauna en el fiordo",
+          "name": "The fjord saunas — Oslo's floating bathhouses",
+          "description": "Calentarse en las balsas de sauna flotantes frente a la Ópera, y luego saltar al fiordo: hielo en invierno, alivio fresco en verano, abierto todo el año. La mejor tradición que Oslo ha inventado en la última década.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=KOK+Oslo+fjord+sauna"
+        },
+        {
+          "rarity": "La torre de la historia del esquí",
+          "name": "The Holmenkollen jump tower",
+          "description": "Desde lo alto del legendario trampolín de esquí, el fiordo de Oslo se convierte en un mapa; el museo del esquí en su interior cuenta una historia de 4.000 años. Se llega en metro, y la torre ofrece una tirolina para los valientes.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Holmenkollen+ski+jump+Oslo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo de museo",
+        "text": "En el museo Munch, El Grito no es un solo cuadro: para protegerlas, el museo rota sus tres versiones; cuál cuelga depende de la hora. Pregunta en la entrada y planifica tus plantas en consecuencia."
+      }
+    },
+    "traps": {
+      "title": "Trampas para turistas",
+      "intro": "Oslo es honesta; sus trampas se esconden en el precio y en una mala planificación.",
+      "items": [
+        {
+          "icon": "🚕",
+          "name": "El taxi del aeropuerto",
+          "description": "Un taxi de Gardermoen al centro alcanza cifras escandalosas; añade tiempo extra si hay tráfico.",
+          "instead": "El Flytoget tarda 19 minutos; el tren regular Vy lo hace en 25 a mitad de precio. Incluso con mucho equipaje, el tren gana: la estación está dentro de la terminal."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Cada comida en Aker Brygge",
+          "description": "Los restaurantes del muelle son maestros en añadir el impuesto por las vistas: una cena normal deja un cráter en el presupuesto.",
+          "instead": "Tómate solo una utepils en el muelle; come en Grünerløkka, en Torggata o en Mathallen. El ritual de las gambas está en el muelle de todos modos, precioso sin necesidad de un restaurante."
+        },
+        {
+          "icon": "🎫",
+          "name": "Comprar la Oslo Pass sin hacer números",
+          "description": "La Oslo Pass solo compensa a quien visite 2-3 museos al día; en un programa de paseos y naturaleza, la tarjeta se desperdicia.",
+          "instead": "Haz primero tu lista de museos, suma las entradas y luego decide. El ferry del fiordo y el transporte público ya están cubiertos por el billete barato de Ruter."
+        },
+        {
+          "icon": "🍺",
+          "name": "Dejar el plan del alcohol para la noche",
+          "description": "La venta de cerveza en supermercados termina a las 8 pm (sábados a las 6 pm), el vino y las bebidas espirituosas solo se encuentran en Vinmonopolet, que cierra temprano; por la noche, el estante de la tienda está literalmente cerrado con llave.",
+          "instead": "Planifica tus bebidas a la luz del día, o aprovecha las happy hours de los bares. Los noruegos llegan a las fiestas con su propia botella; este sistema es la razón."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de oro",
+        "text": "En Oslo, lo más caro está en el interior y lo más bonito, en el exterior: fiordo, bosque, paseo marítimo, tejado de la ópera, todo gratis. Guarda el presupuesto para una buena cena y una sauna; la naturaleza se encarga del resto."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Preparadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Un día en Oslo, del tejado al fiordo",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Mañana en el tejado de la ópera",
+              "description": "Sube por la pendiente de mármol hasta el tejado: el fiordo, las islas y la ciudad que despierta a tus pies. La luz de la mañana es espectacular sobre el mármol blanco."
+            },
+            {
+              "time": "10:00",
+              "title": "Munch o el Museo Nacional",
+              "description": "Enfréntate a El Grito: el museo Munch está al lado de la ópera, el Museo Nacional se encuentra junto al puerto. Elige uno, ambos no caben en una mañana."
+            },
+            {
+              "time": "12:30",
+              "title": "Paseo por el puerto + gambas",
+              "description": "Pasea por Havnepromenaden, pasando la Fortaleza de Akershus, hasta Aker Brygge; una pausa para gambas frescas y baguette en el muelle."
+            },
+            {
+              "time": "14:30",
+              "title": "Parque Vigeland",
+              "description": "Tranvía 12 hasta Frogner: la condición humana en más de 200 esculturas. La foto con el Niño Enfadado es un clásico. El parque es gratuito y está siempre abierto."
+            },
+            {
+              "time": "17:00",
+              "title": "Una pausa en Grünerløkka",
+              "description": "Desciende por el Akerselva hasta el barrio: café de tercera ola o una cerveza temprana, escaparates vintage, el sonido del río."
+            },
+            {
+              "time": "19:30",
+              "title": "Un cierre de fiordo en Sørenga",
+              "description": "Un chapuzón valiente en el muelle de baño, o simplemente los pies colgando; cena en Bjørvika, mientras las luces del Barcode se reflejan en el agua."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Ciudad, fiordo y bosque: el trío de Oslo",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Oslo Clásico",
+              "description": "El itinerario de un día anterior: ópera, Munch, paseo, Vigeland, Grünerløkka."
+            },
+            {
+              "time": "Day 2",
+              "title": "Día de fiordo",
+              "description": "Los museos de Bygdøy por la mañana (Fram y Kon-Tiki: aventuras polares y oceánicas); ferry a Hovedøya para un baño y picnic por la tarde; una sauna en el fiordo + cena en el muelle por la noche."
+            },
+            {
+              "time": "Day 3",
+              "title": "Marka y altitud",
+              "description": "Línea 1 de metro hasta Frognerseteren: un paseo por el bosque, una pausa para tarta con vistas, la torre Holmenkollen de bajada; atardecer en Ekebergparken por la noche — despedida con el paisaje real de El Grito."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de Supervivencia de 5 Palabras",
+      "intro": "El noruego es educado y suave; todo el mundo habla inglés, pero estas cinco palabras rompen el hielo al instante.",
+      "items": [
+        {
+          "word": "Hei",
+          "pronunciation": "hay",
+          "meaning": "Hola — 'hei hei' es más cálido; 'ha det' es adiós"
+        },
+        {
+          "word": "Takk",
+          "pronunciation": "tahk",
+          "meaning": "Gracias — 'tusen takk' significa mil gracias"
+        },
+        {
+          "word": "Vær så god",
+          "pronunciation": "var-shaw-goo",
+          "meaning": "Aquí tienes / de nada — el camarero te dejará el plato con esta expresión"
+        },
+        {
+          "word": "Skål!",
+          "pronunciation": "skawl",
+          "meaning": "¡Salud! — el contacto visual es herencia vikinga, no lo omitas"
+        },
+        {
+          "word": "Koselig",
+          "pronunciation": "koosh-eh-lee",
+          "meaning": "'Cálido, agradable, acogedor' — el hygge de Noruega; cada momento a la luz de las velas es koselig"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Lista de Imprescindibles en Oslo",
+      "completion_message": "¡Skål! ¡Has vivido Oslo con su fiordo y su bosque!",
+      "items": [
+        {
+          "label": "Sube al tejado de la ópera",
+          "sub": "Una pendiente de mármol hasta la cima — gratis"
+        },
+        {
+          "label": "Ponte frente a El Grito",
+          "sub": "Museo Munch o el Museo Nacional"
+        },
+        {
+          "label": "Piérdete entre las esculturas de Vigeland",
+          "sub": "La foto del Niño Enfadado es la clásica"
+        },
+        {
+          "label": "Toma el ferry a una isla",
+          "sub": "Hovedøya — unas vacaciones en el fiordo con un billete de ciudad"
+        },
+        {
+          "label": "Pela gambas frescas en el muelle",
+          "sub": "Baguette, mayonesa, limón, patrulla de gaviotas"
+        },
+        {
+          "label": "Calienta en una sauna del fiordo, salta al agua",
+          "sub": "Frente a la Ópera — abierto todo el año"
+        },
+        {
+          "label": "Coge el metro hacia el bosque",
+          "sub": "Línea 1 a Frognerseteren — Marka en 30 minutos"
+        },
+        {
+          "label": "Contempla el fiordo desde Holmenkollen",
+          "sub": "Historia del esquí + una vista como un mapa"
+        },
+        {
+          "label": "Prueba brunost en un gofre",
+          "sub": "Queso de caramelo — te encantará al tercer bocado"
+        },
+        {
+          "label": "Únete a la temporada de utepils",
+          "sub": "Una cerveza en una terraza soleada — el ritual noruego"
+        }
+      ]
+    }
+  }
+}

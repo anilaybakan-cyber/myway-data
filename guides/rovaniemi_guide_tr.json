@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Rovaniemi",
+    "country": "Finlandiya",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#A83434",
+    "color_light": "#F8EAEA",
+    "tagline": "Kutup dairesi, Noel Baba'nın köyü ve gökyüzünde dans eden ışıklar"
+  },
+  "pills": [
+    "Noel Baba'nın resmi şehri",
+    "Kutup dairesinin üstünde",
+    "Kuzey ışıkları yılda 150+ gece"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Rovaniemi'ye Hoş Geldin",
+      "intro": "Rovaniemi iki masalın kesişimidir: biri kırmızı paltolu, sakallı ve dünyaca ünlü; diğeri yeşil perdeler halinde gökyüzünde dans eder. Ama bu şehir masaldan ibaret değil — savaşta yerle bir olmuş, Alvar Aalto'nun kaleminde ren geyiği boynuzu şeklinde yeniden doğmuş, ayakları yere basan bir Lapland başkenti. Kışın kar her sesi yutar, yazın güneş hiç batmaz. Termosunu doldur, katmanlı giyin: burada doğa turist değil, ev sahibidir.",
+      "local_word": {
+        "word": "Sisu",
+        "pronunciation": "sisu",
+        "definition": "Fince'nin çevrilemeyen kelimesi: zorluk karşısında sessiz, inatçı kararlılık. Eksi 25 derecede gülümseyerek bisiklet süren Rovaniemili'ye bakınca ne demek olduğunu anlarsın."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Soğuğa saygı, katmana güven",
+          "description": "Kışın eksi 20 normaldir: pamuk değil yün, tek kalın değil üç ince katman. İçlik + polar + rüzgar geçirmez dış katman formülüyle her aktivite keyfe dönüşür; yanlış giyinene şehir kapılarını kapatır."
+        },
+        {
+          "number": 2,
+          "title": "Kuzey ışığı garanti değil, sabır ister",
+          "description": "Revontulet (kuzey ışıkları) ağustos sonundan nisana kadar görülebilir ama bulut ve şans işin içindedir. En az 3-4 gece kal, ışık tahmin uygulamalarını takip et ve gece yarısı dışarı çıkmaya üşenme."
+        },
+        {
+          "number": 3,
+          "title": "Sauna kutsaldır, usulü vardır",
+          "description": "Fin saunasına mayoyla değil havluyla girilir, önce duş alınır, sessizlik makbuldür. Cesaretin varsa sauna sonrası buz deliğine (avanto) gir: kalbin ağzına gelir, sonra hayatının en canlı beş dakikasını yaşarsın."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Rovaniemi (RVN)",
+          "sub": "Merkeze 10 dk · Helsinki'den 1s 20dk uçuş"
+        },
+        {
+          "icon": "🌌",
+          "label": "Işık sezonu",
+          "value": "Eyl – Nis",
+          "sub": "En iyi aylar: Eyl-Ekim ve Şubat-Mart"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Fince",
+          "sub": "İngilizce herkeste akıcı"
+        },
+        {
+          "icon": "🎅",
+          "label": "İmza",
+          "value": "Noel Baba Köyü",
+          "sub": "Kutup dairesi çizgisi köyün içinden geçer"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Rovaniemi felsefesi",
+        "text": "Burada program değil hava durumu patrondur: gökyüzü açıksa her planı iptal et ve ışık avına çık, kapalıysa müze ve sauna günü yap. Esneklik, Lapland'da en değerli valiz eşyasıdır."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Merkez yürünecek kadar küçük; mesele köye, çiftliklere ve ormanın karanlığına çıkmakta. Plan basit: merkezde yayan, dışarıda otobüs ya da tur servisi.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından merkeze",
+          "description": "Havalimanı şehre 10 dakika: uçuşlarla senkronize airport bus otele bırakır, taksi sabit tarifeye yakındır. Kışın uçaktan iner inmez soğuk seni karşılar — montu valize değil, ele al."
+        },
+        {
+          "icon": "🚌",
+          "title": "8 numaralı otobüs — Santa ekspresi",
+          "description": "Şehir merkezinden Noel Baba Köyü'ne yerel 8 numara yarım saatte gider; turist servisinin yarı fiyatınadır. Dönüş saatlerini kontrol et, akşam seferleri seyrekleşir."
+        },
+        {
+          "icon": "🚶",
+          "title": "Merkez yayan",
+          "description": "Lordi Meydanı, Arktikum ve nehir kıyısı arası her yer 15 dakika. Kışın kaldırımlar karlıdır ama bakımlıdır; buz tabanlıklı bot ya da ayakkabıya geçirilen çivili tabanlık hayat kurtarır."
+        },
+        {
+          "icon": "🚐",
+          "title": "Tur servisleri — gece avı",
+          "description": "Kuzey ışığı, husky ve ren geyiği turlarının çoğu otelden alır: kışın kendi başına karanlık ormana araçsız çıkmak zordur, iyi bir gece turu şoför + fotoğrafçı + termos demektir."
+        },
+        {
+          "icon": "🚗",
+          "title": "Kiralık araba — özgür av",
+          "description": "Ehliyetin varsa kış lastikli kiralık araç ışık avında özgürlük demektir: bulut haritasına göre 100 km gidebilirsin. Karlı yol tecrübesi şart, ren geyiği yol kenarında gerçek bir trafik unsurudur."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bilet tüyosu",
+        "text": "Noel Baba Köyü'ne giriş ücretsizdir — para fotoğrafta ve aktivitelerde. 8 numaralı otobüsle git, Noel Baba'yla sohbet et (ücretsiz), fotoğraf paketine orada karar ver."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Rovaniemi'de seçim ikilidir: şehirde kal, turlarla çık — ya da ormanda cam iglu/kabin al, ışıklar ayağına gelsin.",
+      "local_word": {
+        "word": "Kaamos",
+        "pronunciation": "kaamos",
+        "definition": "Kutup gecesi: aralıkta güneşin hiç doğmadığı, gökyüzünün öğlen bile mavi-mor bir alacakaranlıkta asılı kaldığı dönem. Karanlık değil, Finlerin 'mavi an' dediği tarifsiz bir ışık hali."
+      },
+      "items": [
+        {
+          "name": "Şehir merkezi",
+          "badge": "En pratik",
+          "badge_type": "vibe",
+          "description": "Restoranlar, marketler ve tur kalkış noktaları yürüme mesafesinde: bütçe dostu otellerden tasarım otellere geniş yelpaze. Işık avı turlarına en kolay üs.",
+          "tags": [
+            "Tur kalkışları",
+            "Restoran seçeneği",
+            "Bütçe dostu"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rovaniemi+city+centre"
+        },
+        {
+          "name": "Noel Baba Köyü çevresi",
+          "badge": "Masal üssü",
+          "badge_type": "hot",
+          "description": "İglu oteller ve kabinler köyün dibinde: çocuklu aile için rüya, kutup dairesinde uyanmak istene birebir. Şehre 8 km — akşam yemeği planını önceden yap.",
+          "tags": [
+            "Cam iglular",
+            "Çocuk dostu",
+            "Kutup dairesi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Claus+Village+Rovaniemi"
+        },
+        {
+          "name": "Ounasvaara tepesi",
+          "badge": "En manzaralı",
+          "badge_type": "local",
+          "description": "Nehrin karşısındaki orman tepesi: kayak pistleri, yürüyüş rotaları ve şehir ışıklarından uzak gökyüzü. Merkez köprüyle 20 dakika — doğa ile şehir arasında denge.",
+          "tags": [
+            "Kayak pistleri",
+            "Karanlık gökyüzü",
+            "Orman içinde"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ounasvaara+Rovaniemi"
+        },
+        {
+          "name": "Nehir kıyısı — Kemijoki",
+          "badge": "En huzurlu",
+          "badge_type": "value",
+          "description": "Kemijoki kıyısındaki oteller ve apartlar: yazın gece yarısı güneşi nehre vurur, kışın donmuş nehir yürüyüş pistine döner. Merkeze yakın ama sakin.",
+          "tags": [
+            "Nehir manzarası",
+            "Sakin sokaklar",
+            "Merkeze yürüme"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kemijoki+Rovaniemi"
+        },
+        {
+          "name": "Orman kabinleri ve iglu resortları",
+          "badge": "Işık avcısına",
+          "badge_type": "value",
+          "description": "Şehir dışındaki cam tavanlı iglular ve şömineli kabinler: yatağından kuzey ışığı izlemek pahalı ama unutulmaz. En az bir gece için düşün, kalanını şehirde geçir.",
+          "tags": [
+            "Cam tavan",
+            "Işık alarmı servisi",
+            "Bir gecelik lüks"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arctic+igloo+hotel+Rovaniemi"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Rovaniemi'de iki ayrı şehir vardır: karlı masal şehri ve batmayan güneşin yeşil şehri. İkisi de gerçek, ikisi de başka.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Parlak Kar",
+          "months": "Mar – May",
+          "subtitle": "İlkbahar · Güneşli kar, uzayan günler",
+          "description": "Mart, kışın en iyi sırrıdır: kar hâlâ metrelerce, ama güneş yüzünü gösterir ve gündüz eksiler yumuşar. Işık avı + kar aktiviteleri + güneş kombinasyonunun zirve ayı. Mayısta kar erir, nehir uyanır.",
+          "callout": {
+            "type": "tip",
+            "label": "Mart ipucu",
+            "text": "Mart ekinoksu çevresi ışık aktivitesinin istatistiksel zirvesidir: hem aurora şansı yüksek hem gündüz kar üstünde güneşlenirsin. Kışın konforlu hali budur."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Gece Yarısı Güneşi",
+          "months": "Haz – Ağu",
+          "subtitle": "Yaz · Güneş 6 Haziran-7 Temmuz hiç batmaz",
+          "description": "Bir ay boyunca güneş ufkun altına inmez: gece ikide nehirde sup yapılır, orman yaban mersini kokar, sivrisinekler de partiye katılır. Fiyatlar düşük, doğa uçsuz — bambaşka bir Lapland.",
+          "callout": {
+            "type": "tip",
+            "label": "Temmuz ipucu",
+            "text": "Gece yarısı Ounasvaara tepesine yürü: saat 00.00'da güneş ufka değip geri yükselir. Fotoğraf makinesinden önce gözlerinle bak — bu ışık hiçbir filtrede yok."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Ruska ve İlk Işıklar",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Altın orman, ilk aurora",
+          "description": "Eylülde orman 'ruska' renklerine bürünür: altın, bakır, kızıl. Geceler kararır ve ışık sezonu açılır — kar turizmi başlamadan fiyatlar dosttur. Kasım karanlık ve kar beklemenin ayıdır.",
+          "callout": {
+            "type": "tip",
+            "label": "Eylül ipucu",
+            "text": "Eylül, gizli şampiyon: aurora başlar, göller henüz donmamıştır ve ışıklar suya yansır. Kalabalık yok, çift gösterim var."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Masal Sezonu",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Kaamos alacakaranlığı, Noel zirvesi",
+          "description": "Aralık Noel Baba'nın ana sahnesidir: köy ışıl ışıl, fiyatlar ve kalabalık zirvede. Ocak-şubat ise gerçek kış: eksi 20'ler, lapa lapa kar, husky kızakları ve uzun aurora geceleri.",
+          "callout": {
+            "type": "warning",
+            "label": "Aralık notu",
+            "text": "Noel haftası her şeyi aylar önceden tut: otel, tur, hatta restoran. Aynı masalı yarı fiyata istiyorsan ocak ortasını seç — kar aynı kar, Noel Baba yerinde."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Lapland mutfağı ormandan ve nehirden gelir: ren geyiği, somon, yaban mersini ve ateşte kahve. Sade, dürüst ve soğuğa göre tasarlanmış.",
+      "local_word": {
+        "word": "Poronkäristys",
+        "pronunciation": "poronkäristüs",
+        "definition": "Lapland'ın milli yemeği: ince kıyılmış ren geyiği eti tereyağında sote edilir, patates püresi ve kızılcık reçeliyle servis edilir. Et-tatlı dengesine şaşır, sonra tabağı sıyır."
+      },
+      "items": [
+        {
+          "icon": "🦌",
+          "name": "Poronkäristys — ren geyiği sote",
+          "description": "Püre, turşu ve kızılcıkla gelen klasik: ren geyiği yağsız, yumuşak ve sürdürülebilir bir ettir — Sami çobanlığının binlerce yıllık mirası. İlk Lapland akşamının zorunlu tabağı.",
+          "tag": "Klasik lokantada · kızılcıklı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Nili+Rovaniemi"
+        },
+        {
+          "icon": "🐟",
+          "name": "Lohikeitto — somon çorbası",
+          "description": "Kremalı somon çorbası, dereotu ve çavdar ekmeğiyle: eksi 20'den içeri girince dünyanın en iyi yemeği budur. Nehir kenarı lokantalarında günlük kaynar.",
+          "tag": "Öğle klasiği · çavdar ekmekli",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rovaniemi+salmon+soup+restaurant"
+        },
+        {
+          "icon": "🧀",
+          "name": "Leipäjuusto — gıcırdayan peynir",
+          "description": "'Ekmek peyniri': fırınlanmış taze peynir dilimleri sıcak servis edilir, üstüne hıtır hıtır bal gibi turuncu lakka (bataklık böğürtleni) reçeli. Dişinde gıcırdaması kalite işaretidir.",
+          "tag": "Tatlı olarak · lakka reçelli",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cafe+Koti+Rovaniemi"
+        },
+        {
+          "icon": "🫐",
+          "name": "Orman meyveleri ve pazar tezgahı",
+          "description": "Yaz sonu pazarlarda mavi yaban mersini, kızılcık ve altın sarısı lakka yığılır: Finlandiya'da 'herkesin hakkı' (jokamiehenoikeus) yasasıyla ormandan toplamak serbesttir — eline sepet al.",
+          "tag": "Yaz sonu · pazardan ya da ormandan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rovaniemen+kauppatori"
+        },
+        {
+          "icon": "🔥",
+          "name": "Ateş başı nokipannu kahvesi",
+          "description": "İs kokulu 'nokipannu' kahvesi açık ateşte demlenir, yanında ateşte kızarmış makkara (sosis): her kar turunun ortasındaki kota (Lapon çadırı) molası bu ritüel içindir.",
+          "tag": "Tur molasında · kota çadırında",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Claus+Village+Rovaniemi"
+        },
+        {
+          "icon": "🍺",
+          "name": "Lapin Kulta ve lakka likörü",
+          "description": "Kuzeyin birası Lapin Kulta ('Lapland altını') sade ve soğuktur; yemek sonu lakka likörü ise bataklık böğürtleninin tatlı vedasıdır. İkisi arasında bir de tar (çam katranı) aromalı cesaret testi vardır.",
+          "tag": "Akşam kapanışı · lakka ile",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lapin+Kulta+Rovaniemi"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bütçe tüyosu",
+        "text": "Finlandiya'da öğle menüsü (lounas) kültürü cömerttir: hafta içi 11-14 arası aynı restoranlar akşam fiyatının yarısına çorba + ana yemek + kahve verir. Büyük öğünü öğlene al."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Noel Baba'yı herkes bulur; bu altısı Rovaniemi'nin sessiz tarafı.",
+      "items": [
+        {
+          "rarity": "Kutbun cam gözü",
+          "name": "Arktikum",
+          "description": "Nehre uzanan cam tünelli müze, Arktik yaşamın ve Lapland tarihinin en iyi anlatıldığı yer: savaşta yanan şehir, Sami kültürü, aurora bilimi. Cam koridorun ucunda nehre bakarak otur — kışın müzenin içinden ışık izlenmiş gecesi çoktur.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arktikum+Rovaniemi"
+        },
+        {
+          "rarity": "Şehrin ateş kulesi",
+          "name": "Jätkänkynttilä köprüsü",
+          "description": "'Oduncunun Mumu' köprüsü Kemijoki'nin üstünde alev heykeliyle yükselir: gün batımında nehir kıyısından silüeti şehrin imzasıdır. Kışın donmuş nehrin üstünde yürüyüş pisti köprünün altından geçer.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jätkänkynttilä+bridge+Rovaniemi"
+        },
+        {
+          "rarity": "Ren boynuzu şehir planı",
+          "name": "Aalto merkezi ve Lappia Evi",
+          "description": "Alvar Aalto savaş sonrası şehri ren geyiği boynuzu planıyla çizdi; kütüphanesi, tiyatrosu (Lappia) ve belediye binası hâlâ ayakta. Kütüphanenin ışık kuyulu okuma salonu, eksi 25'te şehrin en sıcak sığınağıdır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lappia+House+Rovaniemi"
+        },
+        {
+          "rarity": "Şehir içinde vahşi orman",
+          "name": "Ounasvaara zirve rotası",
+          "description": "Köprüyü geç, yarım saatte zirvedesin: yazın bakır rengi patikalar, kışın kar ayakkabısı rotaları ve şehir ışıklarına sırtını dönen aurora noktaları. Zirvedeki gözlem kulesi gündoğumu için kuruludur.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ounasvaara+observation+tower+Rovaniemi"
+        },
+        {
+          "rarity": "Nehir kıyısında sanat",
+          "name": "Korundi Kültür Evi",
+          "description": "Eski posta kamyonu garajından dönüşen çağdaş sanat müzesi: kuzey sanatının en iyi koleksiyonlarından biri ve Lapland Oda Orkestrası'nın evi. Kar fırtınası günü planı olarak birebir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Korundi+House+of+Culture+Rovaniemi"
+        },
+        {
+          "rarity": "Buz deliğinde ilk adım",
+          "name": "Avanto — buz yüzme kulüpleri",
+          "description": "Yerel yüzme kulüpleri kışın nehirde buz deliği açar: sauna + avanto kombinasyonunu turist paketine değil, yerlilerin yanında gerçek haline dene. Utangaçlık kapıda kalır, çığlık serbesttir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rovaniemi+ice+swimming"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Işık avı tüyosu",
+        "text": "Şehirden çıkmadan ışık görmek istersen kural basit: sırtını şehir ışıklarına dön. Nehrin donmuş yüzeyi, Ounasvaara eteği ve köprünün karşı kıyısı — üçü de yürüme mesafesinde karanlık noktalar."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Rovaniemi masal satar; masalın içinde fatura da vardır. Şu dördünü bilerek gel.",
+      "items": [
+        {
+          "icon": "📸",
+          "name": "Noel Baba fotoğraf paketi şoku",
+          "description": "Noel Baba'yla görüşme ücretsizdir ama kendi telefonunla çekim yasaktır; çıkışta fotoğraf paketleri sürpriz fiyatlarla gelir.",
+          "instead": "Önce görüş, paketi sonra seç: tek dijital kare bile anıyı taşır. Videolu-albümlü büyük paketler yerine küçüğünü al, bütçeyi husky turuna sakla."
+        },
+        {
+          "icon": "🛷",
+          "name": "10 dakikalık 'safari' turları",
+          "description": "Bazı husky ve ren geyiği 'safarileri' otelden alma-bırakma dahil yarım gün sürer ama kızakta geçen süre 10 dakikadır; broşür bunu küçük puntoyla söyler.",
+          "instead": "Rezervasyondan önce 'kızakta kaç dakika/kaç km' diye açıkça sor. İyi çiftlikler 5-10 km'lik gerçek sürüşler ve çiftlik turu verir — farkı fiyat değil, soru sormak yaratır."
+        },
+        {
+          "icon": "🌌",
+          "name": "'Garantili aurora' pazarlaması",
+          "description": "Hiçbir tur kuzey ışığını garanti edemez; 'garanti' kelimesi genelde 'görülmezse ikinci tur ücretsiz' demektir — o da bulutluysa aynı sonuç.",
+          "instead": "Bulut haritası okuyan, rota değiştiren küçük grup turları seç ve 3-4 geceye yay. Tek gecelik ziyarete aurora sözü veren pakete gülümse, geç."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Köyde kalıp her öğünü orada yemek",
+          "description": "Noel Baba Köyü'nün restoranları esir müşteriye göre fiyatlanır: sıradan somon çorbası şehirdekinin iki katıdır.",
+          "instead": "Öğünleri şehir merkezinde ya da lounas menülerinde planla; köye karnın tok git. İglu otelde kalıyorsan yarım pansiyon fiyatını önceden hesapla."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Lapland'da her aktivitenin iki versiyonu vardır: otobüsle gelen kalabalık için olanı ve yerlinin yaptığı hali. Fiyat sormaktan ve 'kaç kişilik grup?' demekten çekinme — iki soru, tatilin kalitesini ikiye katlar."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz. (Kış kurgusu — yazın ışık avı yerine gece yarısı güneşi koy.)",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Kutup dairesinde yoğunlaştırılmış masal",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Kahvaltı + katmanlan",
+              "description": "Merkezde sağlam kahvaltı, üstüne üç katman giysi: bugün çoğunlukla dışarıdasın. Termosunu doldurmayı unutma."
+            },
+            {
+              "time": "10:00",
+              "title": "Noel Baba Köyü",
+              "description": "8 numaralı otobüsle köye: kutup dairesi çizgisinin üstünde gerçek adımını at, sertifikanı al, Noel Baba'yla sohbet et ve kartpostalını kutup damgasıyla postala."
+            },
+            {
+              "time": "13:00",
+              "title": "Şehre dönüş + lounas",
+              "description": "Merkezde öğle menüsü: somon çorbası + çavdar ekmeği. Sonra Lordi Meydanı çevresinde kısa tur ve hediyelik bakışı."
+            },
+            {
+              "time": "15:00",
+              "title": "Arktikum'un cam tüneli",
+              "description": "Arktik müzesinde Lapland tarihine ve aurora bilimine dal: dışarısı kararırken (kışın 15.00 sonrası) cam koridor nehir üstünde mavi saate döner."
+            },
+            {
+              "time": "17:30",
+              "title": "Sauna + avanto cesareti",
+              "description": "Otel ya da halk saunasında ısın; cesaretin varsa buz deliğine bir dalış. Akşam yemeğinde poronkäristys — günü Lapland usulü mühürle."
+            },
+            {
+              "time": "21:30",
+              "title": "Işık avı",
+              "description": "Gökyüzü açıksa: turla ya da donmuş nehir kıyısında sırtını şehre dönüp bekle. Yeşil perde açılırsa fotoğrafı bırak, önce çıplak gözle izle."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Masalı, ormanı ve buzu sırayla yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Rovaniemi",
+              "description": "Yukarıdaki 1 günlük akış: köy, Arktikum, sauna, ilk ışık avı."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Husky ve ren geyiği günü",
+              "description": "Sabah husky çiftliğinde 5-10 km'lik gerçek kızak sürüşü; öğleden sonra ren geyiği çiftliğinde Sami hikayeleriyle çay; akşam kota çadırında ateş başı yemek ve ikinci ışık nöbeti."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Ounasvaara ve veda",
+              "description": "Kar ayakkabısıyla Ounasvaara zirvesi ya da kayak; öğlen Korundi'de sanat molası; akşam leipäjuusto + lakka likörüyle veda sofrası. Gökyüzü açıksa son bir av — üçüncü gece genelde uğurludur."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Fince zor bir dildir ama kimse senden konuşmanı beklemez; bu beşi kapıları ve gülümsemeleri açar.",
+      "items": [
+        {
+          "word": "Hei",
+          "pronunciation": "hey",
+          "meaning": "Merhaba — iki kez söylersen (hei hei) hoşça kal olur"
+        },
+        {
+          "word": "Kiitos",
+          "pronunciation": "kiitos",
+          "meaning": "Teşekkürler — Finlandiya'da en çok işine yarayacak kelime"
+        },
+        {
+          "word": "Kippis!",
+          "pronunciation": "kippis",
+          "meaning": "Şerefe! — kadehler kalkarken göz teması Fin usulü kısa tutulur"
+        },
+        {
+          "word": "Revontulet",
+          "pronunciation": "revontulet",
+          "meaning": "Kuzey ışıkları — kelime anlamı 'tilki ateşleri': masala göre kutup tilkisinin kuyruğu karları savurunca gökyüzü tutuşur"
+        },
+        {
+          "word": "Sauna",
+          "pronunciation": "saona",
+          "meaning": "Fince'den dünyaya geçen tek kelime — burada icat edildi, doğru telaffuz 'saona'dır"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Rovaniemi Checklist",
+      "completion_message": "Kiitos! Kutup dairesini hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Kutup dairesi çizgisini adımla",
+          "sub": "Noel Baba Köyü'nde — sertifikan hazır"
+        },
+        {
+          "label": "Noel Baba'yla sohbet et",
+          "sub": "Görüşme ücretsiz — her yaş için geçerli"
+        },
+        {
+          "label": "Kuzey ışığını çıplak gözle gör",
+          "sub": "Sırtını şehir ışıklarına dön, sabret"
+        },
+        {
+          "label": "Husky kızağıyla ormanda süzül",
+          "sub": "Gerçek sürüş: 5+ km soranlara"
+        },
+        {
+          "label": "Ren geyiğiyle tanış",
+          "sub": "Çiftlikte, Sami hikayeleri eşliğinde"
+        },
+        {
+          "label": "Sauna + avanto döngüsünü tamamla",
+          "sub": "Isın, buz deliğine gir, tekrarla"
+        },
+        {
+          "label": "Poronkäristys ye",
+          "sub": "Püre + kızılcık reçeli — klasik tabak"
+        },
+        {
+          "label": "Leipäjuusto'nun gıcırtısını duy",
+          "sub": "Sıcak peynir + lakka reçeli"
+        },
+        {
+          "label": "Arktikum'un cam tünelinde dur",
+          "sub": "Nehre bakan kutup penceresi"
+        },
+        {
+          "label": "Kartpostalını kutup damgasıyla yolla",
+          "sub": "Noel Baba'nın ana postanesinden"
+        }
+      ]
+    }
+  }
+}

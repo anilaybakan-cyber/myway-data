@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Paris",
+    "country": "France",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#8B1538",
+    "color_light": "#F5E8EC",
+    "tagline": "The city everyone thinks they know — and almost no one does",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Museum queues are optional",
+    "Eat where there's no English menu",
+    "Walk further than you planned"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Paris",
+      "intro": "Paris is the most visited city on earth, which means it has spent decades learning to perform for tourists. The Paris most visitors see — the selfie spots, the overpriced cafés near the monuments, the Eiffel Tower queues — is a city built for consumption, not for living. The real Paris runs parallel to it: in the neighbourhood bakeries, the covered passages from 1820, the parks where locals play pétanque (a French bowling game) on Wednesday afternoons, the wine bars with no sign and no English menu. This city rewards the curious and ignores the passive. The monuments are genuinely extraordinary — the Louvre, Notre-Dame, Versailles — but they are the beginning of Paris, not the end of it. The question is not whether to see the Eiffel Tower. The question is what you do after.",
+      "local_word": {
+        "word": "Arrondissement",
+        "pronunciation": "ah-ron-dees-MOHN",
+        "definition": "Paris is divided into 20 arrondissements — numbered 1 to 20 in a clockwise spiral from the city centre. Each has its own character, its own markets, its own pace. The 1st is the historic core; the 11th is where Parisians go out; the 18th is Montmartre; the 20th is Belleville. Knowing which arrondissement you're heading to tells you more about your evening than any restaurant review."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Say bonjour — every single time",
+          "description": "In Paris, entering a shop, café, or bakery without saying bonjour is considered rude. Not aggressive, not tourist-bashing — just genuinely impolite. Say bonjour when you enter, merci and au revoir when you leave. This single habit will change how every interaction feels. Parisians are not cold; they are formal with strangers. The formality is the door."
+        },
+        {
+          "number": 2,
+          "title": "The métro is the city's bloodstream",
+          "description": "Paris has 16 metro lines, 302 stations, and covers almost every corner of the city. The Navigo Easy card — Paris's equivalent of London's Oyster Card — is the most practical option for short stays: buy it at any station, load t+ tickets onto it, and tap the reader at every metro, RER, bus, or tram boarding. Lines 1 and 14 run driverless and operate 24 hours at weekends. The metro runs until around 1am on weekdays and 2am on weekends."
+        },
+        {
+          "number": 3,
+          "title": "Lunch is the meal — not dinner",
+          "description": "The best-value eating in Paris is the weekday lunch. Most bistros and brasseries offer a formule — a set menu of two or three courses at a fraction of the evening price. The same kitchen, the same food, half the cost. Locals eat lunch between 12:30 and 14:00. Arrive before 12:30 or after 13:30 to avoid waiting. Dinner reservations at good restaurants are essential, often weeks ahead."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Airports",
+          "value": "CDG · Orly · Beauvais",
+          "sub": "CDG: RER B 35 min · Orly: Orlyval+RER 35 min"
+        },
+        {
+          "icon": "🚇",
+          "label": "Transport",
+          "value": "Métro + RER + bus",
+          "sub": "16 lines · 302 stations · runs until 1–2am"
+        },
+        {
+          "icon": "🗺️",
+          "label": "Arrondissements",
+          "value": "20 districts",
+          "sub": "Spiral from city centre · each with its own character"
+        },
+        {
+          "icon": "🥐",
+          "label": "Breakfast rule",
+          "value": "Café crème + croissant",
+          "sub": "At the bar · standing · before 10am"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The museum pass worth knowing",
+        "text": "The Paris Museum Pass covers 50+ museums and monuments with no queuing at the ticket desk — including the Louvre, Musée d'Orsay, Sainte-Chapelle, Versailles, and the Pompidou. It pays for itself in two or three visits and saves hours of queuing. Buy it online before you arrive. Two-day, four-day, and six-day versions available."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "Paris is built for walking and the metro handles everything else. The city is more compact than it appears — many famous landmarks are closer together than visitors expect.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "CDG Airport → City Centre",
+          "description": "RER B train connects CDG directly to the city centre in about 35 minutes, stopping at Gare du Nord, Châtelet-Les Halles, Saint-Michel, and Luxembourg. Runs frequently and is by far the most reliable option. Taxis are expensive and traffic-dependent. The Roissybus coach is slower but drops at Opéra. Always take the RER B."
+        },
+        {
+          "icon": "🚇",
+          "title": "Métro — the default",
+          "description": "16 lines cover the entire city. The Navigo Easy card is Paris's equivalent of London's Oyster Card — buy it at any station, load t+ tickets onto it, and tap the reader at metro and RER gates or on boarding buses and trams. Lines 1 and 14 are driverless and run 24 hours at weekends. On busy lines, move toward the doors before your stop; they close fast."
+        },
+        {
+          "icon": "🚌",
+          "title": "Buses — the scenic option",
+          "description": "Paris buses use the same t+ ticket as the metro and offer something the metro cannot: the city above ground. Line 69 goes from the Eiffel Tower to Père Lachaise through the heart of the city. Line 29 links Opéra, the Marais, and Bastille. Any bus along the Seine is a free tour of central Paris. Worth taking at least once — especially at night, when the monuments are lit."
+        },
+        {
+          "icon": "🚲",
+          "title": "Vélib' — city bikes",
+          "description": "Paris's public bike-share scheme has thousands of docking stations across the city. A short-term subscription covers 30 or 45 minutes per trip (classic or electric). The Seine riverside path, Canal Saint-Martin, and the Bois de Boulogne are all well-served by bike. Central Paris is largely flat. The best urban cycling in France."
+        },
+        {
+          "icon": "🚶",
+          "title": "On foot — the best way",
+          "description": "Paris rewards walking above almost any other mode of transport. The distance from the Louvre to Notre-Dame is 20 minutes on foot. Montmartre to the Opéra is 30 minutes. The Seine takes you from the Eiffel Tower to the Île de la Cité in 45 minutes. Walking connects the things between the things — the passages, the courtyards, the bakeries you'd miss underground."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Versailles by RER",
+        "text": "Versailles is 40 minutes from central Paris on the RER C — no car, no tour bus needed. Take the train to Versailles-Château-Rive Gauche, walk 10 minutes to the palace. Go on a Tuesday or Wednesday when French school groups are less likely to be there. Arrive at 9am when the gates open."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "Paris's 20 arrondissements are dramatically different from each other. Staying in the right one shapes the entire trip.",
+      "local_word": {
+        "word": "Rive Gauche / Rive Droite",
+        "pronunciation": "reev GOHSH / reev DWAT",
+        "definition": "Left Bank and Right Bank — the Seine divides Paris in two. The Left Bank (south) is Saint-Germain, the Latin Quarter, Montparnasse — intellectual, literary, café-society Paris. The Right Bank (north) is the Louvre, the Marais, Montmartre, Bastille — commercial, fashionable, diverse Paris. Most visitors stay Right Bank; the Left Bank is quieter, more residential, and worth considering."
+      },
+      "items": [
+        {
+          "name": "Le Marais (3rd & 4th arr.)",
+          "badge": "Most vibrant",
+          "badge_type": "hot",
+          "description": "The Marais is Paris at its most energetic and alive — medieval streets, the Place des Vosges, the Jewish quarter, an openly LGBTQ+ neighbourhood, the best falafel in the city, and galleries everywhere. Central, walkable, and genuinely busy at all hours. Expensive but worth it for a first visit.",
+          "tags": [
+            "Most central",
+            "Best food streets",
+            "Always lively"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Marais+Paris"
+        },
+        {
+          "name": "Saint-Germain-des-Prés (6th arr.)",
+          "badge": "Most elegant",
+          "badge_type": "hot",
+          "description": "The Left Bank's most famous neighbourhood — Café de Flore, Les Deux Magots, Luxembourg Gardens around the corner. Expensive, beautiful, and more calm than the Marais. Where Sartre and Beauvoir wrote; where Parisians who can afford it live. Excellent base for the Musée d'Orsay and the Latin Quarter.",
+          "tags": [
+            "Left Bank atmosphere",
+            "Luxembourg Gardens",
+            "Literary history"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Saint-Germain-des-Pres+Paris"
+        },
+        {
+          "name": "Bastille & Oberkampf (11th arr.)",
+          "badge": "Most local",
+          "badge_type": "local",
+          "description": "Where Parisians actually go out. The 11th has the best natural wine bars, the best bistros, the best late-night energy in the city. Not a tourist neighbourhood — it's a living one. Slightly further from the monuments but well-connected by metro. The best arrondissement in Paris for eating and drinking.",
+          "tags": [
+            "Best restaurants",
+            "Best bars",
+            "Where locals go out"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bastille+Paris"
+        },
+        {
+          "name": "Montmartre (18th arr.)",
+          "badge": "Most atmospheric",
+          "badge_type": "local",
+          "description": "The village on the hill — cobbled streets, a vineyard, Sacré-Coeur, artists' studios, and views over the whole city. Touristy around the Sacré-Coeur itself, but a few streets away it becomes genuinely local. The best breakfast neighbourhood in Paris. Worth the hill.",
+          "tags": [
+            "Village feel",
+            "Best views",
+            "Cobbled streets"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Montmartre+Paris"
+        },
+        {
+          "name": "Canal Saint-Martin (10th arr.)",
+          "badge": "Most creative",
+          "badge_type": "local",
+          "description": "The canal neighbourhood — iron footbridges, plane trees, independent boutiques, the best coffee in Paris, natural wine bars, and a genuinely young local crowd. Not a tourist area at all. The neighbourhood Parisians under 35 talk about most. Excellent metro connections.",
+          "tags": [
+            "Young and creative",
+            "Best coffee",
+            "Canal walks"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Canal+Saint-Martin+Paris"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Best Time to Visit",
+      "intro": "Paris works in every season, but each is a different city. The question is which version you want.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "The Classic Season",
+          "months": "Mar – May",
+          "subtitle": "Spring · Paris at Its Most Beautiful",
+          "description": "April and May are when Paris earns its reputation. Cherry blossoms in the Tuileries, chestnut trees along every boulevard, the Luxembourg Gardens filling up at midday, terrace culture returning after winter. The light is extraordinary — golden, long, and particular to this city. Crowds haven't peaked yet, the weather is mild, and the city is genuinely at its most beautiful. The best Paris is a spring Paris.",
+          "callout": {
+            "type": "tip",
+            "label": "Roland-Garros (late May)",
+            "text": "The French Open at Roland-Garros runs late May into June. Ground passes — which give access to the outer courts with no assigned seat — are sold daily at the gate and offer a chance to watch world-class tennis at close range for a fraction of the ticket price. Worth planning a morning around."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "Busy but Brilliant",
+          "months": "Jun – Aug",
+          "subtitle": "Summer · Crowded and Festive",
+          "description": "June is the best summer month — long evenings, Paris Plages not yet started, crowds not yet at their peak. July brings Bastille Day (14 July) with the military parade on the Champs-Élysées and fireworks over the Eiffel Tower — one of the great free spectacles in Europe. August is when Parisians leave and tourists arrive; the city empties of locals and fills with visitors. Some restaurants and shops close for August.",
+          "callout": {
+            "type": "tip",
+            "label": "14 July — Bastille Day",
+            "text": "The fireworks over the Eiffel Tower on Bastille Day are among the most spectacular in the world. The best viewing spots fill hours before — Trocadéro, Champ de Mars, and the banks of the Seine. The military parade on the Champs-Élysées begins at 10am and is free to watch from the sides."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "The Local's Season",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · When Paris Belongs to Parisians",
+          "description": "September is when Paris wakes up. The cultural season begins — theatre, opera, art openings, fashion week. The summer tourists have left, the locals have returned from August, and the city finds its rhythm again. October brings the most beautiful light of the year: amber, low, and entirely Parisian. Nuit Blanche (first Saturday of October) turns the entire city into an open-air art installation for one night — free, extraordinary, and very local.",
+          "callout": {
+            "type": "tip",
+            "label": "Nuit Blanche (October)",
+            "text": "On the first Saturday of October, Paris's Nuit Blanche keeps museums, galleries, and public spaces open all night with free art installations across the city. No tickets, no queues — just the city transformed. One of the best nights Paris offers, and almost unknown outside France."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Quiet and Underrated",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · The Quietest and Most Parisian",
+          "description": "December brings Christmas markets along the Champs-Élysées and at La Défense, skating rinks at the Hôtel de Ville, and the city lit from end to end. January and February are the quietest months — museums nearly empty, restaurants bookable without weeks of planning, prices at their lowest. The grey Paris light of winter has its own beauty. This is when the city belongs entirely to those who live in it.",
+          "callout": {
+            "type": "tip",
+            "label": "January — the best museum month",
+            "text": "In January, Paris's museums are at their emptiest. The Louvre, Musée d'Orsay, and Centre Pompidou can be visited without the summer crowds — walk straight to the works you came to see. Many museums offer reduced entry on the first Sunday of each month. The best time to see Paris's collections."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "June 21",
+          "text": "Fête de la Musique: the whole city becomes a one-night stage; free concerts on every corner, music till dawn."
+        },
+        {
+          "month": "July 14",
+          "text": "Bastille Day: the parade in the morning, and at night France's biggest fireworks show over the Eiffel."
+        },
+        {
+          "month": "July–August",
+          "text": "Paris Plages: the Seine's banks turn into beaches; deckchairs, ice cream and riverside summer."
+        },
+        {
+          "month": "Early October",
+          "text": "Nuit Blanche: an all-night art night — museums, churches and streets open and free until morning."
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "French cuisine is the most influential culinary tradition in the world, and Paris is its capital. But the Paris worth eating in is not the one with English menus outside and tourist photos on the walls. It's the neighbourhood bistro on a Tuesday, the boulangerie at 8am, the wine bar with three tables and a handwritten list.",
+      "local_word": {
+        "word": "Bistrot",
+        "pronunciation": "bees-TROH",
+        "definition": "A small, informal restaurant serving simple French food — steak frites, duck confit, onion soup, crème brûlée. The backbone of Parisian dining. A good bistrot has a short menu that changes daily, uses seasonal ingredients, and treats regulars differently from strangers. The best ones are in the 11th and 10th arrondissements. If there's a laminated menu with photos, walk on."
+      },
+      "items": [
+        {
+          "icon": "🥐",
+          "name": "Croissant — quality varies by bakery",
+          "description": "A great croissant is laminated: layers of butter-enriched dough visible in the cross-section, shatteringly crisp on the outside, yielding within. A mediocre croissant is soft, uniform, and forgettable. Paris has both. The difference is the baker. Maison Landemaine, Du Pain et des Idées, and Sébastien Gaudard are among the best. Buy from a boulangerie with a queue — queues don't lie.",
+          "tag": "Before 10am · standing at the counter · with a café crème",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Du+Pain+et+des+Idées+Paris"
+        },
+        {
+          "icon": "🥩",
+          "name": "Steak frites — the Parisian standard",
+          "description": "The measure of a bistrot. A proper steak frites uses onglet (hanger steak) or entrecôte, served with hand-cut fries and a béarnaise or shallot sauce. Always ordered à point (medium) or saignant (rare) — bien cuit (well done) is considered a waste of good beef. Le Relais de l'Entrecôte in Saint-Germain serves nothing else and has a permanent queue. Worth every minute of the wait.",
+          "tag": "Saignant or à point · with béarnaise · with a carafe of Bordeaux",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Relais+de+l%27Entrecôte+Paris"
+        },
+        {
+          "icon": "🧀",
+          "name": "Fromage — the ritual",
+          "description": "In a French restaurant, cheese comes before dessert, not instead of it. A cheese course is a platter of three to five cheeses served with bread — no crackers, no chutney. Ask the server what's best today. Comté, Époisses, Brie de Meaux, Roquefort, Camembert. The rule: let it come to room temperature. Cold cheese is an insult to the cheesemaker.",
+          "tag": "Before dessert · ask what's best · with the rest of the wine",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fromagerie+Laurent+Dubois+Paris"
+        },
+        {
+          "icon": "🥂",
+          "name": "Natural wine — Paris's obsession",
+          "description": "Paris leads the world in natural wine — low-intervention, minimal sulphites, often orange or pét-nat. The 11th arrondissement alone has more good natural wine bars than most cities have wine bars total. Le Servan, Septime Cave, Clown Bar, Le Verre Volé on Canal Saint-Martin. Order a glass and ask what the vigneron is doing with it. This is the most interesting wine scene in Europe.",
+          "tag": "Le Verre Volé · Septime Cave · Le Clown Bar",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Verre+Volé+Paris"
+        },
+        {
+          "icon": "☕",
+          "name": "Coffee — the correct way",
+          "description": "A café in Paris means an espresso. A café crème is espresso with steamed milk. A noisette is espresso with a dash of cream. Cappuccino is understood but slightly regarded with suspicion after 11am. Drink it at the bar — it's faster, cheaper, and more Parisian. The third-wave specialty coffee scene (Ten Belles, Café Lomi, Coutume) has transformed Paris in a decade. Both traditions coexist.",
+          "tag": "At the bar · café or café crème · before noon for anything with milk",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ten+Belles+Paris"
+        },
+        {
+          "icon": "🥖",
+          "name": "The baguette — daily ritual",
+          "description": "Parisians buy bread every day. A traditional baguette (baguette de tradition) has a crackling crust, open crumb, and slight tang from long fermentation. It goes stale by evening — this is correct. The best are from boulangeries that prove their dough slowly. Each arrondissement has its own; ask a neighbour. The city holds an annual competition for the best baguette in Paris — the winner supplies the Élysée Palace for a year.",
+          "tag": "Baguette de tradition · from a boulangerie with a queue · same day",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Boulangerie+Utopie+Paris"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Marché d'Aligre — the real market",
+        "text": "The Marché d'Aligre in the 12th arrondissement is the most local market in Paris — a covered hall plus an outdoor flea market running simultaneously, Tuesday to Sunday mornings. Cheaper than any other Paris market, crowded with actual Parisians, no English signage. Go on a Saturday morning, buy cheese and charcuterie, take it to the nearby Promenade Plantée. The most Parisian Saturday possible."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Gems",
+      "intro": "Paris hides its best things inside other things — chapels inside palaces, parks inside railways, gardens inside ministries. The most interesting Paris is always one door further in.",
+      "items": [
+        {
+          "rarity": "The most beautiful interior in Paris — and worth every cent of the ticket",
+          "name": "Sainte-Chapelle — Île de la Cité",
+          "description": "Ten minutes from Notre-Dame, hidden behind the walls of the Palais de Justice, Sainte-Chapelle is arguably the most extraordinary interior in Paris. Built in six years between 1242 and 1248 by Louis IX to house the Crown of Thorns, its upper chapel is almost entirely made of stained glass — 1,113 biblical scenes across 600 square metres. On a sunny day the light is something close to supernatural. Two-thirds of the glass is original 13th-century work. Ticketed entry; book in advance online. Go on a sunny morning when the light is on the glass.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sainte-Chapelle+Paris"
+        },
+        {
+          "rarity": "The world's first elevated park — New York copied it",
+          "name": "Coulée Verte René-Dumont — 12th arrondissement",
+          "description": "Built on top of a disused 19th-century railway viaduct, the Coulée Verte is an elevated garden walkway stretching 4.5km through the 12th arrondissement. It opened in 1993 — seventeen years before New York's High Line, which was directly inspired by it. Below the viaduct arches: galleries, design studios, and workshops. Above: wisteria, roses, bamboo, and a Paris no tourist visits. Free entry. Start at the Bastille end and walk east.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Coulée+Verte+René-Dumont+Paris"
+        },
+        {
+          "rarity": "A Roman amphitheatre — in the middle of Paris",
+          "name": "Arènes de Lutèce — 5th arrondissement",
+          "description": "In the Latin Quarter, tucked behind an ordinary apartment building on Rue Monge, a Gallo-Roman amphitheatre from the 1st century AD sits largely forgotten. It once held 15,000 spectators. Today it holds locals playing pétanque (a French bowling game) on weekday afternoons, children on the grass, and pigeons. No entrance fee, no ticket desk, no tour groups. One of the oldest surviving structures in Paris. Almost no one visits.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arènes+de+Lutèce+Paris"
+        },
+        {
+          "rarity": "The most beautiful covered passage in Paris",
+          "name": "Galerie Vivienne — 2nd arrondissement",
+          "description": "Paris has 20 surviving covered passages — glass-roofed shopping arcades from the 1820s and 1830s, predecessors of the modern shopping mall. Galerie Vivienne is the most beautiful: mosaic floors, Neoclassical reliefs, a wine merchant who has been there for decades, a tearoom, a bookshop specialising in old and rare editions. Free to enter. Walk slowly. This is what Paris looked like before Haussmann tore it apart.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Galerie+Vivienne+Paris"
+        },
+        {
+          "rarity": "A secret garden belonging to a ministry",
+          "name": "Palais Royal Gardens — 1st arrondissement",
+          "description": "Steps from the Louvre, the Palais Royal gardens are enclosed by colonnaded arcades on three sides — a quiet rectangle of gravel paths, fountains, and lime trees, surrounded by antique dealers, a restaurant, and the Daniel Buren striped columns in the courtyard. Despite being in the most visited square kilometre in the world, it remains largely peaceful. Cardinals Richelieu and Mazarin lived here. Victor Hugo used to walk here. Free entry. On a warm afternoon, so should you.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jardin+du+Palais+Royal+Paris"
+        },
+        {
+          "rarity": "An abandoned railway reclaimed by nature",
+          "name": "La Petite Ceinture — 15th/16th arrondissement",
+          "description": "The Petite Ceinture was a circular railway that encircled Paris from 1862 to 1934. Abandoned for nearly a century, it has been partially reclaimed by wildflowers, birch trees, foxes, and the occasional urban farmer. Several sections are accessible to the public — the 15th and 16th arrondissement sections are the most interesting. Free, open to the public. Walking the overgrown tracks is one of the strangest and most beautiful things Paris offers.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Petite+Ceinture+Paris"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Palais Garnier — free from outside, ticketed inside",
+        "text": "The Palais Garnier (Opéra Garnier) is one of the most extravagant buildings in the world — the model for the Phantom of the Opera, with a grand staircase, a Marc Chagall ceiling in the auditorium, and a hidden lake underneath. Visiting the interior requires a ticket and advance booking. Standing on Place de l'Opéra to take in the extraordinary façade, however, costs nothing — and the building is extraordinary even from outside."
+      }
+    },
+    "checklist": {
+      "title": "Paris Checklist",
+      "completion_message": "Voilà! You found the real Paris.",
+      "items": [
+        {
+          "label": "Say bonjour every time you enter somewhere",
+          "sub": "Shop, café, bakery. Every time. This changes everything."
+        },
+        {
+          "label": "Buy a croissant from a boulangerie with a queue",
+          "sub": "Before 10am. At the counter. Queues don't lie."
+        },
+        {
+          "label": "Go to Sainte-Chapelle on a sunny morning",
+          "sub": "Behind the Palais de Justice. Ticketed entry — book online in advance. Go when the sun is on the glass."
+        },
+        {
+          "label": "Walk the Coulée Verte from Bastille eastward",
+          "sub": "Elevated garden on a viaduct. Free. The High Line's forgotten inspiration."
+        },
+        {
+          "label": "Find the Arènes de Lutèce in the Latin Quarter",
+          "sub": "Roman amphitheatre. Behind Rue Monge. Locals playing pétanque. Free."
+        },
+        {
+          "label": "Walk through Galerie Vivienne",
+          "sub": "Most beautiful covered passage in Paris. Rue Vivienne entrance. Free to enter. Walk slowly."
+        },
+        {
+          "label": "Eat a weekday lunch formule at a neighbourhood bistrot",
+          "sub": "Two courses, carafe of wine. The best value in French food."
+        },
+        {
+          "label": "Sit in the Palais Royal gardens for an hour",
+          "sub": "Steps from the Louvre. Quiet, beautiful, free entry, almost tourist-free."
+        },
+        {
+          "label": "Go to Marché d'Aligre on a Saturday morning",
+          "sub": "12th arrondissement. Most local market in Paris. Go early."
+        },
+        {
+          "label": "Take bus 69 across central Paris",
+          "sub": "Eiffel Tower to Père Lachaise. A free tour of the city above ground."
+        },
+        {
+          "label": "Stand on Place de l'Opéra and look at the Palais Garnier façade",
+          "sub": "The interior requires a ticket. The façade is free and extraordinary. One of the great buildings in the world."
+        },
+        {
+          "label": "Find a natural wine bar in the 11th with no English menu",
+          "sub": "Ask for a recommendation. Drink what they suggest. This is the point."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Skip the Traps",
+      "intro": "Paris has mastered the tourist trap — but the escape routes are just as well known. Memorise these four.",
+      "items": [
+        {
+          "icon": "💍",
+          "name": "The 'gold ring' and petition games",
+          "description": "Crews 'finding' a gold ring at your feet, or collecting signatures then demanding money, are a classic of the big squares.",
+          "instead": "Don't stop, smile, say 'non merci' and walk. Bag in front, zip closed — the Paris métro rule."
+        },
+        {
+          "icon": "🥐",
+          "name": "Eating and drinking on the Champs-Élysées",
+          "description": "The world's most famous avenue is the city's weakest spot for food: mediocre kitchens at tourist prices.",
+          "instead": "Step one street off the avenue, or point yourself at the Marais or Canal Saint-Martin: same budget, real Paris."
+        },
+        {
+          "icon": "🎨",
+          "name": "The 'instant portrait' push on Place du Tertre",
+          "description": "On Montmartre's painters' square, portraits that start uninvited end in haggling; prices are never stated up front.",
+          "instead": "Ask the price first, or just watch. Montmartre's real beauty is two streets away, on the quiet staircases."
+        },
+        {
+          "icon": "🎟️",
+          "name": "Street sellers of 'skip-the-line' tickets",
+          "description": "Most 'skip-the-line' tickets sold around the Eiffel and the Louvre are fake or wildly marked up.",
+          "instead": "Buy only from official sites, dated and timed; if the Eiffel is full, watch from Trocadéro — if the Louvre is full, the Orsay is always calmer."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The golden rule",
+        "text": "One question tells you if a place is a tourist trap: does the waiter open in French? If yes, you're in the right place."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Routes",
+      "intro": "If you hate planning, follow these flows. The times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "A summary of Paris along the Seine",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Bakery breakfast",
+              "description": "A croissant and the tip of a baguette from a neighbourhood boulangerie; coffee at the counter. Start the day Parisian."
+            },
+            {
+              "time": "10:00",
+              "title": "Île de la Cité + Sainte-Chapelle",
+              "description": "Notre-Dame's square, then the stained-glass miracle of Sainte-Chapelle. Book ahead, enter in morning light."
+            },
+            {
+              "time": "12:30",
+              "title": "Lunch in the Marais",
+              "description": "Falafel or bistro? Both are Marais classics. Then the boutiques and Place des Vosges."
+            },
+            {
+              "time": "15:00",
+              "title": "Louvre or Orsay — choose one",
+              "description": "Cramming both into one day kills both. Choose, give it two hours, leave."
+            },
+            {
+              "time": "17:30",
+              "title": "Palais Royal + coffee break",
+              "description": "Breathe in the colonnaded garden, pass through Galerie Vivienne, take a window seat in a café."
+            },
+            {
+              "time": "19:30",
+              "title": "Seine sunset + evening",
+              "description": "A wine-and-cheese picnic on the quay, or steak frites at a bistro. Finale: catch the Eiffel sparkling on the hour."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Live the city as a guest, not a tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "The centre and the classics",
+              "description": "The 1-day flow above: the Cité, the Marais, one great museum, the Seine."
+            },
+            {
+              "time": "Day 2",
+              "title": "Left Bank + Eiffel",
+              "description": "Saint-Germain and the Luxembourg Gardens in the morning, Rue Mouffetard at noon, the Rodin Museum garden in the afternoon, the Eiffel at night — sunset from Trocadéro."
+            },
+            {
+              "time": "Day 3",
+              "title": "Montmartre and the canal",
+              "description": "Sacré-Cœur and the back streets early, a Canal Saint-Martin walk and a natural wine bar in the afternoon, a farewell dinner at a neighbourhood bistro."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "The 5-Word Survival Kit",
+      "intro": "In Paris it isn't fluency that matters, it's courtesy; these five are enough.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Hello — the password to everything; ask for nothing before saying it"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Thank you — on the way out too: merci, au revoir!"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "Please — un café, s'il vous plaît: your most-used sentence"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "Cheers! — eye contact while toasting is a French rule"
+        },
+        {
+          "word": "Au revoir",
+          "pronunciation": "oh ruh-VWAHR",
+          "meaning": "Goodbye — leaving a shop silently is rude; say this"
+        }
+      ]
+    }
+  }
+}

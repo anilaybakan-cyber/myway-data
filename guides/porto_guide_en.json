@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Porto",
+    "country": "Portugal",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#1F6E9E",
+    "color_light": "#E6F1F8",
+    "tagline": "Azulejo blue, the Douro's wine and a city of bridges"
+  },
+  "pills": [
+    "Home of port wine",
+    "Façades clad in azulejos",
+    "One of the world's most beautiful bookshops"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Porto",
+      "intro": "Porto stopped standing in Lisbon's shadow long ago: this granite city built on the Douro tells its own story with blue-tiled churches, façades of rusty beauty and the wine lodges lined up across the river. Ribeira's coloured houses lean on the water, the iron bridge carries the signature of Eiffel's student, and the gulls bring the smell of the ocean into town. Porto is not polished — and that is exactly why it is warm. Accept the hills: every climb's reward is a view, and every descent ends in a glass of wine.",
+      "local_word": {
+        "word": "Tripeiro",
+        "pronunciation": "tree-pay-roo",
+        "definition": "The nickname of Porto's people: 'tripe eater'. Legend says the city gave all its meat to the explorers setting sail and kept only the tripe for itself. A Porto local carries the name with pride — a badge of sacrifice and stubbornness."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Respect the hills, wear comfortable shoes",
+          "description": "Porto is a steep city: climbing from the river to the cathedral is a small ascent, and the cobbles slip in the rain. Wear trainers and treat the hills as excuses for breaks — every stop has either a café or a view."
+        },
+        {
+          "number": 2,
+          "title": "The port wine ritual is on the other bank",
+          "description": "The wine lodges are not in Porto but across the river in Vila Nova de Gaia. Walk over the bridge's upper deck, take a cellar tour and time the tasting for sunset — the river view comes with the glass."
+        },
+        {
+          "number": 3,
+          "title": "The francesinha is a full meal — don't underestimate it",
+          "description": "The city's legendary sandwich is a monument of meat, sausage, ham, cheese and beer sauce: chips beside it, an egg on top. Eat it at lunch and leave the evening empty — even the Tripeiros keep to one a day."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Airport",
+          "value": "Francisco Sá Carneiro (OPO)",
+          "sub": "Metro line E to centre ~30 min"
+        },
+        {
+          "icon": "🚋",
+          "label": "Getting around",
+          "value": "On foot + metro + tram",
+          "sub": "The Andante card works on the whole network"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Language",
+          "value": "Portuguese",
+          "sub": "English common in tourist areas"
+        },
+        {
+          "icon": "🍷",
+          "label": "Signature",
+          "value": "Port wine",
+          "sub": "The lodges are on the Gaia bank"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The Porto philosophy",
+        "text": "In Porto you plan around the river: upper town in the morning, riverbank at noon, the far shore in the evening. Whichever way you walk you end up at the Douro — the city was designed that way."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "The centre is walkable but hilly; the metro is modern, the historic tram is for pleasure, and the funiculars are friends of the knee.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Airport to the centre",
+          "description": "Metro line E (purple) reaches Trindade in half an hour: buy an Andante card at the machine, load it, use it across the network. Taxis run near a flat rate, but with the metro standing there, unnecessary."
+        },
+        {
+          "icon": "🚇",
+          "title": "The metro and the Andante card",
+          "description": "A clean six-line network: Casa da Música, Trindade and São Bento are the knots. The same card works on trams and buses — mind the zone system; most sightseeing stays within Z2."
+        },
+        {
+          "icon": "🚋",
+          "title": "Historic tram line 1",
+          "description": "The wooden tram runs along the river from Ribeira to Foz at the ocean's mouth: Porto's most beautiful half-hour ride. The nostalgia fare is higher than a normal ticket — the view pays it back."
+        },
+        {
+          "icon": "🚠",
+          "title": "Funiculars and the cable car",
+          "description": "The Guindais funicular lifts you from Ribeira to the upper town in a minute; the Gaia cable car links the lodge district to the bridge top. Both short, both scenic — protect your knees."
+        },
+        {
+          "icon": "🚶",
+          "title": "On foot — bridge and banks",
+          "description": "The upper deck of the Dom Luís I bridge belongs to pedestrians: the best walk between the two banks. Between the Ribeira quay, the Gaia bank and the miradouros, the city is solved on foot."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bridge tip",
+        "text": "Cross the Dom Luís I upper deck twice: towards Gaia by day (descending to the lodges), towards Porto in the evening (as the city lights come on). The same bridge, two entirely different photographs."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "In Porto, bank and altitude are everything: Ribeira at the river's edge, Baixa the city's heart, artistic Cedofeita, oceanside Foz.",
+      "local_word": {
+        "word": "Azulejo",
+        "pronunciation": "ah-zoo-leh-zhoo",
+        "definition": "Portugal's blue-and-white tile art: in Porto, churches, stations and ordinary apartment blocks are clad in them. The hall of São Bento station is a museum of 20,000 tiles — even on your own street you're sure to find a few façades."
+      },
+      "items": [
+        {
+          "name": "Ribeira",
+          "badge": "Most iconic",
+          "badge_type": "vibe",
+          "description": "The UNESCO quarter of coloured houses leaning on the river: bridge views, quay cafés, street musicians. Tourist crowds and steep lanes are part of the bargain — the classic for a first visit.",
+          "tags": [
+            "River views",
+            "UNESCO fabric",
+            "Tourist-heavy"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ribeira+Porto"
+        },
+        {
+          "name": "Baixa (around Aliados)",
+          "badge": "Most central",
+          "badge_type": "value",
+          "description": "The grand Aliados boulevard, São Bento station and the shopping streets: walk everywhere, hotels for every budget. The practical centre where the city's daily life crosses the tourist route.",
+          "tags": [
+            "Walk to everything",
+            "Hotel range",
+            "Near the station"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Avenida+dos+Aliados+Porto"
+        },
+        {
+          "name": "Cedofeita and the arts district",
+          "badge": "Most creative",
+          "badge_type": "hot",
+          "description": "Around the gallery street Miguel Bombarda: concept shops, brunch cafés, young Porto. Ten minutes from the centre, the soul of a neighbourhood — design guesthouse territory.",
+          "tags": [
+            "Gallery street",
+            "Brunch cafés",
+            "Young energy"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rua+Miguel+Bombarda+Porto"
+        },
+        {
+          "name": "The Vila Nova de Gaia bank",
+          "badge": "The view side",
+          "badge_type": "local",
+          "description": "The bank of the lodges and river terraces: your window faces the Porto skyline and the wine houses are next door. Calmer than Porto in the evenings — the view photographer's base.",
+          "tags": [
+            "Porto skyline",
+            "Lodges next door",
+            "Quiet evenings"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vila+Nova+de+Gaia+waterfront"
+        },
+        {
+          "name": "Foz do Douro",
+          "badge": "Oceanside",
+          "badge_type": "value",
+          "description": "The elegant seaside district where the river meets the ocean: a lighthouse, an esplanade walk, beach cafés. Half an hour to the centre by tram — for those after a city + ocean balance.",
+          "tags": [
+            "Ocean esplanade",
+            "Beach cafés",
+            "Tram to centre"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Foz+do+Douro+Porto"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "When to Go",
+      "intro": "In this Atlantic city the weather is moody and the light always beautiful: spring and September are gold, June is festival, winter green and calm.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "Open-Air Opening",
+          "months": "Apr – Jun",
+          "subtitle": "Spring · Terraces, river breeze",
+          "description": "The rains thin out, the quay cafés bring out their tables, and the Douro valley turns its brightest green. The crowds are not yet at summer levels — the ideal balance for walking and tasting.",
+          "callout": {
+            "type": "tip",
+            "label": "May tip",
+            "text": "In May take the day train into the Douro valley: the Régua line hugs the riverbank, and with the vines fresh green the carriage window is a painting. Close with a tasting in Gaia on the way back."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "São João Fever",
+          "months": "Jul – Aug",
+          "subtitle": "Summer · Festival, ocean cool, full quays",
+          "description": "On the night of 23-24 June, São João turns the whole city into one street party: plastic hammers, grilled sardines, fireworks. July and August are hot, but the Atlantic breeze keeps Porto cooler than Lisbon.",
+          "callout": {
+            "type": "tip",
+            "label": "São João tip",
+            "text": "If you're there on São João night, don't resist the plan: take a plastic hammer, smile when you're bopped on the head, follow the sardine smoke. Ending at dawn on the Foz seafront with the sunrise is the tradition."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "Harvest Light",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · Harvest season, a golden river",
+          "description": "September is harvest month in the Douro: valley tours fill with vintage excitement and the city stays warm. In October and November the rain returns, but the misty river mornings are the city at its most photogenic.",
+          "callout": {
+            "type": "tip",
+            "label": "September tip",
+            "text": "During the harvest some Douro quintas welcome guests to grape-treading: your feet turn purple and the story lasts a lifetime. Go up the valley by train and plan the return by boat."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Green and Quiet",
+          "months": "Dec – Mar",
+          "subtitle": "Winter · Rain, empty streets, cellar warmth",
+          "description": "Atlantic rain washes the city, but prices fall, the streets return to the locals and the lodge tours know no season. When the sun breaks between showers, the granite streets shine — the photographer's winter.",
+          "callout": {
+            "type": "tip",
+            "label": "January tip",
+            "text": "Turn a rainy day into an indoor chain: the Lello bookshop (first slot of the morning), the São Bento tiles, a cellar tour and a fado night. Porto's winter, done in the right order, is as full as its summer."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "Porto's kitchen was built on working-class generosity: big portions, honest plates, wine always on the table.",
+      "local_word": {
+        "word": "Francesinha",
+        "pronunciation": "fran-seh-zeen-ya",
+        "definition": "'Little French girl': the Porto sandwich that buries layers of meat, sausage and ham under melted cheese and sits in a beer-and-tomato sauce. The name is dainty, the thing itself monumental — every Tripeiro has a 'best francesinha' address and an endless argument about it."
+      },
+      "items": [
+        {
+          "icon": "🥪",
+          "name": "Francesinha — the city's monument",
+          "description": "The layered meat sandwich under its melted-cheese blanket and famous sauce: every house guards its sauce recipe as a secret. Chips beside, an egg on top if you're brave — eat it at lunch and cancel dinner.",
+          "tag": "A lunch mission · the sauce is a secret",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+Santiago+Porto"
+        },
+        {
+          "icon": "🐟",
+          "name": "Bacalhau and grilled sardines",
+          "description": "Salted cod (bacalhau) is Portugal's national passion: on every menu à Brás or com natas. In summer the smell of grilled sardines holds the streets — on bread, eaten with your hands.",
+          "tag": "National classic · sardines in summer",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+de+Pasto+Porto+bacalhau"
+        },
+        {
+          "icon": "🥩",
+          "name": "Tripas à moda do Porto",
+          "description": "The dish that named the city: tripe slow-cooked with white beans and sausage. Not touristy — historic. For brave palates, the badge of a true Tripeiro.",
+          "tag": "For the brave · the city's name comes from this pot",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurante+Tripeiro+Porto"
+        },
+        {
+          "icon": "🧁",
+          "name": "Pastel de nata + galão",
+          "description": "A custard tart hot from the oven, cinnamon on top, milky coffee (galão) beside it: the opening ceremony of a Porto morning. Judge not by the yellow in the window but by the hour it left the oven.",
+          "tag": "Morning ritual · while hot",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Manteigaria+Porto"
+        },
+        {
+          "icon": "🍷",
+          "name": "Port tasting — the Gaia lodges",
+          "description": "Tawny, Ruby, Vintage: tastings among century-old casks in the lodges across the river. The small family lodges are calmer and more generous than the big brands — choose by asking.",
+          "tag": "On the Gaia bank · time it for sunset",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vila+Nova+de+Gaia+wine+cellars"
+        },
+        {
+          "icon": "🥘",
+          "name": "Bolhão market and petiscos",
+          "description": "In the restored historic market: cheese, olives and smoked-meat stalls with standing tastings — the heart of petiscos, Portugal's answer to tapas. Go before noon and never skip the stallholder chat.",
+          "tag": "In the historic market · chat included",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercado+do+Bolhão+Porto"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Wine tip",
+        "text": "Don't assume port is only a sweet liqueur: dry white port + tonic is the city's summer aperitif and a local classic most visitors never hear of. Ask for the 'dry white' at your tasting — that's where the prejudice breaks."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Corners",
+      "intro": "Everyone knows Lello; these six are Porto's backstage.",
+      "items": [
+        {
+          "rarity": "The city's best free view",
+          "name": "Miradouro da Vitória",
+          "description": "From the terrace at the end of the old Jewish quarter's narrow lanes, the cathedral, the river and the Gaia lodges sit in one frame: at sunset the local youth gathers with beers in hand. Free, uncrowded, unforgettable.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Miradouro+da+Vitória+Porto"
+        },
+        {
+          "rarity": "A tiled cathedral of a hall",
+          "name": "São Bento station",
+          "description": "The station hall tells Portugal's history in 20,000 azulejos: wars, weddings, harvests. No train ticket needed — go early in the morning and see the hall empty. The city's most beautiful 'waiting room'.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=São+Bento+Station+Porto"
+        },
+        {
+          "rarity": "A blue waterfall on a church wall",
+          "name": "Capela das Almas",
+          "description": "A chapel clad head to toe in tiles in the middle of the Santa Catarina shopping street: its blue-and-white façade is azulejo art's street-level peak. Small inside, iconic outside — shoot it in morning light.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Capela+das+Almas+Porto"
+        },
+        {
+          "rarity": "The crystal palace gardens",
+          "name": "Jardins do Palácio de Cristal",
+          "description": "Gardens descending to the river terrace by terrace: peacocks, magnolias and a different Douro view at every corner. The city's most generous green space for picnics and sunsets.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jardins+do+Palácio+de+Cristal+Porto"
+        },
+        {
+          "rarity": "Backstage at the concrete diamond",
+          "name": "Casa da Música",
+          "description": "Koolhaas's concrete diamond is the city's contemporary icon: the guided tour takes you backstage and into the tiled VIP room. Evening concert tickets are often surprisingly cheap — check the programme.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+da+Música+Porto"
+        },
+        {
+          "rarity": "Where river meets ocean",
+          "name": "The Foz lighthouse and esplanade",
+          "description": "Tram 1 to the river's mouth: at the Felgueiras lighthouse the waves pound the stones, and the esplanade cafés face the ocean. A wave show on stormy days, a sunset classic on calm ones.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Farol+de+Felgueiras+Porto"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Lello tip",
+        "text": "If you're going into Lello, buy the ticket online and stand at the door at opening: the first half hour is the only slot where photos are possible. The ticket price is deducted from any book — pick your souvenir there."
+      }
+    },
+    "traps": {
+      "title": "Tourist Traps",
+      "intro": "Porto is hospitable; its traps are small, but knowing them saves both budget and time.",
+      "items": [
+        {
+          "icon": "📚",
+          "name": "Losing a midday to the Lello queue",
+          "description": "At midday the bookshop queue reaches an hour and the inside turns to rush-hour metro: the famous staircase disappears behind the crowd.",
+          "instead": "Go at opening or near closing, ticket bought in advance. If you hit peak hours, let it go — the São Bento tiles and the Vitória view give the same joy without the queue."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Dinner on the Ribeira quay",
+          "description": "The riverside tables tax the view: lukewarm bacalhau at tourist prices.",
+          "instead": "Have only a glass of wine on the quay; eat two streets uphill or in Baixa's tascas. The same river view is often cheaper on the Gaia side."
+        },
+        {
+          "icon": "🍷",
+          "name": "Walking into the first lodge",
+          "description": "The biggest brands at the bridge exit run on large tour groups: the tasting is rushed and the price pays for the logo.",
+          "instead": "Walk five minutes uphill: in the small family lodges the guide has time for you and the tasting pour is more generous. Book in the morning, taste at sunset."
+        },
+        {
+          "icon": "🚕",
+          "name": "A tuk-tuk for a short hop",
+          "description": "The tuk-tuks waiting on the squares sell a 15-minute walking route at tour prices.",
+          "instead": "The centre is walked anyway; for the steep hills there are the funicular and the cable car. If you do want a tuk-tuk, choose a genuinely long route like a Foz sunset run and fix the price first."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Golden rule",
+        "text": "In Porto every river-facing table charges a view tax, yet the best views are free — the bridge deck, the miradouros, the Gaia quay. Watch the view for nothing; spend the money on wine and the bakery."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Routes",
+      "intro": "If you hate planning, follow these flows. The times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "From tiles to wine, a two-bank day",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "São Bento + pastel de nata",
+              "description": "See the station's tiled hall while it's empty; start the day at the corner bakery with a hot nata + galão."
+            },
+            {
+              "time": "10:00",
+              "title": "The cathedral and the upper town",
+              "description": "A first river view from the Sé's terrace; descend the narrow lanes to the Vitória miradouro and meet the city from above."
+            },
+            {
+              "time": "12:30",
+              "title": "The francesinha mission",
+              "description": "Face the city's monument sandwich at lunch: dunking bread in the sauce is allowed. A walk afterwards is mandatory — the plan is built that way."
+            },
+            {
+              "time": "14:30",
+              "title": "Ribeira and the bridge crossing",
+              "description": "Coffee on the coloured quay, then walk the Dom Luís I upper deck to Gaia: the river beneath your feet, the skyline before you."
+            },
+            {
+              "time": "16:00",
+              "title": "A lodge tasting",
+              "description": "Tour + tasting at a small family lodge: start with a Tawny, be surprised by the dry white. On the way out, claim your sunset spot on the Gaia quay."
+            },
+            {
+              "time": "20:00",
+              "title": "Evening in Baixa",
+              "description": "Bacalhau or a petiscos crawl at a tasca; afterwards the bars of the Galerias de Paris street — a Porto night starts modestly and ends late."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "City, ocean and valley — three Portos",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Classic Porto",
+              "description": "The one-day flow above: São Bento, cathedral, francesinha, bridge, lodge."
+            },
+            {
+              "time": "Day 2",
+              "title": "Art and ocean",
+              "description": "Lello at opening and the Carmo tiles in the morning; the Cedofeita galleries + Bolhão market at noon; tram 1 to Foz in the afternoon — lighthouse, esplanade and an ocean sunset."
+            },
+            {
+              "time": "Day 3",
+              "title": "The Douro valley",
+              "description": "Morning train to Pinhão or Régua: vine terraces, a quinta tasting, a river boat ride; back to Porto in the evening and a farewell view from Vitória."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Word Survival Kit",
+      "intro": "Porto's Portuguese accent is throaty and warm; these five open doors and bakery counters.",
+      "items": [
+        {
+          "word": "Olá / Bom dia",
+          "pronunciation": "oh-lah / bong dee-ah",
+          "meaning": "Hello / good morning — the mandatory opener of every exchange"
+        },
+        {
+          "word": "Obrigado / Obrigada",
+          "pronunciation": "oh-bree-gah-doo / -dah",
+          "meaning": "Thank you — ends in -o if you're male, -a if you're female"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "poor fah-vor",
+          "meaning": "Please — 'se faz favor' sounds even more local in Porto"
+        },
+        {
+          "word": "Saúde!",
+          "pronunciation": "sah-ood",
+          "meaning": "Cheers! — as the glasses rise with port"
+        },
+        {
+          "word": "Fixe",
+          "pronunciation": "feesh",
+          "meaning": "'Cool, great' — the approval word the young fit into every sentence"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Porto Checklist",
+      "completion_message": "Saúde! You've lived Porto on both banks!",
+      "items": [
+        {
+          "label": "Walk the Dom Luís I upper deck",
+          "sub": "One way by day, the other by night"
+        },
+        {
+          "label": "Stand in São Bento's tiled hall",
+          "sub": "20,000 azulejos — while it's empty"
+        },
+        {
+          "label": "Taste port in a Gaia lodge",
+          "sub": "Start with Tawny, be surprised by dry white"
+        },
+        {
+          "label": "Finish a francesinha",
+          "sub": "One a day — the Tripeiro rule"
+        },
+        {
+          "label": "Sunset at Miradouro da Vitória",
+          "sub": "Free, uncrowded, unforgettable"
+        },
+        {
+          "label": "Ride tram 1 to Foz",
+          "sub": "River to ocean in half an hour"
+        },
+        {
+          "label": "Have a hot pastel de nata + galão",
+          "sub": "Watch for the oven hour"
+        },
+        {
+          "label": "Photograph the Capela das Almas",
+          "sub": "A blue tile waterfall — in morning light"
+        },
+        {
+          "label": "Taste petiscos at Bolhão market",
+          "sub": "Stallholder chat included"
+        },
+        {
+          "label": "Reach the Douro valley",
+          "sub": "By train to the vines — give it a day"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Marakeş",
+    "country": "Fas",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#C0523A",
+    "color_light": "#F9EEE6",
+    "tagline": "Kızıl şehrin meydanı, bahçeleri ve bitmeyen tiyatrosu"
+  },
+  "pills": [
+    "Kızıl Şehir — Al-Hamra",
+    "Jemaa el-Fnaa: dünyanın en canlı meydanı",
+    "Atlas Dağları yarım saat ötede"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Marakeş'e Hoş Geldin",
+      "intro": "Marakeş bir şehirden çok bir sahne düzenidir: kızıl surların içinde yılan oynatıcıları ve hikaye anlatıcıları meydanı kurar, çarşının dar damarlarında bakır ve deri kokusu yükselir, riyad kapılarının ardında çinili sükunet saklanır. Kar başlıklı Atlas zirveleri palmiyelerin arkasında parlar — bu kadar zıtlık, başka bir kadraja zor sığar. Marakeş yorucudur, büyüleyicidir ve asla özür dilemez: temposuna katıl, ama sükunet kapılarının adreslerini de cebinde tut.",
+      "local_word": {
+        "word": "Derb",
+        "pronunciation": "derb",
+        "definition": "Medinenin çıkmaz ara sokağı: riyadların gerçek adresleri hep bir derb'in içindedir. 'Derb'in dibinde, yeşil kapı' tarifi bu şehirde tapu kadar geçerlidir — kaybolmak, adres sisteminin parçasıdır."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Meydanı iki kez gör",
+          "description": "Jemaa el-Fnaa gündüz başka, gece bambaşkadır: öğleden sonra portakal sıkacakları ve su satıcıları, karanlıkta duman, davul ve yüz tezgahlı açık mutfak. İkisini de görmeden meydanı görmüş sayılmazsın."
+        },
+        {
+          "number": 2,
+          "title": "Fotoğrafın da fiyatı var, bil ve seç",
+          "description": "Meydandaki yılancılar, maymuncular ve hennacılar fotoğraf başına ücret ister — çoğu zaman agresifçe. İstemiyorsan kamerayı doğrultma, göz teması kurma, yürü; istiyorsan fiyatı baştan konuş."
+        },
+        {
+          "number": 3,
+          "title": "Sükunet molalarını planla",
+          "description": "Marakeş yoğunluğu doz aşımı yapabilir: her güne bir bahçe, bir riyad avlusu ya da bir hamam yaz. Şehrin sırrı ritimdedir — kaos ve sükunet, ikisi de menüde."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Menara (RAK)",
+          "sub": "Medineye taksiyle ~20 dk"
+        },
+        {
+          "icon": "🚶",
+          "label": "Medine içi",
+          "value": "Yayan + petit taxi",
+          "sub": "Çarşı sokakları araçsız"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Arapça (Darija) + Fransızca",
+          "sub": "Turistik hatta İngilizce yaygın"
+        },
+        {
+          "icon": "🏔️",
+          "label": "İmza",
+          "value": "Jemaa el-Fnaa + Atlas",
+          "sub": "Meydan UNESCO sözlü miras listesinde"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Marakeş felsefesi",
+        "text": "Marakeş'te 'hayır' demeyi öğrenmek, 'evet' demenin keyfini katlar: la şükran ile yürümeye devam et, ama günde bir kez de plansız bir kapıdan içeri gir — şehrin en iyi anıları o kapıların ardındadır."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Medine yayan, geri kalanı küçük bej taksilerle: mesafeler kısa, pazarlık reflekleri açık olsun.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından merkeze",
+          "description": "Menara şehre 20 dakikadır: taksi fiyatını binmeden kes ya da riyad transferi ayarlat. 19 numaralı otobüs bütçe dostudur — meydana ve Gueliz'e uğrar."
+        },
+        {
+          "icon": "🚶",
+          "title": "Medine yayan",
+          "description": "Meydan, çarşılar ve saraylar yürüme mesafesindedir; derb'lerde kaybolmak programın parçasıdır. Motosikletler dar sokaklarda da hız keser — kenardan yürü, kulağın arkada olsun."
+        },
+        {
+          "icon": "🚕",
+          "title": "Petit taxi — bej küçükler",
+          "description": "Şehir içi kısa mesafelerin aracı: taksimetre iste, açılmıyorsa fiyatı baştan konuş. Gece tarifesi gündüzden yüksektir — normaldir, fahişi normalleştirme."
+        },
+        {
+          "icon": "🐎",
+          "title": "Kalesh — fayton turu",
+          "description": "Surlar boyu fayton turu klasik bir keyiftir: rotayı ve fiyatı binmeden netleştir, atların bakımlı olduğu faytonu seç. Gün batımına denk gelen tur, kızıl surları köz rengine boyar."
+        },
+        {
+          "icon": "🚐",
+          "title": "Atlas ve çöl kaçamakları",
+          "description": "Ourika Vadisi ve Atlas köyleri bir saat, Agafay çölü 45 dakika mesafededir: küçük grup turları ya da özel şoförle gün planla. Şehirden çıkmak, Marakeş'i ikiye katlar."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Taksi tüyosu",
+        "text": "Medine kapısından bineceğin takside iki cümle yeter: 'compteur, afak' (taksimetre lütfen) ve gülümseme. Açmazsa in — iki adım ötede açan bulunur. Kısa mesafenin adil fiyatını riyadına önceden sor."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Marakeş'te iki dünya arasında seçim yaparsın: medinenin riyad sükuneti mi, yeni şehrin havuzlu ferahlığı mı?",
+      "local_word": {
+        "word": "Riyad",
+        "pronunciation": "riyad",
+        "definition": "İç avlulu geleneksel ev: Marakeş'te yüzlercesi butik otele dönüştü. Kapı ne kadar gösterişsizse içerisi çoğu zaman o kadar görkemlidir — bu şehirde zenginlik sokağa değil, avluya bakar."
+      },
+      "items": [
+        {
+          "name": "Medine — meydan çevresi",
+          "badge": "En atmosferli",
+          "badge_type": "vibe",
+          "description": "Jemaa el-Fnaa'ya ve çarşılara yürüme mesafesinde riyadlar: şehrin nabzı kapının dibinde. Gece meydan uğultusu duyulabilir — atmosferin bedeli, terastan minare manzarası ödülüdür.",
+          "tags": [
+            "Meydana yakın",
+            "Riyad terasları",
+            "Nabız kapıda"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jemaa+el-Fnaa+Marrakech"
+        },
+        {
+          "name": "Medine — Kasbah ve Mellah",
+          "badge": "En tarihi",
+          "badge_type": "local",
+          "description": "Saadi mezarları, saray kalıntıları ve baharat meydanının bölgesi: meydan koşuşturmasından bir kademe sakin, tarih yoğunluğu yüksek. Leylek yuvalı surlar mahallenin imzasıdır.",
+          "tags": [
+            "Saadi mezarları",
+            "Baharat meydanı",
+            "Leylekli surlar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kasbah+Marrakech"
+        },
+        {
+          "name": "Gueliz — Yeni Şehir",
+          "badge": "En modern",
+          "badge_type": "value",
+          "description": "Fransız dönemi bulvarları, kafeler, galeriler ve alışveriş: medine yoğunluğuna mesafe isteyenlerin ferah üssü. Majorelle'e yürüme mesafesi, medineye kısa taksi.",
+          "tags": [
+            "Bulvar kafeleri",
+            "Majorelle yakını",
+            "Modern konfor"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gueliz+Marrakech"
+        },
+        {
+          "name": "Hivernage",
+          "badge": "En konforlu",
+          "badge_type": "hot",
+          "description": "Havuzlu büyük oteller ve gece kulüplerinin bölgesi: palmiyeli caddeler, spa'lar ve sakin geceler. Konfor önceliklilere — medineye taksiyle beş dakika.",
+          "tags": [
+            "Havuzlu oteller",
+            "Spa kültürü",
+            "Sakin geceler"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hivernage+Marrakech"
+        },
+        {
+          "name": "Palmeraie ve çevre kır otelleri",
+          "badge": "Kaçış üssü",
+          "badge_type": "value",
+          "description": "Palmiye korulukları içinde havuzlu kır evleri ve Agafay yönünde çöl kampları: gündüz şehir, akşam yıldız sessizliği. Araç ya da servisle işler — balayı klasiği.",
+          "tags": [
+            "Palmiye koruluğu",
+            "Yıldızlı geceler",
+            "Havuz başı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palmeraie+Marrakech"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Kızıl şehrin takvimi güneşle yazılır: bahar ve sonbahar altın, yaz fırın, kış güneşli-serin bir sürprizdir.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Portakal Çiçeği Sezonu",
+          "months": "Mar – May",
+          "subtitle": "İlkbahar · Ilık günler, kokulu bahçeler",
+          "description": "Bahçeler portakal çiçeğiyle kokar, Atlas zirvelerinde kar hâlâ parlar, teraslar tam kıvamındadır. Marakeş'in en sevilen penceresi — kalabalığı da fiyatı da buna göre.",
+          "callout": {
+            "type": "tip",
+            "label": "Nisan ipucu",
+            "text": "Nisan sabahı Majorelle'e açılışta gir, ardından Yves Saint Laurent müzesiyle birleştir: kobalt mavisi bahçe kalabalık gelmeden bambaşkadır. Bileti önceden online al."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Fırın Ayları",
+          "months": "Haz – Ağu",
+          "subtitle": "Yaz · 40 derece üstü öğlenler",
+          "description": "Sıcak ciddidir: hayat sabaha, geceye ve havuz başına taşınır. Fiyatlar düşer, meydan geceleri yine dolar — programı gölge ve klimayla kurmak şartıyla yaz Marakeş'i mümkündür.",
+          "callout": {
+            "type": "warning",
+            "label": "Temmuz notu",
+            "text": "Yazın 11-17 arası sokakta plan yapma: sabah çarşı, öğlen riyad havuzu ya da hamam, akşam meydan. Su, şapka ve elektrolit — üçlü demirbaş."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Altın Işık",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Kırılan sıcak, berrak gökyüzü",
+          "description": "Eylülde sıcak kırılır, ekim-kasım şehrin en dengeli dönemidir: gündüz ılık, akşam serin, Atlas gezileri için ideal. Işık, fotoğrafçıların 'Marakeş altını' dediği tona döner.",
+          "callout": {
+            "type": "tip",
+            "label": "Ekim ipucu",
+            "text": "Ekimde bir günü Atlas'a ayır: Ourika ya da Imlil köylerinde ceviz hasadı, berrak dağ havası ve Berber çayı. Şehre dönünce meydan gürültüsü bile tatlı gelir."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Güneşli Serinlik",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Ilık gündüz, soğuk gece",
+          "description": "Gündüz güneşli ve ceketlik, gece hissedilir soğuktur — riyadında ısıtma sor. Avrupa kışından kaçanların klasik sığınağıdır: bahçeler sakin, çarşı rahat, Atlas karlı fonuyla en fotojenik halindedir.",
+          "callout": {
+            "type": "tip",
+            "label": "Ocak ipucu",
+            "text": "Kış güneşinde teras öğle yemeği Marakeş'in gizli lüksüdür: sırtında hırka, önünde tajine, karşında karlı Atlas. Aynı kareyi yazın kimse çekemez."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Marakeş sofrası közde ve toprakta pişer: şehrin imzası tanjia, meydanın imzası duman, teraslarınki gün batımıdır.",
+      "local_word": {
+        "word": "Tanjia",
+        "pronunciation": "tanjiya",
+        "definition": "Marakeş'in kendi yemeği: toprak testiye et, konfit limon ve baharat doldurulur, hamam külünde saatlerce pişer. Aslen bekar erkeklerin cuma yemeğiydi — bugün şehrin gastronomik imzası."
+      },
+      "items": [
+        {
+          "icon": "🏺",
+          "name": "Tanjia — külde pişen efsane",
+          "description": "Testide saatlerce pişen et lif lif dağılır, konfit limon kokusu tabağı sarar: Marakeş'e özgü, tajine'den ayrı bir ritüel. Gerçeğini yapan lokantaya sor — testiyle servis edilir.",
+          "tag": "Marakeş imzası · testiyle servis",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mechoui+Alley+Marrakech"
+        },
+        {
+          "icon": "🍲",
+          "name": "Tajine çeşitlemeleri",
+          "description": "Erikli-bademli kuzu, limonlu-zeytinli tavuk, kefta-yumurta: konik kapağın altında her ev başka hikaye anlatır. Riyadında akşamdan sipariş — çarşı menüsünün hep bir adım önünde.",
+          "tag": "Riyad mutfağı · akşamdan söyle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dar+Cherifa+Marrakech"
+        },
+        {
+          "icon": "🍢",
+          "name": "Meydan tezgahları — duman sofrası",
+          "description": "Akşam kurulan yüz tezgahlı açık mutfak: közde şiş, harira ve salyangoz çorbası. Kalabalık tezgah taze tezgahtır — numarasını ezberle, ertesi akşam yine gel.",
+          "tag": "Gece meydanda · kalabalık tezgahtan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jemaa+el-Fnaa+food+stalls"
+        },
+        {
+          "icon": "🥗",
+          "name": "Fas mezeleri ve zaalouk",
+          "description": "Közlenmiş patlıcanlı zaalouk, havuçlu taktouka, zeytin tabakları: ana yemekten önce masayı donatan renkli ordu. Ekmekle sıyırmak usuldendir — çatal opsiyoneldir.",
+          "tag": "Başlangıç ordusu · ekmekle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nomad+Marrakech"
+        },
+        {
+          "icon": "🍊",
+          "name": "Meydan portakalı ve avokado kokteyli",
+          "description": "Sıkma portakal arabaları meydanın gündüz klasiği; süt bar'ların avokado-badem kokteyli ise yerlilerin serinleme sırrıdır. İkisi de birkaç dirhem, ikisi de efsane.",
+          "tag": "Gündüz klasiği · arabadan taze",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jemaa+el-Fnaa+orange+juice"
+        },
+        {
+          "icon": "🍬",
+          "name": "Nane çayı ve Fas tatlıları",
+          "description": "Gazellerin boynuzu (kaab el ghazal), bal damlayan chebakia ve badem ezmeli zarflar: çay seremonisinin tatlı ordusu. Terasta, gün batımına karşı — şeker ayarını baştan söyle.",
+          "tag": "Teras seremonisi · gün batımıyla",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pâtisserie+des+Princes+Marrakech"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Meydan sofrası kuralı",
+        "text": "Gece tezgahında iki kural yeter: yerlinin oturduğu tezgahı seç ve fiyat listesini görmeden oturma. 'Hediye' diye gelen meze hesaba yazılır — istemediğini gülümseyerek geri gönder, bu da oyunun parçası."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Majorelle'i herkes bilir; bu altısı kızıl şehrin saklı avluları.",
+      "items": [
+        {
+          "rarity": "Duvarların ardındaki cennet",
+          "name": "Le Jardin Secret",
+          "description": "Çarşının ortasında restore edilmiş saray bahçesi: İslam bahçe sanatının su kanalları, kaktüs koleksiyonu ve kulesinden medine damları. Kaosun iki adım ötesinde matematiksel bir sükunet.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Jardin+Secret+Marrakech"
+        },
+        {
+          "rarity": "Şehrin en iyi çatısı",
+          "name": "Maison de la Photographie terası",
+          "description": "Eski Fas fotoğraflarının müzesi, medinenin en iyi teraslarından biriyle taçlanır: sergiyi gez, çatıda çayını iç, Atlas'ı ufukta yakala. Giriş mütevazı, manzara cömert.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+de+la+Photographie+Marrakech"
+        },
+        {
+          "rarity": "Sabah leylekleriyle saray",
+          "name": "El Badi Sarayı surları",
+          "description": "Saadi altın çağının dev harabesi: çökmüş havuzlar, portakal çukur bahçeleri ve surlarda yuva kuran leylekler. Sabah erken git — leylek sesi, kalabalık sesinden önce gelir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Badi+Palace+Marrakech"
+        },
+        {
+          "rarity": "Kapı ardı ihtişam",
+          "name": "Bahia'nın sessiz odaları ve Saadi mezarları sabahı",
+          "description": "Bahia Sarayı'nın arka avluları ve Saadi mezarlarının çinili odaları açılış saatinde neredeyse boştur: zellij ve sedir tavan işçiliğini kuyruksuz gör. Aynı bileti öğlen alan, kuyruğu da alır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Saadian+Tombs+Marrakech"
+        },
+        {
+          "rarity": "Yerlilerin baharat meydanı",
+          "name": "Rahba Kedima",
+          "description": "Ana çarşının içindeki eski tahıl meydanı: baharat piramitleri, şifalı ot dükkanları ve örgü şapka tezgahları. Çevresindeki teras kafeler, çarşı yorgunluğunun resmi molasıdır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rahba+Kedima+Marrakech"
+        },
+        {
+          "rarity": "Çölün eşiğinde gün batımı",
+          "name": "Agafay kır sofrası",
+          "description": "Şehre 45 dakikada taşlı çöl platosu: çadır kampları, deve silüetleri ve Atlas fonlu gün batımı sofraları. 'Sahra'ya vakti olmayanın çölü' — akşam yemeği + yıldız kombinasyonuyla.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Agafay+desert"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bahçe stratejisi",
+        "text": "Marakeş bahçeleri kalabalık yönetimiyle gezilir: Majorelle açılışta, Le Jardin Secret öğlen molasında, Menara zeytinliği gün batımında. Her bahçe bir vardiya — üçü tek güne sığar, sırası bozulmazsa."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Marakeş oyunlarını sahnede oynar — kuralları bilen için tehlike değil, tiyatrodur.",
+      "items": [
+        {
+          "icon": "🐒",
+          "name": "Meydanın fotoğraf tuzakları",
+          "description": "Maymun omzuna konar, yılan boynuna sarılır, henna eline dokunur — sonra sert bir ücret talebi gelir; pazarlık kalabalıkta zordur.",
+          "instead": "İstemiyorsan mesafe koru, kamerayı doğrultma, göz temasından kaçın. İstiyorsan fiyatı net konuş ve küçük banknot hazırla — deneyim de fiyat da senin seçimin olsun."
+        },
+        {
+          "icon": "🧭",
+          "name": "'Çarşı kapalı, ben götüreyim' rehberi",
+          "description": "Fes'teki oyunun Marakeş sahnesi: gönüllü rehber seni dolaştırıp komisyonlu dükkanda bitirir.",
+          "instead": "'La şükran' + yürümeye devam. Tabelalı ana akslardan şaşma; gerçekten rehber istiyorsan riyadından resmi rozetli ayarlat."
+        },
+        {
+          "icon": "🌿",
+          "name": "'Berber eczanesi' show'u",
+          "description": "Bazı baharat dükkanları tur otobüsü gruplarına şifa gösterisi yapar: sıradan baharat, 'mucize' etiketiyle katlanmış fiyata satılır.",
+          "instead": "Baharatı Rahba Kedima çevresindeki sade tezgahlardan, gramajını görerek al. Safranın gerçeği pahalıdır — 'ucuz safran' aslında aspir çiçeğidir."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Terasa manzara vergisi + servis sürprizi",
+          "description": "Meydana bakan bazı teraslar vasat menüyü manzara fiyatına satar, hesaba kalem eklemeyi sever.",
+          "instead": "Terası gün batımı çayı için kullan, yemeği bir sokak içerideki lokantada ya da riyadında ye. Hesap gelince kalemleri kontrol etmek ayıp değil, adettir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Marakeş'te her 'hediye', her 'bedava' ve her 'sadece bakmak için' bir açılış cümlesidir: gülümse, la şükran de, yürü. Sonra günde bir kez, kendi seçtiğin kapıdan pazarlığa gir — oyunun keyfi, kuralı bilene çalışır."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Bahçeden meydana, kızıl şehirde tam gün",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Majorelle açılışı",
+              "description": "Kobalt bahçeye ilk giren sen ol; ardından YSL müzesine kısa dalış. Kalabalık gelmeden çıkmış olursun."
+            },
+            {
+              "time": "10:30",
+              "title": "Koutoubia ve medineye giriş",
+              "description": "Minarenin gölgesinden surlara yürü, medineye Kasbah kapısından gir: Saadi mezarlarının çinili odaları henüz sakindir."
+            },
+            {
+              "time": "12:30",
+              "title": "Tanjia öğleni",
+              "description": "Külde pişmiş tanjia'yı testisinden tabağa devir: Marakeş'in imza öğünü. Üstüne nane çayı, gölgede yarım saat."
+            },
+            {
+              "time": "14:30",
+              "title": "Çarşı ve Le Jardin Secret",
+              "description": "Baharat piramitleri, deri ve bakır damarlarında kaybol; yorulunca gizli bahçenin su kanallı avlusunda nefeslen."
+            },
+            {
+              "time": "17:30",
+              "title": "Terasta gün batımı çayı",
+              "description": "Maison de la Photographie'nin çatısına çık: medine damları kızıla dönerken çayını yudumla — meydan aşağıda kurulmaya başladı bile."
+            },
+            {
+              "time": "19:30",
+              "title": "Jemaa el-Fnaa gecesi",
+              "description": "Duman, davul, hikaye halkaları ve yüz tezgahlı açık mutfak: kalabalık tezgahta akşam yemeği, sonra meydanın tiyatrosunda kaybol."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehir, saraylar ve dağ — üç perde",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Marakeş",
+              "description": "Yukarıdaki 1 günlük akış: Majorelle, Kasbah, tanjia, çarşı, meydan gecesi."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Saraylar ve hamam",
+              "description": "Sabah Bahia Sarayı + El Badi'nin leylekli surları; öğlen Rahba Kedima çevresinde meze turu; öğleden sonra geleneksel hamam + dinlenme; akşam Gueliz'de modern Fas mutfağı."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Atlas ya da Agafay",
+              "description": "Gün seçimi: Imlil'de Berber köyleri ve ceviz vadileri ya da Agafay'da çöl gün batımı sofrası; dönüşte meydana son bir veda turu — portakal suyu elde, davul sesi arkada."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Darija'nın beş kelimesi Marakeş sahnesinde hem kalkan hem anahtar olarak çalışır.",
+      "items": [
+        {
+          "word": "Salam alikoum",
+          "pronunciation": "selam aleykum",
+          "meaning": "Merhaba — her diyalogun kapısını açan selam"
+        },
+        {
+          "word": "Şükran",
+          "pronunciation": "şukran",
+          "meaning": "Teşekkürler — gülümsemeyle çift etki"
+        },
+        {
+          "word": "La, şükran",
+          "pronunciation": "la şukran",
+          "meaning": "'Hayır, teşekkürler' — meydanın ve çarşının kalkanı; yürüyerek söylenir"
+        },
+        {
+          "word": "Bşhal?",
+          "pronunciation": "bişhal",
+          "meaning": "'Ne kadar?' — pazarlık perdesini açan replik"
+        },
+        {
+          "word": "Wakha",
+          "pronunciation": "vaha",
+          "meaning": "'Tamam, anlaştık' — pazarlığın mutlu sonu; el sıkışmayla mühürlenir"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Marakeş Checklist",
+      "completion_message": "Wakha! Kızıl şehri hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Meydanı gündüz ve gece gör",
+          "sub": "İki ayrı sahne, tek Jemaa el-Fnaa"
+        },
+        {
+          "label": "Gece tezgahında akşam yemeği ye",
+          "sub": "Kalabalık tezgah, taze tezgah"
+        },
+        {
+          "label": "Tanjia'yı testisinden ye",
+          "sub": "Külde pişen Marakeş imzası"
+        },
+        {
+          "label": "Majorelle mavisine açılışta gir",
+          "sub": "Kobalt bahçe — bilet online"
+        },
+        {
+          "label": "Le Jardin Secret'de nefeslen",
+          "sub": "Çarşının iki adım ötesinde sükunet"
+        },
+        {
+          "label": "Çarşıda bir pazarlığı 'wakha' ile bitir",
+          "sub": "Üçte birinden başla, el sıkış"
+        },
+        {
+          "label": "El Badi'nin leyleklerini izle",
+          "sub": "Sabah erken — surların üstünde"
+        },
+        {
+          "label": "Terastan gün batımı çayı iç",
+          "sub": "Medine damları kızıla dönerken"
+        },
+        {
+          "label": "Geleneksel hamamda arın",
+          "sub": "Kese + sabun + sükunet"
+        },
+        {
+          "label": "Atlas'a ya da Agafay'a uzan",
+          "sub": "Dağ köyü ya da çöl sofrası — bir gün ayır"
+        }
+      ]
+    }
+  }
+}

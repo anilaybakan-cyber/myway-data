@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "city": "New York",
+    "country": "ABD",
+    "language": "tr",
+    "version": "2.1",
+    "color_primary": "#1A1A2E",
+    "color_light": "#E8E8F0",
+    "tagline": "Gerçekten buradayım hissi — başka hiçbir şehirde bu kadar ani gelmiyor",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Her yere metroyla git",
+    "Ayakta ye",
+    "Brooklyn Köprüsü'nden en az bir kez geç"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Taksiler sarı, sokaklar gürültülü, herkes bir yere koşuyor ve sen kaldırımda donup kalıyorsun — çünkü tam da filmde gördüğün gibi. Bu his geçmiyor, sadece yerleşiyor. New York böyle çalışıyor: önce kendini gösteriyor, sonra içine çekiyor. Metro hiç durmuyor. Bodega'lar hiç kapanmıyor. Gökdelenlerin arasında bir pizzacı var; tezgâhtan bir dilim al, ikiye kat, yürü. Bu şehirde doğru olan bu. Üç blok ötede her zaman bir şey oluyor. Her zaman.",
+      "local_word": {
+        "pronunciation": "bo-DAY-ga",
+        "definition": "Köşe bakkalı, ama daha fazlası. Her saat açık, içeride mutlaka bir kedi var, arkasında sandviç tezgâhı. Pastırmalı-yumurtalı-peynirli sandviç düz ızgarada yapılıyor, folyoya sarılıyor, kapıda ya da metroda yeniyor. New York’un kahvaltısı bu. Bodega olmadan New York olmaz.",
+        "word": "Bodega"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Metroyu kullan — her yere gider, her saat çalışır",
+          "description": "472 istasyon, günde 24 saat, yılın 365 günü. Temassız kartınla veya telefonunla turnike okuyucusuna dokun. MetroCard artık gerekmiyor. Tek biniş 3,25 dolar. Haftada 12 binişten sonra o haftaki tüm binişler ücretsiz; haftalık üst sınır 35 dolar. Kirli olabilir, geç gelebilir. Yine de Manhattan’da her zaman taksiden hızlı."
+        },
+        {
+          "number": 2,
+          "title": "Manhattan küçük, Brooklyn büyük — ama dış ilçeleri de küçümseme.",
+          "description": "Manhattan 21 kilometre uzunluğunda. Lower East Side'dan Central Park'a yürüyerek bir saat. Brooklyn bambaşka: Williamsburg, Park Slope, Crown Heights, Coney Island — hepsinin ayrı bir ruhu var ve birbirine yakın değil. En iyi yemek ve en iyi mahalle hayatı için metroya binip Manhattan'dan çıkman gerekiyor."
+        },
+        {
+          "number": 3,
+          "title": "En iyi manzaralar ücretsiz — en pahalılar buna değmez",
+          "description": "Brooklyn Köprüsü yürüyüş yolu: ücretsiz, gün doğumunda ise başka bir dünya. Staten Island Feribotu: ücretsiz, Özgürlük Heykeli tam yanından geçiyor. Roosevelt Island Tram: metro bileti kadar, nehrin 76 metre üstünden Manhattan ve Queens silueti. High Line: ücretsiz. Empire State Building biletli ve pahalı. Önce ücretsizleri dene, diğerleri için kararı sonraya bırak. Times Square'e bir kez, akşam, ışıkları görmek için uğramaya değer. Ama orada yemek yeme."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanları",
+          "value": "JFK · LGA · EWR",
+          "sub": "JFK: AirTrain (biletli) + metro ~60 dk · Newark: tren ~45 dk"
+        },
+        {
+          "icon": "🚇",
+          "label": "Metro",
+          "value": "OMNY — temassız kart veya telefonla dokun",
+          "sub": "Tek biniş 3,25 dolar · haftada en fazla 35 dolar ödüyorsun bu şekilde · 24 saat"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Hava",
+          "value": "Dört gerçek mevsim",
+          "sub": "Eyl–Kas ideal · Ara–Şub soğuk · Haz–Ağu sıcak ve nemli"
+        },
+        {
+          "icon": "🍕",
+          "label": "Pizza",
+          "value": "Tezgâhtan al, ikiye kat, yürü",
+          "sub": "Nakit tercih edilir · yan sokaklar daha ucuz"
+        }
+      ],
+      "tip": {
+        "label": "Ücretsiz New York — en iyi şeylerin büyük bölümü para tutmuyor",
+        "text": "Staten Island Feribotu her iki yönde ücretsiz. Özgürlük Heykeli yanından geçiyor, 25 dakika, dünyanın en iyi ücretsiz tekne yolculuğu. Brooklyn Köprüsü yürüyüş yolu ücretsiz, gün doğumunda başka bir dünya. High Line ücretsiz. Eski bir yük hattı üzerinde park, 2,3 km. Central Park 343 hektar, ücretsiz. The Met, MoMA ve Guggenheim’ın giriş ücreti kendin belirleðiğin dönemleri var. Web sitelerini kontrol et.",
+        "type": "tip"
+      },
+      "title": "New York'a Hoş Geldin"
+    },
+    "transport": {
+      "intro": "Metroya bin ya da yürü. Taksi sadece geç saatlerde kullanmak için mantıklı.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanı → Şehir",
+          "description": "JFK'dan: AirTrain ile Jamaica veya Howard Beach'e, oradan metro. Yaklaşık 60 dakika, ikisi de ayrı ücretli. LaGuardia'dan tren yok; M60 otobüsüyle 125. Cadde metro istasyonuna ulaşabilirsin ve oradan şehir merkezine metro ile devam edersin. Ancak doğrudan taksi ile ulaşım da mümkün. Newark'tan: NJ Transit treniyle Penn Station'a yaklaşık 45 dakika. Taksiler taksimetre ile çalışıyor; trafik hem süreyi hem de fiyatı belirsizleştiriyor."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro — gece de çalışır, yağmurda da",
+          "description": "472 istasyon, beş ilçe, 24 saat. Temassız kart, telefon veya OMNY Kartı'nı turnike okuyucusuna dokun. 3,25 dolar, haftalık üst sınır 35 dolar. Metro hatları iki türlü çalışıyor: local her istasyonda duruyor, express bazı istasyonları atlıyor. Hangisine bineceğini bilmek için haritaya bak, yoksa yanlış trene binip geçebilirsin. Gece trenler daha seyrek geliyor ama hiçbir hat kapanmıyor."
+        },
+        {
+          "icon": "🚌",
+          "title": "Otobüsler — Midtown'da çapraz güzergahlar için",
+          "description": "Metro ile aynı ücret, OMNY ile dokun. Metronun yetişemediği doğu-batı güzergahlar için kullanışlı: M15, M34, M42. Trafikte metrodan yavaş ama camdan şehri izleyerek gidiyorsun — bazen bu yavaşlık değer."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Staten Island Feribotu — ücretsiz, her iki yönde, sürekli",
+          "description": "Whitehall Terminali'nden her 30 dakikada bir kalkar, 24 saat. Özgürlük Heykeli, Governors Island ve aşağı Manhattan siluetinin yanından 25 dakika geçiş, her iki yönde ücretsiz. New Yorklular bunu işe gidip gelmek için kullanır; sen de dünyanın en iyi ücretsiz tekne yolculuğunu yapmış olursun."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürüyüş — Manhattan bir ızgara, kullan",
+          "description": "Bulvarlar kuzey-güney, sokaklar doğu-batı. Her blok yaklaşık bir dakika; 20 blok kabaca bir mil. 14. Cadde'nin altında ızgara bozuluyor, harita gerekli. Dış ilçeler ızgara değil. Altı saat yürüyebileceğin ayakkabıyla gel."
+        }
+      ],
+      "callout": {
+        "label": "Roosevelt Island Tram — metro ücreti, sıfır kuyruk, sıfır bekleme",
+        "text": "59. Cadde ile 2. Bulvar’ın köşesinden kalkar, East River’ı geçer, Roosevelt Island’a iner. Metro bileti yeterli, ayrı ücret yok. Nehrin 76 metre üzerinden Queensboro Köprüsü, Manhattan ve Queens silüeti. Gidiş-dönüş on dakika. New Yorklular işe gider, turistler üretli seyir teraslarına gider. Sen bu trama bin, özellikle gün batımında.",
+        "type": "tip"
+      },
+      "title": "Şehirde Ulaşım"
+    },
+    "stay": {
+      "intro": "Nerede kaldığın değil, hangi New York'u yaşamak istediğin önemli.",
+      "local_word": {
+        "pronunciation": "—",
+        "definition": "‘Şehre gitmek’ New York’ta yaşayan biri için bile Manhattan’a gitmek demek. Brooklyn’de oturan biri bile böyle söyler. Ama şehrin gerçek hayatı, en iyi yemeği ve en ilginç mahalleleri büyük bölümüyle dış ilçelerde. Metroya binip Manhattan’dan çıkmak zor değil, sadece alışkanlık meselesi.",
+        "word": "Dış İlçeler"
+      },
+      "items": [
+        {
+          "name": "Lower East Side / East Village",
+          "badge": "En tarihsel, en diri",
+          "badge_type": "local",
+          "description": "Alman, Yahudi, İtalyan, Çinli, Porto Rikolu; birbiri ardına gelen göçmen kuşaklarının yerleşip iz bıraktığı yer. Katz's 1888'den, Russ & Daughters 1914'ten beri aynı sokakta. Turşu dükkanları, dar yollar, eski kiracı binaları hâlâ burada. Hemen yanındaki East Village daha genç, daha gürültülü, daha ucuz. Geceleri her ikisi de canlı.",
+          "tags": [
+            "Katz's ve Russ & Daughters",
+            "Şehrin en katmanlı tarihi",
+            "Gece geç saate kadar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lower+East+Side+New+York"
+        },
+        {
+          "name": "West Village / Greenwich Village",
+          "badge": "En çekici sokaklar",
+          "badge_type": "hot",
+          "description": "İzgaranın bozulduğu, sokakların numara yerine isim aldığı yer. Kahverengi taş binalar, sarmaşıklı cepheler, 1950’lerden beri çalışan caz kulüpleri. Grove Caddesi’ndeki Via Carota şehrin en iyi İtalyan restoranl. Rezervasyon almıyor; 17:30 veya 21:30’da git ve bekle. White Horse Tavern 1880’den beri açık. Yürümek için en güzel mahalle; gece geç saatlere kadar gürülltülü.",
+          "tags": [
+            "Via Carota",
+            "En güzel yürüyüş sokakları",
+            "Caz tarihi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=West+Village+New+York"
+        },
+        {
+          "name": "Midtown / Hell's Kitchen",
+          "badge": "En pratik",
+          "badge_type": "hot",
+          "description": "Central Park, Penn Station, Lincoln Center yürüme mesafesinde. Village'dan ucuz, Brooklyn'den bağlantılı. Restoran sahnesi hak ettiği ilgiyi görmüyor; gerçekten iyiler var. Dezavantajı açık: Midtown'da. Gürültü, tempo ve mahalle hissinin yokluğu gerçek. Ama sabah erken kalkıp çok şey görmek istiyorsan bu lokasyon işe yarıyor.",
+          "tags": [
+            "Central Park'a 10 dk",
+            "Penn Station yakını",
+            "Maksimum erişim"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hell%27s+Kitchen+New+York"
+        },
+        {
+          "name": "Williamsburg / Brooklyn",
+          "badge": "En yerel, en güzel manzara",
+          "badge_type": "local",
+          "description": "Artık herkesin bildiği Brooklyn ama hâlâ iyi. L treni Manhattan'a 10 dakika. East River kıyısından Manhattan silüeti şehrin en iyisi. Yemek ve bar sahnesi mükemmel. Bedford Avenue hafta sonları yorucu; Salı akşamı git, o zaman hâlâ kendisi.",
+          "tags": [
+            "En iyi Manhattan silueti",
+            "L treniyle 10 dk",
+            "En iyi barlar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Williamsburg+Brooklyn"
+        },
+        {
+          "name": "Upper West Side",
+          "badge": "En sakin, en yerleşik",
+          "badge_type": "local",
+          "description": "New York'ta yaşayan ve kalmak isteyen insanların seçtiği mahalle. Doğuda Central Park, batıda Riverside Park. Barney Greengrass 1908'den beri Amsterdam Caddesi'nde. Mersin balığı ve füme balık için sabahın erken saatlerinde git. Downtown'dan sakin, her şeye metro ile yakın.",
+          "tags": [
+            "Central Park kapıda",
+            "Barney Greengrass",
+            "Gerçek mahalle hayatı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Upper+West+Side+New+York"
+        }
+      ],
+      "title": "Nerede Kalmalı"
+    },
+    "best_time": {
+      "intro": "New York, hangi mevsimde gittiğine göre bambaşka bir şehir. Yaz yakıcı, kış sert, sonbahar nefes kesici, ilkbahar ise hiç tahmin edilemez.",
+      "items": [
+        {
+          "label": "Sonbahar",
+          "name": "Tek doğru cevap: Ekim",
+          "months": "Eyl – Kas",
+          "description": "Yaz kalabalığı gitmiş, sıcaklar kırılmış. Ekim'de Central Park'taki sonbahar yapraklarının renklenmesi gerçekten filmden çıkmış gibi görünüyor — kehribar rengi ışık gökdelenlerin arasından geliyor ve park altın-kırmızıya bürünüyor. Restoranlar yeni sezona giriyor, şefler şehre dönüyor. Cadılar Bayramı burada şaka değil, kültürel bir olay. Kasımın ilk Pazarı'nda New York Maratonu var. Yalnızca bir kez gideceksen Ekim.",
+          "callout": {
+            "label": "New York Maratonu — Kasım'ın ilk Pazarı",
+            "text": "42 kilometre, beş ilçe, 50.000 koşucu, iki milyon seyirci. Staten Island’dan başlar, Brooklyn, Queens ve Bronx’tan geçer, Central Park’ta biter. Sokaktan izlemek ücretsiz. En iyi noktalar: Queensboro Köprüsü yaklaşımı, Long Island City ve yukarı 60’lardaki 1. Bulvar. Şehir köprüleri kapatlıyor. Metro tek seçenek; erken çık.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Sonbahar · Şehir film sahnesi gibi görünüyor"
+        },
+        {
+          "label": "İlkbahar",
+          "name": "Nisan zor, Mayıs ödül",
+          "months": "Mar – May",
+          "description": "Mart hâlâ kış. Nisan kararsız; bir gün ceket, ertesi gün tişört. Mayıs geldiğinde şehir açılıyor: ağaçlar çiçekte, kaldırımlar dolup taşıyor, parklar yeniden dolmaya başlıyor. Brooklyn Botanik Bahçesi'nde kiraz çiçekleri Nisan sonunda zirvede; kalabalık var ve buna değer. Governors Island ise Mayıs'ta yaz programını açıyor.",
+          "callout": {
+            "label": "Governors Island — şehrin ortasında adacık",
+            "text": "New York Limanı'nda 172 dönümlük ada, Pier 6'dan feribotle 10 dakika. Araçsız, açık yeşil alan, sanat enstalasyonları. Feribot biletli; Cumartesi ve Pazar 11:00 öncesi ücretsiz. The Hills tepelerinden 360 derece liman manzarası. Bisiklet kiralama var. Yıl boyunca açık.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "İlkbahar · Şehir tekrar nefes alıyor"
+        },
+        {
+          "label": "Yaz",
+          "name": "Sıcak, nemli, ama şehir uyumuyor",
+          "months": "Haz – Ağu",
+          "description": "Temmuz'da Manhattan'ın kendi kokusu var: sıcak asfalt, nem, yemek kokuları iç içe. Metro peronları fırın gibi. Ama şehir bu sıcakta da durmaz: Central Park'ta ücretsiz konserler (SummerStage), Shakespeare in the Park, Rockaway plajları A treniyle 60 dakika uzakta. Yazın erken sabah ve geç akşam şehrin en iyi saatleri.",
+          "callout": {
+            "label": "Rockaways — metro ile sahile",
+            "text": "Queens’te Rockaway Yarımadası, A treniyle Midtown’dan 60 dakika. Jacob Riis Beach daha yerel, daha karışık, daha ilginç. Rockaway Beach boardwalk daha temiz, aile dostu. Her ikisi ücretsiz. Yemek için nakit götür. Hafta sonu A treni plaja ekspres gidiyor.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Yaz · Kaos ve enerji aynı anda"
+        },
+        {
+          "label": "Kış",
+          "name": "Aralık pahalı, Ocak mükemmel",
+          "months": "Ara – Şub",
+          "description": "Aralık gösteriş yapıyor: Rockefeller Center ağacı, ışıklar, kalabalık, yüksek fiyatlar. Ocak ve Şubat şehrin turistten arındığı dönem; oteller yarıya düşüyor, müzeler boş, restoran masası bulmak kolaylaşıyor. Kar yağınca her şey değişiyor: sokaklar sessizleşiyor, Manhattan bir film setine dönüyor, Central Park birkaç saat için dünyanın en güzel yerine. Karı temizleyen araçlar gelmeden önce dışarıda ol.",
+          "callout": {
+            "label": "Kışın The Met — kuyruk yok",
+            "text": "Metropolitan Sanat Müzesi'ne giriş ücretli. Ancak New York eyaletinde yaşayanlar için bu ücret isteğe bağlı — istedikleri kadar ödeyebilirler. Diğerleri tam fiyat öder. Ocak'ta uzun kuyruklar yok, müze sakin. Mısır kanadı, Yunan ve Roma galerileri, Avrupa resimleri — iki saat içinde kendi temponda gezebilirsin. İçerideki kafe Central Park'a bakıyor. En iyi zaman: Şubat'ta hafta içi sabah saatlerinde git.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Kış · Gösterinin olmadığı şehir"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "Haziran",
+          "text": "Pride: ay boyu etkinlik, son pazar dev yürüyüş — şehir gökkuşağına boyanır."
+        },
+        {
+          "month": "Ağustos sonu–Eylül",
+          "text": "US Open: Flushing Meadows'ta tenis bayramı; ilk hafta oturmalık gün biletleri gayet bulunur."
+        },
+        {
+          "month": "31 Ekim",
+          "text": "Village Halloween Parade: dünyanın en büyük Cadılar Bayramı geçidi — kostümün varsa katılabilirsin."
+        },
+        {
+          "month": "Aralık",
+          "text": "Yılbaşı hali: Rockefeller ağacı, Fifth Avenue vitrinleri, Bryant Park pisti. Kalabalık ama büyü gerçek."
+        }
+      ],
+      "title": "Ne Zaman Gitmeli"
+    },
+    "eat": {
+      "intro": "New York'ta her mutfak var. Ama şehrin kendi icat ettiği şeyler başka.",
+      "local_word": {
+        "pronunciation": "—",
+        "definition": "Tezgâhtan üçgen bir dilim, ikiye katla, yürü. Adı ‘dolar dilim’ ama fiyatı değişti. Format, ritüel ve tat değişmedi. Yan sokaklar ana bulvarlardan ucuz. Nakit tercih edilir.",
+        "word": "Slice"
+      },
+      "items": [
+        {
+          "icon": "🥩",
+          "name": "Pastrami on rye — Katz's Delicatessen",
+          "description": "1888'den beri 205 East Houston Caddesi'nde. Kapıda fiş alıyorsun, tezgâha yürüyorsun, adam pastırmayı bizzat dilimlıyor. Çavdar ekmeğinin üzerinde saçma derecede yüksek bir yığınla geliyor. Florasan ışıklar, formika masa, duvarda imzalı fotoğraflar. Pastırma el yapımı, yavaş kürlü, yağlı. New York'a gelip bunu atlamak için geçerli bir neden yok.",
+          "tag": "205 E Houston St · kapıda fiş al · hafta içi sabahı daha sakin",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Katz%27s+Delicatessen+New+York"
+        },
+        {
+          "icon": "🥯",
+          "name": "Füme somonlu bagel — Russ & Daughters",
+          "description": "İki blok ötede, 1914'ten beri. Russ & Daughters bir füme balık dükkanı — vitrin füme somon, ringa ve sturgeon ile dolu, tezgâhta müşteriler hangisini alacaklarına ciddiyetle karar veriyor. Bagel el yapımı, haşlanmış ve fırınlanmış; çiğnediğinde farkı anlıyorsun. Classic Board: füme somon, krem peynir, bagel. Kâğıda sarılıp veriliyor. Kahvaltı için gel.",
+          "tag": "179 E Houston St · 1914'ten beri · Classic Board",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Russ+%26+Daughters+New+York"
+        },
+        {
+          "icon": "🥚",
+          "name": "Pastırmalı yumurtalı peynirli — herhangi bir bodega",
+          "description": "Yumurta, Amerikan peyniri ve pastırma düz ızgarada pişirilip Kaiser ekmeği veya bagele konuluyor, folyoya sarılıyor. Peynir tam eriyip içine işlemiş olacak — bu şart. Restoranda da yapıyorlar ama bodega versiyonunun ayrı bir karakteri var.",
+          "tag": "Sandviç tezgâhlı herhangi bir bodega · sokakta ye",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=bodega+deli+New+York"
+        },
+        {
+          "icon": "🍖",
+          "name": "Chopped cheese — Harlem ve Bronx",
+          "description": "Harlem ve Bronx'a özgü bir bodega sandviçi — kıyma, soğan ve peynir ızgarada birlikte kıyılıp uzun ekmeğe konuluyor. Pastırmalı sandviç kadar ünlü değil ama New York'u anlamak için aynı derecede önemli. Orijinalini Hajji's'te yiyebilirsin, Mavi Gökyüzü Deli diye de biliniyor. Sade, hızlı, tam kendisi.",
+          "tag": "Hajji's, 1. Bulvar ve 110. Cadde · Doğu Harlem",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Blue+Sky+Deli+Harlem"
+        },
+        {
+          "icon": "🍕",
+          "name": "Dilim pizza — Joe's Pizza",
+          "description": "1975'ten beri aynı yerde, şehrin referans pizzası. İnce hamur, katlanabiliyor, doğru oranda yağlı. On binlerce pizza yeri var ama Joe's standart kabul ediliyor. Öğle saatinde kuyruğa girme, az önce ya da sonra git. Tezgâhtan al, kat, yürüyerek ye.",
+          "tag": "7 Carmine St, West Village · 1975'ten beri · ayakta ye",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Joe%27s+Pizza+New+York"
+        },
+        {
+          "icon": "🥢",
+          "name": "Dim sum ve dumplings — Flushing, Queens",
+          "description": "Manhattan Chinatown turistler için; Flushing asıl olan. 7 treniyle 30 dakika, Main Street: Çin dışındaki en büyük Çin topluluğu. Bölgesel mutfakların büyük bölümü Manhattan'a hiç geçmedi. New World Mall'ın bodrum katı yemek mahkemesi tek başına bir deneyim. Kore süpermarketleri, Tayvan tatlıları, Malezya köri de aynı sokakta.",
+          "tag": "7 treni, Main Street-Flushing · turist versiyonu değil",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nan+Xiang+Xiao+Long+Bao+Flushing"
+        }
+      ],
+      "callout": {
+        "label": "Bodega — nasıl çalışır",
+        "text": "İçeri gir. Kedi bir yerde. Sandviç tezgâhı arkada. Pastırmalı-yumurtalı-peynirli söyle; ekmeğini belirt, ekstralarını söyle (tuz, biber, ketçap). Öde, iki dakika, çık. Kuyruk varsa bir sebebi vardır. Fiyat yüksekse mahalle pahalıdır. Bir blok ilerle. New York’ta 13.000 bodega var, her köşede bir tane.",
+        "type": "tip"
+      },
+      "title": "Ne Yemeli"
+    },
+    "hidden_gems": {
+      "intro": "New York'un gizli yerleri aslında gizli değil; sadece hız yüzünden gözden kaçıyor.",
+      "items": [
+        {
+          "name": "Grand Central Fısıltı Galerisi",
+          "description": "Grand Central Terminal’in alt katı, Oyster Bar girişi yakınında. Dört çini kemer köşede buluşuyor. Bir köşeye geç, duvara dön, fısılda. 15 metre karşıdaki köşedeki kişi duyar, aradaki kimse duymaz. Kemerler odaklanmış bir ses yolu oluşturuyor. Mimari kaza mı, kasıt mı tartışılıyor. Üretsiz, tabela yok, kuyruk yok.",
+          "rarity": "Milyonlarca kişi geçer, neredeyse kimse bilmez",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grand+Central+Whispering+Gallery+New+York"
+        },
+        {
+          "name": "The High Line",
+          "description": "Manhattan'ın batı yakasında, Meatpacking District'ten Hudson Yards'a 2,3 km. Kullanılmayan yük demiryolu hattı üzerinde inşa edilmiş, 2009'dan beri açık, ücretsiz. Eski raylar bitkilerin içinde korunmuş; 14. ile 20. Caddeler arası en güzel bölüm. Hudson Nehri görünüyor. Sabah erken ya da kışın git — kalabalık henüz gelmemiş olur.",
+          "rarity": "Eski bir yük hattı, şimdi şehrin üzerinde bir park",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+High+Line+New+York"
+        },
+        {
+          "name": "Governors Island",
+          "description": "Pier 6'dan feribotle 10 dakika; biletli, Cumartesi ve Pazar 11:00 öncesi ücretsiz. 172 dönüm, araçsız, açık yeşil alan. The Hills tepelerinden 360 derece: liman, Özgürlük Heykeli, aşağı Manhattan silueti. Bisiklet kiralama var. Yıl boyunca açık.",
+          "rarity": "Şehrin ortasında, 10 dakika uzakta, kimsenin gitmediği ada",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Governors+Island+New+York"
+        },
+        {
+          "name": "The Met Cloisters — Fort Tryon Parkı",
+          "description": "Metropolitan Müzesi’nin Orta Çağ koleksiyonu, beş gerçek 12-15. yüzyıl Fransız manastır avlusundan taş taş taşınıp Manhattan’ın kuzey ucunda yeniden inşa edilmiş. Unicorn Tapestries burada. Tek boynuzlu at sahnelerini gösteren 15. yüzyıl dokumaları. Romanesk şapeller, Gotik salonlar, şifalı bitki bahçesi. Standart Met biletine dahil. A treniyle 190. Cadde, Midtown’dan 45 dakika.",
+          "rarity": "Fransız manastır taşlarını New York'a taşıdılar",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Met+Cloisters+New+York"
+        },
+        {
+          "name": "Greenacre Park — Doğu 51. Cadde",
+          "description": "2. ve 3. Bulvar arasında, Doğu 51. Cadde. Kapısı küçük ve sıradan görünüyor — içinde ne olduğunu bilmeden geçip gidersin. İçeride 12 metrelik şelale, bal kestanesi ağaçları, taşınabilir sandalyeler. Şelale Midtown trafiğinin sesini neredeyse tamamen kesiyor. Şehrin en gürültülü yerinde bir sessizlik adası. Ücretsiz. Hafta içi açık.",
+          "rarity": "Gökdellenlerin arasında saklı bir şelale parkı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Greenacre+Park+New+York"
+        },
+        {
+          "name": "Sylvan Terrace — Washington Heights",
+          "description": "Washington Heights'ta bir blok: 1882'de inşa edilmiş yirmi ahşap sıra ev, orijinal cepheleri pastel renklerde, arnavut kaldırımlı sokak. Manhattan'ın en eski evi Morris-Jumel Mansion'ın yanında; çoğu turistin hiç ulaşamadığı mahallede. C treniyle 163. Cadde. Sokak ücretsiz, her zaman açık. Mansion biletli.",
+          "rarity": "1882'den bu yana neredeyse hiç değişmemiş tek blok",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sylvan+Terrace+New+York"
+        }
+      ],
+      "callout": {
+        "label": "Flushing, Queens — şehrin en az bilinen dünyası",
+        "text": "Times Square’den 7 treniyle 30 dakika. Main Street-Flushing durağında iniyorsun ve şehir değişiyor. Çin dışındaki en büyük Çin topluluğu burada, ve Manhattan’a hiç ulaşmamış bölgesel mutfaklar da. New World Mall bodrum katı yemek mahkemesi tek başına bir macera. Kore süpermarketleri, Tayvan tatlıları, Malezya köri aynı sokakta. Turist yok, İngilizce menü her yerde değil, fiyatlar Manhattan’ın onda biri. New York hep böyle büyüdü. Her neslin getirdiği burada kalıyor.",
+        "type": "tip"
+      },
+      "title": "Gizli Köşeler"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Bodega'da pastırmalı-yumurtalı-peynirli sandviç ye",
+          "sub": "Kaiser veya bagel, folyoda, ayakta. Sandviç tezgâhlı herhangi bir bodega."
+        },
+        {
+          "label": "Staten Island Feribotu'na bin",
+          "sub": "Ücretsiz, her iki yönde, 25 dakika. Whitehall Terminali. Özgürlük Heykeli yanından geçiyor."
+        },
+        {
+          "label": "Katz's Delicatessen'a git",
+          "sub": "205 E Houston St. Kapıda fiş al. Çavdar ekmeğinde pastırma. 1888'den beri. Hafta içi sabahı."
+        },
+        {
+          "label": "Brooklyn Köprüsü'nden yürü",
+          "sub": "Ücretsiz. Chambers Caddesi Manhattan tarafından başla. 1,3 km. Şafakta film sahnesi gibi."
+        },
+        {
+          "label": "7 treniyle Flushing'e git",
+          "sub": "Times Square'den 30 dakika. New World Mall yemek mahkemesi. Hiç duymadığın bir şey ye."
+        },
+        {
+          "label": "Grand Central Fısıltı Galerisi'ni bul",
+          "sub": "Ücretsiz. Alt kat, Oyster Bar girişi yakını. Köşede fısılda, karşı köşede duyulsun. Tabela yok."
+        },
+        {
+          "label": "High Line'da yürü",
+          "sub": "Ücretsiz. Eski yük hattı üzerinde park. Sabah erken ya da kışın. 14.–20. Cadde arası."
+        },
+        {
+          "label": "Joe's Pizza'da dilim ye",
+          "sub": "7 Carmine St, West Village. İkiye kat. Ayakta ye. 1975'ten beri."
+        },
+        {
+          "label": "Roosevelt Island Tram'e bin",
+          "sub": "Metro bileti, ayrı ücret yok. 59. Cadde ve 2. Bulvar. Nehrin 76 metre üstünden. Gün batımında."
+        },
+        {
+          "label": "Russ & Daughters'ta kahvaltı yap",
+          "sub": "179 E Houston St. 1914'ten beri. Classic Board: füme somon, krem peynir, bagel."
+        },
+        {
+          "label": "Governors Island'a git",
+          "sub": "Pier 6, aşağı Manhattan. Biletli; Cmt ve Paz 11:00 öncesi ücretsiz. Yıl boyunca açık."
+        },
+        {
+          "label": "Sylvan Terrace'ı bul — Washington Heights",
+          "sub": "C treni, 163. Cadde. 1882'den kalma arnavut kaldırımlı blok. Morris-Jumel Mansion yanında. Sokak ücretsiz."
+        },
+        {
+          "label": "Friends binasını bul — Grove Caddesi, West Village",
+          "sub": "Dizinin dış çekimlerinde kullanılan bina. Friends hayranıysan bonus durak. Via Carota'nın birkaç adım ötesinde."
+        }
+      ],
+      "title": "New York Checklist",
+      "completion_message": "New York'u doğru yaptın. Farklı bir mevsimde geri dön."
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "New York hız şehri; tuzakları da hızlı çalışır. Bu dördünü bil, dolarını gerçek New York'a harca.",
+      "items": [
+        {
+          "icon": "🦸",
+          "name": "Times Square'de kostümlü karakterler",
+          "description": "Elmo'yla, süper kahramanla fotoğraf 'ücretsiz' başlar, agresif bahşiş talebiyle biter. Meydanın zincir restoranları da aynı oyunun yemek hali.",
+          "instead": "Meydanı gör, fotoğrafını çek, beş dakikada çık; yemeği iki cadde ötede Hell's Kitchen'da ye."
+        },
+        {
+          "icon": "🎭",
+          "name": "Sokakta 'indirimli Broadway bileti'",
+          "description": "Elden satılan biletler ya sahte ya geçersiz; kaybeden hep turist.",
+          "instead": "Aynı gün indirimli bilet için resmi TKTS gişesine git ya da şovların kendi lotarya uygulamalarını dene."
+        },
+        {
+          "icon": "🗽",
+          "name": "'Özgürlük Heykeli turu' satıcıları",
+          "description": "Battery Park çevresinde bilet sallayan tekneler heykele yaklaşmaz bile; resmi feribotun taklitleri pahalı ve hayal kırıklığıdır.",
+          "instead": "Ya resmi Statue City Cruises ile git ya da sıfır dolarlık klasik: Staten Island Ferry — heykelin önünden geçer, ücretsizdir."
+        },
+        {
+          "icon": "🚕",
+          "name": "Havalimanında 'taksi mi lazım?' diyenler",
+          "description": "JFK'de sana yaklaşan korsan sürücüler üç kat fiyat ister; gerçek taksi kuyruğu dışarıdadır ve tarifesi sabittir.",
+          "instead": "Resmi taksi kuyruğunu kullan (JFK-Manhattan sabit tarife) ya da AirTrain + metro ile şehre in: en ucuz ve çoğu saatte en hızlısı."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "New York'ta sana bağıran her şey pahalı, seni görmezden gelen her şey iyidir. En iyi mekanlar seni davet etmez; kapıda kuyruk da istemez."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Parktan köprüye, bir Manhattan özeti",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Central Park sabahı",
+              "description": "Bethesda Terrace ve The Mall'da koşucularla yürü; park sabah New Yorkluların, gündüz turistlerindir."
+            },
+            {
+              "time": "10:30",
+              "title": "Met veya MoMA — birini seç",
+              "description": "İkisi bir güne sığmaz. Seç, iki saat ver; çıkışta Fifth Avenue'da yürü."
+            },
+            {
+              "time": "13:00",
+              "title": "Dilim pizza veya pastrami",
+              "description": "Joe's'tan dilim ya da Katz's'te pastrami on rye: ikisi de ayakta, ikisi de efsane."
+            },
+            {
+              "time": "15:00",
+              "title": "High Line + Chelsea Market",
+              "description": "Eski tren hattında yürü, aşağıda pazarda atıştır; Hudson Yards'ın camına kadar."
+            },
+            {
+              "time": "17:30",
+              "title": "Brooklyn Köprüsü'nde günbatımı",
+              "description": "Manhattan tarafından köprüye gir, DUMBO'ya yürü: gün batarken şehir arkanda kartpostala döner."
+            },
+            {
+              "time": "20:00",
+              "title": "West Village akşamı",
+              "description": "Ağaçlı sokaklarda bir bistro, sonra bir caz kulübü. New York gecesi kendini yazar."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehri turist gibi değil, misafir gibi yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Manhattan klasikleri",
+              "description": "Yukarıdaki 1 günlük akış: park, müze, High Line, köprü."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Aşağı şehir ve Brooklyn",
+              "description": "Sabah Staten Island Ferry (heykel selfiesi bedava), öğlen Lower East Side'da Russ & Daughters, öğleden sonra Williamsburg vintage'ları, akşam çatı barında Manhattan silüeti."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Yukarı şehir ve veda",
+              "description": "Sabah Harlem'de kahvaltı + chopped cheese, öğlen Met Cloisters'ın ortaçağ sessizliği, akşam Broadway'de şov — biletin lotaryadan geldiyse tadı iki kat."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Dil İngilizce ama New York kendi sözlüğüyle konuşur; bu beşi cebinde olsun.",
+      "items": [
+        {
+          "word": "How you doin'?",
+          "pronunciation": "hau yu duin",
+          "meaning": "Selam — cevap beklenmez, aynısıyla karşılık ver"
+        },
+        {
+          "word": "Bodega",
+          "pronunciation": "bodega",
+          "meaning": "Köşe bakkalı — sandviçin, kahvenin ve gece yarısı ihtiyaçlarının adresi"
+        },
+        {
+          "word": "Slice",
+          "pronunciation": "slays",
+          "meaning": "Dilim pizza — 'a slice to go' de, eline al, yürürken ye"
+        },
+        {
+          "word": "Schmear",
+          "pronunciation": "şmiır",
+          "meaning": "Bagel'a sürülen krem peynir — 'bagel with a schmear' tam sipariş"
+        },
+        {
+          "word": "Uptown / Downtown",
+          "pronunciation": "aptaun / dauntaun",
+          "meaning": "Kuzeye / güneye — metroda yön bunlarla sorulur, adresle değil"
+        }
+      ]
+    }
+  }
+}

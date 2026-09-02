@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Antalya",
+    "country": "Türkiye",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#C0661F",
+    "color_light": "#F9EFE3",
+    "tagline": "Città delle scogliere: zagare, teatri antichi e una cascata che si getta nel mare"
+  },
+  "pills": [
+    "Capitale della costa mediterranea",
+    "Una città la cui cascata si getta nel mare",
+    "Sciare al mattino, nuotare a mezzogiorno — possibile"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Benvenuti ad Antalya",
+      "intro": "Chiunque pensi che Antalya sia solo una 'città di villeggiatura' cambia idea alla prima occhiata dalle scogliere: i monti del Tauro si tuffano a picco nell'acqua blu, le vie ottomane di Kaleiçi si appoggiano a mura romane, e la cascata della città si riversa per quaranta metri direttamente nel Mediterraneo. Alberi di arancio amaro ombreggiano i marciapiedi, e i concerti risuonano ancora in teatri millenari. Questa città trova spazio per il vostro telo da mare e i vostri scarponi da trekking nello stesso weekend — qui il Mediterraneo non è solo un mare, ma un modo di vivere.",
+      "local_word": {
+        "word": "Falez",
+        "pronunciation": "fah-lez",
+        "definition": "Le scogliere costiere che sono il segno distintivo di Antalya: la città è costruita su queste ripide falesie di travertino. Passeggiare nei parchi sulle scogliere è il rituale serale degli abitanti di Antalya — il mare spumeggia sotto mentre i Beydağları si tingono di viola all'orizzonte."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Visita a ore, non a stagioni",
+          "description": "Il sole estivo di mezzogiorno non scherza: dedica le città antiche e Kaleiçi alla mattina, il mare al pomeriggio, la passeggiata sulle scogliere al tramonto. Una giornata ad Antalya si vive in tre turni — chi discute con il caldo si arrende all'ombra."
+        },
+        {
+          "number": 2,
+          "title": "Non provare a guidare a Kaleiçi",
+          "description": "Le strette vie del centro storico appartengono ai pedoni: lascia l'auto nei parcheggi esterni ed entra attraverso le mura a piedi. Perdersi non è un problema — ogni discesa termina al porto turistico o nel cortile di un caffè."
+        },
+        {
+          "number": 3,
+          "title": "Non saltare mai le città antiche",
+          "description": "Il raggio d'azione di Antalya è un museo a cielo aperto: Perge, Aspendos, Termessos e Phaselis sono tutte a un'ora di distanza. Aggiungi almeno una città antica al programma della spiaggia — su questa costa, la storia viene prima della sabbia."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeroporto",
+          "value": "Antalya (AYT)",
+          "sub": "~25 min dal centro · collegato via tram"
+        },
+        {
+          "icon": "🚋",
+          "label": "Come muoversi",
+          "value": "Tram + bus",
+          "sub": "L'AntalyaKart li copre tutti"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Lingua",
+          "value": "Turco",
+          "sub": "Vita multilingue nelle zone turistiche"
+        },
+        {
+          "icon": "🌊",
+          "label": "Caratteristica",
+          "value": "Le scogliere + il Düden",
+          "sub": "La cascata si riversa direttamente nel mare"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofia di Antalya",
+        "text": "L'orologio degli abitanti di Antalya è puntato sul tramonto: tè nel parco sulle scogliere, simit ai piedi della Torre Hıdırlık, ultima luce sul porto turistico. Concludi il tuo programma della giornata non a sera, ma al calar del sole — il resto è un dettaglio."
+      }
+    },
+    "transport": {
+      "title": "Come Muoversi",
+      "intro": "Il centro si esplora a piedi o in tram; un'auto a noleggio o un tour aprono le porte delle antiche città e delle calette nascoste, mentre gli autobus costieri collegano le spiagge.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Dall'aeroporto al centro",
+          "description": "L'aeroporto di Antalya (AYT) è vicino alla città: il tram AntRay lo collega al centro, mentre taxi e transfer raggiungono Kaleiçi in mezz'ora. Acquista l'AntalyaKart alla prima fermata: è l'unica chiave per autobus e tram."
+        },
+        {
+          "icon": "🚋",
+          "title": "Il tram: due linee, due anime",
+          "description": "Il moderno AntRay attraversa la città da un capo all'altro; il tram nostalgico a carrozza singola ondeggia dalla porta di Kaleiçi verso Konyaaltı. Il secondo è più un piacere che un mezzo di trasporto: prendi il posto vicino al finestrino."
+        },
+        {
+          "icon": "🚶",
+          "title": "Kaleiçi e i parchi sulla scogliera a piedi",
+          "description": "Il labirinto di Kaleiçi, il Parco Karaalioğlu e i sentieri sulla scogliera sono gli itinerari più belli della città: la discesa al porto turistico è ripida, il ritorno richiede pazienza. Scarpe comode, acqua e un cappello sono lo standard estivo."
+        },
+        {
+          "icon": "🚌",
+          "title": "Le linee per le spiagge e le cascate",
+          "description": "Gli autobus urbani collegano regolarmente le spiagge di Konyaaltı e Lara, e una linea serve le cascate del Düden. Salire sull'autobus con la borsa da spiaggia è la normalità qui: non c'è bisogno di timidezza; la gente del posto fa lo stesso."
+        },
+        {
+          "icon": "🚗",
+          "title": "Un'auto a noleggio: la chiave per le città antiche",
+          "description": "Quattro ruote sono il modo migliore per visitare Perge, Aspendos, Termessos e Phaselis al tuo ritmo: le strade sono buone, la segnaletica chiara. La strada di montagna per Termessos è ricca di curve: parti con il fresco del mattino."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consiglio sulla funivia",
+        "text": "Prendi la funivia di Tünektepe fino a 600 metri: la curva di Konyaaltı, le scogliere e i monti Beydağları in un'unica cornice. Sali un'ora prima del tramonto: durante la discesa potrai ammirare le luci della città dall'alto."
+      }
+    },
+    "stay": {
+      "title": "Dove Alloggiare",
+      "intro": "Ad Antalya la domanda è chiara: il cortile in pietra di Kaleiçi, il mare di Konyaaltı con le montagne alle spalle, o la sabbia di Lara?",
+      "local_word": {
+        "word": "Avlu",
+        "pronunciation": "av-loo",
+        "definition": "Il cuore di una dimora di Kaleiçi: il fresco giardino interno con i suoi alberi di arancio amaro e la cisterna. Scegliere un boutique hotel ad Antalya significa davvero scegliere un cortile: la colazione si fa lì, il bicchiere della sera si beve lì, ed è il rifugio della giornata calda."
+      },
+      "items": [
+        {
+          "name": "Kaleiçi",
+          "badge": "Più suggestivo",
+          "badge_type": "vibe",
+          "description": "Boutique hotel ricavati da dimore ottomane, ognuno con il suo cortile: marina, mura e vicoli storici a portata di mano. I suoni dei bar potrebbero arrivare nelle notti estive – il prezzo dell'atmosfera, con il silenzio mattutino come ricompensa.",
+          "tags": [
+            "Dimore con cortile",
+            "A piedi al porto turistico",
+            "Tessuto storico"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kaleiçi+Antalya"
+        },
+        {
+          "name": "Konyaaltı",
+          "badge": "Montagna + mare",
+          "badge_type": "hot",
+          "description": "Hotel e appartamenti moderni dietro la spiaggia di ciottoli ai piedi dei Beydağları: montagne al mattino, vista mare la sera. Con la sua passeggiata lungomare e la pista ciclabile, la costa più ariosa della città.",
+          "tags": [
+            "Sullo sfondo i Beydağları",
+            "Passeggiata sul lungomare",
+            "Comfort moderno"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Konyaaltı+Antalya"
+        },
+        {
+          "name": "Lara and Kundu",
+          "badge": "Sabbia e resort",
+          "badge_type": "value",
+          "description": "Una lunga spiaggia sabbiosa e i grandi hotel all-inclusive: il classico per famiglie e vacanzieri amanti della spiaggia. La distanza dal centro è bilanciata dal comfort dell'hotel – chi visita la città dovrebbe prevedere un mezzo di trasporto.",
+          "tags": [
+            "Spiaggia sabbiosa",
+            "All-inclusive",
+            "Adatto alle famiglie"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lara+Kundu+Antalya"
+        },
+        {
+          "name": "Il centro — Işıklar e Muratpaşa",
+          "badge": "Il ritmo locale",
+          "badge_type": "local",
+          "description": "La vita quotidiana degli abitanti di Antalya tra caffè, pasticcerie e vie del mercato: a pochi passi da Kaleiçi, prezzi inferiori rispetto alla prima linea turistica. Per visitare la città vivendola.",
+          "tags": [
+            "Caffè locali",
+            "A piedi a Kaleiçi",
+            "Prezzi onesti"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Işıklar+Caddesi+Muratpaşa+Antalya"
+        },
+        {
+          "name": "Çıralı",
+          "badge": "La via di fuga",
+          "badge_type": "local",
+          "description": "Un tranquillo villaggio di guesthouse a un'ora di distanza, su una spiaggia dove nidificano le tartarughe: vicino alle rovine di Olympos e alle fiamme della Chimaera. L'indirizzo per vivere Antalya a contatto con la natura piuttosto che da una base.",
+          "tags": [
+            "Spiaggia delle tartarughe",
+            "Cultura delle guesthouse",
+            "Accanto alle fiamme"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Çıralı+Antalya"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quando Andare",
+      "intro": "Il calendario solare di Antalya è generoso: oro in primavera e autunno, l'estate è una prova di calore, e l'inverno la stagione della leggenda 'sci al mattino, bagno a mezzogiorno'.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Stagione dei Fiori d'Arancio",
+          "months": "Apr – Jun",
+          "subtitle": "Primavera · Profumo di fiori, il mare si riscalda",
+          "description": "La città profuma di fiori d'arancio, i siti antichi si tingono di verde e il mare si riscalda con l'arrivo di maggio. Le folle sono ancora in arrivo e tutto è aperto: questo è il periodo più equilibrato per visitare Antalya.",
+          "callout": {
+            "type": "tip",
+            "label": "Consiglio per aprile",
+            "text": "Venite all'inizio di aprile: i fiori d'arancio amaro avvolgono l'intera città e i parchi sulla scogliera sono in fiore. Queste sono anche le settimane più fresche e confortevoli dell'anno per passeggiare tra le città antiche."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Estate",
+          "name": "Il Picco di Calore",
+          "months": "Jul – Aug",
+          "subtitle": "Estate · Mezzogiorno che sfiora i 40 gradi, lunghe serate in spiaggia",
+          "description": "Il caldo è intenso e l'umidità si aggiunge: la vita si divide tra mattina, mare e mezzogiorno con aria condizionata. Il mare è magnifico e le serate lunghe — festival e concerti all'aperto entrano nella storia ad Aspendos.",
+          "callout": {
+            "type": "warning",
+            "label": "Nota per luglio",
+            "text": "In estate concentrate la visita alle città antiche tra le 8 e le 11 del mattino e dedicate il mezzogiorno al mare o al museo. Chiunque tenti Termessos a mezzogiorno d'estate si trova faccia a faccia con il sole su una montagna — acqua, cappello e l'ora mattutina sono non negoziabili."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autunno",
+          "name": "Il Mare Più Caldo",
+          "months": "Sep – Nov",
+          "subtitle": "Autunno · Il picco del mare a settembre-ottobre, aria più mite",
+          "description": "Il mare restituisce il calore accumulato in estate a settembre e ottobre: la stagione balneare si estende fino a novembre, le folle diminuiscono e la luce diventa quella perfetta per i fotografi. Chi conosce Antalya prenota per questi mesi.",
+          "callout": {
+            "type": "tip",
+            "label": "Consiglio per ottobre",
+            "text": "A ottobre sia nuotate che percorrete le tappe di Antalya della Via Licia: l'aria è perfetta per le escursioni e il mare è ancora caldo. Questo è il miglior mese dell'anno per vivere 'due mondi in uno'."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Inverno",
+          "name": "Inverno Verde e Saklıkent",
+          "months": "Dec – Mar",
+          "subtitle": "Inverno · Giornate miti e soleggiate, stagione sciistica in montagna",
+          "description": "L'inverno è mite ad Antalya: nelle giornate di sole si beve tè nel parco sulla scogliera con una giacca mentre la raccolta delle arance colora la città. Su nei Beydağları, la stagione sciistica di Saklıkent si apre — la leggenda della città è vera.",
+          "callout": {
+            "type": "tip",
+            "label": "Consiglio per marzo",
+            "text": "A fine marzo mettete alla prova la leggenda voi stessi: sci a Saklıkent al mattino, sole a 20 gradi in città a mezzogiorno e un tuffo in mare se osate. Stesso giorno, stessa città — nessuno crederà alle vostre foto."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Cosa Mangiare",
+      "intro": "La cucina di Antalya è l'incontro tra la tavola mediterranea e quella Yörük: tahini piyaz, spiedini alla brace, succo d'arancia appena spremuto e le trattorie di pesce del porto.",
+      "local_word": {
+        "word": "Hibeş",
+        "pronunciation": "hee-besh",
+        "definition": "Il meze simbolo di Antalya: un denso incontro di tahini, cumino, peperoncino in scaglie e limone. Arriva per primo in tavola e si raccoglie con il pane — per gli abitanti di Antalya, chi lesina sul cumino ha perso in partenza."
+      },
+      "items": [
+        {
+          "icon": "🥗",
+          "name": "Tahini piyaz — il piatto simbolo della città",
+          "description": "Il piyaz di Antalya sposa fagioli bianchi con tahini: agliato, pungente di aceto, coronato da un uovo. Non pensatelo come contorno del köfte, ma come protagonista assoluto — in questa città il piyaz è identità, non guarnizione.",
+          "tag": "Classico cittadino · da abbinare al köfte",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=tahinli+piyaz+Antalya"
+        },
+        {
+          "icon": "🍢",
+          "name": "Şiş köfte e tandır",
+          "description": "Spiedini di köfte pressati a mano sulla brace e agnello tandır cotto lentamente in una fossa: l'orgoglio del pranzo nelle lokanta dei commercianti. Con hibeş, pomodoro a fette e peperone carbonizzato — la tavola mediterranea alla griglia.",
+          "tag": "In una esnaf lokantası · con hibeş",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=şiş+köfte+Antalya"
+        },
+        {
+          "icon": "🐟",
+          "name": "Le trattorie di pesce del porto",
+          "description": "Il pescato giornaliero del golfo si sceglie dal banco nei ristoranti della marina e del porto peschereccio: cernia, orata, ricciola di stagione. Un tavolo al tramonto sulla scogliera aggiunge la vista al conto — sceglietelo consapevolmente.",
+          "tag": "Scegliete dal banco · al tramonto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=balık+lokantası+yat+limanı+Antalya"
+        },
+        {
+          "icon": "🍊",
+          "name": "Le bancarelle di arance e agrumi",
+          "description": "L'arancia è lo stemma di questa città: un bicchiere appena spremuto, marmellata di arance amare al mercato, frutteti che risplendono sui rami in inverno. Se a marzo cercate il miele di fiori d'arancio, dirigetevi al bazaar.",
+          "tag": "Spremuta fresca · marmellata dal mercato",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=portakal+pazarı+Antalya"
+        },
+        {
+          "icon": "🫓",
+          "name": "Colazione Yörük e gözleme",
+          "description": "Una tradizione che arriva dai pascoli di montagna: gözleme cotto sulla piastra, formaggio di capra, olive e tè sul fuoco a legna. I giardini per la colazione sulla strada di Geyikbayırı sono il classico del weekend.",
+          "tag": "Nel weekend · in un giardino di montagna",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=gözleme+yörük+kahvaltısı+Antalya"
+        },
+        {
+          "icon": "🍧",
+          "name": "Bici bici e i dolci rinfrescanti",
+          "description": "Ghiaccio tritato, budino di amido e sciroppo di rose: il bici bici è l'invenzione di strada per il caldo mediterraneo. Con karsambaç e gelato a fianco — i rinfrescanti ufficiali di un pomeriggio estivo.",
+          "tag": "Classico di strada · a mezzogiorno d'estate",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=bici+bici+Antalya"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regola a tavola",
+        "text": "Sulla prima linea turistica il prezzo 'pesce + vista' raddoppia: scegliete invece il locale con il bancone in vista, il menu del giorno scritto a mano e pieno di gente del posto. Alla piyaz house la regola è semplice — andate a mezzogiorno; una buona pentola non sopravvive mai fino a metà pomeriggio."
+      }
+    },
+    "hidden_gems": {
+      "title": "Tesori Nascosti",
+      "intro": "Tutti visitano Kaleiçi; questi sei sono il lato meno conosciuto di Antalya.",
+      "items": [
+        {
+          "rarity": "Una cascata nel mare",
+          "name": "Le Cascate del Düden Inferiore — dalla scogliera di Lara",
+          "description": "L'acqua del Düden si getta per quaranta metri dalla scogliera direttamente nel Mediterraneo: una delle poche cascate al mondo che cadono in mare. Ammiratela da una barca o dal parco soprastante — al tramonto l'acqua si tinge d'oro.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Düden+şelalesi+Lara+Antalya"
+        },
+        {
+          "rarity": "Un teatro tra le nuvole",
+          "name": "Termessos",
+          "description": "Un'antica città costruita in una fenditura della montagna a mille metri: il dietro le quinte del suo teatro è un precipizio, il suo pubblico le nuvole. La città che Alessandro Magno rinunciò a conquistare — la salita costa fatica, la ricompensa è la vista antica più drammatica della Turchia.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Termessos+Antik+Kenti"
+        },
+        {
+          "rarity": "La via colonnata all'alba",
+          "name": "Perge",
+          "description": "Una città romana con stadio, viale colonnato e fontane: alle prime ore del mattino è quasi deserta. Abbinatela alle statue nel Museo di Antalya — le pietre sono qui, i loro volti sono lì.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Perge+Antik+Kenti"
+        },
+        {
+          "rarity": "La torre-balcone della città",
+          "name": "La Torre di Hıdırlık e il tramonto a Karaalioğlu",
+          "description": "Ai piedi della torre romana si trova il palco per il tramonto della città: scogliere, golfo e i monti Beydağları in un'unica cornice. Il venditore di simit passa, arriva il tè, il sole scende dietro Konyaaltı — lo spettacolo più democratico di Antalya.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hıdırlık+Kulesi+Antalya"
+        },
+        {
+          "rarity": "La collina delle fiamme inestinguibili",
+          "name": "Yanartaş (la Chimera)",
+          "description": "Sul pendio sopra Çıralı, fiamme fuoriescono dalla roccia da migliaia di anni, spegnendosi e riaccendendosi: questa è la Chimera della mitologia. Salite dopo il tramonto — fiamme, stelle e mare si fondono nella stessa cornice.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Yanartaş+Çıralı"
+        },
+        {
+          "rarity": "Le calette a gradini delle scogliere",
+          "name": "Le spiagge della scogliera — da Mermerli ad Adalar",
+          "description": "Calette rocciose all'interno della città, raggiungibili tramite scale: lo storico molo di Mermerli, le piattaforme di pietra di Adalar. Non sabbia — ma l'acqua più limpida della città, e il bagno di mezzogiorno dei locali.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mermerli+Plajı+Antalya"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consiglio per il museo",
+        "text": "Visitate il Museo di Antalya dopo le città antiche, non prima: incontrare gli dei del viale di Perge nella sala delle statue dopo aver percorso quel viale completa la storia. Le ore del tardo pomeriggio sono le più tranquille."
+      }
+    },
+    "traps": {
+      "title": "Trappole per Turisti",
+      "intro": "Antalya conosce bene il turismo — e anche i suoi 'giochi': riconosci queste quattro e il tuo budget e la tua giornata rimarranno intatti.",
+      "items": [
+        {
+          "icon": "🍽️",
+          "name": "Il 'benvenuto, amico' dal prezzo ignoto a Kaleiçi",
+          "description": "Ad alcuni tavoli, raggiunti tramite inviti all'ingresso nelle affollate vie della città vecchia, il prezzo si rivela solo sul conto.",
+          "instead": "Non sederti mai a un tavolo senza prezzi scritti; scegli i locali con cortile frequentati da clienti locali. La regola delle 'due strade più in là' vale anche a Kaleiçi."
+        },
+        {
+          "icon": "🏖️",
+          "name": "Scambiare il beach club per la spiaggia",
+          "description": "Alcune attività a Konyaaltı e Lara trasformano una giornata in spiaggia in un conto salato con lettini + consumazione minima obbligatoria.",
+          "instead": "Le sezioni di spiaggia pubblica sono gratuite ed è lo stesso mare: stendi il tuo asciugamano, prendi il tuo tè dal chiosco. Scegli un beach club deliberatamente per la musica e il comfort, mai per caso."
+        },
+        {
+          "icon": "🚤",
+          "name": "Il chiassoso tour in barca 'pirata' con altoparlante",
+          "description": "Enormi barche da festa percorrono le calette in convoglio: le soste per il bagno sono brevi, la folla è tanta.",
+          "instead": "Scegli una barca piccola o un tour privato e chiedi l'itinerario e i tempi di nuoto prima di salire a bordo. Se desideri una caletta silenziosa, prendi la prima partenza del mattino — anche le calette preferiscono i mattinieri."
+        },
+        {
+          "icon": "🚕",
+          "name": "Il 'gioco' del trasferimento aeroporto-hotel",
+          "description": "In alcuni veicoli presi al volo senza un prezzo pattuito, la distanza è breve e la cifra una sorpresa.",
+          "instead": "Usa la combinazione tram + breve corsa in taxi, o un trasferimento con il prezzo scritto in anticipo. In città, un taxi chiamato tramite app batte sempre la contrattazione sul marciapiede."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regola d'oro",
+        "text": "L'errore più costoso ad Antalya è pianificare la giornata basandosi sul sole di mezzogiorno: investi le tue energie, come i tuoi soldi, al mattino e alla sera. Mare a mezzogiorno, storia all'alba, scogliere al tramonto — rompi quest'ordine e incontrerai solo metà della città."
+      }
+    },
+    "itinerary": {
+      "title": "Itinerari Pronti",
+      "intro": "Se non ami pianificare, segui questi itinerari. Gli orari sono flessibili; cogli lo spirito, non la rigidità.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Se Hai 1 Giorno",
+          "subtitle": "Una giornata mediterranea dalle mura alle scogliere",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Una mattinata a Kaleiçi",
+              "description": "Entra dalla Porta di Adriano, perditi tra il Minareto Spezzato e i vicoli delle dimore; scendi al porto turistico per il primo tè affacciato sul mare — la folla è ancora addormentata."
+            },
+            {
+              "time": "10:30",
+              "title": "Il Museo di Antalya o Perge",
+              "description": "Affronta Roma nelle sale delle statue del museo, oppure guida per mezz'ora e percorri il viale colonnato di Perge: la frescura mattutina appartiene alla storia."
+            },
+            {
+              "time": "13:00",
+              "title": "Un pranzo a base di piyaz + köfte",
+              "description": "Piyaz al tahini, şiş köfte e hibeş in una lokanta tradizionale: la tavola tipica di Antalya. Succo d'arancia fresco spremuto per completare."
+            },
+            {
+              "time": "15:00",
+              "title": "Tempo di mare",
+              "description": "Un bagno con vista sulle montagne a Konyaaltı o un fresco ristoro nel centro città nella caletta con scalinata di Mermerli: il pomeriggio appartiene all'acqua."
+            },
+            {
+              "time": "18:00",
+              "title": "Il tramonto a Karaalioğlu",
+              "description": "Passeggia nel parco sulla scogliera e prendi posto alla Torre di Hıdırlık: mentre il sole scende dietro i Beydağları, il golfo si tinge d'oro."
+            },
+            {
+              "time": "20:00",
+              "title": "Serata a Kaleiçi",
+              "description": "Cena in un cortile, poi una passeggiata notturna sopra il porto turistico: luci dei lampioni sui vicoli di pietra, luci delle barche sull'acqua — una giornata mediterranea si conclude così."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Se Hai 3 Giorni",
+          "subtitle": "Città, antichità e natura — tre Antalya",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Antalya Classica",
+              "description": "L'itinerario di un giorno descritto sopra: Kaleiçi, museo/Perge, piyaz, mare, tramonto."
+            },
+            {
+              "time": "Day 2",
+              "title": "Il tour dell'antichità",
+              "description": "Sali presto al teatro di montagna di Termessos; nel pomeriggio, sali sul palco di Aspendos; sulla via del ritorno, osserva le Cascate del Düden Inferiore gettarsi in mare; la sera, il pescato del giorno in una trattoria di pesce al porto."
+            },
+            {
+              "time": "Day 3",
+              "title": "Natura e addio",
+              "description": "Fuggi verso la linea Çıralı-Olympos: rovine e la spiaggia delle tartarughe al mattino, il mare nel pomeriggio, le fiamme della Chimera dopo il tramonto. Un ultimo bici bici sulla via del ritorno — che il commiato sia rinfrescante."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit di sopravvivenza in 5 parole",
+      "intro": "L'ospitalità mediterranea è un abbraccio caloroso; queste cinque parole ti apriranno ogni tavola.",
+      "items": [
+        {
+          "word": "Hoş geldin",
+          "pronunciation": "hosh gel-din",
+          "meaning": "Il cuore del benvenuto — si risponde con 'hoş bulduk'; insieme ti apriranno ogni porta"
+        },
+        {
+          "word": "Afiyet olsun",
+          "pronunciation": "ah-fee-yet ol-soon",
+          "meaning": "L'apertura e la chiusura della tavola — lo sentirai quando arriva il piyaz"
+        },
+        {
+          "word": "Ellerine sağlık",
+          "pronunciation": "el-le-ri-ne sah-lik",
+          "meaning": "Il più bel ringraziamento al cuoco — la frase che fa sorridere il maestro"
+        },
+        {
+          "word": "Sağ ol",
+          "pronunciation": "sah ol",
+          "meaning": "Il grazie disinvolto — usato accanto al bicchiere di tè"
+        },
+        {
+          "word": "Görüşürüz",
+          "pronunciation": "gur-oo-shoo-rooz",
+          "meaning": "L'addio che sa di promessa — nel Mediterraneo è una promessa, non un congedo"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Checklist di Antalya",
+      "completion_message": "Sağlıcakla! Hai esplorato la città delle scogliere come si deve!",
+      "items": [
+        {
+          "label": "Ammira il tramonto dalla Torre di Hıdırlık",
+          "sub": "Scogliere, golfo e i monti Beydağları in un'unica cornice"
+        },
+        {
+          "label": "Assaggia il piyaz al tahini nel luogo d'origine",
+          "sub": "Vai a mezzogiorno — finisce subito!"
+        },
+        {
+          "label": "Ammira le cascate del Düden inferiore che si gettano in mare",
+          "sub": "Quaranta metri a picco nel Mediterraneo"
+        },
+        {
+          "label": "Sali al teatro di montagna di Termessos",
+          "sub": "A mille metri, con le nuvole come pubblico"
+        },
+        {
+          "label": "Bevi un tè in un cortile di Kaleiçi",
+          "sub": "All'ombra degli aranci, tra fresche mura di pietra"
+        },
+        {
+          "label": "Fai il bagno nella caletta con scalinata di Mermerli",
+          "sub": "L'acqua più limpida della città"
+        },
+        {
+          "label": "Percorri il viale colonnato di Perge",
+          "sub": "Alla prima ora, quasi da solo"
+        },
+        {
+          "label": "Ammira le fiamme della Chimera nel buio",
+          "sub": "Il fuoco della mitologia — sopra Çıralı"
+        },
+        {
+          "label": "Bevi una spremuta d'arancia fresca",
+          "sub": "Lo stemma della città in un bicchiere"
+        },
+        {
+          "label": "Ammira il golfo da Tünektepe",
+          "sub": "600 metri in funivia — verso il tramonto"
+        }
+      ]
+    }
+  }
+}

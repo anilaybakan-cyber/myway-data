@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Cenevre",
+    "country": "İsviçre",
+    "language": "tr",
+    "version": "2.1",
+    "color_primary": "#1A4B8C",
+    "color_light": "#E8EEF8",
+    "tagline": "Dünyanın en pahalı şehirlerinden biri — en iyi şeylerin büyük bölümü ücretsiz",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Check-in'de Transport Card'ı sor",
+    "Fondüyü doğru yerde ye",
+    "Jonction'a yürü"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Cenevre küçük bir şehir — ancak içinde Birleşmiş Milletler'in Avrupa merkezi, 40'tan fazla uluslararası kuruluş ve dünyanın en yoğun diplomatik misyonları var. Bu şehre girerken fark ediyorsun: her şey çok düzenli, çok temiz, çok sessiz. Gece 22:00'den sonra sokaklar ıssızlaşıyor. Sonra Lac Léman'ın kıyısına oturuyorsun, karşıda Alpler, üstte Jet d'Eau, yanında bir kahve — ve şehrin neden burada kurulduğunu anlıyorsun. Jonction'da iki nehir farklı renklerde birleşiyor. Carouge'da İtalyan mahalle ruhu solumaya başlıyor. Cenevre küçük ama katmanlı.",
+      "local_word": {
+        "pronunciation": "mwa-tYEY mwa-tYEY",
+        "definition": "Yarı yarıya. Cenevre'de fondü söylendiğinde kasıt bu: yarı Gruyère, yarı Vacherin Fribourgeois peyniri. Standart karışım bu. Restoranda sadece 'fondü' değil, 'moitié-moitié' iste — farkı anlarsın. Kış yemeği; Kasım'dan Mart'a.",
+        "word": "Moitié-Moitié"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Otelde konaklıyorsan tüm ulaşım ücretsiz — check-in'de sor",
+          "description": "Cenevre'de bir otel, hostel veya kamp alanında konaklıyorsan Geneva Transport Card'a hak kazanıyorsun. Konaklama boyunca tramvay, otobüs, tren ve sarı feribot dahil tüm toplu taşıma ücretsiz. Havalimanından otel transferini de kapsıyor. Bazen otomatik gelmiyor — check-in sırasında mutlaka sor."
+        },
+        {
+          "number": 2,
+          "title": "Pahalı bir şehir — ama ücretsizler gerçekten iyi",
+          "description": "Restoran fiyatları Avrupa'nın en yükseklerinden; planlarını buna göre yap. Ancak unutma: Jet d'Eau, Reformation Duvarı, Vieille Ville sokaklarını gezmek, Jonction'a yürümek ve göl kıyısı ücretsiz. Birçok müze Pazar günleri ücretsiz. Öğle menüleri akşam yemeklerinin yarı fiyatına, genellikle aynı kalitede."
+        },
+        {
+          "number": 3,
+          "title": "Fondü ve raclette kış yemekleri — yazın menüde görsen de sipariş etme",
+          "description": "Fondü ve raclette için doğru mevsim Kasım'dan Mart'a kadar. Yazın turistik restoranlarda servis edilse de bu yemeklerin ruhu kış soğuğuyla geliyor. Yazın doğru soru şu: 'Filets de perches du Léman' var mı? Lac Léman'dan taze tatlı su levreği — menüde 'du Léman' etiketi olmayan balık Doğu Avrupa'dan dondurulmuş olabilir."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "GVA — Geneva Cointrin",
+          "sub": "Tren ile 7 dakikada Gare Cornavin · çıkışta ücretsiz 80 dk bilet"
+        },
+        {
+          "icon": "🚋",
+          "label": "Ulaşım",
+          "value": "TPG — tramvay, otobüs, tren, Mouettes",
+          "sub": "Otelde konaklıyorsan tüm konaklama boyunca ücretsiz"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Hava",
+          "value": "Dört mevsim, göl ve dağ etkisi",
+          "sub": "Nis–Haz ve Eyl ideal · Ara–Mar soğuk · Bise rüzgârına hazır ol"
+        },
+        {
+          "icon": "💰",
+          "label": "Para birimi",
+          "value": "İsviçre Frangı (CHF)",
+          "sub": "Avrupa'nın en pahalı şehirlerinden · öğle menüsü akşamdan çok uygun"
+        }
+      ],
+      "tip": {
+        "label": "Geneveroule — ücretsiz bisiklet",
+        "text": "Gare Cornavin'in tam karşısında Geneveroule bürosu var. Kimliğini ve 20 CHF depozit bırakıyorsun, bir günlük bisiklet alıyorsun. Depozit gün sonunda iade ediliyor; bisiklet ücretsiz. Göl kıyısı, Carouge ve Plainpalais arası düz ve bisiklet dostu. Sezon Mayıs'tan Ekim'e kadar.",
+        "type": "tip"
+      },
+      "title": "Cenevre'ye Hoş Geldin"
+    },
+    "transport": {
+      "intro": "Cenevre küçük ve iyi bağlantılı. Tramvay, otobüs, tren ve sarı feribot tek bilet sisteminde çalışıyor — ve otelde konaklıyorsan hepsi ücretsiz.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanı → Şehir",
+          "description": "Havalimanının bodrum katındaki tren istasyonundan Gare Cornavin'e 7 dakika, her 10-15 dakikada bir sefer. Bagaj bandından çıktıktan sonra bilet makinelerinde uçak biniş kartını gösterirsen ücretsiz 80 dakikalık bilet alabilirsin. Geneva Transport Card'ın varsa zaten ücretsiz, o bileti almanı gerektirmez."
+        },
+        {
+          "icon": "🚋",
+          "title": "TPG — tramvay ve otobüs",
+          "description": "6 tramvay hattı (12-17 numaralı) ve kapsamlı otobüs ağı şehrin her köşesine ulaşıyor. Tek bilet 60 dakika geçerli; tramvay, otobüs, tren ve Mouettes arasında aktarma serbest. Biletler duraklardaki makinelerden alınıyor — şehir içi otobüslerde makine yok, durağa gelmeden önce al."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Mouettes Genevoises — sarı feribot",
+          "description": "Gölün iki yakasını birleştiren küçük sarı tekneler, aynı TPG bileti ile biniliyor. M1 hattı Pâquis'den Eaux-Vives'e, M2 hattı Mont-Blanc Köprüsü yakınından Genève-Plage'a gidiyor. Kısa mesafe ama Lac Léman üzerinden geçiş — şehri farklı bir açıdan görmenin en kolay yolu."
+        },
+        {
+          "icon": "🚲",
+          "title": "Bisiklet — Geneveroule",
+          "description": "Gare Cornavin'in tam karşısında. Kimlik ve 20 CHF depozit karşılığı ücretsiz günlük bisiklet. Göl kıyısından Carouge'a, Plainpalais'ye düz ve güvenli güzergahlar. Sezon Mayıs'tan Ekim'e."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürüyüş — merkez için ideal",
+          "description": "Vieille Ville, Pâquis ve göl kıyısı yürüyerek bağlantılı. Gare Cornavin'den Jet d'Eau'ya 20 dakika. Carouge'a tramvayla 15 dakika ya da yürüyerek 35 dakika. Jonction merkeze 25 dakika yürüyüş."
+        }
+      ],
+      "callout": {
+        "label": "Geneva Transport Card — check-in'de mutlaka sor",
+        "text": "Cenevre'de otel, hostel veya kamp alanında konaklıyorsan bu karta hak kazanıyorsun. Konaklama boyunca Zone 10'daki tüm TPG araçlarında, trenlerde ve Mouettes'te geçerli. Bazen otomatik e-posta ile gönderilmiyor — check-in'de sormazsan kaçırabilirsin. Havalimanı transferini de kapsıyor. Cenevre'de toplu taşıma pahalı; bu kart ciddi bir tasarruf.",
+        "type": "tip"
+      },
+      "title": "Şehirde Ulaşım"
+    },
+    "stay": {
+      "intro": "Cenevre küçük ama mahalleleri birbirinden çok farklı. Nerede kaldığın şehri nasıl deneyimlediğini doğrudan etkiliyor.",
+      "local_word": {
+        "pronunciation": "ka-RUJE",
+        "definition": "18. yüzyılda Sardinyalı mimarlar tarafından planlanan, Cenevre'ye bağlı ama ruhundan bağımsız bir mahalle. İtalyan etkisi çok güçlü: geniş avlular, az katlı binalar, kaldırım kafeleri. Şehrin protokolcü soğukluğundan tamamen farklı. Hafta sonu pazarı, yerel restoranlar ve akşam atmosferiyle Cenevre'nin en canlı köşesi.",
+        "word": "Carouge"
+      },
+      "items": [
+        {
+          "name": "Rive / Eaux-Vives",
+          "badge": "En merkezi",
+          "badge_type": "hot",
+          "description": "Gölün sol yakasında, Jet d'Eau'ya yürüme mesafesinde. Jardin Anglais, alışveriş caddeleri ve Halles de Rive gıda pazarı burada. Her yere tramvayla yakın. İlk kez gelip her şeye kolay ulaşmak istiyorsan doğru seçim.",
+          "tags": [
+            "Jet d'Eau yürüme mesafesi",
+            "Halles de Rive",
+            "Her yere kolay ulaşım"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Eaux-Vives+Geneva"
+        },
+        {
+          "name": "Pâquis",
+          "badge": "En canlı",
+          "badge_type": "local",
+          "description": "Gare Cornavin'in hemen yanında, gölün sağ yakasında. Cenevre'nin en çok kültürlü mahallesi; Asyalı, Afrikalı, Arap topluluklar burada. Bains des Pâquis göl kenarında yaz toplanma noktası. Geceleri restoranlar ve barlar geç saate kadar açık — şehrin en az uyuyan yeri.",
+          "tags": [
+            "Bains des Pâquis",
+            "Gare Cornavin yakını",
+            "Çok kültürlü, canlı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Paquis+Geneva"
+        },
+        {
+          "name": "Vieille Ville / Eski Şehir",
+          "badge": "En tarihi",
+          "badge_type": "hot",
+          "description": "Tepenin üzerinde, Cathédrale Saint-Pierre ve Reformation Duvarı burada. Dar taş sokaklar, tarihi binalar, küçük kafeler. Gün içinde kalabalık; sabah erken ya da akşamüstü saatlerinde bambaşka bir hava var. Tepede olduğu için yorucu ama manzara buna değiyor.",
+          "tags": [
+            "Cathédrale Saint-Pierre",
+            "Reformation Duvarı",
+            "Panoramik manzara"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vieille+Ville+Geneva"
+        },
+        {
+          "name": "Carouge",
+          "badge": "En karakterli",
+          "badge_type": "local",
+          "description": "Teknik olarak Cenevre'ye bağlı ayrı bir belediye. Tramvayla 15 dakika. İtalyan avlu mimarisi, hafta sonu pazarı, yerel restoranlar. Şehrin geri kalanının soğuk ve düzenli havasından tamamen farklı. Akşam yemeği için Carouge'a git; orada kal.",
+          "tags": [
+            "Tramvayla 15 dk",
+            "Hafta sonu pazarı",
+            "En sahici mahalle"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Carouge+Geneva"
+        },
+        {
+          "name": "Plainpalais / Jonction",
+          "badge": "En yerel",
+          "badge_type": "local",
+          "description": "Cenevre Üniversitesi çevresinde öğrenci ve sanatçı mahallesi. Plainpalais meydanı Çarşamba ve Cumartesi günleri şehrin en iyi ikinci el pazarına dönüşüyor. Jonction'da Rhône ve Arve kavuşuyor — yazın yerel halkın nehirde yüzdüğü nokta. Turistik atmosferden en uzak köşe.",
+          "tags": [
+            "Plainpalais ikinci el pazarı",
+            "Jonction kavşağı",
+            "Öğrenci mahallesi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Plainpalais+Geneva"
+        }
+      ],
+      "title": "Nerede Kalmalı"
+    },
+    "best_time": {
+      "intro": "Cenevre dört mevsimi ayrı ayrı yaşayan bir şehir. Yazın göl, kışın Alpler ve sessizlik.",
+      "items": [
+        {
+          "label": "İlkbahar",
+          "name": "En dengeli dönem",
+          "months": "Nis – Haz",
+          "description": "Nisan sonundan Haziran'a kadar Cenevre'nin en dengeli dönemi. Göl henüz soğuk ama kıyısı güzel. Jardin Anglais ve Parc La Grange çiçekte. Kalabalık henüz yoğunlaşmamış, uçuş fiyatları yaz zirvesinin altında. Bisiklet sezonu açılıyor. Mayıs'ta şehir en iyi halinde: ne çok soğuk, ne çok kalabalık.",
+          "callout": {
+            "label": "Parc La Grange — gül bahçesi ve göl manzarası",
+            "text": "Eaux-Vives'de, gölün sol kıyısında. Cenevre'nin en büyük gül bahçesi Mayıs sonu Haziran başında tam çiçekte. Antik villa, piknik alanları, göl manzarası. Ücretsiz, her zaman açık. Turistik haritaların büyük bölümünde görmezden gelinen bir yer.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "İlkbahar · Kalabalık gelmeden, şehir açılırken"
+        },
+        {
+          "label": "Yaz",
+          "name": "Göl sezonu",
+          "months": "Tem – Ağu",
+          "description": "Temmuz ve Ağustos en kalabalık aylar ama şehir yine de bunaltıcı değil. Göl yüzme için hazır. Cenevre Festivali Ağustos başında — büyük havai fişek gösterisi. Fondü yerine taze Léman levreği; yazın doğru tercih bu.",
+          "callout": {
+            "label": "Jonction'da nehirde yüzmek",
+            "text": "Rhône ve Arve'nin birleştiği Jonction'da yaz aylarında nehirde yüzmek şehrin yaz ritüeli. Nehir akıntılı; güvenli bölgeler var. Giriş ücretsiz. Yerel kalabalık, güneş — turistik değil, tamamen yerel.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Yaz · Göl, nehir, açık hava"
+        },
+        {
+          "label": "Sonbahar",
+          "name": "En hafife alınan sezon",
+          "months": "Eyl – Kas",
+          "description": "Eylül ve Ekim kalabalığın gittiği, havanın hâlâ ılık olduğu dönem. Göl sakin ve mavi. Fondü sezonu açılıyor. Ekim sonunda Favarger'in yıllık çikolata kazanları çikolatacı vitrinlerinde belirmeye başlıyor — L'Escalade'ın habercisi.",
+          "callout": {
+            "label": "Carouge'da sonbahar akşamı",
+            "text": "Eylül ve Ekim'de Carouge'un kaldırım kafeleri ve restoranları hâlâ dışarıda; yaz kalabalığı gitmiş. Çarşamba ve Cumartesi pazarında sonbahar ürünleri: mantar, kabak, yerel peynirler. Akşamüstü git, pazar kalıntılarını gez, bir yerde otur. Şehrin en rahat saatleri.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Sonbahar · Göl sakin, fondü geri döndü"
+        },
+        {
+          "label": "Kış",
+          "name": "Sessizlik ve Alpler",
+          "months": "Ara – Mar",
+          "description": "Aralık'ta Noel pazarı ve L'Escalade kutlamasıyla şehir kısa süre canlanıyor. Ocak ve Şubat turistten arınmış dönem. Bise rüzgârı — kuzeyden gelen sert soğuk rüzgar — günlerce esebilir, buna hazır ol. Kayak için Alpler çok yakın: Chamonix bir saat, Les Gets bir buçuk saat. Cenevre kışın çok sessiz; bu sessizliği sevenler için en iyi dönem.",
+          "callout": {
+            "label": "L'Escalade — Aralık'ın en Cenevreli anı",
+            "text": "Her yıl Aralık'ın ikinci haftasında, 1602'deki Savoya zaferinin anısına yapılan festival. Vieille Ville'de tarihi kostümlü geçit töreni. Favarger'in o yıla özel ürettiği çikolata kazanı — Marmite de l'Escalade — Kasım ortasından çikolatacılarda. Gelenek: kazanı kırmak ve içindeki şekerleri paylaşmak.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Kış · Şehir sakinleşiyor, Alpler yakın"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "Ağustos",
+          "text": "Fêtes de Genève: göl üstünde Avrupa'nın en büyük havai fişek gösterilerinden biri; kıyı bir hafta şenlik alanı."
+        },
+        {
+          "month": "Aralık",
+          "text": "L'Escalade: 1602 zaferinin kutlaması — kostümlü geçitler, at üstünde tarih ve çikolatadan marmite kırma ritüeli."
+        },
+        {
+          "month": "Haziran–Eylül",
+          "text": "Göl sezonu: Bains des Pâquis'te yüzme, kıyıda piknik; şehir yazın gölle yaşar."
+        },
+        {
+          "month": "Ocak–Şubat",
+          "text": "Kayak kaçamağı: Chamonix ve Portes du Soleil bir saat mesafede; sabah pist, akşam şehirde fondü."
+        }
+      ],
+      "title": "Ne Zaman Gitmeli"
+    },
+    "eat": {
+      "intro": "İsviçre-Fransız mutfağının ortasında bir şehir. Peynir, tatlı su balığı, yerel sosis — doğru yerde yenildiğinde bunların hepsi farklı.",
+      "local_word": {
+        "pronunciation": "fi-LAY dö PERŞ dü lay-MAN",
+        "definition": "Lac Léman'dan taze tatlı su levreği filetosu. Cenevre'nin yazlık yemeği. Menüde 'du Léman' etiketi olmazsa taze olmayabilir — bu etiketi ara. Hafif una bulanıp tereyağında pişiriliyor; limon ve pilav ile servis ediliyor. Mayıs'tan Eylül'e.",
+        "word": "Filets de perches du Léman"
+      },
+      "items": [
+        {
+          "icon": "🧀",
+          "name": "Fondü moitié-moitié",
+          "description": "Yarı Gruyère, yarı Vacherin Fribourgeois peynirinden yapılan Cenevre'nin klasik fondüsü. Ekmek parçaları uzun çatalla eritilmiş peynire batırılıyor. Fondünün doğru mevsimi Kasım'dan Mart'a kadar. Gare Cornavin çevresinden kaçın — ucuz peynir karışımı kullanıyorlar, fark hissedilir. Bains des Pâquis veya Carouge'daki restoranlar güvenilir adres.",
+          "tag": "Kasım–Mart · Bains des Pâquis veya Carouge · rezervasyon şart",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+du+Soleil+Geneva"
+        },
+        {
+          "icon": "🧀",
+          "name": "Raclette",
+          "description": "Yarım tekerlek peynir ateşin yanında ısıtılıyor, eriyen kısmı kazınıp doğrudan tabağa alınıyor. Haşlanmış patates, kornişon turşusu ve soğanla yeniyor. Masaya konan elektrikli küçük tava kestirme yol — gerçeği yarım tekerlek peynirle yapılan.",
+          "tag": "Kış · yarım tekerlek peynirden olmalı · elektrikli tava gerçek değil",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Armures+Geneva"
+        },
+        {
+          "icon": "🌭",
+          "name": "Longeole",
+          "description": "Cenevre'ye özgü, coğrafi işaret (PDO) almış yerel sosis. Domuz eti, rezene tohumu ve baharatlarla yapılıyor; başka hiçbir yerde üretilmiyor. Şehrin resmi yemeklerinden sayılıyor. Mercimek veya kuru fasulye ile servis ediliyor. Carouge'daki yerel restoranlarda ve Halles de Rive'de bulunuyor.",
+          "tag": "Cenevre'ye özgü PDO · Carouge ve Halles de Rive",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Auberge+de+Savièse+Geneva"
+        },
+        {
+          "icon": "🐟",
+          "name": "Filets de perches du Léman",
+          "description": "Lac Léman'dan taze levrek filetosu — yazın kıyı restoranlarının ana yemeği. 'Du Léman' etiketi olmayan balık taze değil, bu etiketi ara. Hafif una bulanıp tereyağında pişiriliyor. Mayıs'tan Eylül'e.",
+          "tag": "Mayıs–Eylül · du Léman etiketi şart · göl kenarı restoranlar",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Buvette+des+Bains+Geneva"
+        },
+        {
+          "icon": "🍫",
+          "name": "Marmite de l'Escalade",
+          "description": "Favarger markasının her yıl Kasım ortasından Aralık ortasına kadar ürettiği çikolata kazanı. 1602 zaferini simgeliyor. İçi küçük şekerlerle dolu; gelenek kazanı kırmak ve paylaşmak. Yıl boyunca bulamazsın, sadece bu dönemde.",
+          "tag": "Kasım ortası–Aralık ortası · Favarger · yıla özel üretim",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Auer+Chocolatier+Geneva"
+        },
+        {
+          "icon": "🛒",
+          "name": "Halles de Rive",
+          "description": "Rive'de, gölün hemen yanında. Cenevre'nin en iyi kapalı gıda pazarı. Yerel peynirciler, kasaplar, balıkçılar, fırınlar bir arada. Longeole, Gruyère ve taze levrek burada. Turistik değil; Cenevreli halk alışverişini burada yapıyor. Her gün açık, sabahları en canlı.",
+          "tag": "Rive · her gün açık · sabahları en iyi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Halles+de+Rive+Geneva"
+        }
+      ],
+      "callout": {
+        "label": "Gare Cornavin çevresinden kaçın",
+        "text": "İstasyon etrafındaki Rue du Mont-Blanc'ta fondü ve raclette sunan onlarca yer var. Ucuz peynir, ince sulu fondü, dondurulmuş balık. Bu restoranlardan kaçın. Biraz yürü: Carouge, Bains des Pâquis veya Vieille Ville'deki Les Armures ya da Café Papon çok daha iyi seçenek.",
+        "type": "tip"
+      },
+      "title": "Ne Yemeli"
+    },
+    "hidden_gems": {
+      "intro": "Cenevre'nin protokol yüzünün hemen arkasında, bambaşka bir şehir var.",
+      "items": [
+        {
+          "name": "La Pointe de la Jonction",
+          "description": "Şehrin batı ucunda Rhône ve Arve buluşuyor. Biri turkuaz-yeşil, diğeri çamurlu kahverengi — iki renk yan yana uzun süre karışmadan akıyor. Gözle açıkça görülebiliyor. Yazın güvenli bölgelerde nehirde yüzebilirsin. Yürüyerek ya da bisikletle kolayca ulaşılıyor. Ücretsiz, her zaman açık.",
+          "rarity": "İki nehir, iki renk — yan yana akar, karışmaz",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pointe+de+la+Jonction+Geneva"
+        },
+        {
+          "name": "Quartier des Grottes",
+          "description": "Gare Cornavin'in kuzey batısında, birkaç dakika yürüyüş. 1980'lerde yıkılmak üzere olan mahalle sakinleri binalara el koydu; mimarlar organik, dalgalı, rengarenk cepheler tasarladı. Şimdilerde 'Smurf binaları' olarak biliniyor. Cenevre'nin düzenli ve steril havasının tam tersi. Avlularda sanat atölyeleri, alternatif kafeler. Ücretsiz, her zaman açık.",
+          "rarity": "İsviçre'nin en tuhaf binaları — Smurf mahallesi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Grottes+Geneva"
+        },
+        {
+          "name": "Promenade de la Treille",
+          "description": "Vieille Ville'in hemen üzerinde, Parc des Bastions'ın kenarında. Buradaki ahşap bank 120 metre uzunluğuyla dünyanın en uzun ahşap bankları arasında. Her yıl baharın gelişi, bu yolun kenarındaki at kestanesi ağacının ilk tomurcuğuyla resmi olarak ilan ediliyor. Şehir üzerinde panoramik manzara, Reformation Duvarı'na yürüyüş mesafesi.",
+          "rarity": "120 metrelik ahşap bank ve baharın resmi ilanı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Promenade+de+la+Treille+Geneva"
+        },
+        {
+          "name": "CERN",
+          "description": "Şehrin batı ucunda, İsviçre-Fransa sınırında. Dünyanın en büyük parçacık fiziği laboratuvarı ve World Wide Web'in doğduğu yer. 2023'te açılan Science Gateway'e giriş ücretsiz — ancak kayıt gerekiyor. Online kayıt bir ay öncesinden yapılabiliyor ve girişi garantiliyor; yerinde kayıt da mümkün ama müsaitliğe bağlı. Rehberli turlar da ücretsiz ama tur günü yerinde, 2 saat önceden açılan kayıtla alınıyor ve çok çabuk doluyor. Tramvayla yaklaşık 30 dakika.",
+          "rarity": "World Wide Web'in doğduğu yer — ve büyük hadron çarpıştırıcısı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=CERN+Geneva"
+        },
+        {
+          "name": "Place des Nations — Kırık Sandalye",
+          "description": "Birleşmiş Milletler binasının önünde, dördüncü ayağı kırık dev ahşap sandalye. Kara mayınlarını ve patlamamış bombaları simgeliyor. 1997'de Ottawa Antlaşması'nı imzalatmak amacıyla geçici olarak dikildi. Cenevre onu bırakmadı. Palais des Nations'a rehberli tur biletli ama meydana giriş ücretsiz.",
+          "rarity": "Bir heykel, bir antlaşma — ve Cenevre onu bırakmadı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Broken+Chair+Geneva"
+        },
+        {
+          "name": "Bains des Pâquis",
+          "description": "Pâquis sahilinde gölün içine uzanan ahşap iskele. Yazın açık hava plajı ve hamam: yüzme, güneşlenme, sauna, hafif yemekler. Kışın kapanmıyor — kış fondüsü için en sevilen yerlerden biri. Biletli ama uygun fiyatlı. Kışın fondü için rezervasyon şart; hafta sonları hızla doluyor.",
+          "rarity": "Göl kenarında yüzme, sauna, fondü — yıl boyunca açık",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bains+des+Paquis+Geneva"
+        }
+      ],
+      "callout": {
+        "label": "Plainpalais — şehrin en iyi ikinci el pazarı",
+        "text": "Her Çarşamba ve Cumartesi sabahı Plainpalais meydanında kuruluyor. Kitaplar, plaklar, vintage kıyafetler, antikalar, elektronik eşyalar. Cenevre'nin en renkli ve çeşitli açık hava pazarı. Sabahın erken saatlerinde en iyi seçenek. Giriş ücretsiz.",
+        "type": "tip"
+      },
+      "title": "Gizli Köşeler"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Check-in'de Geneva Transport Card'ı al",
+          "sub": "Otel, hostel veya kampta kalıyorsan doğrudan bu karta hak kazanıyorsun. Konaklama boyunca tüm toplu taşıma ücretsiz. Bazen gönderilmiyor; mutlaka sor."
+        },
+        {
+          "label": "Jet d'Eau'yu gör",
+          "sub": "140 metre yüksekliğe su fışkırtıyor, göl üzerinde her yerden görünüyor. Yakınına kadar yürüyebilirsin. Ücretsiz."
+        },
+        {
+          "label": "Jonction'a yürü",
+          "sub": "Rhône ve Arve'nin farklı renklerde buluştuğu nokta. 25 dakika yürüyüş ya da bisiklet. Ücretsiz."
+        },
+        {
+          "label": "Carouge'da akşam yemeği ye",
+          "sub": "Tramvayla 15 dakika. Şehrin geri kalanından tamamen farklı bir Cenevre. Yerel restoranlar, avlular, pazar kalıntıları."
+        },
+        {
+          "label": "Geneveroule'dan bisiklet al",
+          "sub": "Gare Cornavin karşısı. Kimlik + 20 CHF depozit. Bisiklet ücretsiz. Sezon Mayıs–Ekim."
+        },
+        {
+          "label": "Bains des Pâquis'e git",
+          "sub": "Yazın yüzme ve güneşlenme, kışın sauna. Göl kenarında, yerel bir yer. Biletli ama uygun fiyatlı."
+        },
+        {
+          "label": "Reformation Duvarı'nı gör",
+          "sub": "Parc des Bastions'da. Calvin ve diğer reform öncülerinin dev heykelleri. Ücretsiz."
+        },
+        {
+          "label": "Halles de Rive'e uğra",
+          "sub": "Sabah erkeni. Yerel peynirciler, balıkçılar, fırınlar. Cenevre'nin gerçek mutfağı burada."
+        },
+        {
+          "label": "CERN'i ziyaret et",
+          "sub": "Science Gateway'e giriş ücretsiz, online kayıt şart. Rehberli tur aynı gün yerinde kayıt, çabuk doluyor. Tramvayla 30 dakika."
+        },
+        {
+          "label": "Kırık Sandalye'yi bul",
+          "sub": "BM binasının önünde. Dördüncü ayağı kırık, kara mayınlarını simgeliyor. Meydana giriş ücretsiz."
+        },
+        {
+          "label": "Mouettes'e bin",
+          "sub": "Sarı feribot, TPG bileti ile. Göl üzerinden karşıya geçiş."
+        },
+        {
+          "label": "Doğru yerde ye",
+          "sub": "Fondü istiyorsan Carouge veya Bains des Pâquis, taze levrek istiyorsan göl kenarı restoranlar. Gare Cornavin çevresinden kaçın."
+        }
+      ],
+      "title": "Cenevre Checklist",
+      "completion_message": "Cenevre'yi yüzeysel değil, gerçekten gördün."
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Cenevre'de tuzak azdır ama fiyatlar tuzağın kendisi olabilir. Bu dördünü bil, İsviçre bütçeni koru.",
+      "items": [
+        {
+          "icon": "🚕",
+          "name": "Havalimanından taksiye binmek",
+          "description": "7 dakikalık tren varken 40 frank taksi ödemek şehrin en klasik turist hatası; üstelik tren bileti bagaj alanında ücretsiz.",
+          "instead": "Bagaj bandındaki otomatdan ücretsiz 80 dakikalık bileti al, trene bin; otelde de ücretsiz ulaşım kartını (Geneva Transport Card) iste."
+        },
+        {
+          "icon": "⌚",
+          "name": "Hediyelik dükkandan 'İsviçre saati'",
+          "description": "Rue du Mont-Blanc'ın vitrinlerindeki ucuz 'Swiss made' saat ve çakıların bir kısmı ithal taklit.",
+          "instead": "Gerçeğini istiyorsan yetkili satıcıya git; bütçe hediyesi için İsviçre çikolatası her zaman doğru cevap."
+        },
+        {
+          "icon": "🫕",
+          "name": "Yazın fondü ısrarı",
+          "description": "Menüde yıl boyu durur ama fondü kış yemeğidir; ağustosta turiste servis edilen fondünün tadı da ortamı da eksik kalır.",
+          "instead": "Yaz geldiyse gölden filets de perche ye; fondüyü soğuk bir akşama, taş duvarlı bir brasserie'ye sakla."
+        },
+        {
+          "icon": "💸",
+          "name": "Göl turunu ücretli pakete çevirmek",
+          "description": "Jet d'Eau manzarası, göl kıyısı ve Eski Şehir zaten ücretsizken pahalı 'şehir turu' paketleri aynı rotayı satar.",
+          "instead": "Sarı 'Mouettes' su taksileri ulaşım kartınla bedava göl geçişi yapar; gerisini ayakların halleder."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Cenevre'de en pahalı şehirlerden birindesin ama en iyi şeyleri bedava: göl, dağ manzarası, Eski Şehir, Bains des Pâquis günbatımı. Parayı yemeğe ve çikolataya sakla."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Göl, Eski Şehir ve iki nehrin buluşması",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Göl kıyısı + Jet d'Eau",
+              "description": "İngiliz Bahçesi'nden çiçek saatine, oradan 140 metrelik fıskiyeye yürü; sabah ışığında göl ayna gibi."
+            },
+            {
+              "time": "10:30",
+              "title": "Eski Şehir + St-Pierre",
+              "description": "Arnavut kaldırımlı sokaklar, katedralin kulesinden göl manzarası, Treille'de dünyanın en uzun ahşap bankı."
+            },
+            {
+              "time": "13:00",
+              "title": "Halles de Rive'de öğle",
+              "description": "Kapalı pazarın tezgahlarında peynir, şarküteri ve taze makarna; yerlilerin öğle adresi."
+            },
+            {
+              "time": "15:00",
+              "title": "Carouge sokakları",
+              "description": "'Cenevre'nin Greenwich Village'ı: Sardunya usulü avlular, zanaatkar dükkanları, sakin kafeler."
+            },
+            {
+              "time": "17:30",
+              "title": "Bains des Pâquis",
+              "description": "Gölün ortasındaki iskelede yüz ya da sadece otur; günbatımı burada demokratik — herkese aynı manzara."
+            },
+            {
+              "time": "20:00",
+              "title": "Pâquis akşamı",
+              "description": "Şehrin en renkli mahallesinde dünya mutfağı ya da mevsim kışsa taş duvar dibinde fondü."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehri turist gibi değil, misafir gibi yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Göl ve Eski Şehir",
+              "description": "Yukarıdaki 1 günlük akış: kıyı, katedral, Carouge, Pâquis."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Bilim ve diplomasi",
+              "description": "Sabah CERN (ücretsiz, rezervasyonla), öğleden sonra Milletler Meydanı ve Kırık Sandalye, dönüşte Grottes'un Gaudí-vari evleri."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Jonction ve veda",
+              "description": "Rhône ile Arve'ın iki renkli buluşmasına yürü, öğlen Plainpalais bit pazarı (çarşamba/cumartesi), akşam gölde Mouettes ile son geçiş + çikolata alışverişi."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Cenevre Fransızca konuşur ama İsviçre usulü: sakin, kibar ve kendi kelimeleriyle.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bonjur",
+          "meaning": "Merhaba — her diyaloğun zorunlu ilk kelimesi"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mersi",
+          "meaning": "Teşekkürler — İsviçre'de bolca duyacaksın"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "sil vu ple",
+          "meaning": "Lütfen — siparişin sonuna ekle"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sonte",
+          "meaning": "Şerefe! — beyaz şarap kadehleri bununla kalkar"
+        },
+        {
+          "word": "Adieu!",
+          "pronunciation": "adyö",
+          "meaning": "İsviçre Romandiyası'nda samimi selam — hem merhaba hem hoşça kal"
+        }
+      ]
+    }
+  }
+}

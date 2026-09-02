@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Oslo",
+    "country": "Norveç",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2F4E7E",
+    "color_light": "#EAEFF7",
+    "tagline": "Fiyort, orman ve operanın çatısında yürünen başkent"
+  },
+  "pills": [
+    "Fiyortla ormanın arasında",
+    "Operanın çatısına çıkılır",
+    "Elektrikli araç başkenti"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Oslo'ya Hoş Geldin",
+      "intro": "Oslo iki doğanın arasına sıkışmış bir başkenttir: önünde adalı bir fiyort, arkasında uçsuz bir orman. Şehir bu ikisini süs olarak değil, günlük hayat olarak kullanır — sabah toplantısından çıkan adam öğlen fiyortta saunaya girer, metro son durakta kayak pistine bağlanır. Opera binasının çatısında yürür, Munch'un Çığlık'ının karşısında durur, rıhtımda taze karides soyarsın. Oslo gösterişsizdir; ama 'iyi yaşamak neye benzer' sorusunun en sakin cevaplarından biridir.",
+      "local_word": {
+        "word": "Friluftsliv",
+        "pronunciation": "friluftsliv",
+        "definition": "'Açık hava yaşamı': Norveçlilerin doğayla kurduğu günlük, neredeyse dini bağ. Yağmur bahane değildir — 'kötü hava yoktur, kötü giysi vardır' bu felsefenin ilk atasözüdür."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Doğa şehrin parçası, kullan",
+          "description": "Fiyort adalarına şehir feribotu normal biletle gider, orman metrosu (1 numara) yarım saatte seni patika başına bırakır. Oslo'yu sadece merkezden ibaret sanan, şehrin yarısını görmemiş olur."
+        },
+        {
+          "number": 2,
+          "title": "Cüzdanını Norveç'e hazırla",
+          "description": "Oslo pahalıdır ve bunu saklamaz: restoran ve alkol bütçeyi hızlı eritir. Denge, yerli usulüdür: öğlen kantin/fırın, akşam tek iyi restoran, bira için happy hour saatleri."
+        },
+        {
+          "number": 3,
+          "title": "Nakit unutuldu, kart konuşur",
+          "description": "Norveç neredeyse nakitsizdir: kart ve telefon her yerde, bozuk para hiçbir yerde. Toplu taşıma bileti uygulamadan alınır — kağıt bilet aramak zaman kaybıdır."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Gardermoen (OSL)",
+          "sub": "Flytoget ekspres 19 dk · normal tren yarı fiyat"
+        },
+        {
+          "icon": "🚋",
+          "label": "Şehir içi",
+          "value": "Metro + tramvay + feribot",
+          "sub": "Tek bilet sistemi: Ruter"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Norveççe",
+          "sub": "İngilizce ana dil gibi akıcı"
+        },
+        {
+          "icon": "💳",
+          "label": "Para",
+          "value": "Norveç Kronu",
+          "sub": "Nakitsiz toplum — kart her yerde"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Oslo felsefesi",
+        "text": "Oslolu güzel günü asla içeride geçirmez: güneş çıktıysa plan değişir, herkes dışarıdadır. Sen de öyle yap — müzeleri yağmurlu güne sakla, güneşi fiyorta ve ormana harca."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Ruter'in tek bilet sistemi metroyu, tramvayı, otobüsü ve fiyort feribotlarını aynı çatıda toplar: bir bilet, bütün şehir — adalar dahil.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından merkeze",
+          "description": "Flytoget ekspresi 19 dakikada Merkez Gar'a iner; normal bölgesel tren (Vy) aynı yolu birkaç dakika farkla yarı fiyata gider. Taksi bu şehirde son çaredir."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro (T-bane) — ormana açılan ağ",
+          "description": "Beş hat merkezde birleşir, uçlarda doğaya dağılır: 1 numara Frognerseteren'de orman patikalarına, Sognsvann hattı göl kenarına bırakır. Şehir merkezi ile vahşi doğa arası: 30 dakika."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tramvay klasikleri",
+          "description": "12 numaralı tramvay şehrin gezi hattı gibidir: Vigeland Parkı, Aker Brygge ve Gamlebyen'i birbirine bağlar. Mavi tramvaylar Oslo sokak fotoğraflarının değişmez figürüdür."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Fiyort feribotları",
+          "description": "Aker Brygge önünden kalkan feribotlar Hovedøya, Gressholmen ve diğer adalara normal Ruter biletiyle gider: yazın ada plajları, manastır kalıntıları ve piknik çimenleri şehrin yüzme havuzudur."
+        },
+        {
+          "icon": "🚶",
+          "title": "Merkez ve sahil yayan",
+          "description": "Opera'dan Akershus Kalesi'ne, oradan Aker Brygge'ye sahil hattı (Havnepromenaden) baştan başa yürünür: turuncu kulelerle işaretli 9 km'lik rota, şehrin en iyi ücretsiz turudur."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Feribot tüyosu",
+        "text": "Yaz akşamı Hovedøya feribotuna binip son seferle dön: ada tarafından gün batımında şehir silüeti, opera ve Barcode kuleleri suya yansır — turist teknesi fiyatına değil, şehir bileti fiyatına."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Oslo'nun semtleri karakterlerini saklamaz: merkez pratik, Grünerløkka bohem, Frogner zarif, Sørenga yeni ve suya sıfır.",
+      "local_word": {
+        "word": "Marka",
+        "pronunciation": "marka",
+        "definition": "Oslo'yu saran orman kuşağının adı: şehir yasayla bu sınırın ötesine büyüyemez. Oslolu'nun hafta sonu planı çoğu zaman tek kelimedir: 'Marka'ya gidiyoruz' — kayak, yürüyüş ya da sadece sessizlik."
+      },
+      "items": [
+        {
+          "name": "Sentrum (Karl Johan çevresi)",
+          "badge": "En pratik",
+          "badge_type": "vibe",
+          "description": "Gar, saray, opera ve ana cadde arasında: her yere yürüme, her hatta erişim. Otel yoğunluğu yüksek, karakteri az — kısa ziyaretin verimli üssü.",
+          "tags": [
+            "Gara yakın",
+            "Her yere yürüme",
+            "Otel bolluğu"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Karl+Johans+gate+Oslo"
+        },
+        {
+          "name": "Grünerløkka",
+          "badge": "En bohem",
+          "badge_type": "hot",
+          "description": "Eski işçi mahallesinin kahveci, bar ve vintage dükkanlı yeni hayatı: Akerselva nehri boyunca yürüyüş, pazar günü ikinci el pazarları. Oslo'nun genç kalbi burada atar.",
+          "tags": [
+            "Üçüncü dalga kahve",
+            "Nehir yürüyüşü",
+            "Vintage pazarlar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grünerløkka+Oslo"
+        },
+        {
+          "name": "Frogner ve Majorstuen",
+          "badge": "En zarif",
+          "badge_type": "local",
+          "description": "Büyükelçilikler, art nouveau apartmanlar ve Vigeland Parkı'nın mahallesi: sakin sokaklar, şık kafeler, park koşuları. Klasik Oslo yaşamının vitrini.",
+          "tags": [
+            "Vigeland Parkı",
+            "Zarif apartmanlar",
+            "Sakin geceler"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Frogner+Oslo"
+        },
+        {
+          "name": "Aker Brygge ve Tjuvholmen",
+          "badge": "En manzaralı",
+          "badge_type": "hot",
+          "description": "Rıhtım üstü modern yaşam: fiyort manzaralı oteller, Astrup Fearnley müzesi, sahil restoranları. Fiyat yüksek, gün batımı dahil.",
+          "tags": [
+            "Fiyort manzarası",
+            "Rıhtım restoranları",
+            "Modern mimari"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Aker+Brygge+Oslo"
+        },
+        {
+          "name": "Sørenga ve Bjørvika",
+          "badge": "En yeni",
+          "badge_type": "value",
+          "description": "Opera'nın arkasındaki yeni su kenarı mahallesi: yüzme iskelesi (Sørenga Sjøbad), Munch müzesi ve Barcode kuleleri. Deniz banyosu + mimari meraklısına modern üs.",
+          "tags": [
+            "Yüzme iskelesi",
+            "Munch müzesi",
+            "Yeni mimari"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sørenga+Oslo"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Oslo mevsimle şekil değiştirir: yazın fiyort şehri, kışın kayak şehri, arada iki kısa ve güzel geçiş.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Uyanış ve 17 Mayıs",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Teraslar, ulusal bayram coşkusu",
+          "description": "Kar çekilir, teraslar açılır ve şehir ışığa doyar. 17 Mayıs Anayasa Günü'nde bütün Norveç ulusal kıyafetle (bunad) sokağa iner: geçit töreni, dondurma ve bandolar — yılın en renkli günü.",
+          "callout": {
+            "type": "tip",
+            "label": "17 Mayıs ipucu",
+            "text": "17 Mayıs'ta Oslo'daysan Karl Johan'a erken git: çocuk geçidi sarayın önünden geçer, kraliyet ailesi balkondan selamlar. Otel kahvaltısını o gün atlama — şehirde masa bulmak zordur."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Fiyort Sezonu",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Ada plajları, saat 23'e kadar ışık",
+          "description": "Günler uzun, fiyort ılık sayılır, adalar piknikçilerle dolar: şehir dışarı taşınır. Utepils (açık havada bira) sezonu zirvededir; oteller görece sakin çünkü Norveçliler de tatile çıkmıştır.",
+          "callout": {
+            "type": "tip",
+            "label": "Temmuz ipucu",
+            "text": "Bir akşamı fiyort saunasına ayır: Opera karşısındaki yüzer saunalarda ısın, fiyorta atla, tekrar ısın. Rezervasyonu birkaç gün önceden yap — Oslo'nun yeni klasiği doldu taşıyor."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Altın Marka",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Sarı ormanlar, müze mevsimi",
+          "description": "Marka ormanı altına döner, hava keskinleşir, müzeler sakinleşir. Eylül yürüyüşün, ekim-kasım müze ve kahve mevsimidir; ilk kar bazen kasımda şehre iner.",
+          "callout": {
+            "type": "tip",
+            "label": "Eylül ipucu",
+            "text": "Sonbahar renklerinin zirvesinde 1 numaralı metroyla Frognerseteren'e çık: sarı ormanın içinden fiyorta bakan restoranda elmalı kek, inişte Holmenkollen kayak kulesi — yarım günde Oslo'nun en iyi manzara turu."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Kayak Başkenti",
+          "months": "Ara – Mar",
+          "subtitle": "Kış · Şehir içi kayak, kısa günler, sıcak içecekler",
+          "description": "Kar yağınca Oslo ikinci kimliğine döner: metroyla kayak pistine gidilir, donmuş göllerde paten kayılır, kafeler mum ışığına geçer. Günler kısa ama şehir karanlığı iyi yönetir.",
+          "callout": {
+            "type": "tip",
+            "label": "Şubat ipucu",
+            "text": "Kayak bilmesen de Frognerseteren'den Midtstuen'e kızakla in (Korketrekkeren pisti): metro biletiyle çıkıyor, kızak kiralıyor, 2 km boyunca çığlık atıyorsun. Oslo kışının en ucuz eğlencesi."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Yeni İskandinav dalgası Oslo'da da güçlü ama şehrin özü basittir: iyi somon, rıhtımda karides, fırından tarçınlı çörek ve kahvede dünya ligi.",
+      "local_word": {
+        "word": "Utepils",
+        "pronunciation": "utepils",
+        "definition": "'Dışarıda içilen bira': kışı uzun bir halkın, yılın ilk güneşli terasta içilen birasına verdiği özel isim. Nisan güneşinde kalabalık teraslar görürsen bil ki utepils sezonu resmen açılmıştır."
+      },
+      "items": [
+        {
+          "icon": "🦐",
+          "name": "Rıhtımda taze karides",
+          "description": "Tekneden alınan haşlanmış karides, baget, mayonez ve limonla rıhtımda soyulur: Oslo yazının en sevilen ritüeli. Aker Brygge iskelesinde bir bank bul, kabukları martılara kaptırma.",
+          "tag": "Yaz klasiği · iskele kenarında",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Aker+Brygge+pier+Oslo"
+        },
+        {
+          "icon": "🐟",
+          "name": "Somon ve skrei — fiyort mutfağı",
+          "description": "Norveç somonu her yerde iyidir ama balık çorbası ve sezonunda skrei (göçmen morina) şehrin asıl gururudur. Balık halleri ve Mathallen tezgahları günlük tazeyi gösterir.",
+          "tag": "Mathallen'de · günün balığı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mathallen+Oslo"
+        },
+        {
+          "icon": "🧀",
+          "name": "Brunost — karamel peynir",
+          "description": "Kahverengi keçi peyniri Norveç'in tuhaf ve sevimli klasiğidir: karamelimsi, waffle'ın ya da kahvaltı ekmeğinin üstünde. İlk lokmada şaşır, üçüncüde bağımlısı ol.",
+          "tag": "Kahvaltıda · waffle üstünde",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fenaknoken+Oslo"
+        },
+        {
+          "icon": "🥐",
+          "name": "Kanelbolle ve kardemummabolle",
+          "description": "Tarçınlı ve kakuleli çörekler Oslo fırınlarının günlük yarışıdır: iyi fırında öğlene kalmaz. Kahve dünya şampiyonlarının şehrinde çörek + filtre kahve ikilisi öğün sayılır.",
+          "tag": "Sabah fırınından · kahveyle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Apent+Bakeri+Oslo"
+        },
+        {
+          "icon": "🌭",
+          "name": "Pølse med lompe",
+          "description": "Sosis, patates ekmeğine (lompe) sarılır, hardal ve kızarmış soğanla taçlanır: Norveç'in ayaküstü milli atıştırması. Benzinlikten stadyuma her yerde aynı samimiyette.",
+          "tag": "Ayaküstü · lompe'ye sarılı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Syverkiosken+Oslo"
+        },
+        {
+          "icon": "🍺",
+          "name": "Craft bira ve happy hour matematiği",
+          "description": "Oslo'nun mikro bira sahnesi güçlü, fiyatlar cesur: Grünerløkka barlarının erken saat indirimleri bütçenin dostudur. Vinmonopolet (devlet tekeli) saat 18'de, cumartesi 16'da kapanır — planlı ol.",
+          "tag": "Grünerløkka'da · erken saatte",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grünerløkka+Brygghus+Oslo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bütçe tüyosu",
+        "text": "Oslo'da restoran hesabını yönetmenin yolu öğlendedir: 'dagens rett' (günün yemeği) menüleri akşamın yarı fiyatıdır. Su iste — musluk suyu ücretsizdir ve fiyort kadar temizdir."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Opera çatısını herkes yürür; bu altısı Oslo'nun bir kat derinliği.",
+      "items": [
+        {
+          "rarity": "Şehir içinde ada manastırı",
+          "name": "Hovedøya",
+          "description": "Feribotla on dakikadaki ada: 800 yıllık manastır kalıntısı, küçük plajlar ve çam gölgeli piknik çimenleri. Normal şehir biletiyle gidilir — Oslo'nun en ucuz 'tatili'.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hovedøya+Oslo"
+        },
+        {
+          "rarity": "Heykellerin nehir yolu",
+          "name": "Akerselva boyu yürüyüş",
+          "description": "Şehri ikiye bölen nehir, şelaleler ve eski fabrikalar arasından 8 km iner: sanat okulları, kahveciler ve köprü altı şelaleleriyle Oslo'nun sanayi hafızası. Yukarıdan aşağı yürü, Grünerløkka'da mola ver.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Akerselva+Oslo"
+        },
+        {
+          "rarity": "Fiyorta bakan heykel ormanı",
+          "name": "Ekebergparken",
+          "description": "Munch'un Çığlık'ı çizdiği manzaranın tepesindeki heykel parkı: Dalí'den Vigeland'a açık hava koleksiyonu, ağaçların arasında. Tramvayla çık, şehir ve fiyort ayaklarının altında.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ekebergparken+Oslo"
+        },
+        {
+          "rarity": "Ahşap ev zaman kapsülü",
+          "name": "Damstredet ve Telthusbakken",
+          "description": "Merkezin iki adım ötesinde 18. yüzyıl ahşap evleri: eğri sokaklar, renkli cepheler, bahçe gülleri. Beş dakikalık bir sapak, iki yüz yıllık bir sessizlik.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Damstredet+Oslo"
+        },
+        {
+          "rarity": "Trampolinli opera çatısı değil, sauna",
+          "name": "Fiyort saunaları — Oslobadstuforening",
+          "description": "Opera karşısında yüzen sauna sallarında ısın, fiyorta atla: kışın buz, yazın serin — her mevsim açık. Oslo'nun son on yılda icat ettiği en iyi gelenek.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=KOK+Oslo+fjord+sauna"
+        },
+        {
+          "rarity": "Kayak tarihinin kulesi",
+          "name": "Holmenkollen atlama kulesi",
+          "description": "Efsanevi kayak atlama kulesinin tepesinden Oslo fiyordu bir haritaya döner; içindeki kayak müzesi 4000 yıllık hikaye anlatır. Metroyla çıkılır — kule cesurlara zipline da sunar.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Holmenkollen+ski+jump+Oslo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Müze tüyosu",
+        "text": "Munch müzesinde Çığlık tek değildir: müze, tabloyu koruma için dönüşümlü sergiler — üç versiyonundan hangisinin duvarda olduğu saate göre değişir. Girişte sorup ona göre kat planı yap."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Oslo dürüsttür; tuzakları fiyat etiketinde ve yanlış planlamada gizlidir.",
+      "items": [
+        {
+          "icon": "🚕",
+          "name": "Havalimanı taksisi",
+          "description": "Gardermoen-merkez taksisi şok edici rakamlara ulaşır; trafik varsa üstüne süre biner.",
+          "instead": "Flytoget 19 dakika, normal Vy treni yarı fiyata 25 dakika. Bavul çoksa bile tren kazanır — istasyon garın içindedir."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Aker Brygge'de her öğün",
+          "description": "Rıhtım restoranları manzara vergisini eklemekte ustadır: sıradan bir akşam yemeği bütçede krater açar.",
+          "instead": "Rıhtımda sadece bir utepils iç, yemeği Grünerløkka, Torggata ya da Mathallen'de ye. Karides ritüeli zaten iskelede, restoransız güzel."
+        },
+        {
+          "icon": "🎫",
+          "name": "Oslo Pass'ı hesapsız almak",
+          "description": "Oslo Pass ancak günde 2-3 müze gezen için karlıdır; yürüyüş ve doğa ağırlıklı programda kart boşa gider.",
+          "instead": "Müze listeni önce yaz, giriş ücretlerini topla, sonra karar ver. Fiyort feribotu ve toplu taşıma zaten ucuz Ruter biletiyle çözülüyor."
+        },
+        {
+          "icon": "🍺",
+          "name": "Alkol planını akşama bırakmak",
+          "description": "Markette bira satışı akşam 20'de (cumartesi 18'de) biter, şarap-içki sadece Vinmonopolet'te ve o da erken kapanır; gece market rafı kilitlidir.",
+          "instead": "İçeceğini gündüz planla ya da barların happy hour saatlerini kullan. Norveçli misafirliğe kendi şişesiyle gider — sebep bu düzendir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Oslo'da en pahalı şeyler içeride, en güzel şeyler dışarıdadır: fiyort, orman, sahil promenadı, opera çatısı — hepsi ücretsiz. Bütçeyi bir iyi yemeğe ve bir saunaya sakla, gerisini doğa öder."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Çatıdan fiyorta bir Oslo günü",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Opera çatısı sabahı",
+              "description": "Mermer eğimden çatıya yürü: fiyort, adalar ve uyanan şehir ayaklarının altında. Sabah ışığı beyaz mermerde en güzelidir."
+            },
+            {
+              "time": "10:00",
+              "title": "Munch ya da Ulusal Müze",
+              "description": "Çığlık'la yüzleş: Munch müzesi operanın komşusu, Ulusal Müze rıhtımda. Birini seç — ikisi bir sabaha sığmaz."
+            },
+            {
+              "time": "12:30",
+              "title": "Sahil promenadı + karides",
+              "description": "Havnepromenaden'i Akershus Kalesi üzerinden Aker Brygge'ye yürü; iskelede taze karides + baget molası."
+            },
+            {
+              "time": "14:30",
+              "title": "Vigeland Parkı",
+              "description": "12 tramvayla Frogner'e: 200'den fazla heykelin insanlık hali — kızgın bebek heykeliyle fotoğraf klasiktir. Park ücretsiz ve her zaman açık."
+            },
+            {
+              "time": "17:00",
+              "title": "Grünerløkka molası",
+              "description": "Akerselva kıyısından mahalleye in: üçüncü dalga kahve ya da erken saat birası, vintage vitrinler, nehir sesi."
+            },
+            {
+              "time": "19:30",
+              "title": "Sørenga'da fiyort kapanışı",
+              "description": "Yüzme iskelesinde cesaret turu ya da sadece ayak sarkıtma; akşam yemeği Bjørvika'da — Barcode ışıkları suya düşerken."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehir, fiyort ve orman — üçlü Oslo",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Oslo",
+              "description": "Yukarıdaki 1 günlük akış: opera, Munch, promenad, Vigeland, Grünerløkka."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Fiyort günü",
+              "description": "Sabah Bygdøy müzeleri (Fram ve Kon-Tiki — kutup ve okyanus maceraları); öğleden sonra feribotla Hovedøya'da yüzme-piknik; akşam fiyort saunası + rıhtım yemeği."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Marka ve yükseklik",
+              "description": "1 numaralı metroyla Frognerseteren: orman yürüyüşü, manzaralı kek molası, inişte Holmenkollen kulesi; akşam Ekebergparken'de gün batımı — Çığlık manzarasının gerçeğiyle veda."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Norveççe nazik ve yumuşaktır; herkes İngilizce konuşur ama bu beşi buzları anında eritir.",
+      "items": [
+        {
+          "word": "Hei",
+          "pronunciation": "hay",
+          "meaning": "Merhaba — 'hei hei' daha samimi, ayrılırken 'ha det' denir"
+        },
+        {
+          "word": "Takk",
+          "pronunciation": "tak",
+          "meaning": "Teşekkürler — 'tusen takk' bin teşekkür demektir"
+        },
+        {
+          "word": "Vær så god",
+          "pronunciation": "veşogu",
+          "meaning": "Buyrun / rica ederim — garson tabağı bununla bırakır"
+        },
+        {
+          "word": "Skål!",
+          "pronunciation": "skol",
+          "meaning": "Şerefe! — göz teması Viking mirasıdır, atlama"
+        },
+        {
+          "word": "Koselig",
+          "pronunciation": "kuşeli",
+          "meaning": "'Sıcak, keyifli, samimi' — Norveç'in hygge'si; mum ışıklı her an koselig'dir"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Oslo Checklist",
+      "completion_message": "Skål! Oslo'yu fiyorduyla ormanıyla yaşadın!",
+      "items": [
+        {
+          "label": "Opera çatısına yürü",
+          "sub": "Mermer eğimden zirveye — ücretsiz"
+        },
+        {
+          "label": "Çığlık'ın karşısında dur",
+          "sub": "Munch müzesi ya da Ulusal Müze"
+        },
+        {
+          "label": "Vigeland heykelleri arasında kaybol",
+          "sub": "Kızgın bebek'le fotoğraf klasik"
+        },
+        {
+          "label": "Feribotla adaya geç",
+          "sub": "Hovedøya — şehir biletiyle fiyort tatili"
+        },
+        {
+          "label": "İskelede taze karides soy",
+          "sub": "Baget, mayonez, limon, martı nöbeti"
+        },
+        {
+          "label": "Fiyort saunasında ısın, suya atla",
+          "sub": "Opera karşısı — her mevsim açık"
+        },
+        {
+          "label": "Metroyla ormana çık",
+          "sub": "1 numara Frognerseteren — 30 dakikada Marka"
+        },
+        {
+          "label": "Holmenkollen kulesinden fiyorda bak",
+          "sub": "Kayak tarihi + harita gibi manzara"
+        },
+        {
+          "label": "Brunost'u waffle üstünde dene",
+          "sub": "Karamel peynir — üçüncü lokmada sevilir"
+        },
+        {
+          "label": "Utepils sezonuna katıl",
+          "sub": "Güneşli terasta bir bira — Norveç ritüeli"
+        }
+      ]
+    }
+  }
+}

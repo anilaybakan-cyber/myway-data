@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Vienna",
+    "country": "Austria",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#8A2A44",
+    "color_light": "#F7E9ED",
+    "tagline": "Elegancia imperial, filosofía de café y una porción de tarta Sacher"
+  },
+  "pills": [
+    "Sin prisas en las cafeterías",
+    "Una de las ciudades más habitables del mundo",
+    "Schnitzel más grande que el plato"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Viena",
+      "intro": "Viena no encerró su antiguo esplendor en un museo ni lo puso a la venta; simplemente siguió viviendo en él. Los tranvías se deslizan junto a palacios, los estudiantes consiguen entradas de pie en la ópera, y un jubilado leyendo el periódico en una cafetería de mármol se sienta durante horas sin que nadie le traiga la cuenta. Esta ciudad sonríe educadamente a las prisas: 'Siéntate, tómate un Melange, el mundo puede esperar'. Haz lo mismo: Viena solo se abre cuando bajas el ritmo.",
+      "local_word": {
+        "word": "Schmäh",
+        "pronunciation": "shmay",
+        "definition": "El humor intraducible de Viena: mitad burlón, mitad cariñoso, siempre un arte elegante del dardo bien colocado. El chiste inexpresivo del camarero es Schmäh; el día que lo entiendas, te habrás convertido en vienés."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "En una cafetería, la mesa es tuya",
+          "description": "Pide un café y siéntate durante horas: periódicos, conversación, no hacer nada en absoluto, todo es perfectamente legítimo. El camarero (Herr Ober) puede parecer distante; eso no es mala educación, es un papel centenario. La cuenta nunca llega a menos que la pidas."
+        },
+        {
+          "number": 2,
+          "title": "Las entradas de pie en la ópera son baratas",
+          "description": "La Ópera Estatal vende localidades de pie (Stehplätze) por unos pocos euros, en taquilla poco antes de la función. Esa es la forma vienesa de acceder al mejor escenario del mundo con un presupuesto de estudiante."
+        },
+        {
+          "number": 3,
+          "title": "No busques torniquetes, pero no viajes sin billete",
+          "description": "El U-Bahn no tiene torniquetes; el sistema funciona con confianza, pero los inspectores van de incógnito y son implacables. Compra un abono semanal o de 72 horas el primer día y explora con tranquilidad."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "Schwechat (VIE)",
+          "sub": "Tren CAT 16 min · S7 más barato"
+        },
+        {
+          "icon": "🚇",
+          "label": "Cómo moverse",
+          "value": "U-Bahn + tranvía",
+          "sub": "Basado en la confianza, sin torniquetes"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "Alemán",
+          "sub": "El inglés funciona en todas partes"
+        },
+        {
+          "icon": "🎼",
+          "label": "Sello distintivo",
+          "value": "Capital de la música",
+          "sub": "Ciudad de Mozart, Beethoven, Strauss"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofía vienesa",
+        "text": "Los vieneses tienen dos velocidades: lento y más lento. Preguntar la hora en una cafetería, aplaudir demasiado pronto en un concierto y quedarse de pie a la izquierda de una escalera mecánica: los tres pecados locales. Todo lo demás está perdonado."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "El transporte público de Viena es el orgullo de la ciudad: puntual, limpio y con servicio nocturno. Ni se te ocurra pensar en un coche.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Del aeropuerto al centro",
+          "description": "El CAT express llega a Wien Mitte en 16 minutos; el tren de cercanías S7 lo hace un poco más lento por la mitad de precio. Los taxis tienen tarifa fija, pero con trenes tan cómodos son innecesarios."
+        },
+        {
+          "icon": "🚇",
+          "title": "U-Bahn — la columna vertebral de cinco colores",
+          "description": "Cinco líneas conectan la ciudad y funcionan 24 horas las noches de fin de semana. Los abonos de 24/48/72 horas y la tarjeta semanal son ideales para turistas; valida tu billete al subir por primera vez."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tour por el Ring en tranvía",
+          "description": "Los tranvías 1 y 2 te llevan por los palacios de la Ringstrasse por el precio de un billete normal: olvídate del autobús turístico, coge un asiento junto a la ventana."
+        },
+        {
+          "icon": "🚲",
+          "title": "Bicis WienMobil",
+          "description": "Las bicis compartidas son una delicia a lo largo del canal y hasta el Prater; los carriles bici son anchos y los conductores respetuosos. Pedalear por la Isla del Danubio es la mejor escapada veraniega de la ciudad."
+        },
+        {
+          "icon": "🚶",
+          "title": "El primer distrito a pie",
+          "description": "Todo dentro del Ring es transitable de punta a punta: catedral, palacio y cafeterías están siempre a diez minutos. Un calzado cómodo es todo lo que piden los adoquines."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo del tranvía",
+        "text": "Haz el tour del Ring a última hora de la tarde: mientras la Ópera, el Parlamento y el Rathaus se iluminan en la hora dorada, la ventana del tranvía 2 se convierte en el palco palaciego más barato de la ciudad."
+      }
+    },
+    "stay": {
+      "title": "Dónde Alojarse",
+      "intro": "En Viena, el número de distrito (Bezirk) es tan importante como la dirección: el 1.º significa grandeza, el 7.º significa modernidad, el 2.º significa zonas verdes.",
+      "local_word": {
+        "word": "Bezirk",
+        "pronunciation": "beh-tseerk",
+        "definition": "Cada uno de los 23 distritos administrativos de Viena; las direcciones se mencionan por número. Decir 'Vivo en el Siebter' (el 7.º) le cuenta a un vienés un párrafo entero sobre ti."
+      },
+      "items": [
+        {
+          "name": "Innere Stadt (1st Bezirk)",
+          "badge": "El más majestuoso",
+          "badge_type": "vibe",
+          "description": "La ciudad-museo dentro del Ring: catedral, palacio y cafeterías justo a la puerta. Los precios son de nivel imperial, las calles sorprendentemente tranquilas por la noche — el clásico para una primera visita.",
+          "tags": [
+            "A pie a todas partes",
+            "Cafeterías históricas",
+            "Precios imperiales"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Innere+Stadt+Vienna"
+        },
+        {
+          "name": "Neubau (7th Bezirk)",
+          "badge": "El más moderno",
+          "badge_type": "hot",
+          "description": "El barrio del diseño y los cafés detrás del MuseumsQuartier: boutiques independientes, café de tercera ola, la Viena joven. A poca distancia del centro, con el alma de un barrio.",
+          "tags": [
+            "Tiendas de diseño",
+            "Cultura cafetera",
+            "MuseumsQuartier"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Neubau+Vienna"
+        },
+        {
+          "name": "Leopoldstadt (2nd Bezirk)",
+          "badge": "El más verde",
+          "badge_type": "value",
+          "description": "El distrito del Prater y el Canal del Danubio: un parque gigante, la noria, bares junto al agua. La zona alrededor del mercado Karmeliter es joven y animada; los precios son más amigables que en el centro.",
+          "tags": [
+            "Parque Prater",
+            "Bares del canal",
+            "Barrio del mercado"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Leopoldstadt+Vienna"
+        },
+        {
+          "name": "Josefstadt (8th Bezirk)",
+          "badge": "El más elegante",
+          "badge_type": "local",
+          "description": "El distrito más pequeño de Viena: teatros, anticuarios, tranquilas calles Biedermeier. Pocos turistas, muchas cafeterías — para quienes buscan una elegancia serena.",
+          "tags": [
+            "Calles Biedermeier",
+            "Distrito teatral",
+            "Noches tranquilas"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Josefstadt+Vienna"
+        },
+        {
+          "name": "Wieden (4th Bezirk)",
+          "badge": "La elección equilibrada",
+          "badge_type": "value",
+          "description": "Vecino del Naschmarkt y Karlsplatz: camina al mercado, camina a la ópera, cena en una taberna de barrio por la noche. La dirección donde la comodidad céntrica se une a los precios de barrio.",
+          "tags": [
+            "Naschmarkt al lado",
+            "Karlskirche",
+            "Tabernas de barrio"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wieden+Vienna"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Cuándo Ir",
+      "intro": "Viena está en escena en las cuatro estaciones: la primavera es un jardín, el verano una película, el otoño un vino, el invierno un baile.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Estación de Jardines",
+          "months": "Abr – Jun",
+          "subtitle": "Primavera · Parques en flor, cafés llenos",
+          "description": "Los jardines de Schönbrunn y Belvedere estallan en flores, los puestos del Naschmarkt rebosan, las mesas de los cafés se desbordan a las aceras. La ciudad está en su punto más fotogénico y equilibrado.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de mayo",
+            "text": "A finales de mayo comienzan las Wiener Festwochen: la ciudad se convierte en un escenario, y el concierto inaugural en Rathausplatz es gratuito."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Estación al Aire Libre",
+          "months": "Jul – Ago",
+          "subtitle": "Verano · Festival de cine, playas en el canal",
+          "description": "Películas de conciertos gratuitas en una pantalla gigante en Rathausplatz con puestos de comida internacional delante; la Isla del Danubio y las 'playas' del canal son el balneario veraniego de la ciudad. Los hoteles están relativamente tranquilos; algunas instituciones cierran por vacaciones.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de julio",
+            "text": "La fórmula vespertina del Festival de Cine: aperitivos del Naschmarkt, una manta en Rathausplatz, ópera en la gran pantalla — coste total cercano a cero."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "Cosecha y Sturm",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · Temporada de Heuriger, parques dorados",
+          "description": "La vendimia comienza en los propios viñedos de la ciudad; el Sturm semifermentado se sirve en los heuriger y el olor a castañas asadas flota por las calles. A mediados de noviembre, los mercados navideños encienden sus luces antes de tiempo.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de septiembre",
+            "text": "Camina desde Kahlenberg, bajando por los viñedos hasta Nussdorf y siéntate en un heuriger por el camino: Sturm + comida casera + vistas de la ciudad. Eso es el otoño vienés en una tarde."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Bailes y Mercados",
+          "months": "Dic – Feb",
+          "subtitle": "Invierno · Mercados navideños, temporada de bailes, el vals de Año Nuevo",
+          "description": "En diciembre, la plaza frente al Rathaus se convierte en un mar de luz; en enero y febrero se celebran cientos de bailes — algunos venden entradas a los visitantes. El 1 de enero, toda la ciudad ve el Concierto de Año Nuevo en pantallas.",
+          "callout": {
+            "type": "warning",
+            "label": "Nota de diciembre",
+            "text": "Los mercados navideños están abarrotados los fines de semana; bebe tu Punsch una tarde entre semana, y puedes quedarte con el depósito de la taza como recuerdo."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "¿Qué Comer?",
+      "intro": "La cocina vienesa es la herencia del imperio: goulash húngaro, dumplings checos, café italiano... todo ennoblecido en esta ciudad.",
+      "local_word": {
+        "word": "Melange",
+        "pronunciation": "meh-lahnzh",
+        "definition": "El café nacional de Viena: mitad espresso, mitad espuma de leche, el primo elegante del capuchino. Llega en una bandeja con un vaso de agua; esa agua es el lenguaje de la cafetería para 'quédate todo el tiempo que quieras'."
+      },
+      "items": [
+        {
+          "icon": "🍖",
+          "name": "Wiener Schnitzel — el auténtico es de ternera",
+          "description": "Un schnitzel que desborda el plato, fino como el papel, frito en mantequilla: ensalada de patata al lado, limón encima. Ve donde ponga 'vom Kalb' (ternera); todo lo demás es imitación.",
+          "tag": "En una taberna clásica · que sea 'vom Kalb'",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Figlmüller+Vienna"
+        },
+        {
+          "icon": "☕",
+          "name": "El ritual de la cafetería — Melange + Sachertorte",
+          "description": "Mesas de mármol, periódicos, un camarero sin prisa: la cafetería no es un lugar, sino una forma de vida. No pidas tu Sachertorte sin Schlag; la nata es parte del equilibrio.",
+          "tag": "En una cafetería histórica · sin prisas",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+Central+Vienna"
+        },
+        {
+          "icon": "🌭",
+          "name": "El clásico nocturno del Würstelstand",
+          "description": "Los puestos de salchichas son la cocina de medianoche de Viena: pide la Käsekrainer rellena de queso con pan y mostaza dulce. Los asistentes a la ópera de etiqueta y los trabajadores del turno de noche comparten el mismo mostrador: la mesa más democrática de la ciudad.",
+          "tag": "Después de medianoche · Käsekrainer",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bitzinger+Würstelstand+Albertina+Vienna"
+        },
+        {
+          "icon": "🥩",
+          "name": "Tafelspitz — el puchero del emperador",
+          "description": "Ternera cocida con tuétano, salsa de rábano picante con manzana y cebollino: el plato que el emperador Francisco José comía cada día. Parece pesado, se come con elegancia.",
+          "tag": "Clásico imperial · salsas incluidas",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Plachutta+Wollzeile+Vienna"
+        },
+        {
+          "icon": "🍷",
+          "name": "Una tarde de heuriger",
+          "description": "Tabernas de vino en los propios viñedos de la ciudad: vino joven, tablas frías del bufé, largas mesas de madera. Una rama de pino sobre la puerta significa que están abiertos: Viena con sus ropas de pueblo.",
+          "tag": "En una taberna de viñedo · abierto si hay rama de pino",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mayer+am+Pfarrplatz+Vienna"
+        },
+        {
+          "icon": "🥟",
+          "name": "Un paseo por el Naschmarkt",
+          "description": "El mercado centenario de la ciudad: vendedores de encurtidos, puestos de meze y cocinas del mundo, uno al lado del otro. Los sábados se une un mercadillo de segunda mano; picotear mientras paseas está totalmente permitido.",
+          "tag": "Sábado por la mañana · picotea a tu aire",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Naschmarkt+Vienna"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de la cafetería",
+        "text": "Sáltate la cafetería famosa con cola y elige la tranquila de la esquina: el mismo Melange, el mismo mármol, más 'Schmäh'. En Viena, la mejor cafetería es aquella donde puedes encontrar un asiento."
+      }
+    },
+    "hidden_gems": {
+      "title": "Rincones Escondidos",
+      "intro": "Todo el mundo ve los palacios; estos seis son la trastienda de Viena.",
+      "items": [
+        {
+          "rarity": "La biblioteca más hermosa del mundo",
+          "name": "Prunksaal — Biblioteca Nacional",
+          "description": "La sala barroca de la biblioteca dentro del Hofburg: 200.000 volúmenes encuadernados en cuero, una cúpula con frescos, globos imperiales. Menos famosa que la ópera, con una cola más corta: el esplendor vienés en su forma más pura.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Prunksaal+Österreichische+Nationalbibliothek"
+        },
+        {
+          "rarity": "La cumbre del Art Nouveau",
+          "name": "Kirche am Steinhof",
+          "description": "La iglesia de cúpula dorada de Otto Wagner en una colina, dentro de los terrenos de un hospital: la obra maestra menos conocida de la ciudad. Abre los domingos por la tarde; planifica tu visita en torno a eso.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kirche+am+Steinhof+Vienna"
+        },
+        {
+          "rarity": "Una ciudad de los muertos, un parque para los vivos",
+          "name": "Zentralfriedhof",
+          "description": "El vasto cementerio donde descansan Beethoven, Schubert y los Strauss es también un parque donde deambulan ciervos: toma el tranvía 71 y pasea por él durante horas. No es lúgubre, es sereno.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zentralfriedhof+Vienna"
+        },
+        {
+          "rarity": "A través de los viñedos hacia la ciudad",
+          "name": "El paseo de Kahlenberg a Nussdorf",
+          "description": "Toma el autobús hasta la cima y luego desciende hacia la ciudad a través de los viñedos: el Danubio, las cúpulas y los viñedos en un solo encuadre. El paseo termina en la puerta de un heuriger (taberna de vino joven): no es una coincidencia, es una tradición.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kahlenberg+Vienna"
+        },
+        {
+          "rarity": "Un invernadero imperial con mariposas",
+          "name": "Palmenhaus y Schmetterlinghaus",
+          "description": "El palacio de cristal al borde del Burggarten: un ala es una casa de mariposas tropicales, la otra una brasserie bajo palmeras. La forma más verde de tomar café en un jardín palaciego.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palmenhaus+Burggarten+Vienna"
+        },
+        {
+          "rarity": "Un pequeño rincón de París",
+          "name": "Servitenviertel",
+          "description": "Bistrós y librerías reunidos alrededor de una plaza con iglesia en el 9º Bezirk: al lado del Museo Freud, lejos de los turistas. El desvío más dulce de la ciudad para un café por la tarde.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Servitenviertel+Vienna"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo de museo",
+        "text": "Los jueves por la noche puedes sentarte en la cafetería bajo la cúpula del Kunsthistorisches Museum con música en vivo: dos pisos por encima de los Bruegel, un Melange entre el mármol. Una entrada de museo es el baile más barato de la ciudad."
+      }
+    },
+    "traps": {
+      "title": "Trampas para turistas",
+      "intro": "Viena es una ciudad honesta; sus trampas llevan pelucas y disfraces, lo que las hace fáciles de detectar.",
+      "items": [
+        {
+          "icon": "🎻",
+          "name": "Vendedores de 'conciertos de Mozart' disfrazados",
+          "description": "Los conciertos que venden los vendedores con peluca alrededor de la catedral siguen una fórmula: orquesta mediocre más precio inflado. Mozart se habría reído de todo el asunto.",
+          "instead": "Consigue lo auténtico por el mismo dinero: entradas de estudiante o de pie en el Musikverein o Konzerthaus, o el Stehplatz de pocos euros de la Ópera Estatal."
+        },
+        {
+          "icon": "🐴",
+          "name": "Un paseo en fiaker sin acordar las condiciones",
+          "description": "Los paseos en coche de caballos tienen tarifas oficiales, pero si no se acuerdan la duración y la ruta, un paseo corto puede terminar con una factura larga.",
+          "instead": "Confirma la tarifa y la duración antes de subir; o haz la misma ruta en el tranvía 2, pasando por los mismos palacios."
+        },
+        {
+          "icon": "☕",
+          "name": "Perder una hora en la cola de una cafetería",
+          "description": "Esperar 45 minutos fuera de una o dos cafeterías que las redes sociales han pulido es una injusticia para las otras doscientas de la ciudad.",
+          "instead": "Cuando veas una cola, camina dos calles más allá: en Viena, cada barrio tiene su propia cafetería tranquila, con mesas de mármol y lámparas de araña."
+        },
+        {
+          "icon": "🍽️",
+          "name": "El 'menú vienés' a los pies de la catedral",
+          "description": "Los menús con fotos alrededor de Stephansplatz venden schnitzel tibio a precios de turista.",
+          "instead": "Adéntrate dos calles más, o elige las tabernas de barrio (Beisl) de los distritos 4 y 7: el mismo schnitzel, a mitad de precio, el auténtico."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de oro",
+        "text": "Aléjate de cualquiera que se ponga un disfraz para venderte algo en Viena; en esta ciudad, la verdadera grandeza no lleva uniforme, se sienta en una cafetería leyendo el periódico."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Preparadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Un resumen de Viena, del imperio a la cafetería",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "La catedral y las calles matutinas",
+              "description": "Contempla el tejado de azulejos de la Stephansdom con la luz de la mañana; pasea por los escaparates imperiales de Graben y Kohlmarkt mientras aún están vacíos."
+            },
+            {
+              "time": "10:00",
+              "title": "Hofburg + Prunksaal",
+              "description": "Atraviesa los patios del palacio, luego quédate en silencio bajo la cúpula de la biblioteca barroca: la dosis de belleza más concentrada de Viena."
+            },
+            {
+              "time": "12:30",
+              "title": "Almuerzo en el Naschmarkt",
+              "description": "Picotea puesto por puesto, luego un descanso sentado en una taberna del mercado; si es sábado, el mercadillo de pulgas es un extra."
+            },
+            {
+              "time": "14:30",
+              "title": "Belvedere — El Beso de Klimt",
+              "description": "Ponte frente a El Beso en el Belvedere Superior, luego contempla la ciudad desde los jardines; tu cupo de arte del día está completo."
+            },
+            {
+              "time": "17:00",
+              "title": "El tour del Ring en tranvía",
+              "description": "Desde la ventanilla del tranvía 2, el desfile de la Ópera, el Parlamento y el Rathaus: a la hora dorada los palacios se iluminan."
+            },
+            {
+              "time": "19:30",
+              "title": "Cafetería + un cierre nocturno",
+              "description": "Una larga estancia en una cafetería con Melange y Sachertorte; una Käsekrainer de un Würstelstand de camino a casa — un día imperial termina con una salchicha."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Vive la ciudad como un invitado, no como un turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Los clásicos imperiales",
+              "description": "El itinerario de un día anterior: catedral, Hofburg, Naschmarkt, Belvedere, el Ring."
+            },
+            {
+              "time": "Day 2",
+              "title": "Schönbrunn y los museos",
+              "description": "Temprano por la mañana en Schönbrunn (sube a la Gloriette, piérdete en el laberinto), tarde en el Kunsthistorisches o el MuseumsQuartier; noche en el 7º Bezirk para una cena Beisl y un recorrido de bares."
+            },
+            {
+              "time": "Day 3",
+              "title": "Viñedos y despedida",
+              "description": "El paseo por los viñedos desde Kahlenberg, un almuerzo heuriger; de vuelta, visita a Beethoven en el Zentralfriedhof, y por la noche una entrada de pie en la Ópera Estatal o el Musikverein — la música de despedida es obligatoria."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de supervivencia de 5 palabras",
+      "intro": "El alemán vienés es educado y musical; estas cinco palabras te llevarán desde la puerta de la cafetería hasta el salón de baile.",
+      "items": [
+        {
+          "word": "Grüß Gott",
+          "pronunciation": "gruess got",
+          "meaning": "El saludo austriaco: 'buenos días' — formal y válido en todas partes"
+        },
+        {
+          "word": "Danke",
+          "pronunciation": "dahn-keh",
+          "meaning": "Gracias — mejorado con 'vielen Dank'"
+        },
+        {
+          "word": "Bitte",
+          "pronunciation": "bit-teh",
+          "meaning": "Por favor / de nada / aquí tienes — lo oirás cincuenta veces al día"
+        },
+        {
+          "word": "Prost!",
+          "pronunciation": "prohst",
+          "meaning": "¡Salud! — ninguna copa se levanta sin contacto visual"
+        },
+        {
+          "word": "Passt schon",
+          "pronunciation": "pahst shohn",
+          "meaning": "'Está bien, no hay problema' — la frase oficial de la tranquilidad vienesa; también cómo decir 'quédate con el cambio'"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Lista de Imprescindibles de Viena",
+      "completion_message": "¡Prost! ¡Has vivido Viena como se debe!",
+      "items": [
+        {
+          "label": "Pasa una hora 'sin hacer nada' en una cafetería",
+          "sub": "Un Melange, un periódico y una mesa de mármol: prohibido tener prisa"
+        },
+        {
+          "label": "Come un auténtico Wiener Schnitzel",
+          "sub": "Vom Kalb (de ternera), desbordando el plato"
+        },
+        {
+          "label": "Ponte bajo la cúpula de la Prunksaal",
+          "sub": "La sala barroca de la Biblioteca Nacional"
+        },
+        {
+          "label": "Contempla El Beso de Klimt",
+          "sub": "En el Belvedere Superior, a primera hora de la mañana"
+        },
+        {
+          "label": "Recorre el Ring en el tranvía 2",
+          "sub": "A la hora dorada, en un asiento de ventanilla"
+        },
+        {
+          "label": "Consigue una entrada de pie para la ópera",
+          "sub": "Por unos pocos euros, el mejor escenario del mundo"
+        },
+        {
+          "label": "Bebe Sturm o vino joven en un heuriger",
+          "sub": "En una taberna de viñedo con la rama de pino colgada"
+        },
+        {
+          "label": "Come una Käsekrainer en un Würstelstand por la noche",
+          "sub": "Compartiendo la barra con gente de etiqueta"
+        },
+        {
+          "label": "Visita a Beethoven en el Zentralfriedhof",
+          "sub": "Tranvía 71: el rincón de los músicos"
+        },
+        {
+          "label": "Sube a la Gloriette en Schönbrunn",
+          "sub": "Temprano por la mañana: el palacio a tus pies"
+        }
+      ]
+    }
+  }
+}

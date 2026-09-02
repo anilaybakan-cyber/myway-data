@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Seoul",
+    "country": "South Korea",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#DE4B3B",
+    "color_light": "#FBE9E6",
+    "tagline": "Where five-hundred-year-old palaces and neon streets live at once"
+  },
+  "pills": [
+    "World capital of K-culture",
+    "Palaces beside skyscrapers",
+    "Streets full past midnight"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Seoul",
+      "intro": "Seoul says speed and grace in the same sentence: a five-hundred-year-old ceremony is reenacted in the courtyard of Gyeongbokgung while, two streets over, a K-pop video breaks records over the world's fastest internet. The curve of hanok roofs and the gleam of glass towers share one frame; at midnight the street stalls still steam and the cafes stay open to dawn. Everything here runs 'ppalli ppalli' (quick, quick) — but the table culture refuses to hurry: time spent around the grill is Seoul's most precious hospitality.",
+      "local_word": {
+        "word": "Jeong",
+        "pronunciation": "juhng",
+        "definition": "Korean's untranslatable word: the deep attachment and unconditional care woven over time. The stall keeper adding an extra piece to your plate, a host feeding you like their own child — all of it is jeong. Understanding Korea begins with noticing this invisible bond circulating at every table."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Change your map: use Naver or Kakao",
+          "description": "Google Maps only half-works in Korea: download Naver Map or Kakao Map for walking and transit routes. Both have English interfaces and show metro exit numbers — in Seoul, a meeting place is given as 'station + exit number'."
+        },
+        {
+          "number": 2,
+          "title": "Learn the table manners: sharing is the rule",
+          "description": "The Korean table is built on shared plates: the banchan belong to everyone, and the grill is cooked together at the table. Don't leave your spoon standing in the rice bowl, and pause a beat before the eldest starts — small gestures earn great respect in this city."
+        },
+        {
+          "number": 3,
+          "title": "Tour the palace in hanbok, follow the palace rhythm",
+          "description": "Those wearing rented hanbok enter the palaces free: touring Gyeongbokgung in traditional dress is not a tourist gimmick — locals do it too. Time your visit to the changing of the guard — drums in the palace courtyard are the city's most graceful time travel."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Airport",
+          "value": "Incheon (ICN)",
+          "sub": "~45 min by AREX express"
+        },
+        {
+          "icon": "🏯",
+          "label": "Signature",
+          "value": "Gyeongbokgung + Bukchon",
+          "sub": "Palace and hanok village side by side"
+        },
+        {
+          "icon": "💳",
+          "label": "Currency",
+          "value": "Won (KRW)",
+          "sub": "A T-money card opens every gate"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Language",
+          "value": "Korean",
+          "sub": "Metro and menus support English"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The Seoul philosophy",
+        "text": "In this city you tour palaces by day and stalls by night: give half the program to history, half to neon. When tired, go to a jjimjilbang; when hungry, join a queue — in Seoul, the queue is quality's most honest advertisement."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "The Seoul metro is among the world's best: clean, punctual, English-friendly — with a T-money card the city fits in your palm.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arriving from the airport",
+          "description": "From Incheon, the AREX express reaches Seoul Station in 45 minutes; the all-stop AREX is slower but cheaper. For late-night landings, airport limousine buses fan out by district — taxis are comfortable but costly."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro mastery",
+          "description": "Color-coded lines, numbered exits and English announcements: the metro is Seoul's spine. Buy a T-money card at any convenience store; transfers calculate automatically. Line 2 packs out at rush hour — wait one train, the next comes emptier."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxis and Kakao T",
+          "description": "Taxis are reasonable by world standards: orange-and-silver is standard, black 'deluxe' is pricier. The Kakao T app ends the address problem — showing the driver an address in Korean is always the fastest solution."
+        },
+        {
+          "icon": "🚶",
+          "title": "Neighborhood walks",
+          "description": "Seoul is walked neighborhood by neighborhood: Bukchon's slopes, Seongsu's warehouse lanes, Hongdae's young crowds. The Cheonggyecheon stream is a walking corridor through the city's middle — lovelier still under the night lights."
+        },
+        {
+          "icon": "🚌",
+          "title": "Night buses and mountain lines",
+          "description": "The Owl buses run the main arteries after midnight; city buses reach the gates of Bukhansan and the other mountains. Few places escape the metro — the bus is its scenic complement."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Metro tip",
+        "text": "Crack the address culture: 'Hongik Univ. Station, Exit 9' is an address. Type the station into Naver Map and follow the exit number — leaving by the wrong exit means an extra ten-minute walk in Seoul."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "In Seoul choosing a neighborhood means choosing a tempo: Myeongdong's practicality, Hongdae's night rhythm, Bukchon's hanok mornings.",
+      "local_word": {
+        "word": "Ondol",
+        "pronunciation": "ON-dol",
+        "definition": "Underfloor heating: the thousand-year-old comfort system of the Korean home. In a traditional hanok you sleep on a floor mattress warmed from below — even modern apartments aren't built without ondol. When you feel the floor's warmth in a winter hanok stay, you've touched the heart of Korean home culture."
+      },
+      "items": [
+        {
+          "name": "Myeongdong",
+          "badge": "Most practical",
+          "badge_type": "hot",
+          "description": "The center of shopping streets, cosmetics shops and street-food stalls: strong metro links, everything within walking distance. The classic, painless base for a first visit.",
+          "tags": [
+            "Shopping central",
+            "Street stalls",
+            "Strong metro"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Myeongdong+Seoul"
+        },
+        {
+          "name": "Hongdae",
+          "badge": "Night rhythm",
+          "badge_type": "hot",
+          "description": "The university quarter's street performances, clubs and cafes: alive late into the night. Direct to the airport on the AREX line — the address for young energy.",
+          "tags": [
+            "Street stages",
+            "Nightlife",
+            "Direct to airport"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hongdae+Seoul"
+        },
+        {
+          "name": "Bukchon and Insadong",
+          "badge": "Hanok soul",
+          "badge_type": "vibe",
+          "description": "The hanok village between the palaces and the art lanes beside it: tea houses, galleries, morning silence. An ondol experience with a hanok stay — for waking up inside history.",
+          "tags": [
+            "Hanok stays",
+            "Beside the palaces",
+            "Tea houses"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bukchon+Hanok+Village+Seoul"
+        },
+        {
+          "name": "Gangnam",
+          "badge": "Modern face",
+          "badge_type": "value",
+          "description": "Broad boulevards, towers and polished restaurants: Seoul's glossy modern bank. COEX and Bongeunsa Temple sit side by side — the hub for business-and-comfort stays.",
+          "tags": [
+            "Modern comfort",
+            "Polished dining",
+            "Broad boulevards"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gangnam+Seoul"
+        },
+        {
+          "name": "Seongsu",
+          "badge": "Hip conversion",
+          "badge_type": "local",
+          "description": "'Seoul's Brooklyn', where old shoe factories became cafes and galleries: pop-up shops, third-wave coffee. Next to Seoul Forest park — for seeing the creative scene at the source.",
+          "tags": [
+            "Factory cafes",
+            "Pop-up scene",
+            "Beside the park"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Seongsu+Seoul"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "When to Go",
+      "intro": "Seoul lives its four seasons hard: cherry blossoms in spring, monsoon and festivals in summer, crimson leaves in autumn, freezing but ice-blue skies in winter.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "The Cherry Blossom Wave",
+          "months": "Apr – Jun",
+          "subtitle": "Spring · Blossoming palace courtyards, riverside picnics",
+          "description": "In early April the cherry blossoms sweep the city: Yeouido's tree tunnels, palace courtyards and campuses turn pink. The air warms and the Han River picnics begin — Seoul's most photogenic window.",
+          "callout": {
+            "type": "tip",
+            "label": "April tip",
+            "text": "Peak blossom lasts a week and the calendar shifts every year: follow the blossom forecast maps. Choose Seokchon Lake's morning hours over the Yeouido crowds — the same pink, a tenth of the people."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "Monsoon and River Nights",
+          "months": "Jul – Aug",
+          "subtitle": "Summer · Humid heat, downpours, night picnics",
+          "description": "July's monsoon arrives in downpours and August is humid and hot: days are built around air-conditioned museums and cafes, evenings around the Han River banks. The night picnic — a tent, fried chicken and a river breeze — is the signature of a Seoul summer.",
+          "callout": {
+            "type": "warning",
+            "label": "Monsoon note",
+            "text": "In mid-July, keep the umbrella in your bag: downpours strike suddenly — the umbrella-bagging machines at metro exits exist for a reason. The humidity wears you down; build one cafe-break layer into each day."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "Crimson Leaf Peak",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · Clear skies, golden ginkgo avenues",
+          "description": "October and November are Seoul at its best: crystal skies, cool air, ginkgo trees painting the avenues gold. Bukhansan's granite turns crimson and the palace courtyards catch their most graceful light — the season of walkers and photographers.",
+          "callout": {
+            "type": "tip",
+            "label": "November tip",
+            "text": "In early November the back garden of Gyeongbokgung and the Samcheong-dong road turn ginkgo-yellow: go early and walk while the light is low. It's also the year's best window for the Bukhansan summit hike — pick a weekday."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Ice-Blue Days",
+          "months": "Dec – Mar",
+          "subtitle": "Winter · Sub-zero cold, deep blue skies, steaming stalls",
+          "description": "Seoul winter is fierce: minus ten happens, but the sky stays deep blue most days. The steam of street stalls, hotteok pancakes and jjimjilbang warmth are winter's rewards — and when snow falls, the palace courtyards become postcards.",
+          "callout": {
+            "type": "tip",
+            "label": "January tip",
+            "text": "On a freezing night, go to a jjimjilbang: hot pools, a salt room and a nap on the heated floor — Korean winter therapy. On the way out, buy a hot hotteok from a stall: the syrup filling burns your hand, and it's worth it."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "The Korean table is the architecture of sharing: meat over coals, an army of banchan in the middle, soju alongside — and everything has its etiquette.",
+      "local_word": {
+        "word": "Banchan",
+        "pronunciation": "BAN-chan",
+        "definition": "The army of small plates that arrives beside the main dish: kimchi, pickles, seasoned greens, tiny omelets. All included, all refillable — don't be surprised when the table fills with little plates; this is the constitution of the Korean table. Banchan generosity is the first sign of a good restaurant."
+      },
+      "items": [
+        {
+          "icon": "🥓",
+          "name": "The samgyeopsal ritual",
+          "description": "Pork belly or beef over coals set into your table: cut with scissors, wrapped in a lettuce leaf — garlic, ssamjang and a piece of kimchi inside. Eat the wrap in one bite; etiquette insists. The hour around the grill is the heart of Seoul's social life.",
+          "tag": "Coals at the table · one-bite wraps",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=samgyeopsal+Seoul"
+        },
+        {
+          "icon": "🏮",
+          "name": "Gwangjang Market classics",
+          "description": "At the century-old market's stalls: bindaetteok (mung-bean pancakes) and mayak gimbap ('addictive' mini rolls). Grab a stool and watch the aunties' mastery. The crowded stall is always the right stall.",
+          "tag": "Market classic · on a stool",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gwangjang+Market+Seoul"
+        },
+        {
+          "icon": "🍲",
+          "name": "Kimchi jjigae and a full table",
+          "description": "Bubbling kimchi stew with rice and the banchan army: the cornerstone of Korean home cooking. A few dollars at a lunchtime eatery — its heat races its warmth, and the spoon is hard to put down.",
+          "tag": "Home classic · a bubbling pot",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=kimchi+jjigae+Seoul"
+        },
+        {
+          "icon": "🍢",
+          "name": "Tteokbokki and the street stall",
+          "description": "Rice cakes in sweet-hot sauce, with fish cakes and fried mandu alongside: the classic of the school run and the night walk. The pojangmacha (tent stall) atmosphere is half the experience — the steam is best in the cold.",
+          "tag": "Street classic · at a tent stall",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=tteokbokki+Seoul"
+        },
+        {
+          "icon": "🍗",
+          "name": "Chimaek: chicken + beer",
+          "description": "Double-fried crisp Korean chicken with cold beer: the 'chikin + maekju' contraction is now an institution. Order half sauced, half plain, and eat it by the Han River — Seoul evening's most democratic pleasure.",
+          "tag": "The institution · by the river",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=chimaek+chicken+beer+Seoul"
+        },
+        {
+          "icon": "🍧",
+          "name": "Bingsu and cafe culture",
+          "description": "Snow-fine shaved ice under sweet red bean, milk and fruit: bingsu is Seoul's sweet summit. The city's cafe scene is a reason to travel in itself — from theme cafes to rooftops, the coffee is taken seriously.",
+          "tag": "Snow dessert · with the cafe scene",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=bingsu+cafe+Seoul"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Table rule",
+        "text": "Three signs of a good Seoul restaurant: a queue at the door, generous banchan on the table, few items on the menu. Grill houses sometimes require two portions for solo diners — then the stew and bibimbap eateries are your friends."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Corners",
+      "intro": "Everyone sees Gyeongbokgung; these six are Seoul's hanok-scented, mountain-framed hidden face.",
+      "items": [
+        {
+          "rarity": "Hanoks turned cafes",
+          "name": "Ikseondong",
+          "description": "Cafes, workshops and boutiques in the narrow lanes of restored hanoks: third-wave coffee under traditional roofs. Go on a weekday morning — the lanes fill by afternoon, but the morning is yours.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ikseondong+Hanok+Village+Seoul"
+        },
+        {
+          "rarity": "Night walk on the wall",
+          "name": "The Naksan fortress walls",
+          "description": "The Naksan stretch of the city walls is lit at night: five-hundred-year-old stones on one side, a million-lighted city on the other. The route from Hyehwa down to Dongdaemun is Seoul's most romantic free activity.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Naksan+Park+fortress+wall+Seoul"
+        },
+        {
+          "rarity": "A summit reached by metro",
+          "name": "Bukhansan National Park",
+          "description": "Granite peaks rising out of the city: metro and bus deliver you to the gate, and within hours you're looking down on the megacity from bare rock. Few cities of millions have such a mountain this close — go on a weekday.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bukhansan+National+Park"
+        },
+        {
+          "rarity": "Korean bathhouse night",
+          "name": "The jjimjilbang experience",
+          "description": "Hot pools, salt and ice rooms, naps on heated floors and the sheep-head towel: the jjimjilbang is not a spa but a social institution. You can even stay the night — falling asleep on a warm floor is the Korean way of resetting.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=jjimjilbang+Seoul"
+        },
+        {
+          "rarity": "The aunties' market",
+          "name": "Mangwon Market",
+          "description": "A neighborhood market tourists rarely reach: fried-chicken stalls, home-style dishes and friendly prices. Shop, then walk five minutes to the Han River — market plus river picnic is the locals' weekend formula.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mangwon+Market+Seoul"
+        },
+        {
+          "rarity": "From factory to cafe",
+          "name": "Seongsu and Seoul Forest",
+          "description": "Old shoe factories became cafes, galleries and pop-up shops; next door, the deer groves of Seoul Forest. Split an afternoon between the two — Seoul's creative present and its green breath side by side.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Seoul+Forest+Seongsu"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tempo strategy",
+        "text": "Tour Seoul in layers: palace and hanok in the morning, a market stall at noon, a cafe or a mountain in the afternoon, a wall walk or neon street at night. When fatigue accumulates, the jjimjilbang resets you — this city runs fast, but it has institutionalized its breaks."
+      }
+    },
+    "traps": {
+      "title": "Tourist Traps",
+      "intro": "Seoul is honest and safe; its traps are small and easily dodged — keep these four in your pocket.",
+      "items": [
+        {
+          "icon": "🗺️",
+          "name": "Trusting Google Maps",
+          "description": "Map data is restricted in Korea: Google won't draw walking routes and its time estimates mislead — 'can't find the way' is the classic tourist problem in Seoul.",
+          "instead": "Download Naver Map or Kakao Map and set them to English: metro exit numbers, bus times and walking routes work flawlessly. Copying addresses in Korean also saves lives in taxis."
+        },
+        {
+          "icon": "💄",
+          "name": "The 'free gift' sales press in Myeongdong",
+          "description": "In some cosmetics shops, the 'free mask' pressed on you at the door becomes a long, insistent sales chat inside; the basket swells and returns are hard.",
+          "instead": "Decline the gift with a smile, or take it and skip the store if you need nothing. Shop at official single-brand stores and price-tagged chains — and carry your passport for tax-free shopping."
+        },
+        {
+          "icon": "🚕",
+          "name": "The late-night 'black taxi' haggle",
+          "description": "Some drivers waiting in nightlife zones quote round numbers instead of the meter; tourists mistaking a deluxe cab for a standard one pay double.",
+          "instead": "Call a ride with Kakao T or take a metered orange-and-silver taxi: the night surcharge is legal and modest, and haggling is unnecessary. Returning before the metro closes is always an option — check the last train."
+        },
+        {
+          "icon": "👘",
+          "name": "Low-quality hanbok rentals",
+          "description": "Some shops near the palaces rent the cheapest fabric at the highest price; 'mandatory extras' like hair accessories and bags inflate the bill.",
+          "instead": "Ask clearly at the door what's included: hourly rate, accessories, hair? Choose a well-reviewed shop in advance — a quality hanbok shows its difference in the photos and in the palace."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Golden rule",
+        "text": "Getting lost in Seoul isn't dangerous, just time lost — with the right map, a T-money card and a few Korean words, the city works for you. When in doubt, ask the young: most treat helping in English as seriously as homework."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Itineraries",
+      "intro": "If you hate planning, follow these flows. Times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "From palace morning to neon night",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Gyeongbokgung and the guard ceremony",
+              "description": "Tour the palace courtyards in morning light and catch the changing of the guard. Rent a hanbok and entry is free — the photos last a lifetime."
+            },
+            {
+              "time": "11:00",
+              "title": "Bukchon and Ikseondong",
+              "description": "Roof curves on the hanok village slopes, then Ikseondong's cafe lanes: two hours where tradition and today shake hands."
+            },
+            {
+              "time": "13:30",
+              "title": "Gwangjang Market lunch",
+              "description": "Grab a stool for bindaetteok and mayak gimbap: the aunties' stall mastery is the show itself."
+            },
+            {
+              "time": "15:30",
+              "title": "Cheonggyecheon and Dongdaemun",
+              "description": "Walk the stream to the spaceship architecture of the DDP: Zaha Hadid's curves are at their best at sunset."
+            },
+            {
+              "time": "18:00",
+              "title": "The Naksan wall walk",
+              "description": "Climb to the walls from Hyehwa: as the lights come on, the city spreads at your feet. Seoul's most romantic free hour."
+            },
+            {
+              "time": "20:00",
+              "title": "Samgyeopsal and the night streets",
+              "description": "The wrap ritual around the coals, then Hongdae's street performances or a pojangmacha stall: the night doesn't end early in Seoul."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Palaces, a mountain and a river — the full Seoul",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Classic Seoul",
+              "description": "The 1-day flow above: the palace, Bukchon, Gwangjang, Cheonggyecheon, Naksan, a samgyeopsal night."
+            },
+            {
+              "time": "Day 2",
+              "title": "Mountain or the modern bank",
+              "description": "By your energy: the Bukhansan summit hike in the morning, or Changdeokgung's Secret Garden (timed tour); Seongsu cafes and Seoul Forest in the afternoon; dinner in Gangnam + the book tower of the COEX library at night."
+            },
+            {
+              "time": "Day 3",
+              "title": "River and farewell",
+              "description": "Morning picnic supplies from Mangwon Market, then bikes and grass along the Han River; Myeongdong shopping or a jjimjilbang break in the afternoon; farewell chimaek in the evening — closing with river breeze and crisp chicken."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Word Survival Kit",
+      "intro": "Korean is a courteous language and effort is rewarded instantly; these five phrases open doors at the table and on the street.",
+      "items": [
+        {
+          "word": "Annyeonghaseyo",
+          "pronunciation": "ahn-nyong-ha-SEH-yo",
+          "meaning": "Hello — with a slight bow; valid at every hour of the day"
+        },
+        {
+          "word": "Gamsahamnida",
+          "pronunciation": "kam-sah-ham-NEE-da",
+          "meaning": "Thank you — from stall to metro, your most-used word"
+        },
+        {
+          "word": "Jal meokgesseumnida",
+          "pronunciation": "chal mok-keh-sum-NEE-da",
+          "meaning": "'I will eat well' — said before the meal; it wins the host's heart"
+        },
+        {
+          "word": "Geonbae!",
+          "pronunciation": "gun-BAE",
+          "meaning": "Cheers! — as the soju rises; turning slightly away from elders while drinking is the custom"
+        },
+        {
+          "word": "Juseyo",
+          "pronunciation": "joo-SEH-yo",
+          "meaning": "Please give me — combined with pointing, the key to the art of menu-free ordering"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Seoul Checklist",
+      "completion_message": "Geonbae! You've lived the city of palaces and neon the way it deserves!",
+      "items": [
+        {
+          "label": "Tour Gyeongbokgung in a hanbok",
+          "sub": "Palace entry is free when you rent one"
+        },
+        {
+          "label": "Watch the changing of the guard",
+          "sub": "At the palace gate — to the sound of drums"
+        },
+        {
+          "label": "Grill samgyeopsal and make one-bite wraps",
+          "sub": "Don't forget the ssamjang"
+        },
+        {
+          "label": "Eat bindaetteok at Gwangjang",
+          "sub": "On a stool, at the aunties' stall"
+        },
+        {
+          "label": "Walk the Naksan walls at night",
+          "sub": "Lit ramparts, the city at your feet"
+        },
+        {
+          "label": "Have chimaek by the Han River",
+          "sub": "Crisp chicken + beer — on the grass"
+        },
+        {
+          "label": "Climb Bukhansan's granite summit",
+          "sub": "To the mountain gate by metro — weekdays"
+        },
+        {
+          "label": "Spend an evening in a jjimjilbang",
+          "sub": "Hot pools, salt room, sheep-head towel"
+        },
+        {
+          "label": "Sit in Ikseondong's hanok cafes",
+          "sub": "Weekday morning — the lanes are yours"
+        },
+        {
+          "label": "Eat tteokbokki at a pojangmacha",
+          "sub": "In the tent steam — a winter classic"
+        }
+      ]
+    }
+  }
+}

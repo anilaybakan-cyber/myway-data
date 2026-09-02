@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Philadelphia",
+    "country": "ABD",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#0F5C50",
+    "color_light": "#E4F0EE",
+    "tagline": "Bağımsızlığın doğduğu tuğla sokaklar, mural duvarlar ve wit bir cheesesteak"
+  },
+  "pills": [
+    "ABD'nin doğduğu şehir",
+    "Dünyanın mural başkenti",
+    "Rocky basamaklarının evi"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Philadelphia'ya Hoş Geldin",
+      "intro": "Philadelphia Amerika'nın doğum odasıdır: Bağımsızlık Bildirgesi burada imzalandı, Özgürlük Çanı burada çatladı, anayasa burada yazıldı. Ama Philly tarihiyle poz veren bir şehir değildir — dört bin muralın boyadığı duvarları, Reading Terminal'in tezgah uğultusu, güney mahallelerinin sıra evleri ve 'jawn' diyen aksanıyla işçi sınıfı ruhunu korur. Rocky'nin basamaklarında hâlâ her sabah biri koşar, cheesesteak fırınlarında 'wit or witout' sorusu hâlâ ciddi bir sınavdır. Philly seni etkilemeye çalışmaz; kendisi olur — tam da bu yüzden sevilir.",
+      "local_word": {
+        "word": "Jawn",
+        "pronunciation": "con",
+        "definition": "Philadelphia İngilizcesinin mucizesi: her şeyin yerine geçebilen kelime. Bir nesne, bir yer, bir olay, bir insan — hepsi jawn'dır. 'Pass me that jawn' (şu şeyi uzat), 'that jawn was crazy' (o şey çılgındı). Dil bilimciler inceler, Philly'liler gururla kullanır — dünyada başka örneği olmayan bir kelimedir."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Bağımsızlık biletlerini önceden ayarla",
+          "description": "Independence Hall saatli ücretsiz biletle gezilir: sezonunda sabah erken tükenir, online ayırt. Özgürlük Çanı biletsizdir ama kuyruğu öğlen uzar — ikisini de sabah ilk saatlere kur, tarih kalabalıksız anlatılsın."
+        },
+        {
+          "number": 2,
+          "title": "Cheesesteak sınavına hazırlan",
+          "description": "Sipariş kısa ve nettir: 'One whiz wit' (Cheez Whiz'li, soğanlı) ya da 'provolone witout'. Tezgah hızlıdır, kararsızlık kuyruğu bekletir — turist düellosuna değil mahalle ustalarına git; Philly'nin gerçek steak'i oradadır."
+        },
+        {
+          "number": 3,
+          "title": "Duvarları oku: mural şehri gezmenin anahtarıdır",
+          "description": "Kırk yıllık Mural Arts programı şehri dünyanın en büyük açık hava galerisine çevirdi: dört binden fazla duvar. Rotanı murallara göre kur — her mahallenin duvarı kendi hikayesini anlatır; şehir tarihini kaldırımdan okursun."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Philadelphia (PHL)",
+          "sub": "Merkeze trenle ~25 dk"
+        },
+        {
+          "icon": "🔔",
+          "label": "İmza",
+          "value": "Independence Hall",
+          "sub": "Bildirge ve anayasanın imza odası"
+        },
+        {
+          "icon": "💵",
+          "label": "Para birimi",
+          "value": "Dolar (USD)",
+          "sub": "Kart her yerde, bahşiş %18-20"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "İngilizce",
+          "sub": "Philly aksanı: 'wooder' = water"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Philly felsefesi",
+        "text": "Bu şehir cilasızlığıyla gurur duyar: tarihini ücretsiz anlatır, sanatını duvara boyar, yemeğini kağıda sarar. Beklentini şıklıktan sahiciliğe çevir — Philly güvenini kazandığında sana Amerika'nın en iyi hikayesini anlatır."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Philly kompakt ve yürünebilirdir: tarihi bölge yayadır, SEPTA metrosu ve otobüsleri kalanı bağlar, Indego bisikletleri araları doldurur.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından geliş",
+          "description": "PHL'den SEPTA Airport Line treni Center City'ye 25 dakikada bağlar: ucuz ve dertsiz. Uygulama araçları trafiğe göre 20-40 dakikadır — tren çoğu saatte kazanır."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürünebilir çekirdek",
+          "description": "Old City'den Rittenhouse'a, City Hall'dan güney mahallelerine Center City yürüyerek gezilir: ızgara plan kaybolmayı zorlaştırır. Tarihi bölge tamamen yayadır — rahat ayakkabı, tuğla kaldırımın dostudur."
+        },
+        {
+          "icon": "🚇",
+          "title": "SEPTA metro ve otobüsler",
+          "description": "İki metro hattı (turuncu kuzey-güney, mavi doğu-batı) turistin işini görür: stadyumlara ve müze bölgesine pratik. Key kart ya da temassız ödeme — Fishtown için mavi hat + yürüyüş formülü işler."
+        },
+        {
+          "icon": "🚲",
+          "title": "Indego bisikletleri",
+          "description": "Paylaşımlı bisiklet istasyonları merkezde yaygındır: Schuylkill nehir yolu, müzeden Boathouse Row'a düz ve manzaralı pedal sunar. Nehir kıyısı, Philly'nin en sakin ulaşım hattıdır."
+        },
+        {
+          "icon": "🌉",
+          "title": "Nehirler arası geçişler",
+          "description": "Delaware kıyısında Race Street İskelesi ve yaz aylarında Spruce Street Harbor Park; Schuylkill tarafında müze aksı: iki nehir arasında gezmek Philly gününün doğal ritmidir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Nehir yolu tüyosu",
+        "text": "Akşamüstü Schuylkill Banks yürüyüş yoluna in: koşucular, kürek tekneleri ve gün batımında ışıklanan Boathouse Row. Sanat müzesinin arkasından başlayıp South Street köprüsüne yürü — Philly'nin en zarif saati bu kıyıda geçer."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Philly'de seçim doku seçimidir: Old City'nin tarihi tuğlaları, Rittenhouse'un zarif meydanı, Fishtown'ın genç enerjisi.",
+      "local_word": {
+        "word": "Rowhome",
+        "pronunciation": "rovhom",
+        "definition": "Philadelphia'nın omuz omuza sıra evleri: şehrin yüzde yetmişi bu tuğla evlerde yaşar. Mermer basamaklar, çift pencereli cepheler ve mahalle sadakati — rowhome sadece konut değil, Philly sosyal hayatının birimidir. Basamakta oturup sokağı izlemek meşru bir akşam programıdır."
+      },
+      "items": [
+        {
+          "name": "Old City",
+          "badge": "Tarihin içi",
+          "badge_type": "vibe",
+          "description": "Independence Hall'a ve Elfreth's Alley'ye yürüme mesafesi: galeriler, tuğla sokaklar ve ilk cuma sanat geceleri. Tarih odaklı ziyaretin doğal üssü.",
+          "tags": [
+            "Tarihe komşu",
+            "Galeri sokakları",
+            "İlk cuma geceleri"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Old+City+Philadelphia"
+        },
+        {
+          "name": "Rittenhouse Square",
+          "badge": "En zarif",
+          "badge_type": "hot",
+          "description": "Meydanın çınarları çevresinde şık oteller, restoranlar ve butikler: Philly'nin en cilalı köşesi. Her yere yürünür — konfor ve konum zirvede.",
+          "tags": [
+            "Meydan hayatı",
+            "Şık sofralar",
+            "Merkezi konum"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rittenhouse+Square+Philadelphia"
+        },
+        {
+          "name": "Midtown Village",
+          "badge": "Dengeli merkez",
+          "badge_type": "value",
+          "description": "13th Street'in restoran sokakları, City Hall'a komşuluk ve iki metro hattına erişim: pratik ve canlı üs. Gece sofraları kapının dibinde.",
+          "tags": [
+            "Restoran sokağı",
+            "Metro kavşağı",
+            "Canlı akşamlar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Midtown+Village+Philadelphia"
+        },
+        {
+          "name": "Fishtown",
+          "badge": "Genç enerji",
+          "badge_type": "local",
+          "description": "Eski işçi mahallesinin dönüşen hali: müzik mekanları, üçüncü dalga kahve, ödüllü lokantalar. Merkeze mavi hatla on dakika — Philly'nin yaratıcı bugünü.",
+          "tags": [
+            "Müzik mekanları",
+            "Kahve sahnesi",
+            "Ödüllü mutfaklar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fishtown+Philadelphia"
+        },
+        {
+          "name": "University City",
+          "badge": "Kampüs yakası",
+          "badge_type": "value",
+          "description": "Penn ve Drexel kampüslerinin nehir karşısı dünyası: müzeler, botanik bahçe ve öğrenci fiyatlı sofralar. Trenle merkez beş dakika — sakin ve ekonomik taraf.",
+          "tags": [
+            "Kampüs ritmi",
+            "Ekonomik sofralar",
+            "Tren bağlantısı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=University+City+Philadelphia"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Philly dört mevsim yaşar: bahar çiçekli ve ferah, yaz nemli ve şenlikli, güz altın, kış sert ama müze dostudur.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Kiraz Çiçeği ve Meydanlar",
+          "months": "Mar – May",
+          "subtitle": "İlkbahar · Çiçekli parklar, ferah yürüyüş havası",
+          "description": "Nisan kiraz çiçekleri Fairmount Park'ı süsler, meydanlar yeniden dolar, tarihi bölge en rahat gezme havasını yakalar. Kalabalık yaz seviyesinde değildir — Philly baharı yürüyüş şehri vaadini tam yerine getirir.",
+          "callout": {
+            "type": "tip",
+            "label": "Nisan ipucu",
+            "text": "Nisan başında Japon evi Shofuso'nun çevresindeki kiraz bahçesine git: Fairmount'un az bilinen köşesi pembe şölene döner. Dönüşte Boathouse Row yürüyüşüyle birleştir — bahar Philly'sinin en zarif yarım günü."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Nemli ve Şenlikli",
+          "months": "Haz – Ağu",
+          "subtitle": "Yaz · Sıcak günler, nehir kıyısı akşamları, 4 Temmuz",
+          "description": "Yaz Philly'si nemli ama cömerttir: Spruce Street Harbor Park'ın hamakları, açık hava sinemaları ve 4 Temmuz'un ana sahnesi — bağımsızlığın doğduğu şehirde kutlama başka türlü coşkuludur.",
+          "callout": {
+            "type": "tip",
+            "label": "4 Temmuz ipucu",
+            "text": "Bağımsızlık gününü doğduğu yerde yaşa: gün boyu tarihi bölgede etkinlik, akşam sanat müzesi önünde konser ve havai fişek. Yer kapmak öğleden başlar — Philly bu bayramın ev sahibidir, ciddiyeti ona göre."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Altın Tuğla Mevsimi",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Kızıl parklar, berrak hava, futbol pazarları",
+          "description": "Ekim Philly'nin zirvesidir: Wissahickon vadisi kızıla döner, tuğla cepheler altın ışıkta parlar, kahve mevsimi açılır. Eagles maç günü şehir yeşile bürünür — 'Go Birds' selamı her kapıyı açar.",
+          "callout": {
+            "type": "tip",
+            "label": "Ekim ipucu",
+            "text": "Ekim ortasında Wissahickon Valley'de yürü: şehrin içinde kanyon, dere ve kızıl orman — Forbidden Drive patikası araçsız ve huzurludur. Dönüşte Chestnut Hill'in taş evli ana caddesinde kahve molası."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Müze ve Buz Pisti",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Soğuk günler, sıcak müzeler, nehir kıyısı buz pisti",
+          "description": "Philly kışı soğuktur ama programı zengindir: dev sanat müzesi, Barnes koleksiyonu ve Reading Terminal'in sıcak tezgahları. Delaware kıyısında buz pisti kurulur — kar yağınca tuğla sokaklar kartpostala döner.",
+          "callout": {
+            "type": "tip",
+            "label": "Ocak ipucu",
+            "text": "Soğuk bir sabah Rocky basamaklarını koşarak çık: kışın turist yoktur, zafer pozu sana kalır. Ödül içeride — sanat müzesinin koleksiyonu tam gün ister; pazar sabahı 'pay what you wish' saatini kontrol et."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Philly sofrası işçi sınıfı klasikleriyle kurulur: pres ekmekte et, kağıtta pretzel, pazarda yüz mutfak — gösterişsiz ve doyurucu.",
+      "local_word": {
+        "word": "Wit / Witout",
+        "pronunciation": "vit / vitaut",
+        "definition": "Cheesesteak siparişinin anayasası: 'wit' soğanlı, 'witout' soğansız demektir ('with'in Philly söylenişi). Tezgahta önce peynir söylenir, sonra soğan kararı: 'whiz wit' klasiklerin klasiğidir. Hızlı ve net sipariş Philly saygısıdır — kuyrukta kararını vermiş ol."
+      },
+      "items": [
+        {
+          "icon": "🥖",
+          "name": "Cheesesteak",
+          "description": "İnce kıyılmış biftek, eriyen peynir ve İtalyan ekmeği: şehrin imzası. Whiz, provolone ya da American — tartışma sonsuz, lezzet garantidir. Mahalle steak dükkanları turist düellosundan hep bir adım öndedir.",
+          "tag": "Şehrin imzası · whiz wit dene",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=cheesesteak+Philadelphia"
+        },
+        {
+          "icon": "🥪",
+          "name": "Roast pork sandviçi",
+          "description": "Yerlinin gizli favorisi: yavaş pişmiş domuz rosto, sote broccoli rabe ve keskin provolone. Cheesesteak'in gölgesinde kalmış başyapıt — Reading Terminal'deki ustası öğlen kuyruğuyla haklıdır.",
+          "tag": "Yerli favorisi · broccoli rabe ile",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=roast+pork+sandwich+Philadelphia"
+        },
+        {
+          "icon": "🏛️",
+          "name": "Reading Terminal turu",
+          "description": "1893'ten beri açık pazar: Amish tezgahları, yüz mutfak ve tarihi neonlar. Kahvaltıdan tatlıya tek çatıda tur — öğlen kalabalığı atmosferin parçasıdır, masayı önce kap.",
+          "tag": "1893'ten beri · tek çatı turu",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Reading+Terminal+Market"
+        },
+        {
+          "icon": "🥨",
+          "name": "Soft pretzel sabahı",
+          "description": "Philly pretzel'i ince, yumuşak ve sekiz şeklindedir: sabah fırından sıcak, hardal eşliğinde. Şehir günde ortalama bir pretzel yer — sen de kotanı doldur.",
+          "tag": "Sabah klasiği · hardallı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=soft+pretzel+Philadelphia"
+        },
+        {
+          "icon": "🥙",
+          "name": "Hoagie",
+          "description": "İtalyan ekmeğinde soğuk et, peynir, marul ve yağ-sirke: Philly'nin sandviç mirası. 'Old school İtalyan hoagie' bir deli tezgahından alınır — pikniğin ve nehir kıyısının resmi yemeği.",
+          "tag": "Sandviç mirası · deli tezgahından",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=hoagie+Philadelphia"
+        },
+        {
+          "icon": "🍧",
+          "name": "Water ice ve Tastykake",
+          "description": "Yazın köşe dükkanından 'wooder ice' (meyve buzu), yıl boyu markette Tastykake: Philly'nin tatlı kimliği. Mango ya da kiraz — kaşık küçük, nostalji büyüktür.",
+          "tag": "Tatlı kimlik · wooder ice",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=water+ice+Philadelphia"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sofra kuralı",
+        "text": "Philly'de yemek gösterişsizdir ve öyle kalmalıdır: kağıda sarılı sandviç, plastik masa ve hızlı tezgah en iyi lezzetin ambalajıdır. İtalyan pazarı ve Reading Terminal'de tezgahtan ye; şık restoran gecesini Fishtown'ın ödüllü mutfaklarına sakla."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Özgürlük Çanı'nı herkes görür; bu altısı Philly'nin mozaik kaplı, dere sesli saklı yüzü.",
+      "items": [
+        {
+          "rarity": "Mozaik rüya evi",
+          "name": "Magic Gardens",
+          "description": "Sanatçı Isaiah Zagar'ın South Street'te otuz yılda ördüğü mozaik labirent: ayna kırıkları, şişeler ve halk sanatı, iki katlı bir rüya avlusunda. Philly'nin en fotojenik yarım saati — bileti önceden al.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Philadelphia+Magic+Gardens"
+        },
+        {
+          "rarity": "Amerika'nın en eski sokağı",
+          "name": "Elfreth's Alley",
+          "description": "1703'ten beri kesintisiz oturulan sokak: otuz iki Georgian ev, arnavut kaldırımı ve çiçekli pencereler. Sabah erken git — Amerika'nın en eski 'mahallesi' sana kalır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Elfreth%27s+Alley+Philadelphia"
+        },
+        {
+          "rarity": "Yüzyıllık İtalyan pazarı",
+          "name": "9th Street İtalyan Pazarı",
+          "description": "Amerika'nın en eski açık hava pazarlarından: peynirciler, kasaplar, taquería'lar ve varil ateşleri. İtalyan mirasla Meksika bugünü aynı tezgahta — cumartesi sabahı en canlı halidir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Italian+Market+9th+Street+Philadelphia"
+        },
+        {
+          "rarity": "Şehir içinde kanyon",
+          "name": "Wissahickon Valley",
+          "description": "Şehir sınırında 800 hektarlık orman vadisi: dere, taş köprüler ve Forbidden Drive'ın araçsız patikası. Philly'linin doğa sığınağı — sonbaharda kızıl şölene döner.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wissahickon+Valley+Park"
+        },
+        {
+          "rarity": "Nehirde ışık dizisi",
+          "name": "Boathouse Row gece ışıkları",
+          "description": "Schuylkill kıyısındaki Victorian kürek kulüpleri gece binlerce ampulle çizilir: nehre yansıyan ışık dizisi şehrin en romantik karesidir. Batı kıyısından ya da Spring Garden köprüsünden izle.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Boathouse+Row+Philadelphia"
+        },
+        {
+          "rarity": "Duvarların katedrali",
+          "name": "Fishtown ve Kensington muralları",
+          "description": "Mural Arts'ın en cesur duvarları kuzey mahallelerindedir: dev portreler, mahalle hikayeleri ve fabrika cepheleri. Rehberli mural turu ya da kendi rotanla — şehrin galerisi ücretsizdir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fishtown+murals+Philadelphia"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sokak stratejisi",
+        "text": "Philly'nin incileri sokak ölçeğindedir: Elfreth's sabahı, İtalyan pazarı öğleni, Magic Gardens ikindisi, Boathouse Row gecesi. Araç gerekmez — bu şehir yürüyene açılır, tuğla tuğla."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Philly dürüst bir şehirdir; tuzakları turistin acelesinden beslenir — bu dördünü bil.",
+      "items": [
+        {
+          "icon": "🥖",
+          "name": "Pat's ve Geno's düellosuna sıkışmak",
+          "description": "Neonlu iki turist tezgahının kuyruğunda saatler geçer; cheesesteak vasat üstü, deneyim fotoğraf çekimidir.",
+          "instead": "Fotoğrafı çek, sandviçi mahalle ustasında ye: güney Philly'nin ve Reading Terminal'in tezgahları hem kuyruksuz hem üstündür. 'Whiz wit' siparişi her yerde aynı saygıyı görür."
+        },
+        {
+          "icon": "🎫",
+          "name": "Independence Hall'a plansız gitmek",
+          "description": "Saatli ücretsiz biletler sezonda sabah tükenir: kapıya gelen turist binayı dışarıdan fotoğraflamakla kalır.",
+          "instead": "Bileti birkaç gün önceden online ayır (sembolik ücretle) ya da gişeden sabah ilk saatte al. Özgürlük Çanı biletsizdir — onu öğleden önce, Hall turundan sonra sıraya koy."
+        },
+        {
+          "icon": "🏃",
+          "name": "Rocky kuyruğunda vakit eritmek",
+          "description": "Heykel önündeki selfie kuyruğu öğlen yarım saati bulur; basamak koşusu kalabalıkta sıkışır.",
+          "instead": "Sabah 08.00'de gel: basamaklar boş, zafer pozu sana ait, heykel kuyruğu üç kişidir. Ödülü de al — müzenin kendisi Amerika'nın en iyilerindendir; basamak dışını da gör."
+        },
+        {
+          "icon": "🅿️",
+          "name": "Center City'de arabayla gezme inadı",
+          "description": "Dar sokaklar, tek yönler ve pahalı otoparklar: merkezde araba özgürlük değil, saatlik gider kalemidir.",
+          "instead": "Merkezi yürü, uzak mahalleleri SEPTA ve Indego ile bağla. Araba sadece Wissahickon ya da banliyö gezisi için mantıklıdır — o gün için kirala, gerisinde yürü."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Philly'de tarih ve sanat büyük oranda ücretsizdir: Hall bileti bedava, murallar sokakta, çan kuyruğu sabırla çözülür. Parayı pazar tezgahlarına ve Fishtown sofrasına sakla — bu şehir gösterişe değil, sahiciliğe bütçe ister."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Bağımsızlıktan mozaik bahçeye",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "Rocky basamakları ve müze sabahı",
+              "description": "Basamakları koşarak çık, zafer pozunu boş meydanda ver; erken saatte heykel kuyruğu yoktur."
+            },
+            {
+              "time": "09:30",
+              "title": "Independence Hall ve Özgürlük Çanı",
+              "description": "Saatli biletinle imza odasını gör, ardından çanın çatlağıyla yüzleş: Amerika'nın doğum belgeleri tek meydanda."
+            },
+            {
+              "time": "11:30",
+              "title": "Elfreth's Alley ve Old City",
+              "description": "Amerika'nın en eski sokağında yürü, galeri vitrinlerine bak: tuğla Philly'nin en zarif köşesi."
+            },
+            {
+              "time": "13:00",
+              "title": "Reading Terminal öğleni",
+              "description": "Pazarın tezgahlarında tur: roast pork sandviçi ya da Amish kahvaltısı. Masa kapmak yarış, atmosfer ödüldür."
+            },
+            {
+              "time": "15:00",
+              "title": "Magic Gardens ve South Street",
+              "description": "Mozaik labirentte kaybol, South Street'in dükkanlarıyla devam et: Philly'nin renkli yüzü."
+            },
+            {
+              "time": "18:30",
+              "title": "Cheesesteak ve nehir gecesi",
+              "description": "Mahalle tezgahında 'whiz wit' sınavını ver; kapanışı Boathouse Row ışıklarının nehre yansımasıyla yap."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Tarih, duvarlar ve vadiler — tam Philly",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Philly",
+              "description": "Yukarıdaki 1 günlük akış: Rocky sabahı, Independence Hall, Elfreth's, Reading Terminal, Magic Gardens, cheesesteak gecesi."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Sanat ve mahalleler",
+              "description": "Sabah sanat müzesinin koleksiyonu (ya da Barnes'ın izlenimcileri); öğlen Rittenhouse meydanında sofra; ikindi İtalyan pazarı ve güney Philly muralları; akşam Fishtown'da ödüllü mutfak + müzik mekanı."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Vadi ve veda",
+              "description": "Sabah Wissahickon'da Forbidden Drive yürüyüşü; öğlen Chestnut Hill'de taş evli cadde ve kahve; ikindi Eastern State Penitentiary'nin ürpertici koridorları; veda akşamı hoagie piknikli Schuylkill gün batımı."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Philly aksanı kendine güvenir ve kestirmedir; bu beş ifade şehirle aranı jawn hızında ısıtır.",
+      "items": [
+        {
+          "word": "Jawn",
+          "pronunciation": "con",
+          "meaning": "Her şeyin yerine geçen mucize kelime — 'that jawn' ile her cümle kurulur"
+        },
+        {
+          "word": "Wit / witout",
+          "pronunciation": "vit / vitaut",
+          "meaning": "Soğanlı / soğansız — cheesesteak siparişinin anayasası"
+        },
+        {
+          "word": "Wooder",
+          "pronunciation": "vudır",
+          "meaning": "'Water'ın Philly söylenişi — 'wooder ice' yaz klasiğidir"
+        },
+        {
+          "word": "Youse",
+          "pronunciation": "yuz",
+          "meaning": "'Siz'in çoğulu — 'youse guys' Philly sokak dilinin imzası"
+        },
+        {
+          "word": "Go Birds!",
+          "pronunciation": "gou börds",
+          "meaning": "Eagles selamı — maç günü şehirle tek cümlede dost olursun"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Philadelphia Checklist",
+      "completion_message": "Go Birds! Bağımsızlığın şehrini hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Independence Hall'un imza odasını gör",
+          "sub": "Saatli biletle — sabah ilk tur"
+        },
+        {
+          "label": "Özgürlük Çanı'nın çatlağıyla yüzleş",
+          "sub": "Öğleden önce — kuyruk kısayken"
+        },
+        {
+          "label": "Rocky basamaklarını koşarak çık",
+          "sub": "Sabah 08.00 — zafer pozu sana ait"
+        },
+        {
+          "label": "Cheesesteak'i 'whiz wit' söyle",
+          "sub": "Mahalle tezgahında, kararlı ve hızlı"
+        },
+        {
+          "label": "Reading Terminal'de tezgah turu yap",
+          "sub": "1893'ten beri — roast pork şart"
+        },
+        {
+          "label": "Magic Gardens'ın mozaiklerinde kaybol",
+          "sub": "Bileti önceden al"
+        },
+        {
+          "label": "Elfreth's Alley'de sabah yürüyüşü",
+          "sub": "1703'ten beri oturulan sokak"
+        },
+        {
+          "label": "Bir mural turu yap",
+          "sub": "Dört bin duvar — şehrin ücretsiz galerisi"
+        },
+        {
+          "label": "Boathouse Row ışıklarını nehirden izle",
+          "sub": "Gece — suya yansıyan dizi"
+        },
+        {
+          "label": "Wissahickon vadisinde dere boyu yürü",
+          "sub": "Forbidden Drive — şehir içinde orman"
+        }
+      ]
+    }
+  }
+}

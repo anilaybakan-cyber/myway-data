@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#C98A12",
+    "color_light": "#FBF2DC",
+    "tagline": "Desde templos dorados hasta puestos nocturnos, la ciudad que nunca duerme."
+  },
+  "pills": [
+    "Capital mundial de la comida callejera",
+    "Templos dorados y vida fluvial",
+    "Despierto más allá de medianoche"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Bangkok",
+      "intro": "Bangkok es como dos ciudades viviendo a la vez: estupas doradas relucen bajo el sol matutino mientras el tren BTS se desliza entre rascacielos; barcazas de carga navegan lentamente por el Chao Phraya mientras un wok callejero estalla en llamas. En esta ciudad, las mejores comidas se disfrutan en taburetes de plástico, las mejores vistas se beben desde bares en azoteas, y los mejores momentos ocurren en rincones inesperados. El calor es húmedo, el tráfico es legendario, y una sonrisa abre todas las puertas — llamar a Tailandia 'la tierra de las sonrisas' no es marketing, es una observación.",
+      "local_word": {
+        "word": "Sanuk",
+        "pronunciation": "sah-NOOK",
+        "definition": "Más que la palabra tailandesa para 'diversión': es la filosofía de integrar la alegría en todo. El trabajo, la comida, incluso esperar en el tráfico, deben hacerse con sanuk — de lo contrario, ¿para qué hacerlo? Si una vendedora de Bangkok bromea detrás de su puesto, no solo está disfrutando de su trabajo; está viviendo el sanuk. Cuando tu plan se desmorone, sonríe: esa es la reacción más bangkokiana que existe."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Visita los templos temprano y cubierto",
+          "description": "El Gran Palacio y Wat Pho están frescos y tranquilos a la hora de abrir; el calor del mediodía y las multitudes de turistas los convierten en un desafío. Los hombros y las rodillas deben estar cubiertos — lleva un pañuelo fino en tu bolso. Nunca poses de espaldas a una imagen de Buda; el respeto se toma muy en serio en esta ciudad."
+        },
+        {
+          "number": 2,
+          "title": "No temas al puesto callejero — confía en la cola",
+          "description": "La cocina de Bangkok está en la calle: un puesto con cola de locales e ingredientes que se transforman ante tus ojos supera al restaurante más seguro. El fuego del wok es más rápido que cualquier germen — todo lo cocinado a alta temperatura es tu amigo. Que el primer día empiece con pad thai y el último termine con algo que no puedas nombrar."
+        },
+        {
+          "number": 3,
+          "title": "Vence el tráfico con raíles y el río",
+          "description": "Una hora en el tráfico de Bangkok son ocho minutos en el BTS: planifica cerca de las líneas de tren y metro. Para destinos ribereños, el barco exprés del Chao Phraya es tanto transporte como una atracción turística. Súbete a un tuk-tuk una vez por la experiencia — no como medio de transporte."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "Suvarnabhumi (BKK)",
+          "sub": "~30 min en Airport Rail Link"
+        },
+        {
+          "icon": "🍜",
+          "label": "Plato estrella",
+          "value": "Comida callejera",
+          "sub": "Puestos con estrellas Michelin incluidos"
+        },
+        {
+          "icon": "💰",
+          "label": "Moneda",
+          "value": "Baht (THB)",
+          "sub": "Los puestos aceptan efectivo, los centros comerciales tarjetas"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "Tailandés",
+          "sub": "El inglés funciona en el turismo"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofía de Bangkok",
+        "text": "Aquí el horario sigue al calor, no al reloj: templos por la mañana, descanso con aire acondicionado al mediodía, río a última hora de la tarde, puestos por la noche. Un gran objetivo al día es suficiente — los espacios intermedios se llenan solos. Jai yen yen: 'mantén un corazón tranquilo', y el resto es sanuk."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "El tráfico es el único enemigo de Bangkok; los antídotos circulan por el cielo (BTS), bajo tierra (MRT) y por el río (barcos exprés).",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Llegar desde el aeropuerto",
+          "description": "Desde Suvarnabhumi, el Airport Rail Link llega al centro en media hora: barato y sin atascos. Aterrizar en Don Mueang significa coger un autobús o un Grab. Para llegadas nocturnas, Grab es la opción más sencilla; en la parada de taxis, usa la cola oficial."
+        },
+        {
+          "icon": "🚝",
+          "title": "BTS SkyTrain y MRT",
+          "description": "El BTS SkyTrain y el metro MRT son la columna vertebral de la ciudad: con aire acondicionado, puntuales e inmunes al tráfico. Una tarjeta Rabbit o un billete sencillo son la opción más rápida incluso en hora punta. La estación de Siam es el corazón donde se encuentran las líneas."
+        },
+        {
+          "icon": "⛴️",
+          "title": "El barco exprés del Chao Phraya",
+          "description": "Los barcos exprés de bandera naranja van de muelle en muelle a lo largo del río: el Gran Palacio, Wat Arun y Chinatown se encuentran todos en la orilla. Un crucero fluvial a precios de cercanías: olvídate del asiento y ponte de pie en la barandilla."
+        },
+        {
+          "icon": "📱",
+          "title": "Grab y Bolt",
+          "description": "Los viajes en app son sin regateos y con aire acondicionado; para trayectos cortos, la opción de moto-taxi atraviesa el tráfico (pide un casco). Si coges un taxi, di 'meter, please' (taxímetro, por favor); sonríe y bájate si se niegan."
+        },
+        {
+          "icon": "🛺",
+          "title": "La verdad sobre el tuk-tuk",
+          "description": "El tuk-tuk es parte de la experiencia de Bangkok, pero no un medio de transporte: fija el precio antes de subir y úsalo para un viaje corto y divertido. La oferta del 'tour por la ciudad de 20 bahts' no es un paseo, sino una visita a tiendas; recházala amablemente."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo fluvial",
+        "text": "Al final de la tarde, sube a un barco de bandera naranja en el muelle de Sathorn y navega por el río hacia el atardecer: pasarás por Wat Arun justo cuando se encienden sus luces. La misma vista desde un bar en la azotea cuesta cincuenta veces más; el billete del barco es calderilla."
+      }
+    },
+    "stay": {
+      "title": "Dónde Alojarse",
+      "intro": "En Bangkok, elegir un barrio es elegir un ritmo: la elegancia ribereña, el pulso nocturno de Sukhumvit o las mañanas de templos en la ciudad antigua.",
+      "local_word": {
+        "word": "Soi",
+        "pronunciation": "soy",
+        "definition": "La calle lateral que se ramifica de una vía principal: la clave de cada dirección en Bangkok. Se conocen por número —Sukhumvit Soi 38— y cada soi es un mundo en sí mismo: un mercado nocturno en uno, apartamentos silenciosos en el siguiente. Conocer la ciudad empieza cuando dejas la vía principal y te adentras en los sois."
+      },
+      "items": [
+        {
+          "name": "Riverside",
+          "badge": "El más encantador",
+          "badge_type": "vibe",
+          "description": "Hoteles con terraza a lo largo del Chao Phraya: niebla ribereña al amanecer, luces de barcos por la noche. Conectado a los templos en barco, la forma más tranquila y fotogénica de despertar en Bangkok.",
+          "tags": [
+            "Vistas al río",
+            "Embarcadero",
+            "Mañanas tranquilas"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Riverside+Bangkok"
+        },
+        {
+          "name": "Sukhumvit (Thonglor–Asok)",
+          "badge": "Pulso nocturno",
+          "badge_type": "hot",
+          "description": "Bares en azoteas, restaurantes y vida nocturna a lo largo de la línea BTS: la cara moderna de la ciudad. Thonglor es sofisticado, Asok bullicioso; estar en la línea de tren lo hace todo fácil.",
+          "tags": [
+            "Junto al BTS",
+            "Bares en azoteas",
+            "Paraíso gastronómico"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Thonglor+Sukhumvit+Bangkok"
+        },
+        {
+          "name": "Ciudad antigua (Banglamphu)",
+          "badge": "Junto a los templos",
+          "badge_type": "value",
+          "description": "Alrededor del Gran Palacio y Khao San: a poca distancia de los templos, con muchas casas de huéspedes y hoteles boutique. Lejos de las líneas de tren, el barco fluvial es el metro de este barrio.",
+          "tags": [
+            "A pie de templos",
+            "Espíritu viajero",
+            "Conexiones fluviales"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Banglamphu+Bangkok"
+        },
+        {
+          "name": "Chinatown (Yaowarat)",
+          "badge": "Epicentro del sabor",
+          "badge_type": "local",
+          "description": "Hoteles boutique entre letreros de neón y puestos: por la noche la calle se convierte en un gigantesco restaurante al aire libre. El MRT ahora llega hasta aquí, el centro de cualquier visita centrada en la comida.",
+          "tags": [
+            "Puestos nocturnos",
+            "Ambiente de neón",
+            "Junto al MRT"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Yaowarat+Chinatown+Bangkok"
+        },
+        {
+          "name": "Ari",
+          "badge": "Favorito local",
+          "badge_type": "local",
+          "description": "Un barrio tranquilo al norte en la línea BTS: café de tercera ola, cafeterías de diseño y restaurantes familiares. Fuera de la ruta turística, para despertar en el Bangkok de los locales.",
+          "tags": [
+            "Distrito cafetero",
+            "Calles tranquilas",
+            "Restaurantes locales"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ari+Bangkok"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "¿Cuándo ir?",
+      "intro": "El calendario de Bangkok se mide en lluvias, no en temperaturas: de noviembre a febrero es la ventana dorada, y abril es la batalla de agua del Songkran.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Calor Máximo y Songkran",
+          "months": "Mar – May",
+          "subtitle": "Primavera · El más caluroso del año, el festival del agua",
+          "description": "De marzo a mayo, Bangkok está en modo horno: más de 35 °C con humedad. Pero a mediados de abril llega el Songkran: para el Año Nuevo tailandés, toda la ciudad se entrega a una batalla de agua de tres días. Es la forma más divertida jamás ideada para soportar el calor.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo para el Songkran",
+            "text": "Mantenerse seco del 13 al 15 de abril es imposible: guarda tu teléfono en una funda impermeable, no vistas de blanco y únete a la batalla. Silom y Khao San son los principales campos de batalla; deja los objetos de valor en el hotel y ríndete al sanuk."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Verde Monzón",
+          "months": "Jun – Aug",
+          "subtitle": "Verano · Aguaceros vespertinos, precios de temporada baja",
+          "description": "Los aguaceros monzónicos suelen caer por la tarde y duran menos de una hora: las mañanas son para hacer turismo, la pausa de la lluvia es para un café. Los hoteles son más baratos, los templos más tranquilos: una estación generosa para quienes mantienen sus planes flexibles.",
+          "callout": {
+            "type": "warning",
+            "label": "Nota sobre los aguaceros",
+            "text": "Cuando empieza a llover, los precios de Grab se disparan y el tráfico se colapsa: espera donde estés, la mayoría de los chaparrones no duran una hora. Lleva un chubasquero fino en tu bolso y una aplicación de radar en tu teléfono."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "La Despedida de la Lluvia",
+          "months": "Sep – Oct",
+          "subtitle": "Otoño · Últimos aguaceros, un río crecido",
+          "description": "Septiembre es el mes más húmedo y octubre cierra el telón: el río crece, el aire se limpia y la calma antes de la temporada alta se instala. A finales de octubre, la ciudad empieza a brillar para el Loy Krathong, la última ventana de un Bangkok sin aglomeraciones.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo para octubre",
+            "text": "Ven a finales de octubre: la lluvia ha remitido y los precios de temporada alta aún no han empezado. Si coincides con el Loy Krathong en la luna llena de noviembre, se lanzan velas florales al río: la noche más elegante de Bangkok."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "La Estación Dorada",
+          "months": "Nov – Feb",
+          "subtitle": "Invierno · Noches frescas, cielos despejados",
+          "description": "De noviembre a febrero es la recompensa de Bangkok: la humedad baja, las noches refrescan, los cielos se despejan. Las mesas en la calle, los bares en azoteas y las mañanas en los templos son una delicia. El mundo también lo sabe: los hoteles se llenan y los precios suben.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo para diciembre",
+            "text": "Una tarde de diciembre tiene 25 °C: llega al bar de la azotea media hora antes del atardecer y observa cómo la ciudad enciende sus luces. Ten en cuenta el código de vestimenta: los pantalones cortos y las sandalias no pasarán de la puerta."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "¿Qué Comer?",
+      "intro": "Bangkok es la capital mundial de la comida callejera: el fuego del wok, el aroma a cilantro, el equilibrio entre picante, agrio, dulce y salado… todo en un taburete de plástico.",
+      "local_word": {
+        "word": "Aroi",
+        "pronunciation": "ah-ROY",
+        "definition": "Tailandés para 'delicioso': la palabra que escucharás y dirás cincuenta veces al día en Bangkok. Dale al vendedor un pulgar hacia arriba y di '¡aroi!' — una sonrisa está garantizada; di 'aroi mak mak' (muy, muy delicioso) y la ración incluso podría aumentar. En esta ciudad, alabar la comida es la forma de agradecimiento más apreciada."
+      },
+      "items": [
+        {
+          "icon": "🍜",
+          "name": "Pad thai y los puestos de wok",
+          "description": "Fideos de arroz, gambas, salsa de tamarindo y cacahuetes: listo en un minuto sobre el fuego del wok. Compra en un puesto con cola de locales y luego juega con los cuatro condimentos de la mesa (chile, azúcar, salsa de pescado, vinagre) para encontrar tu propio equilibrio.",
+          "tag": "Clásico de puesto · con los cuatro condimentos",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=pad+thai+street+food+Bangkok"
+        },
+        {
+          "icon": "🍲",
+          "name": "Tom yum y la mesa de curries",
+          "description": "Tom yum agripicante de gambas, curry verde y massaman: una orquesta de hierba limón, galanga y leche de coco. No olvides indicar tu nivel de picante — 'pet nit noi' (solo un poquito picante) es una frase salvavidas.",
+          "tag": "Tú pones el picante · pet nit noi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=tom+yum+restaurant+Bangkok"
+        },
+        {
+          "icon": "🏮",
+          "name": "El recorrido nocturno por Yaowarat",
+          "description": "Cuando el neón de Chinatown parpadea, aparecen los puestos: marisco a la parrilla, dulces de estilo chino, fruta fresca. No te quedes en un solo puesto — cinco paradas, cinco platos pequeños es la forma correcta de entender Yaowarat.",
+          "tag": "Ritual nocturno · la regla de las cinco paradas",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Yaowarat+street+food"
+        },
+        {
+          "icon": "🛶",
+          "name": "Fideos de barco (kuaytiaw ruea)",
+          "description": "La sopa de fideos en mini-bol que una vez se vendía desde barcas: oscura, especiada, se acaba en unas pocas cucharadas. Construir una torre de cuencos en los puestos junto al canal cerca del Monumento a la Victoria es tradición — cinco cuencos es solo el calentamiento.",
+          "tag": "Torre de mini-cuencos · junto al canal",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=boat+noodles+Victory+Monument+Bangkok"
+        },
+        {
+          "icon": "🥭",
+          "name": "Arroz pegajoso con mango",
+          "description": "Mango maduro, arroz pegajoso con leche de coco y crujientes judías mungo por encima: la carta de presentación de los postres tailandeses. La temporada alta es de abril a junio, pero un buen puesto encuentra fruta madura todo el año — el arroz debe estar templado, el mango frío.",
+          "tag": "Dulce carta de presentación · arroz templado",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=mango+sticky+rice+Bangkok"
+        },
+        {
+          "icon": "🧋",
+          "name": "Cha yen y una mañana de jok",
+          "description": "El té con leche helado naranja, cha yen, es el antídoto contra el calor; por la mañana, un cuenco de jok (gachas de arroz con jengibre y huevo) inicia el día suavemente. Ambos son la poesía diaria del puesto callejero.",
+          "tag": "Té helado + gachas matutinas",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Thai+iced+tea+Bangkok"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de la mesa",
+        "text": "En Bangkok, la medida de la confianza es la cola y la rotación: un puesto cuyos ingredientes se agotan y se reponen ante tus ojos siempre es fresco. El restaurante tailandés 'para turistas' con aire acondicionado vende el mismo plato al triple de precio y con la mitad de sabor — la valentía es sentarse en el taburete."
+      }
+    },
+    "hidden_gems": {
+      "title": "Rincones Escondidos",
+      "intro": "Todo el mundo visita el Gran Palacio; estos seis son el rostro oculto de Bangkok, con aroma a río y a escala de barrio.",
+      "items": [
+        {
+          "rarity": "Cápsula del tiempo junto al río",
+          "name": "Talad Noi",
+          "description": "Los callejones traseros de Chinatown que bajan hasta el río: talleres de piezas de maquinaria, arte callejero, patios de santuarios centenarios y cafeterías con vistas al río. El lugar más fotogénico de Bangkok para perderse: guarda el mapa y camina.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Talad+Noi+Bangkok"
+        },
+        {
+          "rarity": "El pulmón verde de la ciudad",
+          "name": "Bang Krachao",
+          "description": "La península en la curva del río: otro mundo sombreado por palmeras a cinco minutos en barco de cola larga. Alquila una bicicleta y pedalea por los senderos elevados de hormigón a través de la jungla; los fines de semana también abre el mercado flotante de Bang Nam Phueng.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bang+Krachao"
+        },
+        {
+          "rarity": "El mercado al otro lado del agua",
+          "name": "Wang Lang Market",
+          "description": "Un mercado local en la orilla oeste, frecuentado por trabajadores de hospital: comida del sur de Tailandia, reposteros y sastres económicos. Baja en el muelle que los barcos turísticos se saltan; la hora del almuerzo es su momento más animado.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wang+Lang+Market+Bangkok"
+        },
+        {
+          "rarity": "Barrio de herencia portuguesa",
+          "name": "Kudeejeen",
+          "description": "El antiguo barrio portugués detrás de Wat Arun: la Iglesia de Santa Cruz, panaderías que elaboran los ancestrales pasteles 'khanom farang' y senderos junto al río. Tres religiones, un solo barrio: un resumen tranquilo del pasado estratificado de Bangkok.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kudeejeen+Santa+Cruz+Bangkok"
+        },
+        {
+          "rarity": "Dentro de la estupa de cristal",
+          "name": "Wat Paknam",
+          "description": "Un universo esmeralda dentro de una estupa gigante de cristal verde: el fresco del techo se abre como el espacio exterior, y un Buda de 69 metros se alza en el exterior. Se llega en MRT; fuera de la ruta turística, el interior de templo más etéreo de Bangkok.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wat+Paknam+Bangkok"
+        },
+        {
+          "rarity": "La casa del barón de la seda",
+          "name": "The Jim Thompson House",
+          "description": "El complejo de casas de teca del estadounidense que introdujo la seda tailandesa al mundo: jardín tropical, colección de antigüedades y la historia de su propietario que desapareció sin dejar rastro en la jungla en 1967. Un viaje en el tiempo de media hora en el corazón de la ciudad.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jim+Thompson+House+Bangkok"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Estrategia fluvial",
+        "text": "Los rincones ocultos de Bangkok se alinean a lo largo del río: Kudeejeen por la mañana, Wang Lang al mediodía, Talad Noi a última hora de la tarde, Bang Krachao al día siguiente. Descifra la combinación de muelle y barco y cruzarás del Bangkok turístico al Bangkok de los lugareños."
+      }
+    },
+    "traps": {
+      "title": "Las trampas para turistas",
+      "intro": "Los juegos de Bangkok llevan medio siglo sin cambios, y todos se juegan con una sonrisa; conoce el guion y atraviésalos sonriendo.",
+      "items": [
+        {
+          "icon": "🛺",
+          "name": "El tuk-tuk del 'tour por la ciudad de 20 bahts'",
+          "description": "Este tour increíblemente barato te lleva a joyerías, sastrerías y tiendas de souvenirs: el conductor cobra comisión, tú pierdes horas y a veces dinero.",
+          "instead": "Negocia un trayecto corto a un precio real, o considera el tuk-tuk como una experiencia única. En cuanto escuches la historia del 'día especial, cupón de gasolina', sonríe y vete."
+        },
+        {
+          "icon": "🏛️",
+          "name": "El guion de 'el templo está cerrado hoy'",
+          "description": "Un 'amable' desconocido cerca de la puerta del palacio: 'Cerrado hasta el mediodía, déjame mostrarte otros templos'. La ruta termina en una tienda. El palacio está abierto casi todos los días.",
+          "instead": "Comprueba tú mismo los horarios de apertura y ve a la taquilla: no te fíes de ningún 'cerrado' a menos que lo diga personal uniformado. El mismo juego se repite en los embarcaderos del río."
+        },
+        {
+          "icon": "🚕",
+          "name": "Taxis sin taxímetro y juegos en los embarcaderos",
+          "description": "Los taxis que esperan en zonas turísticas te dan precios cerrados en lugar de usar el taxímetro; algunos vendedores en los embarcaderos te dirigen hacia un barco privado caro.",
+          "instead": "'Taxímetro, por favor'. Si se niegan, sonríe, bájate y pide un Grab. En el río, pregunta por el barco exprés de bandera naranja: un barco privado de cola larga solo tiene sentido para un grupo, con un precio negociado."
+        },
+        {
+          "icon": "💎",
+          "name": "'Oportunidades' de gemas y sastres",
+          "description": "'Último día de la venta gubernamental de gemas' o 'un traje a medida en 24 horas': las piedras son de cristal, los trajes son maravillas de una sola prueba.",
+          "instead": "Descarta por completo la compra de gemas en este viaje; si quieres un sastre, elige uno recomendado por tu hotel, con al menos dos pruebas y un depósito razonable. Ninguna 'oportunidad' que se te acerque en la calle es real."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de oro",
+        "text": "En Bangkok, la oferta que se te acerca y la oferta que encuentras por ti mismo son cosas diferentes: a todo lo que se te presente en la calle, di un educado 'mai ao krap/ka' (no, gracias). La ira no funciona en esta ciudad; jai yen yen, una sonrisa de corazón tranquilo desactiva cualquier juego."
+      }
+    },
+    "itinerary": {
+      "title": "Itinerarios Prediseñados",
+      "intro": "Si odias planificar, sigue estas rutas. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Del templo dorado al puesto de neón",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "Gran Palacio y Wat Pho",
+              "description": "Contempla el Buda Esmeralda al abrir las puertas, luego el Buda Reclinado de 46 metros de Wat Pho: dos clásicos en el fresco de la mañana. Hombros y rodillas cubiertos."
+            },
+            {
+              "time": "11:00",
+              "title": "Cruzando el río hacia Wat Arun",
+              "description": "Cruza desde el muelle: acércate a la aguja revestida de porcelana del Templo del Amanecer. La brisa del río es el remedio para el calor del mediodía."
+            },
+            {
+              "time": "13:00",
+              "title": "Comida callejera",
+              "description": "Pad thai o un bol de fideos por Tha Tien: busca la cola local, siéntate en un taburete de plástico. ¡No olvides decir 'aroi!'"
+            },
+            {
+              "time": "15:00",
+              "title": "Casa de Jim Thompson y un respiro con aire acondicionado",
+              "description": "Un tour guiado de media hora por la casa de teca, luego aire frío y té helado tailandés en los centros comerciales de Siam: burla el calor de la tarde."
+            },
+            {
+              "time": "18:00",
+              "title": "Paseo en barco al atardecer o bar en azotea",
+              "description": "Observa las luces del río desde un barco de bandera naranja que sale de Sathorn, o mira cómo la ciudad se ilumina desde un bar en una azotea — ten en cuenta el código de vestimenta."
+            },
+            {
+              "time": "20:00",
+              "title": "Noche en Yaowarat",
+              "description": "Un recorrido por los puestos bajo los neones de Chinatown: cinco paradas, cinco platos. Termina con arroz pegajoso con mango — un día en Bangkok termina dulce."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Templos, mercados y el pulmón verde — Bangkok al completo",
+          "steps": [
+            {
+              "time": "Día 1",
+              "title": "Bangkok Clásico",
+              "description": "La ruta de 1 día anterior: el palacio, Wat Pho, Wat Arun, comida callejera, Jim Thompson, atardecer, Yaowarat."
+            },
+            {
+              "time": "Día 2",
+              "title": "Día de mercados y barrios",
+              "description": "Si es fin de semana, piérdete por el mercado de Chatuchak por la mañana (ve temprano, coge un mapa de secciones); tarde de café y paseo por Ari; noche de comida tailandesa moderna y bares soi en Thonglor."
+            },
+            {
+              "time": "Día 3",
+              "title": "La otra orilla",
+              "description": "Paseo en barco por la mañana a Bang Krachao: senderos selváticos en bicicleta y el mercado flotante; arte callejero en Talad Noi y café junto al río a última hora de la tarde; cena de despedida con comida del sur de Tailandia en Wang Lang — las luces de la ciudad desde el paseo en barco de vuelta a casa."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de Supervivencia en 5 Palabras",
+      "intro": "El tailandés es un idioma tonal, pero estas cinco frases arrancan sonrisas en cualquier tono; termina las oraciones con 'krap' si eres hombre, 'ka' si eres mujer.",
+      "items": [
+        {
+          "word": "Sawasdee krap/ka",
+          "pronunciation": "sah-wah-DEE krap/ka",
+          "meaning": "Hola — acompañado del wai (manos juntas, ligera reverencia), te ganarás todos los corazones"
+        },
+        {
+          "word": "Khop khun krap/ka",
+          "pronunciation": "kop-KOON krap/ka",
+          "meaning": "Gracias — moneda de cambio válida desde el puesto callejero hasta el templo"
+        },
+        {
+          "word": "Aroi mak!",
+          "pronunciation": "ah-ROY mak",
+          "meaning": "¡Delicioso! — el día del vendedor se ilumina, tu ración crece"
+        },
+        {
+          "word": "Pet nit noi",
+          "pronunciation": "pet nit noy",
+          "meaning": "Solo un poco picante — tu seguro de vida en la cocina tailandesa"
+        },
+        {
+          "word": "Mai pen rai",
+          "pronunciation": "my pen rye",
+          "meaning": "No hay problema, no importa — el 'maalesh' de Tailandia; la respuesta a cada percance"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Lista Imprescindible de Bangkok",
+      "completion_message": "¡Aroi mak mak! ¡Has vivido la ciudad de las sonrisas como se merece!",
+      "items": [
+        {
+          "label": "Visita el Buda Esmeralda y el Gran Palacio a primera hora",
+          "sub": "Justo al abrir las puertas — hombros y rodillas cubiertos"
+        },
+        {
+          "label": "Observa los pies del Buda Reclinado en Wat Pho",
+          "sub": "46 metros — plantas de nácar"
+        },
+        {
+          "label": "Acércate a Wat Arun desde el río",
+          "sub": "En barco cruzando el río — su aguja de porcelana"
+        },
+        {
+          "label": "Come pad thai en un taburete de plástico",
+          "sub": "En un puesto con cola de locales, con los cuatro condimentos"
+        },
+        {
+          "label": "Explora los puestos nocturnos en Yaowarat",
+          "sub": "Cinco paradas, cinco platos — bajo las luces de neón"
+        },
+        {
+          "label": "Pasea en barco al atardecer por el Chao Phraya",
+          "sub": "El exprés de bandera naranja — observa desde la barandilla"
+        },
+        {
+          "label": "Adéntrate en la jungla en bicicleta en Bang Krachao",
+          "sub": "El pulmón verde — a cinco minutos en barco"
+        },
+        {
+          "label": "Apila una torre de cuencos de fideos de barco",
+          "sub": "Junto al canal en el Monumento a la Victoria"
+        },
+        {
+          "label": "Tómate un descanso con mango sticky rice",
+          "sub": "Arroz templado, mango frío"
+        },
+        {
+          "label": "Piérdete por los callejones de Talad Noi",
+          "sub": "Arte callejero + cafeterías junto al río"
+        }
+      ]
+    }
+  }
+}

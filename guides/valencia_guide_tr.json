@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Valensiya",
+    "country": "İspanya",
+    "language": "tr",
+    "version": "2.1",
+    "color_primary": "#B5451B",
+    "color_light": "#FAF0EB",
+    "tagline": "Paellanın anavatanı, portakalın şehre dönüşmüş hali ve İspanya'nın en az konuşulan metropolü",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Paellayı öğle yemeğinde ye, akşam değil",
+    "Turia Bahçeleri'nde bisiklete bin",
+    "Las Fallas'ı görmek için Mart'ta gel"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Plaj mı, tarih mi, mimari mi, yemek mi? Valensiya bu soruların hiçbirini seçmek zorunda bırakmayan şehir. Aynı gün içinde Akdeniz'de yüzüp Orta Çağ sokaklarında kaybolabilir, birkaç dakika sonra kendini fütüristik müzelerin arasında bulabilir; üstüne dünyanın en iyi paellasının doğduğu yerde öğle yemeğine oturabilirsin. Şehrin ortasından geçen Turia Nehri ise Valensiya'nın ruhunu tamamen değiştiren detay: 1957'deki büyük sel felaketinden sonra nehir yatağı kurutulup 9 kilometrelik dev bir yeşil parka dönüştürüldü. Bugün insanlar buradan geçerek işe bisikletle gidiyor, koşuyor, çocuklarıyla burada vakit geçiriyor. Belki de Valensiya'yı bu kadar iyi hissettiren şey tam olarak bu. Büyük ama yorucu değil, canlı ama kaotik değil, üstelik İspanya'nın diğer büyük şehirlerine kıyasla fiyatlar da hala makul hissettiriyor.",
+      "local_word": {
+        "pronunciation": "lor-TA",
+        "definition": "Valensiya'nın çevresindeki verimli tarım arazileri. Portakal bahçeleri, pirinç tarlaları, kestane tarlaları. Valensiya paellası bu topraklardan çıkıyor: tavuk, tavşan, taze fasulye, zeytinyağı ve bomba pirinci (suyu bol emen kısa taneli yerel pirinç). Deniz ürünleri yok — gerçek Valensiya paellası tarım topraklarının yemeği. Bu ayrımı bilmek, şehirde doğru yerde doğru şeyi yemek anlamına geliyor.",
+        "word": "L'Horta"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Paella öğle yemeğidir — akşam değil",
+          "description": "Valensiyalılar paellayı öğle yemeğinde yiyor, 14:00-16:00 arası. Akşam paella servisi yapan restoranlar genellikle turistik ve büyük ihtimalle öğlen için pişirilmiş olanı yeniden ısıtarak servis ediyorlar. Gerçek paella yapımı sabahtan başlıyor, ortalama 40-50 dakika pişiriliyor. Paella yemek istiyorsan öğle yemeğini planla, grubu bu ziyafet için erkenden uyar."
+        },
+        {
+          "number": 2,
+          "title": "Orxata (horchata) süpermarketten içme",
+          "description": "Orxata şehrin içeceği — kofaya benzer yumrulardan (chufa) yapılan tatlı, kremalı bir içecek. Süpermarketteki pastörize versiyonuyla alakası yok. Taze orxata için tabelada 'orxata artesana' yazan bir horchatería ara. Horchatería Santa Catalina Mercado Central yakınında, tarihi bir mekan ve en iyilerinden. Yanında farton (batırmak için uzun tatlı poğaça) söyle."
+        },
+        {
+          "number": 3,
+          "title": "Las Fallas için Mart'ta gel — ama fiyatlara ve kalabalığa hazır ol",
+          "description": "Las Fallas (12-19 Mart) Valensiya'nın UNESCO listesindeki festivali — şehir genelinde devasa heykel grupları kurulur, son gece hepsi yakılır. Bu dönemde oteller iki-üç katı fiyat istiyor ve şehir tıkış tıkış. Ama Valensiya'yı bu haliyle görmek sadece Mart'ta mümkün — başka hiçbir zaman değil."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "VLC — Valensiya Havalimanı",
+          "sub": "Metro Line 3/5 ile merkeze ~20 dk · 5,60€"
+        },
+        {
+          "icon": "🚇",
+          "label": "Ulaşım",
+          "value": "Metro, otobüs, tramvay — SUMA kartı",
+          "sub": "Tek biniş ~1,50€ · SUMA 10 bilet 8,90€ (Zone A)"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Hava",
+          "value": "Akdeniz — İspanya'nın en güneşli şehri",
+          "sub": "Nis–Haz ve Eyl–Eki ideal · Tem–Ağu sıcak · Ara–Şub ılık"
+        },
+        {
+          "icon": "🥘",
+          "label": "Yemek",
+          "value": "Paella valenciana, orxata, agua de Valencia",
+          "sub": "Öğle menüsü 10-14€ · paella kişi başı 15-25€"
+        }
+      ],
+      "tip": {
+        "label": "Bisiklet — Valensiya'yı görmenin en iyi yolu",
+        "text": "Valensiya bisiklet için tam bir biçilmiş kaftan. Şehir düz ve bisiklet altyapısı kusursuz. Valenbisi (şehrin bisiklet paylaşım sistemi) istasyonları her yerde — ilk 30 dakikası ücretsiz, sonrası ise sembolik ücret. Turia Bahçeleri boyunca pedal çevirmek ve oradan plaja inmek Valensiya'nın en güzel günlük rotası.",
+        "type": "tip"
+      },
+      "title": "Valensiya'ya Hoş Geldin"
+    },
+    "transport": {
+      "intro": "Valensiya küçük ve düz. Bisiklet ise ulaşım için en iyi seçenek. Ancak metro ve otobüs kullanacaksan SUMA kart sistemi.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanı → Şehir",
+          "description": "Metro Line 3 veya Line 5 havalimanından şehir merkezine ~20 dakikada ulaştırıyor. Bilet 5,60 euro — havalimanı ek ücreti dahil. Merkeze taksi 20-25 euro arası. Metro açık ara en pratik seçenek. SUMA kartı havalimanı hattında da geçerli ama havalimanı ek ücreti ayrıca ödeniyor."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro ve tramvay",
+          "description": "5 metro hattı ve 4 tramvay hattı Metrovalencia çatısı altında. SUMA kartı (karton kart 1,10 euro) tüm hatlar için geçerli. Tek biniş yaklaşık 1,50 euro, Zone A için 10'lu SUMA bileti 8,90 euro. Sabah 05:00'den gece 01:00'e kadar çalışıyor, Cuma ve Cumartesi geceleri 24 saat. Merkez, Ruzafa, plaj ve Sanat ve Bilimler Şehri hepsi metro veya tramvayla ulaşılabilir."
+        },
+        {
+          "icon": "🚌",
+          "title": "EMT Otobüsleri",
+          "description": "200'den fazla hat şehrin her köşesini kapsıyor. Aynı SUMA kartı sistemi geçerli. Otobüste nakit ödeme de mümkün ama biraz daha pahalı (2 euro). Gece hatları metro kapandıktan sonra çalışıyor. El Cabanyal ve bazı kıyı noktalarına otobüs en pratik seçenek."
+        },
+        {
+          "icon": "🚲",
+          "title": "Valenbisi — bisiklet paylaşımı",
+          "description": "Şehir genelinde 275 istasyon, 2.750 bisiklet. Yıllık abonelik 25 euro, günlük 3,60 euro. İlk 30 dakika ücretsiz, sonrası saatlik ücret. Ödeme temassız kredi kartıyla istasyondan yapılıyor. Turia Bahçeleri boyunca, plajlara ve Ruzafa'ya bisikletle gitmek için ideal. Şehir düz olduğu için çok yorucu değil."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürüyüş",
+          "description": "Valensiya merkezi küçük ve yürünebilir. Mercado Central'den Katedrali 5 dakika, Turia Bahçeleri girişine 10 dakika, Ruzafa'ya 20 dakika. Sanat ve Bilimler Şehri merkezden yürüyerek 45 dakika — uzun ama Turia Bahçeleri üzerinden güzel bir yol. Sıcak yaz günlerinde gölgeli rotalar tercih et."
+        }
+      ],
+      "callout": {
+        "label": "Valencia Tourist Card — değer mi?",
+        "text": "24 saat 15 euro, 48 saat 20 euro, 72 saat 25 euro. Sınırsız ulaşım artı belediye müzelerine ücretsiz giriş. Sanat ve Bilimler Şehri'nde %15 indirim var ama tam ücretsiz değil. Birkaç müze gezeceksen ve çok dolaşacaksan değer. Sadece metro kullanacaksan 10'lu SUMA bileti daha mantıklı.",
+        "type": "tip"
+      },
+      "title": "Şehirde Ulaşım"
+    },
+    "stay": {
+      "intro": "Valensiya'da konum önemli ama şehir küçük olduğu için her yerden her yere kolay ulaşılıyor.",
+      "local_word": {
+        "pronunciation": "ru-ZA-fa",
+        "definition": "Valensiya'nın en canlı ve en yaratıcı mahallesi. Arapça kökenli ismi 'bahçe' anlamına geliyor. 1990'larda göçmen mahallesi olan Ruzafa, 2000'lerde sanatçılar, kafeler ve restoranlar sayesinde dönüştü. Bugün hafta sonu pazarı, uluslararası restoranlar, doğal şarap barları ve sanat galerileriyle dolup taşıyor. Şehir merkezine 20 dakika yürüyüş ama karakteri çok farklı.",
+        "word": "Ruzafa"
+      },
+      "items": [
+        {
+          "name": "Ciutat Vella — tarihi merkez",
+          "badge": "En merkezi",
+          "badge_type": "hot",
+          "description": "Katedral, Mercado Central, La Lonja ve El Carmen mahallesi bu bölgede. Her şeye yürüme mesafesinde. Kalabalık ve turistik ama Valensiya'nın tarihi dokusunu yaşamak için doğru yer. El Carmen içinde kalmak gece hayatına yakın olmak kadar ama sabah gürültüsüne de yakın olmak olabilir.",
+          "tags": [
+            "Katedral ve Mercado Central",
+            "El Carmen gece hayatı",
+            "Tarihi dokular"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ciutat+Vella+Valencia"
+        },
+        {
+          "name": "Ruzafa (Russafa)",
+          "badge": "En canlı",
+          "badge_type": "local",
+          "description": "Yaratıcı mahalle — kafeler, restoranlar, barlar ve sanat galerileri. Hafta sonu Mercado de Ruzafa ve akşamları vermouth kültürü. Merkeze yürüyerek 20 dakika veya metroya 10 dakika. Valensiya'yı yerel gibi yaşamak için en iyi seçenek.",
+          "tags": [
+            "Mercado de Ruzafa",
+            "Vermouth kültürü",
+            "Sanat ve kafeler"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ruzafa+Valencia"
+        },
+        {
+          "name": "El Cabanyal",
+          "badge": "En sahil",
+          "badge_type": "local",
+          "description": "Plaja yürüyerek 5 dakika. Eski balıkçı mahallesi, şimdi sanatçılar ve genç aileler burada. Renkli azulejo kaplı evler, dar sokaklar. Yıkım planlarından kurtarılan mahalle artık korunan alan. Merkeze tramvayla 20 dakika.",
+          "tags": [
+            "Plaja 5 dakika",
+            "Balıkçı mahallesi karakteri",
+            "Azulejo mimarisi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Cabanyal+Valencia"
+        },
+        {
+          "name": "Ensanche",
+          "badge": "En modern",
+          "badge_type": "hot",
+          "description": "19. yüzyılda planlı inşa edilmiş şık mahalle — geniş bulvarlar, Modernist binalar, Mercado de Colón. İş dünyasına yakın, sakin ama canlı. Ruzafa'ya sınır komşusu.",
+          "tags": [
+            "Mercado de Colón",
+            "Modernist mimari",
+            "Geniş bulvarlar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Eixample+Valencia"
+        },
+        {
+          "name": "Sanat ve Bilimler Şehri yakını",
+          "badge": "Mimari deneyim",
+          "badge_type": "hot",
+          "description": "Santiago Calatrava'nın tasarladığı fütüristik yapılar — L'Hemisfèric, Museu de les Ciències, L'Oceanogràfic — bu bölgede. Sabahın erken saatlerinde ziyaretçi kalabalığı henüz gelmeden yapıları sakin haliyle görmek mümkün. Merkeze tramvayla 15 dakika.",
+          "tags": [
+            "Calatrava mimarisi",
+            "L'Oceanogràfic",
+            "Turia Bahçeleri sonu"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ciudad+de+las+Artes+Valencia"
+        }
+      ],
+      "title": "Nerede Kalmalı"
+    },
+    "best_time": {
+      "intro": "Valensiya yıl boyu güneşli ama her mevsim farklı bir şehir sunuyor.",
+      "items": [
+        {
+          "label": "İlkbahar",
+          "name": "Las Fallas ve çiçek açan şehir",
+          "months": "Mar – May",
+          "description": "Mart Las Fallas ile başlıyor — 12-19 Mart şehrin en büyük festivali. Nisan ve Mayıs festivalsiz ama ideal: hava 18-24°C, portakal bahçelerinde çiçek kokusu, kalabalık yaz kadar değil. Semana Santa dönemi Nisan'da dini törenler. Bu dönem Valensiya'yı hem festivalin coşkusuyla hem de sakin haliyle görme fırsatı.",
+          "callout": {
+            "label": "Las Fallas — 12-19 Mart",
+            "text": "UNESCO Somut Olmayan Kültürel Miras listesinde. 700'den fazla büyük heykel grubu (falla) kurulur, son gece La Cremà'da (19 Mart) hepsi yakılır. Her gün 14:00'te mascleta — Plaza del Ayuntamiento'da piroteknik gösteri. Ateş, müzik, kostümler, gece sokak partileri. Otel fiyatları üç katına çıkıyor ama bu deneyim eşsiz.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "İlkbahar · Las Fallas, portakal çiçeği kokusu, ılık hava"
+        },
+        {
+          "label": "Yaz",
+          "name": "Plaj sezonu ve gece hayatı",
+          "months": "Haz – Ağu",
+          "description": "Temmuz ve Ağustos sıcak ama Barselona kadar kalabalık değil. Plajlar — La Malvarrosa ve Les Arenes — hafta içi sakin, hafta sonu kalabalık. Gece hayatı uzun: akşam yemeği 22:00'de, barlar 03:00'e kadar açık. Feria de Julio şehir genelinde konserler. Sabah 07:00-10:00 ve akşam 19:00 sonrası sıcaklık katlanılır.",
+          "callout": {
+            "label": "La Malvarrosa plajı — nasıl gidilir",
+            "text": "Şehir merkezinden tramvay (Line 4 veya 6) veya otobüsle 20-25 dakika. Plaj ücretsiz, temiz ve uzun bir kıyı şeridi. Hemen yanındaki El Cabanyal balıkçı mahallesinde taze deniz ürünleri yenebilir. Hafta içi sabah 09:00'da plaj neredeyse boş.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Yaz · 35°C, deniz en güzel halinde ve uzayan akşamlar"
+        },
+        {
+          "label": "Sonbahar",
+          "name": "İkinci en iyi dönem",
+          "months": "Eyl – Kas",
+          "description": "Eylül ve Ekim Valensiya'nın en rahat dönemi. Yaz kalabalığı bitmiş, hava hala 20-25°C, denizde yüzmek hala mümkün. Portakal hasatı başlıyor. 9 Ekim ise Valensiya'nın Toplum Günü — 1238'den bu yana kutlanan resmi bayram. Şehirde geçit törenleri, geleneksel kostümler ve çiçek sunumu var; Las Fallas kadar büyük olmasa da otantik bir yerel kutlama. Kasım'dan itibaren yağmur artar ama şehir sakin ve fiyatlar düşük.",
+          "callout": {
+            "label": "Mercado Central — sonbaharda en iyi",
+            "text": "Valensiya'nın tarihi pazarı, 8.000 metrekare, 1.000'den fazla tezgah. Modernist cam ve demir yapısı 1928'den kalma. Taze meyve, sebze, balık, et, yerel peynir ve şarküteri. Pazar günleri hariç her gün 07:30-15:00 arası açık. Ziyaret için en iyi saat ise 09:00-11:00 arası — tezgahlar dolu, kalabalık henüz az.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Sonbahar · Hasat dönemi, ılık hava, az kalabalık"
+        },
+        {
+          "label": "Kış",
+          "name": "Sakin ve güneşli",
+          "months": "Ara – Şub",
+          "description": "Aralık'tan Şubat'a Valensiya İspanya'nın en ılık şehirlerinden — ortalama 15-17°C, güneşli günler çok. Noel döneminde şehir ışıkları ve pazarları canlı. Müzeler boş, restoranlar rezervasyonsuz. Şubat sonunda Las Fallas hazırlıkları başlıyor — tezgahlarda piroteknik malzemeler, atölyelerde heykeller inşa ediliyor.",
+          "callout": {
+            "label": "Kışın Valensiya'da paella",
+            "text": "Kış Valensiya'da paella yemek için en iyi dönem — restoranlar boş, şefler en iyi hallerinde. El Palmar köyü (Albufera Gölü kıyısında, şehre 20 km) paellanın anavatanı sayılıyor. Hafta içi öğle için El Palmar'a gitmek Valensiyalıların favori ritüellerinden. Rezervasyon önerilir.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Kış · 15°C ortalamayla İspanya'nın en ılık kışı"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "15–19 Mart",
+          "text": "Las Fallas: dev karton anıtlar, her öğlen mascletà gürültü şöleni ve son gece hepsinin yakılması — şehrin kendini ateşle yenilediği hafta."
+        },
+        {
+          "month": "Temmuz",
+          "text": "Feria de Julio: konserler, çiçek savaşı ve deniz kenarı yaz geceleri."
+        },
+        {
+          "month": "Ağustos sonu",
+          "text": "La Tomatina: Buñol'da dünyanın en büyük domates savaşı — trenle 40 dakika, bilet önceden."
+        },
+        {
+          "month": "9 Ekim",
+          "text": "Nou d'Octubre: Valensiya Günü — mocadorà geleneğiyle marzipan hediyeleşilir, sokaklarda geçitler."
+        }
+      ],
+      "title": "Ne Zaman Gitmeli"
+    },
+    "eat": {
+      "intro": "Valensiya'da yanlış paella yemek çok kolay, doğru paella yemek biraz araştırma istiyor. Gerisini şehir kendisi halleder.",
+      "local_word": {
+        "pronunciation": "pa-EL-ya va-len-SYA-na",
+        "definition": "Orijinal Valensiya paellası tavuk, tavşan, taze fasulye, domates, zeytinyağı, safran ve bomba pirincinden oluşur — deniz ürünü yok. Geniş, sığ, iki kulplu demir tavada (paellera) odun ateşinde pişirilir. Socarrat kritiktir: tavanın dibinde oluşan hafif yanık pirinç tabakası. Bu tabakayı tahta kaşıkla kazıyıp yemek ayrı bir zevk. Socarrat yoksa paella bitmemiş demek.",
+        "word": "Paella Valenciana"
+      },
+      "items": [
+        {
+          "icon": "🥘",
+          "name": "Paella Valenciana",
+          "description": "Şehrin en ikonik yemeği ve aynı zamanda en çok tahrif edileni. Menüde 10 çeşit paella varsa, fotoğraf menüsü varsa, akşam da servis ediyorsa — içeri girme. Gerçek paella öğle yemeği, odun ateşinde, 40-50 dakika pişirilir. La Pepica (Malvarrosa plajında, 1898'den beri) veya El Palmar köyündeki restoranlar en güvenilir seçenekler. Kişi başı 15-25 euro.",
+          "tag": "La Pepica, plaj · El Palmar köyü · öğle yemeği · 15-25€",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Carmela+Valencia"
+        },
+        {
+          "icon": "🥛",
+          "name": "Orxata con fartons",
+          "description": "Kofaya benzer yumrulardan (chufa) yapılan tatlı ve soğuk içecek. Süt değil, gluten yok ve vegan. Yanında da mutlaka bir 'farton' yani içine batırmak için yapılmış uzun, hafif tatlı bir poğaça. Öğleden sonra 17:00-19:00 arası Valensiyalılar bu ikili için oturuyor. Horchatería Santa Catalina veya 'orxata artesana' tabelası olan herhangi bir yerde mutlaka dene. Süpermarketteki pastörize versiyonundan uzak dur.",
+          "tag": "Horchatería Santa Catalina · orxata artesana yaz · öğleden sonra",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Horchatería+Santa+Catalina+Valencia"
+        },
+        {
+          "icon": "🥂",
+          "name": "Agua de Valencia",
+          "description": "Taze portakal suyu, cava (İspanyol köpüklü şarabı), votka veya cin, şeker — büyük carafta servis edilen Valensiya'nın kokteyli. 1959'da Café Madrid'de icat edilmiş. Taze portakal suyu ile yapılan gerçeği ile konsantreden yapılan turistik versiyonu çok farklı. Fiyatı bunu söylüyor: 8-12 euro/karaf.",
+          "tag": "Café Madrid (orijinal) · karaf olarak söyle · 8-12€",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+de+las+Horas+Valencia"
+        },
+        {
+          "icon": "🦑",
+          "name": "Tapas — El Cabanyal'da",
+          "description": "El Cabanyal eski balıkçı mahallesi — Valensiya'nın en taze deniz ürünleri buradan. Clóchinas (Valensiya midyesi, küçük ve yoğun aromalı, Mayıs-Ağustos sezonu), coquilles (tarak), pulpo (ahtapot). Bar Casa Montaña 1836'dan beri açık — küçük tabaklar 3-5 euro, şarap seçkisi zengin.",
+          "tag": "El Cabanyal mahallesi · Casa Montaña 1836'dan beri · 3-5€ tabak",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Montaña+Valencia"
+        },
+        {
+          "icon": "🫔",
+          "name": "Buñuelo",
+          "description": "Yağda kızartılmış, dışı çıtır içi yumuşak hamur topu. Tatlı versiyonu pudra şekeriyle servis ediliyor. Mercado Central içinde veya sokak tezgahlarında 1-2 euro. Las Fallas döneminde şehrin her köşesinde bulunuyor.",
+          "tag": "Mercado Central veya sokak tezgahları · 1-2€",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercado+Central+Valencia"
+        },
+        {
+          "icon": "🍚",
+          "name": "Arroz al horno",
+          "description": "Paella'nın kardeşi ama bir o kadar da farklı: nohut, patlıcan, domates, sosis ve domuz kaburgasıyla fırında pişirilen pilav, toprak kaplarda servis ediliyor. Kış aylarının yemeği — Ekim'den Mart'a. Paella'nın gölgesinde kalan ama en az onun kadar lezzetli.",
+          "tag": "Trattoria ve ev lokantaları · kış ayları · 12-18€",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Riua+Valencia"
+        }
+      ],
+      "callout": {
+        "label": "Vermouth saati — saat 12:00-14:00",
+        "text": "Valensiyalılar öğle yemeğinden önce vermouth içiyor — bu sadece bir içki değil, günün en güzel molası. Ruzafa'daki barlar bu ritüelin kalbi: masalar dışarıda, güneş var, yanında zeytin ve cips geliyor, konuşmalar uzuyor. Bar Anaconda veya Bar Cañas y Barro bu deneyim için ideal başlangıç noktaları.",
+        "type": "tip"
+      },
+      "title": "Ne Yemeli"
+    },
+    "hidden_gems": {
+      "intro": "Valensiya'nın en iyi köşeleri çoğunlukla iki cadde ötede ya da şehrin hemen dışında.",
+      "items": [
+        {
+          "name": "Estación del Norte",
+          "description": "1917'de inşa edilmiş Modernist tren istasyonu — Valensiya'nın en önemli mimari yapılarından biri ama ziyaretçilerin büyük bölümü içine girmeden geçiyor. Portakal çiçeği, portakal ağacı ve Valensiya sembolleriyle işlenmiş vitray pencereler, seramik paneller ve demir işçiliği. Valensiya'nın tarım kültürü bu binanın duvarlarına işlenmiş. Trende yolculuğun olmasa bile içine gir.",
+          "rarity": "İspanya'nın en güzel tren istasyonunu turistler sürekli pas geçiyor",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Estación+del+Norte+Valencia"
+        },
+        {
+          "name": "Jardines del Turia",
+          "description": "1957'deki sel felaketinden sonra Turia Nehri'nin yatağı kurutulup şehrin tam ortasına 9 kilometrelik yeşil parka dönüştürüldü. Bisiklet yolları, yürüyüş parkurları, oyun alanları ve Gulliver Parkı bu koridorda. Valensiyalılar burada koşuyor, bisiklete biniyor, piknik yapıyor. Tamamen ücretsiz.",
+          "rarity": "Turia Bahçeleri — eski nehir yatağı, şimdi 9 km park",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jardín+del+Turia+Valencia"
+        },
+        {
+          "name": "Albufera Gölü",
+          "description": "Valensiya'nın 20 kilometre güneyinde, Akdeniz kıyısında doğal kum bariyerleriyle ayrılmış tatlı su gölü. 21.000 hektarlık doğal bir park. El Palmar köyü gölün ortasında ve tahta teknelerle gezilebiliyor. Gün batımında ise kırmızı renge bürünen göl tam bir görsel şölen sunuyor. Buraya ulaşmak ise şehir merkezinden otobüsle sadece 40 dakika.",
+          "rarity": "Albufera Gölü — paellanın gerçek anavatanı ve flamingo cenneti",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Albufera+Valencia"
+        },
+        {
+          "name": "El Carmen mahallesi",
+          "description": "Ciudat Vella içinde, Orta Çağ surlarıyla çevrili dar sokaklar. Gündüz sanatçı atölyeleri, alternatif kafeler ve sokak sanatı; gece bar ve konser mekanları. Torres de Quart ve Torres de Serranos — şehrin en iyi panorama noktalarından biri, ücretsiz — bu mahallede. Sabahın erken saatleri en sakin, gece hayatı Cuma-Cumartesi.",
+          "rarity": "El Carmen — gece yarısı hala yaşayan Orta Çağ mahallesi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Barrio+del+Carmen+Valencia"
+        },
+        {
+          "name": "La Lonja de la Seda (İpek Borsası)",
+          "description": "1482-1548 yılları arasında inşa edilmiş, UNESCO Dünya Mirası. Geç Gotik mimarinin İspanya'daki en iyi örneklerinden biri. İçindeki Salon de Contratación'un spiral sütunları ve tonozlu tavanı Valensiya'nın ticaretteki altın çağını anlatıyor. Mercado Central'e 3 dakika yürüyüş ama çok az kalabalık.",
+          "rarity": "La Lonja de la Seda — UNESCO'nun Valensiya'ya en büyük armağanı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lonja+de+la+Seda+Valencia"
+        },
+        {
+          "name": "Bioparc Valencia",
+          "description": "Turia Bahçeleri'nin batı ucunda, geleneksel bir hayvanat bahçesi değil — tüm canlılar doğal habitatlarını andıran açık alanlarda ve ziyaretçilerle neredeyse aynı seviyede. Goriller, şempanzeler, filler ve suaygırları bu şekilde gözlemlemek başka bir his. Çocuklar için Valensiya'nın en iyi durağı ama yetişkinler de aynı şekilde etkileniyor.",
+          "rarity": "Bioparc — hayvanat bahçesi değil, Afrika savanasına pencere",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bioparc+Valencia"
+        }
+      ],
+      "callout": {
+        "label": "Benimaclet — öğrenci mahallesi ve haftalık pazar",
+        "text": "Üniversite mahallesi, şehrin kuzeyinde, şehir merkezinden metroya 15 dakika. Salı günleri kurulan haftalık pazarda yerel üretim sebze, meyve, peynir ve bakliyat bulunuyor. Fiyatlar Mercado Central'in yarısı. Turistik değil ama şehrin günlük ritmi bu mahallede en saf haliyle görülüyor.",
+        "type": "tip"
+      },
+      "title": "Gizli Köşeler"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Öğle yemeğinde paella ye — doğru yerde",
+          "sub": "14:00-16:00 arası. La Pepica (plaj, 1898'den) veya El Palmar köyü. Akşam paella yok. Socarrat'ı istemeyi unutma — tavanın dibindeki o hafif yanık pirinç tabakası."
+        },
+        {
+          "label": "Orxata con fartons iç",
+          "sub": "Horchatería Santa Catalina, Mercado Central yakını. 'Orxata artesana' tabelasını ara. Öğleden sonra 17:00-19:00 arası ideal."
+        },
+        {
+          "label": "Mercado Central'e git — sabahın erken saatlerinde",
+          "sub": "Pazar günleri hariç her gün 07:30-15:00. En iyi saat 09:00-11:00. 1928'den kalma Modernist yapı, 1.000'den fazla tezgah."
+        },
+        {
+          "label": "Turia Bahçeleri'nde bisiklete bin",
+          "sub": "Valenbisi ile ilk 30 dakika ücretsiz. Şehrin ortasından plaja uzanan 9 km'lik rota."
+        },
+        {
+          "label": "La Lonja de la Seda'yı ziyaret et",
+          "sub": "Mercado Central'e 3 dakika. UNESCO Dünya Mirası. Az kalabalık. İçine girmeyi ihmal etme."
+        },
+        {
+          "label": "Estación del Norte'yi ziyaret et",
+          "sub": "1917'den kalma Modernist tren istasyonu. Vitray ve seramikler için mutlaka içine gir. Trene binmen gerekmiyor."
+        },
+        {
+          "label": "Ruzafa'da vermouth iç",
+          "sub": "Saat 12:00-14:00. Ruzafa'da Bar Anaconda veya çevresindeki barlar. Yanında küçük tapas gelir."
+        },
+        {
+          "label": "El Carmen'de gece yürüyüşü yap",
+          "sub": "Torres de Serranos'dan şehir panoraması — ücretsiz. Dar Orta Çağ sokakları. Cuma-Cumartesi en canlı."
+        },
+        {
+          "label": "Agua de Valencia iç",
+          "sub": "Taze portakal suyu ve cava. Café Madrid orijinal mekan. Karaf olarak söyle — konsantre değil, taze olmalı."
+        },
+        {
+          "label": "El Cabanyal'da deniz ürünleri ye",
+          "sub": "Plaja yakın eski balıkçı mahallesi. Casa Montaña 1836'dan beri açık. Clóchinas (Valensiya midyesi) ve diğer tapaslar. 3-5€ tabak."
+        },
+        {
+          "label": "Albufera Gölü'ne git",
+          "sub": "Şehre 20 km, otobüsle 40 dakika. El Palmar köyü, tahta tekne turu. Gün batımında göl kırmızıya dönüyor. Paellanın anavatanı."
+        },
+        {
+          "label": "Sanat ve Bilimler Şehri'ni gez",
+          "sub": "Calatrava'nın fütüristik yapıları. Dışarıdan gezmek ücretsiz, içerisi biletli. Sabahın erken saatlerinde kalabalık az."
+        }
+      ],
+      "title": "Valensiya Checklist",
+      "completion_message": "Valensiya seni sessizce bağımlı etti — fark etmeden döneceğini biliyorsun."
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Valensiya rahat bir şehir; tuzakları azdır ama paella konusunda acımasızdır. Bu dördünü bil, şehirle aynı dili konuş.",
+      "items": [
+        {
+          "icon": "🥘",
+          "name": "Akşam menüsünde 'paella mixta'",
+          "description": "Tavuklu-karidesli 'mixta' turist icadıdır ve akşam servis edilen paella çoğu kez öğlenden kalmadır; Valensiyalı ikisine de gülümser, oturmaz.",
+          "instead": "Paellayı öğlen, arrocería'da ve en az iki kişilik söyle; deniz kenarında Casa Carmela tarzı odun ateşli klasikler ayrı bir ders."
+        },
+        {
+          "icon": "🏖️",
+          "name": "Sahil bulvarında kapı davetçileri",
+          "description": "Malvarrosa yürüyüş yolunda menü sallayan restoranlar günün yorgun tavasını turiste satar.",
+          "instead": "Bir sokak içeri, El Cabanyal'ın azulejo cepheli sokaklarına gir: Casa Montaña gibi asırlık bodegalarda hem tapa hem tarih var."
+        },
+        {
+          "icon": "🎟️",
+          "name": "Sanat ve Bilim Şehri'nde 'hepsi dahil' acelesi",
+          "description": "Kompleksin tüm binalarına tek günde bilet almak hem pahalı hem yorucudur; yarısı zaten dışarıdan en güzelidir.",
+          "instead": "Bir bina seç (Oceanogràfic en dolusu), gerisini mimariyi dışarıdan gezerek yaşa — gün batımında beton ve su aynası bedava şov."
+        },
+        {
+          "icon": "🍹",
+          "name": "Turist barında 'Agua de Valencia' sürahisi",
+          "description": "Şehrin kokteyli her yerde satılır ama çoğu yerde ucuz köpüklüyle sulandırılmış halidir.",
+          "instead": "Doğduğu yere yakın iç: Café de las Horas tarzı köklü barlarda, cava ve taze portakalla — bir sürahi iki kişiye yeter, inan."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Valensiya'da öğün saatine uy: paella 14:00'te, horchata ikindide, akşam yemeği 21:00'de. Şehrin saatine uyan, şehrin mutfağını kazanır."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Pazardan geleceğe, nehir yatağı boyunca",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Mercado Central",
+              "description": "Avrupa'nın en güzel kapalı pazarlarından birinde kahvaltı: taze meyve, jamón, bir espresso. Karşıda İpek Borsası'nın gotik sütunları."
+            },
+            {
+              "time": "11:00",
+              "title": "El Carmen sokakları",
+              "description": "Ortaçağ kapılarından sokak sanatına: Torres de Serranos'a tırman, şehre yukarıdan bak."
+            },
+            {
+              "time": "14:00",
+              "title": "Paella — gerçek olanı",
+              "description": "Öğlen saatinde arrocería'da paella valenciana: tavşan, tavuk, garrofón. Dibindeki socarrat için kaşık kavgası serbest."
+            },
+            {
+              "time": "16:30",
+              "title": "Turia bahçelerinde bisiklet",
+              "description": "Kurutulmuş nehir yatağı 9 km'lik yeşil şerit; pedalla Sanat ve Bilim Şehri'ne süzül."
+            },
+            {
+              "time": "18:30",
+              "title": "Sanat ve Bilim Şehri'nde altın saat",
+              "description": "Calatrava'nın beyaz strüktürleri günbatımında su aynasına vurur; şehrin en iyi fotoğrafı buradan çıkar."
+            },
+            {
+              "time": "21:00",
+              "title": "Ruzafa akşamı",
+              "description": "Şehrin en canlı mahallesinde tapas + agua de Valencia; gece burada kendi ritmini bulur."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehri turist gibi değil, misafir gibi yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Merkez ve gelecek",
+              "description": "Yukarıdaki 1 günlük akış: pazar, El Carmen, paella, Calatrava."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Deniz ve Cabanyal",
+              "description": "Sabah Malvarrosa'da deniz, öğlen Cabanyal'ın azulejo sokakları ve Casa Montaña, ikindi Alboraya'da tarladan horchata, akşam sahilde esmorzaret kültürüne veda."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Albufera ve veda",
+              "description": "Öğleden sonra Albufera gölünde tekne, pirinç tarlaları arasında günbatımı — paellanın doğduğu manzara; dönüşte El Palmar'da all i pebre."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "İspanyolca işini görür, bir tutam Valensiyaca gönül kazanır.",
+      "items": [
+        {
+          "word": "Bon dia",
+          "pronunciation": "bon dia",
+          "meaning": "Valensiyaca günaydın — mahalle fırınında gülümseme garantisi"
+        },
+        {
+          "word": "Gracias",
+          "pronunciation": "grasyas",
+          "meaning": "Teşekkürler — kısa, net, her zaman"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "por favor",
+          "meaning": "Lütfen — siparişin sonuna ekle"
+        },
+        {
+          "word": "¡Salud!",
+          "pronunciation": "salud",
+          "meaning": "Şerefe! — agua de Valencia kadehleri bununla kalkar"
+        },
+        {
+          "word": "Nano",
+          "pronunciation": "nano",
+          "meaning": "Valensiya argosunda 'dostum' — che nano! duyarsan artık yerlisin"
+        }
+      ]
+    }
+  }
+}

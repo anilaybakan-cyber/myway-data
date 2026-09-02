@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "İstanbul",
+    "country": "Türkiye",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#17647E",
+    "color_light": "#E5F1F4",
+    "tagline": "İki kıta, bir Boğaz: vapur sesi, çay dumanı ve sekiz bin yıllık hafıza"
+  },
+  "pills": [
+    "İki kıtaya kurulu tek şehir",
+    "Üç imparatorluğa başkentlik yaptı",
+    "Vapur + çay + martı üçlüsü"
+  ],
+  "sections": {
+    "overview": {
+      "title": "İstanbul'a Hoş Geldin",
+      "intro": "İstanbul'u bir cümleye sığdırmaya çalışan herkes yenilir — şehir buna izin vermez. Bir yakada Roma'nın sarnıçları ve Osmanlı'nın kubbeleri, karşı yakada meyhane şarkıları ve üçüncü dalga kahveciler; arada dünyanın en güzel deniz yolu olan Boğaz akar. Vapur düdüğü, martı çığlığı, simitçi sesi ve beş vakit ezan aynı havada birleşir. Bu şehir yorucudur, kalabalıktır ve buna rağmen — belki tam bu yüzden — dünyanın en çok özlenen şehirlerinden biridir. Acele etme: İstanbul bir gezi değil, bir ömür projesidir; sen bu ziyarette sadece tanışıyorsun.",
+      "local_word": {
+        "word": "Keyif",
+        "pronunciation": "keyif",
+        "definition": "Çevirisi olmayan İstanbul hali: acelesiz, amaçsız, tam kıvamında bir iyi olma durumu. Boğaz'a karşı çay, vapurda rüzgar, meyhanede uzayan sofra — hepsi keyfin halleridir. Plan değil, kıvam işidir."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Vapuru ulaşım değil, ritüel say",
+          "description": "Yakalar arası en güzel yol denizdir: vapura bin, çayını al, dış güverteye otur. Simit atarak martı beslemek gelenektir ama elinden kapmalarına hazır ol. Trafik saatinde bile vapur, şehrin en huzurlu yeridir."
+        },
+        {
+          "number": 2,
+          "title": "İstanbulkart'sız adım atma",
+          "description": "Tek kart vapur, metro, tramvay, Marmaray ve otobüste geçer: otomattan al, doldur, telefonunun yanına koy. Aktarma indirimi otomatik işler — nakit arayan turist bu şehirde hep gişededir."
+        },
+        {
+          "number": 3,
+          "title": "Mesafeyi kilometreyle değil, saatle ölç",
+          "description": "İstanbul trafiği kendi kanunlarıyla çalışır: köprü saatlerinde iki yaka arası bir saati aşabilir. Planı raylı sistem + vapur omurgasıyla kur, karayolunu son çare yap — Marmaray boğazın altından beş dakikada geçer."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "İstanbul (IST) + Sabiha Gökçen (SAW)",
+          "sub": "İkisinden de metro merkeze bağlanır"
+        },
+        {
+          "icon": "⛴️",
+          "label": "Şehir içi",
+          "value": "Vapur + metro + tramvay",
+          "sub": "Hepsi tek İstanbulkart'la"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Türkçe",
+          "sub": "Turistik bölgelerde İngilizce yaygın"
+        },
+        {
+          "icon": "🌉",
+          "label": "İmza",
+          "value": "Boğaz",
+          "sub": "İki kıtanın arasındaki deniz yolu"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "İstanbul felsefesi",
+        "text": "Bu şehirde plan esnek, çay molası sabittir: günde en az iki kez otur, çayını iç, manzarayı izle. İstanbul koşarak gezilmez — vapur iskelesinde kaçırdığın sefer, kazandığın manzaradır."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "İstanbul ulaşımı üç katmanlıdır: denizde vapurlar, yerin altında metro ve Marmaray, yerin üstünde trafik. İlk ikisine sadık kal, üçüncüyü misafir gibi kullan.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanlarından merkeze",
+          "description": "İstanbul Havalimanı'ndan (IST) metro ve Havaist otobüsleri merkeze iner; Sabiha Gökçen'den (SAW) metro Kadıköy'e bağlanır. İki yolculuk da bir saati bulur — İstanbul'da havalimanı mesafesi ciddiye alınır."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Vapurlar — şehrin omurgası",
+          "description": "Eminönü, Karaköy, Beşiktaş, Kadıköy ve Üsküdar iskeleleri arasında Şehir Hatları mekik dokur: en güzel 'metro hattı' budur. Çay ocağı gemide, martılar peşinde — 20 dakikalık seferler şehrin en ucuz Boğaz turudur."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro ve Marmaray",
+          "description": "Metro ağı hızla büyüdü; Marmaray ise boğazın altındaki tüple iki kıtayı beş dakikada bağlar. Sirkeci-Üsküdar arası tüp geçiş, günlük hayata karışmış bir mühendislik harikasıdır."
+        },
+        {
+          "icon": "🚋",
+          "title": "T1 tramvayı ve nostaljik hatlar",
+          "description": "T1 hattı Kabataş'tan Sultanahmet'e tarihi yarımadayı boydan boya geçer: turistin ana damarı. İstiklal'in kırmızı nostaljik tramvayı ve dünyanın en eski ikinci metrosu Tünel de kısa ama tatlı klasiklerdir."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taksi ve dolmuş — bilinçli kullan",
+          "description": "Taksiyi uygulamayla çağır, taksimetreyi kontrol et; kısa mesafede raylı sistem neredeyse her zaman kazanır. Dolmuş ise şehrin kendine has paylaşımlı klasiği — güzergahını bilene pratiktir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Vapur tüyosu",
+        "text": "Akşamüstü Karaköy'den Kadıköy vapuruna bin ve sol tarafa otur: gün batımında tarihi yarımadanın silüeti — kubbeler ve minareler — turuncu gökyüzüne çizilir. Şehrin en iyi manzarası, bir İstanbulkart basımı fiyatınadır."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "İstanbul'da semt seçimi şehir seçimidir: tarihi yarımadanın kubbeleri, Galata'nın sanatı, Cihangir'in bohemi, Kadıköy'ün yerli ritmi.",
+      "local_word": {
+        "word": "Mahalle",
+        "pronunciation": "mahalle",
+        "definition": "İstanbul'un gerçek birimi: bakkalı, fırını, kahvesi ve muhtarıyla kendi kendine yeten küçük evren. 'Hangi semt' sorusunun cevabı otel değil, hangi mahallenin sabahına uyanmak istediğindir."
+      },
+      "items": [
+        {
+          "name": "Sultanahmet",
+          "badge": "Tarihin kalbi",
+          "badge_type": "vibe",
+          "description": "Ayasofya, Sultanahmet Camii ve Topkapı yürüme mesafesinde: ilk ziyaretin klasik üssü. Akşamları sakinleşir, restoranları turiste göre ayarlıdır — tarihi doz için ideal, gece hayatı için değil.",
+          "tags": [
+            "Anıtlara yürüme",
+            "İlk ziyaret klasiği",
+            "Akşam sakin"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sultanahmet+Istanbul"
+        },
+        {
+          "name": "Galata ve Karaköy",
+          "badge": "En karakterli",
+          "badge_type": "hot",
+          "description": "Kulenin gölgesinde butik oteller, galeriler ve üçüncü dalga kahveciler: tarihle yeni hayatın en iyi karışımı. İki yakaya da vapurla bağlı — şehrin dengeli merkez üssü.",
+          "tags": [
+            "Butik oteller",
+            "Galeri sokakları",
+            "Vapur iskelesi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Galata+Karaköy+Istanbul"
+        },
+        {
+          "name": "Cihangir ve Beyoğlu",
+          "badge": "En bohem",
+          "badge_type": "local",
+          "description": "Antikacılar, kedili kahveler ve Boğaz manzaralı yokuşlar: İstanbul'un sanatçı mahallesi. İstiklal'in enerjisi iki sokak ötede, mahalle sakinliği içeride.",
+          "tags": [
+            "Kedili kahveler",
+            "Antikacılar",
+            "Manzaralı yokuşlar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cihangir+Istanbul"
+        },
+        {
+          "name": "Kadıköy ve Moda",
+          "badge": "En yerel",
+          "badge_type": "local",
+          "description": "Anadolu yakasının kalbi: çarşısı, meyhaneleri, sahil yürüyüşü ve gündelik İstanbul hayatı. Turist rotasının dışında ama vapurla her yere yirmi dakika — yaşayarak gezmek isteyene.",
+          "tags": [
+            "Kadıköy çarşısı",
+            "Moda sahili",
+            "Meyhane kültürü"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Moda+Kadıköy+Istanbul"
+        },
+        {
+          "name": "Beşiktaş ve Ortaköy hattı",
+          "badge": "Boğaz kenarı",
+          "badge_type": "value",
+          "description": "Çarşısı canlı, iskelesi işlek, sahili uzun: Boğaz'a komşu yaşamın adresi. Kahvaltıcılar ve stadyum günleri mahalleye ayrı bir ritim katar.",
+          "tags": [
+            "Boğaz sahili",
+            "Canlı çarşı",
+            "Kahvaltı sokağı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Beşiktaş+Istanbul"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "İstanbul'un dört mevsimi dört ayrı şehirdir: baharda erguvan moru, yazda Boğaz akşamları, sonbaharda lüfer, kışta — şans varsa — karlı kubbeler.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Erguvan Mevsimi",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Lale festivali, mor Boğaz sırtları",
+          "description": "Nisanda parklar laleyle dolar, nisan sonunda Boğaz sırtları erguvan moruna keser — şehrin en kısa ve en efsanevi mevsimi. Hava gezme kıvamında, teraslar açık, adalar yeşil.",
+          "callout": {
+            "type": "tip",
+            "label": "Erguvan ipucu",
+            "text": "Nisan sonu-mayıs başı bir vapurla Boğaz'a çık: Kuzguncuk, Kandilli ve Emirgan sırtları mora boyanır. Erguvan iki hafta sürer — denk gelirsen her planı boz, denize çık."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Boğaz Akşamları",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Sıcak ve nemli günler, uzun sahil geceleri",
+          "description": "Gündüz sıcak ve nem yorucudur; şehir akşam serinliğiyle hayata döner — sahil dolar, meyhane masaları sokağa taşar, adalar deniz sezonunu açar. Programı sabaha ve akşama kur, öğleni müzeye ver.",
+          "callout": {
+            "type": "warning",
+            "label": "Ağustos notu",
+            "text": "Adalara hafta sonu gitme: vapurlar ve sahiller taşar. Hafta içi sabah vapuruyla git, bisiklet kirala, çam sırtlarına pedalla — ada asıl yüzünü sakin gününde gösterir."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Lüfer ve Altın Işık",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · En dengeli mevsim, balık sezonu",
+          "description": "Eylül-ekim İstanbul'un en iyi halidir: hava yumuşak, ışık altın, deniz hâlâ ılık. Boğaz'da lüfer sezonu açılır, meyhane sofraları zenginleşir, Bienal yıllarında şehir sanata boğulur.",
+          "callout": {
+            "type": "tip",
+            "label": "Ekim ipucu",
+            "text": "Ekimde bir akşamı Boğaz kenarı meyhanesine ayır ve lüfer sor: mevsiminde lüfer, İstanbul sofrasının tacıdır. Yanına rakı, karşına deniz — sonbaharın resmi menüsü budur."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Karlı Kubbeler Şansı",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Yağmurlu günler, sahlep ve müze mevsimi",
+          "description": "Kış yağmurlu ve gridir ama şehre yakışır: müzeler sakin, çay ocakları dolu, sahlep tezgahları iş başında. Kar yağarsa her şeyi bırak — karlı Ayasofya ve Süleymaniye, İstanbul'un en nadide kartpostalıdır.",
+          "callout": {
+            "type": "tip",
+            "label": "Kar günü ipucu",
+            "text": "İstanbul'a kar yağdığı gün Süleymaniye avlusuna çık: kubbeler beyaza bürünür, Haliç sisin içinde kaybolur, şehir bir Osmanlı minyatürüne döner. Nadir olur — olduğunda şehir bile durup izler."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "İstanbul sofrası imparatorluk mirasıdır: esnaf lokantasının tenceresi, meyhanenin mezesi, sokağın simidi ve baklavanın şerbeti aynı günde yaşanır.",
+      "local_word": {
+        "word": "Meze",
+        "pronunciation": "meze",
+        "definition": "Meyhane sofrasının küçük tabaklı ordusu: fava, ezme, topik, lakerda... Amaç doymak değil, sofrayı uzatmaktır. Meze rakının yol arkadaşı, muhabbetin bahanesidir — masaya geldikçe gece uzar."
+      },
+      "items": [
+        {
+          "icon": "🍲",
+          "name": "Esnaf lokantası tenceresi",
+          "description": "Kuru fasulye-pilav, karnıyarık, sulu köfte: cam vitrindeki tencerelerden göstererek seç. Süleymaniye'nin tarihi fasulyecileri ve mahalle lokantaları, şehrin gündelik mutfağının kalbidir.",
+          "tag": "Öğle klasiği · tencereden göster",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kuru+Fasulyeci+Süleymaniye+Istanbul"
+        },
+        {
+          "icon": "🥂",
+          "name": "Meyhane ritüeli — rakı ve meze",
+          "description": "Soğuk mezeyle başla, ara sıcakla devam et, balıkla taçlandır: rakı yavaş içilir, sofra saatlerce sürer. Nevizade'den Kadıköy'e her meyhanenin kendi müdavimi ve kendi hikayesi vardır.",
+          "tag": "Akşam ritüeli · acele etmeden",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nevizade+Sokak+Istanbul"
+        },
+        {
+          "icon": "🥯",
+          "name": "Simit, çay ve kahvaltı kültürü",
+          "description": "Sabah simidi taze ve çıtırken alınır, çay ince belli bardakta içilir; hafta sonu ise serpme kahvaltı sofralara yayılır. Vapurda çay + simit ikilisi, İstanbul'un en ucuz mutluluk formülüdür.",
+          "tag": "Sabah ritüeli · vapurda da geçerli",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=simit+fırını+Karaköy+Istanbul"
+        },
+        {
+          "icon": "🥩",
+          "name": "Köfte ve döner klasikleri",
+          "description": "Tarihi köftecilerde piyaz eşlikli ızgara köfte, ustasında dönmüş yaprak döner: basit görünen işlerin zirvesi. Kuyruklu dükkan, çoğu zaman doğru dükkandır.",
+          "tag": "Ustasından · kuyruk iyi işaret",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tarihi+Sultanahmet+Köftecisi"
+        },
+        {
+          "icon": "🐟",
+          "name": "Balık ekmek ve midye dolma",
+          "description": "Eminönü'nün balık ekmeği tartışmalı bir klasik, sokak aralarının midye dolması gece efsanesidir: limonu sık, sayıyı sonra düşün. Deniz şehrinin sokak mutfağı budur.",
+          "tag": "Sokak klasiği · bol limonla",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Eminönü+balık+ekmek"
+        },
+        {
+          "icon": "🍯",
+          "name": "Baklava + Türk kahvesi finali",
+          "description": "Fıstıklı baklava ustasından, kahve közde ve telvesiyle: sofranın anayasal kapanışı. Kahve falına bakmak bilim değil, muhabbet sanatıdır — fincanı ters çevir, bekle.",
+          "tag": "Tatlı final · falı bonus",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Karaköy+Güllüoğlu"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Lokanta kuralı",
+        "text": "İstanbul'da doğru yerin üç işareti: öğlen dolu esnaf lokantası, camında el yazısı menü ve masada yerli kalabalığı. Turistik meydanın iki sokak arkası, neredeyse her zaman hem daha iyi hem daha ucuzdur."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Ayasofya'yı herkes görür; bu altısı İstanbul'un mahalle mahalle saklanan yüzü.",
+      "items": [
+        {
+          "rarity": "Boğaz'ın huzurlu köyü",
+          "name": "Kuzguncuk",
+          "description": "Renkli ahşap evler, asırlık çınar ve yan yana duran cami, kilise, sinagog: Boğaz'ın en zarif mahallesi. Bostanında domates yetişir, kahvelerinde zaman yavaşlar — İstanbul'un 'keşke hep böyle olsa' hali.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kuzguncuk+Istanbul"
+        },
+        {
+          "rarity": "Renkli merdivenlerin mahallesi",
+          "name": "Balat ve Fener sabahı",
+          "description": "Yokuşlu sokaklar, cumbalı evler, Rum Patrikhanesi ve antikacı vitrinleri: Haliç'in eski dünyası. Sabah erken git — kahvaltıcılar açılırken sokaklar fotoğrafçılardan önce senindir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Balat+Istanbul"
+        },
+        {
+          "rarity": "Sinan'ın şaheseri ve terası",
+          "name": "Süleymaniye avlusu ve Haliç manzarası",
+          "description": "Mimar Sinan'ın 'kalfalık eserim' dediği külliye, şehrin en dingin avlusuna ve en cömert Haliç terasına sahiptir: gün batımında Galata Kulesi'nden Boğaz'a bütün silüet ayaklarının altında.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Süleymaniye+Camii+Istanbul"
+        },
+        {
+          "rarity": "Romanın müzeye döndüğü sokak",
+          "name": "Çukurcuma ve Masumiyet Müzesi",
+          "description": "Antikacılar mahallesinin ortasında Orhan Pamuk'un romanından doğmuş müze: kurgunun eşyaya dönüştüğü dünyada tek yer. Çevre sokakların eskici vitrinleri, müzenin doğal devamıdır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Masumiyet+Müzesi+Çukurcuma+Istanbul"
+        },
+        {
+          "rarity": "Şehre bir vapur ötesi sükunet",
+          "name": "Adalar'da çam sırtları",
+          "description": "Büyükada ve Heybeliada'nın motorsuz yolları bisikletle gezilir: köşkler, çam kokusu ve denize inen patikalar. Hafta içi sabah vapuruyla git — ada, sakin gününde bambaşka bir yüzyıldır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Büyükada"
+        },
+        {
+          "rarity": "Mozaiklerin saklı hazinesi",
+          "name": "Kariye (Chora)",
+          "description": "Surlara yakın bu eski Bizans yapısı, dünyanın en etkileyici mozaik ve fresklerinden bazılarını taşır: altın zemin üstünde incelikli hikayeler. Ayasofya'nın kalabalığına karşı sessiz ve derin bir alternatif.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kariye+Camii+Istanbul"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Boğaz tüyosu",
+        "text": "Turistik Boğaz teknesi yerine Şehir Hatları'nın uzun Boğaz seferini ya da sıradan Üsküdar-Beşiktaş hattını kullan: aynı deniz, aynı yalılar, İstanbulkart fiyatına. Dönüşte Kuzguncuk'ta in — çay bahçesi rotanın ödülüdür."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "İstanbul misafirperverdir ama turistik çekirdekte klasik oyunlar döner; şu dördünü bilen rahat gezer.",
+      "items": [
+        {
+          "icon": "🍽️",
+          "name": "Hanutçulu, fiyatsız menü",
+          "description": "Turistik meydanlarda kapıdan çeken restoranların bazılarında fiyatsız menü ve 'günün balığı' oyunuyla hesap sürprizi yaşanır.",
+          "instead": "Fiyatı yazılı olmayan hiçbir şeyi sipariş etme; kapıda çekilen yere değil, yerlinin oturduğuna gir. İki sokak arkası kuralı bu şehirde altın değerindedir."
+        },
+        {
+          "icon": "🚕",
+          "name": "Taksimetre ve rota oyunları",
+          "description": "Bazı taksiler taksimetreyi 'unutur', uzun rotaya sapar ya da bozuk para üstünde el çabukluğu yapar.",
+          "instead": "Taksiyi uygulamadan çağır, rotayı haritadan takip et, büyük banknotu bozdurup bin. Kısa mesafede zaten raylı sistem + vapur hem ucuz hem hızlıdır."
+        },
+        {
+          "icon": "🛍️",
+          "name": "Kapalıçarşı'da ilk fiyata evet demek",
+          "description": "Çarşının ilk fiyatı bir açılış cümlesidir; 'hediye çay + halı gösterimi' zinciri de klasik satış koreografisidir.",
+          "instead": "Pazarlığı gülümseyerek ve rahat yap, almayacağın şeye uzun oturma. Çay ikramı güzel bir gelenektir — kabul et ama kendini borçlu hissetme; 'sağ olun, sadece bakıyorum' yeter."
+        },
+        {
+          "icon": "🍸",
+          "name": "'Arkadaş canlısı' gece daveti",
+          "description": "Turistik bölgede yeni tanışılan 'arkadaşın' önerdiği barda hesap astronomik gelir; itiraz kapıda güvenlikle karşılaşır.",
+          "instead": "Gece mekanını kendin seç, davetle mekan değiştirme. Gerçek İstanbul muhabbeti meyhanede, çay ocağında ve mahalle kahvesindedir — oralarda hesap da muhabbet de dürüsttür."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "İstanbul'da sana bir şey satmak için yolunu kesen herkese gülümse ve yürü; sana çay ikram eden mahalle esnafına ise otur, konuş. İkisini ayırt etmeyi öğrendiğin gün, şehir sana kapılarını açar."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Kubbelerden vapura, imparatorluktan meyhaneye",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Sultanahmet Meydanı erken saat",
+              "description": "Ayasofya ile Sultanahmet Camii'nin arasında, kalabalık gelmeden dur: bin beş yüz yıllık karşılaşmayı sabah ışığında izle. Ayasofya'ya açılışta gir."
+            },
+            {
+              "time": "11:00",
+              "title": "Yerebatan ve Kapalıçarşı",
+              "description": "Sarnıcın sütunlu loşluğunda serinle, ardından Kapalıçarşı'nın sokaklarında kaybol: pazarlık serbest, acele yasak."
+            },
+            {
+              "time": "13:00",
+              "title": "Süleymaniye öğleni",
+              "description": "Tarihi fasulyecide kuru fasulye-pilav, ardından Sinan'ın avlusu ve Haliç terası: İstanbul'un en iyi öğle arası kombinasyonu."
+            },
+            {
+              "time": "15:30",
+              "title": "Vapurla yaka değiştir",
+              "description": "Eminönü'nden Kadıköy vapuruna bin: çay + simit + martılar. Karşıda çarşıyı ve Moda sahilini yürü — şehrin yerli ritmine karış."
+            },
+            {
+              "time": "18:30",
+              "title": "Galata gün batımı",
+              "description": "Vapurla Karaköy'e dön, kuleye doğru yokuşları tırman: gün batımında çatılar ve Haliç kızıla döner. Kahve molası Serdar-ı Ekrem sokağında."
+            },
+            {
+              "time": "20:30",
+              "title": "Meyhane gecesi",
+              "description": "Beyoğlu ya da Kadıköy'de meyhane sofrası: soğuk meze, rakı ve uzayan muhabbet. İstanbul günü masada, 'şerefe' ile kapanır."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Tarihi yarımada, Boğaz ve mahalleler — üç İstanbul",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik İstanbul",
+              "description": "Yukarıdaki 1 günlük akış: Sultanahmet, Kapalıçarşı, Süleymaniye, vapur, Galata, meyhane."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Boğaz günü",
+              "description": "Sabah Topkapı Sarayı ve harem; öğleden sonra vapurla Boğaz hattı — Ortaköy'de kumpir molası, Üsküdar üzerinden Kuzguncuk'ta çay; akşam Boğaz kenarında balık, mevsimindeyse lüfer."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Mahalleler ve veda",
+              "description": "Sabah Balat-Fener sokakları ve Kariye mozaikleri; öğleden sonra Çukurcuma antikacıları + Masumiyet Müzesi ya da hafta içiyse ada kaçamağı; veda kapanışı Türk kahvesi ve falla — fincan ters, kalp açık."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "İstanbul'un günlük dili sıcaktır; bu beş kelime — yabancı bir misafire öğreteceğin haliyle — şehrin bütün kapılarını açar.",
+      "items": [
+        {
+          "word": "Merhaba",
+          "pronunciation": "merhaba",
+          "meaning": "Selamların en evrenseli — gülümsemeyle birlikte her kapıyı açar"
+        },
+        {
+          "word": "Teşekkürler",
+          "pronunciation": "teşekkürler",
+          "meaning": "Teşekkür — samimisi 'sağ ol', kalplisi 'ellerine sağlık'"
+        },
+        {
+          "word": "Buyrun",
+          "pronunciation": "buyrun",
+          "meaning": "'Hoş geldin, gel, ne istersin' — esnafın davet kelimesi; günde elli kez duyulur"
+        },
+        {
+          "word": "Kolay gelsin",
+          "pronunciation": "kolay gelsin",
+          "meaning": "Çalışan herkese söylenen incelik: 'işin kolay olsun' — şehrin görünmez selamı"
+        },
+        {
+          "word": "Şerefe!",
+          "pronunciation": "şerefe",
+          "meaning": "Kadeh kalkarken söylenir — rakı sofrasında göz teması ve muhabbet şarttır"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "İstanbul Checklist",
+      "completion_message": "Şerefe! İki kıtayı da hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Vapurda çay iç, martılara simit at",
+          "sub": "Karaköy-Kadıköy hattı — gün batımında"
+        },
+        {
+          "label": "Ayasofya'nın kubbesi altında dur",
+          "sub": "Açılış saatinde — bin beş yüz yıl tepende"
+        },
+        {
+          "label": "Süleymaniye terasından Haliç'e bak",
+          "sub": "Sinan'ın avlusu + gün batımı"
+        },
+        {
+          "label": "Meyhanede rakı-meze sofrası kur",
+          "sub": "Acele yok — sofra saatlerce sürer"
+        },
+        {
+          "label": "Kapalıçarşı'da pazarlık yap",
+          "sub": "Gülümseyerek, çay ikramı dahil"
+        },
+        {
+          "label": "Balat'ın renkli sokaklarını sabah yürü",
+          "sub": "Kahvaltıcılar açılırken"
+        },
+        {
+          "label": "Kuzguncuk'ta çınar altında kahve iç",
+          "sub": "Cami, kilise, sinagog yan yana"
+        },
+        {
+          "label": "Marmaray'la boğazın altından geç",
+          "sub": "İki kıta arası beş dakika"
+        },
+        {
+          "label": "Adada çam sırtlarına pedalla",
+          "sub": "Hafta içi sabah vapuruyla"
+        },
+        {
+          "label": "Türk kahvesi iç, falına baktır",
+          "sub": "Fincan ters, muhabbet açık"
+        }
+      ]
+    }
+  }
+}

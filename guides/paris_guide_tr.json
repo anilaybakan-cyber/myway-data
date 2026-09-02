@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Paris",
+    "country": "Fransa",
+    "language": "tr",
+    "version": "2.1",
+    "color_primary": "#8B1538",
+    "color_light": "#F5E8EC",
+    "tagline": "Herkesin tanıdığını sandığı şehir — neredeyse kimsenin gerçekten tanımadığı",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Müze kuyrukları zorunlu değil",
+    "İngilizce menü olmayan yerde ye",
+    "Planladığından daha fazla yürü"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Paris'e Hoş Geldin",
+      "intro": "Paris dünyanın en çok ziyaret edilen şehri; bu yüzden turistler için oynamayı onlarca yıldır öğreniyor. Çoğu ziyaretçinin gördüğü Paris selfie noktaları, anıtların yakınındaki pahalı kafeler, Eyfel Kulesi kuyrukları. Tüketim için kurulmuş bir sahne. Gerçek Paris ise onun hemen yanı başında akıyor: mahalle fırınlarında, 1820'lerden kalma kapalı pasajlarda, yerel halkın Çarşamba öğleden sonraları pétanque (Fransız bocce oyunu) oynadığı parklarda, tabelası ve İngilizce menüsü olmayan şarap barlarında. Bu şehir meraklıyı ödüllendiriyor, pasif olanı görmezden geliyor. Anıtlar gerçekten olağanüstü; Louvre, Notre-Dame, Versailles. Ama bunlar Paris'in başlangıcı, sonu değil. Soru Eyfel Kulesi'ni görüp görmemek değil. Soru ondan sonra ne yapacağın.",
+      "local_word": {
+        "word": "Arrondissement",
+        "pronunciation": "ah-ron-dis-MON",
+        "definition": "Paris 20 arrondissement'a bölünmüş; şehir merkezinden saat yönünde sarmal şeklinde 1'den 20'ye numaralandırılmış. Her birinin kendine özgü karakteri, pazarları ve ritmi var. 1. tarihi merkez, 11. Parislilerin geceleri çıktığı yer, 18. Montmartre, 20. Belleville. Nereye gittiğini bilmek, herhangi bir restoran yorumundan çok o akşam hakkında daha fazla şey anlatıyor."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Her girişte bonjour de — istisnasız",
+          "description": "Paris'te bir dükkâna, kafeye ya da fırına bonjour demeden girmek kabalık sayılıyor. Saldırgan bir tutum değil, gerçek bir görgü kuralı bu. Girerken bonjour, çıkarken merci ve au revoir. Bu tek alışkanlık her etkileşimi değiştiriyor. Parisliler soğuk değil; yabancılara karşı resmi. O resmiyet bir kapı."
+        },
+        {
+          "number": 2,
+          "title": "Métro şehrin damarı",
+          "description": "16 hat, 302 istasyon ve şehrin neredeyse her köşesine ulaşım. Tek t+ bileti metro, otobüs, tramvay ve şehir içi RER'de geçerli. Kısa konaklamalar için Navigo Easy kartı en pratik seçenek; üzerine bilet yüklenip her binişte okuyucuya dokundurularak geçerli kılınıyor. Metro hafta içi yaklaşık 01:00'e, hafta sonları 02:00'ye kadar çalışıyor."
+        },
+        {
+          "number": 3,
+          "title": "Öğle yemeği asıl öğün — akşam değil",
+          "description": "Paris'te en iyi değer hafta içi öğle yemeğinde. Bistroların ve brasserilerin büyük çoğunluğu formule sunuyor; akşamın yarı fiyatına iki ya da üç çeşit. Aynı mutfak, aynı yemek, yarı maliyet. Parisliler 12:30–14:00 arasında öğle yemeği yiyor. Kuyruk önlemek için 12:30'dan önce ya da 13:30'dan sonra gitmek iyi fikir. İyi restoranlarda akşam rezervasyonu şart, çoğu zaman haftalar öncesinden."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanları",
+          "value": "CDG · Orly · Beauvais",
+          "sub": "CDG: RER B 35 dk · Orly: Orlyval+RER 35 dk"
+        },
+        {
+          "icon": "🚇",
+          "label": "Ulaşım",
+          "value": "Métro + RER + otobüs",
+          "sub": "16 hat · 302 istasyon · 01:00–02:00'ye kadar"
+        },
+        {
+          "icon": "🗺️",
+          "label": "Arrondissement",
+          "value": "20 semt",
+          "sub": "Merkezden sarmal · her birinin kendine özgü karakteri"
+        },
+        {
+          "icon": "🥐",
+          "label": "Kahvaltı kuralı",
+          "value": "Café crème + croissant",
+          "sub": "Tezgahta · ayakta · sabah 10'dan önce"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Bilmeye değer müze kartı",
+        "text": "Paris Müze Kartı, Louvre, Musée d'Orsay, Sainte-Chapelle, Versailles ve Pompidou dahil 50'den fazla müze ve anıta gişe kuyruğu olmadan erişim sağlıyor. İki ya da üç ziyarette kendini amorti ediyor ve saatlerce kuyruk beklemekten kurtarıyor. Gelmeden önce online almak en iyisi. İki, dört ve altı günlük versiyonları mevcut."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Paris yürümek için tasarlanmış, metro ise geri kalanını hallediyor. Şehir göründüğünden daha kompakt; pek çok ünlü yapı ziyaretçilerin sandığından çok daha yakın birbirine.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "CDG Havalimanı → Şehir Merkezi",
+          "description": "RER B treni CDG'yi yaklaşık 35 dakikada şehir merkezine direkt bağlıyor; Gare du Nord, Châtelet-Les Halles, Saint-Michel ve Luxembourg'ta duruyor. Sık aralıklarla çalışıyor ve açık ara en güvenilir seçenek. Taksiler pahalı ve trafiğe bağlı. Roissybus otobüsü daha yavaş ama Opéra'ya bırakıyor. RER B her zaman doğru tercih."
+        },
+        {
+          "icon": "🚇",
+          "title": "Métro — temel ulaşım aracı",
+          "description": "16 hat şehrin tamamını kapsıyor. Navigo Easy kartı, Londra'daki Oyster Card'ın Paris versiyonu; istasyondan satın alınıp üzerine t+ bileti yükleniyor. Metro ve RER kapılarında, otobüs ve tramvaylarda ise binişte okuyucuya dokundurarak geçerli kılınıyor. 1 ve 14 numaralı hatlar sürücüsüz olarak işliyor ve hafta sonları 24 saat hizmet veriyor. Kalabalık hatlarda inmeden önce kapıya yanaşmak iyi fikir; kapılar hızlı kapanıyor."
+        },
+        {
+          "icon": "🚌",
+          "title": "Otobüsler — sokak seviyesinde Paris",
+          "description": "Paris otobüsleri de aynı t+ biletini kullanıyor ve metronun sunamayacağı bir şey sunuyor: şehri sokak seviyesinden, cephelerini ve köşelerini görerek geçme imkânı. 69 numaralı hat Eyfel Kulesi'nden Père Lachaise'e şehrin kalbinden geçiyor. 29 numaralı hat Opéra, Le Marais ve Bastille'i birleştiriyor. En az bir kez binmeye değer; özellikle akşam saatlerinde, anıtlar aydınlatılmışken."
+        },
+        {
+          "icon": "🚲",
+          "title": "Vélib' — şehir bisiklet sistemi",
+          "description": "Paris'in kamuya açık bisiklet sisteminin şehir genelinde binlerce istasyonu var. Kısa süreli abonelik yolculuk başına 30 veya 45 dakika kapsıyor (klasik veya elektrikli). Seine kıyı yolu, Canal Saint-Martin ve Bois de Boulogne bisikletle kolayca gezilebilir. Merkezi Paris büyük ölçüde düz. Fransa'nın en iyi kentsel bisiklet deneyimi."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürüyüş — en iyi yol",
+          "description": "Paris neredeyse her ulaşım biçiminden çok yürüyerek ödüllendiriyor. Louvre'dan Notre-Dame'a yürüyerek 20 dakika. Montmartre'dan Opéra'ya 30 dakika. Seine boyunca Eyfel Kulesi'nden Île de la Cité'ye 45 dakika. Yürümek, metronun altından geçerek asla fark edemeyeceğin ayrıntıları açıyor: pasajları, avluları, ara sokaklardaki fırınları."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Versailles RER ile",
+        "text": "Versailles merkezi Paris'ten RER C ile 40 dakika uzakta; araba ya da tur otobüsüne gerek yok. Versailles-Château-Rive Gauche durağında inip saraya 10 dakika yürünüyor. Fransız okul gruplarının daha az olduğu Salı veya Çarşamba günleri tercih edilmeli. Kapılar açıldığında sabah 09:00'da orada olmak en iyisi."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı?",
+      "intro": "Paris'in 20 arrondissement'ı birbirinden çarpıcı biçimde farklı. Doğru semtte kalmak tüm seyahatin şeklini belirliyor.",
+      "local_word": {
+        "word": "Rive Gauche / Rive Droite",
+        "pronunciation": "reev GOHSH / reev DWAT",
+        "definition": "Sol Yakası ve Sağ Yakası — Seine nehri Paris'i tam ortasından ikiye bölüyor. Rive Gauche (Sol Yakası, güney): Saint-Germain, Latin Çeyreği, Montparnasse; entelektüel, edebi, kafe kültürünün Paris'i. Rive Droite (Sağ Yakası, kuzey): Louvre, Le Marais, Montmartre, Bastille; ticari, moda ve çeşitlilik. Ziyaretçilerin büyük çoğunluğu Sağ Yakası'nda kalıyor; Sol Yakası daha sakin, daha yerleşim odaklı ve değerlendirilmeye değer."
+      },
+      "items": [
+        {
+          "name": "Le Marais (3. ve 4. arr.)",
+          "badge": "En canlı",
+          "badge_type": "hot",
+          "description": "Le Marais Paris'in en enerjik, en hareketli semti. Ortaçağdan kalma sokaklar, Place des Vosges, köklü Yahudi mahallesi, LGBTİ+ dostu barlar ve mekânlar, şehrin en iyi felafel noktaları ve her köşede galeri. Merkezi, yürünebilir ve günün her saatinde canlı. Pahalı ama ilk kez gelenler için buna değer.",
+          "tags": [
+            "En merkezi",
+            "En iyi yemek sokakları",
+            "Her saatte canlı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Marais+Paris"
+        },
+        {
+          "name": "Saint-Germain-des-Prés (6. arr.)",
+          "badge": "En zarif",
+          "badge_type": "hot",
+          "description": "Sol Yakası'nın en ünlü mahallesi; Café de Flore, Les Deux Magots, köşe başında Luxembourg Bahçeleri. Pahalı ancak güzel ve Le Marais'den çok daha sakin. Sartre ve Beauvoir'ın yazdığı, Paris'in edebi geleneğinin filizlendiği yer. Musée d'Orsay ve Latin Çeyreği için ideal lokasyon.",
+          "tags": [
+            "Sol Yakası atmosferi",
+            "Luxembourg Bahçeleri",
+            "Edebi tarih"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Saint-Germain-des-Pres+Paris"
+        },
+        {
+          "name": "Bastille & Oberkampf (11. arr.)",
+          "badge": "En yerel",
+          "badge_type": "local",
+          "description": "Parislilerin gerçekten dışarı çıktığı yer. 11. arrondissement şehrin en iyi doğal şarap barlarına, en iyi bistrolarına ve en iyi gece enerjisine sahip. Turist mahallesi değil, yaşayan bir yer. Anıtlardan biraz uzak ama metroyla iyi bağlantılı. Paris'te yemek ve içmek için en iyi arrondissement.",
+          "tags": [
+            "En iyi restoranlar",
+            "En iyi barlar",
+            "Parislilerin çıktığı yer"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bastille+Paris"
+        },
+        {
+          "name": "Montmartre (18. arr.)",
+          "badge": "En atmosferik",
+          "badge_type": "local",
+          "description": "Tepedeki köy; arnavut kaldırımlı sokaklar, bir bağ, Sacré-Coeur, sanatçı stüdyoları ve tüm şehre açılan manzaralar. Sacré-Coeur çevresinde turistik ama birkaç sokak ötede gerçek yerel hayata dönüşüyor. Paris'in en güzel kahvaltı mahallesi. Tepeye çıkmaya değiyor.",
+          "tags": [
+            "Köy hissi",
+            "En iyi manzaralar",
+            "Arnavut kaldırımlar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Montmartre+Paris"
+        },
+        {
+          "name": "Canal Saint-Martin (10. arr.)",
+          "badge": "En yaratıcı",
+          "badge_type": "local",
+          "description": "Kanal mahallesi; demir köprüler, çınar ağaçları, bağımsız butikler, Paris'in en iyi kahvesi, doğal şarap barları ve genç yerel bir kalabalık. Turistik bir bölge olmamakla birlikte, 35 yaş altı Parislilerin en çok bahsettiği mahalle. Metro bağlantısı mükemmel.",
+          "tags": [
+            "Genç ve yaratıcı",
+            "En iyi kahve",
+            "Kanal yürüyüşleri"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Canal+Saint-Martin+Paris"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "En İyi Zaman Hangisi?",
+      "intro": "Paris her mevsim işliyor ama her mevsim farklı bir şehir. Soru hangi versiyonunu istediğin.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Klasik Sezon",
+          "months": "Mar – May",
+          "subtitle": "İlkbahar · Paris'in En Güzel Hali",
+          "description": "Nisan ve Mayıs Paris'in ününü hak ettiği dönem. Tuileries'de kiraz çiçekleri, her bulvarda kestane ağaçları, öğlen dolmaya başlayan Luxembourg Bahçeleri, kışın ardından geri dönen teras kültürü. Işık olağanüstü; altın renginde, günün uzun saatlerine yayılan ve tamamen bu şehre özgü. Kalabalık henüz zirveye ulaşmamış, hava ılımlı, şehir gerçekten en güzel halinde. En iyi Paris bir ilkbahar Paris'idir.",
+          "callout": {
+            "type": "tip",
+            "label": "Roland-Garros (Mayıs sonu)",
+            "text": "Fransa Açık Tenis Turnuvası Roland-Garros'ta Mayıs sonu Haziran başında oynanıyor. Her gün kapıda satılan genel biletler koltuk numarası olmaksızın dış sahalara erişim sağlıyor; dünya sınıfı tenis yakın mesafeden izlenebiliyor. Bir sabahı buna ayırmaya değiyor."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Kalabalık ama Görkemli",
+          "months": "Haz – Ağu",
+          "subtitle": "Yaz · Kalabalık ve Şenlikli",
+          "description": "Haziran en iyi yaz ayı; uzun akşamlar, Paris Plages henüz başlamamış, kalabalık henüz zirveye ulaşmamış. Temmuz'da 14 Temmuz Bastille Günü, Champs-Élysées'deki askeri geçit töreni ve Eyfel Kulesi'nin üzerindeki havai fişeklerle Avrupa'nın en büyük ücretsiz gösteri alanlarından biri oluyor. Ağustos Parislilerin şehri terk ettiği ay; yerel halk yerini ziyaretçilere bırakıyor. Bazı restoranlar ve dükkanlar Ağustos'ta kapanıyor.",
+          "callout": {
+            "type": "tip",
+            "label": "14 Temmuz — Bastille Günü",
+            "text": "Eyfel Kulesi üzerindeki havai fişekler dünyanın en görkemli gösterilerinden biri. Trocadéro, Champ de Mars ve Seine kıyıları saatler öncesinden doluyor. Champs-Élysées'deki askeri geçit töreni sabah 10:00'da başlıyor ve kaldırımlardan ücretsiz izlenebiliyor."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Yerli Sezonu",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Paris Parislilere Ait Olduğunda",
+          "description": "Eylül Paris'in yeniden uyandığı dönem. Kültür sezonu açılıyor; tiyatro, opera, sergi açılışları, moda haftası. Yaz turistleri gitmiş, Parisliler Ağustos'tan dönmüş, şehir kendi ritmine kavuşmuş. Ekim yılın en güzel ışığını getiriyor: amber renginde, alçak açıyla ve tamamen Paris'e özgü. Nuit Blanche (Ekim'in ilk Cumartesisi) tüm şehri bir geceliğine ücretsiz açık hava sanat enstalasyonuna dönüştürüyor.",
+          "callout": {
+            "type": "tip",
+            "label": "Nuit Blanche (Ekim)",
+            "text": "Ekim'in ilk Cumartesi gecesi Paris'in müzeleri, galerileri ve kamusal alanları tüm gece açık kalıyor; şehrin dört bir yanında ücretsiz sanat enstalasyonları. Bilet yok, kuyruk yok; sadece dönüşüme uğramış bir şehir. Paris'in en güzel gecelerinden biri ve Fransa dışında neredeyse bilinmiyor."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Sakin ve Hafife Alınan",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · En Sakin ve En Parisian",
+          "description": "Aralık Champs-Élysées ve La Défense'ta Noel pazarları, Hôtel de Ville önünde buz pateni pistleri ve baştan sona aydınlatılmış bir şehir getiriyor. Ocak ve Şubat en sessiz aylar; müzeler neredeyse boş, restoran bulmak haftalar öncesinden planlama gerektirmiyor, fiyatlar yılın en düşük seviyesinde. Kışın Paris'in gri ışığının kendine özgü bir güzelliği var. Bu, şehrin tamamen içinde yaşayanlara ait olduğu dönem.",
+          "callout": {
+            "type": "tip",
+            "label": "Ocak — en iyi müze ayı",
+            "text": "Ocak'ta Paris müzeleri yılın en sakin döneminde. Louvre, Musée d'Orsay ve Centre Pompidou'ya girmek için uzun kuyruklar yok; istediğin eserin önünde istediğin kadar durabiliyorsun. Pek çok müze her ayın ilk Pazarı indirimli giriş sunuyor. Paris koleksiyonlarını görmek için en iyi zaman bu."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "21 Haziran",
+          "text": "Fête de la Musique: bütün şehir tek gecelik sahneye döner; her köşede ücretsiz konser, sabaha kadar müzik."
+        },
+        {
+          "month": "14 Temmuz",
+          "text": "Bastille Günü: sabah geçit töreni, gece Eyfel'de Fransa'nın en büyük havai fişek gösterisi."
+        },
+        {
+          "month": "Temmuz–Ağustos",
+          "text": "Paris Plages: Seine kıyısı kumsala döner; şezlong, dondurma ve nehir kenarı yaz hali."
+        },
+        {
+          "month": "Ekim başı",
+          "text": "Nuit Blanche: bütün gece süren sanat gecesi — müzeler, kiliseler ve sokaklar sabaha kadar açık ve ücretsiz."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yenmeli?",
+      "intro": "Fransız mutfağı dünyanın en etkili mutfak geleneği ve Paris onun başkenti. Ama yemek için gidilmesi gereken Paris, dışarıda İngilizce menüsü ve duvarda turist fotoğrafları olan yer değil. Salı günü mahalle bistrosu, sabah 08:00'de fırın, üç masalı ve el yazısıyla yazılmış şarap listesi olan bar.",
+      "local_word": {
+        "word": "Bistrot",
+        "pronunciation": "bis-TRO",
+        "definition": "Basit Fransız yemeğinin sunulduğu küçük, samimi restoran; steak frites, ördek konfisi, soğan çorbası, crème brûlée. Parisian mutfağının omurgası. İyi bir bistrot, her gün değişen kısa menüsüyle ve mevsimsel malzemeleriyle tanınır. Müdavimlerine ayrı bir sıcaklık gösterir. En iyileri 11. ve 10. arrondissement'da. Fotoğraflı plastik menü varsa pas geçilmeli."
+      },
+      "items": [
+        {
+          "icon": "🥐",
+          "name": "Croissant — kalitesi fırına göre değişir",
+          "description": "İyi bir croissant katmanlı: kesit görüntüsünde tereyağlı hamur katları görünür, dışı cam gibi kırılgan, içi yumuşak. Vasat bir croissant homojen, yumuşak ve unutulabilir. Paris'te her ikisi de var; fark fırıncıda. Maison Landemaine, Du Pain et des Idées ve Sébastien Gaudard en iyileri arasında. Özellikle kuyruğu olan fırından almayı tercih et; kuyruklar yalan söylemez.",
+          "tag": "Sabah 10'dan önce · tezgahta ayakta · café crème ile",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Du+Pain+et+des+Idées+Paris"
+        },
+        {
+          "icon": "🥩",
+          "name": "Steak frites — Parisian standart",
+          "description": "Bir bistrotun ölçütü. Düzgün bir steak frites onglet (askı biftek) ya da entrecôte (antrikot) kullanır; el yapımı patates kızartması ve béarnaise (yumurta sarısı ve tereyağlı sos) ya da arpacık soğan sosla gelir. Her zaman à point (orta pişmiş) ya da saignant (az pişmiş) ısmarlanır; bien cuit (çok pişmiş) bifteği israf sayılır. Saint-Germain'deki Le Relais de l'Entrecôte başka hiçbir şey servis etmiyor ve önünde sürekli kuyruk oluşuyor. Beklemeye değiyor.",
+          "tag": "Saignant ya da à point · béarnaise ile · bir sürahi Bordeaux eşliğinde",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Relais+de+l%27Entrecôte+Paris"
+        },
+        {
+          "icon": "🧀",
+          "name": "Fromage — ritüel",
+          "description": "Fransız restoranında peynir tatlıdan önce, tatlı yerine değil, gelir. Servis ekmekle sunulan üç ila beş çeşit peynirden oluşur; kraker veya chutney (meyve-sebze reçeli) eşlik etmez. Günün en iyisini sormak gerekiyor. Comté, Époisses, Brie de Meaux, Roquefort, Camembert. Kural: peynirin oda sıcaklığına gelmesini beklemek. Soğuk servis edilen peynir, peynircinin emeğine saygısızlık sayılır.",
+          "tag": "Tatlıdan önce · en iyisini sor · şarabın kalanıyla",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fromagerie+Laurent+Dubois+Paris"
+        },
+        {
+          "icon": "🥂",
+          "name": "Doğal şarap — Paris'in tutkusu",
+          "description": "Paris doğal şarap konusunda dünyaya öncülük ediyor; düşük müdahaleli, minimal sülfitli, çoğunlukla orange ya da pét-nat (pétillant naturel — doğal köpüklü şarap). 11. arrondissement'ın tek başına iyi doğal şarap barı sayısı, pek çok şehrin toplam şarap barından fazla. Le Servan, Septime Cave, Clown Bar, Canal Saint-Martin kıyısındaki Le Verre Volé. Bir kadeh ısmarlamak ve vigneronun ne yaptığını sormak gerekiyor. Avrupa'nın en ilginç şarap sahnesi.",
+          "tag": "Le Verre Volé · Septime Cave · Le Clown Bar",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Verre+Volé+Paris"
+        },
+        {
+          "icon": "☕",
+          "name": "Kahve — doğru yöntem",
+          "description": "Paris'te café espresso demek. Café crème buharlı sütlü espresso. Noisette içine ılık süt damlatılmış espresso; yerel standart sipariş. Cappuccino anlaşılıyor ama sabah 11'den sonra hafifçe yadırganıyor. Tezgahta içmek gerekiyor; daha hızlı, daha ucuz ve daha Parisian. Üçüncü dalga kahve sahnesi (Ten Belles, Café Lomi, Coutume) Paris'i son on yılda dönüştürdü. Her iki gelenek yan yana yaşıyor.",
+          "tag": "Tezgahta · café ya da café crème · öğleden önce sütlü içecekler",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ten+Belles+Paris"
+        },
+        {
+          "icon": "🥖",
+          "name": "Baguette — günlük ritüel",
+          "description": "Parisliler her gün ekmek alır. Geleneksel baguette (baguette de tradition) çatlayan bir kabuk, açık ve havadar bir iç yapı, uzun fermantasyondan gelen hafif bir ekşilikle gelir. Akşama bayatlar; bu doğru ve normaldir. En iyileri hamurunu yavaş mayalayan fırınlarda pişiyor. Şehir her yıl Paris'in en iyi baguette'ini seçen bir yarışma düzenliyor; kazanan bir yıl boyunca Élysée Sarayı'na ekmek tedarik ediyor.",
+          "tag": "Baguette de tradition · kuyruğu olan fırından · aynı gün",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Boulangerie+Utopie+Paris"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Marché d'Aligre — gerçek pazar",
+        "text": "12. arrondissement'daki Marché d'Aligre Paris'in en yerel pazarı. Kapalı bir hal ile açık hava bit pazarı Salı'dan Pazar'a sabahları yan yana işliyor. Şehrin başka herhangi bir pazarından ucuz, gerçek Parislilerle dolu, İngilizce tabela yok. Cumartesi sabahı gidip peynir ve şarküteri alıp yakınındaki Promenade Plantée'ye çıkmak Paris'te en Parisian Cumartesi sabahı."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Paris en iyi şeylerini başka şeylerin içine saklıyor; sarayların içinde şapeller, demiryollarının içinde parklar, bakanlıkların içinde bahçeler. En ilginç Paris her zaman bir kapı daha içeride.",
+      "items": [
+        {
+          "rarity": "Paris'in en güzel iç mekânı — bilet alınmayı hak ediyor",
+          "name": "Sainte-Chapelle — Île de la Cité",
+          "description": "Notre-Dame'dan on dakika uzakta, Palais de Justice'in duvarlarının ardında Sainte-Chapelle duruyor. Paris'in tartışmasız en olağanüstü iç mekânı. IX. Louis tarafından Dikenli Taç'ı barındırmak için 1242–1248 arasında altı yılda inşa edilen üst şapelin duvarları neredeyse tamamen vitray camdan; 600 metrekareye yayılmış 1.113 İncil sahnesi. Güneşli bir günde içeride yaşanan ışık deneyimini tarif etmek güç. Camın üçte ikisi 13. yüzyıldan özgün. Biletli giriş, önceden rezervasyon şart. Güneş cama vururken git.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sainte-Chapelle+Paris"
+        },
+        {
+          "rarity": "Dünyanın ilk yükseltilmiş parkı — New York buradan ilham aldı",
+          "name": "Coulée Verte René-Dumont — 12. arrondissement",
+          "description": "Kullanılmayan bir 19. yüzyıl demiryolu viyadüğünün üzerine inşa edilen Coulée Verte, 12. arrondissement boyunca 4.5 km uzanan yükseltilmiş bir bahçe yürüyüş yolu. 1993'te açıldı; New York High Line'ından on yedi yıl önce. High Line'ın mimarları Coulée Verte'den doğrudan ilham aldıklarını söylüyor. Viyadük kemerlerinin altında galeriler, tasarım stüdyoları ve atölyeler. Üstte glisin, gül, bambu ve hiçbir turistin uğramadığı bir Paris. Ücretsiz. Bastille ucundan başlayıp doğuya yürümek en iyisi.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Coulée+Verte+René-Dumont+Paris"
+        },
+        {
+          "rarity": "Paris'in ortasında bir Roma amfitiyatrosu",
+          "name": "Arènes de Lutèce — 5. arrondissement",
+          "description": "Latin Çeyreği'nde, Rue Monge'daki sıradan bir apartman binasının hemen arkasında MS 1. yüzyıldan kalma bir Gallo-Roma amfitiyatrosu büyük ölçüde unutulmuş halde duruyor. Bir zamanlar 15.000 seyirci alıyordu. Bugün Çarşamba ve Cumartesi öğleden sonraları pétanque (Fransız bocce oyunu) oynayan yerlileri, çimenlerde oynayan çocukları barındırıyor. Giriş tamamen ücretsiz; bilet gişesi yok, tur grubu yok. Paris'in ayakta kalan en eski yapılarından biri. Neredeyse hiç ziyaretçi gelmiyor.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arènes+de+Lutèce+Paris"
+        },
+        {
+          "rarity": "Paris'in en güzel kapalı pasajı",
+          "name": "Galerie Vivienne — 2. arrondissement",
+          "description": "Paris'in 1820'ler ve 1830'lardan kalma 20 kapalı pasajı hayatta. Cam çatılı bu alışveriş galerileri modern alışveriş merkezinin öncülleri. Galerie Vivienne en güzeli: mozaik zeminler, Neoklasik kabartmalar, onlarca yıldır aynı yerde duran bir şarap tüccarı, bir çay salonu, eski ve nadir baskılara odaklanmış bir kitabevi. Rue Vivienne'den girilip ücretsiz, yavaş yavaş gezilmeli. Haussmann her şeyi yıkmadan önce Paris böyle görünüyordu.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Galerie+Vivienne+Paris"
+        },
+        {
+          "rarity": "Bir bakanlığa ait gizli bahçe",
+          "name": "Palais Royal Bahçeleri — 1. arrondissement",
+          "description": "Louvre'dan birkaç adım ötede, Palais Royal bahçeleri üç taraftan sütunlu galerilerle çevrili; çakıl yollar, çeşmeler ve ıhlamur ağaçlarından oluşan sakin bir dikdörtgen. Çevresinde antika tüccarları, bir restoran, avluda Daniel Buren'in çizgili sütunları var. Dünyanın en çok ziyaret edilen kilometrekaresinde bulunmasına rağmen büyük ölçüde huzurlu kalıyor. Kardinal Richelieu ve Mazarin burada yaşadı. Victor Hugo burada yürürdü. Giriş ücretsiz. Sıcak bir öğleden sonra burada vakit geçirilmeli.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jardin+du+Palais+Royal+Paris"
+        },
+        {
+          "rarity": "Doğanın geri aldığı terk edilmiş demiryolu",
+          "name": "La Petite Ceinture — 15./16. arrondissement",
+          "description": "Petite Ceinture 1862'den 1934'e kadar Paris'i çevreleyen dairesel bir demiryoluydu. Yaklaşık bir asırdır terk edilmiş; yabani çiçekler, huş ağaçları, tilkiler ve kimi zaman kent çiftçileri tarafından kısmen geri alınmış. Birkaç bölüm kamuya açık ve ücretsiz; 15. ve 16. arrondissement kesimleri en ilginç olanlar. Sarmaşıkla kaplı eski raylar boyunca yürümek Paris'in sunduğu en tuhaf ve en güzel deneyimlerden biri.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Petite+Ceinture+Paris"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Palais Garnier — dışarıdan ücretsiz, içerisi biletli",
+        "text": "Palais Garnier (Opéra Garnier) dünyanın en görkemli binalarından biri; Phantom of the Opera'nın ilham kaynağı. Büyük merdiveni, salonundaki Marc Chagall tavanı ve altındaki gizli gölüyle mimari açıdan eşsiz. İç mekânı gezmek için bilet gerekiyor; önceden rezervasyon şart. Buna karşın dışarıdan da etkileyici: Place de l'Opéra'da durup cepheyi seyretmek ve çevresinde dolaşmak tamamen ücretsiz."
+      }
+    },
+    "checklist": {
+      "title": "Paris Checklist",
+      "completion_message": "Voilà! Gerçek Paris'i buldun.",
+      "items": [
+        {
+          "label": "Her girdiğin yerde bonjour de — istisnasız",
+          "sub": "Dükkân, kafe, fırın. Her seferinde. Bu her şeyi değiştiriyor."
+        },
+        {
+          "label": "Kuyruğu olan bir fırından croissant al",
+          "sub": "Sabah 10'dan önce. Tezgahta. Kuyruklar yalan söylemez."
+        },
+        {
+          "label": "Güneşli bir sabah Sainte-Chapelle'e git",
+          "sub": "Palais de Justice'in arkasında. Biletli giriş, önceden rezervasyon şart. Güneş cama vururken git."
+        },
+        {
+          "label": "Bastille'den Coulée Verte'de yürü — doğuya doğru",
+          "sub": "Viyadük üzerinde yükseltilmiş bahçe. Ücretsiz. High Line'ın unutulmuş ilham kaynağı."
+        },
+        {
+          "label": "Latin Çeyreği'nde Arènes de Lutèce'i bul",
+          "sub": "Roma amfitiyatrosu. Rue Monge'un arkasında. Pétanque oynayan yerliler. Tamamen ücretsiz."
+        },
+        {
+          "label": "Galerie Vivienne'den geç",
+          "sub": "Paris'in en güzel kapalı pasajı. Rue Vivienne girişi. Ücretsiz. Yavaş yürümek gerekiyor."
+        },
+        {
+          "label": "Bir mahalle bistrosunda hafta içi öğle formülü ye",
+          "sub": "İki çeşit, bir sürahi şarap. Fransız yemeğinin en iyi değeri."
+        },
+        {
+          "label": "Palais Royal bahçelerinde bir saat geçir",
+          "sub": "Louvre'dan birkaç adım. Sakin, güzel, ücretsiz, neredeyse turistsiz."
+        },
+        {
+          "label": "Cumartesi sabahı Marché d'Aligre'ye git",
+          "sub": "12. arrondissement. Paris'in en yerel pazarı. Erken gitmek gerekiyor."
+        },
+        {
+          "label": "69 numaralı otobüsle Paris'i baştan sona geç",
+          "sub": "Eyfel Kulesi'nden Père Lachaise'e. Şehri sokak seviyesinden gösteren ücretsiz tur."
+        },
+        {
+          "label": "Palais Garnier'nin cephesini ve Place de l'Opéra'yı gez",
+          "sub": "İç mekan biletli. Dışarıdan görmek ve çevresinde dolaşmak ücretsiz."
+        },
+        {
+          "label": "11. arrondissement'da İngilizce menüsü olmayan bir doğal şarap barı bul",
+          "sub": "Öneri iste. Onların önerdiğini iç. Mesele bu."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Paris tuzak konusunda ustalaşmış bir şehir; ama kaçış yolları da bir o kadar bilinir. Bu dördünü ezberle.",
+      "items": [
+        {
+          "icon": "💍",
+          "name": "'Altın yüzük' ve imza kampanyası oyunları",
+          "description": "Yerden 'altın yüzük bulan' ve sana vermek isteyen, ya da panoya imza isteyip sonra para talep eden ekipler büyük meydanların klasiği.",
+          "instead": "Durma, gülümse, 'non merci' de ve yürü. Çantan önünde, fermuarı kapalı — Paris metro kuralı."
+        },
+        {
+          "icon": "🥐",
+          "name": "Champs-Élysées'de yemek ve kahve",
+          "description": "Dünyanın en ünlü caddesi, yemek konusunda şehrin en zayıf noktası: turist fiyatına vasat mutfak.",
+          "instead": "Caddeden bir paralel sokağa geç ya da rotayı Marais veya Canal Saint-Martin'e çevir: aynı bütçe, gerçek Paris."
+        },
+        {
+          "icon": "🎨",
+          "name": "Place du Tertre'de 'anında portre' baskısı",
+          "description": "Montmartre'ın ressam meydanında istemeden başlayan portreler pazarlıkla biter; fiyatlar önceden söylenmez.",
+          "instead": "Fiyatı baştan sor ya da sadece izle. Montmartre'ın asıl güzelliği meydandan iki sokak ötede, sessiz merdivenlerde."
+        },
+        {
+          "icon": "🎟️",
+          "name": "Sokakta 'sırayı atlatan bilet' satıcıları",
+          "description": "Eyfel ve Louvre çevresinde 'skip-the-line' diye satılan biletlerin çoğu ya sahte ya fahiş komisyonlu.",
+          "instead": "Bileti yalnızca resmi sitelerden ve tarihli-saatli al; Eyfel doluysa Trocadéro'dan bak, Louvre doluysa Orsay her zaman daha sakin."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Paris'te bir yerin turistik olup olmadığını tek soruyla anlarsın: garson sana Fransızca mı başlıyor? Başlıyorsa doğru yerdesin."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Seine boyunca bir Paris özeti",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Fırın kahvaltısı",
+              "description": "Mahalle fırınından croissant + baguette ucu; kahveni tezgahta iç. Güne Parisli gibi başla."
+            },
+            {
+              "time": "10:00",
+              "title": "Île de la Cité + Sainte-Chapelle",
+              "description": "Notre-Dame'ın meydanı, sonra Sainte-Chapelle'in vitray mucizesi. Bileti önceden al, sabah ışığında gir."
+            },
+            {
+              "time": "12:30",
+              "title": "Marais'de öğle",
+              "description": "Falafel mi bistro mu? İkisi de Marais klasiği. Sonra vitrinler ve Place des Vosges."
+            },
+            {
+              "time": "15:00",
+              "title": "Louvre veya Orsay — birini seç",
+              "description": "İkisini aynı güne sıkıştırmak ikisini de öldürür. Seç, iki saat ver, çık."
+            },
+            {
+              "time": "17:30",
+              "title": "Palais Royal + kahve molası",
+              "description": "Kolonlu avluda nefes al, Galerie Vivienne'den geç, bir kafede pencere kenarı."
+            },
+            {
+              "time": "19:30",
+              "title": "Seine kenarında günbatımı + akşam",
+              "description": "Rıhtımda şarap-peynir pikniği ya da bistroda steak frites. Kapanış: ışıldayan Eyfel'i saat başında yakala."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehri turist gibi değil, misafir gibi yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Merkez ve klasikler",
+              "description": "Yukarıdaki 1 günlük akış: Cité, Marais, büyük müze, Seine."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Sol Yaka + Eyfel",
+              "description": "Sabah Saint-Germain ve Lüksemburg Bahçesi, öğlen Rue Mouffetard, öğleden sonra Rodin Müzesi bahçesi, akşam Eyfel — Trocadéro'dan günbatımı."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Montmartre ve kanal",
+              "description": "Sabah erken Sacré-Cœur ve arka sokaklar, öğleden sonra Canal Saint-Martin'de yürüyüş ve doğal şarap barı, veda yemeği bir mahalle bistrosunda."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Paris'te dil bilmek değil, nezaket bilmek fark yaratır; bu beşi yeter.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bonjur",
+          "meaning": "Merhaba — her şeyin şifresi; söylemeden hiçbir şey isteme"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mersi",
+          "meaning": "Teşekkürler — çıkarken de: merci, au revoir!"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "sil vu ple",
+          "meaning": "Lütfen — un café, s'il vous plaît: en çok kuracağın cümle"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sonte",
+          "meaning": "Şerefe! — kadeh kaldırırken göz teması Fransız kuralı"
+        },
+        {
+          "word": "Au revoir",
+          "pronunciation": "o rövuar",
+          "meaning": "Hoşça kal — dükkandan sessiz çıkmak ayıptır, bunu söyle"
+        }
+      ]
+    }
+  }
+}

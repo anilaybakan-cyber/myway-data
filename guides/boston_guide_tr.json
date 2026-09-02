@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Boston",
+    "country": "ABD",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#274B6D",
+    "color_light": "#E6EDF4",
+    "tagline": "Devrimin doğduğu tuğla sokaklar, chowder buharı ve wicked bir gurur"
+  },
+  "pills": [
+    "Amerikan Devrimi'nin beşiği",
+    "Harvard ve MIT'nin komşusu",
+    "Yürünebilir Amerika'nın başkenti"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Boston'a Hoş Geldin",
+      "intro": "Boston, Amerika'nın en Avrupalı şehridir: tuğla kaldırımlar, gaz lambalı sokaklar ve nehir kıyısında kürek çeken üniversiteliler. Devrim burada mayalandı — Freedom Trail'in kırmızı çizgisi, çay partisinden ilk kurşuna bütün hikayeyi 4 kilometrede anlatır. Nehrin karşısında Harvard ile MIT dünyanın beyin merkezini kurar; North End'in İtalyan fırınları cannoli kokar, limanda istiridye kabukları şıngırdar. Bostonlı aksanıyla, takımlarıyla ve şehriyle 'wicked' gurur duyar — birkaç güne sen de duyarsın.",
+      "local_word": {
+        "word": "Wicked",
+        "pronunciation": "vikid",
+        "definition": "Boston İngilizcesinde 'çok' demek: 'wicked good' (çok iyi), 'wicked smaht' (çok zeki). Kötülükle ilgisi yoktur — vurgu ve gurur katar. Bir Bostonlı chowder'ı 'wicked good' ilan ettiyse tartışma bitmiştir. Kelimeyi doğru yerde kullandığın an şehir seni bağrına basar."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Freedom Trail'i kendi ayağınla yürü",
+          "description": "Kaldırımdaki kırmızı tuğla çizgi 16 durağı kendiliğinden bağlar: haritaya bile gerek yok. Pahalı turlara mecbur değilsin — çizgiyi takip et, durakların çoğu ücretsizdir. Sabah erken başla: Faneuil çevresi öğlen kalabalıklaşır."
+        },
+        {
+          "number": 2,
+          "title": "The T ile dost ol, arabayı unut",
+          "description": "Amerika'nın en eski metrosu şehri yeterince örer; Boston'da araba ise dar sokaklar, agresif sürücüler ve efsanevi park sorunu demektir. CharlieCard al, yeşil-kırmızı hatları çöz — şehir zaten yürünebilir ölçektedir."
+        },
+        {
+          "number": 3,
+          "title": "Nehrin iki yakasını da gez",
+          "description": "Boston yalnız Boston değildir: Charles Nehri'nin karşısı Cambridge'dir — Harvard avluları, MIT koridorları ve kitapçılar. Bir yarım günü karşıya ayır; dönüşte nehir kıyısı Esplanade yürüyüşü, şehrin en güzel 'köprüsüdür'."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Logan (BOS)",
+          "sub": "Merkeze ~15 dk — su taksisi bile var"
+        },
+        {
+          "icon": "🔔",
+          "label": "İmza",
+          "value": "Freedom Trail",
+          "sub": "4 km'lik kırmızı çizgi, 16 durak"
+        },
+        {
+          "icon": "💵",
+          "label": "Para birimi",
+          "value": "Dolar (USD)",
+          "sub": "Kart her yerde, bahşiş %18-20"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "İngilizce",
+          "sub": "R harfleri kayıptır: 'pahk the cah'"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Boston felsefesi",
+        "text": "Bu şehir yürüyerek ve mevsimiyle yaşanır: güz yaprakları, bahar kürekleri, yaz limanı. Programı sıkma — Boston'un en iyi anları bir sahil bankında, bir üniversite avlusunda ya da bir dive bar taburesinde kendiliğinden gelir."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Boston kompakt ve yürünebilirdir; The T eksikleri kapatır, feribotlar limana açar — arabaya gerek yoktur, hatta araba köstektir.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından geliş",
+          "description": "Logan şehrin dibindedir: Mavi hat + Silver Line kombinasyonu merkeze yarım saatte bağlar; su taksisiyle limandan giriş ise şehre en şık merhabadır. Taksi kısa ama tünel trafiğine tabidir."
+        },
+        {
+          "icon": "🚇",
+          "title": "The T",
+          "description": "1897'den beri çalışan Amerika'nın ilk metrosu: renkli hatlar, CharlieCard ile binilir. Green Line tramvay gibi yavaştır ama şirin; Red Line Harvard'a uzanır. Gece erken kapanır — son sefer saatini kontrol et."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürünebilir şehir",
+          "description": "Boston Amerika'nın en yürünebilir şehridir: Beacon Hill'den North End'e, Common'dan limana her şey adım mesafesinde. Tuğla kaldırımlar topuk sevmez — rahat ayakkabı, Freedom Trail'in resmi ekipmanıdır."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Feribot ve liman",
+          "description": "Charlestown feribotu Long Wharf'tan USS Constitution'a on dakikada süzülür: ulaşım fiyatına liman turu. Yazın liman adalarına (Spectacle, Georges) feribotlar kalkar — şehrin en az bilinen kaçamağı."
+        },
+        {
+          "icon": "🚲",
+          "title": "Bluebikes ve Esplanade",
+          "description": "Şehir bisikleti istasyonları her köşededir: Charles kıyısı Esplanade ve Memorial Drive rotaları düz ve manzaralıdır. Pazar günleri nehir kıyısı yolların bir bölümü araçlara kapanır — pedal için altın saat."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Liman tüyosu",
+        "text": "Güneşli bir öğleden sonra Long Wharf'tan Charlestown feribotuna bin: silüet, süzülen yelkenliler ve USS Constitution tek seferde. Dönüşte North End'e yürü, cannoli kuyruğuna gir — Boston'un en verimli iki saati budur."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Boston'da seçim atmosfer seçimidir: Beacon Hill'in gaz lambaları, North End'in fırın kokusu, Cambridge'in kampüs ritmi.",
+      "local_word": {
+        "word": "Triple-decker",
+        "pronunciation": "tripıl-dekır",
+        "definition": "Üç katlı, her katı ayrı daire olan ahşap Boston evi: işçi göçünün yüzyıllık mimari mirası. Dorchester'dan Somerville'e mahalleler bu evlerle örülüdür — verandalı cepheleri şehrin gündelik yüzüdür. İçinde kalmasan da tanı: Boston'ı Boston yapan sokak dokusu budur."
+      },
+      "items": [
+        {
+          "name": "Back Bay",
+          "badge": "En zarif",
+          "badge_type": "vibe",
+          "description": "Kahverengi taş (brownstone) sıra evler, Newbury Street alışverişi ve Copley Meydanı: Boston'ın en fotojenik mahallesi. Her yere yürünür — ilk gelişin klasik ve şık üssü.",
+          "tags": [
+            "Brownstone sokaklar",
+            "Newbury alışverişi",
+            "Merkezi konum"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Back+Bay+Boston"
+        },
+        {
+          "name": "Beacon Hill",
+          "badge": "Tarihin içi",
+          "badge_type": "vibe",
+          "description": "Gaz lambalı, arnavut kaldırımlı tepe mahalle: Acorn Street'in kartpostal karesi burada. Butik oteller sınırlı ve değerli — tarihi atmosferde uyanmak isteyene.",
+          "tags": [
+            "Gaz lambaları",
+            "Acorn Street",
+            "Common'a komşu"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Beacon+Hill+Boston"
+        },
+        {
+          "name": "North End",
+          "badge": "İtalyan ruhu",
+          "badge_type": "local",
+          "description": "Dar sokaklar, fırınlar ve pasta dükkanları: Amerika'nın en eski İtalyan mahallesi. Akşamları canlı, sabahları espresso kokuludur — sofra odaklı konaklamanın adresi.",
+          "tags": [
+            "Fırın kokusu",
+            "Dar sokaklar",
+            "Limana yürüme"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=North+End+Boston"
+        },
+        {
+          "name": "Cambridge",
+          "badge": "Kampüs ritmi",
+          "badge_type": "value",
+          "description": "Harvard Meydanı'nın kitapçıları, kafeleri ve sokak müzisyenleri: nehrin karşı yakasının entelektüel havası. Red Line ile merkez 15 dakika — fiyatlar bir gömlek insaflı.",
+          "tags": [
+            "Harvard Meydanı",
+            "Kitapçı kafeler",
+            "Red Line üstünde"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Harvard+Square+Cambridge"
+        },
+        {
+          "name": "Seaport",
+          "badge": "Yeni liman",
+          "badge_type": "hot",
+          "description": "Cam kulelerin, deniz mahsulü restoranlarının ve müzelerin yeni bölgesi: liman yürüyüşü kapının dibinde. Modern otel arayana — merkeze yürüme ya da kısa sürüş.",
+          "tags": [
+            "Liman yürüyüşü",
+            "Modern oteller",
+            "İstiridye barları"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Seaport+Boston"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Boston mevsim şehridir: güz yaprak şöleni, bahar mezuniyet ve kürek, yaz liman keyfi, kış sert ama içten.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Kürekler ve Manolyalar",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Nehirde kürekçiler, çiçekli brownstone'lar",
+          "description": "Nisan manolyaları Back Bay cephelerini süsler, Charles Nehri kürek ekipleriyle dolar, Marathon Pazartesisi şehri bayrama çevirir. Hava kararsızdır ama enerji yüksektir — mezuniyet haftalarında oteller dolar.",
+          "callout": {
+            "type": "warning",
+            "label": "Maraton notu",
+            "text": "Nisan ortasındaki Patriots' Day'de Boston Maratonu şehri ele geçirir: yollar kapanır, oteller aylar önce dolar. Koşuyu izlemek istiyorsan Beacon Street'e kur; istemiyorsan o hafta sonunu atla."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Liman Mevsimi",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Ilık akşamlar, ada feribotları, açık hava konserleri",
+          "description": "Yaz Boston'ı limana taşınır: ada feribotları, istiridye barlarının terasları ve Esplanade'ın açık hava konserleri. Nem ara ara bastırır ama deniz meltemi yetişir — şehrin en sosyal mevsimi budur.",
+          "callout": {
+            "type": "tip",
+            "label": "Temmuz ipucu",
+            "text": "4 Temmuz'da Esplanade'daki Boston Pops konseri + havai fişek Amerika'nın en meşhur kutlamalarındandır: yer kapmak sabah işidir. Sakin alternatif: havai fişeği Cambridge kıyısından izle."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "New England Yaprak Şöleni",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Kızıl kampüsler, berrak gökyüzü",
+          "description": "Ekim Boston'ın tacıdır: Common ve kampüsler kızıla döner, hava berrak ve yürüyüş dostudur. Head of the Charles kürek yarışı nehri şenliğe çevirir — New England güzü şehirde bile şölendir.",
+          "callout": {
+            "type": "tip",
+            "label": "Ekim ipucu",
+            "text": "Ekim ortasında Head of the Charles hafta sonunda nehir kıyısına in: dünyanın en büyük kürek yarışını köprülerden izle. Yaprak turu için Arnold Arboretum'a bir sabah ayır — şehir içinde orman şöleni."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Nor'easter ve Sıcak Chowder",
+          "months": "Ara – Mar",
+          "subtitle": "Kış · Karlı brownstone'lar, buğulu pub camları",
+          "description": "Boston kışı ciddidir: nor'easter fırtınaları kar yağdırır, rüzgar iliklere işler. Karşılığı ise kartpostal Beacon Hill, boş müzeler ve buğulu pub'larda chowder'dır. Şehir kışın da çalışır — sen de katmanlı giyin, çalış.",
+          "callout": {
+            "type": "tip",
+            "label": "Ocak ipucu",
+            "text": "Kar sonrası sabah Acorn Street'e git: gaz lambaları, karlı kaldırım ve tuğla cepheler — Boston'un en ünlü karesi en güzel bu halinde çekilir. Donan elleri sıcak clam chowder kasesi çözer."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Boston sofrası denizin ve göçün ortaklığıdır: chowder buharı, ıstakoz rulosu, İtalyan fırınları ve Dunkin bardağı — hepsi şehir kimliği.",
+      "local_word": {
+        "word": "Chowda",
+        "pronunciation": "çauda",
+        "definition": "Clam chowder'ın Boston aksanıyla söylenişi: kremalı, deniz tarağı dolu, yanında oyster cracker'la gelen New England klasiği. Kırmızı (Manhattan) versiyonunu Boston'da ağzına alma — burada chowder beyazdır, koyudur ve milli meseledir."
+      },
+      "items": [
+        {
+          "icon": "🥣",
+          "name": "New England clam chowder",
+          "description": "Kremalı, deniz taraklı, patatesli çorba: soğuk günün mutlak cevabı. Ekmek kasesinde (bread bowl) ya da klasik kasede — üstüne oyster cracker kır, tartışmaya girme: beyaz olanı gerçektir.",
+          "tag": "Milli kase · oyster cracker'la",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=clam+chowder+Boston"
+        },
+        {
+          "icon": "🦞",
+          "name": "Lobster roll",
+          "description": "Tereyağlı kızarmış ekmekte ıstakoz: soğuk mayonezli (Maine usulü) ya da sıcak tereyağlı (Connecticut usulü). Liman kenarında, patates kızartması eşliğinde — fiyatı ciddi, mutluluğu garantidir.",
+          "tag": "Liman klasiği · sıcak tereyağlı dene",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=lobster+roll+Boston"
+        },
+        {
+          "icon": "🥯",
+          "name": "North End cannoli düellosu",
+          "description": "Mike's mi Modern mi: şehrin en tatlı kavgası. Çıtır kabuk, ricotta dolgu ve kuyruk — iki fırını da dene, kendi tarafını seç. Yanına espresso, İtalyan mahallesinin adabıdır.",
+          "tag": "Tatlı düello · iki fırın da dene",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=cannoli+North+End+Boston"
+        },
+        {
+          "icon": "🦪",
+          "name": "İstiridye barı ritüeli",
+          "description": "Wellfleet ve Island Creek istiridyeleri buz üstünde, mignonette ile: Boston'ın asırlık istiridye barları Amerika'nın en eskileridir. Happy hour saatlerinde tezgah fiyatları dostlaşır.",
+          "tag": "Buz üstünde · happy hour tüyosu",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=oyster+bar+Boston"
+        },
+        {
+          "icon": "🍩",
+          "name": "Dunkin ritüeli",
+          "description": "Boston'da Dunkin bir zincir değil kimliktir: köşe başına bir şube, elde iced coffee — kışın bile. 'Regulah' dersen kremalı-şekerli gelir; şehre uyum sağlamanın en ucuz yolu budur.",
+          "tag": "Şehir kimliği · kışın bile buzlu",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dunkin+Boston"
+        },
+        {
+          "icon": "🍰",
+          "name": "Boston cream pie",
+          "description": "Adı pasta olan kek: vanilya kremalı, çikolata sırlı katman klasiği — şehrin adını taşıyan resmi tatlı. İcat edildiği oteldeki hali ziyaret sebebi, fırın versiyonları gündelik ödüldür.",
+          "tag": "Şehrin tatlısı · kremalı katman",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Boston+cream+pie"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sofra kuralı",
+        "text": "Faneuil-Quincy Market çevresi turist fiyatına vasat sunar: chowder ve ıstakozu liman kenarı köklü barlara, pastayı North End fırınlarına bırak. Bahşiş %18-20 — tezgah servisi hariç, oturduysan geçerlidir."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Freedom Trail'i herkes yürür; bu altısı Boston'un kitap kokulu, deniz esintili saklı sayfaları.",
+      "items": [
+        {
+          "rarity": "Cam kürenin içinde dünya",
+          "name": "Mapparium",
+          "description": "1935'ten kalma üç katlı vitray dünya küresinin İÇİNDEN geçersin: cam köprüde durup 1935 sınırlarına bakarsın, akustik fısıltıyı karşı kıyıya taşır. Boston'ın en tuhaf ve en unutulmaz yarım saati.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mapparium+Boston"
+        },
+        {
+          "rarity": "Şehir plajlı kale",
+          "name": "Castle Island",
+          "description": "South Boston'da yürüyerek varılan kale + sahil: Fort Independence'ın çimleri, uçak inişleri ve Sullivan's tezgahından sosisli. Yerlinin hafta sonu klasiği — turist haritasında çoğu kez yoktur.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Castle+Island+Boston"
+        },
+        {
+          "rarity": "Pazar günü sanat pazarı",
+          "name": "SoWa Open Market",
+          "description": "South End'in eski depo bölgesi pazar günleri sanatçı tezgahları, yemek kamyonları ve vintage pazarıyla açılır: galeri katları da gezilir. Boston'ın en keyifli pazar ritüeli.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=SoWa+Open+Market+Boston"
+        },
+        {
+          "rarity": "Şehir içinde orman",
+          "name": "Arnold Arboretum",
+          "description": "Harvard'ın 281 dönümlük ağaç koleksiyonu: Emerald Necklace park zincirinin mücevheri. Ekimde yaprak, mayısta leylak şöleni — giriş ücretsiz, kalabalık uzak.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arnold+Arboretum"
+        },
+        {
+          "rarity": "En ünlü kare, en sakin saat",
+          "name": "Acorn Street sabahı",
+          "description": "Amerika'nın en çok fotoğraflanan sokağı gün ortasında kuyruklu, sabah 07.00'de bomboştur: arnavut kaldırımı, gaz lambaları ve sardunyalar sana kalır. Beacon Hill'in ara sokaklarıyla birleştir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Acorn+Street+Boston"
+        },
+        {
+          "rarity": "Liman boyu patika",
+          "name": "Harborwalk",
+          "description": "Limanı saran yürüyüş yolu: Seaport'tan North End'e iskeleler, parklar ve silüet manzaraları. Gün batımında Fan Pier bölümü — şehrin en az bilinen en iyi yürüyüşü.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Harborwalk+Boston"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sakin saat stratejisi",
+        "text": "Boston'ın inceliği erken saatte açılır: Acorn Street 07.00'de, Freedom Trail 08.00'de, Harvard avlusu ders saatinde. Kalabalık öğlene doğru gelir — sen sabahı al, öğleni müzeye ve sofraya bırak."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Boston dürüst bir şehirdir; tuzakları tarihi ünvanların gölgesinde saklanır — bu dördünü bil.",
+      "items": [
+        {
+          "icon": "🍺",
+          "name": "'Cheers' bar hayal kırıklığı",
+          "description": "Dizinin 'ilham verdiği' bar turist kuyruğu, hediyelik tezgahı ve sıradan bir menü sunar: içerisi dizideki seti bile değildir.",
+          "instead": "Fotoğrafı dışarıdan çek, birayı Beacon Hill'in gerçek mahalle pub'larında iç. Boston'ın asıl 'herkesin adını bildiği' barları, köşe başındaki köklü dive bar'lardır."
+        },
+        {
+          "icon": "🦞",
+          "name": "Quincy Market'te ıstakoz fiyatı",
+          "description": "Turist pazarındaki tezgahlar küçük lobster roll'u zirve fiyata satar; kalabalıkta ayakta yersin, lezzet ortalamadır.",
+          "instead": "Birkaç sokak yürü: liman kenarı köklü istiridye barları ve Seaport lokantaları aynı parayla ciddi ıstakoz verir. Quincy Market'i binası için gez, sofran için değil."
+        },
+        {
+          "icon": "🚗",
+          "name": "Boston'da araba kiralamak",
+          "description": "Dar tek yönlü sokaklar, agresif sürüş kültürü ve günlük 40-60 dolarlık otopark: araba Boston'da özgürlük değil yüktür.",
+          "instead": "The T + yürüyüş + feribot üçlüsü şehri tamamen kapsar; günübirlik New England kaçamağı için sadece o güne araç kirala. 'Pahk the cah' esprisi gerçeğe dayanır — park yeri yoktur."
+        },
+        {
+          "icon": "🎓",
+          "name": "Harvard turu tellalları",
+          "description": "Harvard Meydanı'nda bazı 'resmi kampüs turu' satıcıları, ücretsiz gezilen avlular için bilet keser; anlatı vasat, rota kısadır.",
+          "instead": "Kampüs avluları halka açıktır: kendi başına yürü, John Harvard heykelinin 'üç yalanını' okuyup gül. Öğrenci kulüplerinin ücretsiz/bahşişli turları en eğlenceli anlatıyı sunar."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Boston'da tarih ücretsizdir: Freedom Trail'in çizgisi, kampüs avluları ve liman yürüyüşü para istemez. Bütçeyi chowder, istiridye ve bir Fenway biletine sakla — gerisini tuğla kaldırımlar bedavaya anlatır."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Kırmızı çizgiden cannoli kuyruğuna",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "Beacon Hill ve Acorn Street",
+              "description": "Gaz lambalı sokaklarda sabah yürüyüşü: Acorn Street henüz boşken kartpostalını çek, Common'a in."
+            },
+            {
+              "time": "09:30",
+              "title": "Freedom Trail — ilk yarı",
+              "description": "Common'dan başla: eyalet binası, mezarlıklar, Old State House ve katliam noktası. Kırmızı çizgi rehberindir."
+            },
+            {
+              "time": "12:30",
+              "title": "Chowder molası",
+              "description": "Liman kenarında clam chowder + oyster cracker: soğuksa ekmek kasesinde. 'Wicked good' demeyi unutma."
+            },
+            {
+              "time": "14:00",
+              "title": "North End ve Old North Church",
+              "description": "İtalyan mahallesinin dar sokaklarından Paul Revere'in rotasına: 'iki fenerin' kilisesi ve tarihi ev."
+            },
+            {
+              "time": "16:00",
+              "title": "Feribotla Charlestown",
+              "description": "Long Wharf'tan tekneyle USS Constitution'a: dünyanın en eski yüzen savaş gemisi ve Bunker Hill dikilitaşı."
+            },
+            {
+              "time": "19:00",
+              "title": "Cannoli ve pub kapanışı",
+              "description": "North End'e dön: cannoli düellosunda tarafını seç, akşamı köklü bir pub'da yerel birayla kapat."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Devrim, kampüs ve liman — tam Boston",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Boston",
+              "description": "Yukarıdaki 1 günlük akış: Beacon Hill, Freedom Trail, chowder, North End, Charlestown, cannoli gecesi."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Cambridge ve nehir",
+              "description": "Sabah Red Line ile Harvard: avlular, kitapçılar ve meydan kahvesi; öğlen MIT kampüsü ve müzesi; ikindi Esplanade yürüyüşü ya da Bluebikes ile nehir turu; akşam Back Bay'de Newbury sofrası."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Sanat, park ve Fenway",
+              "description": "Sabah Isabella Stewart Gardner ya da MFA; öğlen SoWa (pazarsa) ya da Arnold Arboretum; ikindi Fenway Park turu — maç varsa tribün bileti; veda akşamı istiridye barında happy hour + lobster roll."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Boston aksanı R harflerini yutar ama gönlü geniştir; bu beş ifade şehirle aranı wicked hızlı ısıtır.",
+      "items": [
+        {
+          "word": "Wicked",
+          "pronunciation": "vikid",
+          "meaning": "Çok — 'wicked good' dersen Bostonlı gülümser; şehrin resmi zarfı"
+        },
+        {
+          "word": "The T",
+          "pronunciation": "dı ti",
+          "meaning": "Metronun adı — 'take the T' şehrin ulaşım cümlesi"
+        },
+        {
+          "word": "Dunks",
+          "pronunciation": "danks",
+          "meaning": "Dunkin'in yerli adı — 'Dunks run' kahve molasının resmi ilanı"
+        },
+        {
+          "word": "Pahk the cah",
+          "pronunciation": "pak dı ka",
+          "meaning": "'Park the car'ın aksanlı efsanesi — esprisini yerliden önce sen yap"
+        },
+        {
+          "word": "Go Sox!",
+          "pronunciation": "gou saks",
+          "meaning": "Red Sox tezahüratı — Fenway civarında söyle, anında dost kazan"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Boston Checklist",
+      "completion_message": "Wicked good! Devrimin şehrini hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Freedom Trail'in kırmızı çizgisini yürü",
+          "sub": "Common'dan Bunker Hill'e — kendi ayağınla"
+        },
+        {
+          "label": "Acorn Street'i sabah boşken çek",
+          "sub": "Gaz lambaları ve arnavut kaldırımı"
+        },
+        {
+          "label": "Clam chowder'ı oyster cracker'la iç",
+          "sub": "Beyaz olanı — liman kenarında"
+        },
+        {
+          "label": "North End'de cannoli düellosuna katıl",
+          "sub": "İki fırını da dene, tarafını seç"
+        },
+        {
+          "label": "Feribotla USS Constitution'a geç",
+          "sub": "Long Wharf'tan — liman turu dahil"
+        },
+        {
+          "label": "Harvard avlusunda 'üç yalanı' bul",
+          "sub": "John Harvard heykelinin sırrı"
+        },
+        {
+          "label": "Mapparium'un cam küresine gir",
+          "sub": "1935 dünyası, fısıltı akustiği"
+        },
+        {
+          "label": "Lobster roll'u liman kenarında ye",
+          "sub": "Sıcak tereyağlı versiyonu dene"
+        },
+        {
+          "label": "Esplanade'da nehir kıyısı yürü",
+          "sub": "Kürekçiler ve gün batımı eşliğinde"
+        },
+        {
+          "label": "Fenway Park'ı gör — maç ya da tur",
+          "sub": "Yeşil Canavar'ın gölgesinde"
+        }
+      ]
+    }
+  }
+}

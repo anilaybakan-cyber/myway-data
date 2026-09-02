@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "city": "Milano",
+    "country": "Italy",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#1A1A2E",
+    "color_light": "#EAEAF5",
+    "tagline": "Moda, design, calcio e il miglior aperitivo del mondo — in quest'ordine.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Prenota Il Duomo in anticipo",
+    "L'aperitivo è la cena",
+    "La domenica è sacra"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Benvenuti a Milano",
+      "intro": "Milano non cerca di incantarti. Non ne ha bisogno. È una città che lavora — la capitale finanziaria e della moda d'Italia, piena di persone con un posto dove andare, che non si esibiscono per nessuno. Ma proprio sotto quella superficie fredda, sta succedendo qualcosa di completamente diverso: il più grande capolavoro di Leonardo da Vinci su una parete di convento, una cattedrale gotica in costruzione da sei secoli, una colonia di fenicotteri che vivono in un giardino privato a due isolati dal centro città, e una cultura dell'aperitivo così generosa da equivalere a una cena gratuita con ogni bevanda. Milano impiega un momento per aprirsi. Concedile quel momento.",
+      "local_word": {
+        "word": "Aperitivo",
+        "pronunciation": "ah-peh-REE-tee-voh",
+        "definition": "Non solo un drink prima di cena — un'istituzione sociale. Ogni sera dalle 18:00 alle 21:00, i bar di Milano si trasformano: ordina un drink e apparirà una selezione di cibo. In alcuni posti è un buffet completo. In altri, solo qualche stuzzichino. In ogni caso, è il grande rituale democratico della città — il momento in cui direttori finanziari e studenti d'arte siedono allo stesso bancone e la serata ha inizio."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Prenota in anticipo tutto ciò che conta",
+          "description": "L'Ultima Cena di Leonardo (Santa Maria delle Grazie) è una delle visite più regolamentate al mondo — solo 30 persone ammesse alla volta, per un massimo di 15 minuti. I biglietti vanno esauriti settimane, a volte mesi prima. La terrazza del Duomo, la Pinacoteca di Brera, il Cenacolo Vinciano — prenota tutto questo prima del tuo arrivo. Presentarsi il giorno stesso garantisce una delusione."
+        },
+        {
+          "number": 2,
+          "title": "L'aperitivo non è uno spuntino — è la cena",
+          "description": "L'aperitivo milanese inizia alle 18:00 e prosegue fino alle 21:00 circa. Ordina uno Spritz, un Negroni o un Campari Soda e arriverà una selezione di cibo — a volte un buffet completo, sempre sostanzioso. È così che la città cena nelle sere feriali. Non mangiare prima. Non avere fretta. Siediti, bevi, stuzzica e guarda Milano rilassarsi dopo il lavoro."
+        },
+        {
+          "number": 3,
+          "title": "La domenica si ferma — pianifica di conseguenza",
+          "description": "Più della maggior parte delle città italiane, Milano osserva la domenica. I negozi chiudono, molti ristoranti serrano i battenti, il quartiere della moda si fa silenzioso. Il lato positivo: i musei sono meno affollati, i parchi si riempiono di gente del posto e la città mostra un volto più lento e residenziale. Pianifica le tue visite ai musei e le giornate al parco per la domenica e lo shopping per qualsiasi altro giorno."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeroporto",
+          "value": "Linate (LIN) or Malpensa (MXP)",
+          "sub": "Linate · 30 min · centro città · Malpensa · 50 min · Malpensa Express"
+        },
+        {
+          "icon": "🚇",
+          "label": "Trasporti",
+          "value": "Metro + tram",
+          "sub": "L'abbonamento giornaliero ATM copre tutte le linee"
+        },
+        {
+          "icon": "🕕",
+          "label": "Aperitivo",
+          "value": "18:00–21:00",
+          "sub": "Un drink, cibo illimitato. Il miglior pasto della città."
+        },
+        {
+          "icon": "👗",
+          "label": "Codice di abbigliamento",
+          "value": "Milano ci fa caso",
+          "sub": "Non una regola — una cultura. Vestiti bene e la città si aprirà."
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La vera Milano",
+        "text": "Milano premia la lentezza mascherata da efficienza. I milanesi si muovono velocemente ma vivono bene. Non correre da un punto di riferimento all'altro — trova un quartiere, trova un bar, ordina un Campari e lascia che la città si riveli al suo ritmo. La Milano migliore è quella in cui ti imbatti per caso."
+      }
+    },
+    "transport": {
+      "title": "Muoversi in città",
+      "intro": "Milano vanta una delle migliori reti di trasporto pubblico d'Italia. La metropolitana è pulita, veloce e ben organizzata. Tra metro, tram e autobus, quasi tutto è raggiungibile senza ricorrere a un taxi.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeroporto di Linate (LIN) → Centro città",
+          "description": "Linate è l'aeroporto più vicino, a soli 7 km dal centro città. La linea metropolitana M4 (linea blu), inaugurata nel 2023, collega Linate direttamente al centro in circa 30 minuti. L'autobus 73 è l'alternativa più economica ma più lenta. Il taxi è costoso. Se atterri a Linate, la M4 è la scelta più ovvia."
+        },
+        {
+          "icon": "✈️",
+          "title": "Aeroporto di Malpensa (MXP) → Centro città",
+          "description": "Malpensa si trova 50 km a nord-ovest della città: più distante, ma gestisce più voli internazionali. Il treno Malpensa Express collega direttamente Milano Centrale (50 min) o Cadorna (40 min) ogni 30 minuti. È l'opzione più veloce e affidabile. Esistono navette condivise, ma allungano notevolmente i tempi. I taxi da Malpensa sono molto costosi."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro — veloce e ben organizzata",
+          "description": "La metropolitana di Milano ha quattro linee (M1 rossa, M2 verde, M3 gialla, M4 blu) che coprono tutte le aree principali. È veloce, pulita e funziona fino a mezzanotte nei giorni feriali, più tardi nei fine settimana. Puoi usare la tua carta contactless o acquistare un biglietto singolo o un pass giornaliero in qualsiasi stazione. Il pass giornaliero è un'ottima soluzione se prevedi di fare più di tre viaggi. Ricorda di convalidare il biglietto prima di salire."
+        },
+        {
+          "icon": "🚃",
+          "title": "Tram — il modo più autentico",
+          "description": "Gli storici tram arancioni di Milano sono una delle caratteristiche più affascinanti della città; alcuni sono in servizio dagli anni '20. Sono più lenti della metro, ma coprono aree non raggiunte dalla sotterranea e offrono una vista in movimento della città. La linea 1 da Piazza Castello a Piazza XXIV Maggio è uno dei più bei percorsi tramviari urbani d'Europa. Stesso biglietto della metro."
+        },
+        {
+          "icon": "🚲",
+          "title": "BikeMi — le bici della città",
+          "description": "Il sistema di bike sharing pubblico di Milano, con centinaia di stazioni in tutta la città. Ottimo per le zone centrali pianeggianti, per le passeggiate lungo i Navigli e per raggiungere il Parco Sempione dal centro. Registrati online o tramite l'app. Bici elettriche disponibili anche in stazioni selezionate."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Pass giornaliero ATM",
+        "text": "Se trascorri un'intera giornata in città, il pass giornaliero ATM copre viaggi illimitati su metro, tram e autobus. Acquistalo in qualsiasi stazione della metro o in tabaccheria. È molto più conveniente dei biglietti singoli se ti sposti spesso, e lo farai!"
+      }
+    },
+    "stay": {
+      "title": "Dove Alloggiare",
+      "intro": "I quartieri di Milano hanno caratteri profondamente diversi. La scelta giusta dipende interamente dal tipo di città in cui desideri svegliarti.",
+      "local_word": {
+        "word": "Navigli",
+        "pronunciation": "na-VEE-lyee",
+        "definition": "Il quartiere dei canali nel sud-ovest di Milano — un tempo progetto ingegneristico di Leonardo da Vinci, ora il quartiere più bohémien della città. I due canali principali, Naviglio Grande e Naviglio Pavese, sono fiancheggiati da bar, ristoranti, negozi di antiquariato e atelier. L'ultima domenica del mese, il Mercatone dell'Antiquariato riempie l'intera sponda del canale con uno dei più grandi mercati delle pulci d'Italia."
+      },
+      "items": [
+        {
+          "name": "Brera",
+          "badge": "Il più bello",
+          "badge_type": "vibe",
+          "description": "Il quartiere più pittoresco di Milano — strade acciottolate, gallerie d'arte, boutique indipendenti, la magnifica Pinacoteca di Brera. Centrale, percorribile a piedi e di un'eleganza innata. I bar da aperitivo qui sono tra i migliori della città. Più costoso di altre zone, ma sinceramente uno dei quartieri urbani più raffinati d'Italia.",
+          "tags": [
+            "Pinacoteca di Brera",
+            "Gallerie d'arte",
+            "Miglior aperitivo"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo+Milano"
+        },
+        {
+          "name": "Navigli",
+          "badge": "Il più suggestivo",
+          "badge_type": "local",
+          "description": "Il quartiere dei canali. Bohémien, creativo e vivo a tutte le ore. Il Naviglio Grande e il Naviglio Pavese sono fiancheggiati da bar, ristoranti e studi. La scena dell'aperitivo qui è leggendaria — alcuni dei buffet più generosi della città. Leggermente più lontano dal Duomo, ma la metro ti ci porta in pochi minuti. Il mercato delle pulci dell'ultima domenica è imperdibile.",
+          "tags": [
+            "Bar sui canali",
+            "Scena aperitivo",
+            "Mercato delle pulci mensile"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Brera+Milano"
+        },
+        {
+          "name": "Isola",
+          "badge": "Il più autentico",
+          "badge_type": "hot",
+          "description": "Un tempo un'isola operaia tagliata fuori dalle linee ferroviarie, Isola è ora il quartiere più interessante di Milano — ristoranti indipendenti, studi di design, street art e le spettacolari torri del Bosco Verticale. Genuinamente locale, genuinamente creativo, non ancora invaso. L'area intorno a Piazza Garibaldi e Corso Como è una delle migliori della città.",
+          "tags": [
+            "Bosco Verticale",
+            "Ristoranti indipendenti",
+            "Scena del design"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Navigli+Milano"
+        },
+        {
+          "name": "Porta Romana & Tortona",
+          "badge": "Distretto del design",
+          "badge_type": "vibe",
+          "description": "Il cuore del design e della moda della città — particolarmente elettrizzante durante il Salone del Mobile ad aprile. Ex edifici industriali ora ospitano le gallerie, gli showroom e i concept store più importanti della città. La Fondazione Prada si trova qui. Più tranquillo al di fuori della settimana del design, ma profondamente interessante tutto l'anno.",
+          "tags": [
+            "Fondazione Prada",
+            "Gallerie di design",
+            "Salone del Mobile"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Isola+Milano"
+        },
+        {
+          "name": "Città Studi",
+          "badge": "Miglior rapporto qualità-prezzo",
+          "badge_type": "value",
+          "description": "Il quartiere universitario a est del centro. Giovane, conveniente e genuinamente locale — buone trattorie, bar di quartiere, il meraviglioso Orto Botanico. Più lontano dalle attrazioni turistiche ma ben collegato con metro e tram. L'area intorno a Piazza Leonardo da Vinci ha un'energia calma e studiosa molto diversa dall'intensità del quartiere della moda.",
+          "tags": [
+            "Energia universitaria",
+            "Conveniente",
+            "Buone trattorie"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Porta+Romana+Milano"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Il Periodo Migliore per Visitare",
+      "intro": "Milano è una città di stagioni — ognuna trasforma completamente il suo carattere. Anche il calendario della moda e del design plasma il ritmo della città in modi che vale la pena conoscere.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Design Week",
+          "months": "Mar – Mag",
+          "subtitle": "Primavera · Design Week & Clima Perfetto",
+          "description": "Aprile porta il Salone del Mobile — la fiera di design più importante del mondo — e Milano si trasforma completamente. L'intera città diventa una mostra di design a cielo aperto, con eventi, installazioni e feste che spuntano da ogni angolo. Fuori dalla settimana del design, la primavera offre un clima ideale, i ciliegi in fiore nel Parco Sempione e una città in piena energia. Il periodo più emozionante per essere qui.",
+          "callout": {
+            "type": "tip",
+            "label": "Da non perdere",
+            "text": "Salone del Mobile (aprile): la fiera in sé è enorme, ma la vera azione è il Fuorisalone — centinaia di eventi in tutta la città, la maggior parte gratuiti. Il Brera Design District e Tortona sono gli epicentri."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Estate",
+          "name": "Calda & Autentica",
+          "months": "Giu – Ago",
+          "subtitle": "Estate · Calda, Tranquilla, Sorprendentemente Autentica",
+          "description": "Agosto è il mese in cui i milanesi partono per la costa o la montagna e la città si svuota. I ristoranti chiudono, le strade si fanno silenziose e una strana calma scende su una delle città più frenetiche d'Europa. Luglio è caldo e umido ma perfettamente funzionale — meno turisti, code più brevi, prezzi più bassi. La scena dell'aperitivo continua imperterrita. Non è l'alta stagione convenzionale, ma ha un suo fascino particolare.",
+          "callout": {
+            "type": "warning",
+            "label": "Attenzione ad agosto",
+            "text": "Molti ristoranti e negozi chiudono per 2-3 settimane a metà agosto (Ferragosto). Controllate sempre in anticipo. Il lato positivo: i musei sono più vuoti che in qualsiasi altro periodo dell'anno."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autunno",
+          "name": "Fashion Week",
+          "months": "Set – Nov",
+          "subtitle": "Autunno · Fashion Week & Luce Dorata",
+          "description": "Settembre porta la Milano Fashion Week — l'altra grande trasformazione della città. Le strade si riempiono di editor, buyer e fotografi; i ristoranti diventano inaccessibili senza prenotazione; l'energia è elettrica. Fuori dalla settimana della moda, settembre e ottobre offrono una luce dorata, prodotti del raccolto nei mercati e una città che si adagia nella sua stagione più vivibile.",
+          "callout": {
+            "type": "tip",
+            "label": "Da non perdere",
+            "text": "Milano Fashion Week (settembre): non serve un invito per viverla. La strada fuori dalle sfilate è uno spettacolo in sé. Posizionatevi vicino agli show a Brera e osservate l'arrivo delle persone meglio vestite del mondo."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Inverno",
+          "name": "Nebbia & Magia",
+          "months": "Dic – Feb",
+          "subtitle": "Inverno · Nebbia, Risotto & La Scala",
+          "description": "Milano in inverno è nebbia, trattorie a lume di candela, risotto alla milanese e la straordinaria stagione operistica della Scala. La città è al suo massimo dell'intimità — solo gente del posto, pochi turisti, il quartiere della moda tranquillo. Mercatini di Natale in Piazza Duomo e lungo i Navigli. Gennaio è il mese più tranquillo e autentico. Febbraio porta il Carnevale e inizia a crescere la prima energia della settimana del design.",
+          "callout": {
+            "type": "tip",
+            "label": "Segreto locale",
+            "text": "La stagione della Scala va da ottobre a luglio, con le prime più prestigiose a dicembre. A volte compaiono biglietti last-minute sul sito ufficiale. Anche un posto in piedi è un'esperienza straordinaria."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "April",
+          "text": "Salone del Mobile + Design Week: la capitale mondiale del design per una settimana; installazioni a cielo aperto ovunque, gli hotel si riempiono in anticipo."
+        },
+        {
+          "month": "September",
+          "text": "Fashion Week: le strade diventano una passerella; il Quadrilatero per avvistare celebrità, un paradiso per osservare la gente per tutti gli altri."
+        },
+        {
+          "month": "December 7",
+          "text": "Sant'Ambrogio + Oh Bej! Oh Bej!: il giorno del patrono, il mercato tradizionale e la prima della Scala — il giorno più milanese di Milano."
+        },
+        {
+          "month": "June–August",
+          "text": "Sere d'estate: Navigli e Isola restano aperti fino a tardi; a metà agosto la città appartiene ai milanesi e molti negozi vanno in vacanza."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Cosa Mangiare",
+      "intro": "La cucina milanese non assomiglia a quella del resto d'Italia — e i milanesi ne vanno fieri. Più ricca, con cotture più lente, maggiormente influenzata dal nord. Questa è la città che ha inventato il risotto, la cotoletta e il panettone.",
+      "local_word": {
+        "word": "Risotto alla Milanese",
+        "pronunciation": "ree-ZOH-toh ah-la mee-lah-NAY-zeh",
+        "definition": "Il piatto simbolo della città — riso Carnaroli, midollo di bue, vino bianco, zafferano e una quantità quasi 'violenta' di Parmigiano. Lo zafferano gli conferisce un colore oro intenso. Non è un contorno. Ordinarlo correttamente significa chiederlo come primo piatto e attendere i 18 minuti necessari per una preparazione a regola d'arte. Qualsiasi risotto che arrivi in meno di 10 minuti non è stato fatto per voi."
+      },
+      "items": [
+        {
+          "icon": "🍚",
+          "name": "Risotto alla Milanese — il simbolo della città",
+          "description": "Oro zafferano, ricco di midollo, rifinito con una generosa spolverata di Parmigiano. Quello autentico impiega 18 minuti dall'ordine al piatto e arriva leggermente liquido — 'all'onda', dicono, come un'onda. Se è troppo denso, è stato preparato in anticipo. L'Osteria dell'Acquabella e la Trattoria del Nuovo Macello sono punti di riferimento. Ordinalo come primo, non come contorno.",
+          "tag": "18 minuti · all'onda · solo come primo piatto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ratanà+Milano"
+        },
+        {
+          "icon": "🥩",
+          "name": "Cotoletta alla Milanese — non è una schnitzel",
+          "description": "Costoletta di vitello con l'osso, impanata e fritta nel burro chiarificato fino a doratura intensa. Più spessa della Wiener Schnitzel, più ricca e sempre servita con l'osso. Il dibattito se i viennesi abbiano rubato la ricetta a Milano va avanti da 200 anni. Ordinala in una trattoria tradizionale, non in un ristorante turistico. Dovrebbe essere croccante, sostanziosa e arrivare da sola.",
+          "tag": "Con l'osso · fritta nel burro · non è un contorno",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria+del+Nuovo+Macello+Milano"
+        },
+        {
+          "icon": "🫘",
+          "name": "Cassoeula — l'inverno in un piatto",
+          "description": "Il piatto invernale per eccellenza: maiale (costine, salsiccia, piedini) cotto lentamente con verza fino a quando tutto si fonde in qualcosa di profondo e profondamente confortante. Solo nei menu da ottobre a febbraio — se la vedi in altri periodi, non è quella vera. Ordinala in una trattoria sui Navigli o a Porta Romana. È un piatto robusto, genuino e profondamente milanese.",
+          "tag": "Solo ottobre–febbraio · solo in trattoria",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Prosciutteria+Milano"
+        },
+        {
+          "icon": "🥐",
+          "name": "Colazione Milanese — il rito del mattino",
+          "description": "Stai in piedi al bancone (mai sederti — costa di più e non cogli il senso). Ordina un cappuccino e un cornetto (il croissant italiano, ripieno di crema, marmellata o pistacchio). Il tutto richiede quattro minuti e costa pochissimo. Ripeti in qualsiasi bar della città. È così che 9 milioni di giornate iniziano ogni mattina in Lombardia.",
+          "tag": "Stai al bancone · cappuccino + cornetto · mai prima delle 7 del mattino",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Camparino+in+Galleria+Milano"
+        },
+        {
+          "icon": "🍊",
+          "name": "Aperitivo — l'invenzione milanese",
+          "description": "La città che ha dato al mondo il Campari (inventato qui nel 1860) prende sul serio il suo aperitivo. L'ordine classico: Campari Soda, Negroni o Aperol Spritz. Nella maggior parte dei bar, una bevanda sblocca il buffet di cibo. Sui Navigli e a Brera, i buffet possono essere straordinari — pasta, risotti, bruschette, salumi. Questa è una cena, al prezzo di un drink.",
+          "tag": "18:00–21:00 · un drink · cena inclusa",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Navigli+Milano"
+        },
+        {
+          "icon": "🎂",
+          "name": "Panettone — l'originale",
+          "description": "Sì, il panettone è di Milano. L'originale non ha nulla a che vedere con le versioni da supermercato esportate in tutto il mondo — alto, a cupola, fatto con lievito madre naturale che richiede giorni per svilupparsi. Pasticceria Marchesi (fondata nel 1824) e Pasticceria Cova sono i punti di riferimento storici. Anche fuori dal periodo natalizio, le buone pasticcerie milanesi lo propongono tutto l'anno.",
+          "tag": "Marchesi o Cova · l'originale non è come la versione da esportazione",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marchesi+1824+Milano"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Mercato Comunale di Porta Romana",
+        "text": "Milano vanta mercati alimentari eccezionali. Il Mercato Comunale di Porta Romana è uno dei migliori — un mercato coperto dove i produttori locali vendono formaggi, salumi, pasta fresca, verdure e vino. Andate il sabato mattina, arrivate affamati e comprate lì il vostro pranzo. Molto meglio di qualsiasi ristorante e a una frazione del costo."
+      }
+    },
+    "hidden_gems": {
+      "title": "Angoli Nascosti",
+      "intro": "Milano premia chi sa guardare oltre il Duomo e la Galleria. Le meraviglie più straordinarie della città si nascondono dietro porte anonime, all'interno di fabbriche riconvertite e alla fine di tranquilli cortili.",
+      "items": [
+        {
+          "rarity": "L'altro capolavoro di Leonardo — quasi senza coda",
+          "name": "L'Ultima Cena (Cenacolo Vinciano) — Santa Maria delle Grazie",
+          "description": "Tutti sanno che esiste. Quasi nessuno è preparato a quanto sia straordinario vederlo di persona. Dipinto direttamente sulla parete del refettorio tra il 1495 e il 1498, misura 8,8 metri di larghezza e quasi 5 metri di altezza. Si sta di fronte all'opera per esattamente 15 minuti con altre 29 persone, in una sala climatizzata. È un'esperienza senza eguali in Italia. Prenotate con settimane di anticipo — ma prenotate!",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa+Invernizzi+Milano"
+        },
+        {
+          "rarity": "Giardino segreto all'interno di un cortile rinascimentale",
+          "name": "Università degli Studi — Cortile della Facoltà di Giurisprudenza",
+          "description": "Il cortile centrale della storica università di Milano, costruito sul sito di un ospedale del XV secolo progettato dal Filarete. Attraversate l'ingresso anonimo di Via Festa del Perdono e scoprirete un cortile rinascimentale perfettamente conservato, dove gli studenti studiano da 600 anni. Quasi del tutto sconosciuto ai turisti. Ingresso gratuito, aperto durante gli orari universitari.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ca+de+l%27Oreggia+Milano"
+        },
+        {
+          "rarity": "La libreria più bella d'Italia",
+          "name": "Libreria Bocca — Galleria Vittorio Emanuele II",
+          "description": "All'interno della Galleria, nascosta dai negozi di lusso e dalla folla di turisti, si trova la libreria più antica d'Italia — aperta dal 1775. L'interno è magnifico: legno scuro, vetrine, libri d'arte impilati dal pavimento al soffitto. Specializzata in arte, architettura e design. Il personale consiglia libri da generazioni. Entrate, anche se non comprate nulla.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Bernardino+alle+Ossa+Milano"
+        },
+        {
+          "rarity": "Foresta verticale — un edificio unico nel suo genere",
+          "name": "Bosco Verticale — Isola",
+          "description": "Due torri residenziali nel quartiere Isola ricoperte da 900 alberi, 5.000 arbusti e 11.000 piante — una foresta sospesa sulla città. Progettate da Stefano Boeri e completate nel 2014, sono diventate uno degli edifici più fotografati al mondo. Non si può entrare, ma sono straordinarie viste dal livello della strada. Il quartiere circostante di Isola merita di per sé mezza giornata.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vigna+di+Leonardo+Milano"
+        },
+        {
+          "rarity": "Fondazione Prada — arte in una distilleria",
+          "name": "Fondazione Prada",
+          "description": "La straordinaria fondazione di Miuccia Prada occupa un'ex distilleria di gin nella zona di Porta Romana — un complesso di edifici antichi e nuovi progettato da OMA di Rem Koolhaas. La collezione permanente include alcune delle opere d'arte contemporanea più significative d'Italia. L'edificio della Haunted House, rivestito in foglia d'oro, merita da solo la visita. Il Bar Luce, progettato da Wes Anderson per assomigliare a un caffè milanese degli anni '50, è eccezionale.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Labirinto+Arnaldo+Pomodoro+Milano"
+        },
+        {
+          "rarity": "Il canale più antico d'Europa — per una passeggiata al tramonto",
+          "name": "Naviglio Grande all'ora d'oro",
+          "description": "Leonardo da Vinci lavorò al sistema di canali qui alla fine del XV secolo. Il Naviglio Grande — che si estende per 50 km fino al fiume Ticino — era un tempo la via per l'arrivo del marmo a Milano per la costruzione del Duomo. Oggi è fiancheggiato da bar, ristoranti e studi. All'ora d'oro, la luce sull'acqua e i riflessi degli antichi edifici creano una delle scene urbane più belle del nord Italia. Passeggiate dalla Darsena verso ovest in direzione di Corsico.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Terrazze+del+Duomo+Milano"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Ultima domenica del mese",
+        "text": "Ogni ultima domenica del mese, il Mercatone dell'Antiquariato riempie l'intera lunghezza del Naviglio Grande — uno dei più grandi mercati delle pulci d'Italia. Antiquari, abbigliamento vintage, stampe d'arte, mobili, ceramiche. Arrivate presto. Portate contanti. Si svolge dalla mattina presto fino a sera ed è una delle esperienze più autenticamente milanesi disponibili."
+      }
+    },
+    "checklist": {
+      "title": "Checklist di Milano",
+      "completion_message": "Bravissimo! Hai scoperto Milano al meglio.",
+      "items": [
+        {
+          "label": "Prenota Il Cenacolo prima di qualsiasi altra cosa",
+          "sub": "Santa Maria delle Grazie. 15 minuti, 30 persone, settimane di anticipo per prenotare. Fallo subito."
+        },
+        {
+          "label": "Fai l'aperitivo ai Navigli o a Brera",
+          "sub": "Un drink, un buffet completo. 18:00–21:00. Questa è la cena."
+        },
+        {
+          "label": "Ordina il risotto alla Milanese come primo piatto",
+          "sub": "18 minuti per prepararlo. Oro zafferano. Leggermente liquido. Se arriva in fretta, c'è qualcosa che non va."
+        },
+        {
+          "label": "Passeggia nella Galleria Vittorio Emanuele II",
+          "sub": "Una delle gallerie coperte più belle del mondo. Gira sul toro per fortuna."
+        },
+        {
+          "label": "Entra nel Duomo — non solo girargli intorno",
+          "sub": "Prenota la terrazza separatamente. La vista delle Alpi in una giornata limpida è straordinaria."
+        },
+        {
+          "label": "Trova la Libreria Bocca all'interno della Galleria",
+          "sub": "La libreria più antica d'Italia, aperta dal 1775. Entra anche se non compri nulla."
+        },
+        {
+          "label": "Passeggia lungo il Naviglio Grande all'ora d'oro",
+          "sub": "Il canale, la luce, i riflessi. Una delle passeggiate più belle del nord Italia."
+        },
+        {
+          "label": "Visita Fondazione Prada",
+          "sub": "Ex distilleria, architettura di Rem Koolhaas, bar di Wes Anderson. Davvero straordinario."
+        },
+        {
+          "label": "Fai colazione milanese al bancone di un bar",
+          "sub": "Cappuccino e cornetto, in piedi. Quattro minuti. Il modo migliore per iniziare la giornata."
+        },
+        {
+          "label": "Esplora Isola e ammira il Bosco Verticale",
+          "sub": "Il quartiere più interessante della città. Le torri del bosco verticale sono imperdibili."
+        },
+        {
+          "label": "Prova la cotoletta alla Milanese in una trattoria",
+          "sub": "Con l'osso, fritta nel burro, sostanziosa. Non è una schnitzel. Non è un contorno."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Sfuggi alle Trappole",
+      "intro": "Milano è una città elegante, ma i dintorni del Duomo detengono il record italiano per densità di trappole. Conosci queste quattro e mantieni intatto il tuo stile.",
+      "items": [
+        {
+          "icon": "🕊️",
+          "name": "Mais e braccialetti in Piazza Duomo",
+          "description": "Persone che ti infilano mais in mano per foto con i piccioni o ti legano un filo 'in regalo' al polso insisteranno per un pagamento dopo.",
+          "instead": "Mani in tasca, nessun contatto visivo, sorridi e continua a camminare. Scatta la tua foto dall'angolo della piazza: l'effetto sarà comunque migliore."
+        },
+        {
+          "icon": "☕",
+          "name": "Sedersi per un caffè in Galleria",
+          "description": "Un espresso al tavolo nella Galleria Vittorio Emanuele II costa diverse volte il prezzo al banco. La maggior parte dei posti vende la vista, non il caffè.",
+          "instead": "Fallo alla milanese: bevi in piedi al bancone. Per un'atmosfera storica, scegli il lato del bancone al Camparino."
+        },
+        {
+          "icon": "🍸",
+          "name": "Le trappole dell'aperitivo 'buffet gratuito'",
+          "description": "Alcuni bar sui Navigli cacciano turisti con cocktail al neon e un buffet stantio; il drink è mediocre, il buffet è un'esca.",
+          "instead": "Scegli il bar dove la gente parla italiano; un buon aperitivo porta un piattino piccolo ma curato insieme al tuo drink."
+        },
+        {
+          "icon": "👜",
+          "name": "Contrattare per borse 'firmate' per strada",
+          "description": "Le 'Prada' esposte vicino a Montenapoleone sono false — e comprare può essere punibile quanto vendere.",
+          "instead": "Per uno stile a budget, visita gli outlet di design o i negozi vintage; l'usato di Milano è di prima classe."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regola d'oro",
+        "text": "A Milano, la qualità è discreta: i posti migliori hanno insegne piccole, vetrine semplici, spesso una porta chiusa. Evita tutto ciò che urla."
+      }
+    },
+    "itinerary": {
+      "title": "Itinerari Pronti",
+      "intro": "Se non ami pianificare, lasciati guidare da questi itinerari. Gli orari sono indicativi; cogli lo spirito, non la rigidità.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Se Hai 1 Giorno",
+          "subtitle": "Dal tetto del Duomo al tramonto sui Navigli",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Duomo + terrazze panoramiche",
+              "description": "Prima la cattedrale, poi su, sul tetto: passeggiare tra le guglie di marmo è il momento più bello di Milano. Prenota in anticipo."
+            },
+            {
+              "time": "11:00",
+              "title": "Galleria + La Scala",
+              "description": "Attraversa la Galleria (gira sui testicoli del toro!), sbuca alla Scala. Il museo è breve e piacevole se vuoi dare un'occhiata all'interno."
+            },
+            {
+              "time": "13:00",
+              "title": "Pranzo a Brera",
+              "description": "Una trattoria nel quartiere degli artisti; poi una rapida occhiata alla Pinacoteca di Brera."
+            },
+            {
+              "time": "15:30",
+              "title": "Il Cenacolo (con prenotazione)",
+              "description": "Se hai prenotato mesi fa, questo è il tuo slot. Se no, non disperare: la cappella delle ossa di San Bernardino alle Ossa è un indimenticabile piano B."
+            },
+            {
+              "time": "18:00",
+              "title": "Castello Sforzesco + Parco Sempione",
+              "description": "Attraversa il cortile del castello e addentrati nel parco; respira il verde insieme ai milanesi."
+            },
+            {
+              "time": "19:30",
+              "title": "Aperitivo sui Navigli",
+              "description": "Campari o spritz lungo il canale, il piatto che lo accompagna è la tua cena. Il culmine del rito milanese."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Se Hai 3 Giorni",
+          "subtitle": "Vivi la città da ospite, non da turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Le icone",
+              "description": "L'itinerario di 1 giorno qui sopra: Duomo, Galleria, Brera, Navigli."
+            },
+            {
+              "time": "Day 2",
+              "title": "Milano del design e della moda",
+              "description": "Le vetrine del Quadrilatero della Moda al mattino, Fondazione Prada o Pirelli HangarBicocca a mezzogiorno, i giovani bar di Isola la sera."
+            },
+            {
+              "time": "Day 3",
+              "title": "Milano nascosta e arrivederci",
+              "description": "I fenicotteri di Villa Invernizzi, un sussurro al citofono a forma di orecchio di Ca' de l'Oreggia, un pomeriggio tra spa o vintage a Porta Romana, e un addio a base di cotoletta."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Il Kit di Sopravvivenza da 5 Parole",
+      "intro": "Milano parla veloce ma non dimentica mai le buone maniere; porta con te queste cinque.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "bwon-JOR-noh",
+          "meaning": "Buongiorno / buon giorno — obbligatorio quando si entra in un negozio"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Grazie — breve, chiaro, sempre"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "Per favore — aggiungilo alla fine del tuo ordine"
+        },
+        {
+          "word": "Cin cin!",
+          "pronunciation": "chin chin",
+          "meaning": "Salute! — la parola ufficiale dell'ora dell'aperitivo"
+        },
+        {
+          "word": "Andiamo!",
+          "pronunciation": "ahn-DYAH-moh",
+          "meaning": "Andiamo! — la chiave per tenere il passo con il ritmo di Milano"
+        }
+      ]
+    }
+  }
+}

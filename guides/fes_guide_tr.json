@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Fes",
+    "country": "Fas",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2853A4",
+    "color_light": "#E8EEF8",
+    "tagline": "Dünyanın en büyük araçsız labirenti: medine, tabakhane ve bin yıllık ilim"
+  },
+  "pills": [
+    "Dünyanın en büyük araçsız şehir merkezi",
+    "En eski üniversitenin evi",
+    "9400 sokaklı ortaçağ labirenti"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Fes'e Hoş Geldin",
+      "intro": "Fes, Fas'ın ruhani ve zanaat başkentidir: Fes el-Bali'nin surları içinde dokuz binden fazla sokak, eşek kervanları, bakırcı çekiçleri ve dünyanın en eski üniversitesi bin yıldır aynı ritimle yaşar. Burada GPS teslim bayrağını erken çeker — ve bu bir kusur değil, davettir. Kaybol: her yanlış dönüş bir medresenin çinili avlusuna, bir tabakhanenin renk kuyularına ya da nane çayı ikram eden bir dükkana çıkar. Fes cilalanmamış, sahici ve yoğundur — Marakeş'in sahnesiyse, Fes kütüphanesidir.",
+      "local_word": {
+        "word": "Balak!",
+        "pronunciation": "balak",
+        "definition": "'Dikkat, yol ver!': medinede arkandan bu ünlemi duyduğunda kenara çekil — yüklü bir eşek ya da el arabası geliyor demektir. Fes'in dar sokaklarında trafik uyarısının bin yıllık hali."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Kaybolmayı plana yaz",
+          "description": "Medinenin 9400 sokağında yolunu kaybetmen kesin — o yüzden korkma, kucakla. Ana arterler (Talaa Kebira ve Talaa Seghira) her zaman aşağıya, çarşıya iner; yokuş yukarı yürürsen kapılara çıkarsın. Pusulan bu ikisidir."
+        },
+        {
+          "number": 2,
+          "title": "'Yol kapalı' diyene inanma",
+          "description": "Kendini rehber ilan eden gençlerin klasik açılışı 'orası kapalı, ben götüreyim'dir — yol neredeyse hiçbir zaman kapalı değildir. Kibar ama net bir 'la, şükran' ile yola devam et; gerçek rehber istiyorsan riyadından resmi olanını iste."
+        },
+        {
+          "number": 3,
+          "title": "Pazarlık bir oyundur, ciddiyetle oyna",
+          "description": "Çarşıda ilk fiyat bir açılış cümlesidir: üçte birinden başla, gülümseyerek ilerle, çay ikramını kabul et. Almayacağın şeye uzun pazarlık açma — oyunun da adabı var."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Fes-Saïss (FEZ)",
+          "sub": "Medineye taksiyle ~30 dk"
+        },
+        {
+          "icon": "🚶",
+          "label": "Medine içi",
+          "value": "Sadece yayan",
+          "sub": "Araç girmez — yük eşekle taşınır"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Arapça (Darija) + Fransızca",
+          "sub": "Turistik hatta İngilizce artıyor"
+        },
+        {
+          "icon": "🕌",
+          "label": "İmza",
+          "value": "Fes el-Bali medinesi",
+          "sub": "UNESCO — dünyanın en büyüğü"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Fes felsefesi",
+        "text": "Fes'te program değil ritim yap: sabah serinliğinde medrese ve çarşı, öğlen riyad avlusunda dinlenme, ikindi teraslarda çay, akşam yemeği ezan sonrası. Şehir bin yıldır bu ritimde — uyum sağlayan kazanır."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Medine yayan gezilir — başka yolu yok; dışarıda küçük kırmızı taksiler ve tren garı seni bekler.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından medineye",
+          "description": "Taksiyle yarım saat: fiyatı binmeden netleştir ya da riyadına transfer ayarlat — şoförün seni kapıya en yakın noktada bırakıp yürüyüşü tarif etmesi normaldir; medineye araç girmez."
+        },
+        {
+          "icon": "🚶",
+          "title": "Medine — dünyanın en büyük yaya bölgesi",
+          "description": "Fes el-Bali'de tek ulaşım aracı ayaklarındır: yokuşlu, taşlı ve dar. Rahat ayakkabı, az eşya ve 'Balak!' refleksi — üçü de şart. Yük eşekleri ve el arabalarına her zaman yol ver."
+        },
+        {
+          "icon": "🚕",
+          "title": "Petit taxi — kırmızı küçükler",
+          "description": "Medine kapıları, Ville Nouvelle ve Merenid mezarları arası kırmızı taksilerle: taksimetre iste, çalışmıyorsa fiyatı baştan kes. Kısa mesafeler için ucuz ve pratiktir."
+        },
+        {
+          "icon": "🚄",
+          "title": "Trenle şehirlerarası",
+          "description": "Fes garı Ville Nouvelle'dedir: Meknes yarım saat, Rabat üç, Tanca dört saat. Fas treni konforlu ve dakiktir — Şefşavun içinse CTM otobüsü ya da grand taxi gerekir."
+        },
+        {
+          "icon": "🐴",
+          "title": "Yük eşekleri — medinenin kamyonları",
+          "description": "Gaz tüpünden deri tomarına her yük eşek ve katırlarla taşınır: bu bir folklor değil, işleyen lojistik sistemidir. Fotoğraf çekeceksen sahibinden izin iste — çoğu gülümseyerek poz verdirir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Yön tüyosu",
+        "text": "Medinede kaybolunca telefonla boğuşma: yokuş aşağı yürü — bütün ana yollar Karaviyyin çevresindeki çarşı çekirdeğine iner. Oradan Talaa Kebira'yı bulmak, evi bulmaktır."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Fes'te konaklama bir karar değil deneyimdir: medinenin içinde riyad avlusu mu, dışında modern konfor mu?",
+      "local_word": {
+        "word": "Riyad",
+        "pronunciation": "riyad",
+        "definition": "İç avlulu geleneksel Fas evi: dışarıdan sağır bir duvar, içeride çinili avlu, çeşme ve portakal ağacı. Fes'in riyadları şehrin en iyi sırrıdır — kapıdan girince sokağın kaosu biter, sükunet başlar."
+      },
+      "items": [
+        {
+          "name": "Fes el-Bali — Talaa çevresi",
+          "badge": "En atmosferli",
+          "badge_type": "vibe",
+          "description": "Medinenin kalbinde riyad odaları: çarşı, medreseler ve teraslar kapının dibinde. Bavulunu kapıdan hamal taşır — labirentin içinde uyanmak isteyenin klasiği.",
+          "tags": [
+            "Riyad avluları",
+            "Çarşıya sıfır",
+            "Hamal servisi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Talaa+Kebira+Fes"
+        },
+        {
+          "name": "Batha ve Bab Boujloud çevresi",
+          "badge": "En pratik",
+          "badge_type": "value",
+          "description": "Mavi kapının hemen içi ve dışı: medineye bir adım, taksiye iki adım. Giriş-çıkışı kolay riyadlar ve küçük oteller — labirent tecrübesini dozunda isteyene.",
+          "tags": [
+            "Mavi kapı",
+            "Taksiye yakın",
+            "Kolay giriş-çıkış"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bab+Boujloud+Fes"
+        },
+        {
+          "name": "Ziat ve güney medine",
+          "badge": "En sakin",
+          "badge_type": "local",
+          "description": "Çarşı yoğunluğundan uzak, bahçeli büyük riyadların bölgesi: kuş sesi, sessiz teraslar ve mahalle fırınının kokusu. Medine içinde sükunet arayana.",
+          "tags": [
+            "Bahçeli riyadlar",
+            "Sessiz sokaklar",
+            "Mahalle hayatı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ziat+Fes+medina"
+        },
+        {
+          "name": "Fes el-Jdid",
+          "badge": "En tarihi ikinci",
+          "badge_type": "value",
+          "description": "Kraliyet sarayının ve eski Yahudi mahallesi Mellah'ın bölgesi: iki medine arasında, turist yoğunluğu düşük. Fes'in katmanlarını sırayla açmak isteyene üs.",
+          "tags": [
+            "Saray kapıları",
+            "Mellah dokusu",
+            "Az turist"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fes+el-Jdid"
+        },
+        {
+          "name": "Ville Nouvelle",
+          "badge": "Modern konfor",
+          "badge_type": "value",
+          "description": "Fransız dönemi bulvarlı yeni şehir: geniş odalı oteller, kafeler ve tren garı. Medine yoğunluğunu gündüz doz doz alıp akşam modern konfora dönmek isteyene.",
+          "tags": [
+            "Modern oteller",
+            "Gara yakın",
+            "Bulvar kafeleri"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ville+Nouvelle+Fes"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Fes iç bölge şehridir: bahar ve sonbahar altın, yaz sıcak sınavı, kış serin ve sakin.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Altın Denge",
+          "months": "Mar – May",
+          "subtitle": "İlkbahar · Ilık günler, portakal çiçeği kokusu",
+          "description": "Medine gezmenin en iyi mevsimi: gündüz ılık, akşam serin, riyad avlularında portakal çiçeği kokusu. Kutsal müzik festivali baharın sonunda şehri dünya sahnesine çevirir.",
+          "callout": {
+            "type": "tip",
+            "label": "Mayıs ipucu",
+            "text": "Fes Dünya Kutsal Müzikleri Festivali'ne (genelde mayıs-haziran) denk gelirsen programı ona kur: konserler saray kapılarında ve tarihi bahçelerde — şehrin ruhu sahneye çıkar."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Sıcak Sınavı",
+          "months": "Haz – Ağu",
+          "subtitle": "Yaz · 40 dereceye varan öğlenler",
+          "description": "İç bölge sıcağı ciddidir: öğlen saatlerinde medine yavaşlar, hayat sabaha ve akşama taşınır. Riyad havuzlu seç, programı erken saate kur — fiyatların düşük olması tesellidir.",
+          "callout": {
+            "type": "warning",
+            "label": "Ağustos notu",
+            "text": "Yazın 11-16 arası gölge ve avlu saatidir: medrese ve tabakhaneyi sabah 8-10 arasında gez, öğlen riyadda dinlen, akşam teraslarda yaşa. Su şişesi ve şapka pazarlık konusu değil."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Hasat ve Işık",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Yumuşak güneş, zeytin sezonu",
+          "description": "Sıcak kırılır, ışık fotoğrafçı ışığına döner ve çevre köylerde zeytin hasadı başlar. Ekim, Fes'in en dengeli ayıdır — kalabalık da makul, hava da.",
+          "callout": {
+            "type": "tip",
+            "label": "Ekim ipucu",
+            "text": "Ekimde Merenid mezarlarına gün batımından kırk dakika önce çık: bütün medine ayaklarının altında altına döner, ezan sesleri tepelerden yankılanır. Fes'in en iyi 'tek karesi' budur."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Serin ve Sahici",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Soğuk geceler, turistsiz sokaklar",
+          "description": "Gündüz güneşli ve serin, gece soğuktur — riyadlar taş olduğundan iyi ısıtma sor. Turist azalır, medine kendi gündelik haline döner: zanaatkarları izlemek için en sahici mevsim.",
+          "callout": {
+            "type": "tip",
+            "label": "Ocak ipucu",
+            "text": "Kışın hamama gitmenin tam zamanıdır: yerel hamamda kese + sabun ritüeli hem ısıtır hem Fes gündeliğinin içine sokar. Riyadına sor — mahalle hamamının saatini herkes bilir."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Fes, Fas mutfağının başkenti sayılır: saray mutfağından gelen incelik, medine fırınlarının sıcaklığıyla aynı sokakta yaşar.",
+      "local_word": {
+        "word": "Bissara",
+        "pronunciation": "bissara",
+        "definition": "Bakla çorbası: üstüne zeytinyağı ve kimyon, yanında ekmek — medine kahvaltısının bir avuç dirheme karnını doyuran klasiği. Sabah tezgahında yerlilerle omuz omuza içilir."
+      },
+      "items": [
+        {
+          "icon": "🥧",
+          "name": "Pastilla — tatlı-tuzlu taç",
+          "description": "İnce yufka katları arasında güvercin ya da tavuk, badem ve tarçın; üstünde pudra şekeri: Fes saray mutfağının başyapıtı. Tatlı mı tuzlu mu tartışması ilk çatalda biter — ikisi de.",
+          "tag": "Fes klasiği · önceden sipariş idealdir",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Dar+Hatim+Fes"
+        },
+        {
+          "icon": "🍲",
+          "name": "Tajine ve yedi sebzeli kuskus",
+          "description": "Konik kapaklı güveçte ağır pişen etler ve cuma günlerinin yedi sebzeli kuskusu: her riyadın kendi tarifi vardır. Cuma öğleni kuskus bulursan gelenek yerine gelmiştir.",
+          "tag": "Cuma kuskusu · gelenekle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+Clock+Fes"
+        },
+        {
+          "icon": "🍜",
+          "name": "Harira ve medine kahvaltısı",
+          "description": "Nohutlu-mercimekli harira çorbası, yanında hurma ve chebakia tatlısı: ramazanın yıldızı, yılın her günü tezgahlarda. Bissara ile birlikte medinenin sabah ikilisidir.",
+          "tag": "Tezgah klasiği · hurmayla",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bab+Boujloud+food+stalls+Fes"
+        },
+        {
+          "icon": "🫓",
+          "name": "Mahalle fırını ekmeği — khobz",
+          "description": "Evlerde yoğrulan hamur mahalle fırınında (ferran) pişer: sokakta tepsiyle ekmek taşıyan çocuklar bu sistemin kuryeleridir. Fırının kapısından sıcak khobz almak serbesttir — sor, gülümse, al.",
+          "tag": "Ferran'dan sıcak · mahalle sistemi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fes+medina+bakery"
+        },
+        {
+          "icon": "🍬",
+          "name": "Nane çayı ve terasta gurup",
+          "description": "'Fas viskisi' nane çayı yüksekten dökülür, köpüğü şereftir: pazarlığın, misafirliğin ve terasların resmi içeceği. Gün batımında medine manzaralı terasta iç — şeker ayarını baştan söyle.",
+          "tag": "Terasta · yüksekten dökülür",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fes+medina+rooftop+cafe"
+        },
+        {
+          "icon": "🍢",
+          "name": "Çarşı ızgaraları ve zeytin tezgahları",
+          "description": "Kefta şiş dumanı, közlenmiş biber ve yüz çeşit zeytin: çarşının öğle mutfağı tezgahtadır. Kalabalık tezgah taze tezgahtır — yerlinin sırasına gir.",
+          "tag": "Çarşı öğleni · kalabalık tezgahtan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Achabine+street+food+Fes"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sofra kuralı",
+        "text": "Fes'te en iyi akşam yemekleri restoranlarda değil riyadlarda pişer: kaldığın yere akşam yemeğini sabahtan söyle — ev yapımı tajine, çarşı menüsünün her zaman bir adım önündedir. Musluk suyu yerine şişe su, sokak yemeğinde 'pişmiş ve sıcak' kuralı."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Tabakhaneyi herkes görür; bu altısı Fes'in derin katmanları.",
+      "items": [
+        {
+          "rarity": "Şehrin en iyi balkonu",
+          "name": "Merenid Mezarları tepesi",
+          "description": "Kuzey tepesindeki harabe mezarlardan bütün medine tek bakışta görülür: minareler, teraslar ve akşam ezanının yankısı. Gün batımından önce çık, ışıklar yanarken in — Fes'i anlamanın en kısa yolu.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marinid+Tombs+Fes"
+        },
+        {
+          "rarity": "Çini ve sedirin zirvesi",
+          "name": "El-Attarine Medresesi",
+          "description": "Baharatçılar çarşısının kapısındaki 14. yüzyıl medresesi: zellij çinisi, oyma alçı ve sedir ahşabı el işçiliğinin doruğudur. Bou Inania'dan küçük, çoğu zaman sakin — avlusunda uzun dur.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Al-Attarine+Madrasa+Fes"
+        },
+        {
+          "rarity": "Kervansaraydan müzeye",
+          "name": "Nejjarine Fondouk'u",
+          "description": "Eski kervansaray, ahşap sanatları müzesine dönüştü: üç katlı avlusu başlı başına eser, çatı terası çarşının üstüne açılır. Önündeki çinili çeşme medinenin en fotojenik köşelerindendir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nejjarine+Museum+Fes"
+        },
+        {
+          "rarity": "Surların içinde yeşil nefes",
+          "name": "Jnan Sbil Bahçeleri",
+          "description": "İki medine arasındaki yüzyıllık bahçe: palmiyeler, havuzlar ve bambu gölgesi. Medine yoğunluğunun ilacı — çıkışını Bab Boujloud üzerinden yaparsan mavi kapıya yeşil aradan varırsın.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jnan+Sbil+Gardens+Fes"
+        },
+        {
+          "rarity": "Çömlekçilerin mahallesi",
+          "name": "Ain Nokbi çömlek atölyeleri",
+          "description": "Şehrin dışındaki atölye bölgesinde Fes mavisi çini ve çömlek hâlâ elle şekillenir, zellij ustaları deseni tek tek kırar. Tabakhaneden daha az bilinir, işçiliği daha yakından gösterir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ain+Nokbi+pottery+Fes"
+        },
+        {
+          "rarity": "Bin yıllık kütüphane",
+          "name": "Karaviyyin çevresi ve kütüphane kapıları",
+          "description": "Dünyanın en eski üniversitesinin kalbi gayrimüslimlere kapalıdır ama çevresindeki kapı aralıklarından avlular, restore kütüphanenin bölümleri ve çarşıya sızan ilim havası görülür. Kapı aralığı da Fes'te bir manzaradır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Al-Qarawiyyin+Fes"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tabakhane tüyosu",
+        "text": "Chouara tabakhanesine deri dükkanlarının terasından bakılır: girişte tutuşturulan nane dalı kokuya karşı gerçekten işe yarar. Teras 'ücretsizdir' ama çıkışta satış baskısı gelir — bakmak serbest, almak zorunluluk değil; kibar bir 'la, şükran' yeter."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Fes'in tuzakları fiziksel değil sosyaldir: birkaç ezber cümle, bütün oyunları bozar.",
+      "items": [
+        {
+          "icon": "🧭",
+          "name": "Sahte rehber ve 'yol kapalı' oyunu",
+          "description": "Medine girişlerinde beliren 'yardımsever', yolu kapalı ilan eder, seni dolaştırır ve sonunda bahşiş ya da dükkan komisyonu ister.",
+          "instead": "Rotanı bilir görün, 'la, şükran' de ve yürü. Rehber istiyorsan riyadından resmi rozetli olanını ayarlat — fiyatı baştan, kapsamı net."
+        },
+        {
+          "icon": "🐪",
+          "name": "Tabakhane terasında satış kıskacı",
+          "description": "'Ücretsiz manzara' terasına çıkınca kapıda ceket denettirilir, çıkışta yoğun pazarlık baskısı kurulur.",
+          "instead": "Baştan 'sadece bakacağım' de, gerekirse küçük bir teras bahşişini gönülden ver. Deri alacaksan zaten pazarlık senin oyunun — almayacaksan tereddütsüz in."
+        },
+        {
+          "icon": "🚕",
+          "name": "Taksimetresiz taksi turu",
+          "description": "Medine kapılarında bekleyen bazı taksiler taksimetreyi 'unutur'; kısa mesafe turist tarifesine döner.",
+          "instead": "'Compteur, afak' (taksimetre, lütfen) de; açmıyorsa in, sonraki taksiyi al. Kapılar arası standart mesafelerin fiyatını riyadına önceden sor."
+        },
+        {
+          "icon": "💰",
+          "name": "Fotoğraf ve 'hediye' bahşiş sarmalı",
+          "description": "Eşekli hamal, su satıcısı ya da dükkan önü — çekilen her fotoğrafın arkasından bahşiş talebi gelebilir; 'hediye' diye uzatılan bilezik sonra faturalanır.",
+          "instead": "Fotoğraftan önce izin iste ve küçük bahşişi doğal karşıla — bu bir hizmet. Eline tutuşturulan 'hediyeyi' kibarca geri ver; gülümseme + 'la, şükran' bu şehrin sihirli anahtarıdır."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Fes'te 'la, şükran' (hayır, teşekkürler) cümlesini gülümseyerek ve yürümeye devam ederek söylemek, bütün turist oyunlarının panzehiridir. Kaba değildir — oyunun kurallarındandır ve herkes anlar."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Mavi kapıdan tabakhaneye bin yıllık labirent",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Bab Boujloud'dan giriş",
+              "description": "Mavi kapının önünde bissara kahvaltısı, ardından Talaa Kebira'dan medineye dal: dükkanlar açılırken sokak en sahici halindedir."
+            },
+            {
+              "time": "10:00",
+              "title": "Medrese turu",
+              "description": "Bou Inania'nın avlusu, ardından El-Attarine'in çinili sessizliği: zellij, alçı ve sedir işçiliğine yakından bak."
+            },
+            {
+              "time": "12:00",
+              "title": "Nejjarine ve çarşı çekirdeği",
+              "description": "Fondouk müzesinin katlarını gez, çinili çeşmeyi fotoğrafla; baharatçılar ve bakırcılar çarşısında kaybol — Balak seslerine kulak."
+            },
+            {
+              "time": "13:30",
+              "title": "Çarşı öğleni",
+              "description": "Kefta şiş ya da tezgah tajine'i, üstüne nane çayı: kalabalık tezgah, taze tezgahtır."
+            },
+            {
+              "time": "15:30",
+              "title": "Chouara tabakhanesi",
+              "description": "Deri teraslarından renk kuyularına bak: nane dalını al, fotoğrafını çek, pazarlığa gönlün varsa gir."
+            },
+            {
+              "time": "18:00",
+              "title": "Merenid gün batımı",
+              "description": "Taksiyle tepeye çık: medine ayaklarının altında altına dönerken ezan sesleri yankılanır. Akşam yemeği riyadda — sabahtan söylediğin tajine hazır."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Labirenti katman katman aç",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Fes",
+              "description": "Yukarıdaki 1 günlük akış: mavi kapı, medreseler, çarşı, tabakhane, Merenid."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Saraylar ve zanaat",
+              "description": "Sabah Fes el-Jdid: kraliyet sarayının kapıları ve Mellah'ın balkonlu sokakları; öğlen Jnan Sbil bahçelerinde nefes; öğleden sonra Ain Nokbi çömlek atölyeleri; akşam hamam ritüeli + teras yemeği."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Çevre kaçamağı ve veda",
+              "description": "Günübirlik seçim: Roma mozaikli Volubilis + Meknes ikilisi ya da mavi şehir Şefşavun; dönüşte çarşıdan son alışveriş — zellij tabak, deri terlik, bir kese baharat. Veda çayı terasta."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Darija'da beş kelime, medinenin bütün kapılarını yumuşatır; Fransızca da her yerde yedekte.",
+      "items": [
+        {
+          "word": "Salam alikoum",
+          "pronunciation": "selam aleykum",
+          "meaning": "Merhaba — cevabı 'wa alikoum salam'; kapıları açan selam"
+        },
+        {
+          "word": "Şükran",
+          "pronunciation": "şukran",
+          "meaning": "Teşekkürler — 'şükran bezzef' çok teşekkürler demektir"
+        },
+        {
+          "word": "La, şükran",
+          "pronunciation": "la şukran",
+          "meaning": "'Hayır, teşekkürler' — medinenin en değerli cümlesi; gülümseyerek ve yürüyerek"
+        },
+        {
+          "word": "Bşhal?",
+          "pronunciation": "bişhal",
+          "meaning": "'Ne kadar?' — pazarlığın açılış vuruşu"
+        },
+        {
+          "word": "Bslama",
+          "pronunciation": "bislema",
+          "meaning": "Hoşça kal — çay bitince, pazarlık kapanınca, kapıdan çıkarken"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Fes Checklist",
+      "completion_message": "Bslama! Bin yıllık labirenti hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Medinede bilerek kaybol",
+          "sub": "Yokuş aşağı her yol çarşıya iner"
+        },
+        {
+          "label": "Bab Boujloud'un iki rengini gör",
+          "sub": "Dışı mavi, içi yeşil — iki kapı bir kare"
+        },
+        {
+          "label": "El-Attarine'in avlusunda dur",
+          "sub": "Zellij ve sedir işçiliğinin zirvesi"
+        },
+        {
+          "label": "Tabakhaneye nane dalıyla bak",
+          "sub": "Chouara terasları — renk kuyuları"
+        },
+        {
+          "label": "Merenid tepesinden gün batımı izle",
+          "sub": "Medine altına döner, ezan yankılanır"
+        },
+        {
+          "label": "Pastilla'nın tatlı-tuzlusunu çöz",
+          "sub": "Fes saray mutfağının başyapıtı"
+        },
+        {
+          "label": "Terasta nane çayını yüksekten döktür",
+          "sub": "Köpük şereftir — şekeri baştan ayarla"
+        },
+        {
+          "label": "Mahalle fırınından sıcak khobz al",
+          "sub": "Ferran sistemi — sor, gülümse, al"
+        },
+        {
+          "label": "Bir pazarlığı çayla tamamla",
+          "sub": "Üçte birinden başla, oyunu sev"
+        },
+        {
+          "label": "Hamamda kese ritüeli yaptır",
+          "sub": "Fes gündeliğinin en sıcak kapısı"
+        }
+      ]
+    }
+  }
+}

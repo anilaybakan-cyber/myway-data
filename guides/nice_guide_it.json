@@ -1,0 +1,537 @@
+{
+  "meta": {
+    "city": "Nice",
+    "country": "France",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#1B5E8F",
+    "color_light": "#E3EEF7",
+    "tagline": "La vera città della Costa Azzurra: non l'immagine da cartolina, ma la realtà.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "La spiaggia è di ciottoli, non di sabbia",
+    "Socca prima di tutto",
+    "Sali sulla collina, evita la funivia"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Benvenuti a Nizza",
+      "intro": "Nizza non è Monaco. Non è un set cinematografico, uno yacht show o una vetrina di lusso. È una vera città mediterranea — dal sapore italiano, baciata dal sole e completamente se stessa. Quinta città più grande della Francia e capitale della Costa Azzurra, Nizza seduce i visitatori dal XVIII secolo, quando gli aristocratici inglesi vi trascorrevano l'inverno per sfuggire al freddo, costruendo infine la passeggiata sul lungomare che ancora porta il loro nome. Ma la Nizza che vale la pena scoprire è più antica e tranquilla di qualsiasi passeggiata: Vieux Nice, il centro storico color ocra e terracotta, con le sue chiese barocche, il mercato dei fiori e vicoli così stretti da oscurare il cielo. Il venditore di socca che sta nello stesso angolo da quarant'anni. Il cannone di mezzogiorno che spara dalla Collina del Castello ogni giorno dal 1861. Questa città ha la sua lingua, il suo cibo e un orgoglio che non ha nulla a che fare con le persone che vengono qui in estate.",
+      "local_word": {
+        "word": "Socca",
+        "pronunciation": "SOH-kah",
+        "definition": "Lo street food di Nizza, il suo cibo dell'anima, il più antico. Una frittella sottile e croccante fatta con farina di ceci, olio d'oliva e acqua — cotta in un forno a legna su un'enorme piastra di rame, tagliata a spicchi irregolari, servita calda con pepe nero. Nient'altro. Niente formaggio, niente condimenti, niente variazioni. Si mangia in piedi a una bancarella del mercato, avvolta nella carta, mentre è ancora troppo calda. Chez Thérésa a Cours Saleya la prepara dagli anni '20. È da qui che si inizia."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "La spiaggia è di ciottoli — e ai locali piace così",
+          "description": "La famosa spiaggia di Nizza è fatta di ciottoli lisci e arrotondati, non di sabbia. Non c'è sabbia da nessuna parte sulla spiaggia principale. Questo sorprende quasi ogni visitatore alla prima esperienza. Portate scarpe da spiaggia, noleggiate un materassino da uno degli operatori delle spiagge private, o fate come i locali e trovate una pietra piatta. Il lato positivo: l'acqua è straordinariamente limpida e la spiaggia non è mai granulosa."
+        },
+        {
+          "number": 2,
+          "title": "Nizza non è la Provenza — e non è completamente francese",
+          "description": "Nizza è stata italiana fino al 1860, ceduta formalmente alla Francia da Napoleone III. L'architettura del centro storico, il cibo, il dialetto (Niçard) e il carattere del luogo portano tutti quell'impronta italiana. La parola locale per Nizza nell'antico dialetto è Nissa. Questa non è una città francese che si trova per caso vicino all'Italia; è una città mediterranea che è entrambe le cose, e completamente nessuna delle due."
+        },
+        {
+          "number": 3,
+          "title": "Collina del Castello — sempre a piedi, sempre gratis",
+          "description": "La Collina del Castello (Colline du Château) si erge a 92 metri sopra la città e offre la migliore vista di Nizza: la curva della Baie des Anges, i tetti arancioni di Vieux Nice, le Alpi in lontananza. C'è un ascensore, ma salite a piedi — la scalinata attraverso la roccia fa parte dell'esperienza, e la discesa attraverso Vieux Nice vi ricompenserà immediatamente. Gratuito, sempre. Una delle più belle viste gratuite d'Europa."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeroporto",
+          "value": "Nice Côte d'Azur (NCE)",
+          "sub": "Linea tram 2 · 10 min · diretto al centro città"
+        },
+        {
+          "icon": "🚃",
+          "label": "Trasporti",
+          "value": "Tram + treno",
+          "sub": "Tariffa unica · un solo biglietto copre tutte le linee"
+        },
+        {
+          "icon": "🌊",
+          "label": "Spiaggia",
+          "value": "Ciottoli, non sabbia",
+          "sub": "Spiagge pubbliche gratuite · spiagge private con servizi"
+        },
+        {
+          "icon": "🗺️",
+          "label": "Base per",
+          "value": "Monaco · Èze · Antibes",
+          "sub": "Treno per Monaco 25 min · Cannes 40 min"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Il cannone di mezzogiorno",
+        "text": "Ogni giorno a mezzogiorno, un cannone spara dalla Collina del Castello. Spara ogni giorno dal 1861. La leggenda narra che un lord scozzese di nome Sir Thomas Coventry, stanco che sua moglie tornasse tardi dallo shopping in città, persuase il consiglio comunale a sparare un cannone a mezzogiorno in modo che lei sapesse di dover tornare a casa. Nizza ha continuato a farlo per oltre 160 anni. Se siete in città a mezzogiorno, fermatevi e ascoltate."
+      }
+    },
+    "transport": {
+      "title": "Spostarsi",
+      "intro": "Nizza è compatta, perfetta da esplorare a piedi e ben collegata. Il tram copre la maggior parte delle vostre esigenze, il resto lo faranno i vostri piedi. La città è anche la base ideale per esplorare l'intera Costa Azzurra in treno.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeroporto (NCE) → Centro Città",
+          "description": "La linea 2 del tram collega l'aeroporto direttamente al centro città in circa 10 minuti: è uno dei migliori collegamenti aeroportuali in Francia. Passa frequentemente e ferma a Place Masséna e Vieux Nice. I taxi sono decisamente più costosi e dipendono dal traffico. Il tram è sempre la scelta giusta."
+        },
+        {
+          "icon": "🚃",
+          "title": "Tram — la rete principale della città",
+          "description": "Nizza ha due linee tramviarie. La linea 1 attraversa il centro città da est a ovest, collegando i quartieri principali. La linea 2 collega l'aeroporto al porto e al centro città. Un biglietto singolo è valido per 74 minuti su tutte le linee di tram e autobus — convalidatelo a bordo ogni volta. Un pass da 24 ore è conveniente se prevedete di fare tre o più viaggi. Acquistate i biglietti alle macchinette automatiche alle fermate del tram."
+        },
+        {
+          "icon": "🚂",
+          "title": "Treno — per gite di un giorno lungo la Riviera",
+          "description": "La stazione di Nice Ville è una delle stazioni costiere meglio collegate della Francia. Monaco dista 25 minuti. Antibes 30 minuti. Cannes 40 minuti. Mentone e il confine italiano 45 minuti. I treni passano frequentemente e sono il modo più panoramico per ammirare la costa della Riviera: la linea costeggia il mare e le viste da sole valgono il biglietto. Molto più economico e affidabile che guidare."
+        },
+        {
+          "icon": "🚲",
+          "title": "Vélo Bleu — il bike sharing cittadino",
+          "description": "Il sistema di bike sharing pubblico di Nizza ha stazioni in tutta la città. Un abbonamento a breve termine dà accesso alle biciclette; i primi 30 minuti sono inclusi. La Promenade des Anglais ha una pista ciclabile dedicata che si estende per tutti i 7 km — una delle migliori piste ciclabili urbane in Francia. Ideale per la Promenade, la zona del porto e le parti pianeggianti della città."
+        },
+        {
+          "icon": "🚶",
+          "title": "A piedi — l'unico modo per Vieux Nice",
+          "description": "Vieux Nice non può essere esplorata in nessun altro modo: le stradine sono troppo strette per i veicoli e molte delle cose migliori non sono segnalate. La città vecchia si trova a 15 minuti a piedi da Place Masséna. La Collina del Castello è a 20 minuti a piedi dalla città vecchia. La Promenade des Anglais è lunga 7 km da un capo all'altro e completamente pianeggiante. Nizza premia la camminata sopra ogni altra cosa."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Strategia per le gite di un giorno",
+        "text": "Nizza è una base eccezionale. Usate il treno liberamente: Monaco il martedì per il mercato; Antibes in un tranquillo pomeriggio; il villaggio di Èze al tramonto in autobus e poi in treno per il ritorno. La Riviera è compatta — è del tutto possibile visitare una città diversa ogni giorno senza mai spostare la vostra valigia."
+      }
+    },
+    "stay": {
+      "title": "Dove Alloggiare",
+      "intro": "I quartieri di Nizza sono piccoli, percorribili a piedi e molto diversi tra loro per carattere. Quello giusto dipende interamente dal tipo di esperienza che desideri vivere in città.",
+      "local_word": {
+        "word": "Vieux Nice",
+        "pronunciation": "vyuh NEES",
+        "definition": "Il centro storico — il vero cuore pulsante della città. Un fitto reticolo di vicoli stretti tra la Promenade e la Collina del Castello, dipinti in ogni sfumatura di ocra, terracotta e giallo sbiadito. Chiese barocche spuntano ad ogni angolo. Il mercato di Cours Saleya anima la piazza principale ogni mattina. Di notte, ristoranti e bar prendono il sopravvento. Alloggiare a Vieux Nice significa risvegliarsi nell'anima della città."
+      },
+      "items": [
+        {
+          "name": "Vieux Nice (Centro Storico)",
+          "badge": "Più suggestivo",
+          "badge_type": "local",
+          "description": "Il quartiere storico — chiese barocche, il mercato dei fiori, vicoli stretti, ottimi ristoranti. Il luogo più bello dove alloggiare in città. Vivace di notte. Alcune strade possono essere rumorose nei fine settimana. Ma nessun altro posto ti immerge così completamente in ciò che rende Nizza degna di essere visitata.",
+          "tags": [
+            "Più bello",
+            "Miglior accesso al mercato",
+            "Vivace di notte"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vieux+Nice"
+        },
+        {
+          "name": "Promenade des Anglais",
+          "badge": "Più elegante",
+          "badge_type": "hot",
+          "description": "Il lungomare. Grandi hotel Belle Époque, il leggendario Negresco, il mare da un lato e la città dall'altro. Costoso, iconico e tutto ciò che la Costa Azzurra promette. Leggermente distante dalla vita quotidiana della città — più un resort che un quartiere — ma la passeggiata mattutina lungo l'acqua è impareggiabile.",
+          "tags": [
+            "Viste sul mare",
+            "Hotel Belle Époque",
+            "Atmosfera da resort"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Promenade+des+Anglais+Nice"
+        },
+        {
+          "name": "Le Port & Garibaldi",
+          "badge": "Più autentico",
+          "badge_type": "local",
+          "description": "Il quartiere orientale attorno al porto — colorato, autenticamente locale e in gran parte ancora sconosciuto ai turisti. I migliori ristoranti di Nizza si concentrano qui. Place Garibaldi è una delle piazze più belle della città. Leggermente più distante dalla spiaggia ma ben collegato dal tram. È qui che i Nizzardi vanno a mangiare fuori.",
+          "tags": [
+            "Migliori ristoranti",
+            "Atmosfera locale",
+            "Porto colorato"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Port+Nice"
+        },
+        {
+          "name": "Quartiere dei Musicisti & Libération",
+          "badge": "Più conveniente",
+          "badge_type": "value",
+          "description": "I quartieri residenziali a nord della stazione ferroviaria — palazzi Belle Époque, mercati locali, ottimi caffè di quartiere, senza il sovrapprezzo turistico. Ben collegato dal tram. È qui che vivono i residenti di Nizza. Il mercato di Libération, il martedì e il venerdì mattina, è eccezionale.",
+          "tags": [
+            "Atmosfera residenziale",
+            "Miglior rapporto qualità-prezzo",
+            "Mercati locali"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quartier+des+Musiciens+Nice"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Il Periodo Migliore per Visitare",
+      "intro": "Nizza vanta oltre 300 giorni di sole all'anno. Ogni stagione offre qualcosa di diverso: la vera domanda è quale tipo di folla e quale versione della città desideri.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Stagione Perfetta",
+          "months": "Mar – May",
+          "subtitle": "Primavera · Il Periodo Migliore",
+          "description": "Aprile e maggio sono i mesi in cui Nizza è più autentica. La luce è straordinaria, le folle non sono ancora arrivate, i mercati traboccano di prodotti primaverili e ogni terrazza è aperta. Ad aprile, le colline dietro la città sono verdi e la mimosa è in fiore. Il mare è ancora troppo freddo per nuotare, ma la Promenade alla luce del mattino è una delle più belle passeggiate urbane d'Europa. A maggio la città è al suo massimo di tranquillità e bellezza: i musei sono vuoti, i ristoranti sono prenotabili, e le viuzze della Vecchia Nizza appartengono interamente a chi ci vive.",
+          "callout": {
+            "type": "tip",
+            "label": "Consiglio per la primavera",
+            "text": "Se la fine di aprile coincide con il Salone del Mobile di Milano, Nizza è una base perfetta: le due città distano 4,5 ore di treno e possono essere facilmente combinate in un unico viaggio. I prezzi a Nizza non sono ancora aumentati, le folle non sono arrivate e il tempo è ideale."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Estate",
+          "name": "Il Culmine della Riviera",
+          "months": "Jun – Aug",
+          "subtitle": "Estate · Gloriosa e Affollata",
+          "description": "Luglio e agosto sono i mesi in cui il mondo intero arriva a Nizza. Le spiagge sono affollate, i ristoranti pieni, il mare è caldo e limpido, e la città vibra di un'energia difficile da trovare altrove. Ma tutto ciò ha un prezzo: tutto costa di più, le code sono più lunghe e la vera Nizza si ritira dietro la stagione turistica. Luglio porta il Festival du Jazz de Nice nel parco di Cimiez, uno dei grandi festival all'aperto della Francia, sotto gli ulivi dove è sepolto Matisse.",
+          "callout": {
+            "type": "tip",
+            "label": "14 luglio — fuochi d'artificio sulla Baia degli Angeli",
+            "text": "Il Giorno della Bastiglia a Nizza è uno dei più spettacolari di Francia. I fuochi d'artificio vengono lanciati lungo la Promenade des Anglais e si riflettono sulla Baia degli Angeli: l'intera città si riversa sul lungomare. Il Festival Jazz si tiene anche a luglio nel parco di Cimiez, sotto gli ulivi accanto alla tomba di Matisse. Due dei grandi eventi estivi del sud della Francia, nella stessa città, nello stesso mese."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autunno",
+          "name": "Il Segreto Meglio Custodito",
+          "months": "Sep – Nov",
+          "subtitle": "Autunno · Il Vero Segreto",
+          "description": "Settembre e ottobre sono il segreto meglio custodito della Costa Azzurra. Le folle diminuiscono drasticamente dopo agosto, il mare rimane abbastanza caldo per nuotare fino a metà ottobre e la città ritorna al suo ritmo quotidiano. I prezzi dei ristoranti si normalizzano, i tavoli sono più facili da prenotare e la luce assume una qualità dorata. Novembre porta le prime piogge ma anche i primi fuochi nei camini delle trattorie della Vecchia Nizza. La città torna ad appartenere a se stessa.",
+          "callout": {
+            "type": "tip",
+            "label": "Segreto locale",
+            "text": "Il mare a Nizza è balneabile almeno fino a metà ottobre, a volte anche più a lungo. Settembre a Coco Beach — la caletta nascosta preferita dai locali — con quasi nessun turista, acqua calda e luce dorata. La migliore giornata che Nizza possa offrire."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Inverno",
+          "name": "Mite e Tranquillo",
+          "months": "Dec – Feb",
+          "subtitle": "Inverno · La Città Invernale più Soleggiata d'Europa",
+          "description": "Nizza è davvero mite in inverno — temperature medie di gennaio intorno ai 13°C, e il sole appare regolarmente anche nei mesi più freddi. Questo è il motivo per cui gli inglesi vennero qui in primo luogo. La Promenade des Anglais in una soleggiata mattina di dicembre, quasi vuota, con le Alpi visibili dietro la città, è una delle esperienze urbane più tranquillamente belle d'Europa. I prezzi scendono significativamente. I locali riprendono il controllo. La città vecchia è al suo massimo di autenticità.",
+          "callout": {
+            "type": "tip",
+            "label": "Vieni per il Carnevale",
+            "text": "Carnevale di Nizza (febbraio): uno dei grandi carnevali del mondo, risalente al 1294. La sola Battaglia dei Fiori merita di pianificare un viaggio — carri ricoperti di fiori e bouquet lanciati tra la folla. In inverno Nizza è al suo massimo di convenienza e autenticità locale; il Carnevale la trasforma completamente per due settimane. Prenota l'alloggio con molti mesi di anticipo."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "February",
+          "text": "Carnevale di Nizza: il più grande carnevale di Francia — due settimane di battaglie di fiori (bataille de fleurs) e marionette giganti."
+        },
+        {
+          "month": "May",
+          "text": "Una doppia festa a due passi: il Festival di Cannes e il GP di Monaco; Nizza è la base per entrambi, gli hotel si riempiono presto."
+        },
+        {
+          "month": "July",
+          "text": "Nice Jazz Festival: notti estive di jazz al Théâtre de Verdure e Masséna; il più antico festival jazz d'Europa."
+        },
+        {
+          "month": "September–October",
+          "text": "La stagione segreta: il mare ancora caldo, le folle sparite, la luce di un pittore. Nizza al suo meglio."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Cosa Mangiare",
+      "intro": "La cucina nizzarda è una delle tradizioni regionali più distintive della Francia: mediterranea, a base di olive, ricca di verdure e in gran parte ignorata dal resto del paese. È il cibo di una città che è stata italiana fino al 1860 e che non l'ha mai dimenticato del tutto.",
+      "local_word": {
+        "word": "Pastis",
+        "pronunciation": "pah-STEES",
+        "definition": "La bevanda del sud. Un liquore all'anice, servito con una piccola caraffa di acqua fredda per diluirlo. L'acqua lo rende lattiginoso e opaco – è così che deve essere, non è un errore. Ricard è la marca standard; chiedete un Pastis de Nice per la versione locale. Si ordina in qualsiasi bar dalle 18:00 in poi, in particolare sul Cours Saleya. Lasciate perdere la birra; bevete quello che bevono i locali."
+      },
+      "items": [
+        {
+          "icon": "🥞",
+          "name": "Socca — iniziate da qui, sempre",
+          "description": "Farina di ceci, olio d'oliva, acqua, sale. Cotta in un forno a legna ad altissima temperatura su un'enorme piastra di rame finché i bordi non sono croccanti e il centro morbido. Tagliata a spicchi, servita immediatamente, mangiata con pepe nero. Chez Thérésa al Cours Saleya la prepara dagli anni '20 – arrivate prima delle 10:00 o preparatevi a fare la coda. La Socca è unica a Nizza e in questa zona; non esiste in nessun altro luogo in Francia.",
+          "tag": "Chez Thérésa · Cours Saleya · arrivate presto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chez+Pipo+Nice"
+        },
+        {
+          "icon": "🥙",
+          "name": "Pan Bagnat — il grande panino di Nizza",
+          "description": "Un pane di campagna rotondo imbevuto di olio d'oliva, poi farcito con tonno, uovo sodo, verdure crude, acciughe, olive e pepe nero. Il pane deve assorbire l'olio per almeno un'ora prima di essere mangiato – non è un fast food, ma richiede pazienza. Chez TinTin vicino al Cours Saleya è costantemente votato come il migliore della città. Il pranzo perfetto da portare sulla Collina del Castello.",
+          "tag": "Chez TinTin · mangiatelo con vista mare",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kiosque+Tintin+Nice"
+        },
+        {
+          "icon": "🥗",
+          "name": "Salade Niçoise — quella vera",
+          "description": "Solo verdure crude: pomodoro, cetriolo, ravanello, cipollotto, peperone verde, fave. Uovo sodo. Buon tonno sott'olio. Filetti di acciuga. Olive nere. Condita con olio d'oliva. Niente verdure cotte, niente lattuga, niente fagiolini a meno che non siano molto giovani e crudi. L'Ufficio del Turismo di Nizza ha una ricetta registrata. Qualsiasi ristorante che la serva con fagiolini cotti vi sta mentendo.",
+          "tag": "Solo verdure crude · niente fagiolini cotti",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Merenda+Nice"
+        },
+        {
+          "icon": "🍕",
+          "name": "Pissaladière — la pizza originale",
+          "description": "Impasto di pane spesso e morbido condito con una composta di cipolle profondamente caramellate, olive nere e filetti di acciuga – nient'altro. Venduta a fette nelle panetterie di tutta Vieux Nice. Si mangia in piedi, calda, con un caffè. Le cipolle devono cuocere per almeno un'ora; il risultato è dolce, salato e assolutamente irresistibile. La progenitrice di tutte le pizze.",
+          "tag": "Venduta in ogni panetteria di Vieux Nice · calda, a fette",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cours+Saleya+Nice"
+        },
+        {
+          "icon": "🍷",
+          "name": "Vino Bellet — il segreto meglio custodito di Nizza",
+          "description": "Quasi nessuno al di fuori di Nizza sa che esiste: una minuscola denominazione vinicola AOC sulle colline direttamente sopra la città, che produce rosso, bianco e rosé. Solo circa 50 ettari di vigneti. Il rosé è eccezionale e quasi impossibile da trovare al di fuori della regione. Cercatelo nelle liste dei vini in tutta la città – è locale, è raro ed è molto buono.",
+          "tag": "AOC Bellet · locale e raro · chiedetelo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+de+Bellet+Nice"
+        },
+        {
+          "icon": "☕",
+          "name": "Caffè — all'italiana",
+          "description": "L'eredità italiana di Nizza si manifesta nella sua cultura del caffè. L'espresso si beve in piedi al bancone, corto e forte. Una noisette è un espresso con un goccio di latte caldo – lo standard locale. Il cappuccino esiste ma è una bevanda solo per la mattina. I caffè sul Cours Saleya hanno prezzi turistici; i caffè una strada più indietro nella Vieux Nice sono quelli frequentati dai locali. La differenza di prezzo e qualità è immediata.",
+          "tag": "Al bancone · la noisette è l'ordine locale",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Rossetti+Nice"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Cours Saleya — rito mattutino",
+        "text": "Il mercato dei fiori e del cibo al Cours Saleya è aperto da martedì a domenica fino al primo pomeriggio. Arrivate prima delle 9:00: la luce è straordinaria, la socca è fresca, i fioristi stanno sistemando le loro bancarelle e lo condividerete con i nizzardi piuttosto che con i turisti. Comprate fiori. Mangiate la socca. Bevete un caffè. Questa è la migliore mattinata a Nizza."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gemme Nascoste",
+      "intro": "Nizza nasconde le sue meraviglie più belle in piena vista — su una collina che tutti costeggiano, in una caletta che tutti ignorano, dietro la porta di una chiesa sempre aperta. Le ricompense per i curiosi sono straordinarie.",
+      "items": [
+        {
+          "rarity": "Dove Hitchcock ha girato — e Grace Kelly ha cambiato la sua vita",
+          "name": "I luoghi di Caccia al Ladro — la Grande Corniche",
+          "description": "Hitchcock girò Caccia al Ladro (1955) sulla Costa Azzurra — la Promenade des Anglais, le strade di montagna della Grande Corniche e i giardini di Monaco. Il film vedeva protagonisti Cary Grant e Grace Kelly, e si dice che l'intesa tra loro abbia portato Grace Kelly a incontrare il Principe Ranieri di Monaco poco dopo al Festival di Cannes. Nel 1956, volò via dall'aeroporto di Nizza per l'ultima volta da comune cittadina. La strada della Corniche usata da Hitchcock è ancora lì — stesse curve, stessi panorami, stessa luce.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grande+Corniche+Nice"
+        },
+        {
+          "rarity": "La spiaggia dei locali — senza turisti, senza folla",
+          "name": "Coco Beach — a est del Porto",
+          "description": "Appena oltre il porto, proseguendo verso est lungo la costa, un sentiero roccioso conduce a Coco Beach — una piccola caletta riparata di rocce piatte e acqua straordinariamente limpida. Nessun servizio, nessun beach club, nessun venditore ambulante. Solo Nizzardi che vengono qui da generazioni. Il sentiero costiero prosegue da qui, abbracciando la scogliera per 1,4 km con vista sulla Baia degli Angeli. In inverno il sentiero cattura il sole basso ed è una delle passeggiate più belle della città.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Coco+Beach+Nice"
+        },
+        {
+          "rarity": "Una cattedrale russa nel cuore di Nizza",
+          "name": "Cattedrale di San Nicola — Avenue Nicolas II",
+          "description": "Sei cupole a cipolla, mosaici colorati e la più grande cattedrale ortodossa russa dell'Europa occidentale — immersa in un tranquillo giardino a dieci minuti dalla Promenade. Costruita nel 1912 con il sostegno dello Zar Nicola II, per la numerosa comunità aristocratica russa che svernava a Nizza. I Romanov avevano forti legami con la città; lo Zarevic Nicola morì qui nel 1865. L'interno è straordinario e quasi sconosciuto alla maggior parte dei visitatori. Ingresso gratuito.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cathedrale+Saint-Nicolas+Nice"
+        },
+        {
+          "rarity": "La tomba di Matisse — sotto gli ulivi, in un parco romano",
+          "name": "Monastero di Cimiez — Collina di Cimiez",
+          "description": "Henri Matisse visse a Nizza per gli ultimi 37 anni della sua vita ed è sepolto nel cimitero del Monastero di Cimiez, accanto al collega artista Raoul Dufy. Il monastero si trova in un parco archeologico romano — le rovine di un anfiteatro romano, un uliveto e un giardino pubblico dove i locali giocano a pétanque. Il Museo Matisse è accanto e ospita la più grande collezione Matisse del mondo. Quasi nessuna mappa turistica collega tutti e tre i luoghi. Salite a piedi. Prendete il vostro tempo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Monastere+de+Cimiez+Nice"
+        },
+        {
+          "rarity": "Il vigneto segreto di Nizza — sopra la città",
+          "name": "AOC Bellet — le colline di Saint-Roman-de-Bellet",
+          "description": "Sulle colline direttamente sopra Nizza, in gran parte invisibile dalla città, una minuscola denominazione vinicola produce alcuni dei vini più interessanti del sud della Francia. L'AOC Bellet copre solo circa 50 ettari e produce rosso, bianco e rosé — la maggior parte consumata localmente, quasi nulla esportata. Il rosé è eccezionale. Diverse tenute offrono visite su appuntamento. Chiedete in qualsiasi enoteca del Bellet — la reazione della persona dietro il bancone vi dirà se ne sa qualcosa di vino.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+de+Bellet+Nice"
+        },
+        {
+          "rarity": "Il cannone che non sentirete arrivare",
+          "name": "Il Cannone di Mezzogiorno — Collina del Castello",
+          "description": "Ogni giorno, esattamente a mezzogiorno, un cannone spara dalla Collina del Castello. Lo fa ogni giorno dal 1861. La storia: un lord scozzese di nome Sir Thomas Coventry, impaziente che sua moglie tornasse dallo shopping in città, persuase il consiglio comunale di Nizza a sparare un cannone a mezzogiorno in modo che lei sapesse di dover tornare a casa. La città ha continuato a farlo per oltre 160 anni. Salite sulla Collina del Castello prima di mezzogiorno — potrete assistere allo sparo da vicino, e la vista dalla cima è la migliore di Nizza.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Colline+du+Chateau+Nice"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Chiunque può entrare al Negresco",
+        "text": "Le Negresco è l'edificio più iconico della Promenade des Anglais dal 1913. Non è necessario essere un ospite — entrate, ordinate un drink al bar Le Versailles e sedetevi sulla terrazza con vista sul mare. La leggendaria cupola interna e i saloni ricchi d'arte sono liberamente ammirabili. Uno dei più grandi interni d'hotel del mondo, nessuna prenotazione richiesta."
+      }
+    },
+    "checklist": {
+      "title": "Checklist di Nizza",
+      "completion_message": "Magnifico! Hai scoperto la vera Nizza.",
+      "items": [
+        {
+          "label": "Assaggia la socca da Chez Thérésa — Cours Saleya, prima delle 10 del mattino",
+          "sub": "Farina di ceci, forno a legna, pepe nero. L'unica socca che conta. Arriva presto."
+        },
+        {
+          "label": "Passeggia al mercato di Cours Saleya all'alba",
+          "sub": "Dal martedì alla domenica. Fiori, cibo, socca, caffè. I nizzardi prima dei turisti. La migliore mattinata a Nizza."
+        },
+        {
+          "label": "Sali sulla Collina del Castello a piedi — mai prendere l'ascensore",
+          "sub": "92 metri. La scalinata nella roccia. Il cannone a mezzogiorno. La migliore vista gratuita di Nizza."
+        },
+        {
+          "label": "Percorri il Sentier du Littoral da Coco Beach",
+          "sub": "1,4 km di sentiero costiero a est del porto. Solo gente del posto. Viste straordinarie. Nessuna folla."
+        },
+        {
+          "label": "Mangia un Pan Bagnat da Chez TinTin",
+          "sub": "Il panino di Nizza. Pane imbevuto d'olio d'oliva, tonno, uovo, acciughe. Portalo sulla collina."
+        },
+        {
+          "label": "Passeggia sulla Promenade des Anglais all'alba",
+          "sub": "7 km, pianeggiante, gratuito. Il mare, la città, la luce. Prima che arrivi chiunque altro."
+        },
+        {
+          "label": "Trova la Cattedrale di San Nicola",
+          "sub": "Sei cupole a cipolla russe in un giardino di Nizza. Costruita per i Romanov. Quasi nessuno la visita."
+        },
+        {
+          "label": "Sali a Cimiez — la tomba di Matisse e le rovine romane",
+          "sub": "Giardino del monastero, anfiteatro romano, ulivi, pétanque. Il Museo Matisse è accanto."
+        },
+        {
+          "label": "Ordina vino Bellet in un ristorante locale",
+          "sub": "AOC dalle colline sopra Nizza. Chiedilo. Quasi nessuno fuori Nizza sa che esiste."
+        },
+        {
+          "label": "Percorri in auto o a piedi la Grande Corniche — la strada di Hitchcock",
+          "sub": "La strada di montagna sopra la città. Usata in Caccia al ladro (1955). La vista non è cambiata."
+        },
+        {
+          "label": "Sii a Nizza a mezzogiorno — ascolta il cannone",
+          "sub": "Collina del Castello, ogni giorno dal 1861. Lo sentirai ovunque tu sia in città."
+        },
+        {
+          "label": "Prendi il treno per Villefranche-sur-Mer per una mattinata",
+          "sub": "8 minuti da Nizza Ville. Una delle baie più belle d'Europa. Quasi nessun servizio. Perfetto."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Smaschera le Trappole",
+      "intro": "Nizza è piccola ma il suo turismo è grande; le trappole si annidano lungo il lungomare. Conosci queste quattro e goditi il Mediterraneo come un vero abitante del posto.",
+      "items": [
+        {
+          "icon": "🏖️",
+          "name": "Lidi privati che ti spennano",
+          "description": "Sulle spiagge private della Promenade, lettino più ombrellone più asciugamano fanno lievitare il conto a cifre da hotel – e i ciottoli sono sempre gli stessi ciottoli.",
+          "instead": "Usa la spiaggia pubblica: stendi il tuo telo, nuota nello stesso mare. Se desideri comfort, chiedi il listino prezzi prima di sederti."
+        },
+        {
+          "icon": "🥘",
+          "name": "'Menu turistico' ai margini di Cours Saleya",
+          "description": "Alcuni ristoranti sul lato più turistico del mercato dei fiori propongono menu con foto e classici 'nizzardi' surgelati.",
+          "instead": "Acquista direttamente al mercato, oppure addentrati di due strade: la vera pissaladière ti aspetta nelle piccole trattorie della Vecchia Nizza."
+        },
+        {
+          "icon": "🫓",
+          "name": "Socca non servita calda",
+          "description": "La socca si mangia nel momento stesso in cui esce dal forno; una socca precotta e riscaldata al microonde è un'ingiustizia per la città.",
+          "instead": "Scegli dove passa direttamente dal forno a legna al piatto (Chez Pipo è un classico); tanto pepe nero, mangia con le mani."
+        },
+        {
+          "icon": "🚗",
+          "name": "Guidare lungo la costa in estate",
+          "description": "A luglio e agosto la corniche è una guerra per il parcheggio e il traffico è infernale; un'auto a noleggio è solitamente un peso, non una libertà.",
+          "instead": "Prendi il treno: Villefranche, Èze, Monaco, Cannes sono tutte sulla linea costiera. La vista è gratuita."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regola d'oro",
+        "text": "Gran parte della bellezza di Nizza è gratuita: il mare, la luce, la Promenade, la Colline du Château. Risparmia il portafoglio per il cibo, non per la vista."
+      }
+    },
+    "itinerary": {
+      "title": "Itinerari Pronti",
+      "intro": "Se odi pianificare, segui questi percorsi. Gli orari sono flessibili; mantieni lo spirito, spezza l'ordine.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Se Hai 1 Giorno",
+          "subtitle": "Mercato, centro storico, mare e tramonto",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Mercato di Cours Saleya",
+              "description": "Passeggia tra bancarelle di fiori e frutta; un frutto locale e un espresso valgono come colazione."
+            },
+            {
+              "time": "10:30",
+              "title": "I vicoli della Vecchia Nizza",
+              "description": "Perditi tra le stradine: gelato in Place Rossetti, chiese barocche, la luce tra i panni stesi."
+            },
+            {
+              "time": "12:30",
+              "title": "Pausa Socca",
+              "description": "Socca calda dal forno a legna + un bicchiere di rosé fresco. Il pranzo più autentico di Nizza."
+            },
+            {
+              "time": "14:00",
+              "title": "Collina del Castello",
+              "description": "Sali a piedi (l'ascensore non vale): la cascata, il belvedere in ceramica e la foto migliore della città."
+            },
+            {
+              "time": "16:30",
+              "title": "Ora di mare",
+              "description": "Asciugamano sui ciottoli, tuffo nel Mediterraneo. Ti senti coraggioso? Dirigiti verso Coco Beach e nuota con la gente del posto."
+            },
+            {
+              "time": "19:00",
+              "title": "Tramonto sulla Promenade + cena",
+              "description": "Tramonto dalle famose sedie blu, poi un bistrot nella Vecchia Nizza: pissaladière, daube, un bicchiere di Bellet."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Se Hai 3 Giorni",
+          "subtitle": "Vivi la città da ospite, non da turista",
+          "steps": [
+            {
+              "time": "Giorno 1",
+              "title": "I classici di Nizza",
+              "description": "Il percorso di 1 giorno qui sopra: mercato, centro storico, collina, mare."
+            },
+            {
+              "time": "Giorno 2",
+              "title": "Cimiez e l'arte",
+              "description": "Il Museo Matisse e i giardini del monastero di Cimiez al mattino, il Museo Chagall nel pomeriggio, pesce vicino a Le Port la sera."
+            },
+            {
+              "time": "Giorno 3",
+              "title": "Una fuga costiera e l'addio",
+              "description": "Prendi il treno per Villefranche-sur-Mer o Èze; un tour delle pasticcerie nel quartiere dei Musicisti al ritorno, e un ultimo pan bagnat la sera."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Il Kit di Sopravvivenza in 5 Parole",
+      "intro": "Le parole di cortesia francesi aprono le porte a Nizza; un pizzico di Nissart ti farà guadagnare sorrisi.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Buongiorno — la prima parola obbligatoria in ogni interazione; omettila e il servizio diventerà gelido"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Grazie — ancora più efficace con 'beaucoup'"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "Per favore — aggiungilo alla fine della tua ordinazione"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "Salute! — i bicchieri di rosé si alzano a questo brindisi"
+        },
+        {
+          "word": "Issa Nissa!",
+          "pronunciation": "EE-sah NEE-sah",
+          "meaning": "'Viva Nizza!' in Nissart — il coro della città, dallo stadio alla strada"
+        }
+      ]
+    }
+  }
+}

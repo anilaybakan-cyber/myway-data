@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Gaziantep",
+    "country": "Türkiye",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#6E8A2E",
+    "color_light": "#F0F4E4",
+    "tagline": "Fıstığın, bakırın ve mozaiklerin gastronomi başkenti"
+  },
+  "pills": [
+    "UNESCO gastronomi şehri",
+    "Zeugma'nın Çingene Kızı burada",
+    "Baklavanın anavatanı"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Gaziantep'e Hoş Geldin",
+      "intro": "Gaziantep'e insan aç gelir, gönlü tok döner: burası UNESCO'nun gastronomi şehri, baklavanın anavatanı, kebabın akademisi ve fıstığın başkentidir. Ama Antep sadece sofra değildir — Zeugma'nın dünyaca ünlü mozaikleri, kalenin çevresinde dönen bakırcı çekiçleri, altı yüzyıllık hanlar ve Türkiye'nin en eski kahvehanesi de bu şehrin sokaklarındadır. İpek Yolu'nun bu durağında ticaret adabı hâlâ yaşar: esnaf çay ısmarlar, usta işini gösterir, sofra mutlaka paylaşılır.",
+      "local_word": {
+        "word": "Fıstık",
+        "pronunciation": "fıstık",
+        "definition": "Antep fıstığı: bu şehrin altını, gururu ve ölçü birimidir. Baklavanın yeşilini, dondurmanın taçını, sohbetin çerezini o verir. Antepli fıstığı 'boz iç' diye derecelendirir, hasadını bayram bilir — buradan fıstıksız dönmek, denizden susuz dönmek gibidir."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Güne beyranla başla",
+          "description": "Antep sabahının resmi açılışı beyrandır: sabah 06.00'da açan salonlarda sarımsaklı, acılı, kemik suyunda pişmiş kuzu eti seni bekler. 'Kahvaltılık çorba' fikrine direnme — bir kez içen, Antep sabahının neden erken başladığını anlar."
+        },
+        {
+          "number": 2,
+          "title": "Baklavayı sabah, ustasından ye",
+          "description": "Gerçek Antep baklavası sabah tepsiden yeni çıkmışken yenir: fıstık yeşil, yufka çıtır, tereyağı taze. 'Soğuk baklava kalır' diyen ustaya inan — sabah 08.00 baklavası ile öğleden sonra baklavası aynı tatlı değildir."
+        },
+        {
+          "number": 3,
+          "title": "Çarşıda acele etme, çay teklifini geri çevirme",
+          "description": "Bakırcılar Çarşısı ve hanlar bölgesi bir alışveriş merkezi değil, yaşayan bir zanaat okulu: ustayla konuş, çekicin ritmini dinle. Esnafın çay teklifi satış taktiği değil, Antep adabıdır — kabul et, sohbet et, sonra istersen alma."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Gaziantep (GZT)",
+          "sub": "Merkeze ~20 dk"
+        },
+        {
+          "icon": "🏛️",
+          "label": "İmza",
+          "value": "Zeugma Mozaik Müzesi",
+          "sub": "Dünyanın en büyüklerinden"
+        },
+        {
+          "icon": "🥘",
+          "label": "Unvan",
+          "value": "UNESCO Gastronomi Şehri",
+          "sub": "2015'ten beri listede"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Türkçe",
+          "sub": "Antep ağzı sıcak ve ikramcıdır"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Antep felsefesi",
+        "text": "Bu şehirde program mideyle kurulur: sabah beyran, öğlen kebap, ikindi katmer derken müzeler araya serpiştirilir. Az az, sık sık ye — Antep maraton değil, uzun soluklu bir ziyafettir."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Havalimanı merkeze yakındır, tarihi çekirdek yürünebilir ölçektedir; Zeugma ve Rumkale için tekerlek gerekir.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından geliş",
+          "description": "Gaziantep Havalimanı merkeze yirmi dakikadır: havaş servisleri ve taksiler düzenli çalışır. İstanbul, Ankara ve İzmir'den sık sefer vardır — hafta sonu gastronomi kaçamağı için ideal mesafe."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürünebilir tarihi çekirdek",
+          "description": "Kale, Bakırcılar Çarşısı, hanlar ve Bey Mahallesi birbirine yürüme mesafesindedir: tarihi Antep yarım günde adımlanır. Taş kaldırımlar için rahat ayakkabı — çarşı molalarıyla yürüyüş kendiliğinden uzar."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tramvay ve otobüsler",
+          "description": "Tramvay hattı üniversiteden merkeze uzanır, otobüsler şehri örer: Gaziantepkart ile ikisine de binersin. Merkez-müze arası kısa taksiyle de zahmetsizdir — şehir içi mesafeler kısadır."
+        },
+        {
+          "icon": "🚗",
+          "title": "Zeugma ve çevre için araç",
+          "description": "Zeugma Mozaik Müzesi merkeze on dakikadır: taksi ya da otobüsle kolayca varılır. Rumkale ve Halfeti kaçamağı içinse kiralık araç ya da günlük tur gerekir — yol Fırat manzarasıyla ödüllendirir."
+        },
+        {
+          "icon": "🧭",
+          "title": "Çarşı labirenti yürüyüşü",
+          "description": "Zincirli Bedesten'den Kemikli Bedesten'e, Şire Hanı'ndan Kürkçü Hanı'na çarşılar iç içe geçer: kaybolmak programın parçasıdır. Çekiç sesini takip et — bakırcılar bölgesi çarşının kalbidir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Müze tüyosu",
+        "text": "Zeugma'ya sabah açılışında git: Çingene Kızı'nın salonunda kalabalık olmadan göz göze kalırsın. Müzeye en az iki saat ayır — mozaikler acele sevmez, ışıklandırılmış salonlar sabah en boş halindedir."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Antep'te seçim ikilidir: tarihi çekirdekte taş konak butiği ya da yeni şehirde konforlu otel — ikisinin arası on dakikadır.",
+      "local_word": {
+        "word": "Hanlar",
+        "pronunciation": "hanlar",
+        "definition": "İpek Yolu kervanlarının konakladığı avlulu taş yapılar: Antep çarşısının omurgası. Kimi hâlâ ticarethane, kimi kafe ve butik otel oldu — avlusunda çay içmek, altı yüzyıllık ticaret tarihine oturmaktır."
+      },
+      "items": [
+        {
+          "name": "Bey Mahallesi",
+          "badge": "En karakterli",
+          "badge_type": "vibe",
+          "description": "Taş konakların mahallesi: oymalı kapılar, avlulu butik oteller, müze-evler. Tarihi Antep'in içinde uyanmak isteyenin adresi — çarşıya ve kaleye yürüme mesafesi.",
+          "tags": [
+            "Taş konaklar",
+            "Avlulu oteller",
+            "Müze-evler"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bey+Mahallesi+Gaziantep"
+        },
+        {
+          "name": "Kale ve çarşı çevresi",
+          "badge": "Sofraya en yakın",
+          "badge_type": "hot",
+          "description": "Beyran salonları, baklavacılar ve hanlar bölgesi kapının dibinde: sabah 06.00 beyranına terlikle inersin. Gastronomi odaklı ziyaretin en pratik üssü.",
+          "tags": [
+            "Beyran mesafesi",
+            "Çarşı dibinde",
+            "Erken sabah avantajı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gaziantep+Kalesi+çevresi"
+        },
+        {
+          "name": "İbrahimli ve yeni merkez",
+          "badge": "Konfor tarafı",
+          "badge_type": "value",
+          "description": "Geniş odalı, otoparklı modern oteller: fiyat-konfor dengesi güçlüdür. Tarihi çekirdeğe taksiyle on dakika — akşam serinliğinde yeni şehrin kafeleri de buradadır.",
+          "tags": [
+            "Modern konfor",
+            "Otopark kolaylığı",
+            "Güçlü kahvaltılar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=İbrahimli+Gaziantep"
+        },
+        {
+          "name": "Gar ve istasyon çevresi",
+          "badge": "Ulaşım kavşağı",
+          "badge_type": "value",
+          "description": "Otogar ve ana arterlere yakın pratik bölge: kısa konaklamalar ve erken yol çıkışları için mantıklı. Merkez tramvayla birkaç duraktır.",
+          "tags": [
+            "Ulaşıma yakın",
+            "Ekonomik seçenek",
+            "Kısa konaklama dostu"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gaziantep+Garı+çevresi"
+        },
+        {
+          "name": "Kavaklık",
+          "badge": "Yeşil ve sakin",
+          "badge_type": "local",
+          "description": "Parklarıyla bilinen sakin semt: aile ziyaretleri ve gürültüsüz geceler için yerlinin tercihi. Merkeze kısa taksi mesafesi — akşam yürüyüşü Kavaklık parkında güzeldir.",
+          "tags": [
+            "Park komşusu",
+            "Sessiz geceler",
+            "Yerli ritim"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kavaklık+Gaziantep"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Antep sofrası dört mevsim açıktır; fıstık hasadı güzü, baharat kokusu baharı, sıcak yaz öğlenleri avlu gölgelerini çağırır.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Baharatlı Bahar",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Ilık çarşı günleri, taze yeşillik sofrası",
+          "description": "Çarşı gezmesinin en tatlı mevsimi: hava ılık, avlular serin, sofralar taze soğan ve semizotuyla şenlenir. Mayısta yeni mahsul sebzeyle Antep mutfağı bahar menüsüne geçer — yürüyüş ve yemek dengesi en kolay bu aylarda kurulur.",
+          "callout": {
+            "type": "tip",
+            "label": "Mayıs ipucu",
+            "text": "Mayısta çiğ köfte ve yeşillik sofraları zirvededir: akşam serinliğinde Bey Mahallesi'nde yürü, bir konak avlusunda menengiç kahvesi iç. Müze-çarşı-sofra üçgeni bu ayda tıkır tıkır işler."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Avlu Gölgesi Mevsimi",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Sıcak öğlenler, serin han avluları",
+          "description": "Antep yazı sıcaktır: öğlen saatleri müze ve han avlusuna, sabah-akşam çarşıya ayrılır. Karpuzla peynir, künefeyle dondurma — yaz sofrası da mevsime uyar. Klimalı Zeugma öğlen sıcağının en zarif kaçış noktasıdır.",
+          "callout": {
+            "type": "warning",
+            "label": "Öğlen notu",
+            "text": "Temmuz-ağustosta 12.00-16.00 arası sokak gezmesini zorlamadır: o saatleri Zeugma'ya, Emine Göğüş'e ya da han avlusu molasına ver. Çarşı sabah 09.00'da hem serin hem sakindir."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Fıstık Hasadı",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Boz iç zamanı, kurutmalık telaşı",
+          "description": "Eylül fıstık hasadının ayıdır: tezgahlar yeni mahsulle dolar, damlarda biber ve patlıcan kurutmalıkları kızarır. Hava yumuşar, çarşı canlanır — Antep'in en Antep mevsimi budur.",
+          "callout": {
+            "type": "tip",
+            "label": "Eylül ipucu",
+            "text": "Hasat mevsiminde kuruyemişçiden 'boz iç' fıstık iste: yeni mahsulün taze yeşilini tatmak yılın ayrıcalığıdır. Katmerci tezgahında da fark hissedilir — fıstık en yeşil halindeyken katmer başka açılır."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Beyran Mevsimi",
+          "months": "Ara – Mar",
+          "subtitle": "Kış · Buharlı salonlar, közlü sohbetler",
+          "description": "Soğuk Antep sabahında beyran salonunun buharı en davetkar manzaradır: kış bu mutfağın ağır toplarının mevsimidir. Yuvalama, kebabın közlüsü, sıcak katmer — turist azalır, sofra yerliye kalır, sohbet uzar.",
+          "callout": {
+            "type": "tip",
+            "label": "Ocak ipucu",
+            "text": "Kış sabahı 07.00 beyranı bir ritüeldir: salon buhar içinde, kaşıklar ritimde. Sarımsağı ve acısını 'tam' iste — soğuğa karşı Antep'in altı yüzyıllık cevabı budur."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Burası Türkiye'nin gastronomi başkenti: liste değil müfredat gerekir — beyranla başla, katmerle bitir, arasını kebaba ve baklavaya emanet et.",
+      "local_word": {
+        "word": "Beyran",
+        "pronunciation": "beyran",
+        "definition": "Kemik suyunda saatlerce pişmiş kuzu eti, pirinç, bol sarımsak ve pul biberin kaynar kazanda buluştuğu Antep kahvaltısı: sabah 06.00'da içilir, gücü gün boyu taşır. Antepliye göre çorba değil, müessesedir — 'beyran gibi' tabiri, sağlam ve dolu dolu her şey için kullanılır."
+      },
+      "items": [
+        {
+          "icon": "🍲",
+          "name": "Beyran",
+          "description": "Sabahın kaynar açılışı: kemik suyu, didiklenmiş kuzu, sarımsak ve acı. Salonda kaşık sesiyle içilir, yanında turşu ve ekmek — ilk kaşık ders, ikincisi alışkanlıktır.",
+          "tag": "Sabah 06.00 ritüeli · acısını tam iste",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=beyran+Gaziantep"
+        },
+        {
+          "icon": "🥮",
+          "name": "Antep baklavası",
+          "description": "Kırk kat yufka, boz iç fıstık, taze tereyağı: baklavanın anavatanında sabah tepsisi ayrı bir ligdir. 'Kuru' ve 'yaş' ayrımını ustaya sor — havlu gibi katlanan yufka iyi işaretin ta kendisidir.",
+          "tag": "Sabah tepsisinden · fıstığı yeşil",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=baklava+Gaziantep"
+        },
+        {
+          "icon": "🍢",
+          "name": "Kebap müfredatı",
+          "description": "Ali Nazik'ten küşlemeye, simit kebabından soğan kebabına: Antep kebabı bir liste değil okuldur. Mevsimine denk gelirsen yenidünya ve sarımsak kebabını kaçırma — közün mevsim takvimi vardır.",
+          "tag": "Okul gibi menü · mevsim kebabı sor",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=kebap+Gaziantep"
+        },
+        {
+          "icon": "🥟",
+          "name": "Yuvalama ve içli köfte",
+          "description": "Nohutlu yoğurtlu minik köftelerin bayram çorbası yuvalama, dışı bulgur içi kıyma zarif kabuklu içli köfte: Antep'in ev mutfağı bu iki tabakta konuşur. Ev yemeği lokantalarında ara.",
+          "tag": "Ev mutfağı klasiği · bayram tabağı",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=yuvalama+Gaziantep"
+        },
+        {
+          "icon": "🥞",
+          "name": "Katmer",
+          "description": "İncecik açılan hamurda kaymak, fıstık ve şeker: sabahın tatlı yarışçısı, baklavanın genç rakibi. Sıcakken ve tezgah başında yenir — 'fıstığı çift' demek Antep'te aşkın ilanıdır.",
+          "tag": "Sıcak tezgahtan · kaymaklı çift fıstık",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=katmer+Gaziantep"
+        },
+        {
+          "icon": "☕",
+          "name": "Menengiç kahvesi ve fıstık tezgahı",
+          "description": "Yabani fıstığın közde kavrulup sütle pişirilmiş hali menengiç: kokusu çarşının hafızasıdır. Yanına kuruyemişçiden taze boz iç — Antep'in ikram ikilisi budur.",
+          "tag": "Sütlü ve közlü · çarşı molası",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=menengiç+kahvesi+Gaziantep"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sofra kuralı",
+        "text": "Antep'te 'turistik menü' gördüğün yerden usulca uzaklaş: iyi salonun menüsü kısa, tabağı derindir. Ustaya 'bugün ne yiyeyim' diye sor — Antep'te bu soru saygı işaretidir ve cevabı hiç yanıltmaz."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Zeugma'yı ve kaleyi herkes görür; bu altısı Antep'in çekiç sesli, kahve kokulu saklı yüzü.",
+      "items": [
+        {
+          "rarity": "Türkiye'nin en eski kahvehanesi",
+          "name": "Tahmis Kahvesi",
+          "description": "1630'lardan beri kahve pişen ahşap sütunlu salon: menengiç kahvesi közde, sohbet yüksek sesli, tarih her masada. Dede Efendi'nin torunlarının tezgahında bir fincan — şehrin hafızasına oturmaktır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tahmis+Kahvesi+Gaziantep"
+        },
+        {
+          "rarity": "Taş konaklar mahallesi",
+          "name": "Bey Mahallesi",
+          "description": "Oymalı kapılar, avlulu konaklar, müze-evler: eski Antep burjuvazisinin taş sokakları. Papirüs Kafe gibi konak avlularında mola ver — duvarlar Antep ağzıyla hikaye anlatır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bey+Mahallesi+Gaziantep"
+        },
+        {
+          "rarity": "Çekiç sesi atölyeleri",
+          "name": "Bakırcılar Çarşısı ustaları",
+          "description": "Kalaycı körüğü, çekiç ritmi ve kararmış önlükler: bakır burada hâlâ elde dövülür. Ustadan leğen değilse bile bir cezve al — yaptığını gösteren usta, çayını da esirgemez.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bakırcılar+Çarşısı+Gaziantep"
+        },
+        {
+          "rarity": "Kapalı çarşının kalbi",
+          "name": "Zincirli Bedesten",
+          "description": "1700'lerin kapalı çarşısı: baharatçılar, yağlık-kutnu kumaşçılar ve kurutmalık tezgahları taş kemerler altında. Sabah saatinde esnaf sohbeti alışverişten kıymetlidir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zincirli+Bedesten+Gaziantep"
+        },
+        {
+          "rarity": "Fırat kıyısı kaçamağı",
+          "name": "Rumkale ve Halfeti",
+          "description": "Bir saat ötede Fırat'ın yeşil suyunda tekne: yarısı su altında kalan Halfeti ve kayalık burnundaki Rumkale. Batık minare, kara gül hikayeleri ve nehir serinliği — Antep'in su tarafı.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rumkale+Halfeti"
+        },
+        {
+          "rarity": "Mutfağın müzesi",
+          "name": "Emine Göğüş Mutfak Müzesi",
+          "description": "Taş konakta Antep mutfağının ansiklopedisi: bakır kapkacak, yüzyıllık tarifler, sini adabı. Yemeklerin hikayesini öğrenince sofra başka tat verir — çarşı turundan önce gel, ne yediğini bilerek ye.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Emine+Göğüş+Mutfak+Müzesi"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Çarşı stratejisi",
+        "text": "Hanlar bölgesini sabah 09.00-11.00 arası gez: kepenkler yeni açılmış, ustalar işbaşında, çay ocakları kaynardadır. Öğlen sıcağında müzeye geç — ikindide çarşıya dönüş, alışverişin altın saatidir."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Gastronomi şöhreti taklidi de çağırır; bu dört oyunu bilen, Antep'in hasını yer.",
+      "items": [
+        {
+          "icon": "🥮",
+          "name": "Turistik baklava kutusu",
+          "description": "Bazı vitrinlerde 'Antep baklavası' etiketi, bayat mahsul veya az fıstıklı seri üretime yapıştırılır; hediye kutusu fiyatı has baklavayı geçer.",
+          "instead": "Sabah tepsisinden, tartıyla ve tadarak al: iyi baklavacı tattırmaktan çekinmez. Fıstığın yeşiline ve tereyağı kokusuna bak — kutu ambalajı değil, tepsi tazeliği konuşur."
+        },
+        {
+          "icon": "🍢",
+          "name": "Menüsü uzun 'kebap sarayları'",
+          "description": "Yüz kalemlik turistik menü, közün değil dondurucunun işaretidir; garsonun yönlendirdiği 'spesiyal' çoğu kez en pahalı kalemdir.",
+          "instead": "Menüsü kısa, salonu yerli dolu ustaları seç: kebap siparişini 'usta ne öneriyorsa' diye ver. Mevsim kebabı soran müşteri, mutfakta ciddiye alınır."
+        },
+        {
+          "icon": "🏺",
+          "name": "Makine işi 'el dövmesi' bakır",
+          "description": "Çarşının bazı tezgahlarında pres işi ürün, el dövmesi fiyatına satılır; parlak cila çoğu kez seri üretimi saklar.",
+          "instead": "Çekiç izini iç yüzeyde ara ve ustanın atölyesinden al: dövme bakırın izi düzensiz, sesi tok olur. Yapım aşamasını gösteren usta, fiyatını da dürüst söyler."
+        },
+        {
+          "icon": "🕐",
+          "name": "Öğlen tam saat baklava-beyran planı",
+          "description": "Beyranı öğlen, baklavayı ikindi yemek: ikisini de ikinci ligde tatmaktır — beyran sabah kazanının, baklava sabah tepsisinin işidir.",
+          "instead": "Mideni Antep saatine kur: 07.00 beyran, 09.00 baklava, öğlen kebap, ikindi katmer. Erken kalkan bu şehirde iki kez kazanır — tazelik de sıra da sabahçınındır."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Antep'te kalabalığın yerlisi olduğu yer şaşmaz pusuladır: tabelaya değil salona bak. Bir yerde esnaf yemek yiyorsa oturabilirsin — esnafın midesi bu şehirde en titiz eleştirmendir."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Beyrandan katmere bir gastronomi günü",
+          "steps": [
+            {
+              "time": "07:00",
+              "title": "Beyran açılışı",
+              "description": "Güne buharlı salonda başla: sarımsaklı, acılı, kemik sulu. İlk kaşıkta anlarsın — bu şehir sabahı ciddiye alıyor."
+            },
+            {
+              "time": "09:00",
+              "title": "Sabah baklavası",
+              "description": "Tepsiden yeni çıkmış baklava ve çay: fıstık yeşil, yufka çıtır. Tartıyla al, tezgahta ye — kutuyu akşam hediyelik için düşün."
+            },
+            {
+              "time": "10:00",
+              "title": "Kale ve Bakırcılar Çarşısı",
+              "description": "Kale çevresinden çekiç sesine yürü: ustaların atölyeleri, Zincirli Bedesten'in kemerleri, baharat kokusu. Çay teklifini geri çevirme."
+            },
+            {
+              "time": "13:00",
+              "title": "Kebap öğleni",
+              "description": "Menüsü kısa bir ustada Ali Nazik ya da günün kebabı: 'usta ne öneriyorsa' siparişin en doğrusudur. Yanına közlenmiş biber."
+            },
+            {
+              "time": "15:00",
+              "title": "Zeugma Mozaik Müzesi",
+              "description": "Çingene Kızı ile göz göze: dünyanın en büyük mozaik koleksiyonlarından birine iki saat ayır. Öğlen sıcağının en zarif kaçışı."
+            },
+            {
+              "time": "18:00",
+              "title": "Bey Mahallesi ve katmer kapanışı",
+              "description": "Taş konak sokaklarında akşam yürüyüşü, Tahmis'te menengiç kahvesi, kapanışta sıcak katmer — 'fıstığı çift' demeyi unutma."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Sofra, zanaat ve Fırat — tam Antep",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Antep",
+              "description": "Yukarıdaki 1 günlük akış: beyran, sabah baklavası, çarşı, kebap, Zeugma, Bey Mahallesi ve katmer."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Zanaat ve mutfak derinliği",
+              "description": "Sabah Emine Göğüş Mutfak Müzesi'nde Antep sofrasının teorisi; öğlen yuvalama ve içli köfteli ev yemeği; ikindi hanlar turu — Şire Hanı, Kürkçü Hanı, kutnu kumaş tezgahları; akşam Tahmis Kahvesi'nde uzun sohbet."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Fırat kaçamağı",
+              "description": "Sabah yola çık, bir saatte Halfeti: Fırat'ta tekneyle batık minare ve Rumkale; öğlen nehir kıyısında balık; dönüşte kuruyemişçiden boz iç fıstık ve baklava kutusu — valiz Antep koksun."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Antep ağzı ikramcı ve gönül alıcıdır; bu beş ifade sofrada ve çarşıda kapı açar.",
+      "items": [
+        {
+          "word": "Hoş geldin",
+          "pronunciation": "hoş geldin",
+          "meaning": "Karşılamanın temeli — salon kapısında ve han avlusunda ilk duyacağın söz"
+        },
+        {
+          "word": "Buyur gardaş",
+          "pronunciation": "buyur gardaş",
+          "meaning": "Antep usulü davet — 'gardaş' kardeşin sıcak halidir, duyunca gülümse"
+        },
+        {
+          "word": "Afiyet olsun",
+          "pronunciation": "afiyet olsun",
+          "meaning": "Beyrandan katmere her sofranın açılışı ve kapanışı"
+        },
+        {
+          "word": "Ellerine sağlık",
+          "pronunciation": "ellerine sağlık",
+          "meaning": "Ustaya en kıymetli teşekkür — kebapçıya da bakırcıya da söylenir"
+        },
+        {
+          "word": "Fıstığı çift olsun",
+          "pronunciation": "fıstığı çift olsun",
+          "meaning": "Katmerci tezgahının parolası — Antep'te cömertliğin tatlı ölçüsü"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Gaziantep Checklist",
+      "completion_message": "Ellerine sağlık! Gastronomi başkentini hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Sabah 07.00'de beyran iç",
+          "sub": "Sarımsaklı, acılı — salonda, kaşık sesiyle"
+        },
+        {
+          "label": "Baklavayı sabah tepsisinden ye",
+          "sub": "Fıstık yeşil, yufka çıtır, tereyağı taze"
+        },
+        {
+          "label": "Zeugma'da Çingene Kızı ile göz göze gel",
+          "sub": "Sabah açılışında, kalabalıksız"
+        },
+        {
+          "label": "Bakırcılar Çarşısı'nda çekiç sesini dinle",
+          "sub": "Ustadan cezve al, çayını iç"
+        },
+        {
+          "label": "Katmeri sıcak tezgahtan ye",
+          "sub": "'Fıstığı çift' demeyi unutma"
+        },
+        {
+          "label": "Tahmis Kahvesi'nde menengiç iç",
+          "sub": "1630'dan beri kaynayan ocakta"
+        },
+        {
+          "label": "Bey Mahallesi'nin taş konaklarını gez",
+          "sub": "Oymalı kapılar, avlulu kafeler"
+        },
+        {
+          "label": "Ali Nazik ve günün kebabını tat",
+          "sub": "'Usta ne öneriyorsa' siparişi"
+        },
+        {
+          "label": "Zincirli Bedesten'de baharat kokla",
+          "sub": "Sabah saatinde, esnaf sohbetiyle"
+        },
+        {
+          "label": "Halfeti'de Fırat teknesine bin",
+          "sub": "Batık minare ve Rumkale rotası"
+        }
+      ]
+    }
+  }
+}

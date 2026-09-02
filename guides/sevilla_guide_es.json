@@ -1,0 +1,565 @@
+{
+  "meta": {
+    "city": "Seville",
+    "country": "Spain",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#B5121B",
+    "color_light": "#F5E8E8",
+    "tagline": "La ciudad más española de España — y la que se lo ha ganado.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Comer tapas de pie en la barra",
+    "Reservar el Alcázar con semanas de antelación",
+    "Estar al aire libre a la hora dorada"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Sevilla",
+      "intro": "Sevilla es la ciudad que inventó las noches largas y acoge la procesión de Semana Santa que paraliza a todo el país durante una semana. En julio, la ciudad más calurosa de Europa. En abril, durante la Semana Santa y la Feria de Abril, se transforma en algo que hay que vivir para entender. El Alcázar es uno de los palacios más bellos jamás construidos. La Catedral es la estructura gótica más grande del mundo. Pero ese no es el punto. El punto es el bar de la Calle Gerona — donde la cuenta se anota con tiza en la madera y el mismo plato se sirve desde los tiempos de los moros.",
+      "local_word": {
+        "word": "Tapas",
+        "pronunciation": "TAH-pahs",
+        "definition": "En Sevilla, la cultura de la tapa es específica: un plato pequeño de comida, pedido en la barra, comido de pie o encaramado en un taburete alto, acompañado de una caña (cerveza pequeña) o una copa de fino. El ritual es ir de bar en bar — una bebida y una tapa por bar, y luego al siguiente. Una bebida, un plato, tres o cuatro bares, dos calles, dos horas. Así es una tarde de martes en Sevilla. Sin mesa, sin reserva — solo la barra del bar y una tarde que transcurre."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Reserva el Alcázar y la Catedral con semanas de antelación",
+          "description": "Tanto el Alcázar como la Catedral operan con sistemas de entrada programada que se agotan con semanas de antelación en abril y mayo. No hay entradas sin reserva. Reserva online antes de llegar — el Alcázar especialmente. Su interior mudéjar es un fuerte candidato a ser el palacio más bello de España que no es la Alhambra."
+        },
+        {
+          "number": 2,
+          "title": "Almuerzo a las 14:00, cena a las 21:00 — la ciudad lo cumple a rajatabla",
+          "description": "Las cocinas abren a las 14:00. Cierran a las 16:00. No es una sugerencia. La cena empieza a las 21:00 — esa es la hora de apertura, no la hora punta. La mesa de al lado a las 22:30 tendrá tres generaciones, incluyendo un niño que debería estar durmiendo. Entre las 17:00 y las 20:30: un paseo tranquilo, una parada para café, una copa de manzanilla en una terraza. Ese es el eje del día."
+        },
+        {
+          "number": 3,
+          "title": "En verano, la ciudad se mueve de noche",
+          "description": "Julio y agosto: regularmente 42°C. La ciudad no lucha contra ello — se reorganiza a su alrededor. Calles vacías a las 15:00. Calles llenas a las 23:00. Fuera a las 9:00, dentro a las 13:00, de vuelta fuera a las 19:00, quédate fuera hasta que la ciudad te obligue a volver a casa. Si llegas esperando la lógica veraniega de tu casa, Sevilla será miserable. Sigue el patrón local y será extraordinario."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "SVQ — Aeropuerto de Sevilla",
+          "sub": "EA bus → Torre del Oro, ~35 min"
+        },
+        {
+          "icon": "🚌",
+          "label": "Transporte",
+          "value": "Autobús + tranvía + bici (SEVIci)",
+          "sub": "Billete sencillo 1,40 € · Abono 1 día 5 € · Abono 3 días 10 € · pago contactless aceptado"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Clima",
+          "value": "La ciudad más calurosa de Europa en julio",
+          "sub": "Abr–Jun ideal · Jul–Ago brutal · Sep–Oct perfecto · Dic–Feb suave"
+        },
+        {
+          "icon": "🍺",
+          "label": "Regla de la tapa",
+          "value": "Las tapas se pagan, pero son baratas",
+          "sub": "Pide en la barra · caña + tapa · muévete entre bares"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Entrada gratuita los lunes — planifica en torno a ello",
+        "text": "Varios de los mejores monumentos de Sevilla tienen entrada gratuita los lunes por la tarde. Real Alcázar: gratis a partir de las 16:00 — reserva entradas gratuitas online con mucha antelación, aforo limitado. Casa de Pilatos: gratis de 15:00 a 19:00, sin reserva, cola en la puerta. Palacio de las Dueñas: gratis a partir de las 16:00, reserva online el mismo día. Torre del Oro: gratis todo el día los lunes, sin reserva. Cuatro monumentos. Un lunes. Cero euros."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "El centro histórico de Sevilla es compacto y llano. La mayoría de los lugares son accesibles a pie. La red de carriles bici es la mejor de España. ¡Úsala!",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeropuerto → Centro de la ciudad",
+          "description": "Autobús EA del aeropuerto hasta la Torre del Oro (junto al río): cada 30 minutos, 35 minutos de trayecto, se paga a bordo. No hay conexión de tren. Los taxis tienen taxímetro. Eso es todo."
+        },
+        {
+          "icon": "🚃",
+          "title": "Tranvía MetroCentro — a través del corazón histórico",
+          "description": "El tranvía MetroCentro conecta Plaza Nueva → Catedral → Archivo de Indias → Nervión. 1,40 € — máquinas en las paradas o pago sin contacto en el validador. Tarjeta Turista: 1 o 3 días de viajes ilimitados en tranvía y autobús. Funciona hasta medianoche entre semana, hasta las 2 de la madrugada los viernes y sábados."
+        },
+        {
+          "icon": "🚌",
+          "title": "Autobuses — la columna vertebral de la ciudad",
+          "description": "44 rutas de TUSSAM, rojo y amarillo, cubren todo lo que el tranvía no. 1,40 €, funciona el pago sin contacto. La línea C5 rodea el centro histórico. Los autobuses nocturnos funcionan hasta las 5:30 de la madrugada los fines de semana — relevante cuando la cena empieza a las 21:30."
+        },
+        {
+          "icon": "🚲",
+          "title": "Bicis SEVIci — la mejor forma de moverse",
+          "description": "Más de 180 km de carriles bici segregados. Completamente llano. Bicis SEVIci: estaciones cada pocos cientos de metros, abono de 7 días para viajes ilimitados de 30 minutos. Del Alcázar al puente de Triana por el río — menos de 20 minutos. Para cualquier trayecto de menos de 3 km: la bici es más rápida que cualquier otra cosa."
+        },
+        {
+          "icon": "🚶",
+          "title": "A pie — la única opción real en el centro",
+          "description": "De la Catedral a la Casa de Pilatos: 10 minutos. Del puente de Triana al Alcázar: 15 minutos. De la Alameda de Hércules a la Plaza de España: 20 minutos. Los patios, los naranjos, los azulejos mudéjares en cualquier esquina — todo está entre los monumentos, no en ellos. Tómate tu tiempo."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Paseo del río Guadalquivir — en bici a la hora dorada",
+        "text": "El paseo del Guadalquivir hacia el sur desde la Torre del Oro: el perfil de la ciudad a la izquierda, el río y las garzas a la derecha. Una hora antes del atardecer, la piedra adquiere un color entre cobre y oro — específico de esta latitud, este río, esta hora. En bici SEVIci: de la Torre del Oro al puente de Triana en 20 minutos. A pie: una hora. Ambas opciones son válidas. Gratuito a todas horas."
+      }
+    },
+    "stay": {
+      "title": "¿Dónde Alojarse?",
+      "intro": "Todos los barrios son accesibles a pie entre sí. La elección del barrio depende de en qué ciudad quieres despertar: Santa Cruz y Triana no son la misma ciudad.",
+      "local_word": {
+        "word": "Barrio",
+        "pronunciation": "BAH-rio",
+        "definition": "Cada barrio tiene su propio carácter y los locales lo entienden con precisión. Una persona de Triana no es de Sevilla — te lo dirán ellos mismos. Santa Cruz es la Sevilla que conocen los turistas. La Macarena es la que defienden los sevillanos. El Arenal es donde se contaba el dinero de las Américas. Ten claro en qué barrio te encuentras."
+      },
+      "items": [
+        {
+          "name": "Santa Cruz",
+          "badge": "El más céntrico",
+          "badge_type": "hot",
+          "description": "Calles demasiado estrechas para coches, demasiado blancas para dar sombra. La Catedral al final de cada dos callejones. Precioso — y a las 10 de la mañana, ya de todo el mundo. Alójate aquí por la proximidad a los monumentos. Busca otro barrio para las noches.",
+          "tags": [
+            "Catedral a un paso",
+            "Alcázar al lado",
+            "Más orientado al turismo"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Cruz+Sevilla"
+        },
+        {
+          "name": "El Arenal",
+          "badge": "Mejor base",
+          "badge_type": "hot",
+          "description": "El barrio donde llegaba y se gravaba el oro de las Américas. La Plaza de Toros en un extremo, el Guadalquivir en el otro. Céntrico pero menos teatral que Santa Cruz. Mejor acceso al río.",
+          "tags": [
+            "Acceso al río",
+            "Céntrico pero más tranquilo",
+            "Cerca de la plaza de toros"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Arenal+Sevilla"
+        },
+        {
+          "name": "Triana",
+          "badge": "El más local",
+          "badge_type": "local",
+          "description": "Triana no es Sevilla — culturalmente convencida de que es algo mejor, y no se equivoca. Azulejos todavía cocidos a mano. Mercado de hierro y cristal junto al puente. Bares en la Calle Betis con vistas a la Catedral al otro lado del río. A 15 minutos del centro. Se siente como una ciudad diferente.",
+          "tags": [
+            "Raíces flamencas",
+            "Mejor cerámica",
+            "A 15 min del centro"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Triana+Sevilla"
+        },
+        {
+          "name": "La Macarena",
+          "badge": "El más local",
+          "badge_type": "local",
+          "description": "Donde la Semana Santa comienza y se vive con mayor seriedad. Basílica de la Macarena — Virgen llorosa, manto de oro, devoción genuina. Alameda de Hércules (1574): el paseo público más antiguo de Europa, ahora repleto de bares. Sin ruta turística. Esa es la clave.",
+          "tags": [
+            "Vida nocturna en la Alameda",
+            "Mercado callejero de la Feria",
+            "Totalmente local"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Macarena+Sevilla"
+        },
+        {
+          "name": "Centro / Alfalfa",
+          "badge": "El más animado",
+          "badge_type": "hot",
+          "description": "Plaza del Salvador, Calle Sierpes — donde los sevillanos realmente compran y comen. Menos pintoresco que Santa Cruz, mucho más vivo. Los mejores bares de tapas están repartidos por aquí.",
+          "tags": [
+            "Mejor ambiente de tapas",
+            "Plaza del Salvador",
+            "La ciudad a pie de calle"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Alfalfa+Sevilla"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Mejor Época para Visitar",
+      "intro": "Sevilla tiene una estación realmente difícil. Cada uno de los demás meses tiene algo que lo hace recomendable.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "La Estación Esencial",
+          "months": "Mar – May",
+          "subtitle": "Primavera · Semana Santa y Feria de Abril",
+          "description": "La Semana Santa no es un festival, es la ciudad deteniéndose durante una semana para representar algo que ha estado ensayando durante cuatro siglos. Pasos de cinco toneladas, llevados a hombros, avanzando al ritmo de las campanas. Capuchas puntiagudas, velas, silencio total en la multitud —no impuesto, simplemente surgido. Dos semanas después: la Feria de Abril, una ciudad temporal entera de casetas, bailando sevillanas hasta las 6 de la mañana. Fuera de las fiestas, abril y mayo son ideales: azahar, calor soportable, el Alcázar aún sin aforo completo.",
+          "callout": {
+            "type": "tip",
+            "label": "Semana Santa — cómo verla correctamente",
+            "text": "Las procesiones siguen rutas fijas por el centro histórico, todas confluyendo en La Carrera Oficial. Las mejores vistas gratuitas: las calles secundarias de Santa Cruz y la Calle Sierpes. Llega 45 minutos antes de que el paso esté previsto. Busca una pared donde apoyarte. Las procesiones van desde el Domingo de Ramos hasta el Viernes Santo, a veces hasta las 3 de la madrugada. Sin entrada. Sin coste. La ciudad es el escenario."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Sobrevivir o Evitar",
+          "months": "Jun – Aug",
+          "subtitle": "Verano · Planifica en Torno al Calor",
+          "description": "Junio: aún manejable. Julio: 40°C regularmente, Sevilla reorganiza todo su día en torno a este hecho. Las calles se vacían a las 3 de la tarde. Las calles se llenan a las 11 de la noche. Agosto es cuando los sevillanos que pueden permitírselo, se van. Lo que queda funciona con lógica nocturna: interesante si la entiendes, brutal si no.",
+          "callout": {
+            "type": "tip",
+            "label": "Noches de Verano — Alcázar de noche",
+            "text": "En noches de verano seleccionadas, el Alcázar abre al anochecer — Noches en los Jardines del Real Alcázar — música en vivo, fuentes iluminadas, arcos mudéjares frescos. Con entrada, reserva anticipada obligatoria. La versión del Alcázar que la mayoría de los visitantes nunca ve."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "El Secreto Mejor Guardado",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · Cuando Sevilla Vuelve a Ser Ella Misma",
+          "description": "La ciudad se vacía de turistas a finales de septiembre. El Alcázar se puede reservar con pocos días de antelación. Bares llenos de gente con trabajos aquí que se conocen por sus nombres. La luz de octubre llega con un ángulo más bajo y capta la piedra de la Catedral con un color que el verano nunca permite —entre miel y óxido. Las fotografías turísticas de Sevilla casi siempre se toman en verano. Octubre es la razón por la que los sevillanos no echan de menos a los turistas cuando se van.",
+          "callout": {
+            "type": "tip",
+            "label": "Bienal de Flamenco (septiembre, años pares)",
+            "text": "En septiembre de los años pares: Bienal de Flamenco — el festival de flamenco más grande del mundo, en el Teatro de la Maestranza y por los barrios. Las actuaciones principales se agotan con meses de antelación. Los años sin Bienal aún ofrecen una programación completa en septiembre en tablaos y peñas."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Tranquilo y Subestimado",
+          "months": "Dec – Feb",
+          "subtitle": "Invierno · Suave, Poco Concurrido, Totalmente Local",
+          "description": "Diciembre: castañas, azahar, la Calle Sierpes iluminada, belenes de la Catedral que tardan semanas en construirse. Cabalgata de Reyes (5 de enero): el desfile de Reyes Magos más teatral de Andalucía. Después del día 6: el Alcázar se puede reservar el mismo día, los bares de tapas vuelven a sus dueños, la luz invernal tan clara que la ciudad parece recién lavada. 15°C.",
+          "callout": {
+            "type": "tip",
+            "label": "Cabalgata de Reyes — 5 de enero",
+            "text": "Noche del 5 de enero: desfile de los Reyes Magos por el centro histórico, se lanzan caramelos a los niños que bordean las calles. Los niños españoles reciben regalos esta noche, no el día de Navidad —la expectación es real. Entrada gratuita. Ve temprano para la Calle Sierpes."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "Marzo–Abril",
+          "text": "Semana Santa: las procesiones de Semana Santa elevan la ciudad a otra dimensión —grandiosa, intensa, inolvidable; los hoteles se llenan muy pronto."
+        },
+        {
+          "month": "Finales de Abril",
+          "text": "Feria de Abril: una semana de trajes de flamenca, coches de caballos y rebujito en el recinto ferial; la ciudad en su momento más alegre."
+        },
+        {
+          "month": "Julio–Agosto",
+          "text": "Calor extremo: los días por encima de los 40°C son normales; vive las mañanas y las noches, deja el mediodía para la sombra."
+        },
+        {
+          "month": "Septiembre–Noviembre",
+          "text": "La estación ideal: el calor amaina, los naranjos siguen verdes, las plazas son habitables —los mejores meses para visitar."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Qué Comer",
+      "intro": "La comida sevillana no busca impresionar. Inventada por gente con muy poco: aceite de oliva, garbanzos, casquería, pescado a 80 km de distancia. Ha llegado, a lo largo de los siglos, a ser algo discretamente extraordinario.",
+      "local_word": {
+        "word": "Fino",
+        "pronunciation": "FEE-no",
+        "definition": "El jerez seco que se bebe en Sevilla — frío, pálido, muy seco, ligeramente salino. No es el jerez de supermercado británico. La Manzanilla (de Sanlúcar, junto al mar) es aún más ligera y salada. En un bar sevillano, una copa cuesta menos que un billete de autobús en la mayoría de capitales europeas. Pídelo frío. La bebida perfecta para todo en esta ciudad."
+      },
+      "items": [
+        {
+          "icon": "🫙",
+          "name": "Espinacas con garbanzos — el clásico sevillano",
+          "description": "Espinacas y garbanzos en una salsa de pan frito, comino, pimentón, azafrán, vinagre de jerez. Receta morisca, sobrevivió intacta a la Reconquista. Los garbanzos absorben y espesan; las espinacas se oscurecen y endulzan. Caliente, con pan, en cada bar de tapas tradicional. La versión de El Rinconcillo (abierto en 1670) se hace igual desde que abrió el bar. Nunca te la saltes.",
+          "tag": "En cada bar tradicional · pide con fino · raíces moriscas",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar+Eslava+Sevilla"
+        },
+        {
+          "icon": "🥩",
+          "name": "Jamón ibérico — la obsesión nacional",
+          "description": "Cerdos ibéricos, alimentados con bellotas en las dehesas de Extremadura. Curación de dos años. La grasa es ácido oleico — igual que el aceite de oliva. Se derrite a temperatura corporal. En un buen bar sevillano llega con tu bebida, cortado fino en un plato pequeño. Cómelo a temperatura ambiente. Frío es un error.",
+          "tag": "Ibérico de bellota · temperatura ambiente · con pan y aceite de oliva",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Román+Sevilla"
+        },
+        {
+          "icon": "🐟",
+          "name": "Pescaíto frito — pescado frito, estilo andaluz",
+          "description": "Sevilla está a 80 km del Atlántico. El pescado llega fresco. Técnica andaluza: rebozado ligero de harina, aceite de oliva muy caliente, unos segundos, fuera. Crujiente por fuera, apenas cocido por dentro, sin rastro de grasa si se hace bien. Boquerones, cazón en adobo, chocos. De pie en Triana, manzanilla fría, una tarde cálida.",
+          "tag": "Boquerones · cazón en adobo · cerveza fría · limón",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Freiduría+La+Isla+Sevilla"
+        },
+        {
+          "icon": "🧅",
+          "name": "Salmorejo — la respuesta de Sevilla al gazpacho",
+          "description": "Gazpacho pero sin agua y con pan añadido. Batido hasta que quede suave, enfriado hasta que espese. Jamón picado y huevo cocido en rodajas por encima. Rojo ladrillo intenso. Debería sostener una cuchara de pie. Todos los restaurantes de Sevilla lo hacen. Algunos son extraordinarios.",
+          "tag": "Con huevo y jamón · más espeso que el gazpacho · mejor frío",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bodega+Santa+Cruz+Sevilla"
+        },
+        {
+          "icon": "🍷",
+          "name": "Jerez Fino — la bebida perfecta",
+          "description": "Fino envejecido bajo velo de flor — se mantiene pálido, seco, salino en lugar de volverse ámbar. Mar y bodega a la vez. Pídelo frío. Pide otro.",
+          "tag": "Fino o manzanilla · siempre frío · con todo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Morales+Sevilla"
+        },
+        {
+          "icon": "🍩",
+          "name": "Torrijas y pestiños — dulces de convento",
+          "description": "Durante la Semana Santa: los tornos de los conventos (ventanillas giratorias) se abren. Haz tu pedido; el torno gira; una mano que nunca ves te lo entrega. Torrijas: pan empapado en vino, frito en aceite de oliva, azúcar y canela. Más contundentes que las tostadas francesas, y mejores. Pestiños: masa glaseada con miel, anís y sésamo. Se comen calientes fuera del convento mientras pasan las procesiones.",
+          "tag": "Tornos de convento · tradición de Semana Santa · anís y miel",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Confitería+La+Campana+Sevilla"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "El Rinconcillo — el bar de tapas más antiguo de Sevilla",
+        "text": "El Rinconcillo, Calle Gerona, 1670. El sistema sigue igual: pide en la barra, el camarero anota la cuenta con tiza en la madera, paga al final. A una calle de las rutas turísticas. Espinacas con garbanzos. Jamón. Croquetas. Los precios son los que deben ser. El servicio no intenta encandilarte. Ve a comer un martes. Coge el taburete más cercano al barril."
+      }
+    },
+    "hidden_gems": {
+      "title": "Joyas Escondidas",
+      "intro": "La cola de la Catedral es una de las más largas de España. A veinte metros, a través de un pasaje, hay una plaza porticada del siglo XVI a la que casi nadie entra. Así funciona Sevilla.",
+      "items": [
+        {
+          "rarity": "Un palacio que rivaliza con el Alcázar — y al que casi nadie va",
+          "name": "Casa de Pilatos — Santa Cruz",
+          "description": "La familia Medinaceli midió la distancia desde su puerta hasta una capilla local y descubrió que coincidía con la de la casa de Poncio Pilato al Calvario. De ahí su nombre. Azulejos mudéjares, bóvedas góticas, escultura renacentista — no deberían encajar, pero lo hacen a la perfección. Aquí se rodó Lawrence de Arabia. Aquí se rodó The Crown. El Alcázar recibe el 90% de los visitantes. Con entrada. Gratis los lunes de 15:00 a 19:00 — haz cola en la puerta.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+de+Pilatos+Sevilla"
+        },
+        {
+          "rarity": "La letra de Colón, en la pared, gratis",
+          "name": "Archivo General de Indias — Plaza de la Catedral",
+          "description": "Entre la Catedral y el Alcázar. No es una iglesia, no es un palacio — es un archivo renacentista con 80 millones de páginas sobre la colonización española de América. Las cartas de Colón: tras un cristal, de su puño y letra. Diseñado por Juan de Herrera (el arquitecto de El Escorial). Los visitantes en la cola de la Catedral de al lado, en gran parte, no saben que existe. Gratis de martes a domingo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Archivo+de+Indias+Sevilla"
+        },
+        {
+          "rarity": "El bar de flamenco sin cartel — y sin turistas",
+          "name": "La Carbonería — Santa Cruz",
+          "description": "Sin cartel. Puerta de madera en la Calle Levíes. Parece un patio privado — porque lo es. Dentro: antiguo almacén de carbón, sillas desparejadas, ladrillo visto, flamenco gratis todas las noches. Público: mayormente local. Artistas: no están en el circuito de tablaos turísticos. Informal — el guitarrista termina, alguien pide otra canción, y acceden. Sin entrada. Sin reserva. Llega, pide, siéntate, presta atención.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Carboneria+Sevilla"
+        },
+        {
+          "rarity": "Un palacio de inspiración morisca aún propiedad de la familia del poeta",
+          "name": "Palacio de las Dueñas — La Macarena",
+          "description": "La Duquesa de Alba vivió aquí hasta 2014. Siglo XV, mudéjar-renacentista — patios de naranjos, arcos cubiertos de jazmín. Antonio Machado nació aquí en 1875. Las salas albergan las colecciones personales de la familia más condecorada de la historia de España: Goyas, Rubens, escultura romana. Con entrada. Gratis los lunes a partir de las 16:00 — reserva online la misma mañana.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palacio+de+las+Dueñas+Sevilla"
+        },
+        {
+          "rarity": "La plaza más antigua de la ciudad — escondida a la sombra de la Catedral",
+          "name": "Plaza del Cabildo — Plaza de la Catedral",
+          "description": "Lado sur de la Plaza de la Catedral. Parece una entrada de servicio. Atraviesa — el ruido cesa. 1572. Un semicírculo perfecto de arcos, diseñado para el comercio, ahora un atajo que nadie usa. Los domingos por la mañana: algunos puestos venden monedas y sellos antiguos. Por lo demás: vacía, tranquila, rodeada por la mayor densidad turística de Andalucía. Sevilla en miniatura. Gratis.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Plaza+del+Cabildo+Sevilla"
+        },
+        {
+          "rarity": "Sevilla desde arriba — sin cola ni entrada",
+          "name": "Metropol Parasol (Las Setas) — Plaza de la Encarnación",
+          "description": "Seis parasoles de madera laminada con forma de seta, a 28 metros de altura, que dividen Sevilla desde 2011. Los lugareños lo llaman Las Setas. La mayoría se ha reconciliado con él. Pasarela en la azotea: Giralda, jardines del Alcázar, Guadalquivir, los barrios blancos del sur. Ve una hora antes del atardecer — la luz sobre la Catedral desde allí arriba. La azotea es de pago. El mercado de la planta baja y las ruinas romanas del Antiquarium: gratis.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Las+Setas+Sevilla"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Triana — cruza el puente y quédate",
+        "text": "Cruza el puente de Triana. Camina una manzana: tiendas de cerámica. Camina tres manzanas: Triana. Mercado de hierro y cristal en una antigua puerta de castillo del siglo XIX. Bares en la Calle Betis frente a la Catedral — la mejor vista de la ciudad, desde el barrio que siempre encontró la ciudad un poco innecesaria. Peñas flamencas en las calles traseras — clubes privados, practicantes serios, algunos admiten visitantes. Pregunta en el bar. Cena en Triana. Mejor comida. Más barato. Nadie intentando sentarte."
+      }
+    },
+    "checklist": {
+      "title": "Lista de Imprescindibles de Sevilla",
+      "completion_message": "¡Olé! Has descubierto la auténtica Sevilla.",
+      "items": [
+        {
+          "label": "Reserva el Alcázar antes de llegar",
+          "sub": "Con entrada, se agota con semanas de antelación. Lunes a partir de las 16:00 gratis, pero reserva las entradas gratuitas online con mucha antelación, aforo limitado."
+        },
+        {
+          "label": "Come espinacas con garbanzos en un bar tradicional",
+          "sub": "Espinacas y garbanzos, receta morisca. El Rinconcillo (1670) o cualquier bar tradicional. Con una copa de fino."
+        },
+        {
+          "label": "Visita la Casa de Pilatos",
+          "sub": "Con entrada. Lunes de 15:00 a 19:00 gratis, sin reserva — haz cola en la puerta. El Alcázar recibe el 90% de los visitantes."
+        },
+        {
+          "label": "Entra en el Archivo General de Indias",
+          "sub": "Entre la Catedral y el Alcázar. Las cartas de Colón en la pared. Gratis de martes a domingo. Suele ser más tranquilo que cualquier otro lugar cercano."
+        },
+        {
+          "label": "Encuentra La Carbonería en la Calle Levíes",
+          "sub": "Puerta de madera sin señalizar. Flamenco gratis todas las noches. Sin entrada, sin reserva — llega, pide, mira."
+        },
+        {
+          "label": "Toma una copa de fino en el bar",
+          "sub": "Frío, seco, con la tapa que llegue. Pide fino o manzanilla. El precio varía según el bar."
+        },
+        {
+          "label": "Cruza el puente de Triana y quédate a cenar",
+          "sub": "Mercado de Triana, Calle Betis, vistas a la Catedral. Mejor comida, más barato que Santa Cruz. Paseo gratuito."
+        },
+        {
+          "label": "Encuentra la Plaza del Cabildo",
+          "sub": "Pasaje estrecho cerca de la entrada de la Catedral. Plaza semicircular porticada. Gratis. La multitud está a quince segundos y no sabe que existe."
+        },
+        {
+          "label": "Visita el Palacio de las Dueñas",
+          "sub": "Con entrada. Lunes a partir de las 16:00 gratis — reserva online la misma mañana. Casi desconocido para los visitantes no españoles."
+        },
+        {
+          "label": "Pasea por la orilla del Guadalquivir una hora antes del atardecer",
+          "sub": "Desde la Torre del Oro hacia el sur hasta el puente de Triana. En bici SEVIci o a pie. Gratis. La piedra adquiere un color sin nombre en inglés."
+        },
+        {
+          "label": "Ve a El Rinconcillo entre semana",
+          "sub": "Calle Gerona. Abierto desde 1670. Cuenta apuntada con tiza en la barra. Taburete más cercano al barril. El precio varía."
+        },
+        {
+          "label": "Contempla el atardecer desde el Metropol Parasol (Las Setas)",
+          "sub": "La azotea es de pago. La planta baja y las ruinas romanas son gratis. Ve una hora antes del atardecer."
+        },
+        {
+          "label": "Pasea por el Alcázar",
+          "sub": "Con entrada, se requiere reserva anticipada. Azulejos mudéjares, arcos de herradura, estanques reflectantes. El palacio más extraordinario de España fuera de Granada."
+        },
+        {
+          "label": "Entra en la Catedral",
+          "sub": "El edificio gótico más grande del mundo. Con entrada, se recomienda reservar con antelación. La tumba de Colón está dentro."
+        },
+        {
+          "label": "Toma una cerveza barata en la Alameda de Hércules",
+          "sub": "El paseo público más antiguo de Europa (1574). Ahora lleno de bares. Siéntate, observa, los precios son la mitad que en el centro."
+        },
+        {
+          "label": "Visita la Torre del Oro",
+          "sub": "Torre Dorada del siglo XIII a orillas del río. Con entrada. Gratis todo el día los lunes, no se necesita reserva."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Evita las Trampas",
+      "intro": "Sevilla es una ciudad acogedora, pero los clásicos 'juegos' se dan en sus rincones más turísticos. Conoce estos cuatro y vive Andalucía como un local.",
+      "items": [
+        {
+          "icon": "💃",
+          "name": "Espectáculos de flamenco con 'paquete de cena'",
+          "description": "En los espectáculos montados para turistas de autobús, el flamenco se convierte en música de fondo: paella congelada, un número con micrófono, sin alma.",
+          "instead": "Ve el flamenco donde nació: un pequeño tablao o un lugar como La Carbonería, con una copa en la mano, a dos metros del escenario."
+        },
+        {
+          "icon": "🐴",
+          "name": "Subir a un coche de caballos sin acordar el precio",
+          "description": "Los coches de caballos son un clásico encantador, pero sube sin hablar de dinero y el paseo se acortará mientras la cuenta crece.",
+          "instead": "Pregunta por la tarifa oficial y acórdala antes de subir; o recorre la misma ruta a pie — Santa Cruz existe para ser paseado."
+        },
+        {
+          "icon": "🍽️",
+          "name": "'Menú turístico' justo al lado de la Catedral y el Alcázar",
+          "description": "Los menús con fotos a la salida de los monumentos significan paella de microondas y una cuenta inflada; nada que ver con el alma de tapas de Sevilla.",
+          "instead": "Camina dos calles: apóyate en un bar de Alfalfa, El Arenal, o al otro lado del río en Triana, y pide tapas."
+        },
+        {
+          "icon": "☀️",
+          "name": "Hacer turismo al mediodía en verano",
+          "description": "En julio y agosto el termómetro supera los 40°C entre las 2 y las 6 de la tarde; hacer cola para los monumentos entonces derrite tus vacaciones.",
+          "instead": "Vive como la ciudad: haz turismo temprano, tómate un almuerzo largo y una siesta en algún lugar fresco, vuelve a las calles por la noche — Sevilla florece al anochecer."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de oro",
+        "text": "La señal de un buen bar en Sevilla es una multitud de pie y servilletas en el suelo: si la barra está llena y el suelo está cubierto, la cocina es buena — quédate."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Preparadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Palacios, patios de naranjos y flamenco de madrugada",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Real Alcázar — primera hora",
+              "description": "Reserva con semanas de antelación y entra a primera hora: los jardines, frescos por la mañana y antes de las multitudes, son el paraíso."
+            },
+            {
+              "time": "11:30",
+              "title": "Catedral + Giralda",
+              "description": "La catedral gótica más grande del mundo, luego sube por la torre de rampas: Sevilla a tus pies."
+            },
+            {
+              "time": "14:00",
+              "title": "Almuerzo largo + siesta",
+              "description": "Adáptate al ritmo de la ciudad: salmorejo, espinacas, una copa de fino. Luego, sin prisas, las horas más calurosas pasan a la sombra."
+            },
+            {
+              "time": "18:00",
+              "title": "Plaza de España + Parque de María Luisa",
+              "description": "Puentes de cerámica y el canal con la luz del atardecer; el escenario fotográfico más generoso de la ciudad."
+            },
+            {
+              "time": "20:30",
+              "title": "Ruta de tapas por Triana",
+              "description": "Cruza el puente, ve de bar en bar por la Calle Betis y el mercado: pescaíto frito + cerveza fría."
+            },
+            {
+              "time": "22:30",
+              "title": "Flamenco por la noche",
+              "description": "Un pequeño tablao o La Carbonería: eso que llaman duende solo aparece a estas horas."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Vive la ciudad como un invitado, no como un turista",
+          "steps": [
+            {
+              "time": "Día 1",
+              "title": "Los clásicos",
+              "description": "El itinerario de 1 día anterior: Alcázar, Catedral, Plaza de España, Triana."
+            },
+            {
+              "time": "Día 2",
+              "title": "Palacios y Macarena",
+              "description": "Casa de Pilatos y Palacio de las Dueñas por la mañana, el barrio y la basílica de la Macarena por la tarde, un paseo al atardecer por Las Setas."
+            },
+            {
+              "time": "Día 3",
+              "title": "El río y la despedida",
+              "description": "Torre del Oro y la orilla del río por la mañana, mercado de Triana y talleres de cerámica al mediodía, un baño árabe por la tarde, una última ruta de tapas por Alfalfa por la noche."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "El kit de supervivencia de 5 palabras",
+      "intro": "Aquí el español se canta más que se habla; estas cinco te abrirán las puertas andaluzas.",
+      "items": [
+        {
+          "word": "Buenas",
+          "pronunciation": "BWEH-nas",
+          "meaning": "El saludo corto para cualquier momento del día — al entrar en cualquier tienda o bar"
+        },
+        {
+          "word": "Gracias",
+          "pronunciation": "GRAH-syas",
+          "meaning": "Gracias — en acento andaluz: grasya"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "por fah-VOR",
+          "meaning": "Por favor — añádelo al final de tu pedido"
+        },
+        {
+          "word": "¡Salud!",
+          "pronunciation": "sah-LOOD",
+          "meaning": "¡Salud! — así se brinda con las copas de fino"
+        },
+        {
+          "word": "No pasa nada",
+          "pronunciation": "no PAH-sah NAH-dah",
+          "meaning": "No te preocupes / no importa — la filosofía de vida andaluza en una frase"
+        }
+      ]
+    }
+  }
+}

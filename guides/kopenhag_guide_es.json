@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#235A75",
+    "color_light": "#E8F1F7",
+    "tagline": "La capital de las bicicletas, las aguas del puerto y el hygge"
+  },
+  "pills": [
+    "Más bicicletas que coches",
+    "Puerto lo suficientemente limpio para nadar",
+    "Campeón perenne de los estudios de felicidad"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Copenhague",
+      "intro": "Copenhague no presume de grandeza, sino de una vida bien construida: a las ocho de la mañana un hombre en traje se desliza a tu lado en bicicleta, al mediodía la gente se zambulle en el mar desde las escaleras del puerto, y por la noche alguien charla en una ventana a la luz de las velas sin mirar el móvil ni una sola vez. Esta ciudad es una respuesta elegante a la pregunta '¿cómo se debe vivir?'. Saca tu foto de postal del colorido Nyhavn, y luego ve a lo importante: pedalea, métete en el agua, siéntate alrededor de una vela. Copenhague no se ve, se vive.",
+      "local_word": {
+        "word": "Hygge",
+        "pronunciation": "hoo-gah",
+        "definition": "El regalo de Dinamarca al mundo: ese estado indefinible de bienestar y calidez hecho de luz de velas, buenos amigos, una bebida caliente y la ausencia de prisas. Si ves mantas y velas en una cafetería, el hygge está ahí, y unirse está permitido."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Nunca pises el carril bici",
+          "description": "El carril bici no es una acera, es una autopista: si te metes en un flujo que se mueve a 20 km/h, oirás una advertencia danesa antes de la campana. Crúzalo como una flecha, haz tus fotos desde la acera."
+        },
+        {
+          "number": 2,
+          "title": "Respeta la confianza",
+          "description": "Dinamarca es una sociedad de confianza: los carritos de bebé duermen fuera de las cafeterías, las bicicletas se sujetan con candados finos, el metro no tiene torniquetes. Como invitado de este sistema, compra tu billete y guarda tu asombro para una sonrisa."
+        },
+        {
+          "number": 3,
+          "title": "Nadar es gratis, con reglas",
+          "description": "Los baños del puerto (havnebad) son gratuitos y el agua está lo suficientemente limpia como para nadar; nadar fuera de las zonas marcadas y en los carriles de barcos está prohibido y es peligroso. Zambúllete donde se zambullen los lugareños."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "Kastrup (CPH)",
+          "sub": "Metro al centro ~15 min"
+        },
+        {
+          "icon": "🚲",
+          "label": "Cómo moverse",
+          "value": "Bici + metro",
+          "sub": "El metro sin conductor funciona 24/7"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "Danés",
+          "sub": "Inglés fluido como lengua materna"
+        },
+        {
+          "icon": "💳",
+          "label": "Moneda",
+          "value": "Corona danesa",
+          "sub": "El efectivo es casi historia"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofía de Copenhague",
+        "text": "Copenhague es cara, es cierto; pero sus mejores momentos son gratis: el atardecer en el puerto, un pícnic en el césped del parque, los havnebad gratuitos. Guarda el dinero para un buen restaurante y deja el resto a la infraestructura de felicidad gratuita de la ciudad."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "En Copenhague, el rey del transporte es la bicicleta; el metro es automático y puntual, y los barcos del puerto son el 'autobús' con las mejores vistas.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Del aeropuerto al centro",
+          "description": "La línea M2 del metro llega a Kongens Nytorv en 15 minutos; el tren llega a la Estación Central en un tiempo similar. Ambos comparten un mismo sistema de billetes: valida tu tarjeta sin contacto."
+        },
+        {
+          "icon": "🚲",
+          "title": "La bicicleta: la lengua materna de la ciudad",
+          "description": "Con una bicicleta de alquiler, la ciudad es tuya en un día: carriles anchos, puentes ciclistas, semáforos para bicis. Las reglas son serias: mantente a la derecha, señaliza tus giros, levanta la mano al detenerte."
+        },
+        {
+          "icon": "🚇",
+          "title": "El metro automático",
+          "description": "Las líneas M1-M4 funcionan 24/7, y ver las vías a través de la ventana delantera es como un sueño de la infancia. El anillo Cityringen (M3) conecta todos los distritos centrales."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Los barcos del puerto",
+          "description": "Los autobuses amarillos del puerto (havnebus) funcionan con un billete normal de transporte público: ve de Nyhavn a la Ópera y luego a Refshaleøen por el agua, con tarifa de autobús, no de barco turístico."
+        },
+        {
+          "icon": "🚶",
+          "title": "El centro a pie",
+          "description": "Desde Strøget hasta Nyhavn y la plaza del palacio, el centro se recorre cómodamente a pie; pero Copenhague es una ciudad extensa: para Nørrebro y Refshaleøen, confía en los pedales o el metro."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo del Havnebus",
+        "text": "Los barcos amarillos 991/992 son el 'crucero' más barato de la ciudad: todo el paseo marítimo desde la Biblioteca Real hasta la Ópera con un billete normal. Planifica tu viaje para la salida al atardecer."
+      }
+    },
+    "stay": {
+      "title": "Dónde Alojarse",
+      "intro": "Los barrios de Copenhague compiten en carácter: el centro de cuento de hadas, el bohemio Nørrebro, el antes-cárnico-ahora-cool Vesterbro, el Christianshavn surcado por canales.",
+      "local_word": {
+        "word": "Kvarter",
+        "pronunciation": "kvar-tehr",
+        "definition": "Distrito, barrio: un copenhaguense explica su identidad por el lado del puente en el que vive. Ser 'de Nørrebro' es una declaración de estilo de vida, ofrecida sin que se le pregunte."
+      },
+      "items": [
+        {
+          "name": "Indre By (el centro)",
+          "badge": "El más céntrico",
+          "badge_type": "vibe",
+          "description": "Un escenario de cuento de hadas entre Strøget, Nyhavn y los palacios: a poca distancia de todo, café matutino junto al canal. Precios por encima incluso del nivel de la capital; la ubicación se paga en efectivo.",
+          "tags": [
+            "Nyhavn a dos pasos",
+            "A pie a todas partes",
+            "Precios altos"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Indre+By+Copenhagen"
+        },
+        {
+          "name": "Nørrebro",
+          "badge": "El más bohemio",
+          "badge_type": "hot",
+          "description": "La energía multicultural al otro lado del puente: cocinas del mundo, tiendas vintage, el parque Superkilen, pícnics en el parque-cementerio. Joven, vibrante y hogar de los mejores tostadores de café de la ciudad.",
+          "tags": [
+            "Cocinas del mundo",
+            "Tiendas vintage",
+            "Energía joven"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nørrebro+Copenhagen"
+        },
+        {
+          "name": "Vesterbro",
+          "badge": "El más 'cool'",
+          "badge_type": "local",
+          "description": "Los bares del antiguo distrito cárnico Kødbyen, café de tercera ola y hoteles de diseño: nueva vida en un tejido antiguo. Junto a la Estación Central, práctico también con maleta.",
+          "tags": [
+            "Bares de Kødbyen",
+            "Hoteles de diseño",
+            "Cerca de la estación"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vesterbro+Copenhagen"
+        },
+        {
+          "name": "Christianshavn",
+          "badge": "El más pintoresco",
+          "badge_type": "value",
+          "description": "Canales, barcos y fachadas que recuerdan a Ámsterdam: a cinco minutos del centro cruzando el puente, el sonido del agua al atardecer. Para quienes buscan desayunos junto al canal y noches tranquilas.",
+          "tags": [
+            "Vistas al canal",
+            "Puente al centro",
+            "Noches tranquilas"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Christianshavn+Copenhagen"
+        },
+        {
+          "name": "Østerbro",
+          "badge": "El más tranquilo",
+          "badge_type": "value",
+          "description": "El distrito de embajadas, lagos y amplias avenidas: la densidad de cochecitos de bebé es el índice de confianza de la ciudad. A poca distancia de la Sirenita; el barrio para familias y amantes de la tranquilidad.",
+          "tags": [
+            "Junto al lago",
+            "Familiar",
+            "Amplios parques"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Østerbro+Copenhagen"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Cuándo Ir",
+      "intro": "El verano de Copenhague es como una recompensa y su invierno como una lección: la recompensa es la luz del día, la lección es el hygge. Ambos merecen la pena.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "El Despertar",
+          "months": "Abr – Jun",
+          "subtitle": "Primavera · Terrazas abiertas, los lagos cobran vida",
+          "description": "Los cerezos florecen, las mesas de los cafés invaden las calles, las mantas cuelgan de las sillas. La luz se alarga rápidamente; en junio todavía es crepúsculo a las once de la noche.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de abril",
+            "text": "A finales de abril, el túnel de cerezos del cementerio de Bispebjerg se tiñe de rosa: ve temprano por la mañana; las multitudes llegan hacia el mediodía."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Verano en el Puerto",
+          "months": "Jul – Ago",
+          "subtitle": "Verano · Temporada de piscinas del puerto, noches largas",
+          "description": "La ciudad se traslada al aire libre: las piscinas del puerto se llenan, los frentes marítimos se convierten en playas, los mercados de comida callejera cobran vida hasta la noche. El día dura 17 horas y nadie quiere quedarse dentro.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de julio",
+            "text": "Una tarde como un local: lánzate al agua en Islands Brygge, sécate al sol, luego cerveza y atardecer en el césped de la orilla. Coste total: el precio de una cerveza."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "Luz Dorada",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · Noche de la Cultura, las primeras velas",
+          "description": "Los árboles cambian de color, las velas se encienden temprano en los cafés, museos y salas de conciertos abren sus temporadas. En Kulturnatten en octubre, cientos de lugares mantienen sus puertas abiertas hasta medianoche.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de octubre",
+            "text": "En Kulturnatten, una sola pulsera te lleva a todas partes, desde el palacio hasta la estación de bomberos: desde los establos reales hasta la tribuna del parlamento, una noche al año."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Temporada Hygge",
+          "months": "Dic – Feb",
+          "subtitle": "Invierno · Luz de velas, luces de Tivoli, días cortos",
+          "description": "El día oscurece a las cuatro, pero la ciudad responde a la oscuridad con velas: Tivoli se convierte en un jardín de invierno, los cafés reparten mantas, el hygge alcanza su punto álgido. Vístete para el frío, y que el calor te llegue al alma.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de diciembre",
+            "text": "Tivoli en Navidad es el corazón del invierno de Copenhague: luces, gløgg (vino caliente especiado) y æbleskiver (pequeñas tortitas redondas). Ve una tarde entre semana y evita la cola del fin de semana para ver las luces."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "¿Qué Comer?",
+      "intro": "Estás en la capital de la Nueva Cocina Nórdica, pero no te intimides: el mostrador de smørrebrød, el carrito de salchichas y el rollo de canela son tan sagrados como los menús con estrellas.",
+      "local_word": {
+        "word": "Smørrebrød",
+        "pronunciation": "smur-broth",
+        "definition": "El arte del sándwich abierto sobre pan de centeno: arenque, gambas, rosbif... cada uno una composición con sus reglas. Se come con cuchillo y tenedor, en orden: primero el arenque, luego el pescado, después la carne."
+      },
+      "items": [
+        {
+          "icon": "🥪",
+          "name": "El ritual del smørrebrød",
+          "description": "El clásico del almuerzo: arenque encurtido sobre centeno, ternera con remoulade, o gambas con huevo. Se come en comedores centenarios con manteles blancos y snaps; deja la secuencia de pedido al camarero.",
+          "tag": "Clásico del almuerzo · con un snaps",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Schønnemann+Copenhagen"
+        },
+        {
+          "icon": "🌭",
+          "name": "Pølsevogn — el carrito de salchichas",
+          "description": "Una salchicha roja (rød pølse) con el pan aparte, mucha mostaza, leche con chocolate para beber: el menú nacional danés por excelencia. Los carritos de salchichas orgánicas han llevado este clásico a una nueva generación.",
+          "tag": "De pie · ristet + con todo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=DØP+Copenhagen"
+        },
+        {
+          "icon": "🥐",
+          "name": "Kanelsnegl y la verdad sobre el 'Danish'",
+          "description": "Lo que el mundo llama 'Danish pastry' aquí se conoce como wienerbrød (pan de Viena), y el caracol de canela, el kanelsnegl, es la religión matutina de la ciudad. Cuando veas una cola en una panadería, únete a ella.",
+          "tag": "De una panadería matutina · una cola es buena señal",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Juno+the+Bakery+Copenhagen"
+        },
+        {
+          "icon": "🏪",
+          "name": "Mercado Torvehallerne",
+          "description": "El mercado gourmet con techo de cristal: mostradores de smørrebrød, pescado fresco, café y cocina danesa por raciones. El lugar ideal tanto para un plan de día lluvioso como para comprar un pícnic soleado.",
+          "tag": "Mercado cubierto · mostradores de almuerzo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Torvehallerne+Copenhagen"
+        },
+        {
+          "icon": "🍺",
+          "name": "Cerveza artesanal y la cultura del skål",
+          "description": "En la ciudad de Carlsberg, la nueva ola es fuerte: Mikkeller y los bares de microcerveza atraen a peregrinos de todo el mundo. Cuando las copas se eleven, mira a los ojos de todos, di 'skål' y luego bebe; el orden importa.",
+          "tag": "Bar de microcerveza · contacto visual + skål",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mikkeller+Bar+Copenhagen"
+        },
+        {
+          "icon": "🔥",
+          "name": "Comida callejera en Refshaleøen",
+          "description": "Reffen, en la antigua isla de los astilleros, es una gigantesca cocina callejera construida con contenedores: cocinas del mundo, vistas al puerto, hogueras. Ve en havnebus, quédate para el atardecer.",
+          "tag": "En verano · ve en barco",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Reffen+Copenhagen"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo para el presupuesto",
+        "text": "Las cuentas de los restaurantes se disparan en Copenhague; equilibra el presupuesto como un local: smørrebrød o un mostrador de mercado al mediodía, un buen restaurante por la noche. El agua del grifo es gratis y excelente en todas partes; no dudes en pedirla."
+      }
+    },
+    "hidden_gems": {
+      "title": "Rincones Escondidos",
+      "intro": "Todo el mundo ve la Sirenita (y se sorprende); estos seis son el verdadero carácter de Copenhague.",
+      "items": [
+        {
+          "rarity": "Un parque de pícnic con filósofos",
+          "name": "Assistens Kirkegård",
+          "description": "El cementerio donde descansan Andersen y Kierkegaard es también el parque de Nørrebro: los lugareños toman el sol entre las lápidas, pasean en bici, leen libros. Hay pocos lugares donde la muerte y la vida convivan tan amistosamente.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Assistens+Kirkegård+Copenhagen"
+        },
+        {
+          "rarity": "Una central eléctrica con una pista de esquí en su tejado",
+          "name": "CopenHill",
+          "description": "El tejado de la planta de valorización energética de residuos de la ciudad es una pista de esquí artificial, un sendero para hacer senderismo y el rocódromo más alto del mundo: deporte sobre energía limpia. Desde la cima, el puerto y los aerogeneradores: una vista que resume Copenhague.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=CopenHill+Copenhagen"
+        },
+        {
+          "rarity": "Un parque como un mapamundi",
+          "name": "Superkilen",
+          "description": "El parque de Nørrebro, ensamblado con objetos de más de 60 países: una fuente marroquí, un ring de boxeo tailandés, neones soviéticos y las famosas colinas rosas y negras con rayas blancas. Una clase magistral de diseño urbano reconocida mundialmente.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Superkilen+Copenhagen"
+        },
+        {
+          "rarity": "Una playa portuaria gratuita",
+          "name": "Islands Brygge Havnebad",
+          "description": "Un baño portuario gratuito de cinco piscinas en el corazón de la ciudad: un copenhaguense que sale de la oficina se afloja la corbata, se zambulle y vuelve al trabajo. Si tienes valor, la plataforma de cinco metros te espera.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Islands+Brygge+Havnebadet+Copenhagen"
+        },
+        {
+          "rarity": "Una cisterna de arte subterránea",
+          "name": "Cisternerne",
+          "description": "La antigua cisterna de agua bajo la colina de Frederiksberg es el espacio artístico más atmosférico de la ciudad: oscuridad, agua goteando e instalaciones gigantes específicas del lugar. El parque de arriba es una vista extra.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cisternerne+Frederiksberg"
+        },
+        {
+          "rarity": "Atardecer en la isla del astillero",
+          "name": "Refshaleøen and La Banchina",
+          "description": "La antigua isla del astillero es el nuevo barrio creativo de la ciudad: comida callejera, una combinación de sauna y mar, y la pequeña La Banchina, donde se bebe vino en el embarcadero. Ve en havnebus y disfruta del atardecer al borde del muelle.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Banchina+Copenhagen"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo matutino",
+        "text": "Visita Nyhavn a las 8 de la mañana: fachadas coloridas, un muelle vacío, vapor de café. El mismo encuadre se convierte en una riada de gente al mediodía; la postal se hace por la mañana; la tarde se escapa a los canales de Christianshavn."
+      }
+    },
+    "traps": {
+      "title": "Trampas para turistas",
+      "intro": "Copenhague es una ciudad honesta; sus trampas no vienen tanto de la mala fe como del precio.",
+      "items": [
+        {
+          "icon": "🧜",
+          "name": "La peregrinación de la Sirenita",
+          "description": "La mundialmente famosa estatua mide 1,25 metros de altura y tiene una cola de cincuenta personas haciéndose selfis delante; la decepción es mayor que ella misma.",
+          "instead": "Conviértela en una parada más de un paseo matutino en bici: atraviesa la fortaleza en forma de estrella de Kastellet, saluda a la estatua en 30 segundos y dedica tu tiempo real a la fortaleza y al paseo marítimo."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Cenar en el muelle de Nyhavn",
+          "description": "Los menús bajo las coloridas fachadas suman la vista a la cuenta: pescado mediocre a precios por encima de los de la capital.",
+          "instead": "Tómate solo una cerveza en Nyhavn (sentado en las piedras del muelle, comprada en una tienda — una tradición local legítima); cena en Kødbyen o Nørrebro."
+        },
+        {
+          "icon": "🚕",
+          "name": "Coger un taxi desde el aeropuerto",
+          "description": "Con el metro a 15 minutos del centro, un taxi hace el mismo trayecto a diez veces el precio; añade tiempo extra si hay atasco.",
+          "instead": "El metro M2 te deja directamente en el centro y la tarifa se paga con un toque sin contacto en la barrera. Incluso con mucho equipaje, piensa primero en el metro — las estaciones tienen ascensores."
+        },
+        {
+          "icon": "💸",
+          "name": "Intentar comer todas las comidas en un restaurante",
+          "description": "Tres comidas al día en restaurante agotarán tu presupuesto en un solo día en Copenhague; la propia ciudad no vive así.",
+          "instead": "Copia el patrón local: panadería por la mañana, puesto de mercado o smørrebrød al mediodía, un restaurante elegido por la noche. La diferencia te paga una entrada a Louisiana."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de oro",
+        "text": "Si algo es caro en Copenhague, los locales encontraron la versión barata hace mucho tiempo: pregunta y copia. Los mejores momentos de la ciudad —puerto, parque, bicicleta, atardecer— no tienen precio de todos modos."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Preparadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Un día en Copenhague, de los pedales al puerto",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Panadería + Nyhavn vacío",
+              "description": "Empieza el día con un kanelsnegl y un café, y fotografía las coloridas fachadas de Nyhavn antes de las multitudes; el muelle es tuyo solo por la mañana."
+            },
+            {
+              "time": "10:00",
+              "title": "Un recorrido palaciego en bici",
+              "description": "Pedalea en una bici de alquiler desde Amalienborg hasta Kastellet; detente si pillas el cambio de guardia, saluda a la Sirenita en 30 segundos, y sigue por la orilla del agua."
+            },
+            {
+              "time": "12:30",
+              "title": "Almuerzo en Torvehallerne",
+              "description": "Siéntate en un mostrador de smørrebrød en el mercado de techo de cristal: arenque, gambas, un snaps — el almuerzo danés en resumen."
+            },
+            {
+              "time": "14:30",
+              "title": "Los canales de Christianshavn",
+              "description": "Pasea por la orilla del canal, mira los barcos, y si te atreves, sube a la retorcida aguja de Vor Frelsers: una escalera exterior, un panorama de la ciudad, rodillas ligeramente temblorosas."
+            },
+            {
+              "time": "17:00",
+              "title": "Vida portuaria en Islands Brygge",
+              "description": "Salta al agua si es verano; si no, siéntate en las escaleras del muelle: sol, césped y media ciudad sentada con algo en la mano — la hora favorita de Copenhague."
+            },
+            {
+              "time": "19:30",
+              "title": "Una noche en Kødbyen",
+              "description": "Cena y copas en el antiguo distrito de la carne: un buen plato, luego un 'skål' en un bar de microcervecerías. Si las luces de Tivoli siguen encendidas, cierra el día allí."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Pedalea por la ciudad como un local",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Copenhague Clásico",
+              "description": "El itinerario de un día anterior: Nyhavn, palacio, Torvehallerne, Christianshavn, puerto, Kødbyen."
+            },
+            {
+              "time": "Day 2",
+              "title": "Nørrebro y la isla creativa",
+              "description": "Un paseo matutino por el parque Assistens y Superkilen; comida internacional en Nørrebro al mediodía; el havnebus a Refshaleøen por la tarde — comida callejera en Reffen, atardecer en La Banchina; sube al tejado de CopenHill de vuelta."
+            },
+            {
+              "time": "Day 3",
+              "title": "Día de arte y despedida",
+              "description": "Toma el tren 40 minutos hasta el Museo de Arte Moderno Louisiana: solo el jardín de esculturas junto al mar ya vale el billete. De vuelta, Cisternerne o la Ny Carlsberg Glyptotek; por la noche, luz de velas en un último café hygge."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de Supervivencia de 5 Palabras",
+      "intro": "La pronunciación danesa es un deporte extremo, pero todo el mundo habla inglés; aun así, estas cinco palabras te abrirán puertas con una sonrisa.",
+      "items": [
+        {
+          "word": "Hej",
+          "pronunciation": "hi",
+          "meaning": "Hola — dilo dos veces (hej hej) y se convierte en adiós"
+        },
+        {
+          "word": "Tak",
+          "pronunciation": "tahk",
+          "meaning": "Gracias — 'tusind tak' significa mil gracias"
+        },
+        {
+          "word": "Skål!",
+          "pronunciation": "skohl",
+          "meaning": "¡Salud! — el contacto visual con todos mientras se alzan las copas es obligatorio"
+        },
+        {
+          "word": "Hyggeligt",
+          "pronunciation": "hoo-geh-lit",
+          "meaning": "'Qué agradable, qué acogedor' — el mejor resumen de una reunión; sonríe cuando lo escuches"
+        },
+        {
+          "word": "Undskyld",
+          "pronunciation": "oon-skool",
+          "meaning": "Perdón / disculpa — si lo escuchas junto a un timbre de bicicleta, apártate rápido"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Lista de Imprescindibles en Copenhague",
+      "completion_message": "¡Skål! ¡Has vivido Copenhague como un auténtico local!",
+      "items": [
+        {
+          "label": "Pasa un día entero en bicicleta",
+          "sub": "Únete al carril, sigue el ritmo, descubre la ciudad como un local"
+        },
+        {
+          "label": "Fotografía Nyhavn vacío por la mañana",
+          "sub": "Fachadas coloridas, vapor de café, sin multitudes"
+        },
+        {
+          "label": "Come un smørrebrød + snaps para almorzar",
+          "sub": "Empieza con arenque; deja el resto al camarero"
+        },
+        {
+          "label": "Báñate —o al menos mete un pie— en un havnebad",
+          "sub": "Islands Brygge — gratis e impecable"
+        },
+        {
+          "label": "Sube a la retorcida aguja de Vor Frelsers",
+          "sub": "Escaleras exteriores, Copenhague 360 grados"
+        },
+        {
+          "label": "Haz cola en una panadería para un kanelsnegl",
+          "sub": "Una cola larga significa la panadería correcta"
+        },
+        {
+          "label": "Haz un tour por el puerto en havnebus",
+          "sub": "991/992 — un crucero por el precio de un billete de autobús"
+        },
+        {
+          "label": "Pasea por las colinas rosas de Superkilen",
+          "sub": "Nørrebro — un parque como un mapa del mundo"
+        },
+        {
+          "label": "Contempla el puerto desde la azotea de CopenHill",
+          "sub": "Un sendero de senderismo en la cima de una central eléctrica"
+        },
+        {
+          "label": "Disfruta del hygge a la luz de las velas en un café",
+          "sub": "Una manta, una bebida caliente, una charla sin móviles"
+        }
+      ]
+    }
+  }
+}

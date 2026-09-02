@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Vienna",
+    "country": "Austria",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#8A2A44",
+    "color_light": "#F7E9ED",
+    "tagline": "Imperial elegance, coffeehouse philosophy and a slice of Sachertorte"
+  },
+  "pills": [
+    "No rushing in coffeehouses",
+    "One of the world's most livable cities",
+    "Schnitzel bigger than the plate"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Vienna",
+      "intro": "Vienna neither locked its old splendour in a museum nor put it up for sale; it simply kept living in it. Trams glide past palaces, students snap up the standing tickets at the opera, and a retiree reading the paper in a marble coffeehouse sits for hours without anyone bringing the bill. This city smiles politely at hurry: 'Sit down, have a Melange, the world can wait.' Do the same — Vienna only opens up once you slow down.",
+      "local_word": {
+        "word": "Schmäh",
+        "pronunciation": "shmay",
+        "definition": "Vienna's untranslatable humour: half mocking, half affectionate, always an elegant art of the well-placed jab. The waiter's deadpan joke is Schmäh; the day you get it, you've become Viennese."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "In a coffeehouse, the table is yours",
+          "description": "Order one coffee and sit for hours: newspapers, conversation, doing nothing at all — all perfectly legitimate. The waiter (Herr Ober) may seem aloof; that's not rudeness, it's a centuries-old role. The bill never comes unless you ask."
+        },
+        {
+          "number": 2,
+          "title": "Standing tickets at the opera are cheap",
+          "description": "The State Opera sells standing places (Stehplätze) for a few euros, at the box office shortly before the performance. That's the Viennese way to enter the world's best stage on a student budget."
+        },
+        {
+          "number": 3,
+          "title": "Don't look for a ticket gate — but don't ride without one",
+          "description": "The U-Bahn has no turnstiles; the system runs on trust, but inspectors are plain-clothed and unforgiving. Buy a weekly or 72-hour pass on day one and explore with peace of mind."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Airport",
+          "value": "Schwechat (VIE)",
+          "sub": "CAT train 16 min · S7 cheaper"
+        },
+        {
+          "icon": "🚇",
+          "label": "Getting around",
+          "value": "U-Bahn + tram",
+          "sub": "Trust-based, no turnstiles"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Language",
+          "value": "German",
+          "sub": "English works everywhere"
+        },
+        {
+          "icon": "🎼",
+          "label": "Signature",
+          "value": "Capital of music",
+          "sub": "City of Mozart, Beethoven, Strauss"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The Viennese philosophy",
+        "text": "The Viennese have two speeds: slow and slower. Asking the time in a coffeehouse, clapping too early at a concert and standing on the left of an escalator — the three local sins. Everything else is forgiven."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "Vienna's public transport is the city's pride: punctual, clean and running through the night. Don't even think about a car.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Airport to the centre",
+          "description": "The CAT express reaches Wien Mitte in 16 minutes; the S7 commuter train does it slightly slower for half the price. Taxis have a flat rate, but with trains this comfortable they're unnecessary."
+        },
+        {
+          "icon": "🚇",
+          "title": "U-Bahn — the five-colour backbone",
+          "description": "Five lines weave the city together and run 24 hours on weekend nights. The 24/48/72-hour passes and the weekly card are tourist-friendly; validate your ticket on first boarding."
+        },
+        {
+          "icon": "🚋",
+          "title": "Ring tour by tram",
+          "description": "Trams 1 and 2 carry you past the palaces of the Ringstrasse for the price of a normal ticket: skip the tourist bus, take a window seat."
+        },
+        {
+          "icon": "🚲",
+          "title": "WienMobil bikes",
+          "description": "Shared bikes are a joy along the canal and out to the Prater; bike lanes are wide and drivers respectful. Pedalling the Danube Island is the city's best summer escape."
+        },
+        {
+          "icon": "🚶",
+          "title": "The 1st district on foot",
+          "description": "Everything inside the Ring is walkable end to end: cathedral, palace and coffeehouses are always ten minutes apart. Comfortable shoes are all the cobblestones ask for."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tram tip",
+        "text": "Do the Ring tour in late afternoon: as the Opera, Parliament and Rathaus light up at golden hour, the window of tram 2 becomes the city's cheapest palace box."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "In Vienna the district (Bezirk) number is as much identity as address: 1st means grandeur, 7th means cool, 2nd means green.",
+      "local_word": {
+        "word": "Bezirk",
+        "pronunciation": "beh-tseerk",
+        "definition": "Each of Vienna's 23 administrative districts; addresses are spoken by number. Saying 'I live in the Siebter' (the 7th) tells a Viennese a whole paragraph about you."
+      },
+      "items": [
+        {
+          "name": "Innere Stadt (1st Bezirk)",
+          "badge": "Most magnificent",
+          "badge_type": "vibe",
+          "description": "The museum-city inside the Ring: cathedral, palace and coffeehouses right outside your door. Prices are at imperial levels, the streets surprisingly calm at night — the classic for a first visit.",
+          "tags": [
+            "Walk to everything",
+            "Historic coffeehouses",
+            "Imperial prices"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Innere+Stadt+Vienna"
+        },
+        {
+          "name": "Neubau (7th Bezirk)",
+          "badge": "Coolest",
+          "badge_type": "hot",
+          "description": "The design-and-café quarter behind the MuseumsQuartier: independent boutiques, third-wave coffee, young Vienna. Walking distance to the centre, the soul of a neighbourhood.",
+          "tags": [
+            "Design shops",
+            "Café culture",
+            "MuseumsQuartier"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Neubau+Vienna"
+        },
+        {
+          "name": "Leopoldstadt (2nd Bezirk)",
+          "badge": "Greenest",
+          "badge_type": "value",
+          "description": "The district of the Prater and the Danube Canal: a giant park, the Ferris wheel, bars along the water. The area around the Karmeliter market is young and lively; prices friendlier than the centre.",
+          "tags": [
+            "Prater park",
+            "Canal bars",
+            "Market quarter"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Leopoldstadt+Vienna"
+        },
+        {
+          "name": "Josefstadt (8th Bezirk)",
+          "badge": "Most graceful",
+          "badge_type": "local",
+          "description": "Vienna's smallest district: theatres, antique dealers, quiet Biedermeier streets. Low on tourists, high on coffeehouses — for those after calm elegance.",
+          "tags": [
+            "Biedermeier streets",
+            "Theatre district",
+            "Quiet nights"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Josefstadt+Vienna"
+        },
+        {
+          "name": "Wieden (4th Bezirk)",
+          "badge": "Balanced pick",
+          "badge_type": "value",
+          "description": "Neighbour to the Naschmarkt and Karlsplatz: walk to the market, walk to the opera, dine at a neighbourhood tavern in the evening. The address where central comfort meets neighbourhood prices.",
+          "tags": [
+            "Naschmarkt next door",
+            "Karlskirche",
+            "Neighbourhood taverns"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wieden+Vienna"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "When to Go",
+      "intro": "Vienna is on stage in all four seasons: spring is a garden, summer a film, autumn a wine, winter a ball.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "Garden Season",
+          "months": "Apr – Jun",
+          "subtitle": "Spring · Blooming parks, full cafés",
+          "description": "The gardens of Schönbrunn and Belvedere burst into flower, the Naschmarkt stalls overflow, coffeehouse tables spill onto the pavements. The city is at its most photogenic and most balanced.",
+          "callout": {
+            "type": "tip",
+            "label": "May tip",
+            "text": "In late May the Wiener Festwochen begins: the city turns into a stage, and the opening concert on Rathausplatz is free."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "Open-Air Season",
+          "months": "Jul – Aug",
+          "subtitle": "Summer · Film festival, canal beaches",
+          "description": "Free concert films on a giant screen at Rathausplatz with world-food stands in front; the Danube Island and the canal 'beaches' are the city's summer resort. Hotels are relatively calm; some institutions take holidays.",
+          "callout": {
+            "type": "tip",
+            "label": "July tip",
+            "text": "The Film Festival evening formula: snacks from the Naschmarkt, a blanket on Rathausplatz, opera on the big screen — total cost close to zero."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "Harvest and Sturm",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · Heuriger season, golden parks",
+          "description": "The harvest begins in the city's own vineyards; half-fermented Sturm is poured at the heurigers and the smell of roast chestnuts drifts through the streets. By mid-November the Christmas markets switch their lights on early.",
+          "callout": {
+            "type": "tip",
+            "label": "September tip",
+            "text": "Walk from Kahlenberg down through the vineyards to Nussdorf and sit down at a heuriger on the way: Sturm + home cooking + city views. That is Viennese autumn in one afternoon."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Balls and Markets",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Christmas markets, ball season, the New Year waltz",
+          "description": "In December the square before the Rathaus becomes a sea of light; in January and February hundreds of balls are held — some sell tickets to visitors. On January 1st the whole city watches the New Year's Concert on screens.",
+          "callout": {
+            "type": "warning",
+            "label": "December note",
+            "text": "Christmas markets are packed on weekends; drink your Punsch on a weekday evening, and you can keep the mug deposit as a souvenir."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "Viennese cuisine is the empire's inheritance: Hungarian goulash, Czech dumplings, Italian coffee — all ennobled in this city.",
+      "local_word": {
+        "word": "Melange",
+        "pronunciation": "meh-lahnzh",
+        "definition": "Vienna's national coffee: half espresso, half milk foam — the cappuccino's elegant cousin. It arrives on a tray with a glass of water; that water is coffeehouse language for 'stay as long as you like'."
+      },
+      "items": [
+        {
+          "icon": "🍖",
+          "name": "Wiener Schnitzel — the real one is veal",
+          "description": "A schnitzel overflowing the plate, paper-thin, fried in butter: potato salad on the side, lemon on top. Go where it says 'vom Kalb' (veal); everything else is imitation.",
+          "tag": "At a classic tavern · make it vom Kalb",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Figlmüller+Vienna"
+        },
+        {
+          "icon": "☕",
+          "name": "The coffeehouse ritual — Melange + Sachertorte",
+          "description": "Marble tables, newspapers, a waiter in no hurry: the coffeehouse is not a venue but a way of life. Don't order your Sachertorte without Schlag — the cream is part of the balance.",
+          "tag": "In a historic coffeehouse · never rushed",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+Central+Vienna"
+        },
+        {
+          "icon": "🌭",
+          "name": "The Würstelstand late-night classic",
+          "description": "Sausage stands are Vienna's midnight kitchen: order the cheese-filled Käsekrainer with bread and sweet mustard. Opera-goers in black tie and night-shift workers share the same counter — the city's most democratic table.",
+          "tag": "After midnight · Käsekrainer",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bitzinger+Würstelstand+Albertina+Vienna"
+        },
+        {
+          "icon": "🥩",
+          "name": "Tafelspitz — the emperor's pot",
+          "description": "Boiled beef with bone marrow, apple-horseradish and chive sauce: the dish Emperor Franz Joseph ate every day. It looks heavy, it eats elegantly.",
+          "tag": "Imperial classic · sauces included",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Plachutta+Wollzeile+Vienna"
+        },
+        {
+          "icon": "🍷",
+          "name": "A heuriger evening",
+          "description": "Wine taverns in the city's own vineyards: young wine, cold platters from the buffet, long wooden tables. A pine branch over the door means they're open — Vienna in its village clothes.",
+          "tag": "At a vineyard tavern · open if the pine branch is out",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mayer+am+Pfarrplatz+Vienna"
+        },
+        {
+          "icon": "🥟",
+          "name": "A Naschmarkt crawl",
+          "description": "The city's century-old market: pickle vendors, meze counters and world kitchens side by side. On Saturdays a flea market joins in; grazing your way through is entirely allowed.",
+          "tag": "Saturday morning · graze as you go",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Naschmarkt+Vienna"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The coffeehouse rule",
+        "text": "Skip the famous coffeehouse with the queue and pick the quiet one around the corner: same Melange, same marble, more Schmäh. In Vienna the best coffeehouse is the one where you can get a seat."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Corners",
+      "intro": "Everyone sees the palaces; these six are Vienna's backstage.",
+      "items": [
+        {
+          "rarity": "The world's most beautiful library",
+          "name": "Prunksaal — National Library",
+          "description": "The baroque library hall inside the Hofburg: 200,000 leather-bound volumes, a frescoed dome, imperial globes. Less famous than the opera, with a shorter queue — Viennese splendour in distilled form.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Prunksaal+Österreichische+Nationalbibliothek"
+        },
+        {
+          "rarity": "The peak of art nouveau",
+          "name": "Kirche am Steinhof",
+          "description": "Otto Wagner's golden-domed church on a hilltop, standing inside hospital grounds — the city's least-known masterpiece. It opens on Sunday afternoons; plan around that.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kirche+am+Steinhof+Vienna"
+        },
+        {
+          "rarity": "A city of the dead, a park for the living",
+          "name": "Zentralfriedhof",
+          "description": "The vast cemetery where Beethoven, Schubert and the Strausses rest is also a park where deer wander: take tram 71 out and walk inside it for hours. Not mournful — serene.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zentralfriedhof+Vienna"
+        },
+        {
+          "rarity": "Through the vineyards into the city",
+          "name": "The Kahlenberg to Nussdorf walk",
+          "description": "Take the bus to the top, then descend towards the city through the vines: the Danube, the domes and the vineyards in one frame. The walk ends at a heuriger's door — not a coincidence, a tradition.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kahlenberg+Vienna"
+        },
+        {
+          "rarity": "An imperial greenhouse with butterflies",
+          "name": "Palmenhaus and Schmetterlinghaus",
+          "description": "The glass palace at the edge of the Burggarten: one wing a tropical butterfly house, the other a brasserie under palm trees. The greenest way to drink coffee in a palace garden.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palmenhaus+Burggarten+Vienna"
+        },
+        {
+          "rarity": "A little corner of Paris",
+          "name": "Servitenviertel",
+          "description": "Bistros and bookshops gathered around a church square in the 9th Bezirk: next door to the Freud Museum, far from the tourists. The city's sweetest detour for an afternoon coffee.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Servitenviertel+Vienna"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Museum tip",
+        "text": "On Thursday evenings you can sit in the café under the dome of the Kunsthistorisches Museum with live music: two floors above the Bruegels, a Melange amid the marble — a museum ticket is the cheapest ball in town."
+      }
+    },
+    "traps": {
+      "title": "Tourist Traps",
+      "intro": "Vienna is an honest city; its traps wear wigs and costumes, which makes them easy to spot.",
+      "items": [
+        {
+          "icon": "🎻",
+          "name": "Costumed 'Mozart concert' sellers",
+          "description": "The concerts hawked by bewigged sellers around the cathedral follow one formula: mediocre orchestra plus inflated price. Mozart would have laughed at the whole business.",
+          "instead": "Get the real thing for the same money: student or standing tickets at the Musikverein or Konzerthaus, or the State Opera's few-euro Stehplatz."
+        },
+        {
+          "icon": "🐴",
+          "name": "A fiaker ride without agreeing terms",
+          "description": "Carriage tours have official tariffs, but if duration and route aren't agreed, a short ride can end with a long bill.",
+          "instead": "Confirm the tariff and duration before boarding; or do the same route on tram 2, passing the very same palaces."
+        },
+        {
+          "icon": "☕",
+          "name": "Losing an hour in one coffeehouse queue",
+          "description": "Waiting 45 minutes outside the one or two coffeehouses social media has polished is an injustice to the city's two hundred others.",
+          "instead": "When you see a queue, walk two streets on: in Vienna every neighbourhood has a marble-tabled, chandeliered, quiet coffeehouse of its own."
+        },
+        {
+          "icon": "🍽️",
+          "name": "The 'Viennese menu' at the cathedral's feet",
+          "description": "The picture menus around Stephansplatz sell lukewarm schnitzel at tourist prices.",
+          "instead": "Go two streets deeper, or pick the neighbourhood taverns (Beisl) of the 4th and 7th Bezirk: the same schnitzel, half the price, the real thing."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Golden rule",
+        "text": "Stay away from anyone who puts on a costume to sell you something in Vienna; in this city, real grandeur wears no uniform — it sits in a coffeehouse reading the paper."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Routes",
+      "intro": "If you hate planning, follow these flows. The times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "A Vienna digest, from empire to coffeehouse",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "The cathedral and morning streets",
+              "description": "See the tiled roof of the Stephansdom in morning light; walk the imperial shopfronts of Graben and Kohlmarkt while they're still empty."
+            },
+            {
+              "time": "10:00",
+              "title": "Hofburg + Prunksaal",
+              "description": "Pass through the palace courtyards, then stand quietly under the dome of the baroque library: Vienna's most concentrated dose of beauty."
+            },
+            {
+              "time": "12:30",
+              "title": "Lunch at the Naschmarkt",
+              "description": "Graze stall by stall, then a sit-down break at a market tavern; if it's Saturday, the flea market is a bonus."
+            },
+            {
+              "time": "14:30",
+              "title": "Belvedere — Klimt's Kiss",
+              "description": "Stand before The Kiss in the Upper Belvedere, then look out over the city from the gardens; your art quota is full for the day."
+            },
+            {
+              "time": "17:00",
+              "title": "The Ring tour by tram",
+              "description": "From the window of tram 2, the parade of Opera, Parliament and Rathaus: at golden hour the palaces turn to light."
+            },
+            {
+              "time": "19:30",
+              "title": "Coffeehouse + a late-night close",
+              "description": "A long coffeehouse sit with Melange and Sachertorte; a Käsekrainer from a Würstelstand on the way home — an imperial day ends with a sausage."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Live the city as a guest, not a tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "The imperial classics",
+              "description": "The one-day flow above: cathedral, Hofburg, Naschmarkt, Belvedere, the Ring."
+            },
+            {
+              "time": "Day 2",
+              "title": "Schönbrunn and the museums",
+              "description": "Early morning at Schönbrunn (climb to the Gloriette, get lost in the maze), afternoon at the Kunsthistorisches or the MuseumsQuartier; evening in the 7th Bezirk for a Beisl dinner and a bar crawl."
+            },
+            {
+              "time": "Day 3",
+              "title": "Vineyards and farewell",
+              "description": "The vineyard walk from Kahlenberg, a heuriger lunch; on the way back, visit Beethoven at the Zentralfriedhof, and in the evening a standing ticket at the State Opera or the Musikverein — farewell music is mandatory."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Word Survival Kit",
+      "intro": "Viennese German is polite and musical; these five carry you from the coffeehouse door to the ballroom.",
+      "items": [
+        {
+          "word": "Grüß Gott",
+          "pronunciation": "gruess got",
+          "meaning": "The Austrian greeting: 'good day' — formal and valid everywhere"
+        },
+        {
+          "word": "Danke",
+          "pronunciation": "dahn-keh",
+          "meaning": "Thank you — upgraded by vielen Dank"
+        },
+        {
+          "word": "Bitte",
+          "pronunciation": "bit-teh",
+          "meaning": "Please / you're welcome / here you go — you'll hear it fifty times a day"
+        },
+        {
+          "word": "Prost!",
+          "pronunciation": "prohst",
+          "meaning": "Cheers! — no glass is raised without eye contact"
+        },
+        {
+          "word": "Passt schon",
+          "pronunciation": "pahst shohn",
+          "meaning": "'It's fine, no problem' — the official phrase of Viennese ease; also how you say keep the change"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Vienna Checklist",
+      "completion_message": "Prost! You've done Vienna properly!",
+      "items": [
+        {
+          "label": "Spend an hour 'doing nothing' in a coffeehouse",
+          "sub": "Melange, a newspaper and a marble table — no rushing allowed"
+        },
+        {
+          "label": "Eat a real Wiener Schnitzel",
+          "sub": "Vom Kalb — veal, overflowing the plate"
+        },
+        {
+          "label": "Stand under the dome of the Prunksaal",
+          "sub": "The baroque hall of the National Library"
+        },
+        {
+          "label": "See Klimt's Kiss",
+          "sub": "Upper Belvedere — in the morning hours"
+        },
+        {
+          "label": "Circle the Ring on tram 2",
+          "sub": "At golden hour, in a window seat"
+        },
+        {
+          "label": "Get a standing ticket at the opera",
+          "sub": "A few euros — the world's best stage"
+        },
+        {
+          "label": "Drink Sturm or young wine at a heuriger",
+          "sub": "At a vineyard tavern with the pine branch out"
+        },
+        {
+          "label": "Eat a Käsekrainer at a Würstelstand at night",
+          "sub": "Sharing the counter with black tie"
+        },
+        {
+          "label": "Visit Beethoven at the Zentralfriedhof",
+          "sub": "Tram 71 — the musicians' corner"
+        },
+        {
+          "label": "Climb to the Gloriette at Schönbrunn",
+          "sub": "Early morning — the palace at your feet"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Rovaniemi",
+    "country": "Finland",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#A83434",
+    "color_light": "#F8EAEA",
+    "tagline": "El Círculo Polar Ártico, la aldea de Papá Noel y las luces que danzan en el cielo"
+  },
+  "pills": [
+    "La ciudad natal oficial de Papá Noel",
+    "Ubicado en el Círculo Polar Ártico",
+    "Auroras boreales más de 150 noches al año"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenidos a Rovaniemi",
+      "intro": "Rovaniemi es el punto de encuentro de dos cuentos de hadas: uno lleva un abrigo rojo y barba y es mundialmente famoso; el otro baila por el cielo en cortinas verdes. Pero esta ciudad es más que un cuento de hadas: arrasada en la guerra, renacida de la pluma de Alvar Aalto con la forma de los cuernos de un reno, es una capital lapona con los pies en la tierra. En invierno la nieve se traga cada sonido; en verano el sol nunca se pone. Llena tu termo y vístete por capas: aquí la naturaleza no es el turista, sino el anfitrión.",
+      "local_word": {
+        "word": "Sisu",
+        "pronunciation": "see-soo",
+        "definition": "La palabra finlandesa intraducible: determinación tranquila y obstinada frente a la adversidad. Observa a un habitante de Rovaniemi pedaleando a -25 grados con una sonrisa y entenderás lo que significa."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Respeta el frío, confía en las capas",
+          "description": "Menos 20 grados es normal en invierno: lana, no algodón; tres capas finas, no una gruesa. Con la fórmula capa base + forro polar + capa exterior cortavientos, cada actividad se convierte en un placer; a los mal abrigados, la ciudad les cierra sus puertas."
+        },
+        {
+          "number": 2,
+          "title": "La aurora no está garantizada, exige paciencia",
+          "description": "Las revontulet (auroras boreales) pueden aparecer desde finales de agosto hasta abril, pero las nubes y la suerte son parte del juego. Quédate al menos 3-4 noches, sigue las aplicaciones de pronóstico de auroras y nunca seas demasiado perezoso para salir a medianoche."
+        },
+        {
+          "number": 3,
+          "title": "La sauna es sagrada y tiene sus reglas",
+          "description": "Se entra a una sauna finlandesa con una toalla, no con bañador; primero te duchas; el silencio es apreciado. Si tienes el valor, sigue la sauna con el agujero de hielo (avanto): el corazón se te sube a la garganta, y luego vives los cinco minutos más intensos de tu vida."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "Rovaniemi (RVN)",
+          "sub": "10 min al centro · 1h20 de vuelo desde Helsinki"
+        },
+        {
+          "icon": "🌌",
+          "label": "Temporada de auroras",
+          "value": "Sep – Apr",
+          "sub": "Mejores meses: Sep-Oct y Feb-Mar"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "Finlandés",
+          "sub": "Todo el mundo habla inglés con fluidez"
+        },
+        {
+          "icon": "🎅",
+          "label": "Sello distintivo",
+          "value": "Santa Claus Village",
+          "sub": "La línea del Círculo Polar Ártico la atraviesa"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofía de Rovaniemi",
+        "text": "Aquí el jefe no es tu horario, sino el clima: si el cielo está despejado, cancela todos los planes y sal a cazar las luces; si está nublado, hazlo un día de museo y sauna. La flexibilidad es lo más valioso en cualquier maleta lapona."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "El centro es lo suficientemente pequeño como para recorrerlo a pie; la verdadera cuestión es cómo llegar al pueblo, las granjas y la oscuridad del bosque. El plan es sencillo: a pie por la ciudad, y en autobús o traslado de tour para ir más allá.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Del aeropuerto al centro",
+          "description": "El aeropuerto está a 10 minutos de la ciudad: el autobús del aeropuerto está sincronizado con los vuelos y te deja en tu hotel, y los taxis tienen una tarifa casi fija. En invierno, el frío te recibe en cuanto bajas del avión; lleva el abrigo en la mano, no en la maleta."
+        },
+        {
+          "icon": "🚌",
+          "title": "Autobús número 8 — el expreso de Papá Noel",
+          "description": "El autobús local número 8 llega a la Aldea de Papá Noel desde el centro en media hora, a mitad de precio que el shuttle turístico. Consulta los horarios de vuelta, las salidas de tarde-noche son menos frecuentes."
+        },
+        {
+          "icon": "🚶",
+          "title": "El centro a pie",
+          "description": "Todo entre la Plaza Lordi, el Arktikum y la orilla del río está a 15 minutos. En invierno las aceras están nevadas pero bien mantenidas; las botas con agarre para hielo o los pinchos antideslizantes son un salvavidas."
+        },
+        {
+          "icon": "🚐",
+          "title": "Traslados de tour — la caza nocturna",
+          "description": "La mayoría de los tours de auroras, huskies y renos te recogen en tu hotel: adentrarse solo en el bosque oscuro sin coche es difícil en invierno, y un buen tour nocturno significa un conductor + fotógrafo + termo."
+        },
+        {
+          "icon": "🚗",
+          "title": "Un coche de alquiler — la caza libre",
+          "description": "Si conduces, un coche de alquiler con neumáticos de invierno significa libertad en la caza de auroras: puedes perseguir un claro en las nubes a 100 km de distancia. La experiencia en carreteras nevadas es esencial, y los renos al borde de la carretera son un factor de tráfico real."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo sobre entradas",
+        "text": "La entrada a la Aldea de Papá Noel es gratuita; el dinero está en las fotos y actividades. Coge el autobús 8, charla con Papá Noel (gratis) y decide allí el paquete de fotos."
+      }
+    },
+    "stay": {
+      "title": "¿Dónde alojarse?",
+      "intro": "En Rovaniemi la elección es binaria: quédate en la ciudad y sal de excursión, o elige un iglú de cristal o una cabaña en el bosque y deja que las luces vengan a ti.",
+      "local_word": {
+        "word": "Kaamos",
+        "pronunciation": "kah-mos",
+        "definition": "La noche polar: el periodo en diciembre cuando el sol nunca sale y el cielo se tiñe de un crepúsculo azul-violeta incluso al mediodía. No es oscuridad, sino un estado de luz indescriptible que los finlandeses llaman el 'momento azul'."
+      },
+      "items": [
+        {
+          "name": "El centro de la ciudad",
+          "badge": "Lo más práctico",
+          "badge_type": "vibe",
+          "description": "Restaurantes, supermercados y puntos de salida de excursiones a poca distancia: una amplia oferta desde hoteles económicos hasta hoteles de diseño. La base más fácil para las excursiones de auroras.",
+          "tags": [
+            "Salidas de excursiones",
+            "Variedad de restaurantes",
+            "Económico"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rovaniemi+city+centre"
+        },
+        {
+          "name": "Alrededores de la Aldea de Papá Noel",
+          "badge": "Base de cuento de hadas",
+          "badge_type": "hot",
+          "description": "Hoteles iglú y cabañas justo al lado de la aldea: un sueño para familias con niños, perfecto para despertar en el Círculo Polar Ártico. A 8 km de la ciudad, planifica tus cenas con antelación.",
+          "tags": [
+            "Iglús de cristal",
+            "Ideal para familias",
+            "El Círculo Polar Ártico"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Claus+Village+Rovaniemi"
+        },
+        {
+          "name": "Colina de Ounasvaara",
+          "badge": "Mejores vistas",
+          "badge_type": "local",
+          "description": "La colina boscosa al otro lado del río: pistas de esquí, rutas de senderismo y un cielo lejos de las luces de la ciudad. A 20 minutos del centro cruzando el puente: un equilibrio entre naturaleza y ciudad.",
+          "tags": [
+            "Pistas de esquí",
+            "Cielos oscuros",
+            "En el bosque"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ounasvaara+Rovaniemi"
+        },
+        {
+          "name": "La ribera del río — Kemijoki",
+          "badge": "Más tranquilo",
+          "badge_type": "value",
+          "description": "Hoteles y apartamentos a lo largo del río Kemijoki: en verano el sol de medianoche ilumina el río, en invierno el río helado se convierte en una pista para caminar. Cerca del centro pero tranquilo.",
+          "tags": [
+            "Vistas al río",
+            "Calles tranquilas",
+            "Caminando al centro"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kemijoki+Rovaniemi"
+        },
+        {
+          "name": "Cabañas en el bosque y resorts de iglús",
+          "badge": "Para cazadores de auroras",
+          "badge_type": "value",
+          "description": "Iglús con techo de cristal y cabañas con chimenea fuera de la ciudad: observar las auroras boreales desde tu cama es caro pero inolvidable. Consiéralo al menos una noche, y pasa el resto en la ciudad.",
+          "tags": [
+            "Techos de cristal",
+            "Servicio de alarma de auroras",
+            "Lujo de una noche"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arctic+igloo+hotel+Rovaniemi"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Cuándo Ir",
+      "intro": "Hay dos ciudades diferentes en Rovaniemi: la ciudad nevada de cuento de hadas y la ciudad verde del sol que no se pone. Ambas son reales y no se parecen en nada.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Nieve Brillante",
+          "months": "Mar – May",
+          "subtitle": "Primavera · Nieve soleada, días que se alargan",
+          "description": "Marzo es el secreto mejor guardado del invierno: la nieve aún tiene metros de profundidad, pero el sol asoma y el frío diurno se suaviza. Es el mes pico para la combinación aurora + actividades en la nieve + sol. En mayo la nieve se derrite y el río despierta.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de marzo",
+            "text": "Las semanas alrededor del equinoccio de marzo son el pico estadístico de actividad de auroras: altas probabilidades por la noche, baños de sol en la nieve durante el día. Es el invierno en su forma más cómoda."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "El Sol de Medianoche",
+          "months": "Jun – Aug",
+          "subtitle": "Verano · El sol nunca se pone, 6 de junio – 7 de julio",
+          "description": "Durante un mes el sol nunca se sumerge bajo el horizonte: la gente rema por el río a las dos de la mañana, el bosque huele a arándanos y los mosquitos se unen a la fiesta. Los precios son bajos, la naturaleza es infinita — una Laponia completamente diferente.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de julio",
+            "text": "Sube a Ounasvaara a medianoche: a las 00:00 el sol toca el horizonte y vuelve a subir. Mira con tus ojos antes que con la cámara — esta luz no existe en ningún filtro."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "Ruska y Primeras Luces",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · Bosque dorado, primeras auroras",
+          "description": "En septiembre el bosque se tiñe de colores 'ruska': oro, cobre, carmesí. Las noches se oscurecen y la temporada de auroras se abre — con precios amigables antes de que comience el turismo de nieve. Noviembre es el mes de la oscuridad y la espera de la nieve.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de septiembre",
+            "text": "Septiembre es el campeón oculto: las auroras comienzan, los lagos aún no se han congelado y las luces se reflejan en el agua. Sin multitudes, el doble de espectáculo."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Temporada de Cuento de Hadas",
+          "months": "Dec – Feb",
+          "subtitle": "Invierno · Crepúsculo Kaamos, pico navideño",
+          "description": "Diciembre es el escenario principal de Papá Noel: el pueblo brilla, y los precios y las multitudes alcanzan su punto máximo con él. Enero y febrero son el verdadero invierno: veinte grados bajo cero, nieve espesa cayendo, trineos de huskies y largas noches de auroras.",
+          "callout": {
+            "type": "warning",
+            "label": "Nota de diciembre",
+            "text": "Para la semana de Navidad, reserva todo con meses de antelación: hotel, tours, incluso restaurantes. Si quieres el mismo cuento de hadas a mitad de precio, elige mediados de enero — la nieve es la misma nieve, y Papá Noel sigue en su escritorio."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Qué Comer",
+      "intro": "La cocina de Laponia nace del bosque y del río: reno, salmón, bayas silvestres y café preparado al fuego. Sencilla, auténtica y pensada para el frío.",
+      "local_word": {
+        "word": "Poronkäristys",
+        "pronunciation": "po-ron-ka-ris-toos",
+        "definition": "El plato nacional de Laponia: reno finamente cortado y salteado en mantequilla, servido con puré de patatas y mermelada de arándano rojo. Déjate sorprender por el equilibrio entre lo salado y lo dulce, y luego deja el plato limpio."
+      },
+      "items": [
+        {
+          "icon": "🦌",
+          "name": "Poronkäristys — reno salteado",
+          "description": "El clásico, servido con puré, encurtidos y arándanos rojos: el reno es magro, tierno y sostenible, la herencia milenaria del pastoreo sami. El plato imprescindible de tu primera noche en Laponia.",
+          "tag": "En un restaurante clásico · con arándanos rojos",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Nili+Rovaniemi"
+        },
+        {
+          "icon": "🐟",
+          "name": "Lohikeitto — sopa de salmón",
+          "description": "Cremosa sopa de salmón con eneldo y pan de centeno: entra del frío de -20 grados y este será el mejor plato del mundo. Cocinada a fuego lento a diario en los restaurantes ribereños.",
+          "tag": "Clásico para el almuerzo · con pan de centeno",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rovaniemi+salmon+soup+restaurant"
+        },
+        {
+          "icon": "🧀",
+          "name": "Leipäjuusto — el queso que 'chirría'",
+          "description": "'Queso de pan': lonchas de queso fresco horneado, servidas calientes y cubiertas con mermelada de mora ártica (lakka) de color ámbar anaranjado. El 'chirrido' al morderlo es señal de calidad.",
+          "tag": "Como postre · con mermelada de mora ártica",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cafe+Koti+Rovaniemi"
+        },
+        {
+          "icon": "🫐",
+          "name": "Bayas del bosque y los puestos del mercado",
+          "description": "A finales de verano, los mercados se llenan de arándanos, arándanos rojos y moras árticas doradas: gracias al 'derecho de todo hombre' (jokamiehenoikeus) de Finlandia, puedes recogerlas tú mismo en el bosque. ¡Coge una cesta!",
+          "tag": "Finales de verano · del mercado o del bosque",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rovaniemen+kauppatori"
+        },
+        {
+          "icon": "🔥",
+          "name": "Café Nokipannu junto al fuego",
+          "description": "El café 'nokipannu', con aroma a humo, se prepara sobre fuego abierto, acompañado de una makkara (salchicha) asada al fuego: la pausa en la kota (tienda lapona) en medio de cada excursión en la nieve existe para este ritual.",
+          "tag": "En una pausa de excursión · en una tienda kota",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Claus+Village+Rovaniemi"
+        },
+        {
+          "icon": "🍺",
+          "name": "Lapin Kulta y licor de mora ártica",
+          "description": "La cerveza del norte, Lapin Kulta ('Oro de Laponia'), es sencilla y fría; el licor de lakka para después de cenar es la dulce despedida de la mora ártica. Entre ambos, un desafío para valientes con sabor a alquitrán de pino.",
+          "tag": "Para cerrar la noche · con lakka",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lapin+Kulta+Rovaniemi"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo para ahorrar",
+        "text": "La cultura del menú de almuerzo (lounas) en Finlandia es generosa: de lunes a viernes, de 11 a 14h, los mismos restaurantes sirven sopa + plato principal + café a mitad de precio que por la noche. Haz del almuerzo tu comida principal."
+      }
+    },
+    "hidden_gems": {
+      "title": "Rincones Escondidos",
+      "intro": "Todo el mundo encuentra a Papá Noel; estos seis son el lado tranquilo de Rovaniemi.",
+      "items": [
+        {
+          "rarity": "El ojo de cristal del Ártico",
+          "name": "Arktikum",
+          "description": "El museo cuyo túnel de cristal se extiende hacia el río es donde mejor se narra la vida ártica y la historia de Laponia: la ciudad quemada en la guerra, la cultura sami, la ciencia de la aurora. Siéntate al final del pasillo de cristal frente al río; muchas noches de invierno se han observado las luces desde el interior del propio museo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arktikum+Rovaniemi"
+        },
+        {
+          "rarity": "La torre de llama de la ciudad",
+          "name": "Jätkänkynttilä bridge",
+          "description": "El puente 'La Vela del Leñador' se eleva sobre el Kemijoki con su escultura de llama: al atardecer, su silueta desde la orilla del río es la firma de la ciudad. En invierno, la pista para caminar sobre el río helado pasa por debajo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jätkänkynttilä+bridge+Rovaniemi"
+        },
+        {
+          "rarity": "Un plano urbano con forma de cuernos",
+          "name": "The Aalto centre and Lappia House",
+          "description": "Después de la guerra, Alvar Aalto dibujó la ciudad siguiendo el plano de los cuernos de un reno; su biblioteca, teatro (Lappia) y ayuntamiento aún se mantienen en pie. La sala de lectura de la biblioteca, con sus pozos de luz, es el refugio más cálido de la ciudad a 25 grados bajo cero.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lappia+House+Rovaniemi"
+        },
+        {
+          "rarity": "Bosque salvaje dentro de la ciudad",
+          "name": "The Ounasvaara summit trail",
+          "description": "Cruza el puente y estarás en la cima en media hora: senderos de color cobre en verano, rutas con raquetas de nieve en invierno y puntos para ver la aurora dando la espalda a las luces de la ciudad. La torre de observación en la cima está construida para el amanecer.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ounasvaara+observation+tower+Rovaniemi"
+        },
+        {
+          "rarity": "Arte en la orilla del río",
+          "name": "Korundi House of Culture",
+          "description": "Un museo de arte contemporáneo reconvertido de una antigua estación de autobuses postales: una de las mejores colecciones de arte nórdico y sede de la Orquesta de Cámara de Laponia. Perfecto como plan para un día de tormenta de nieve.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Korundi+House+of+Culture+Rovaniemi"
+        },
+        {
+          "rarity": "Primer paso al agujero de hielo",
+          "name": "Avanto — the ice swimming clubs",
+          "description": "Los clubes de natación locales cortan agujeros en el hielo del río cada invierno: prueba la combinación sauna + avanto no como un paquete turístico, sino en su forma real, junto a los lugareños. La timidez se queda en la puerta; gritar está permitido.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rovaniemi+ice+swimming"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo para la Aurora",
+        "text": "Si quieres ver las luces sin salir de la ciudad, la regla es sencilla: da la espalda a las luces de la ciudad. La superficie helada del río, la base de Ounasvaara y la orilla lejana junto al puente, los tres son puntos oscuros a poca distancia a pie."
+      }
+    },
+    "traps": {
+      "title": "Las trampas para turistas",
+      "intro": "Rovaniemi vende un cuento de hadas; dentro del cuento de hadas también hay una factura. Llega conociendo estas cuatro.",
+      "items": [
+        {
+          "icon": "📸",
+          "name": "El shock del paquete de fotos con Papá Noel",
+          "description": "Conocer a Papá Noel es gratis, pero está prohibido hacer fotos con tu propio teléfono; a la salida, los paquetes de fotos llegan con precios sorprendentes.",
+          "instead": "Conoce primero, elige el paquete después: incluso un solo fotograma digital guarda el recuerdo. Olvídate de los paquetes de vídeo y álbum, coge el pequeño y guarda el presupuesto para el tour de huskies."
+        },
+        {
+          "icon": "🛷",
+          "name": "El 'safari' de 10 minutos",
+          "description": "Algunos 'safaris' de huskies y renos duran medio día, incluyendo la recogida en el hotel, pero el tiempo en el trineo es de 10 minutos; el folleto lo dice en letra pequeña.",
+          "instead": "Antes de reservar, pregunta claramente: '¿cuántos minutos/km en el trineo?' Las buenas granjas ofrecen recorridos reales de 5-10 km más una visita a la granja; la diferencia no la hace el precio, sino preguntar."
+        },
+        {
+          "icon": "🌌",
+          "name": "Marketing de 'aurora garantizada'",
+          "description": "Ningún tour puede garantizar las auroras boreales; 'garantía' suele significar 'un segundo tour gratis si no se ven', lo cual bajo las nubes termina de la misma manera.",
+          "instead": "Elige tours en grupos pequeños que lean mapas de nubes y cambien de ruta, y reparte tus posibilidades en 3-4 noches. Sonríe ante cualquier paquete que prometa auroras a un visitante de una sola noche, y sigue tu camino."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Alojarse en el Pueblo y comer todas las comidas allí",
+          "description": "Los restaurantes de Santa Claus Village tienen precios para un público cautivo: una sopa de salmón normal cuesta el doble que en la ciudad.",
+          "instead": "Planifica tus comidas en el centro de la ciudad o en torno a los menús de mediodía (lounas), y llega al pueblo ya comido. Si te alojas en un hotel iglú, calcula el precio de la media pensión de antemano."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de oro",
+        "text": "En Laponia, cada actividad tiene dos versiones: la de los grupos de autobuses y la forma en que lo hacen los lugareños. Nunca dudes en preguntar el precio y '¿cuál es el tamaño del grupo?' — dos preguntas que duplican la calidad del viaje."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Preparadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden. (Versión de invierno — en verano, cambia la caza de auroras por el sol de medianoche.)",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Un cuento de hadas concentrado en el Círculo Polar Ártico",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Desayuno + vístete por capas",
+              "description": "Un buen desayuno en el centro, tres capas de ropa encima: hoy estarás la mayor parte del tiempo al aire libre. No olvides llenar el termo."
+            },
+            {
+              "time": "10:00",
+              "title": "Pueblo de Papá Noel",
+              "description": "Autobús 8 al pueblo: cruza la línea del Círculo Polar Ártico, recoge tu certificado, charla con Papá Noel y envía tu tarjeta con el matasellos del Círculo Polar Ártico."
+            },
+            {
+              "time": "13:00",
+              "title": "De vuelta a la ciudad + almuerzo",
+              "description": "Un menú de almuerzo en el centro: sopa de salmón + pan de centeno. Luego, un breve paseo por la Plaza Lordi y una mirada a los recuerdos."
+            },
+            {
+              "time": "15:00",
+              "title": "El túnel de cristal del Arktikum",
+              "description": "Sumérgete en la historia de Laponia y la ciencia de las auroras en el museo Ártico: a medida que oscurece (después de las 3 pm en invierno), el pasillo de cristal sobre el río se tiñe de la hora azul."
+            },
+            {
+              "time": "17:30",
+              "title": "Sauna + el valor del avanto",
+              "description": "Calienta en una sauna de hotel o pública; si te atreves, un chapuzón en el agujero de hielo. Para cenar, poronkäristys — sella el día al estilo lapón."
+            },
+            {
+              "time": "21:30",
+              "title": "La caza de auroras",
+              "description": "Si el cielo está despejado: en un tour, o en la orilla helada del río de espaldas a la ciudad. Si la cortina verde se abre, baja la cámara — obsérvala primero a simple vista."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Cuento de hadas, bosque y hielo, por turnos",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Rovaniemi Clásico",
+              "description": "El itinerario de un día anterior: pueblo, Arktikum, sauna, primera caza de auroras."
+            },
+            {
+              "time": "Day 2",
+              "title": "Día de huskies y renos",
+              "description": "Un auténtico paseo en trineo de 5-10 km en una granja de huskies por la mañana; té de la tarde con historias sami en una granja de renos; por la noche, una cena junto al fuego en una tienda kota y una segunda observación de auroras."
+            },
+            {
+              "time": "Day 3",
+              "title": "Ounasvaara y despedida",
+              "description": "Paseo con raquetas de nieve hasta la cima de Ounasvaara o esquí; una pausa artística en Korundi al mediodía; una mesa de despedida con leipäjuusto + licor de lakka por la noche. Si el cielo está despejado, una última caza — la tercera noche suele ser la de la suerte."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de Supervivencia de 5 Palabras",
+      "intro": "El finés es un idioma difícil, pero nadie espera que lo hables; estas cinco palabras te abrirán puertas y sonrisas.",
+      "items": [
+        {
+          "word": "Hei",
+          "pronunciation": "hay",
+          "meaning": "Hola — dilo dos veces (hei hei) y se convierte en adiós"
+        },
+        {
+          "word": "Kiitos",
+          "pronunciation": "kee-tos",
+          "meaning": "Gracias — la palabra que más usarás en Finlandia"
+        },
+        {
+          "word": "Kippis!",
+          "pronunciation": "kip-pis",
+          "meaning": "¡Salud! — el contacto visual al levantar las copas es breve, al estilo finés"
+        },
+        {
+          "word": "Revontulet",
+          "pronunciation": "reh-von-too-let",
+          "meaning": "La aurora boreal — literalmente 'fuegos de zorro': según la leyenda, el zorro ártico barre la nieve con su cola e ilumina el cielo"
+        },
+        {
+          "word": "Sauna",
+          "pronunciation": "sow-nah",
+          "meaning": "La única palabra finesa que el mundo entero adoptó — inventada aquí, y pronunciada correctamente 'sow-nah'"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Lista de Imprescindibles en Rovaniemi",
+      "completion_message": "¡Kiitos! ¡Has vivido el Círculo Polar Ártico como se debe!",
+      "items": [
+        {
+          "label": "Cruza la línea del Círculo Polar Ártico",
+          "sub": "En la Aldea de Papá Noel — certificado incluido"
+        },
+        {
+          "label": "Conversa con Papá Noel",
+          "sub": "El encuentro es gratuito — válido para todas las edades"
+        },
+        {
+          "label": "Contempla la aurora a simple vista",
+          "sub": "Da la espalda a las luces de la ciudad, sé paciente"
+        },
+        {
+          "label": "Deslízate por el bosque en un trineo de huskies",
+          "sub": "Una carrera de verdad: para quienes buscan más de 5 km"
+        },
+        {
+          "label": "Conoce a un reno",
+          "sub": "En una granja, con historias sami"
+        },
+        {
+          "label": "Completa el ciclo sauna + avanto",
+          "sub": "Calienta, entra en el agujero de hielo, repite"
+        },
+        {
+          "label": "Prueba el poronkäristys",
+          "sub": "Puré + mermelada de arándanos rojos — el plato clásico"
+        },
+        {
+          "label": "Escucha el chirrido del leipäjuusto",
+          "sub": "Queso caliente + mermelada de mora ártica"
+        },
+        {
+          "label": "Ponte en el túnel de cristal del Arktikum",
+          "sub": "La ventana ártica sobre el río"
+        },
+        {
+          "label": "Envía una postal con el matasellos del Círculo Polar Ártico",
+          "sub": "Desde la oficina de correos principal de Papá Noel"
+        }
+      ]
+    }
+  }
+}

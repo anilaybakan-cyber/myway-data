@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Cannes",
+    "country": "France",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#1A5276",
+    "color_light": "#EAF2FF",
+    "tagline": "El festival de cine dura apenas una semana; el verdadero Cannes empieza en las otras 51.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "A una calle de la Croisette",
+    "Come socca en el Mercado Forville",
+    "Sube Le Suquet temprano por la mañana"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Cuando escuchas Cannes, piensas en alfombra roja, puerto de yates y festival de cine. Pero la ciudad en sí va mucho más allá de todo eso. El casco antiguo encaramado en la colina de Le Suquet, los pinares de las Islas Lérins, las multitudes matutinas en el Mercado Forville, los comerciantes de la Rue Meynadier — esta es la verdadera cara de Cannes. La Croisette es la fachada más cara y turística de la ciudad; una calle más atrás, los precios bajan y la atmósfera cambia por completo. Cannes es una ciudad pequeña — todo es accesible a pie, y tomar un espresso mientras observas los yates es un ritual de la Riviera Francesa por derecho propio.",
+      "local_word": {
+        "pronunciation": "la krwa-SET",
+        "definition": "El famoso bulevar marítimo de Cannes — 2 kilómetros desde el puerto de yates hasta Palm Beach. Hoteles de lujo, boutiques, playas de arena y la alfombra roja durante el festival de cine. Turístico y caro, pero vale la pena pasear una vez. El verdadero consejo: justo al lado de las concesiones de playas privadas de pago en la Croisette hay playas públicas gratuitas — el mismo mar, la mitad de precio.",
+        "word": "La Croisette"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Si vienes durante el Festival de Cine, reserva con mucha antelación",
+          "description": "Durante el Festival de Cine de Cannes, que se celebra durante unas dos semanas cada mes de mayo, la ciudad se llena por completo. Los precios de los hoteles se triplican o cuadruplican, los restaurantes están abarrotados, la Croisette está rodeada de barreras. No se puede acceder al festival en sí — se requiere acreditación. Pero los eventos paralelos y las proyecciones públicas son gratuitos para experimentar la atmósfera. Si quieres venir durante este período, reserva con al menos seis meses de antelación."
+        },
+        {
+          "number": 2,
+          "title": "Aléjate una calle de la Croisette — los precios se reducen a la mitad",
+          "description": "Los restaurantes en la Croisette o con vistas a ella son dos o tres veces más caros que en el resto de Cannes. Los pequeños bistrós y cafés de la Rue Meynadier, la Rue d'Antibes y en el barrio de Le Suquet son más baratos y mucho más locales. Ve a la Croisette por las vistas, pero aléjate una calle para comer."
+        },
+        {
+          "number": 3,
+          "title": "Toma el ferry de primera hora de la mañana a las Islas Lérins",
+          "description": "Las islas Sainte-Marguerite y Saint-Honorat están a solo 15 minutos en ferry desde Cannes. En verano, las tardes se llenan mucho. Si tomas el ferry de las 9 o 10 de la mañana, encontrarás las islas casi vacías. En Sainte-Marguerite está el castillo donde estuvo recluido el Hombre de la Máscara de Hierro; en Saint-Honorat, monjes residentes producen su propio vino. Se necesitan billetes separados para cada isla."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "NCE — Niza Costa Azul",
+          "sub": "Tren desde Niza ~30 min · taxi ~80 € · autobús exprés ~19,50 €"
+        },
+        {
+          "icon": "🚌",
+          "label": "Transporte",
+          "value": "Palm Bus — red de autobuses urbanos",
+          "sub": "Billete sencillo 1,80 € · abono diario 4,60 € · tarjeta sin contacto aceptada"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Clima",
+          "value": "Riviera Francesa — 300 días de sol al año",
+          "sub": "Abr–Jun y Sep–Oct ideal · Jul–Ago caluroso y concurrido · Dic–Feb suave"
+        },
+        {
+          "icon": "🥗",
+          "label": "Comida",
+          "value": "Socca, pan bagnat, pissaladière, vino rosado",
+          "sub": "Menú del día 15–25 € · comida callejera 3–6 €"
+        }
+      ],
+      "tip": {
+        "label": "Playa gratuita — justo al lado de la Croisette",
+        "text": "Entre las concesiones de playas privadas de pago que se extienden a lo largo de la Croisette, hay playas públicas gratuitas frente al Palacio de Festivales y en algunos otros puntos. El mismo Mediterráneo, la misma arena, coste cero. Si no quieres alquilar tumbonas y sombrillas, busca estos lugares — especialmente Plage du Midi y Plage de la Bocca, que son más tranquilas y gratuitas.",
+        "type": "tip"
+      },
+      "title": "Bienvenido a Cannes"
+    },
+    "transport": {
+      "intro": "Cannes es pequeña y se puede recorrer a pie. El Palm Bus es suficiente para moverse por la ciudad; los trenes son más rápidos para las localidades vecinas.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Del Aeropuerto de Niza a Cannes",
+          "description": "El Aeropuerto de Niza Costa Azul es el más cercano a Cannes, a unos 30 kilómetros. La opción más práctica: llegar a la estación de tren Nice-Ville y luego tomar un tren a Cannes en 30-40 minutos. El autobús exprés (Ligne Azur 210) va directo del aeropuerto a la estación de tren de Cannes, tarda aproximadamente 1 hora y cuesta 19,50 €. Un taxi con tarifa fija ronda los 80 €. La combinación tren-autobús es asequible y razonablemente rápida."
+        },
+        {
+          "icon": "🚂",
+          "title": "Tren — por la Costa Azul",
+          "description": "La estación de tren de Cannes está en el centro de la ciudad. A 30-40 minutos de Niza, 10 minutos de Antibes, 25 minutos de Grasse. Los trenes regionales TER circulan con frecuencia. Ideal para excursiones de un día: Mónaco, Antibes, Juan-les-Pins, Niza son accesibles en tren. Los precios de los billetes oscilan entre 5 y 15 € según la ruta."
+        },
+        {
+          "icon": "🚌",
+          "title": "Palm Bus — transporte urbano",
+          "description": "Los autobuses amarillos de Cannes cubren todos los puntos de la ciudad. El billete sencillo cuesta 1,80 €, válido durante 74 minutos con transbordos gratuitos dentro de ese tiempo. El abono diario cuesta 4,60 €. Los billetes se compran al conductor o en las máquinas de las paradas. También es posible el pago directo con tarjeta bancaria sin contacto. El Palm Imperial, un autobús panorámico rojo descapotable, recorre la Croisette para hacer turismo, con un billete sencillo de 1,50 €."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Ferry a las Islas Lérins",
+          "description": "Servicios diarios de ferry desde el muelle del Vieux-Port (puerto viejo) a las islas Sainte-Marguerite y Saint-Honorat. El billete de ida y vuelta a Sainte-Marguerite cuesta aproximadamente 18 €, el de Saint-Honorat se compra por separado. Planaria, Trans Côte d'Azur y Riviera Lines son los principales operadores. En verano hay mucha afluencia, se recomienda ir a primera hora de la mañana. En invierno hay menos salidas, consulta con antelación."
+        },
+        {
+          "icon": "🚶",
+          "title": "Caminar — la mejor opción",
+          "description": "El centro de Cannes es compacto. Desde la estación de tren: Mercado de Forville a 10 minutos, la colina de Le Suquet a 15 minutos, Vieux-Port a 10 minutos, toda la longitud de la Croisette a pie en 25-30 minutos. La subida a Le Suquet es empinada pero corta. Un paseo nocturno por la Croisette es una de las experiencias más clásicas de Cannes."
+        }
+      ],
+      "callout": {
+        "label": "Antibes y Juan-les-Pins — excursiones de un día fáciles",
+        "text": "Antibes está a 10 minutos de Cannes en tren. Museo Picasso, antiguas murallas de la ciudad y un mercado provenzal. Festival de jazz de Juan-les-Pins cada julio. Niza está a 30-40 minutos. Todos son accesibles en tren regional TER, billetes de 5 a 12 €. Para planificar una excursión de un día, sal de Cannes a primera hora de la mañana y regresa por la tarde.",
+        "type": "tip"
+      },
+      "title": "Cómo moverse"
+    },
+    "stay": {
+      "intro": "La ubicación es clave en Cannes: la Croisette es cara y turística, Le Suquet tiene carácter, y la zona alrededor de la estación de tren es práctica.",
+      "local_word": {
+        "pronunciation": "lö sü-KE",
+        "definition": "El barrio antiguo de Cannes, en la colina sobre el Vieux-Port. Calles estrechas de piedra que datan de la época medieval, la iglesia de Notre-Dame d'Espérance y el mejor panorama de la ciudad. Lejos de las multitudes de Cannes, tranquilo y auténtico. Casi vacío en las primeras horas de la mañana. Desde la cima se puede ver el mar, el puerto de yates y las montañas del Estérel a la vez.",
+        "word": "Le Suquet"
+      },
+      "items": [
+        {
+          "name": "La Croisette — el bulevar marítimo",
+          "badge": "El más prestigioso",
+          "badge_type": "hot",
+          "description": "Uno de los paseos marítimos más famosos del mundo. Grandes hoteles, boutiques de lujo, playas privadas. Todo al alcance de la mano, pero con precios acordes. El punto más caro y concurrido de la ciudad durante el Festival de Cine. El lugar ideal para quienes quieren vivir Cannes en todo su esplendor, si el presupuesto lo permite.",
+          "tags": [
+            "Ambiente del Festival de Cine",
+            "Hoteles de lujo",
+            "En primera línea de mar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Croisette+Cannes"
+        },
+        {
+          "name": "Le Suquet — barrio antiguo",
+          "badge": "El de más carácter",
+          "badge_type": "local",
+          "description": "Estrechas calles medievales, pequeños restaurantes y las mejores vistas de la ciudad. A 5 minutos a pie del Mercado Forville y del Vieux-Port. Lejos de los precios de la Croisette, tranquilo y auténtico. Las calles son empinadas y escalonadas, pero merecen cada paso.",
+          "tags": [
+            "Vistas panorámicas",
+            "Cerca del Mercado Forville",
+            "Ambiente local"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Suquet+Cannes"
+        },
+        {
+          "name": "Alrededores de la estación de tren",
+          "badge": "El más práctico",
+          "badge_type": "hot",
+          "description": "A 10 minutos de la Croisette, a 10 minutos de Forville, a 10 minutos de Antibes en tren. El punto más céntrico para el transporte. Precios más bajos que en la Croisette. La calle comercial Rue d'Antibes está cerca.",
+          "tags": [
+            "Conexiones de tren",
+            "Rue d'Antibes",
+            "Opciones asequibles"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gare+de+Cannes"
+        },
+        {
+          "name": "Forville — barrio del mercado",
+          "badge": "El más local",
+          "badge_type": "local",
+          "description": "Un pequeño barrio a los pies de Le Suquet, alrededor del Mercado Forville. Cobra vida con la actividad del mercado por las mañanas. La calle peatonal Rue Meynadier, con panaderías, charcuterías y queserías locales. El lugar ideal para vivir Cannes como un auténtico local.",
+          "tags": [
+            "Mercado Forville",
+            "Rue Meynadier",
+            "Vida matutina del mercado"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Forville+Cannes"
+        },
+        {
+          "name": "Californie — barrio en la colina",
+          "badge": "El más tranquilo",
+          "badge_type": "local",
+          "description": "En el este de la ciudad, en las laderas de la colina con vistas al mar, lleno de arquitectura de villas Belle Époque. Llegar a la Croisette requiere un corto paseo o autobús. Una alternativa tranquila para estancias más largas. Para aquellos que quieren ver la Riviera desde arriba.",
+          "tags": [
+            "Villas Belle Époque",
+            "Ambiente tranquilo",
+            "Vistas panorámicas"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Californie+Cannes"
+        }
+      ],
+      "title": "Dónde Alojarse"
+    },
+    "best_time": {
+      "intro": "Cannes se puede visitar durante todo el año, pero el período del Festival de Cine es una categoría aparte: ven preparado o planifica tu viaje en torno a él.",
+      "items": [
+        {
+          "label": "Primavera",
+          "name": "La mejor época",
+          "months": "Abr – May",
+          "description": "Abril es el mes más equilibrado de Cannes: temperaturas de 18-22°C, sin aglomeraciones, precios razonables. Mayo se divide en dos por el Festival de Cine: tranquilo y económico antes del festival, la ciudad abarrotada durante la semana del festival.",
+          "callout": {
+            "label": "Festival de Cine de Cannes — cuándo y cómo",
+            "text": "Cada año, en la segunda quincena de mayo, durante aproximadamente 12 días. Se requiere acreditación para acceder al festival. Pero las multitudes de espectadores fuera del Palais des Festivals, la búsqueda de celebridades en la Croisette y las proyecciones públicas son gratuitas. Si quieres experimentar el ambiente del festival, no necesitas una entrada, con solo estar allí es suficiente.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Primavera · Floración de la mimosa, menos gente, clima suave"
+        },
+        {
+          "label": "Verano",
+          "name": "Abarrotado pero animado",
+          "months": "Jun – Ago",
+          "description": "Julio y agosto son el período más intenso de la Costa Azul. Las playas de Cannes están abarrotadas, la Croisette desborda. Dicho esto, el mar está en su mejor momento, las noches son largas y animadas. Las primeras horas de la mañana y después de las 7 de la tarde son más llevaderas.",
+          "callout": {
+            "label": "Plage de la Bocca — escapa de las multitudes",
+            "text": "Al oeste del centro de Cannes, a 10 minutos de la estación de tren en autobús. Mucho más tranquila, más local y con una extensión de costa más larga que las playas céntricas. Sin tumbonas de pago, solo arena y mar. Los días de semana por la mañana a las 9h está casi vacía. Ideal para escapar de las conocidas multitudes de Cannes.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Verano · Baños en el Mediterráneo, playas llenas, vida nocturna"
+        },
+        {
+          "label": "Otoño",
+          "name": "La segunda mejor época",
+          "months": "Sep – Nov",
+          "description": "Septiembre y octubre son el período más cómodo de Cannes. Las multitudes de verano han desaparecido, las temperaturas aún son de 22-25°C, y todavía es posible bañarse en el Mediterráneo. MIPCOM (octubre) y otras ferias profesionales dan vida a la ciudad, pero no tan abarrotada como durante el Festival de Cine. Restaurantes y hoteles con precios más razonables, las Islas Lérins casi vacías.",
+          "callout": {
+            "label": "Islas Lérins — la mejor escapada de otoño",
+            "text": "En septiembre-octubre las islas están libres de las multitudes de verano. En Sainte-Marguerite: bosques de pinos y eucaliptos, mar cristalino, Fort Royal. En Saint-Honorat: un monasterio activo, viñedos y cata de vinos. Dedica un día completo a ambas islas; el vino de Saint-Honorat es realmente bueno.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Otoño · Las multitudes de verano se han ido, el mar sigue cálido"
+        },
+        {
+          "label": "Invierno",
+          "name": "Tranquilo y soleado",
+          "months": "Dic – Feb",
+          "description": "De diciembre a febrero Cannes se tranquiliza. Algunos restaurantes cierran, las playas están vacías, pero el clima suele ser soleado y suave. En enero-febrero, la mimosa (similar a la acacia amarilla) florece en las colinas alrededor de Grasse y Tanneron, el paisaje invernal más impresionante de la Costa Azul.",
+          "callout": {
+            "label": "Ruta de la mimosa — el secreto de febrero",
+            "text": "Cada febrero, el Festival de la Mimosa en Mandelieu-la-Napoule. Colinas cubiertas de flores amarillas, jardines de flores cultivadas para perfume. A 20-30 minutos de Cannes en coche o autobús. Los museos del perfume y las visitas a fábricas en Grasse también están en esta ruta, una de las experiencias más especiales que ilumina la Costa Azul en invierno.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Invierno · 12-15°C, playas vacías, temporada de mimosa"
+        }
+      ],
+      "title": "Cuándo Ir",
+      "monthly_highlights": [
+        {
+          "month": "May",
+          "text": "El Festival de Cine: el cine mundial vive aquí durante dos semanas — los hoteles se disparan, la ciudad vibra; las proyecciones de Cinéma de la Plage son abiertas a todos y gratuitas."
+        },
+        {
+          "month": "July–August",
+          "text": "Festival d'Art Pyrotechnique: la mejor competición de fuegos artificiales del mundo sobre la bahía — el mejor asiento es gratis, en la arena."
+        },
+        {
+          "month": "September",
+          "text": "El Festival de Yates: la feria náutica más grande de Europa; el puerto se convierte en una exposición flotante de fortunas."
+        },
+        {
+          "month": "October–April",
+          "text": "La temporada tranquila: los precios bajan, la luz se suaviza, la Croisette vuelve a los lugareños — Cannes en su versión más auténtica."
+        }
+      ]
+    },
+    "eat": {
+      "intro": "Cannes es una ciudad cara, pero a una calle de la Croisette se come mejor y más barato.",
+      "local_word": {
+        "pronunciation": "a-PEH-ro",
+        "definition": "La abreviatura francesa para la cultura del aperitivo. Tomar algo y picar fuera antes de cenar; no es solo una bebida, sino el momento más social del día. En la Riviera: rosado o pastis (licor provenzal con sabor a anís) con aceitunas, frutos secos y pequeños platos. Entre las 18h y las 20h, las terrazas de los cafés se llenan para este ritual. Cuando los franceses se sientan para el apéro, no tienen prisa; este tiempo es para nada más, solo para este momento.",
+        "word": "Apéro"
+      },
+      "items": [
+        {
+          "icon": "🥞",
+          "name": "Socca",
+          "description": "En el puesto Socca'nne del Mercado de Forville, socca fresca cocinada a la leña. Envuelto en papel, con pimienta negra por encima, 3 €. Cómela caliente; cuando se enfría, esa textura crujiente desaparece. Puedes sentarte en uno de los cafés junto al mercado y pedir que te la traigan. El día que el mercado está cerrado (los lunes es el mercado de antigüedades) tampoco hay socca.",
+          "tag": "Mercado de Forville, puesto Socca'nne · 3 € · cómela caliente",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Forville+Cannes"
+        },
+        {
+          "icon": "🥪",
+          "name": "Pan bagnat",
+          "description": "La versión sándwich de una ensalada Niçoise: pan redondo relleno de atún, huevos duros, tomates, pimientos, aceitunas Niçoise y anchoas. El plato de almuerzo de la Riviera Provenzal. Se vende en todas partes en quioscos y pequeñas tiendas. Cómo reconocer un verdadero pan bagnat: pan empapado, verduras crudas y atún enlatado de calidad. Si lleva verduras cocidas, es la versión incorrecta.",
+          "tag": "Quioscos y tiendas por toda la ciudad · 5–8 €",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rue+Meynadier+Cannes"
+        },
+        {
+          "icon": "🧅",
+          "name": "Pissaladière",
+          "description": "Una tarta de cebolla: base de masa gruesa, cebollas caramelizadas cocinadas durante horas, aceitunas Niçoise y una rejilla de anchoas. A primera vista, su aspecto podría sugerir pizza, pero es diferente y mucho más intensa. Fresca de las panaderías de la Rue Meynadier desde por la mañana. Jean-Luc Pelé es el mejor de esta calle. Una porción por 2-3 €, cómela mientras paseas.",
+          "tag": "Panaderías de la Rue Meynadier · Jean-Luc Pelé · 2–3 € la porción",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rue+d%27Antibes+Cannes"
+        },
+        {
+          "icon": "🐟",
+          "name": "Bouillabaisse",
+          "description": "Un caldo rico y aromático con azafrán hecho con pescado de roca, servido con rouille (mayonesa de ajo) y picatostes: una sopa de la Riviera con un sabor profundo. Una buena bullabesa en Cannes es cara: 35-55 € por persona. Los restaurantes del barrio de Le Suquet son los más fiables. Si el menú no tiene precio o parece muy barata, es probable que sea un preparado.",
+          "tag": "Barrio de Le Suquet · 35–55 € por persona · almuerzo o cena",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Astoux+et+Brun+Cannes"
+        },
+        {
+          "icon": "🍷",
+          "name": "Vino rosado — estilo Provenza",
+          "description": "La Provenza produce algunos de los mejores rosados del mundo. Cada bistró y café en Cannes tiene rosado de Provenza. Una copa de rosado de la casa cuesta 5-8 €, el doble en la Croisette. En una tarde cálida, sentarse en una terraza de café cerca de Forville con este vino es uno de los momentos más puros de la Riviera Francesa.",
+          "tag": "Cada bistró y café · 5–8 € la copa · lejos de la Croisette",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Suquet+Cannes"
+        },
+        {
+          "icon": "🛒",
+          "name": "Desayuno en el Mercado de Forville",
+          "description": "El mercado cubierto abre de 7h a 13h. Los lunes es el mercado de antigüedades, el resto de días es de comida. Fruta fresca, verduras, queso, pescado, flores y productos locales. Comprar socca, fougasse (pan de aceitunas provenzal) y queso fresco y sentarse fuera es tanto barato como el desayuno más local que puedes tener en Cannes. Los chefs y las abuelas están en su punto más animado entre las 8h y las 10h.",
+          "tag": "Mercado de Forville · 7h–13h · Lunes antigüedades",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Forville+Cannes"
+        }
+      ],
+      "callout": {
+        "label": "Rue Meynadier — La calle local de Cannes",
+        "text": "Una calle peatonal que va desde el Mercado de Forville hasta la Rue d'Antibes. Panaderías, queserías, charcuterías, confiterías. Aquí están los verdaderos comerciantes de Cannes, en contraste con los escaparates de lujo de la Croisette. Ideal para preparar un pícnic: pan fresco, queso y una botella de rosado y listo para la playa. Más animada entre las 8h y las 10h.",
+        "type": "tip"
+      },
+      "title": "Qué Comer"
+    },
+    "hidden_gems": {
+      "intro": "Los rincones más encantadores de Cannes están a un paso de la Croisette o unos metros más arriba.",
+      "items": [
+        {
+          "name": "La colina de Le Suquet — Notre-Dame d'Espérance",
+          "description": "Sube las escaleras desde el Vieux-Port y llegarás a la cima de Le Suquet. Desde la iglesia de Notre-Dame d'Espérance, podrás contemplar el puerto de yates, la Croisette y las montañas del Estérel. Ve 30 minutos antes del atardecer: la luz incide directamente sobre esta colina. Trae una botella de rosado y siéntate en la terraza. Una décima parte de las multitudes de la Croisette, gratis y mucho más hermoso.",
+          "rarity": "Justo encima de la Croisette — un mirador sin multitudes",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Notre-Dame+d%27Espérance+Cannes"
+        },
+        {
+          "name": "Isla Sainte-Marguerite",
+          "description": "A 15 minutos en ferry desde el Vieux-Port. En el Fort Royal podrás ver la celda donde estuvo recluido el Hombre de la Máscara de Hierro —se debate si es un hecho o una leyenda, pero la celda en sí es real. El resto de la isla es un bosque de pinos y eucaliptos, calas de aguas cristalinas y senderos. Incluso en pleno verano, se mantiene tranquila. Almuerza en la isla: el restaurante es sencillo pero el pescado es fresco.",
+          "rarity": "La isla donde estuvo recluido el Hombre de la Máscara de Hierro — a 15 minutos en ferry",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Île+Sainte-Marguerite"
+        },
+        {
+          "name": "Isla Saint-Honorat",
+          "description": "La isla más pequeña junto a Sainte-Marguerite, a la que se llega en un ferry diferente. Un monasterio activo desde el siglo V —los monjes aún viven aquí hoy y cuidan sus viñedos. El vino del monasterio es mundialmente conocido; hay catas y ventas disponibles para los visitantes. La isla es pequeña, se puede recorrer a pie en su totalidad. Se puede visitar el mismo día que Sainte-Marguerite —compra billetes separados para cada isla.",
+          "rarity": "Un monasterio vivo, viñedos y su propio vino",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Île+Saint-Honorat"
+        },
+        {
+          "name": "Vallauris — el pueblo alfarero de Picasso",
+          "description": "A 20 minutos de Cannes en autobús. Picasso vivió aquí entre 1948 y 1955 y descubrió el arte de la cerámica. Todavía existen talleres de alfarería activos y pequeñas galerías. El Museo Nacional Picasso La Guerra y la Paz —una capilla que Picasso pintó personalmente y donó a la ciudad. De pago pero asequible, sin aglomeraciones, realmente impresionante.",
+          "rarity": "La conexión de Cannes con Picasso — justo a las afueras de la ciudad",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vallauris"
+        },
+        {
+          "name": "Grasse — la ciudad del perfume",
+          "description": "A 25-30 minutos de Cannes en tren o autobús. La capital mundial del perfume —las materias primas para Chanel Nº5 provienen de aquí. Las fábricas de perfumes Fragonard, Molinard y Galimard ofrecen visitas gratuitas; las sesiones de taller son de pago. El casco antiguo tiene calles estrechas y lugares para desayunar al estilo provenzal. En febrero-marzo, la mimosa florece a lo largo de las carreteras.",
+          "rarity": "Mimosas y la capital del perfume — justo detrás de Cannes",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grasse"
+        },
+        {
+          "name": "Mercado de antigüedades de Forville",
+          "description": "Cada lunes, el Mercado de Forville se transforma de mercado de alimentos en un mercado de antigüedades, vintage y segunda mano. Fotografías antiguas, marcos, joyas, libros, platos. Precios mucho más bajos que en las casas de subastas. Los mejores hallazgos se hacen cuando los puestos se están montando a las 7 de la mañana. Los vendedores suelen estar abiertos a la negociación. Una experiencia de Cannes completamente diferente y mucho más auténtica, en contraste con el glamour de la Croisette.",
+          "rarity": "El tranquilo ritual de los lunes en Cannes",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Forville+Cannes"
+        }
+      ],
+      "callout": {
+        "label": "Chemin des Étoiles — huellas de manos de estrellas de cine",
+        "text": "Frente al Palais des Festivals, un paseo que recuerda al Paseo de la Fama de Hollywood, pero mucho más modesto. Las huellas de manos y pies de las estrellas que han asistido al festival de cine están grabadas en bloques de hormigón. Gratuito, abierto 24/7. Iluminado por la noche —ideal para detenerse en un paseo nocturno. Subir las escaleras alfombradas de rojo del Palais des Festivals también es gratis y perfecto para fotos.",
+        "type": "tip"
+      },
+      "title": "Tesoros Escondidos"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Prueba la socca en Forville — recién hecha por la mañana",
+          "sub": "Mercado de Forville, puesto Socca'nne. Todos los días excepto los lunes, de 7h a 13h. 3 €. Cómela caliente, pierde el sabor al enfriarse."
+        },
+        {
+          "label": "Sube a Le Suquet — al atardecer",
+          "sub": "Escaleras desde el Vieux-Port. Panorámica desde la fachada de Notre-Dame d'Espérance. Llega 30 minutos antes del atardecer. Gratis."
+        },
+        {
+          "label": "Toma el ferry a las Islas Lérins",
+          "sub": "Muelle del Vieux-Port. Toma la primera salida de la mañana — por la tarde hay mucha gente. Sainte-Marguerite y Saint-Honorat requieren billetes separados."
+        },
+        {
+          "label": "Compra pissaladière en la Rue Meynadier",
+          "sub": "Calle peatonal, cerca de Forville. Una porción recién hecha de panadería, 2-3 €. Más fresca entre las 8h y las 10h."
+        },
+        {
+          "label": "Da un paseo nocturno por la Croisette",
+          "sub": "Desde el Palais des Festivals hasta Palm Beach. 2 km. Lo más bonito es después del atardecer. Yates, luces, la silueta del Estérel."
+        },
+        {
+          "label": "Visita el Chemin des Étoiles",
+          "sub": "Frente al Palais des Festivals. Huellas de manos de estrellas. Gratis. Hazte una foto en las escaleras con alfombra roja."
+        },
+        {
+          "label": "Ve al Mercado de Forville a primera hora de la mañana",
+          "sub": "Todos los días excepto los lunes, de 7h a 13h. Pescado fresco, queso, verduras, socca. Las mejores horas son de 8h a 10h."
+        },
+        {
+          "label": "Haz un tour de perfumes en Grasse",
+          "sub": "A 25-30 minutos en tren o autobús desde Cannes. Fábrica Fragonard o Molinard — tour gratuito. Crea tu propio perfume (con entrada)."
+        },
+        {
+          "label": "Bebe un rosado de Provenza — lejos de la Croisette",
+          "sub": "Cafeterías alrededor de Le Suquet o Forville. Una copa 5-8 €. El doble de precio en la Croisette."
+        },
+        {
+          "label": "Prueba el pan bagnat",
+          "sub": "Kioscos y tiendas por toda la ciudad. Sándwich de atún a la niçoise. 5-8 €. El auténtico: pan empapado, verduras crudas."
+        },
+        {
+          "label": "Visita el mercado de antigüedades de Forville",
+          "sub": "Solo los lunes. De 7h a 13h. Artículos vintage, fotografías antiguas, joyas. ¡Regatea!"
+        },
+        {
+          "label": "Visita la capilla de Picasso en Vallauris",
+          "sub": "A 20 minutos de Cannes en autobús. Museo Nacional Picasso La Guerra y la Paz. Con entrada, pero asequible. No suele haber mucha gente."
+        }
+      ],
+      "title": "Cannes: Tu Lista de Imprescindibles",
+      "completion_message": "Cannes te ha cautivado sin necesidad de alfombra roja. ¡Vuelve la próxima vez con más calma!"
+    },
+    "traps": {
+      "title": "Evita las Trampas",
+      "intro": "Cannes pertenece a las estrellas dos semanas al año, y a los viajeros inteligentes las otras cincuenta. Conoce estas cuatro y vívelo sin pagar precios de alfombra roja.",
+      "items": [
+        {
+          "icon": "☕",
+          "name": "Un café 'con vistas' en las terrazas de la Croisette",
+          "description": "Un espresso en el bulevar bordeado de palmeras se vende a varias veces su precio; no pagas por el café, sino por el derecho a ver pasar Bentleys.",
+          "instead": "Toma tu café cerca del mercado de Forville o en la Rue Meynadier; vive la Croisette gratis, a pie."
+        },
+        {
+          "icon": "🎬",
+          "name": "Vendedores de 'entradas para fiestas' en el Festival",
+          "description": "La mayoría de las entradas para 'galas de estrellas' vendidas en la calle y online en mayo son falsas; las invitaciones reales nunca están a la venta.",
+          "instead": "Empápate del ambiente del festival alrededor del Palacio y en las proyecciones públicas de la playa (Cinéma de la Plage — free)."
+        },
+        {
+          "icon": "🏖️",
+          "name": "La cuenta de la tumbona en el club de playa",
+          "description": "En las playas privadas de la Croisette, una tumbona y una sombrilla alcanzan fácilmente el presupuesto de una cena.",
+          "instead": "Usa las playas públicas: Plage du Midi y los tramos públicos junto al Palacio ofrecen la misma arena gratis."
+        },
+        {
+          "icon": "🛥️",
+          "name": "Regatear por un 'tour en barco por las villas de famosos'",
+          "description": "El caro 'tour de celebridades' que se vende en el puerto se reduce principalmente a señalar paredes desde la distancia.",
+          "instead": "Gasta el mismo dinero en el ferry a las Islas Lérins: el bosque de Sainte-Marguerite y la celda del Hombre de la Máscara de Hierro cuentan una historia real."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de oro",
+        "text": "La ecuación de Cannes es sencilla: la primera calle junto al mar es el espectáculo, la segunda calle es la ciudad. Si un precio te duele, sube una calle."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Preparadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Mercado, colina antigua y una escapada a la isla",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Desayuno en el mercado de Forville",
+              "description": "Fruta de los puestos, algo de la panadería, un espresso de pie; la Cannes sin artificios vive bajo este techo."
+            },
+            {
+              "time": "10:00",
+              "title": "Sube a Le Suquet",
+              "description": "Por las callejuelas estrechas del barrio antiguo hasta Notre-Dame d'Espérance: la bahía, las islas y los tejados de teja a tus pies."
+            },
+            {
+              "time": "11:30",
+              "title": "Ferry a la Île Sainte-Marguerite",
+              "description": "Pasea por el bosque de pinos y eucaliptos, visita el fuerte del Hombre de la Máscara de Hierro; los senderos descienden hasta el mar."
+            },
+            {
+              "time": "15:30",
+              "title": "Paseo por La Croisette",
+              "description": "De vuelta en tierra, recorre el bulevar de punta a punta: las escaleras del Palais, las huellas de manos, las playas. Observar es gratis."
+            },
+            {
+              "time": "18:00",
+              "title": "Rue d'Antibes + Meynadier",
+              "description": "Escaparates y boutiques; compra aquí el queso, el vino y la tarta para la noche."
+            },
+            {
+              "time": "20:00",
+              "title": "Cena en Le Suquet",
+              "description": "Pescado o bullabesa en los pequeños restaurantes de la ladera; las luces del puerto abajo."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Vive la ciudad como un invitado, no como un turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Los clásicos de Cannes",
+              "description": "El itinerario de 1 día anterior: mercado, Suquet, isla, Croisette."
+            },
+            {
+              "time": "Day 2",
+              "title": "La tranquila isla de Lérins",
+              "description": "Ferry matutino a Saint-Honorat: el monasterio de los monjes, viñedos y una cata de vinos; nada en las calas de la isla, pesca en el puerto por la noche."
+            },
+            {
+              "time": "Day 3",
+              "title": "Perfume y cerámica",
+              "description": "Un taller de perfumes en Grasse por la mañana (crea tu propia fragancia), las huellas de la cerámica de Picasso en Vallauris por la tarde, un rosado de despedida en Cannes por la noche."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "El kit de supervivencia de 5 palabras",
+      "intro": "El francés de la Riviera empieza con cortesía; estas cinco palabras te abrirán todas las puertas.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Hola — la primera palabra obligatoria en cada interacción"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Gracias — más fuerte con 'beaucoup'"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "Por favor — añádelo al final de tu pedido"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "¡Salud! — las copas de rosado se alzan con esto"
+        },
+        {
+          "word": "C'est magnifique!",
+          "pronunciation": "seh mah-nyee-FEEK",
+          "meaning": "¡Es magnífico! — lo necesitarás al contemplar la bahía desde Le Suquet"
+        }
+      ]
+    }
+  }
+}

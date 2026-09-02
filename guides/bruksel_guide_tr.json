@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Brüksel",
+    "country": "Belçika",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#5B4E9E",
+    "color_light": "#EEEBF8",
+    "tagline": "Art nouveau, çizgi roman duvarları ve Avrupa'nın dağınık ama sevimli başkenti"
+  },
+  "pills": [
+    "Avrupa'nın başkenti",
+    "Çizgi roman şehri",
+    "İlk bakışta değil, ikinci bakışta güzel"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Brüksel'e Hoş Geldin",
+      "intro": "Brüksel ilk bakışta kendini beğendirmeye çalışmaz: cam AB binalarının yanında art nouveau konakları, şık pasajların iki sokak ötesinde bitpazarı gürültüsü durur. Ama Grand Place'a ilk girişinde nefesin kesilir, duvarda bir Tenten resmiyle burun buruna gelirsin ve bir frietkot kuyruğunda üç dilin aynı anda konuşulduğunu duyarsın. Bu şehir cilalı değil, katmanlıdır — soyuldukça güzelleşir. Acele etme; Brüksel kendini ikinci günde sevdirir.",
+      "local_word": {
+        "word": "Zwanze",
+        "pronunciation": "zvanze",
+        "definition": "Brüksel'e özgü mizah: kendisiyle dalga geçen, otoriteyi hafife alan, tatlı-alaycı bir espri anlayışı. İşeyen bir çocuk heykelini milli sembol yapmak — işte bu Zwanze'dir."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "İki dilli şehirde esnek ol",
+          "description": "Brüksel resmi olarak iki dillidir: sokak tabelaları Fransızca ve Felemenkçe yazılır, aynı meydanın iki adı olabilir. Fransızca ağır basar ama İngilizce her yerde işler; 'bonjour' ile başla, gerisi gelir."
+        },
+        {
+          "number": 2,
+          "title": "Güzellik yukarıda ve avludadır",
+          "description": "Brüksel'in cepheleri bazen yorgundur ama kapı üstü süslemeleri, art nouveau balkonları ve iç avluları şaşırtır. Başını kaldırmadan ve kapılardan içeri bakmadan yürüyen, şehrin yarısını kaçırır."
+        },
+        {
+          "number": 3,
+          "title": "Pazar sabahı bitpazarına ayır",
+          "description": "Jeu de Balle bitpazarı 150 yıldır her sabah kurulur; pazar günü en dolu halidir. Erken git, pazarlık et, sonra Marolles kafelerinde kahvaltı yap — Brüksel'in en yerel sabahı budur."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Zaventem (BRU)",
+          "sub": "Merkeze tren ~20 dk · Charleroi'ya dikkat"
+        },
+        {
+          "icon": "🚇",
+          "label": "Şehir içi",
+          "value": "Metro + tramvay",
+          "sub": "Temassız kartla doğrudan biniş"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Fransızca + Felemenkçe",
+          "sub": "İngilizce her yerde sorunsuz"
+        },
+        {
+          "icon": "🖼️",
+          "label": "İmza",
+          "value": "Art nouveau + çizgi roman",
+          "sub": "Horta'nın ve Tenten'in şehri"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Brüksel felsefesi",
+        "text": "Brüksel'i Paris'le kıyaslama; o yarışa girmiyor bile. Bu şehir mükemmel meydan yerine tuhaf köşe, büyük bulvar yerine iyi bira masası vaat eder — beklentini böyle kurarsan aşılır."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Merkez yürünebilir, tepeler yorucu, metro-tramvay ağı dost: kombinasyon kur, araba fikrini unut.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından merkeze",
+          "description": "Zaventem'den tren 20 dakikada Central'e iner. 'Brussels South Charleroi' yazan biletin küçük harflerine dikkat: o havalimanı şehre bir saat uzaklıktadır, otobüs aktarması gerekir."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro ve tramvay ağı",
+          "description": "STIB/MIVB ağı şehri sarar; temassız banka kartını turnikeye okutup binersin, gün içi tavan ücret otomatik hesaplanır. Sanatlı metro istasyonlarına göz at — bazıları küçük galeridir."
+        },
+        {
+          "icon": "🚶",
+          "title": "Merkez yayan ama tepeli",
+          "description": "Grand Place'tan çoğu yere yürünür; ama şehir sanıldığından engebelidir — Sablon ve Saray tepeye kuruludur. Kongre anıtından asansörle inip Aşağı Şehir'e bağlanan kestirmeleri kullan."
+        },
+        {
+          "icon": "🚄",
+          "title": "Günübirlik tren kaçamakları",
+          "description": "Belçika treni günübirlikçinin cennetidir: Brugge ve Gent bir saat, Anvers 45 dakika. Hafta sonu bileti indirimlidir; Brüksel'i üs yapıp Flandre'ı tara."
+        },
+        {
+          "icon": "🚲",
+          "title": "Villo! ve bisiklet şeritleri",
+          "description": "Paylaşımlı bisikletler ucuzdur ama tepeler ve taş döşeme yüzünden Brüksel bisikleti tecrübeli iş: kanal boyu ve parklar keyifli, merkez trafiği cesaret ister."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Metro tüyosu",
+        "text": "Metro sanat turu bedavadır: Stockel'de dev Tenten duvarı, Porte de Hal'de sürreal işler. Bileti zaten aldın — birkaç istasyonda in, bak, sonraki trene bin."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Brüksel mahalle mahalle başka bir şehirdir: ortaçağ merkezi, şık Sablon, bohem Saint-Gilles, bürokrat Avrupa Mahallesi.",
+      "local_word": {
+        "word": "Estaminet",
+        "pronunciation": "estamine",
+        "definition": "Eski usul mahalle meyhanesi: ahşap masalar, yüzlerce bira, duvarda sararmış fotoğraflar. Brüksel'de bir mahallenin kalitesi, köşesindeki estaminet'in kalitesiyle ölçülür."
+      },
+      "items": [
+        {
+          "name": "Grand Place ve Ilot Sacré",
+          "badge": "En merkezi",
+          "badge_type": "vibe",
+          "description": "Dünyanın en güzel meydanına iki sokak mesafede uyanmak: müzeler, pasajlar ve waffle kokusu kapının önünde. Gece hareketli, cephesi turistik — ilk ziyaretin pratik klasiği.",
+          "tags": [
+            "Grand Place iki adım",
+            "Her yere yürüme",
+            "Gece hareketli"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grand+Place+Brussels"
+        },
+        {
+          "name": "Sablon",
+          "badge": "En zarif",
+          "badge_type": "hot",
+          "description": "Antikacılar, çikolata ustaları ve galerilerin tepesi: hafta sonu antika pazarı, çevresinde şehrin en şık kafeleri. Kraliyet Müzeleri'ne yürüme mesafesi, fiyatlar bu zarafetle orantılı.",
+          "tags": [
+            "Antikacılar",
+            "Usta çikolatacılar",
+            "Müzelere komşu"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sablon+Brussels"
+        },
+        {
+          "name": "Saint-Gilles",
+          "badge": "En bohem",
+          "badge_type": "local",
+          "description": "Art nouveau cephelerin, pazar yerlerinin ve genç kahvecilerin bölgesi: Horta Müzesi burada. Turist azdır, mahalle hayatı gerçektir; merkeze tramvay on dakika.",
+          "tags": [
+            "Art nouveau sokaklar",
+            "Mahalle pazarı",
+            "Genç kafeler"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Saint-Gilles+Brussels"
+        },
+        {
+          "name": "Sainte-Catherine ve Dansaert",
+          "badge": "En lezzetli",
+          "badge_type": "value",
+          "description": "Eski balık pazarı meydanı ve Flaman tasarımcı sokağı: şehrin en iyi restoranları ve barları bu çevrede toplanır. Merkeze beş dakika, akşamları uzun sofra garantili.",
+          "tags": [
+            "Restoran yoğunluğu",
+            "Tasarım dükkanları",
+            "Merkeze beş dakika"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Sainte-Catherine+Brussels"
+        },
+        {
+          "name": "Avrupa Mahallesi (Quartier Européen)",
+          "badge": "Pratik seçim",
+          "badge_type": "value",
+          "description": "AB kurumlarının bölgesi: hafta içi takım elbise trafiği, hafta sonu sakin ve otelleri indirimli. Cinquantenaire parkına komşu; işin AB ile ise ya da hafta sonu fiyat avcısıysan mantıklı.",
+          "tags": [
+            "Hafta sonu ucuz",
+            "Cinquantenaire parkı",
+            "Metroyla merkez 10 dk"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quartier+Européen+Brussels"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Brüksel'in takvimi sürprizlerle doludur: çiçek halısı, ortaçağ alayı, ışık festivali — gökyüzü ne derse desin.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Sera Mevsimi",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Kraliyet seraları, park pikniği",
+          "description": "Parklar yeşerir, teraslar kurulur ve yılın en özel randevusu gelir: Laeken Kraliyet Serleri sadece birkaç haftalığına halka açılır. Hava kaprislidir ama şehir en taze halindedir.",
+          "callout": {
+            "type": "tip",
+            "label": "Nisan-Mayıs ipucu",
+            "text": "Laeken seraları yılda ~3 hafta açılır (Nisan sonu-Mayıs): demir-cam saraylarda kamelya ormanı. Tarihleri önceden kontrol et, biletini al — Brüksel'in en kaçırılmaması gereken randevusu budur."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Meydan Şenlikleri",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Ommegang alayı, çiçek halısı, açık hava",
+          "description": "Temmuzda Grand Place ortaçağ alayı Ommegang'la tarihe döner; ağustos ortasında (çift yıllarda) meydan dev bir begonya halısıyla kaplanır. Şehir tatildekilerin sakinliğinde, festivaller art arda gelir.",
+          "callout": {
+            "type": "tip",
+            "label": "Ağustos ipucu",
+            "text": "Flower Carpet çift yıllarda ağustos ortasında dört gün sürer: halıyı yukarıdan görmek için Belediye Binası balkon biletini al, akşam ışık-müzik gösterisine kal."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Müze ve Bira Mevsimi",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Müze geceleri, bira haftası",
+          "description": "Eylülde bira festivali Grand Place'ı tahta fıçılarla doldurur, müzeler gece etkinliklerine başlar; yapraklar Cinquantenaire'i altına boyar. Kalabalık azalır, estaminet'ler ısınır.",
+          "callout": {
+            "type": "tip",
+            "label": "Eylül ipucu",
+            "text": "Miras Günleri'nde (Eylül) normalde kapalı art nouveau konakları ve AB binaları kapılarını ücretsiz açar: Horta'nın öğrencilerinin evlerine girmek için yılın tek fırsatı."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Işık ve Punsch",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Winter Wonders, ışık gösterisi, sıcak şarap",
+          "description": "Aralıkta Winter Wonders şehri kaplar: Noel pazarı balık pazarı meydanına, dev dönme dolap kanala, ışık-ses gösterisi Grand Place'a kurulur. Ocak-şubat ise müze ve estaminet mevsimidir: dışarıda çisenti, içeride quadrupel.",
+          "callout": {
+            "type": "tip",
+            "label": "Aralık ipucu",
+            "text": "Grand Place ışık gösterisi her akşam saat başı ücretsizdir: kalabalık ilk gösterime yığılır, sen 21.00 sonrasını seç ve meydanı yarı boş yakala."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Brüksel sofrası cömerttir: midye tencereleri, çift kızartma friten, yüz yıllık pasajlarda çikolata ve dünyanın en derin bira menüsü.",
+      "local_word": {
+        "word": "Kriek",
+        "pronunciation": "krik",
+        "definition": "Vişneyle mayalanan lambik birası: Brüksel'in kendine has, hafif ekşi bira ailesinin en sevileni. Lambik sadece bu vadinin havasındaki doğal mayayla yapılır — kelimenin tam anlamıyla başka yerde üretilemez."
+      },
+      "items": [
+        {
+          "icon": "🦪",
+          "name": "Moules-frites — milli tencere",
+          "description": "Beyaz şaraplı, kerevizli midye tenceresi ve yanında friten: Belçika'nın milli yemeği. Mevsimi eylülden nisana; boş kabuğu maşa yapıp yemek usuldendir.",
+          "tag": "Sainte-Catherine çevresi · mevsiminde",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Sainte-Catherine+Brussels"
+        },
+        {
+          "icon": "🍟",
+          "name": "Frietkot ritüeli",
+          "description": "Çift kızartma friten külahı, üstünde andalouse sos: Brüksel'de frietkot'lar gece geç saate kadar çalışır ve her mahallenin bir favorisi vardır. Kuyruk uzunsa doğru yerdesin.",
+          "tag": "Külahta · kuyruklu büfeden",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+Antoine+Brussels"
+        },
+        {
+          "icon": "🧇",
+          "name": "Gaufre — sade ekol",
+          "description": "Brüksel waffle'ı hafif ve dikdörtgen, Liège yoğun ve karamelli. Turist dükkanları çilek-çikolata dağıyla satar; yerlisi sıcak ve sade yer, en fazla pudra şekeri.",
+          "tag": "Sıcak ve sade · meyve dağına hayır",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+Dandoy+Brussels"
+        },
+        {
+          "icon": "🍫",
+          "name": "Pralin pasajı turu",
+          "description": "Kapalı pasaj Galeries Royales'de çikolatanın haute couture'ü yaşar: pralinin icat edildiği şehirdesin. Kutuyu tek tek seçtir, deniz tuzlu karameli unutma.",
+          "tag": "Galeries Royales'de · kutuyu kendin seç",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Galeries+Royales+Saint-Hubert+Brussels"
+        },
+        {
+          "icon": "🥘",
+          "name": "Stoemp ve carbonnade",
+          "description": "Stoemp: sebzeli patates ezmesi üstüne sosis ya da yumurta — Brüksel'in ev yemeği. Carbonnade flamande ise birada pişen yahni. İkisini de estaminet'te, tahta masada ye.",
+          "tag": "Estaminet'te · ev yemeği hali",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=A+la+Mort+Subite+Brussels"
+        },
+        {
+          "icon": "🍺",
+          "name": "Lambik ve gueuze tadımı",
+          "description": "Kendiliğinden mayalanan lambik, şampanya yöntemiyle harmanlanınca gueuze olur: ekşi, canlı, unutulmaz. Kanal kenarındaki tarihi Cantillon bira evi hâlâ 1900 yöntemiyle çalışır — turu tadımlı.",
+          "tag": "Cantillon'da · ekşiye açık ol",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie+Cantillon+Brussels"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bira kuralı",
+        "text": "Bira menüsü kitap kalınlığındaysa panikleme: garsona tatlı/ekşi/koyu tercihi söyle, gerisini o çözer. Her bira kendi bardağında gelir — bardağı fotoğraflamak ayıp değil, gelenektir."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Grand Place'ı herkes görür; bu altısı Brüksel'in katmanlarını açar.",
+      "items": [
+        {
+          "rarity": "Art nouveau'nun doğduğu ev",
+          "name": "Horta Müzesi",
+          "description": "Victor Horta'nın Saint-Gilles'deki kendi evi: merdiveni bir ışık sarmalı, her kapı kolu tasarım dersi. Art nouveau'yu icat eden adamın evinde, akımın en saf halindesin. Bilet sayısı sınırlı — önceden al.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Horta+Museum+Brussels"
+        },
+        {
+          "rarity": "150 yıllık bitpazarı",
+          "name": "Jeu de Balle Bitpazarı",
+          "description": "Marolles'un kalbinde her sabah kurulan pazar: eski plaklar, yıpranmış Tenten'ler, gümüş çatallar, tuhaf hatıralar. Pazarlık dahil, kahvaltı çevre kafelerde — Brüksel'in en dürüst sabahı.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Jeu+de+Balle+Brussels"
+        },
+        {
+          "rarity": "Duvarlarda dokuzuncu sanat",
+          "name": "Çizgi Roman Rotası",
+          "description": "Şehrin duvarlarında Tenten'den Lucky Luke'a altmıştan fazla dev fresk saklı: harita eline al, sokak sokak avlan. Merkezdeki Tenten duvarından başla, Marolles'a doğru topla.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Comic+Book+Route+Brussels"
+        },
+        {
+          "rarity": "Şehrin en iyi ücretsiz terası",
+          "name": "MIM çatı katı",
+          "description": "Enstrüman Müzesi'nin art nouveau Old England binasının çatı kafesi, Aşağı Şehir'in üstüne bakar: kubbeler, çatılar, uzakta Atomium. Müze de sürpriz derecede iyidir — kulaklıkla enstrümanları dinleyerek gezersin.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=MIM+Old+England+Brussels"
+        },
+        {
+          "rarity": "Demir ve camdan kış bahçesi",
+          "name": "Laeken Kraliyet Seraları",
+          "description": "Kral II. Leopold'un art nouveau cam sarayları: kamelyalar, palmiyeler, kubbeli kış bahçeleri. Yılda sadece birkaç hafta (Nisan-Mayıs) açılır — denk gelirsen her planı boz, buraya gel.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Serres+Royales+de+Laeken"
+        },
+        {
+          "rarity": "Zafer takının üstü",
+          "name": "Cinquantenaire kemeri",
+          "description": "Parkın ortasındaki devasa zafer takının terasına ordu müzesinin içinden çıkılır: AB binalarından eski şehre bütün Brüksel ayaklarının altında. Park piknik, müzeler yağmur planıdır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arc+du+Cinquantenaire+Brussels"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sürrealizm tüyosu",
+        "text": "Magritte Müzesi'ne öğleden sonra bileti al: sabah kalabalığı okul gruplarınındır. Çıkışta iki adım ötedeki Mont des Arts bahçesinden gün batımına bak — melon şapkalı bulutlar garanti edilmez ama olur."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Brüksel'in tuzakları iki sokakta toplanmıştır; onları bilirsen şehrin geri kalanı dürüsttür.",
+      "items": [
+        {
+          "icon": "🦞",
+          "name": "Rue des Bouchers'nin ısrarcı garsonları",
+          "description": "Restoran sokağındaki buzlu deniz mahsulü vitrinleri ve kapıda kol çeken garsonlar klasik tuzaktır: donuk midye, şişkin hesap, 'ücretsiz' başlangıcın faturası sonda.",
+          "instead": "Bir paralel sokağa çık ya da Sainte-Catherine meydanına yürü: aynı midye tenceresi, yarı fiyat, yerli müşteri."
+        },
+        {
+          "icon": "🧇",
+          "name": "Üstü çilek dağı, altı bayat waffle",
+          "description": "Manneken Pis çevresindeki neon vitrinler waffle'ı meyve, krema ve şeker dağının altına gömer: bayat hamuru saklamanın en tatlı yolu.",
+          "instead": "Sıcak ve sade söyle: hamur tazeyse tek başına yeter. Liège usulünü fırından yeni çıkmış bir gezici arabadan almak çoğu dükkandan iyidir."
+        },
+        {
+          "icon": "🍫",
+          "name": "'Belçika çikolatası' outlet'leri",
+          "description": "Turist aksındaki 'fabrika fiyatı' tabelalı dükkanlar endüstriyel çikolatayı hediye kutusunda üç katına satar.",
+          "instead": "Sablon'a çık: ustaların vitrinlerinde pralin tek tek seçilir, fiyat farkı sandığından az, fark damakta büyük."
+        },
+        {
+          "icon": "⚛️",
+          "name": "Atomium'u yanlış beklentiyle gitmek",
+          "description": "Atomium dıştan büyüleyici, içi ise uzun kuyruk + mütevazı sergi kombinasyonudur; hayal kırıklığı biletle birlikte gelir.",
+          "instead": "Dışarıdan fotoğrafla yetin ve yanındaki Mini-Europe'a gülümse; içine gireceksen akşam ışıkları için gir, sergi için değil."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Brüksel'de kapıda seni içeri çekmeye çalışan her yerden uzak dur: iyi estaminet'in kapısında garson değil, içeride oturan mahalleli vardır."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Meydandan bitpazarına bir Brüksel katmanı",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Grand Place boşken",
+              "description": "Altın cepheli lonca evlerini sabah ışığında gör; meydan bomboşken kahveni kenarda iç. Manneken Pis'e uğra, boyuna gülümse, devam et."
+            },
+            {
+              "time": "10:00",
+              "title": "Mont des Arts + Magritte",
+              "description": "Bahçeli terastan şehir manzarası, ardından Magritte Müzesi'nde sürrealizm dozu: 'Bu bir pipo değildir' — ama bu kesinlikle Brüksel'dir."
+            },
+            {
+              "time": "12:30",
+              "title": "Sainte-Catherine'de öğle",
+              "description": "Eski balık pazarı meydanında midye tenceresi (mevsimindeyse) ya da deniz ürünü bar tezgahı; alternatif: frietkot külahıyla meydan bankı."
+            },
+            {
+              "time": "14:30",
+              "title": "Sablon ve Marolles inişi",
+              "description": "Sablon'da usta çikolatacılardan kutu doldurt, antikacı vitrinlerini tara; sonra Marolles'a inip Jeu de Balle çevresinde eskici dükkanlarını karıştır."
+            },
+            {
+              "time": "17:00",
+              "title": "MIM çatısı ya da kemer terası",
+              "description": "Old England binasının çatı kafesinde gün batımı kahvesi; enerjin varsa Cinquantenaire kemerine çık, şehri yukarıdan topla."
+            },
+            {
+              "time": "19:30",
+              "title": "Estaminet kapanışı",
+              "description": "Tahta masalı bir meyhanede carbonnade ya da stoemp, yanında kendi bardağında bir trapist; ikinci birayı gueuze yap — Brüksel'e içilir."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Başkenti katman katman soy",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik merkez",
+              "description": "Yukarıdaki 1 günlük akış: Grand Place, Magritte, Sainte-Catherine, Sablon, Marolles, estaminet."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Art nouveau ve Avrupa",
+              "description": "Sabah Horta Müzesi ve Saint-Gilles cephe turu; öğleden sonra Cinquantenaire parkı ve kemer terası, Parlamentarium ile AB tarafına bak; akşam Dansaert barlarında Flaman tasarım + kokteyl."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Çizgi roman ve lambik",
+              "description": "Sabah Çizgi Roman Müzesi ve duvar freskleri avı; öğleden sonra Cantillon'da lambik turu ve tadım; akşam Jeu de Balle çevresinde veda yemeği — pazar sabahıysa önce bitpazarı."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Brüksel iki dillidir; bu beş Fransızca kelime her kapıyı açar, bir 'dank u wel' eklersen Flaman gülümsemesi bonustur.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bonjur",
+          "meaning": "İyi günler — her diyalogun zorunlu ilk kelimesi; atlarsan soğuk başlarsın"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mersi",
+          "meaning": "Teşekkürler — Flaman tarafı için 'dank u wel' yedekte dursun"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "sil vu ple",
+          "meaning": "Lütfen — Belçika'da garson tabağı bırakırken de söyler"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sante",
+          "meaning": "Şerefe! — göz teması olmadan kadeh kalkmaz"
+        },
+        {
+          "word": "Une gueuze, s'il vous plaît",
+          "pronunciation": "ün göz sil vu ple",
+          "meaning": "'Bir gueuze lütfen' — bu cümle seni turistten misafire terfi ettirir"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Brüksel Checklist",
+      "completion_message": "Santé! Brüksel'i katman katman yaşadın!",
+      "items": [
+        {
+          "label": "Grand Place'ı sabah boşken gör",
+          "sub": "Altın cepheler, kalabalıksız"
+        },
+        {
+          "label": "Horta Müzesi'nin merdiveninde yukarı bak",
+          "sub": "Art nouveau'nun doğduğu ev — biletini önceden al"
+        },
+        {
+          "label": "Jeu de Balle bitpazarında pazarlık et",
+          "sub": "Her sabah kurulur, pazar günü en dolusu"
+        },
+        {
+          "label": "Mevsiminde moules-frites tenceresi bitir",
+          "sub": "Eylül–Nisan, Sainte-Catherine çevresinde"
+        },
+        {
+          "label": "Frietkot kuyruğunda bekle",
+          "sub": "Çift kızartma külah, andalouse sos"
+        },
+        {
+          "label": "Cantillon'da gueuze tat",
+          "sub": "1900 yönteminde çalışan lambik evi"
+        },
+        {
+          "label": "Çizgi roman duvarlarından beşini avla",
+          "sub": "Tenten'den başla, haritayla ilerle"
+        },
+        {
+          "label": "MIM çatı kafesinde manzaraya otur",
+          "sub": "Old England binası — şehrin en iyi terası"
+        },
+        {
+          "label": "Sablon'da pralin kutusu doldurt",
+          "sub": "Ustaların vitrininden, tek tek seçerek"
+        },
+        {
+          "label": "Estaminet'te kendi bardağında trapist iç",
+          "sub": "Tahta masa, sararmış fotoğraflar, Zwanze"
+        }
+      ]
+    }
+  }
+}

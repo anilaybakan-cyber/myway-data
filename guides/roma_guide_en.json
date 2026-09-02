@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Rome",
+    "country": "Italy",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#8B1A1A",
+    "color_light": "#F5E8E8",
+    "tagline": "Three thousand years of history — and a city that still belongs to the living",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Walk past the tourist traps",
+    "Eat where there's no English menu",
+    "Get off the main street"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Rome",
+      "intro": "Rome is the most layered city on earth. A Republican temple sits beneath a medieval church beneath a Baroque piazza. Ancient aqueducts run beneath traffic. The Forum was a cattle market before it was an archaeological site. Most visitors spend their time moving between the headline monuments — the Colosseum, the Vatican, the Trevi Fountain — and miss the city that lives inside and between them. The real Rome is not a museum. It is a functioning, chaotic, magnificent city of three million people who eat lunch at 13:30, drink espresso standing up, and treat the ruins around them as background. The question is not whether to see the Colosseum. It is what you do when you look up from the map.",
+      "local_word": {
+        "word": "Aperitivo",
+        "pronunciation": "ah-peh-REE-tee-voh",
+        "definition": "The early evening ritual before dinner — a drink (Aperol Spritz, Campari, Negroni) taken between roughly 18:00 and 20:00 in a bar or piazza. Not a meal. Not a party. A decompression of the day. In Rome this happens outdoors wherever possible — on steps, on piazza walls, at small tables spilling onto cobblestones. It is the best single hour of the Roman day and it costs the price of a drink."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Never eat on the main tourist street",
+          "description": "Every tourist neighbourhood in Rome has a main street lined with restaurants displaying photographs of pasta and waiters hailing you from the door. Walk past all of them. Turn down a side street, find something with no English menu and no photograph of the food, and eat there. The price will be lower and the food will be better. This is one of the most reliable rules in Rome."
+        },
+        {
+          "number": 2,
+          "title": "Espresso at the bar, always standing",
+          "description": "An espresso in Rome is drunk standing at the bar counter, not sitting at a table. Sitting doubles or triples the price — you are paying for the table, not the coffee. A standing espresso at the bar costs around €1–1.50. Ask for un caffè. Drink it in two sips. Leave. This is how Rome operates before 10am."
+        },
+        {
+          "number": 3,
+          "title": "Book the big things in advance",
+          "description": "The Vatican Museums, the Borghese Gallery, and the Colosseum all require advance booking — some weeks or months ahead in peak season. Showing up without a reservation at the Vatican Museums in July means hours in a queue. The Borghese Gallery allows only two-hour timed slots and turns away walk-ins. Book before you arrive, not the night before."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Airports",
+          "value": "Fiumicino (FCO) · Ciampino (CIA)",
+          "sub": "FCO: Leonardo Express train 32 min to Termini · CIA: bus to Termini"
+        },
+        {
+          "icon": "🚌",
+          "label": "Transport",
+          "value": "Bus + tram + metro (2 lines)",
+          "sub": "Validate ticket before boarding · inspectors check regularly"
+        },
+        {
+          "icon": "🗺️",
+          "label": "Neighbourhoods",
+          "value": "Trastevere · Testaccio · Monti · Prati",
+          "sub": "Each rione has its own rhythm — choose wisely"
+        },
+        {
+          "icon": "🍝",
+          "label": "Lunch rule",
+          "value": "13:00–15:00 · dinner 20:00–22:00",
+          "sub": "Restaurants close between service — don't arrive at 17:00"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Roma Pass — worth it for two or more museum visits",
+        "text": "The Roma Pass covers the metro and buses, plus free or discounted entry to museums including the Capitoline Museums and Castel Sant'Angelo. 48-hour or 72-hour versions available. Does not cover the Vatican Museums or Borghese Gallery — those require separate advance booking. Worth it if you plan two or more museum visits in a short stay. Note: on the first Sunday of every month, all Italian state museums and archaeological sites (including the Colosseum, Forum, and Baths of Caracalla) offer free entry under the Domenica al Museo programme — but there is no advance booking, so queues can be very long. The Vatican Museums offer free entry on the last Sunday of every month separately — a different programme, and even more crowded."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "Rome's historic centre is compact and best navigated on foot. Public transport fills the gaps. The metro is limited but useful; buses and trams cover everything else.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Fiumicino Airport → City Centre",
+          "description": "The Leonardo Express train runs directly from Fiumicino to Roma Termini every 30 minutes, taking 32 minutes. It is the most reliable option. Regional trains (FL1) are slower and cheaper but stop at multiple stations. Taxis from Fiumicino to the city centre are fixed rate — agree it before you get in. Private transfer apps (Uber Black operates in Rome) are reliable but more expensive than the train."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro — two lines, limited but useful",
+          "description": "Rome has only two metro lines: A (orange) and B (blue), intersecting at Termini. Line A reaches the Vatican (Ottaviano), Trastevere area (via bus from Spagna), and the Spanish Steps. Line B reaches the Colosseum (Colosseo stop). The historic centre — Pantheon, Piazza Navona, Campo de' Fiori, Trastevere — is not served by metro. Single tickets cost €1.50 and are valid for 100 minutes across all transport. Validate before boarding."
+        },
+        {
+          "icon": "🚌",
+          "title": "Buses and trams — the real network",
+          "description": "Rome's bus network is extensive but slow in traffic. Bus 40 and 64 connect Termini to the Vatican. Tram 8 runs from Largo Argentina to Trastevere — the most useful tram in the historic centre. Bus 23 follows the Tiber from the Vatican south to Testaccio. The same €1.50 ticket works on all services. Download the Moovit or Google Maps app for real-time routes — the official timetables are aspirational."
+        },
+        {
+          "icon": "🚶",
+          "title": "On foot — the only way to see it",
+          "description": "The Pantheon to the Colosseum is 25 minutes on foot through the Forum. Campo de' Fiori to Trastevere is 10 minutes across the bridge. Piazza Navona to the Spanish Steps is 20 minutes. Rome's historic centre is built for walking. The streets that matter — the passages, the courtyards, the early Christian churches hidden behind unassuming doors — are all between the monuments, not at them."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxis — white, metered, from official ranks",
+          "description": "Rome's official taxis are white and metered. Take them from the official taxi ranks (not from anyone approaching you). From Termini to the historic centre costs around €12–18. Fixed fares apply to and from the airports. Uber Black operates in Rome but is pricier than official taxis. Never accept rides from unmarked cars or drivers approaching in airports or train stations."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tram 8 — the most useful ride in Rome",
+        "text": "Tram 8 runs from Largo Argentina — the site of Caesar's assassination — through the Jewish Ghetto, across the Tiber, and into Trastevere, ending at Casaletto. For €1.50, it is the most useful single journey in Rome: from the ancient centre to the most atmospheric neighbourhood in the city, in under 15 minutes. Take it in the early evening when the light is at its best on the river."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "Rome's rioni (historical neighbourhoods) are all distinct. Where you sleep defines your version of the city.",
+      "local_word": {
+        "word": "Rione",
+        "pronunciation": "ree-OH-neh",
+        "definition": "A historical neighbourhood division of Rome — the city has 22 rioni, each with its own identity, market, church, and character. The word comes from the Latin 'regio'. Trastevere, Testaccio, Monti, Prati, and the Jewish Ghetto are the rioni most worth understanding before you book. Where you stay in Rome shapes everything: what you eat for breakfast, how far you walk, whether you feel like a visitor or a temporary resident."
+      },
+      "items": [
+        {
+          "name": "Trastevere",
+          "badge": "Most atmospheric",
+          "badge_type": "hot",
+          "description": "The neighbourhood across the Tiber — medieval streets, ivy-covered facades, the city's best-known evening scene, trattorias that have been there for generations, and a genuine residential community still intact behind the tourist-facing streets. Busy at night, quiet in the morning. No metro access — arrive by tram 8 or bus, or walk across the river.",
+          "tags": [
+            "Best evening atmosphere",
+            "Medieval streets",
+            "Tram 8 access"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trastevere+Roma"
+        },
+        {
+          "name": "Testaccio",
+          "badge": "Most local",
+          "badge_type": "local",
+          "description": "Rome's most authentic foodie neighbourhood — working-class, unpretentious, home to the city's best market, the best offal cooking in Italy, and a piazza where locals actually sit in the evenings. No tourist trail runs through it. The Pyramid of Cestius is at the end of the street. The Protestant Cemetery — where Keats is buried — is a ten-minute walk. Excellent metro connection on Line B.",
+          "tags": [
+            "Best food market",
+            "Entirely local",
+            "Metro Line B"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Testaccio+Roma"
+        },
+        {
+          "name": "Monti",
+          "badge": "Best base",
+          "badge_type": "hot",
+          "description": "The neighbourhood between the Colosseum and Termini — Rome's most liveable central district. Independent wine bars, trattorias, vintage shops, cobbled streets, and a local crowd that mixes with visitors without being overwhelmed by them. Walking distance from the Forum, the Colosseum, and the Baths of Caracalla. Metro Line B at Cavour.",
+          "tags": [
+            "Most central",
+            "Best wine bars",
+            "Metro Line B"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Monti+Roma"
+        },
+        {
+          "name": "Prati",
+          "badge": "Most comfortable",
+          "badge_type": "local",
+          "description": "The residential neighbourhood directly north of the Vatican — wide streets, excellent bakeries, local bars with no tourist pricing, and a calm that is rare in central Rome. Not atmospheric in the Trastevere sense, but extremely comfortable and well-connected. The right base if the Vatican is the priority and you want to sleep somewhere that does not feel like a film set.",
+          "tags": [
+            "Near the Vatican",
+            "Residential calm",
+            "Good value"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Prati+Roma"
+        },
+        {
+          "name": "Centro Storico (Historic Centre)",
+          "badge": "Most central",
+          "badge_type": "local",
+          "description": "The area around the Pantheon, Piazza Navona, and Campo de' Fiori — walking distance from everything, extraordinary at dawn before the crowds arrive, and increasingly difficult to recommend for the money. Expensive, noisy at night, and largely given over to tourism. If you stay here, use it as a launchpad and eat, drink, and spend your evenings in Trastevere or Testaccio.",
+          "tags": [
+            "Everything walking distance",
+            "Expensive",
+            "Dawn is extraordinary"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro+Storico+Roma"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Best Time to Visit",
+      "intro": "Rome has no bad season — but it has very different versions of itself depending on when you arrive.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "The Best Season",
+          "months": "Mar – May",
+          "subtitle": "Spring · Rome at Its Most Beautiful",
+          "description": "April and May are when Rome is at its finest. The wisteria blooms on the Villa Borghese terraces, the light is soft and warm without being brutal, the outdoor markets are at their most abundant, and the tourist crowds — while present — have not yet reached their summer peak. Easter brings the city to a standstill and fills it with pilgrims; either plan around it deliberately or avoid it entirely. May is one of the best months to visit Rome.",
+          "callout": {
+            "type": "tip",
+            "label": "Roseto Comunale — free in May",
+            "text": "The Roseto Comunale, the municipal rose garden on the Aventine Hill, opens to the public only in May when its 1,100 varieties are in bloom. Free entry. The garden is built on the site of the ancient Jewish cemetery. The views of the Circus Maximus and the Palatine from the upper terraces are among the best in Rome. Almost no one goes."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "Hot and Crowded",
+          "months": "Jun – Aug",
+          "subtitle": "Summer · Prepare or Avoid",
+          "description": "June is still manageable — long evenings, aperitivo on every piazza, outdoor cinema at Villa Borghese. July and August are genuinely difficult: 38°C heat, queues at every monument, and a Vatican Museums experience that is memorable for the wrong reasons. Romans themselves leave in August — Ferragosto (15 August) empties the city and closes many restaurants. If you come in summer, book everything weeks in advance, arrive at monuments at opening time, and retreat indoors between 13:00 and 17:00.",
+          "callout": {
+            "type": "tip",
+            "label": "Estate Romana — summer culture programme",
+            "text": "From June through September, Rome runs Estate Romana — outdoor cinema, live music, markets, and events across the city, most of them free or low cost. The outdoor cinema at Isola Tiberina (Tiber Island) is one of the great summer evenings in Italy — a floating screen on the river, with the medieval island behind it. Check the programme on the Roma Capitale website."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "The Best-Kept Secret",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · When Rome Returns to Itself",
+          "description": "September and October are the best months to visit Rome for experienced travellers. The summer tourists have left, the heat breaks, the light turns amber renginde and low over the terracotta rooftops, and the city returns to its own rhythm. The markets fill with porcini mushrooms, artichokes, and early truffles. The aperitivo hour extends as the evenings cool. October is perhaps the finest month in Rome.",
+          "callout": {
+            "type": "tip",
+            "label": "Carciofi season — October onwards",
+            "text": "The Roman artichoke (carciofo romanesco) comes into season from October, and with it one of the great dishes of the city: carciofi alla giudia (Jewish-style deep-fried artichoke), served in the Jewish Ghetto restaurants that have been cooking them for centuries. Order it at Da Giggetto or Sora Margherita. It is available only in season and worth planning a trip around."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Empty and Extraordinary",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Rome Without the Queue",
+          "description": "December brings Christmas markets to Piazza Navona — cheerful, slightly kitschy, beloved. January and February are the quietest months of the year. The Vatican Museums have no queue. The Borghese Gallery can be booked the day before. The Forum on a cold grey morning, with the city entirely to yourself, is one of the great travel experiences available in Europe. Hotels are cheaper. Restaurants are bookable. The city is entirely itself.",
+          "callout": {
+            "type": "tip",
+            "label": "January — the Vatican without crowds",
+            "text": "In January, the Vatican Museums — normally one of the most crowded institutions in the world — can be visited with a same-day or next-day booking. The Sistine Chapel, seen without 500 people pressed against you and a guard periodically shouting for silence, is a genuinely different experience. January is when the Raphael Rooms and the Gallery of Maps can actually be appreciated. This is the correct time to visit the Vatican."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "April 21",
+          "text": "Natale di Roma: the city's birthday — legionnaire parades and ancient-costume celebrations at the Circus Maximus."
+        },
+        {
+          "month": "June–September",
+          "text": "Estate Romana: open-air cinemas, stalls along the Tiber and concerts through the long summer nights."
+        },
+        {
+          "month": "October",
+          "text": "Rome Film Fest + ottobrata romana: those golden, warm October days summer leaves behind — the best sightseeing weather of the year."
+        },
+        {
+          "month": "December–January 6",
+          "text": "Christmas and Befana: Piazza Navona becomes a festive market; on January 6 the witch Befana brings children sweets."
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "Roman cuisine is the oldest continuously evolving urban food tradition in the Western world — and also the most specific. The ingredients, the techniques, the cuts of meat, the pasta shapes, and the sequence of a Roman meal are all defined by centuries of tradition. The goal is not fusion. It is not innovation. It is a bowl of cacio e pepe made correctly, in a restaurant where the cook's grandmother made the same dish.",
+      "local_word": {
+        "word": "Cacio e pepe",
+        "pronunciation": "KAH-cho eh PEH-peh",
+        "definition": "Rome's most famous pasta — tonnarelli (thick spaghetti) with Pecorino Romano cheese and black pepper. Three ingredients. No cream, no butter (beyond a trace), no shortcuts. A correct cacio e pepe is silky, emulsified, intensely savoury. A bad one is clumped cheese and pasta. The difference is entirely technique. If a restaurant lists cacio e pepe and fifty other pasta dishes, move on. If it is one of four dishes on the menu, sit down."
+      },
+      "items": [
+        {
+          "icon": "🍝",
+          "name": "Cacio e pepe — the Roman standard",
+          "description": "Pecorino Romano, black pepper, pasta water, tonnarelli. Nothing else. The correct version is silky, not clumped. A great cacio e pepe is one of the finest things Italy produces. Order it at Tonnarello in Trastevere, Da Enzo al 29, or — if you can get a reservation — Felice a Testaccio. Do not order it in a restaurant with a photograph menu.",
+          "tag": "Tonnarello · Da Enzo al 29 · Felice a Testaccio",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Felice+a+Testaccio+Roma"
+        },
+        {
+          "icon": "🍳",
+          "name": "Carbonara — not what you think it is",
+          "description": "Roman carbonara has four ingredients: guanciale (cured pork cheek), Pecorino Romano, egg yolk, and black pepper. No cream. No pancetta. No bacon. No parmesan. The cream version served in tourist restaurants across Europe is not carbonara; it is an approximation built for people who have never tasted the real thing. A correct carbonara is rich, unctuous, and slightly sticky. Ask for guanciale if you are not sure what you are being served.",
+          "tag": "Guanciale · no cream · Pecorino Romano",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Roscioli+Roma"
+        },
+        {
+          "icon": "🥩",
+          "name": "Quinto quarto — the fifth quarter",
+          "description": "Roman cuisine was built around the quinto quarto — the offal left after the four prime cuts went to the wealthy: tripe (trippa), oxtail (coda alla vaccinara), sweetbreads, offal pasta. This is not nose-to-tail adventurism; it is the original Roman diet. Trippa alla romana (tripe in tomato sauce with mint and Pecorino) is served on Saturdays at neighbourhood trattorias. Coda alla vaccinara (oxtail braised with tomato, celery, and dark chocolate) is one of the great slow-cooked dishes of Europe. Order it in Testaccio.",
+          "tag": "Saturdays · Testaccio trattorias · trippa alla romana",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Checchino+dal+1887+Roma"
+        },
+        {
+          "icon": "🌸",
+          "name": "Carciofi alla giudia — Jewish artichoke",
+          "description": "The deep-fried artichoke of the Jewish Ghetto — opened like a flower, submerged twice in hot oil until the leaves are crisp and golden and the heart is tender. A dish with a history of nearly 500 years in the same streets. Served only in season (October through spring). The best versions are at Da Giggetto and Sora Margherita in the Ghetto. One of the dishes that defines Rome.",
+          "tag": "Jewish Ghetto · October–spring · Da Giggetto · Sora Margherita",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nonna+Betta+Roma"
+        },
+        {
+          "icon": "🍕",
+          "name": "Pizza al taglio — by the slice",
+          "description": "Roman pizza is not Neapolitan. It is thin, crisp-based, cut into rectangles, sold by weight, and eaten standing up or walking. A Roman morning includes a slice of pizza bianca (plain, oiled, salted flatbread) from the forno around the corner. The best pizza al taglio in Rome is at Roscioli, Bonci (Pizzarium), and Forno di Campo de' Fiori. It is the correct breakfast, the correct lunch, and the correct late-night snack.",
+          "tag": "Roscioli · Bonci Pizzarium · Forno di Campo de' Fiori · sold by weight",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzarium+Bonci+Roma"
+        },
+        {
+          "icon": "☕",
+          "name": "Coffee — standing, at the bar",
+          "description": "An espresso in Rome is €1–1.50 at the bar. Sitting doubles the price. Cappuccino is a morning drink — ordering one after lunch is understood but mildly noted. A macchiato (espresso with a drop of milk) is the local midday coffee. Sant'Eustachio il Caffè near the Pantheon serves what many consider the best espresso in Rome. The queue moves fast. Drink it standing.",
+          "tag": "Sant'Eustachio il Caffè · €1–1.50 at the bar · standing always",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sant%27Eustachio+Il+Caffè+Roma"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Mercato Testaccio — the real Roman market",
+        "text": "The Testaccio market, in its modern covered building on Via Beniamino Franklin, is the most local food market in central Rome. The stalls sell Roman street food, artisanal cheeses, good wine, and the cuts of meat that define the neighbourhood's cooking. Go on a weekday morning, buy something at every stall that interests you, and eat standing at the counter. This is how Romans have done the market since before the Colosseum was built."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Gems",
+      "intro": "Rome hides its most extraordinary things in plain sight — behind unassuming doors, beneath ordinary churches, at the end of streets every tourist passes without looking up.",
+      "items": [
+        {
+          "rarity": "The best view in Rome — through a keyhole",
+          "name": "Aventine Keyhole (Knights of Malta Priory)",
+          "description": "On the Aventine Hill, in the gate of the Priory of the Knights of Malta, is a keyhole. Peer through it and the perfectly framed dome of St. Peter's Basilica appears at the end of a manicured garden path — three countries visible at once: Italy, the garden of the Sovereign Order of Malta, and the Vatican. Designed in the 18th century by architect and engraver Giovanni Battista Piranesi. The alignment may or may not be intentional — no one has ever been entirely certain. Free entry, accessible at all hours. Queue of one at a time.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Aventine+Keyhole+Roma"
+        },
+        {
+          "rarity": "Two thousand years of history stacked in one building",
+          "name": "Basilica di San Clemente — near the Colosseum",
+          "description": "Three minutes from the Colosseum, an unremarkable-looking church hides one of the most extraordinary layered sites in Rome. The ground-floor 12th-century basilica is beautiful and free to enter. Below it is a 4th-century early Christian basilica with medieval frescoes. Below that, a 2nd-century Roman house and a functioning Mithraic temple — you can still hear an ancient stream running underground. The experience of descending through twenty centuries in one building is unlike anything else in Rome. Upper church free. Underground excavations ticketed (€10), advance booking required online.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Basilica+di+San+Clemente+Roma"
+        },
+        {
+          "rarity": "The private art collection the Vatican doesn't tell you about",
+          "name": "Palazzo Doria Pamphilj — Via del Corso",
+          "description": "On the Via del Corso, the most central street in Rome, a door leads into the largest privately-owned palace in the city — still occupied by the Doria Pamphilj family, whose ancestor commissioned Velázquez's Portrait of Pope Innocent X. The gallery holds Caravaggio, Raphael, Titian, and Velázquez. The audioguide is narrated by Prince Jonathan Doria Pamphilj himself. Unlike the Vatican, there are no crowds. Unlike the Borghese, it is almost unknown to non-Italian visitors. Ticketed entry (€16), advance booking required.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo+Doria+Pamphilj+Roma"
+        },
+        {
+          "rarity": "A fairy-tale neighbourhood built in one decade — and entirely forgotten",
+          "name": "Quartiere Coppedè — Trieste neighbourhood",
+          "description": "Between 1913 and 1926, architect Gino Coppedè built a neighbourhood of 26 small palaces and 17 villas in the Trieste district — a collision of Art Nouveau, Baroque, Gothic, and Greek revival so extreme it looks like a film set. Swagged stone garlands, bronze spiders, fairy-tale arches, elaborate ironwork. An entire tram stop away from any tourist route. Almost no one goes. Completely free to walk through. Enter through the arch on Via Tagliamento.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quartiere+Coppedè+Roma"
+        },
+        {
+          "rarity": "Rome's most beautiful orange garden — and one of its best views",
+          "name": "Giardino degli Aranci — Aventine Hill",
+          "description": "The Garden of Oranges on the Aventine Hill is a formal garden of bitter orange trees, pine umbrella trees, and rose bushes, with a terrace at one end that offers one of the finest panoramic views of Rome — the dome of St. Peter's above the city's terracotta rooftops and the Tiber below. Almost entirely unknown to non-Italian visitors. Two minutes from the Aventine Keyhole. Free entry. Open from early morning to sunset.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Giardino+degli+Aranci+Roma"
+        },
+        {
+          "rarity": "Julius Caesar's assassination site — with a hundred cats",
+          "name": "Largo di Torre Argentina — Historic Centre",
+          "description": "In the middle of central Rome, surrounded by traffic, a sunken square reveals four Republican-era temples from the 3rd and 2nd centuries BC — among the oldest ruins visible in the city. This is the site where Julius Caesar was assassinated on 15 March 44 BC. A cat sanctuary, run by volunteers, houses over a hundred cats among the ruins. The cats have been there for generations. The archaeological site is ticketed. The cats can be seen for free from the street level.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Largo+di+Torre+Argentina+Roma"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Protestant Cemetery — where Keats is buried",
+        "text": "The Protestant Cemetery near the Pyramid of Cestius in Testaccio is one of the most beautiful small cemeteries in the world — cypress trees, ancient marble, cats, and the graves of John Keats ('Here lies one whose name was writ in water'), Percy Bysshe Shelley, and Antonio Gramsci. Free entry with a small voluntary donation. Open Tuesday to Sunday. One of the few genuinely quiet places in central Rome."
+      }
+    },
+    "checklist": {
+      "title": "Rome Checklist",
+      "completion_message": "Bene! You found the real Rome.",
+      "items": [
+        {
+          "label": "Drink an espresso standing at the bar",
+          "sub": "Not sitting. Not a cappuccino after noon. Standing, €1–1.50, two sips. This is how Rome starts the day."
+        },
+        {
+          "label": "Walk the Forum at opening time",
+          "sub": "Before 9am, with almost no one there. The most extraordinary ruin in the Western world. Ticketed — buy online in advance."
+        },
+        {
+          "label": "Peer through the Aventine Keyhole",
+          "sub": "Priory of the Knights of Malta, Aventine Hill. Queue of one. St. Peter's dome through a keyhole. Free, accessible at all hours."
+        },
+        {
+          "label": "Visit the Giardino degli Aranci at dusk",
+          "sub": "Two minutes from the Keyhole. Best panoramic view of Rome. Free entry. Open until sunset."
+        },
+        {
+          "label": "Eat cacio e pepe in Trastevere or Testaccio",
+          "sub": "Not in a restaurant with a photograph menu. Three ingredients, one technique, no shortcuts."
+        },
+        {
+          "label": "Take tram 8 from Largo Argentina to Trastevere",
+          "sub": "€1.50. Validate before boarding. The most useful journey in central Rome. Take it at dusk."
+        },
+        {
+          "label": "Descend into San Clemente Basilica",
+          "sub": "Near the Colosseum. Upper church free. Underground excavations ticketed (€10) — book online in advance."
+        },
+        {
+          "label": "Walk through Quartiere Coppedè",
+          "sub": "Via Tagliamento arch, Trieste neighbourhood. 26 palaces, 17 villas, zero tourists. Free to walk."
+        },
+        {
+          "label": "Visit Palazzo Doria Pamphilj",
+          "sub": "Via del Corso. Caravaggio, Velázquez, Raphael — still owned by the family. Ticketed (€16), book in advance."
+        },
+        {
+          "label": "Go to Testaccio market on a weekday morning",
+          "sub": "Via Beniamino Franklin. Most local food market in central Rome. Eat standing at the counter."
+        },
+        {
+          "label": "Find Largo di Torre Argentina and look at the cats",
+          "sub": "Julius Caesar's assassination site. Cats visible free from street level. Archaeological site is ticketed."
+        },
+        {
+          "label": "Have aperitivo on a piazza at 19:00",
+          "sub": "Spritz or Negroni. Outdoors wherever possible. No menu, no reservation. The best hour of the Roman day."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Skip the Traps",
+      "intro": "Rome has hosted visitors for two thousand years; its trap repertoire is just as old. Know these four and tour like an emperor.",
+      "items": [
+        {
+          "icon": "🛡️",
+          "name": "'Gladiator' photos outside the Colosseum",
+          "description": "Costumed gladiators demand an outrageous 'tip' after the photo — and make a scene if you refuse. The city banned it; the species survives.",
+          "instead": "Have a friend take your photo; the best Colosseum shot is from the park on Oppian Hill anyway."
+        },
+        {
+          "icon": "📋",
+          "name": "'Menu turistico' and the doorway inviter",
+          "description": "Around the Pantheon and Navona, the fixed-price 'tourist menu' plus a waiter calling you in equals frozen pasta and a swollen bill.",
+          "instead": "Never eat where you're invited in; pick short-menu, Italian-language places in Trastevere's back streets, Testaccio and Monti."
+        },
+        {
+          "icon": "🎟️",
+          "name": "'Skip-the-line' sellers outside the Vatican",
+          "description": "The roaming 'skip-the-line tour' sellers charge several times the official ticket; some tickets turn out invalid.",
+          "instead": "Buy museum tickets only from the official site, dated and timed; to avoid queues take the first morning slot or the Friday night opening."
+        },
+        {
+          "icon": "🚕",
+          "name": "People at Termini approaching with 'taxi?'",
+          "description": "The pirate taxis that approach you at the station start with a bargain and end with a fleecing.",
+          "instead": "Only white, metered official taxis; the airport-city ride is a fixed fare — confirm it as you get in."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The golden rule",
+        "text": "In Rome, two steps from any monument is always cheaper, calmer and often more beautiful. See it on the square, live it in the side street."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Routes",
+      "intro": "If you hate planning, follow these flows. The times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "Two thousand years, one day, solid shoes",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "Colosseum — first slot",
+              "description": "Book weeks ahead, walk in as the gates open: the arena in morning light, without the crowds, is another place."
+            },
+            {
+              "time": "10:30",
+              "title": "Forum + Palatine",
+              "description": "Walk through the heart of the empire. No rushing; getting lost among the stones is the itinerary."
+            },
+            {
+              "time": "13:00",
+              "title": "Lunch in Monti",
+              "description": "Two streets from the Colosseum: cacio e pepe or pizza al taglio. Espresso at the counter, standing."
+            },
+            {
+              "time": "15:00",
+              "title": "Pantheon + Navona",
+              "description": "Watch the light through the oculus, then a lap of Navona; no sitting down, gelato in hand."
+            },
+            {
+              "time": "17:30",
+              "title": "Trevi + Spanish Steps at sunset",
+              "description": "Toss a coin over your shoulder at Trevi, then golden hour on the Steps."
+            },
+            {
+              "time": "20:00",
+              "title": "Trastevere evening",
+              "description": "Cross the river, find a back-street trattoria: carbonara, house wine, long conversation. This is how Rome ends."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Live the city as a guest, not a tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Ancient Rome",
+              "description": "The 1-day flow above: Colosseum, Forum, Pantheon, Trastevere."
+            },
+            {
+              "time": "Day 2",
+              "title": "The Vatican and Prati",
+              "description": "Vatican Museums and the Sistine at the first morning slot, St. Peter's at noon; a pizza al taglio break in Prati, sunset on the Castel Sant'Angelo bridge."
+            },
+            {
+              "time": "Day 3",
+              "title": "Hidden Rome and goodbye",
+              "description": "The Aventine keyhole + the Orange Garden, Testaccio market at noon, down through the layers of San Clemente in the afternoon, a quinto quarto farewell dinner in Testaccio."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "The 5-Word Survival Kit",
+      "intro": "Italian starts with three words; in Rome the joy of the local dialect joins in.",
+      "items": [
+        {
+          "word": "Ciao",
+          "pronunciation": "chow",
+          "meaning": "Hi / bye — any hour, to anyone"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Thank you — short, clear, always"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "Please — add it to the end of your order"
+        },
+        {
+          "word": "Salute!",
+          "pronunciation": "sah-LOO-teh",
+          "meaning": "Cheers! — glasses rise with the house wine"
+        },
+        {
+          "word": "Daje!",
+          "pronunciation": "DAH-yeh",
+          "meaning": "Roman dialect for 'come on / let's go!' — say it once and you're half Roman"
+        }
+      ]
+    }
+  }
+}

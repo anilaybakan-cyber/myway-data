@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "San Francisco",
+    "country": "USA",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#BF4728",
+    "color_light": "#F9E9E3",
+    "tagline": "La ciudad de espíritu libre, con su niebla, sus colinas y el puente naranja"
+  },
+  "pills": [
+    "Hogar del Golden Gate",
+    "Colinas y tranvías de cable",
+    "La niebla tiene un nombre: Karl"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a San Francisco",
+      "intro": "San Francisco es un escenario teatral sobre siete colinas: casas victorianas posan en las laderas, las campanas de los tranvías han tocado la misma melodía durante ciento cincuenta años, y el puente naranja representa su espectáculo deslizándose dentro y fuera de la niebla. Esta ciudad siempre ha acogido los extremos: buscadores de oro, poetas beat, hippies y revolucionarios tecnológicos se encontraron en los mismos siete kilómetros cuadrados. Incluso la niebla es un personaje: se llama Karl y tiene una cuenta en redes sociales. Trae una chaqueta, confía en las colinas: San Francisco cuenta muchas historias por kilómetro.",
+      "local_word": {
+        "word": "Karl",
+        "pronunciation": "karl",
+        "definition": "El nombre que los lugareños le dieron a la niebla de San Francisco: Karl the Fog. En verano se desliza por el Golden Gate por la tarde y engulle la ciudad, retirándose por la mañana. En lugar de resentirse, la ciudad le puso nombre y lo convirtió en una broma. 'Karl está aquí' es un informe meteorológico; abrígate con tu chaqueta y únete al juego."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "No te fíes del verano: vístete por capas",
+          "description": "En San Francisco, agosto es el mes en que los turistas tiritando compran forros polares: Karl llega por la tarde y la temperatura baja diez grados. La regla es sencilla: una chaqueta en cada estación, una capa en cada bolso. La ecuación 'California = cálido' es nula en esta ciudad."
+        },
+        {
+          "number": 2,
+          "title": "Compra la entrada de Alcatraz con semanas de antelación",
+          "description": "Los tours de Alcatraz son la entrada más vendida de la ciudad y se agotan con días o semanas de antelación: compra con tiempo en el sitio oficial y nunca te saltes la audioguía —narrada por antiguos presos, es una de las mejores del mundo. El primer barco de la mañana añade niebla y silencio a la isla como extra."
+        },
+        {
+          "number": 3,
+          "title": "No dejes nada en el coche",
+          "description": "El problema conocido de la ciudad son los robos en coches: incluso una bolsa visible es un riesgo. Si conduces, carga el maletero antes de aparcar y prefiere los garajes con personal; el visitante que sigue esta regla tendrá un viaje a SF sin problemas."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "SFO",
+          "sub": "~30 min al centro en BART"
+        },
+        {
+          "icon": "🌉",
+          "label": "Símbolo",
+          "value": "The Golden Gate",
+          "sub": "2,7 km de leyenda naranja"
+        },
+        {
+          "icon": "💵",
+          "label": "Moneda",
+          "value": "Dollar (USD)",
+          "sub": "Tarjetas en todas partes, propina 18–20%"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "English",
+          "sub": "Nunca digas 'Frisco' — los lugareños se encogen"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofía de SF",
+        "text": "Esta ciudad se mide en colinas, no en kilómetros: una caminata de dos kilómetros significa tres subidas, cinco vistas y dos climas. Mantén el plan reducido y acepta la subida: cada cima recompensa con un panorama, y detrás de cada niebla espera una sorpresa."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "San Francisco es compacta pero vertical: Muni y BART son su columna vertebral, el teleférico una delicia nostálgica, y caminar por sus colinas, todo un deporte.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Llegar desde el aeropuerto",
+          "description": "Desde SFO, el tren BART llega al centro en media hora: barato y sin complicaciones. Las apps de transporte tardan entre 25 y 45 minutos según el tráfico; en horas punta, el BART casi siempre gana."
+        },
+        {
+          "icon": "🚋",
+          "title": "Dominar el teleférico",
+          "description": "El teleférico es un medio de transporte funcional, no una pieza de museo: las líneas Powell atraen colas de turistas, mientras que la línea California ofrece la misma experiencia sin ellas. Ir de pie en el estribo es el punto culminante del trayecto; agárrate fuerte."
+        },
+        {
+          "icon": "🚇",
+          "title": "Muni y BART",
+          "description": "La red de metro y autobús Muni cubre la ciudad, BART cubre la bahía: una tarjeta Clipper funciona en ambos. Los tranvías históricos de la línea F operan con vehículos antiguos desde Castro hasta el Wharf, un tour nostálgico al precio de un billete de transporte."
+        },
+        {
+          "icon": "🚶",
+          "title": "El arte de caminar por las colinas",
+          "description": "San Francisco se recorre a pie, pero la ruta se traza con astucia: sube por las calles con escaleras (Filbert, Lyon) y guarda los descensos para disfrutar de las vistas. Cada colina es un barrio, cada barrio otra ciudad."
+        },
+        {
+          "icon": "🚲",
+          "title": "Pedaleando el puente",
+          "description": "La ruta clásica: cruza el Golden Gate en bici desde el Wharf, desciende hasta Sausalito y regresa en ferry. El viento en cubierta es fuerte; lleva una chaqueta abrigada y reserva dos horas; 'bici por el puente, ferry de vuelta' es la mejor media jornada de la ciudad."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo del teleférico",
+        "text": "Sube al teleférico en la línea California: sin colas, colinas empinadas, las mismas vistas. Si tienes que ir en la línea Powell, sube en la parada inicial a las 08:00; no pierdas horas en la cola de Union Square; la campana suena igual de dulce en todas las líneas."
+      }
+    },
+    "stay": {
+      "title": "Dónde Alojarse",
+      "intro": "En San Francisco, elegir un barrio es elegir un microclima: el sol de Mission, el alma italiana de North Beach, la brisa de bahía de Marina.",
+      "local_word": {
+        "word": "Painted Ladies",
+        "pronunciation": "PAYN-tid LAY-deez",
+        "definition": "El nombre de las casas victorianas pintadas en tres o más colores: las más famosas se alinean en la 'fila de postal' de Alamo Square. Estas 'damas' de madera que sobrevivieron a los terremotos son la identidad arquitectónica de la ciudad; sus fachadas no son decoración, sino una forma de preservación. Mira hacia arriba en cualquier paseo: unas cuantas 'damas' posan en cada calle."
+      },
+      "items": [
+        {
+          "name": "North Beach",
+          "badge": "Alma italiana",
+          "badge_type": "vibe",
+          "description": "La librería de la generación beat, cafeterías de espresso y los jardines de Washington Square: el barrio con más carácter de San Francisco. A poca distancia del teleférico y del Wharf, el clásico para quienes buscan ambiente.",
+          "tags": [
+            "Cafeterías de espresso",
+            "Legado Beat",
+            "Zona para pasear"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=North+Beach+San+Francisco"
+        },
+        {
+          "name": "The Mission",
+          "badge": "Soleado y joven",
+          "badge_type": "local",
+          "description": "El microclima más soleado de la ciudad: callejones con murales, taquerías y tiendas vintage. El césped de Dolores Park es el salón de la ciudad los fines de semana: el lado joven y colorido.",
+          "tags": [
+            "Callejones con murales",
+            "Paraíso de taquerías",
+            "Parque soleado"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mission+District+San+Francisco"
+        },
+        {
+          "name": "Marina and Cow Hollow",
+          "badge": "Brisa de bahía",
+          "badge_type": "hot",
+          "description": "Un barrio de tonos pastel junto al Palacio de Bellas Artes y el sendero de la bahía: cafeterías para desayunar y boutiques. Una pista para correr con vistas al Golden Gate a la puerta: la base deportiva y ventilada.",
+          "tags": [
+            "Paseos junto a la bahía",
+            "Ambiente de desayunos",
+            "Cerca del puente"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marina+District+San+Francisco"
+        },
+        {
+          "name": "Nob Hill and Union Square",
+          "badge": "Centro clásico",
+          "badge_type": "value",
+          "description": "El cruce de las líneas de teleférico, hoteles históricos y una ubicación céntrica: todas las conexiones pasan por aquí. Las colinas son pronunciadas; la recompensa son las vistas y la practicidad.",
+          "tags": [
+            "Cruce de teleféricos",
+            "Hoteles históricos",
+            "Ubicación céntrica"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nob+Hill+San+Francisco"
+        },
+        {
+          "name": "Hayes Valley",
+          "badge": "Elegante y nuevo",
+          "badge_type": "local",
+          "description": "Boutiques, bares de vinos y las salas de ópera y sinfonía al lado: el pequeño y elegante barrio de San Francisco. Las Painted Ladies de Alamo Square a poca distancia.",
+          "tags": [
+            "Calles de boutiques",
+            "Bares de vinos",
+            "Paseo a Alamo"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hayes+Valley+San+Francisco"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Cuándo Ir",
+      "intro": "El calendario de SF funciona al revés: los meses más cálidos son septiembre y octubre, los más neblinosos son a mediados de verano. Quien conoce el horario de Karl, gana.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "La Ventana Clara",
+          "months": "Mar – May",
+          "subtitle": "Primavera · Colinas verdes, cielos despejados",
+          "description": "Las lluvias invernales han reverdecido las colinas y el aire es claro y suave: las vistas del puente son nítidas y las multitudes están por debajo de los niveles de verano. Los senderos del Presidio y Marin viven su mejor temporada.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de abril",
+            "text": "En una mañana de abril, sube a las Marin Headlands: colinas verdes, un puente de cristal y la bahía azul en un solo encuadre. Battery Spencer es generoso con los fotógrafos al amanecer; un cortavientos es obligatorio."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "El Escenario de Karl",
+          "months": "Jun – Aug",
+          "subtitle": "Verano · Tardes de niebla, turistas tiritando",
+          "description": "El verano es la temporada de niebla en SF: mañanas despejadas, Karl en escena por la tarde. The Mission puede disfrutar del sol mientras el puente desaparece; sigue los microclimas y vístete por capas. Las multitudes alcanzan su punto máximo; el clima no.",
+          "callout": {
+            "type": "warning",
+            "label": "Nota de agosto",
+            "text": "En agosto, la foto del puente se toma entre las 09:00 y las 11:00: por la tarde Karl engulle las torres. El turista que vino en pantalones cortos compra forro polar en el Wharf; trae tu chaqueta; en esta ciudad, el verano es un concepto."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "El Verano de los Locales",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · Las semanas más cálidas y claras del año",
+          "description": "Septiembre y octubre son el verdadero verano de SF: Karl se va de vacaciones, las temperaturas alcanzan su punto máximo, los cielos se despejan. Días de playa, festivales al aire libre y vistas nítidas del puente: la elección más inteligente del calendario.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de octubre",
+            "text": "A principios de octubre, pasa una tarde en Baker Beach: el puente cristalino, el sol cálido, las multitudes desaparecidas. Si coincides con la Fleet Week, los Blue Angels actúan sobre el puente: el fin de semana más cinematográfico de la ciudad."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Lluvia y Reverdecimiento",
+          "months": "Dec – Feb",
+          "subtitle": "Invierno · Treguas de lluvia, museos vacíos, colinas reverdeciendo",
+          "description": "El invierno de SF es suave y lluvioso: las treguas entre tormentas son claras y fotogénicas, y las colinas se vuelven verdes. Los museos están tranquilos y los hoteles son amigables: la temporada para ver la ciudad sin multitudes.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de enero",
+            "text": "En una tarde después de la lluvia, recorre el sendero Lands End: aire limpio, olas gigantes y el marco dramático del puente. Atardecer en las ruinas de Sutro Baths de regreso: la escena más hermosa del invierno de SF."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Qué Comer",
+      "intro": "La mesa de San Francisco es una alianza de bahía y migración: la corteza del pan de masa madre, la contundencia del burrito, el vapor del dim sum y el café de tercera ola.",
+      "local_word": {
+        "word": "Estilo Mission",
+        "pronunciation": "MISH-un styl",
+        "definition": "El estilo de burrito gigante nacido en el distrito de Mission: arroz, frijoles, carne, salsa y guacamole — un kilo de arquitectura envuelto en papel de aluminio. Inventado en los mostradores de las taquerías en los años 60, desde aquí se extendió al mundo. Cómelo pelando el papel de aluminio, olvídate del tenedor — el estilo Mission no es una comida, sino un juramento de lealtad."
+      },
+      "items": [
+        {
+          "icon": "🌯",
+          "name": "El burrito Mission",
+          "description": "El clásico gigante envuelto en papel de aluminio: al pastor o carne asada, la versión 'super' con guacamole. La cola avanza rápido en las legendarias taquerías de Mission — decide antes de llegar al mostrador, pela el papel de aluminio capa a capa.",
+          "tag": "Clásico gigante · pídelo 'super'",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mission+burrito+San+Francisco"
+        },
+        {
+          "icon": "🍞",
+          "name": "Pan de masa madre y 'chowder'",
+          "description": "La masa madre de San Francisco es tan antigua como la ciudad — dicen que el fermento se alimenta del aire brumoso. Bebe tu sopa de almejas ('clam chowder') de un cuenco de pan junto a la bahía: turístico, pero legítimo.",
+          "tag": "Fermento alimentado por la niebla · en cuenco de pan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=sourdough+clam+chowder+San+Francisco"
+        },
+        {
+          "icon": "🥟",
+          "name": "La mañana de dim sum",
+          "description": "El Chinatown más antiguo de América y los bulevares de Richmond son paraísos del dim sum: cestas humeantes elegidas del carrito, mostradores rápidos. Char siu bao y har gow son tu punto de partida.",
+          "tag": "Por cestas · elige del carrito",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=dim+sum+San+Francisco"
+        },
+        {
+          "icon": "🦀",
+          "name": "Cangrejo Dungeness",
+          "description": "El cangrejo de carne dulce de la bahía, en temporada de noviembre a junio: al vapor o al estilo mantequilla de ajo. La apertura de la temporada es una pequeña fiesta de la ciudad — en temporada, no dudes.",
+          "tag": "Temporada Nov–Jun · pruébalo con ajo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dungeness+crab+San+Francisco"
+        },
+        {
+          "icon": "☕",
+          "name": "La peregrinación del café de tercera ola",
+          "description": "La tercera ola del café tomó forma en esta ciudad: orígenes únicos, 'pour overs' y barras de degustación. Un recorrido matutino por los tostadores del barrio — San Francisco se toma el café en serio; tú también deberías.",
+          "tag": "Cuna de la ola · 'pour over'",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=third+wave+coffee+San+Francisco"
+        },
+        {
+          "icon": "🥃",
+          "name": "Café irlandés del Buena Vista",
+          "description": "El café irlandés entró en América en 1952 a través del mostrador de este bar: el camarero alinea diez vasos a la vez para el espectáculo. El ritual post-Wharf — puede que haya cola; el vaso caliente lo vale.",
+          "tag": "Desde 1952 · el espectáculo del mostrador",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Buena+Vista+Cafe+Irish+coffee"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de la mesa",
+        "text": "La franja de restaurantes de Fisherman's Wharf es el eslabón más débil en la cadena precio-sabor: más allá de un cuenco de 'chowder' y un puesto de cangrejo, lleva tu mesa a los barrios. Mission, Richmond y Chinatown ofrecen el doble de sabor con el mismo presupuesto — una taquería con cola nunca miente."
+      }
+    },
+    "hidden_gems": {
+      "title": "Rincones Escondidos",
+      "intro": "Todo el mundo ve el puente; estos seis son el rostro oculto de San Francisco, donde el mar susurra y los mosaicos cuentan historias.",
+      "items": [
+        {
+          "rarity": "Ruinas abiertas al océano",
+          "name": "Baños Sutro y Lands End",
+          "description": "Las ruinas junto al mar de un antaño vasto palacio de baños y el sendero del acantilado que lo domina: olas, cipreses y el lejano perfil del puente. Al atardecer, el rincón más espectacular de San Francisco.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sutro+Baths+San+Francisco"
+        },
+        {
+          "rarity": "La escalera de mosaico",
+          "name": "Las Escaleras de Mosaico de la Avenida 16",
+          "description": "163 escalones revestidos con un mosaico de temática marina: el patrón se completa a medida que subes, y el océano se abre desde la cima. En el tranquilo barrio de Moraga Street, es más encantador con la luz de la mañana.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=16th+Avenue+Tiled+Steps"
+        },
+        {
+          "rarity": "El palco privilegiado frente al puente",
+          "name": "Las Marin Headlands",
+          "description": "Antiguas baterías de artillería en las colinas al otro lado del puente: desde Battery Spencer, las torres parecen caer en tu regazo con la ciudad desplegada detrás. En bici o en coche, el trono de la fotografía de San Francisco.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marin+Headlands+Battery+Spencer"
+        },
+        {
+          "rarity": "Una máquina del tiempo a monedas",
+          "name": "Musée Mécanique",
+          "description": "Cientos de máquinas antiguas de monedas en el borde del muelle: autómatas adivinos, ferias mecánicas y la risueña Laffing Sal. Entrada gratuita, fichas por unas monedas — el museo más entretenido de la nostalgia.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Musee+Mecanique+San+Francisco"
+        },
+        {
+          "rarity": "Los muros de la revuelta",
+          "name": "Clarion Alley y Balmy Alley",
+          "description": "Los dos callejones de murales del barrio de Mission: pinturas murales políticas, capas en constante cambio e historias del vecindario. Combínalo con una ruta de taquerías — la conciencia de San Francisco habla en estas paredes.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Clarion+Alley+San+Francisco"
+        },
+        {
+          "rarity": "El fuerte bajo el puente",
+          "name": "Fort Point",
+          "description": "El fuerte de la época de la Guerra Civil DIRECTAMENTE bajo el Golden Gate: el tramo de acero se eleva sobre los arcos de ladrillo. Familiar por 'Vértigo' de Hitchcock — y el mejor punto para ver a los surfistas.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fort+Point+San+Francisco"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Estrategia para la niebla",
+        "text": "Los rincones de San Francisco negocian con Karl: en días de niebla, el Musée Mécanique y los callejones de murales; en días despejados, las Headlands y Lands End. La claridad matutina es la ventana más segura — programa las grandes vistas antes del mediodía."
+      }
+    },
+    "traps": {
+      "title": "Trampas para turistas",
+      "intro": "Las trampas de San Francisco suelen surgir de expectativas equivocadas; conoce estas cuatro y verás la ciudad sin niebla.",
+      "items": [
+        {
+          "icon": "🧥",
+          "name": "La falacia de 'California es cálida'",
+          "description": "El turista de agosto en pantalones cortos compra un forro polar con un viento de 12°C en el Wharf: el verano de San Francisco es una broma de microclima.",
+          "instead": "Vístete por capas todo el año y lleva un cortavientos: no dejes que el sol de la mañana te engañe, Karl llega por la tarde. Ten en cuenta que los meses más cálidos son septiembre y octubre."
+        },
+        {
+          "icon": "⛴️",
+          "name": "Dejar Alcatraz para el último minuto",
+          "description": "El turista del 'ya compraremos mañana' se encuentra con entradas agotadas o 'tours combinados' de terceros a precios desorbitados.",
+          "instead": "Compra al vendedor oficial con semanas de antelación; los tours de primera hora de la mañana y los nocturnos son el punto álgido atmosférico. Sin entrada, un ferry de la bahía pasa cerca de la isla, mejor que nada, pero la verdadera experiencia está en la roca."
+        },
+        {
+          "icon": "🚗",
+          "name": "Dejar las pertenencias en el coche",
+          "description": "El robo con rotura de ventanilla es el problema crónico de la ciudad: incluso una bolsa vacía en el asiento significa una factura de cristal.",
+          "instead": "NO dejes NADA en el coche; incluso el maletero se considera arriesgado una vez que has aparcado; lleva tus cosas contigo. Prefiere los aparcamientos vigilados; lo mejor de todo, muévete sin coche por la ciudad y resérvalo para escapadas como Muir Woods."
+        },
+        {
+          "icon": "🦀",
+          "name": "La franja de restaurantes del Wharf",
+          "description": "Los restaurantes de neón de Fisherman's Wharf venden marisco mediocre a precios de vista; una multitud no es prueba de calidad.",
+          "instead": "En el Wharf, confórmate con un bol de 'chowder' y un puesto de cangrejos, y pon la mesa de verdad en los barrios. Para marisco, las cocinas legendarias de Richmond y Chinatown siempre ganan."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de oro",
+        "text": "En San Francisco, los errores más costosos son los de planificación: entradas con antelación, chaqueta a mano, coche vacío. Resuelve esos tres y la ciudad se vuelve generosa: las vistas son gratis, las colinas son ejercicio gratuito, e incluso Karl se vuelve adorable al final."
+      }
+    },
+    "itinerary": {
+      "title": "Itinerarios Prediseñados",
+      "intro": "Si odias planificar, sigue estos flujos. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Del teleférico a la niebla del puente",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "El teleférico de la línea California",
+              "description": "Sube a la línea sin colas y corona las colinas hasta la campana: empieza el día al ritmo centenario de San Francisco."
+            },
+            {
+              "time": "09:30",
+              "title": "Dim sum en Chinatown",
+              "description": "Cestas humeantes en el Chinatown más antiguo de América: char siu bao para desayunar, luego un paseo por Grant Avenue."
+            },
+            {
+              "time": "11:00",
+              "title": "North Beach y City Lights",
+              "description": "Sumérgete en la librería de la generación beat, tómate un espresso en Washington Square: la hora de la calma en el barrio italiano."
+            },
+            {
+              "time": "13:00",
+              "title": "The Wharf y Musée Mécanique",
+              "description": "Observa los leones marinos, juega en las máquinas de monedas, tómate un tazón de chowder frente a la bahía."
+            },
+            {
+              "time": "15:00",
+              "title": "Camina o pedalea hasta el puente",
+              "description": "Dirígete desde Crissy Field hacia el puente a pie o en bicicleta: admira la estructura de acero desde abajo, en Fort Point."
+            },
+            {
+              "time": "19:00",
+              "title": "Noche en Mission",
+              "description": "Un recorrido tardío por los callejones de murales, luego un super burrito y un bar de barrio: cierra el día en el barrio más soleado de la ciudad."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Isla, océano y colinas — San Francisco al completo",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "San Francisco Clásico",
+              "description": "El itinerario de 1 día anterior: teleférico, dim sum, North Beach, The Wharf, el puente, una noche en Mission."
+            },
+            {
+              "time": "Day 2",
+              "title": "Alcatraz y las colinas",
+              "description": "El primer barco a Alcatraz (audioguía imprescindible); un almuerzo rápido en el Ferry Building; las Painted Ladies y el césped de Alamo Square por la tarde; un bar de vinos y una cena elegante en Hayes Valley."
+            },
+            {
+              "time": "Day 3",
+              "title": "Día de Océano",
+              "description": "Golden Gate Park por la mañana (jardín japonés + prado de bisontes); las escaleras de azulejos de la 16th Avenue al mediodía; el sendero Lands End y un atardecer en Sutro Baths; el broche de despedida — un café irlandés en The Buena Vista."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de supervivencia de 5 palabras",
+      "intro": "La forma de hablar en San Francisco es relajada, irónica y muy particular; estas cinco frases te sintonizarán con la frecuencia de la ciudad.",
+      "items": [
+        {
+          "word": "Hella",
+          "pronunciation": "HEL-uh",
+          "meaning": "Muy / mucho — el adverbio característico del Área de la Bahía: escucha 'hella good', úsalo y gánate una sonrisa"
+        },
+        {
+          "word": "The City",
+          "pronunciation": "thuh SIT-ee",
+          "meaning": "El nombre local de San Francisco — nunca 'Frisco', incluso 'San Fran' es arriesgado; 'The City' es un puerto seguro"
+        },
+        {
+          "word": "Karl",
+          "pronunciation": "karl",
+          "meaning": "El nombre de la niebla — 'Karl's out' significa que hoy hay niebla; usa su nombre y serás considerado un local"
+        },
+        {
+          "word": "BART / Muni",
+          "pronunciation": "bart / MYOO-nee",
+          "meaning": "Los dos sistemas de transporte público — 'I took BART' forma parte del vocabulario de la ciudad"
+        },
+        {
+          "word": "Stoked",
+          "pronunciation": "stohkt",
+          "meaning": "Emocionado, encantado — la palabra oficial del optimismo californiano; úsala libremente"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Lista de Imprescindibles de San Francisco",
+      "completion_message": "¡Fantástico! ¡Has vivido la ciudad de la niebla y las colinas como se merece!",
+      "items": [
+        {
+          "label": "Cruza el Golden Gate a pie o en bici",
+          "sub": "Con la claridad de la mañana — y un cortavientos"
+        },
+        {
+          "label": "Escucha la audioguía de Alcatraz",
+          "sub": "Entradas con semanas de antelación — en el primer barco"
+        },
+        {
+          "label": "Agárrate al estribo del cable car",
+          "sub": "En la línea California — el clásico sin colas"
+        },
+        {
+          "label": "Desenvuelve un burrito Mission",
+          "sub": "La versión 'super' — de una taquería con cola"
+        },
+        {
+          "label": "Contempla las Painted Ladies desde el césped de Alamo Square",
+          "sub": "Damas victorianas y el skyline"
+        },
+        {
+          "label": "Disfruta del atardecer en Sutro Baths",
+          "sub": "Ruinas junto al mar — con Lands End"
+        },
+        {
+          "label": "Sube las escaleras de azulejos de la 16th Avenue",
+          "sub": "163 escalones, el océano en la cima"
+        },
+        {
+          "label": "Disfruta de una mañana de dim sum en Chinatown",
+          "sub": "Cestas humeantes, mostradores rápidos"
+        },
+        {
+          "label": "Admira el puente desde Marin Headlands",
+          "sub": "Battery Spencer — el trono de la fotografía"
+        },
+        {
+          "label": "Tómate un Irish coffee en The Buena Vista",
+          "sub": "Desde 1952 — con el espectáculo de la barra"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Ibiza",
+    "country": "İspanya",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#1F8A8A",
+    "color_light": "#E5F5F5",
+    "tagline": "Beyaz ada: turkuaz koylar, hippi pazarları ve gün batımı ritüelleri"
+  },
+  "pills": [
+    "Beyaz Ada — La Isla Blanca",
+    "Dalt Vila UNESCO mirası",
+    "Kulüplerden sakin koylara iki yüzlü ada"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Ibiza'ya Hoş Geldin",
+      "intro": "Ibiza'nın şöhreti gece kulüpleriyle yazıldı ama adanın asıl hikayesi daha eskidir: Fenikeliler liman kurdu, korsanlara karşı surlar yükseldi, 60'ların hippileri çam ormanlı koylara yerleşti ve hepsi bu beyaz adada iz bıraktı. Bugün Dalt Vila'nın taş sokaklarında tarih, kuzey koylarında sessizlik, Es Vedrà karşısında gün batımı ayini, gecede ise dünyanın en ünlü dans pistleri yaşar. İki Ibiza vardır — hangi dozda karıştıracağın tamamen sana kalmış.",
+      "local_word": {
+        "word": "Eivissa",
+        "pronunciation": "eyvisa",
+        "definition": "Adanın Katalanca ve resmi adı: tabelalarda 'Ibiza' değil 'Eivissa' yazar. Yerli kendini 'eivissenc' diye tanıtır — bu adı kullanman, adaya turist broşüründen değil kapısından girdiğini gösterir."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "İki adayı da tanı",
+          "description": "Güney gece, kuzey sessizlik demektir: San Antonio ve Playa d'en Bossa parti, kuzeyin Portinatx ve Benirràs tarafı çam ve koy. Tek yüzüyle yetinen, adanın yarısını görmemiş sayılır."
+        },
+        {
+          "number": 2,
+          "title": "Kulüp biletini kapıda alma",
+          "description": "Büyük kulüplerin kapı fiyatı cezalandırıcıdır: biletler online ve erken satışta belirgin ucuzdur, çoğu otel-bar ön satış yapar. Tek gecede iki kulüp hayali ise bütçe ve enerji intiharıdır."
+        },
+        {
+          "number": 3,
+          "title": "Koylara erken, gün batımına yerinde",
+          "description": "Ünlü calalar öğlen dolar, otoparklar taşar: sabah 10 koyun en güzel saatidir. Gün batımı içinse saat değil yer önemli — Es Vedrà karşısı ya da batı kayalıkları, plan gerektirir."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Ibiza (IBZ)",
+          "sub": "Merkeze 10 dk · sezonda direkt uçuşlar"
+        },
+        {
+          "icon": "🚗",
+          "label": "Ada içi",
+          "value": "Kiralık araç önerilir",
+          "sub": "Otobüs ana hatlarda, koylara zayıf"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Katalanca + İspanyolca",
+          "sub": "İngilizce turistik her yerde"
+        },
+        {
+          "icon": "🌅",
+          "label": "İmza",
+          "value": "Gün batımı + Es Vedrà",
+          "sub": "Batı kıyısı ritüeli"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Ibiza felsefesi",
+        "text": "Adanın yerel ritmi 'poc a poc'tur — azar azar: sabah koy, öğlen uzun sofra, akşam gün batımı, gece istersen pist. Hepsini aynı güne sıkıştıran, hiçbirini yaşayamaz."
+      }
+    },
+    "transport": {
+      "title": "Ada İçi Ulaşım",
+      "intro": "Ibiza küçük görünür ama koylar dağınıktır: özgürlük kiralık araçta, pratiklik ana hat otobüslerinde, keyif teknededir.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından merkeze",
+          "description": "Havalimanı Ibiza Town'a 10 dakika: 10 numaralı otobüs sezonda sık çalışır, taksi sabit tarifeye yakındır. San Antonio tarafına geçiş yarım saati bulur."
+        },
+        {
+          "icon": "🚗",
+          "title": "Kiralık araç — koy anahtarı",
+          "description": "Gizli koyların çoğuna toprak yollarla inilir; küçük bir araç adanın kilididir. Yazın erken rezerve et, plaj otoparklarına sabah var — öğlen yer bulmak şansa kalır."
+        },
+        {
+          "icon": "🚌",
+          "title": "Otobüs ana hatları",
+          "description": "Ibiza-San Antonio-Santa Eulària üçgeni ve havalimanı hattı düzenli işler; gece Disco Bus kulüpleri birbirine bağlar. Kuzey koylarına seferler seyrektir — saatleri önceden kontrol et."
+        },
+        {
+          "icon": "⛵",
+          "title": "Tekne ve feribotlar",
+          "description": "Formentera feribotu limandan yarım saatte kalkar; sahil tekneleri Cala Comte-Cala Bassa hattında taksi gibi çalışır. Es Vedrà turlu gün batımı teknesi, adanın klasik jestidir."
+        },
+        {
+          "icon": "🛵",
+          "title": "Scooter ve bisiklet",
+          "description": "Kısa mesafeler ve liman çevresi için scooter pratiktir; ada içi yollar tepelik ve yazın sıcaktır — bisiklet sabah erken saatlerin aracıdır."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Formentera tüyosu",
+        "text": "Formentera'ya ilk feribotla geç, iskelede bisiklet kirala ve Ses Illetes'in Karayip sularına kalabalık gelmeden gir: dönüş feribotunda güneş yanığı ve 'neden bir gece kalmadık' pişmanlığı standarttır."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Ibiza'da bölge seçimi tatilin türünü belirler: liman ve sur gölgesi, parti sahili, aile koyu ya da kuzeyin çam sessizliği.",
+      "local_word": {
+        "word": "Agroturismo",
+        "pronunciation": "agroturismo",
+        "definition": "Adanın iç kesimindeki eski çiftlik evlerinden dönüşen kır otelleri: taş duvarlar, incir ağaçları, havuz başı kahvaltı. Ibiza'nın 'öbür yüzü' en iyi bu beyaz fincalarda yaşanır."
+      },
+      "items": [
+        {
+          "name": "Ibiza Town (Eivissa) ve Dalt Vila",
+          "badge": "En atmosferli",
+          "badge_type": "vibe",
+          "description": "Sur içinde taş sokaklar, liman kenarında akşam pasosu, marina barları: tarih + gece hayatı dengesinin merkezi. Yazın canlı ve pahalı — ada hayatının vitrini.",
+          "tags": [
+            "Sur içi sokaklar",
+            "Liman akşamları",
+            "Kulüplere erişim"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dalt+Vila+Ibiza"
+        },
+        {
+          "name": "Santa Eulària des Riu",
+          "badge": "En aile dostu",
+          "badge_type": "value",
+          "description": "Sakin kordon, kum plajlar ve restoran çeşitliliği: partiden uzak, konfordan yana. Çocuklu aileler ve sakin tatilcilerin klasik üssü.",
+          "tags": [
+            "Sakin kordon",
+            "Aile plajları",
+            "Restoran bolluğu"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Eularia+des+Riu"
+        },
+        {
+          "name": "San Antonio (Sant Antoni)",
+          "badge": "Parti + gün batımı",
+          "badge_type": "hot",
+          "description": "Sunset Strip'in ve genç parti kalabalığının sahili: gün batımı barları efsane, gece gürültü garantili. Bütçe dostu otelleri ve tekne turu limanıyla gençliğin adresi.",
+          "tags": [
+            "Sunset Strip",
+            "Genç enerji",
+            "Bütçe otelleri"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sant+Antoni+de+Portmany"
+        },
+        {
+          "name": "Kuzey — Portinatx ve Sant Joan tarafı",
+          "badge": "En sakin",
+          "badge_type": "local",
+          "description": "Çam ormanları, saklı koylar ve hippi mirası köyler: adanın yavaş yüzü. Araç şart, ödülü sessizlik ve yıldızlı gökyüzü.",
+          "tags": [
+            "Saklı koylar",
+            "Çam ormanı",
+            "Araç gerekir"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Portinatx+Ibiza"
+        },
+        {
+          "name": "İç ada — Santa Gertrudis ve fincalar",
+          "badge": "En karakterli",
+          "badge_type": "hot",
+          "description": "Beyaz köy meydanları ve agroturismo fincaları: her koya eşit mesafe, akşamları köy meydanında uzun sofra. Ibiza'yı 'ada köyü' olarak yaşamak isteyene.",
+          "tags": [
+            "Agroturismo",
+            "Köy meydanı",
+            "Merkezi konum"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Gertrudis+de+Fruitera"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Ibiza'nın takvimi kulüp sezonuyla değil, ışık ve kalabalıkla okunmalı: haziran ve eylül altın, temmuz-ağustos zirve, kış bambaşka bir ada.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Açılış Sezonu",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Yeşil ada, açılış partileri",
+          "description": "Ada kır çiçekleriyle yeşilin en canlısına döner, deniz mayısta yüzülür hale gelir ve mayıs sonu-haziran kulüplerin açılış partileriyle sezon kapısını açar. Koylar sakin, fiyatlar henüz makul.",
+          "callout": {
+            "type": "tip",
+            "label": "Haziran ipucu",
+            "text": "Haziran ilk yarısı adanın dengesidir: deniz ısınmış, açılış partileri yapılmış, ağustos kalabalığı uzakta. Koy + kulüp karışımını en rahat bu pencerede kurarsın."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Zirve Sezon",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Dolu koylar, dünya çapında geceler",
+          "description": "Dünyanın DJ takvimi adaya taşınır, koylar ve yollar dolar, fiyatlar tavan yapar. Enerji eşsizdir ama plansız gelinmez: kulüp bileti, restoran masası ve araç — üçü de önceden.",
+          "callout": {
+            "type": "warning",
+            "label": "Ağustos notu",
+            "text": "Ağustosta ünlü calalara öğlen varmak hayal kırıklığıdır: sabah 9-10 arası git ya da tekneyle yaklaş. Taksi kuyruğuna güvenme — gece dönüşünü Disco Bus ya da önceden ayarlı transferle planla."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Kapanış ve Sıcak Deniz",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Eylül dengesi, kapanış partileri",
+          "description": "Eylül adanın en iyi sırrıdır: deniz en sıcak halinde, kalabalık çekilmiş, ekim başında kapanış partileri final yapar. Kasımla birlikte ada yerlilere döner, yürüyüş sezonu açılır.",
+          "callout": {
+            "type": "tip",
+            "label": "Eylül ipucu",
+            "text": "Eylül sonu gel: gündüz boş koylarda yaz denizi, gece kapanış partilerinin 'son dans' enerjisi. Aynı otelin fiyatı ağustosun yarısına iner — adanın en akıllı iki haftası budur."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Yerlilerin Adası",
+          "months": "Ara – Mar",
+          "subtitle": "Kış · Badem çiçeği, boş patikalar",
+          "description": "Kulüpler uyur, ada nefes alır: ocak-şubatta badem ağaçları beyaza keser, kıyı patikaları yürüyüşçülere kalır. Birçok mekan kapalıdır ama Dalt Vila ve köy pazarları sahici haliyle yaşar.",
+          "callout": {
+            "type": "tip",
+            "label": "Şubat ipucu",
+            "text": "Şubatta Santa Agnès ovasının badem çiçeği açılışını yakala: beyaz çiçek denizi, arkada kırmızı toprak ve sessizlik — Ibiza'nın kimsenin bilmediği kartpostalı."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Ada mutfağı balıkçı tencerelerinden çıkar: safranlı balık güveçleri, köy usulü etler ve yüz yıllık likör tarifleri — plaj kulübü menülerinin arkasındaki gerçek Ibiza.",
+      "local_word": {
+        "word": "Bullit de peix",
+        "pronunciation": "buyit de peş",
+        "definition": "Adanın imza yemeği: günün balığı safranlı-sarımsaklı suda pişer, önce balık servis edilir, ardından o suyla yapılan arroz a banda pilavı gelir. Tek sipariş, iki muhteşem tabak — balıkçı koylarının klasiği."
+      },
+      "items": [
+        {
+          "icon": "🐟",
+          "name": "Bullit de peix — iki perdelik balık",
+          "description": "Önce safranlı suda pişmiş balık ve patates, ikinci perdede aynı suyun pilavı arroz a banda: adanın en büyük gastronomik gururu. Balıkçı koylarındaki aile lokantalarında, mümkünse rezervasyonla.",
+          "tag": "Balıkçı lokantasında · iki servis",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Bigotes+Cala+Mastella"
+        },
+        {
+          "icon": "🥘",
+          "name": "Sofrit pagès — köy tenceresi",
+          "description": "Tavuk, kuzu, sosis ve patatesin ağır ateşte buluştuğu köy klasiği: kış sofrasının kalbi, yazın da menülerde. Doyurucu ve dürüst — agroturismo mutfaklarının imzası.",
+          "tag": "İç adada · köy usulü",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Es+Ventall+Ibiza"
+        },
+        {
+          "icon": "🍮",
+          "name": "Flaó ve greixonera",
+          "description": "Flaó: naneli taze peynirli tart, İbiza'nın yüzyıllardır değişmeyen tatlısı. Greixonera ise dünkü ensaimada'dan yapılan tarçınlı puding — israf etmeyen ada aklının şaheseri.",
+          "tag": "Tatlı ikilisi · naneli flaó şart",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pastisseria+Ibiza+flao"
+        },
+        {
+          "icon": "🌿",
+          "name": "Hierbas ibicencas",
+          "description": "Adanın çam, rezene ve nane dahil onlarca bitkisiyle demlenen anason likörü: yemek sonu buzlu servis edilir. Her ailenin kendi şişesi, her lokantanın kendi tarifi vardır — hediyelik olarak da klasik.",
+          "tag": "Yemek sonu · buzlu",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hierbas+de+Ibiza"
+        },
+        {
+          "icon": "🥗",
+          "name": "Ensalada payesa ve peix sec",
+          "description": "Köy salatasının Ibiza hali: patates, kırmızı biber ve güneşte kurutulmuş balık (peix sec) ile. Tuzlu, taze ve plaj öğlenin en hafif zaferi.",
+          "tag": "Plaj öğleni · peix sec ile",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Gertrudis+restaurants"
+        },
+        {
+          "icon": "🍹",
+          "name": "Chiringuito gün batımı sofrası",
+          "description": "Plaj barlarında ızgara balık, sangria ve ayak kumda akşam: menü basit, sahne muhteşem. Batı kıyısı chiringuito'larında masayı gün batımından bir saat önce kap.",
+          "tag": "Batı kıyısında · gün batımından önce",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Comte+chiringuito"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Rezervasyon kuralı",
+        "text": "Yazın iyi balık lokantası plaj kulübünden zor bulunur: bullit de peix çoğu yerde önceden sipariş ister. Aradığın 'otantik Ibiza' ise beach club'ta değil, koyun ucundaki ailenin tenceresindedir — bir gün önceden ara."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Ünlü koyları herkes bilir; bu altısı adanın sakladığı yüzü.",
+      "items": [
+        {
+          "rarity": "Adanın mistik kayası",
+          "name": "Es Vedrà izleme noktaları",
+          "description": "Denizden 380 metre yükselen ıssız kaya, adanın bütün efsanelerinin merkezidir: sirenler, manyetik alanlar, Tanit'in evi. Cala d'Hort üstündeki kayalıklardan ya da Savinar kulesinden gün batımında izle — kalabalık plajda, sen yukarıda.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Es+Vedrà+viewpoint"
+        },
+        {
+          "rarity": "Davullu gün batımı koyu",
+          "name": "Benirràs",
+          "description": "Kuzeyin çam kuşaklı koyu, pazar akşamları davul çemberiyle gün batımını uğurlar: hippi mirasının hâlâ nefes aldığı yer. Erken git — koy küçük, ritüel ünlü.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Benirràs+Ibiza"
+        },
+        {
+          "rarity": "Ada içinde ada pazarı",
+          "name": "Las Dalias ve hippi pazarları",
+          "description": "Sant Carles'teki efsane pazar 1954'ten beri kurulur: el yapımı takılar, adanın son gerçek hippileri ve canlı müzik. Cumartesi ana gün — sabah git, öğlen kalabalığından önce çık.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Las+Dalias+Ibiza"
+        },
+        {
+          "rarity": "Tuz düzlüklerinin pembe saati",
+          "name": "Ses Salines tuzlaları",
+          "description": "Fenikelilerden beri işleyen tuz havuzları gün batımında pembeye döner; flamingolar sığ suda gezinir. Plajının şöhreti tuzlaların sessiz güzelliğini gölgeler — bisikletle tur at.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ses+Salines+Ibiza"
+        },
+        {
+          "rarity": "Korsan gözcü kulesi",
+          "name": "Torre des Savinar (Torre del Pirata)",
+          "description": "Es Vedrà'nın tam karşısındaki 18. yüzyıl gözcü kulesi: kısa ama dik patikayla çıkılır, ödülü adanın en dramatik manzarasıdır. Gün batımından bir saat önce zirvede ol.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Torre+des+Savinar+Ibiza"
+        },
+        {
+          "rarity": "Beyaz köy meydanı",
+          "name": "Santa Gertrudis akşamı",
+          "description": "Ada içinin beyaz köyü: meydan çevresinde tapas barları, galeriler ve ağaç altı masalar. Kıyı gürültüsünden bir akşamlık mola — jamón tabağı ve soğuk beyazla köy Ibiza'sı.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Gertrudis+de+Fruitera"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Koy tüyosu",
+        "text": "Haritada adı büyük yazan her koyun bir 'küçük komşusu' vardır: Cala Comte doluysa Cala Escondida'ya, Cala Bassa taşıyorsa Cala Gracioneta'ya yürü. Beş dakikalık patika, yarı yarıya kalabalık demektir."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Ibiza yazın turist başına dünyanın en pahalı adalarından biri olabilir; şu dördü bütçenin ana sigortasıdır.",
+      "items": [
+        {
+          "icon": "🎟️",
+          "name": "Kulüp biletini kapıda almak",
+          "description": "Kapı fiyatı ön satışın hayli üstündedir; içeride su bile ciddi paradır ve 'ücretsiz giriş' flyer'ları çoğu zaman içki şartına bağlıdır.",
+          "instead": "Bileti resmi satıştan erken al, tek geceye tek kulüp planla. İçki bütçesini bilerek gir — ada gecesinin gerçek maliyeti bilettir + üç içkidir."
+        },
+        {
+          "icon": "🛏️",
+          "name": "Beach club şezlongunun küçük yazısı",
+          "description": "Ön sıra yatakların minimum harcaması öğle yemeği fiyatına ulaşır; oturduktan sonra pazarlık yoktur.",
+          "instead": "Minimum harcamayı oturmadan sor ya da halk plajı tarafına serilen havluyla aynı denizi bedava yaşa. Beach club'ı deneyim olarak bilinçli seç, varsayılan yapma."
+        },
+        {
+          "icon": "🚕",
+          "name": "Ağustos gecesi taksi beklentisi",
+          "description": "Ada taksisi azdır ve zirve sezonda gece kuyrukları saati aşar; kulüp çıkışı 'hemen taksi' planı çöker.",
+          "instead": "Disco Bus hatlarını öğren, dönüşü önceden ayarla ya da grup transferi kapat. Araç kiraladıysan gece şoförlüğünü baştan tek kişiye emanet et."
+        },
+        {
+          "icon": "⚓",
+          "name": "'Her şey dahil' tekne partisi",
+          "description": "Ucuz görünen tekne partileri kalabalık güverte, kısıtlı içki ve uzak koylara kısa demir atma formülüyle çalışır.",
+          "instead": "Küçük grup gün batımı turu ya da özel şarter böl: rota Es Vedrà'ya, mola gerçek bir koya olsun. Fiyatı kişi başı değil, tekne başı kıyasla."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Ibiza'da en pahalı şeyler önceden plansızlıktır: bilet, masa, araç ve transfer — dördü de erken alana yarı fiyattır. Adanın en güzel şeyleri ise hâlâ bedava: koy, patika, gün batımı ve davul sesi."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Surdan koya, koydan gün batımı ayinine",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Dalt Vila sabahı",
+              "description": "Sur kapısından gir, taş sokaklardan katedral terasına tırman: liman ve Formentera ayaklarının altında, kalabalık henüz uykuda."
+            },
+            {
+              "time": "11:00",
+              "title": "Batı koylarında deniz",
+              "description": "Cala Comte'nin turkuazına ya da komşu küçük koya: öğlen kalabalığından önce en iyi saatler. Şnorkeli unutma."
+            },
+            {
+              "time": "13:30",
+              "title": "Chiringuito öğleni",
+              "description": "Ayak kumda ensalada payesa + ızgara balık; tatlıya naneli flaó. Öğle sonrası gölgede uzun mola — ada ritmi böyle ister."
+            },
+            {
+              "time": "16:30",
+              "title": "Ses Salines pembe saati",
+              "description": "Tuz düzlüklerinde yürüyüş ya da bisiklet: flamingolar, tuz tepeleri ve alçalan ışık. Plajında kısa bir yüzme bonus."
+            },
+            {
+              "time": "19:00",
+              "title": "Es Vedrà gün batımı ayini",
+              "description": "Savinar kulesi patikasına tırman ya da Cala d'Hort üstü kayalıklara kurul: kaya önce altına, sonra kora döner. Sessizlik kendiliğinden gelir."
+            },
+            {
+              "time": "21:30",
+              "title": "Gece: köy ya da pist",
+              "description": "Sakin final için Santa Gertrudis meydanında tapas; büyük final için önceden alınmış biletle kulüp gecesi — ikisi de meşru Ibiza'dır."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Adanın üç yüzü: tarih, koylar, ruh",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Ibiza",
+              "description": "Yukarıdaki 1 günlük akış: Dalt Vila, batı koyları, tuzlalar, Es Vedrà."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Formentera kaçamağı",
+              "description": "İlk feribotla geç, bisiklet kirala: Ses Illetes'in Karayip suları, ada içi patikalar ve fener yolu. Dönüşte liman barında dondurma + gün batımı."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Kuzeyin ruhu",
+              "description": "Sabah Las Dalias pazarı (cumartesiyse) ya da Sant Joan köyü; öğlen kuzey koylarında yüzme; akşam Benirràs'ta davullu gün batımı — adaya veda böyle yapılır."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Adada İspanyolca her kapıyı açar, bir tutam Katalanca ise gülümseme garantisi verir.",
+      "items": [
+        {
+          "word": "Hola / Bon dia",
+          "pronunciation": "ola / bon diya",
+          "meaning": "Merhaba / günaydın — Katalanca 'bon dia' yerliye jesttir"
+        },
+        {
+          "word": "Gracias / Gràcies",
+          "pronunciation": "grasyas / grasies",
+          "meaning": "Teşekkürler — iki dilde de hazır bulunsun"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "por favor",
+          "meaning": "Lütfen — şezlong fiyatı sorarken de geçerli"
+        },
+        {
+          "word": "¡Salud!",
+          "pronunciation": "salud",
+          "meaning": "Şerefe! — hierbas kadehi kalkarken"
+        },
+        {
+          "word": "Poc a poc",
+          "pronunciation": "pok a pok",
+          "meaning": "'Azar azar, sakin sakin' — adanın yaşam temposu; duyunca gülümse, uygula"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Ibiza Checklist",
+      "completion_message": "¡Salud! Beyaz adayı iki yüzüyle yaşadın!",
+      "items": [
+        {
+          "label": "Dalt Vila surlarından limana bak",
+          "sub": "Katedral terası — sabah erken"
+        },
+        {
+          "label": "Es Vedrà karşısında gün batımı izle",
+          "sub": "Savinar kulesi ya da Cala d'Hort üstü"
+        },
+        {
+          "label": "Turkuaz bir koyda şnorkelle yüz",
+          "sub": "Cala Comte ya da küçük komşusu"
+        },
+        {
+          "label": "Bullit de peix'in iki perdesini bitir",
+          "sub": "Balıkçı lokantasında, rezervasyonla"
+        },
+        {
+          "label": "Benirràs'ta davul çemberine katıl",
+          "sub": "Pazar akşamı — erken git"
+        },
+        {
+          "label": "Hippi pazarında hediye seç",
+          "sub": "Las Dalias — cumartesi ana gün"
+        },
+        {
+          "label": "Formentera'da bisiklet pedalla",
+          "sub": "Ses Illetes — ilk feribotla"
+        },
+        {
+          "label": "Hierbas ibicencas'ı buzlu iç",
+          "sub": "Yemek sonu — ada likörü"
+        },
+        {
+          "label": "Ses Salines'in pembe saatini gör",
+          "sub": "Tuz düzlükleri + flamingolar"
+        },
+        {
+          "label": "Bir gece kulüp pistinde kaybol",
+          "sub": "Bilet önceden — tek gece, tek kulüp"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2F5D4A",
+    "color_light": "#E6F0EA",
+    "tagline": "Stone streets in the castle's shadow, stories in the mist"
+  },
+  "pills": [
+    "A castle on a volcanic rock",
+    "The world's festival capital",
+    "Streets that inspired Harry Potter"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Edinburgh",
+      "intro": "Edinburgh is two cities, and each looks down at the other: the medieval Old Town pouring downhill from the castle on its volcanic rock, and the elegant, square-planned Georgian New Town. The extinct volcano of Arthur's Seat rises in the middle of it all, the sea mist called haar swallows the streets on some mornings, and a piper's drone echoes down the Royal Mile. This is the capital of storytellers — Stevenson, Conan Doyle, and the cafes where Harry Potter was born. And in August, the world's biggest arts festival turns the whole city into a stage.",
+      "local_word": {
+        "word": "Dreich",
+        "pronunciation": "dreekh",
+        "definition": "Scotland's best-loved word: gray, wet, misty, dispiriting weather — all in one syllable. When someone says 'it's a dreich day', the sky is lead-colored, but the Scot isn't sad about it: a dreich day is a pub day, a whisky day, a book day. Learn this word and you make peace with Scottish weather."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Be ready for four seasons in one day",
+          "description": "Edinburgh's weather changes by the hour: sun at breakfast, rain at noon, wind by mid-afternoon. Dress in layers and pack a thin raincoat — umbrellas lose to the wind. When rain strikes, the nearest pub or bookshop is your shelter; Scots don't call that a ruined plan, they call it the plan."
+        },
+        {
+          "number": 2,
+          "title": "Book the castle and the big sights ahead",
+          "description": "Edinburgh Castle runs on timed tickets, and summer days end at a 'sold out' wall: buy online and early. Arthur's Seat, Calton Hill and the streets themselves are free — schedule the paid icons, improvise the free views."
+        },
+        {
+          "number": 3,
+          "title": "Come to August deliberately, or avoid it deliberately",
+          "description": "In August the Fringe triples the city: every cellar is a stage, every street a venue — rooms sell out months ahead and prices soar. If you want the festival spirit, plan early; if you want quiet Edinburgh, strike August from the calendar."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Airport",
+          "value": "Edinburgh (EDI)",
+          "sub": "~35 min to center by tram"
+        },
+        {
+          "icon": "🏰",
+          "label": "Signature",
+          "value": "Edinburgh Castle",
+          "sub": "On a volcanic crag"
+        },
+        {
+          "icon": "💷",
+          "label": "Currency",
+          "value": "Pound (GBP)",
+          "sub": "Cards everywhere, cash rare"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Language",
+          "value": "English (+ Scots)",
+          "sub": "The accent puzzles, then charms"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The Edinburgh philosophy",
+        "text": "This city is understood on foot and uphill: every summit rewards with a view, every rain with a pub. Leave gaps in the plan — Edinburgh's best moments are found unplanned, inside the closes."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "The center is entirely walkable; the tram covers the airport and Lothian buses cover everything else — no car needed.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arriving from the airport",
+          "description": "The airport tram reaches Princes Street in 35 minutes: tickets from the machine or the app. The Airlink 100 bus runs through the night — a taxi costs three times the same road."
+        },
+        {
+          "icon": "🚶",
+          "title": "Two walkable towns",
+          "description": "Everything between Old Town and New Town is within steps, but the steps are steep: the Royal Mile runs down a ridge and the side lanes are staircases. Comfortable shoes are non-negotiable — cobblestones don't negotiate with heels."
+        },
+        {
+          "icon": "🚌",
+          "title": "Lothian buses",
+          "description": "The maroon buses reach every corner of the city: contactless payment caps at a daily maximum — the system does the ticket math for you. The top-deck front seat is the cheapest scenic tour in town."
+        },
+        {
+          "icon": "🚋",
+          "title": "The tram line",
+          "description": "A single line runs from the airport to Leith: Princes Street and St Andrew Square are the key stops. The extension makes reaching the Leith waterfront easy — the practical line for a harbor outing."
+        },
+        {
+          "icon": "🥾",
+          "title": "Hill paths",
+          "description": "The Arthur's Seat trails start at Holyrood: the summit is a 45-minute climb with route options for every level. Calton Hill is the ten-minute 'lazy view' — both are free."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "View tip",
+        "text": "On a windy but clear late afternoon, climb Calton Hill: castle, Old Town skyline and the Firth of Forth gather in one frame. Take your place twenty minutes before sunset — Edinburgh light is generous to photographers, and the wind is an enemy to hats."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "The choice is between two towns: Old Town's stone atmosphere, New Town's Georgian elegance, or the village souls of Stockbridge and Leith.",
+      "local_word": {
+        "word": "Close",
+        "pronunciation": "klohss",
+        "definition": "A narrow, tunneled passage branching off the Royal Mile: Edinburgh's hidden veins. Every close's name carries a story — a merchant's here, a ghost's there. Tourists walk the main street; those who know the city turn into the closes: beyond the stone arch wait courtyards, views and four centuries of whispers."
+      },
+      "items": [
+        {
+          "name": "Old Town",
+          "badge": "Most atmospheric",
+          "badge_type": "vibe",
+          "description": "Hotels in the stone buildings around the Royal Mile: the castle above, the closes at your door. You wake inside history — lively in summer and festival season, fairytale-quiet in winter.",
+          "tags": [
+            "Walk to the castle",
+            "Stone atmosphere",
+            "Inside the closes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Old+Town+Edinburgh"
+        },
+        {
+          "name": "New Town",
+          "badge": "Georgian elegance",
+          "badge_type": "value",
+          "description": "Ordered squares, graceful facades and Princes Street shopping: five minutes to Old Town, one notch calmer. A balanced, stylish base — the best breakfast spots live here too.",
+          "tags": [
+            "Georgian facades",
+            "Beside the shops",
+            "Balanced location"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=New+Town+Edinburgh"
+        },
+        {
+          "name": "Stockbridge",
+          "badge": "Village soul",
+          "badge_type": "local",
+          "description": "A village-like quarter by the water: a Sunday street market, independent shops, coffee roasters. A fifteen-minute walk to the center — for living Edinburgh like a local.",
+          "tags": [
+            "Sunday market",
+            "Independent shops",
+            "Riverside walks"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Stockbridge+Edinburgh"
+        },
+        {
+          "name": "Leith",
+          "badge": "Harbor character",
+          "badge_type": "local",
+          "description": "Waterfront restaurants, Michelin-starred kitchens and a transforming dock district: The Shore at dusk is one of the city's most pleasant corners. Linked to the center by tram — prices a notch kinder.",
+          "tags": [
+            "Waterfront dining",
+            "Michelin kitchens",
+            "On the tram"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Leith+Edinburgh"
+        },
+        {
+          "name": "Bruntsfield and Morningside",
+          "badge": "Quiet side",
+          "badge_type": "value",
+          "description": "Southern neighborhoods of cafes and bakeries beside the parks: a pleasant walk across the Meadows to the center. The balanced choice for families and quiet-night seekers.",
+          "tags": [
+            "Beside the parks",
+            "Neighborhood cafes",
+            "Quiet nights"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bruntsfield+Edinburgh"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "When to Go",
+      "intro": "Edinburgh's weather guarantees nothing, but its calendar is clear: August is festival madness, December is lights and Hogmanay, spring and autumn are the calm balance.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "Waking Gardens",
+          "months": "Apr – Jun",
+          "subtitle": "Spring · Blossoming Meadows, stretching days",
+          "description": "The Meadows drown in cherry blossom, the days lengthen fast, and the festival crowds are still far away. The year's most balanced window for Arthur's Seat trails and close-hunting — the weather still springs surprises, so layer up.",
+          "callout": {
+            "type": "tip",
+            "label": "May tip",
+            "text": "Climb Arthur's Seat early on a May morning: the wind is sharp at the summit but the view is crystal — castle, firth and city at your feet. Descend in time for the Stockbridge market and breakfast is your reward."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "Festival Madness",
+          "months": "Jul – Aug",
+          "subtitle": "Summer · Fringe stages, full streets, long light",
+          "description": "In August the Fringe, the International Festival and the Military Tattoo share the stage: the city becomes one vast performance and the queues run past midnight. Light lasts until ten — the energy is unmatched, and so are the prices and crowds.",
+          "callout": {
+            "type": "warning",
+            "label": "August note",
+            "text": "Never arrive in festival August without a plan: book your room months ahead, pre-book shows, but leave one or two daily gaps — the Fringe's soul is walking into an unknown show whose flyer you liked, at the last minute."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "Season of Golden Mist",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · Orange parks, dreich days, pub fires",
+          "description": "The city shakes off festival fatigue, the parks turn gold, and the haar swallows the castle each morning and gives it back. Pub fires are lit and whisky season opens — these are the months when Edinburgh is most itself.",
+          "callout": {
+            "type": "tip",
+            "label": "October tip",
+            "text": "Walk Victoria Street as its lights come on in October, then order a dram by a pub fire: the dreich outside, you inside — that is the exact formula of a Scottish autumn. The Samhuinn fire festival, Halloween's ancestor, falls this month too."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Lights and Hogmanay",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Christmas markets, New Year festival, short days",
+          "description": "In December the Christmas market floods Princes Street Gardens with light; at New Year, Hogmanay becomes a three-day city festival — torchlight procession, concerts and midnight fireworks. The days are short, the atmosphere dense.",
+          "callout": {
+            "type": "tip",
+            "label": "Hogmanay tip",
+            "text": "If you're seeing in the New Year in Edinburgh, buy Hogmanay tickets early: the street party is capacity-limited. On January 1st, join the 'Loony Dook' plunge into the freezing sea if you dare — or applaud from the shore; either way you've started the year the Scottish way."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "Scottish cooking looks modest and lands solid: the spice of haggis, the freshness of salmon, the smoke of whisky — all at pub warmth.",
+      "local_word": {
+        "word": "Dram",
+        "pronunciation": "dram",
+        "definition": "A measure of whisky: the base unit of Scottish table culture. 'A wee dram' is the shared language of invitation, celebration and consolation. Adding a drop of water is not a faux pas but the craft that opens the aroma — ask the bartender for a water dropper and drink your dram at your own setting."
+      },
+      "items": [
+        {
+          "icon": "🥘",
+          "name": "Haggis, neeps and tatties",
+          "description": "Scotland's national dish: spiced haggis with mashed turnip and potato. It sounds like a dare and tastes deep and peppery — asking for whisky sauce on top is a legitimate modern touch.",
+          "tag": "National classic · try the whisky sauce",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=haggis+restaurant+Edinburgh"
+        },
+        {
+          "icon": "🥃",
+          "name": "The whisky dram ritual",
+          "description": "From Islay's smoke to Speyside's honey: a good whisky bar draws you a map by asking questions. A tasting flight starts at three drams — have your answer ready for 'peaty or sweet?'",
+          "tag": "By the flight · ask the bartender",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=whisky+bar+Edinburgh"
+        },
+        {
+          "icon": "🐟",
+          "name": "Fish and chips with chippy sauce",
+          "description": "Crisp-battered cod and thick-cut chips: the Edinburgh difference is the brown 'chippy sauce' — the local blend of vinegar and brown sauce. When asked 'salt and sauce?', say 'aye' and follow the city's custom.",
+          "tag": "Chippy classic · salt and sauce",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=fish+and+chips+Edinburgh"
+        },
+        {
+          "icon": "🍲",
+          "name": "Cullen skink",
+          "description": "A cream soup of smoked haddock and potato: the northeast coast's gift to Edinburgh tables. The most honest answer to a dreich noon — with fresh bread and plenty of butter.",
+          "tag": "Smoky soup · dreich-day work",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=cullen+skink+Edinburgh"
+        },
+        {
+          "icon": "🍳",
+          "name": "The full Scottish breakfast",
+          "description": "Sausage, eggs, beans and the star players: square (lorne) sausage, tattie scone and a slice of haggis. It holds you till noon — queueing for breakfast is a Stockbridge tradition.",
+          "tag": "A challenge to the day · with tattie scone",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Scottish+breakfast+Edinburgh"
+        },
+        {
+          "icon": "🍰",
+          "name": "Cranachan and shortbread",
+          "description": "Cranachan — raspberries with cream, honey, whisky and toasted oats — and buttery shortbread beside it: two classics of the Scottish sweet course. Closing with a cheese board and a dram instead of dessert is equally native.",
+          "tag": "Sweet duo · whisky cream",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=cranachan+Edinburgh"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Table rule",
+        "text": "In Edinburgh the lunch menus run at half the evening price: schedule the big meal for noon. Against the Royal Mile tourist traps, turn one street aside — the Leith waterfront and Stockbridge are the most honest addresses for the price-to-flavor balance."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Corners",
+      "intro": "Everyone sees the castle; these six are Edinburgh's misty, storied hidden pages.",
+      "items": [
+        {
+          "rarity": "A village inside the city",
+          "name": "Dean Village",
+          "description": "A medieval milling village ten minutes from the center: stone houses, the sound of the Water of Leith and ivy-covered facades. Go early in the morning — from the bridge, it's hard to believe you're still in a city.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dean+Village+Edinburgh"
+        },
+        {
+          "rarity": "The photographer's lane",
+          "name": "Circus Lane",
+          "description": "A cobbled old mews lane behind Stockbridge, lined with flowers: with its church tower backdrop and begonia pots, the city's most graceful frame. A five-minute lane means a half-hour photo stop.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Circus+Lane+Edinburgh"
+        },
+        {
+          "rarity": "A village pub by a loch",
+          "name": "Duddingston and the Sheep Heid Inn",
+          "description": "A village hidden behind Arthur's Seat: its loch, its kirk, and a pub serving since 1360. Descend from the summit this way — a dram at the inn with its old skittle alley is the walk's earned reward.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sheep+Heid+Inn+Duddingston"
+        },
+        {
+          "rarity": "Riverside footpath",
+          "name": "The Water of Leith walkway",
+          "description": "The stream path that secretly crosses the city: from Dean Village to Stockbridge and on to the Botanic Garden, walking to the sound of water. The city's noise stays one level above — Edinburgh's hidden green corridor.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Water+of+Leith+Walkway"
+        },
+        {
+          "rarity": "The acropolis on the hill",
+          "name": "Calton Hill",
+          "description": "A ten-minute climb to the hill of monuments: the unfinished 'Parthenon', the observatory and the city's most famous panorama. Everyone comes at sunset, but the hill is wide — find your own stone and watch the light descend.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Calton+Hill+Edinburgh"
+        },
+        {
+          "rarity": "A book-scented refuge",
+          "name": "The Old Town's independent bookshops",
+          "description": "The second-hand bookshops around Grassmarket and Victoria Street: maps, old editions and Scottish poetry between the shelves. The best shelter when rain strikes — the rule that 'a dreich day is a bookshop day' is proven here.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Armchair+Books+Edinburgh"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Mist strategy",
+        "text": "Edinburgh's hidden corners pair with the weather: Calton Hill and Duddingston on clear days, bookshops and museums on dreich days, Dean Village on any day. Don't resent the sky — in this city every kind of weather has its own route."
+      }
+    },
+    "traps": {
+      "title": "Tourist Traps",
+      "intro": "Edinburgh is an honest city; its traps are small but classic — know these four and save the budget for a dram.",
+      "items": [
+        {
+          "icon": "🧣",
+          "name": "Mass-produced 'Scottish' cashmere and tartan",
+          "description": "In some Royal Mile windows, imported goods labeled 'Scottish cashmere' sell at hand-loom prices; the bagpipe loudspeaker doesn't change the label of origin.",
+          "instead": "Read the label: look for 'Made in Scotland' and choose the mill brands. For real tartan, go to an established shop that asks about clan patterns and sells by the meter — a merchant who tells the story knows the cloth."
+        },
+        {
+          "icon": "🎫",
+          "name": "The ticket queue at the castle gate",
+          "description": "Edinburgh Castle runs timed entry: arrive at the gate on a summer day and you meet either a long queue or the 'sold out' sign.",
+          "instead": "Buy a timed ticket from the official site days ahead; the first morning slot is best for calm and for views. To hear the One O'Clock Gun, be on the ramparts at 13:00."
+        },
+        {
+          "icon": "🏨",
+          "name": "Arriving in August at the last minute",
+          "description": "In festival month, room prices triple or quadruple and still sell out; late seekers get flung to the city's edge or over budget.",
+          "instead": "Lock the festival plan months ahead, or shift your visit to September: the same city at half the price with room to breathe. Early September's post-festival calm is Edinburgh's secret golden fortnight."
+        },
+        {
+          "icon": "👻",
+          "name": "Mediocre ghost tours",
+          "description": "Some graveyard and underground tours fill tickets with costumed jump-scares; the history is thin and the experience stays at funfair level.",
+          "instead": "Read reviews and pick small-group tours known for storytelling; alternatively, documented underground tours like the Real Mary King's Close frighten with history — a real shiver instead of a cheap jump-scare."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Golden rule",
+        "text": "In Edinburgh the most expensive things are tickets and August; the most precious things are free: the hills, the closes, the street music and the views. Save the money for one good dram, one good table and pre-booked tickets — collect the rest on foot."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Itineraries",
+      "intro": "If you hate planning, follow these flows. Times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "From castle to Calton Hill — a day of stories",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Full Scottish breakfast",
+              "description": "Take on the day with tattie scone and a slice of haggis: there are many slopes today, and fuel is essential."
+            },
+            {
+              "time": "09:30",
+              "title": "Edinburgh Castle",
+              "description": "Enter on the first timed slot: the crown room, the war memorial and the city from the ramparts. Be out before the One O'Clock Gun."
+            },
+            {
+              "time": "12:00",
+              "title": "The Royal Mile by its closes",
+              "description": "Walk the passages, not the main street: courtyards, views and St Giles' Cathedral. Pause among the colored facades of Victoria Street."
+            },
+            {
+              "time": "14:00",
+              "title": "Lunch and a museum",
+              "description": "Cullen skink or haggis around Grassmarket; then the roof terrace of the National Museum — free, with a view."
+            },
+            {
+              "time": "16:30",
+              "title": "Arthur's Seat or Calton Hill",
+              "description": "Choose by your energy: the 45-minute summit climb or the 10-minute hill of monuments. Both are generous at sunset."
+            },
+            {
+              "time": "19:30",
+              "title": "Pub evening and a dram",
+              "description": "Dinner by a pub fire, then a whisky flight: find your answer to 'peaty or sweet?' If there's live folk music, the night stretches on its own."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Two towns, hills and a harbor — the full Edinburgh",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Classic Edinburgh",
+              "description": "The 1-day flow above: breakfast, the castle, the closes, a museum, a summit view, a pub and a dram."
+            },
+            {
+              "time": "Day 2",
+              "title": "New Town and village corners",
+              "description": "Morning among the Georgian facades and Princes Street Gardens; coffee and shop-browsing in Stockbridge (street market if it's Sunday); afternoon at Dean Village + the Water of Leith walk to the Botanic Garden; evening photo at Circus Lane and a neighborhood bistro."
+            },
+            {
+              "time": "Day 3",
+              "title": "Summit and harbor",
+              "description": "Morning on Arthur's Seat, descending via Duddingston for lunch at the Sheep Heid Inn; tram to Leith in the afternoon — a waterfront walk and the Royal Yacht Britannia; farewell seafood dinner on The Shore + one last dram."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Word Survival Kit",
+      "intro": "Scottish English comes with its own dictionary; these five phrases melt the ice instantly in pub and street.",
+      "items": [
+        {
+          "word": "Aye",
+          "pronunciation": "eye",
+          "meaning": "Yes — short, clear and Scottish; you'll hear it a hundred times a day"
+        },
+        {
+          "word": "Wee",
+          "pronunciation": "wee",
+          "meaning": "Small, a little — 'a wee dram', 'a wee walk'; the endearing word that fits any sentence"
+        },
+        {
+          "word": "Bonnie",
+          "pronunciation": "BON-nee",
+          "meaning": "Beautiful, lovely — said of views and people alike; the 'bonnie Scotland' cliché is earned"
+        },
+        {
+          "word": "Slàinte mhath!",
+          "pronunciation": "SLAHN-juh vah",
+          "meaning": "Cheers! — Gaelic for 'good health'; said as the dram rises, and respected at the bar"
+        },
+        {
+          "word": "How's it gaun?",
+          "pronunciation": "howz it gone",
+          "meaning": "How's it going? — the Scottish 'what's up'; the answer is usually 'no bad'"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Edinburgh Checklist",
+      "completion_message": "Slàinte mhath! You've lived the city of mist and stories the way it deserves!",
+      "items": [
+        {
+          "label": "Tour the castle on a timed ticket",
+          "sub": "First morning slot — the city from the ramparts"
+        },
+        {
+          "label": "Turn into a close and find its courtyard",
+          "sub": "The hidden veins of the Royal Mile"
+        },
+        {
+          "label": "Climb to the summit of Arthur's Seat",
+          "sub": "45 minutes — the top of an extinct volcano"
+        },
+        {
+          "label": "Eat haggis with neeps and tatties",
+          "sub": "Try the whisky-sauce version"
+        },
+        {
+          "label": "Find your dram on a whisky flight",
+          "sub": "'Peaty or sweet?' — ask the bartender"
+        },
+        {
+          "label": "See the colored facades of Victoria Street",
+          "sub": "The inspiration for Diagon Alley"
+        },
+        {
+          "label": "Watch the sunset from Calton Hill",
+          "sub": "A ten-minute climb, among the monuments"
+        },
+        {
+          "label": "Walk down to Dean Village early",
+          "sub": "A medieval milling village inside the city"
+        },
+        {
+          "label": "Try fish and chips with chippy sauce",
+          "sub": "Answer 'aye' to 'salt and sauce?'"
+        },
+        {
+          "label": "Catch live folk music by a pub fire",
+          "sub": "The finest close to a dreich evening"
+        }
+      ]
+    }
+  }
+}

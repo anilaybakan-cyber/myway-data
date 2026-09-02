@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Porto",
+    "country": "Portekiz",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#1F6E9E",
+    "color_light": "#E6F1F8",
+    "tagline": "Azulejo mavisi, Douro'nun şarabı ve köprülerin şehri"
+  },
+  "pills": [
+    "Porto şarabının evi",
+    "Azulejo kaplı cepheler",
+    "Dünyanın en güzel kitapçılarından biri"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Porto'ya Hoş Geldin",
+      "intro": "Porto, Lizbon'un gölgesinde durmayı çoktan bıraktı: Douro nehrine kurulmuş bu granit şehir, mavi çinili kiliseleri, paslı güzellikte cepheleri ve nehrin karşısında sıralanan şarap mahzenleriyle kendi hikayesini anlatır. Ribeira'nın renkli evleri suya yaslanır, demir köprü Eyfel'in öğrencisinin imzasını taşır, martılar okyanus kokusunu şehre taşır. Porto cilalı değildir — ve tam da bu yüzden samimidir. Yokuşları çıkmayı göze al: her tepenin ödülü bir manzara, her inişin sonu bir şarap kadehi.",
+      "local_word": {
+        "word": "Tripeiro",
+        "pronunciation": "tripeyru",
+        "definition": "Porto'lunun lakabı: 'işkembeci'. Efsaneye göre şehir, denize açılan kaşiflere bütün etini verip kendine işkembeyi sakladı. Porto'lu bu adı gururla taşır — fedakarlığın ve dik başlılığın nişanıdır."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Yokuşa saygı, rahat ayakkabı",
+          "description": "Porto dik bir şehirdir: nehirden katedrale çıkmak küçük bir tırmanıştır ve kaldırım taşları yağmurda kayar. Spor ayakkabı giy, yokuşları mola bahanesi say — her durakta ya bir kafe ya bir manzara var."
+        },
+        {
+          "number": 2,
+          "title": "Porto şarabı ritüeli karşı kıyıda",
+          "description": "Şarap mahzenleri Porto'da değil, nehrin karşısındaki Vila Nova de Gaia'dadır. Köprünün üst katından yürüyerek geç, bir mahzen turu al ve tadımı gün batımına denk getir — nehir manzarası kadehe dahildir."
+        },
+        {
+          "number": 3,
+          "title": "Francesinha bir öğündür, hafife alma",
+          "description": "Şehrin efsane sandviçi et, sosis, jambon, peynir ve bira soslu bir anıttır: yanında patates, üstünde yumurta. Öğlen ye, akşamı boş bırak — Tripeiro'lar bile günde bir tane sınırını korur."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Francisco Sá Carneiro (OPO)",
+          "sub": "Metro E hattıyla merkez ~30 dk"
+        },
+        {
+          "icon": "🚋",
+          "label": "Şehir içi",
+          "value": "Yayan + metro + tramvay",
+          "sub": "Andante kartı tüm ağda geçer"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Portekizce",
+          "sub": "İngilizce turistik bölgede yaygın"
+        },
+        {
+          "icon": "🍷",
+          "label": "İmza",
+          "value": "Porto şarabı",
+          "sub": "Mahzenler Gaia yakasında"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Porto felsefesi",
+        "text": "Porto'da plan nehirle kurulur: sabah yukarı şehir, öğlen nehir kıyısı, akşam karşı yaka. Ne yöne gidersen git sonunda Douro'ya inersin — şehir öyle tasarlanmış."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Merkez yürünür ama yokuşludur; metro modern, tarihi tramvay keyif içindir ve funikülerler dizlerin dostudur.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından merkeze",
+          "description": "Metro E (mor) hattı yarım saatte Trindade'ye iner: Andante kartını otomattan al, doldur, bütün ağda kullan. Taksi sabit tarifeye yakındır ama metro dururken gereksiz."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro ve Andante kartı",
+          "description": "Altı hatlı temiz bir ağ: Casa da Música, Trindade ve São Bento düğüm noktalarıdır. Aynı kart tramvay ve otobüste de geçer — bölge (zone) sistemine dikkat, çoğu gezi Z2 içindedir."
+        },
+        {
+          "icon": "🚋",
+          "title": "1 numaralı tarihi tramvay",
+          "description": "Ahşap tramvay nehir boyunca Ribeira'dan okyanus ağzındaki Foz'a gider: Porto'nun en güzel yarım saatlik yolculuğu. Nostalji ücreti normal biletten yüksektir — manzara karşılığını verir."
+        },
+        {
+          "icon": "🚠",
+          "title": "Funikülerler ve teleferik",
+          "description": "Guindais funiküleri Ribeira'dan yukarı şehre bir dakikada çıkarır; Gaia teleferiği mahzen bölgesini köprü üstüne bağlar. İkisi de kısa, ikisi de manzaralı — dizlerini koru."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yayan — köprü ve kıyılar",
+          "description": "Dom Luís I köprüsünün üst katı yayalarındır: iki yaka arası en iyi yürüyüş. Ribeira rıhtımı, Gaia kıyısı ve Miradouro'lar arasında şehir, ayakla çözülür."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Köprü tüyosu",
+        "text": "Dom Luís I'in üst katını iki kez geç: gündüz Gaia yönüne (mahzenlere inerken), akşam Porto yönüne (şehir ışıkları yanarken). Aynı köprü, iki bambaşka fotoğraf."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Porto'da yaka ve yükseklik seçimi her şeydir: nehre sıfır Ribeira, şehrin kalbi Baixa, sanatçı Cedofeita, okyanus kenarı Foz.",
+      "local_word": {
+        "word": "Azulejo",
+        "pronunciation": "azuleju",
+        "definition": "Portekiz'in mavi-beyaz çini sanatı: Porto'da kiliseler, garlar ve sıradan apartmanlar bu çinilerle kaplıdır. São Bento garının holü 20 bin çiniyle bir müzedir — kaldığın sokakta bile mutlaka birkaç cephe bulursun."
+      },
+      "items": [
+        {
+          "name": "Ribeira",
+          "badge": "En ikonik",
+          "badge_type": "vibe",
+          "description": "Nehre yaslanan renkli evlerin UNESCO mahallesi: köprü manzarası, rıhtım kafeleri, sokak müzisyenleri. Turist yoğunluğu ve yokuşlar pazarlığın parçası — ilk ziyaretin klasiği.",
+          "tags": [
+            "Nehir manzarası",
+            "UNESCO dokusu",
+            "Turist yoğun"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ribeira+Porto"
+        },
+        {
+          "name": "Baixa (Aliados çevresi)",
+          "badge": "En merkezi",
+          "badge_type": "value",
+          "description": "Görkemli Aliados bulvarı, São Bento garı ve alışveriş sokakları: her yere yürüme, her bütçeye otel. Şehrin günlük hayatıyla turist rotasının kesiştiği pratik merkez.",
+          "tags": [
+            "Her yere yürüme",
+            "Otel yelpazesi",
+            "Gar yakını"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Avenida+dos+Aliados+Porto"
+        },
+        {
+          "name": "Cedofeita ve sanat bölgesi",
+          "badge": "En yaratıcı",
+          "badge_type": "hot",
+          "description": "Galeri sokağı Miguel Bombarda'nın çevresi: konsept dükkanlar, brunch kafeleri, genç Porto. Merkeze on dakika, ruhu mahalle — tasarım pansiyonların bölgesi.",
+          "tags": [
+            "Galeri sokağı",
+            "Brunch kafeleri",
+            "Genç enerji"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rua+Miguel+Bombarda+Porto"
+        },
+        {
+          "name": "Vila Nova de Gaia kıyısı",
+          "badge": "Manzara yakası",
+          "badge_type": "local",
+          "description": "Mahzenlerin ve nehir teraslarının yakası: penceren Porto silüetine bakar, şarap evleri kapı komşundur. Akşamları Porto'dan sakin — manzara fotoğrafçısının üssü.",
+          "tags": [
+            "Porto silüeti",
+            "Mahzen komşuluğu",
+            "Sakin akşamlar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vila+Nova+de+Gaia+waterfront"
+        },
+        {
+          "name": "Foz do Douro",
+          "badge": "Okyanus kenarı",
+          "badge_type": "value",
+          "description": "Nehrin okyanusla buluştuğu zarif sahil semti: deniz feneri, kordon yürüyüşü, sahil kafeleri. Merkeze tramvayla yarım saat — şehir + okyanus dengesi arayana.",
+          "tags": [
+            "Okyanus kordonu",
+            "Sahil kafeleri",
+            "Tramvayla merkez"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Foz+do+Douro+Porto"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Atlantik'in şehrinde hava kaprisli, ışık her zaman güzeldir: bahar ve eylül altın, haziran festival, kış yeşil ve sakindir.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Açık Hava Başlangıcı",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Teraslar, nehir esintisi",
+          "description": "Yağmurlar seyrekleşir, rıhtım kafeleri masalarını çıkarır, Douro vadisi yeşilin en parlağına döner. Kalabalık henüz yaz seviyesinde değil — yürüyüş ve tadım için ideal denge.",
+          "callout": {
+            "type": "tip",
+            "label": "Mayıs ipucu",
+            "text": "Mayısta Douro vadisine günübirlik tren yolculuğu yap: Régua hattı nehir kıyısından gider, bağlar taze yeşilken vagon penceresi tablodur. Dönüşte Gaia'da tadımla kapat."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "São João Coşkusu",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Festival, okyanus serinliği, dolu rıhtım",
+          "description": "23-24 Haziran São João gecesi şehir tek bir sokak partisine döner: plastik çekiçler, ızgara sardalya, havai fişek. Temmuz-ağustos sıcak ama Atlantik esintisi Porto'yu Lizbon'dan serin tutar.",
+          "callout": {
+            "type": "tip",
+            "label": "São João ipucu",
+            "text": "São João gecesindeysen plana direnme: eline plastik çekiç al, kafana vurulmasına gülümse, sardalya dumanını takip et. Sabaha karşı Foz sahilinde güneş doğuşuyla bitirmek gelenektir."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Bağbozumu Işığı",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Hasat sezonu, altın nehir",
+          "description": "Eylül Douro'da bağbozumu ayıdır: vadi turları hasat coşkusuyla dolar, şehir hâlâ sıcaktır. Ekim-kasımda yağmur döner ama nehir üstü sisli sabahlar şehrin en fotojenik halidir.",
+          "callout": {
+            "type": "tip",
+            "label": "Eylül ipucu",
+            "text": "Bağbozumu döneminde bazı Douro quintaları üzüm ezme etkinliklerine misafir alır: ayakların mora boyanır, hikayen ömürlük olur. Vadiye trenle git, dönüşü tekneyle planla."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Yeşil ve Sakin",
+          "months": "Ara – Mar",
+          "subtitle": "Kış · Yağmur, boş sokaklar, mahzen sıcaklığı",
+          "description": "Atlantik yağmuru şehri yıkar ama fiyatlar düşer, sokaklar yerlilere kalır ve mahzen turları mevsim tanımaz. Yağmur arası açan güneşte granit sokaklar parlar — fotoğrafçının kışı.",
+          "callout": {
+            "type": "tip",
+            "label": "Ocak ipucu",
+            "text": "Yağmurlu günü kapalı mekan zincirine çevir: Lello kitabevi (sabah ilk saat), São Bento çinileri, mahzen turu ve fado gecesi. Porto'nun kışı, doğru sırayla gezene yaz kadar doludur."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Porto mutfağı işçi sınıfının cömertliğiyle kurulmuş: porsiyonlar büyük, tabaklar dürüst, şarap hep masada.",
+      "local_word": {
+        "word": "Francesinha",
+        "pronunciation": "fransezinya",
+        "definition": "'Küçük Fransız kızı': et, sosis ve jambon katmanlarını eritilmiş peynirle örten, bira-domates sosuna oturan Porto sandviçi. Adı zarif, kendisi anıtsaldır — her Tripeiro'nun bir 'en iyi francesinha' adresi ve bu konuda bitmeyen bir tartışması vardır."
+      },
+      "items": [
+        {
+          "icon": "🥪",
+          "name": "Francesinha — şehrin anıtı",
+          "description": "Katmanlı et sandviçi, eritilmiş peynir örtüsü ve meşhur sos: her mekanın sos tarifi sırdır. Yanında patates, cesaretin varsa üstüne yumurta — öğlen ye, akşamı iptal et.",
+          "tag": "Öğlen görevi · sos tarifi sırdır",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+Santiago+Porto"
+        },
+        {
+          "icon": "🐟",
+          "name": "Bacalhau ve ızgara sardalya",
+          "description": "Tuzlanmış morina (bacalhau) Portekiz'in milli tutkusudur: à Brás ya da com natas halleriyle her menüde. Yazın ızgara sardalya kokusu sokakları tutar — ekmek üstünde, elle ye.",
+          "tag": "Milli klasik · yazın sardalya",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+de+Pasto+Porto+bacalhau"
+        },
+        {
+          "icon": "🥩",
+          "name": "Tripas à moda do Porto",
+          "description": "Şehre adını veren tabak: işkembe, beyaz fasulye ve sucukla ağır ateşte pişen efsane. Turistik değil, tarihi bir deneyim — cesur damaklara Tripeiro nişanı.",
+          "tag": "Cesurlara · şehrin adı bu tabaktan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurante+Tripeiro+Porto"
+        },
+        {
+          "icon": "🧁",
+          "name": "Pastel de nata + galão",
+          "description": "Fırından sıcak çıkmış muhallebi tartı, üstüne tarçın, yanına sütlü kahve (galão): Porto sabahının açılış seremonisi. Vitrindeki sarıya değil, fırından çıkış saatine bak.",
+          "tag": "Sabah ritüeli · sıcakken",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Manteigaria+Porto"
+        },
+        {
+          "icon": "🍷",
+          "name": "Porto şarabı tadımı — Gaia mahzenleri",
+          "description": "Tawny, Ruby, Vintage: karşı yakanın mahzenlerinde yüzyıllık fıçılar arasında tadım. Küçük aile mahzenleri büyük markalardan daha sakin ve cömerttir — sorarak seç.",
+          "tag": "Gaia yakasında · gün batımına denk getir",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vila+Nova+de+Gaia+wine+cellars"
+        },
+        {
+          "icon": "🥘",
+          "name": "Bolhão pazarı ve petiscos",
+          "description": "Yenilenen tarihi pazarda peynir, zeytin, füme et tezgahları ve ayaküstü tadımlar: Portekiz'in tapas'ı petiscos kültürünün kalbi. Öğle öncesi git, tezgahtarla sohbeti eksik etme.",
+          "tag": "Tarihi pazarda · tezgah sohbetiyle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercado+do+Bolhão+Porto"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Şarap tüyosu",
+        "text": "Porto şarabını tatlı likör sanma: kuru beyaz Porto + tonik, şehrin yaz aperatifidir ve çoğu turistin hiç duymadığı yerel bir klasiktir. Mahzen tadımında 'dry white' iste — önyargın orada kırılır."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Lello'yu herkes bilir; bu altısı Porto'nun perde arkası.",
+      "items": [
+        {
+          "rarity": "Şehrin en iyi ücretsiz manzarası",
+          "name": "Miradouro da Vitória",
+          "description": "Yahudi mahallesinin dar sokaklarının ucundaki terastan katedral, nehir ve Gaia mahzenleri tek karededir: gün batımında yerel gençlik elinde birayla toplanır. Ücretsiz, kalabalıksız, unutulmaz.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Miradouro+da+Vitória+Porto"
+        },
+        {
+          "rarity": "Çinili katedral holü",
+          "name": "São Bento garı",
+          "description": "Tren garının holü 20 bin azulejo ile Portekiz tarihini anlatır: savaşlar, düğünler, hasatlar. Tren bileti gerekmez — sabah erken git, holü boşken gör. Şehrin en güzel 'bekleme salonu'.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=São+Bento+Station+Porto"
+        },
+        {
+          "rarity": "Kilise cephesinde mavi şelale",
+          "name": "Capela das Almas",
+          "description": "Santa Catarina alışveriş caddesinin ortasında baştan aşağı çini kaplı şapel: mavi-beyaz cephe, azulejo sanatının sokak ortasındaki zirvesidir. İçi küçük, dışı ikonik — sabah ışığında çek.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Capela+das+Almas+Porto"
+        },
+        {
+          "rarity": "Kristal saray bahçeleri",
+          "name": "Jardins do Palácio de Cristal",
+          "description": "Nehre teras teras inen bahçeler: tavus kuşları, manolyalar ve her köşede başka bir Douro manzarası. Piknik ve gün batımı için şehrin en cömert yeşil alanı.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jardins+do+Palácio+de+Cristal+Porto"
+        },
+        {
+          "rarity": "Konser binasında akustik turu",
+          "name": "Casa da Música",
+          "description": "Koolhaas'ın beton elması şehrin çağdaş simgesidir: rehberli turla sahne arkasına ve VIP çinili odaya girilir. Akşam konser biletleri çoğu zaman şaşırtıcı ucuzdur — programa bak.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+da+Música+Porto"
+        },
+        {
+          "rarity": "Okyanusla nehrin buluşması",
+          "name": "Foz feneri ve kordon",
+          "description": "1 numaralı tramvayla nehir ağzına: Felgueiras fenerinde dalgalar taşları döver, kordon kafeleri okyanusa bakar. Fırtınalı günde dalga gösterisi, sakin günde gün batımı klasiği.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Farol+de+Felgueiras+Porto"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Lello tüyosu",
+        "text": "Lello kitabevine gireceksen biletini online al ve açılış saatinde kapıda ol: ilk yarım saat fotoğraf çekilebilen tek dilimdir. Bilet ücreti kitap alışverişinden düşülür — hediyeni oradan seç."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Porto misafirperverdir; tuzakları küçüktür ama bilenin bütçesi ve zamanı kazanır.",
+      "items": [
+        {
+          "icon": "📚",
+          "name": "Lello kuyruğunda öğlen kaybetmek",
+          "description": "Gün ortasında kitabevi kuyruğu saati bulur ve içerisi metro yoğunluğuna döner: meşhur merdiven kalabalıktan görünmez.",
+          "instead": "Açılışta ya da kapanışa yakın git, biletini önceden al. Kalabalık saatteysen vazgeç — São Bento çinileri ve Vitória manzarası aynı hazzı kuyruksuz verir."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Ribeira rıhtımında akşam yemeği",
+          "description": "Nehir kenarı masaların menüsü manzara vergilidir: donuk bacalhau, turist fiyatı.",
+          "instead": "Rıhtımda sadece kadeh şarap iç; yemeği iki sokak yukarıda ya da Baixa'nın tasca'larında ye. Aynı nehir manzarası Gaia yakasında çoğu zaman daha uygun fiyatlıdır."
+        },
+        {
+          "icon": "🍷",
+          "name": "İlk mahzene girmek",
+          "description": "Köprü çıkışındaki en büyük markalar kalabalık tur gruplarıyla çalışır: tadım aceleye gelir, fiyat markaya ödenir.",
+          "instead": "Yokuş yukarı beş dakika yürü: küçük aile mahzenlerinde rehber sana zaman ayırır, tadım kadehi daha cömerttir. Rezervasyonu sabah yap, tadımı gün batımına al."
+        },
+        {
+          "icon": "🚕",
+          "name": "Kısa mesafeye tuk-tuk turu",
+          "description": "Meydanlarda bekleyen tuk-tuk'lar yürüyerek 15 dakikalık rotayı tur fiyatına satar.",
+          "instead": "Merkez zaten yayan gezilir; dik yokuşlar için funiküler ve teleferik var. Tuk-tuk'a binmek istiyorsan Foz gün batımı turu gibi gerçek mesafeli rota seç, fiyatı önceden netleştir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Porto'da nehre bakan her masa manzara vergisi keser; en iyi manzaralar ise ücretsizdir — köprü üstü, miradouro'lar, Gaia rıhtımı. Manzarayı bedavaya izle, parayı şaraba ve fırına harca."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Çiniden şaraba, iki yakalı bir gün",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "São Bento + pastel de nata",
+              "description": "Garın çinili holünü sabah boşken gör; köşedeki fırında sıcak nata + galão ile güne başla."
+            },
+            {
+              "time": "10:00",
+              "title": "Katedral ve yukarı şehir",
+              "description": "Sé katedralinin terasından ilk nehir manzarası; dar sokaklardan Vitória miradouro'suna inerek şehri yukarıdan tanı."
+            },
+            {
+              "time": "12:30",
+              "title": "Francesinha görevi",
+              "description": "Öğlen şehrin anıt sandviçiyle yüzleş: sosuna ekmek banmak serbest. Sonrasında yürüyüş şart — plan zaten öyle kurulu."
+            },
+            {
+              "time": "14:30",
+              "title": "Ribeira ve köprü geçişi",
+              "description": "Renkli rıhtımda kahve, sonra Dom Luís I'in üst katından Gaia'ya yürü: nehir ayaklarının altında, silüet karşında."
+            },
+            {
+              "time": "16:00",
+              "title": "Mahzen tadımı",
+              "description": "Küçük bir aile mahzeninde tur + tadım: Tawny ile başla, dry white ile şaşır. Çıkışta Gaia rıhtımında gün batımı yerini kap."
+            },
+            {
+              "time": "20:00",
+              "title": "Akşam Baixa'da",
+              "description": "Tasca'da bacalhau ya da petiscos turu; sonrası Galerias de Paris sokağının barları — Porto gecesi mütevazı başlar, geç biter."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehir, okyanus ve vadi — üç Porto",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Porto",
+              "description": "Yukarıdaki 1 günlük akış: São Bento, katedral, francesinha, köprü, mahzen."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Sanat ve okyanus",
+              "description": "Sabah Lello (açılış saati) ve Carmo çinileri; öğlen Cedofeita galerileri + Bolhão pazarı; öğleden sonra 1 numaralı tramvayla Foz — fener, kordon ve okyanus gün batımı."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Douro vadisi",
+              "description": "Sabah trenle Pinhão ya da Régua'ya: bağ terasları, quinta tadımı, nehir tekne turu; akşam Porto'ya dönüş ve Vitória'da veda manzarası."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Portekizce'nin Porto aksanı gırtlaktan ve samimidir; bu beşi kapıları ve fırın tezgahlarını açar.",
+      "items": [
+        {
+          "word": "Olá / Bom dia",
+          "pronunciation": "ola / bon diya",
+          "meaning": "Merhaba / günaydın — her diyalogun zorunlu açılışı"
+        },
+        {
+          "word": "Obrigado / Obrigada",
+          "pronunciation": "obrigadu / obrigada",
+          "meaning": "Teşekkürler — söyleyen erkekse -o, kadınsa -a"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "pur favor",
+          "meaning": "Lütfen — 'se faz favor' Porto'da daha yerlidir"
+        },
+        {
+          "word": "Saúde!",
+          "pronunciation": "saud",
+          "meaning": "Şerefe! — kadehler Porto şarabıyla kalkarken"
+        },
+        {
+          "word": "Fixe",
+          "pronunciation": "fiş",
+          "meaning": "'Harika, süper' — gençlerin her cümleye sığdırdığı onay kelimesi"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Porto Checklist",
+      "completion_message": "Saúde! Porto'yu iki yakasıyla yaşadın!",
+      "items": [
+        {
+          "label": "Dom Luís I'in üst katından yürü",
+          "sub": "Gündüz bir yöne, akşam öbürüne"
+        },
+        {
+          "label": "São Bento'nun çinili holünde dur",
+          "sub": "20 bin azulejo — sabah boşken"
+        },
+        {
+          "label": "Gaia mahzeninde Porto tat",
+          "sub": "Tawny ile başla, dry white ile şaşır"
+        },
+        {
+          "label": "Francesinha'yı bitir",
+          "sub": "Günde bir tane — Tripeiro kuralı"
+        },
+        {
+          "label": "Miradouro da Vitória'da gün batımı",
+          "sub": "Ücretsiz, kalabalıksız, unutulmaz"
+        },
+        {
+          "label": "1 numaralı tramvayla Foz'a git",
+          "sub": "Nehirden okyanusa yarım saat"
+        },
+        {
+          "label": "Sıcak pastel de nata + galão iç",
+          "sub": "Fırından çıkış saatini kolla"
+        },
+        {
+          "label": "Capela das Almas'ı fotoğrafla",
+          "sub": "Mavi çini şelalesi — sabah ışığında"
+        },
+        {
+          "label": "Bolhão pazarında petiscos tat",
+          "sub": "Tezgahtar sohbeti dahil"
+        },
+        {
+          "label": "Douro vadisine uzan",
+          "sub": "Trenle bağlara — bir gün ayır"
+        }
+      ]
+    }
+  }
+}

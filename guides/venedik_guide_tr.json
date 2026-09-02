@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Venedik",
+    "country": "İtalya",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#8E3B46",
+    "color_light": "#F6EAEC",
+    "tagline": "Suyun üstüne kurulmuş imkansız şehir: kaybol, bir ombra iç, tekrar kaybol"
+  },
+  "pills": [
+    "Kaybolmak rota sayılır",
+    "Cicchetti + ombra: Venedik'in tapas saati",
+    "San Marco'dan iki köprü öte, başka bir şehir"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Venedik'e Hoş Geldin",
+      "intro": "Venedik hakkında duyduğun her şey doğru: evet kalabalık, evet pahalı, evet bazen ayağını su basıyor. Ve evet — dünyada bir eşi daha yok. Yüz on sekiz adanın üstüne kurulmuş bu imkansız şehirde araba yoktur, acele işlemez, haritalar yalan söyler. Marifet San Marco'yu görmek değil, ondan iki köprü uzaklaşıp sessiz bir kanalda kaybolmaktır: orada çamaşırlar sallanır, gondol tamircisi çalışır ve Venedik hâlâ yaşar.",
+      "local_word": {
+        "word": "Ombra",
+        "pronunciation": "ombra",
+        "definition": "'Gölge': Venedik dilinde bir kadeh şarap demektir — vaktiyle şarapçılar tezgahı çan kulesinin gölgesine göre taşırmış. 'Un'ombra e due cicchetti' diyebiliyorsan bu şehirde turist değil, müdavimsin."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Kaybolmayı plan say",
+          "description": "Venedik'te navigasyon şaşırır, sokaklar çıkmaza döner, köprüler seni başka adaya atar. Direnme: şehrin en iyi anları yanlış sokaklarda yaşanır. Sadece son vaporetto saatini bil, gerisini suya bırak."
+        },
+        {
+          "number": 2,
+          "title": "Vaporetto hesabını baştan yap",
+          "description": "Tek biniş pahalıdır; 24/48/72 saatlik geçiş kartları birkaç binişte kendini öder. Kalış süreni düşün, kartı ilk gün al — Murano, Burano ve Giudecca da aynı karta dahildir."
+        },
+        {
+          "number": 3,
+          "title": "Giriş ücretini ve acqua alta'yı kontrol et",
+          "description": "Yoğun günlerde günübirlik ziyaretçiden giriş katkısı (contributo d'accesso) alınabiliyor; konaklayanlar muaf ama kayıt gerekebilir. Sonbahar-kış gidiyorsan acqua alta (gelgit baskını) uygulamasını indir, su çekilene kadar bir bacaro'ya sığın."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚆",
+          "label": "Ulaşım",
+          "value": "Santa Lucia garı",
+          "sub": "Tren şehrin içine, suyun kenarına iner"
+        },
+        {
+          "icon": "🚤",
+          "label": "Şehir içi",
+          "value": "Yürüyüş + vaporetto",
+          "sub": "Araba yok, tekerlek işlemez"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "İtalyanca",
+          "sub": "Venedik lehçesi sokakta yaşıyor"
+        },
+        {
+          "icon": "🛶",
+          "label": "İmza",
+          "value": "Kanallar ve gondollar",
+          "sub": "118 ada, 400'den fazla köprü"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Venedik felsefesi",
+        "text": "Venedik'te saat 18'de sihir gerçekleşir: günübirlikçiler gemilere ve trenlere döner, şehir nefes alır. Akşam ve sabah Venedik'i konaklayanların ödülüdür — en az bir gece kal."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Venedik'te iki ulaşım aracı vardır: ayakların ve tekneler. İkisi de acele sevmez.",
+      "items": [
+        {
+          "icon": "🚆",
+          "title": "Varış — Santa Lucia ve Marco Polo",
+          "description": "Tren Santa Lucia garında doğrudan Canal Grande'ye iner — dünyanın en iyi gar çıkışı. Havalimanından Alilaguna teknesi ya da otobüsle Piazzale Roma'ya; oradan öteye tekerlek geçmez."
+        },
+        {
+          "icon": "🚤",
+          "title": "Vaporetto — su otobüsü",
+          "description": "1 numara Canal Grande'yi durak durak gezer (başlı başına tur sayılır); 2 numara hızlı hattır. Geçiş kartıyla bin, adalara da aynı kartla açıl."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürüyüş — asıl ulaşım",
+          "description": "Şehir uçtan uca bir saatte yürünür; köprü merdivenleri bavulun düşmanıdır. Sarı 'Per San Marco / Per Rialto' tabelaları kaba pusuladır — gerisi keyifli sapmalardır."
+        },
+        {
+          "icon": "🛶",
+          "title": "Traghetto — halk gondolu",
+          "description": "Canal Grande'yi köprüsüz noktalarda karşıya geçiren paylaşımlı gondol: birkaç euroya iki dakikalık gerçek gondol deneyimi. Yerliler ayakta geçer; sen tutunmayı seç."
+        },
+        {
+          "icon": "🚕",
+          "title": "Su taksisi — bilinçli lüks",
+          "description": "Şık, hızlı ve pahalı: havalimanı-otel arası konforun bedeli yüksektir. Grupla bölüşülürse mantıklı; yoksa vaporetto her işi görür."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bavul tüyosu",
+        "text": "Otelini gara ya da vaporetto durağına yakın seç ya da az eşyayla gel: Venedik'te her köprü, bavulun için bir merdiven demektir."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Venedik'te mahalle (sestiere) seçimi, şehri sahne önünden mi kulisten mi izleyeceğini belirler.",
+      "local_word": {
+        "word": "Sestiere",
+        "pronunciation": "sestiyere",
+        "definition": "Venedik'in altı tarihi mahallesinden her biri: 'altıda bir' demektir. Adresler sokakla değil sestiere + kapı numarasıyla yazılır — şehir kendi kurallarıyla yaşar."
+      },
+      "items": [
+        {
+          "name": "San Marco",
+          "badge": "En ikonik",
+          "badge_type": "vibe",
+          "description": "Meydanın, bazilikanın ve lüks vitrinlerin sestiere'si: her şeyin merkezi, her şeyin en pahalısı. Gündüz insan seli, gece şaşırtıcı sessizlik — bütçen varsa sahnenin ortasında uyu.",
+          "tags": [
+            "Meydana komşu",
+            "Gece sessizliği",
+            "Lüks vitrinler"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Marco+Venice"
+        },
+        {
+          "name": "Cannaregio",
+          "badge": "En yerel",
+          "badge_type": "local",
+          "description": "Garın arkasından eski Ghetto'ya uzanan, yerlisi bol sestiere: bacaro sokakları (Fondamenta della Misericordia), makul fiyatlar, gerçek mahalle hayatı. Akıllı gezginin klasik tercihi.",
+          "tags": [
+            "Bacaro sokakları",
+            "Yerli hayat",
+            "Fiyat dengesi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cannaregio+Venice"
+        },
+        {
+          "name": "Dorsoduro",
+          "badge": "En sanatlı",
+          "badge_type": "hot",
+          "description": "Akademi, Guggenheim ve öğrenci meydanlarıyla güney yakası: gündüz sanat, akşam Campo Santa Margherita'da spritz. Zattere rıhtımında günbatımı yürüyüşü mahallenin hediyesi.",
+          "tags": [
+            "Müze yoğunluğu",
+            "Öğrenci enerjisi",
+            "Zattere rıhtımı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dorsoduro+Venice"
+        },
+        {
+          "name": "San Polo / Santa Croce",
+          "badge": "En merkezi denge",
+          "badge_type": "value",
+          "description": "Rialto pazarının ve dar kanalların yakası: her yere orta mesafe, turist yoğunluğu değişken. Pazar sabahı balık tezgahlarının sesiyle uyanmak isteyene.",
+          "tags": [
+            "Rialto pazarı",
+            "Orta mesafeler",
+            "Kanal manzaraları"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Polo+Venice"
+        },
+        {
+          "name": "Giudecca",
+          "badge": "En sakin",
+          "badge_type": "value",
+          "description": "Kanalın karşısındaki uzun ada: San Marco silüetine cepheden bakış, mahalle sessizliği ve vaporettoyla beş dakikalık mesafe. Kalabalıktan uzak uyuyup şehre 'gidip gelmek' isteyene.",
+          "tags": [
+            "Silüet manzarası",
+            "Ada sakinliği",
+            "Vaporettoyla bağlı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Giudecca+Venice"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Venedik'in takvimi kalabalık ve suyla yazılır: karnaval coşkusu, yaz izdihamı, sonbahar gelgiti, kış sisi.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Işıklı Lagün",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Berrak ışık, uzun günler",
+          "description": "Lagün ışığı ressam kıvamına gelir, adalar (Burano, Torcello) rengarenk açılır. Kalabalık artar ama yönetilebilir; sabah erken ve akşam geç formülü tam çalışır.",
+          "callout": {
+            "type": "tip",
+            "label": "Mayıs ipucu",
+            "text": "Çift yıllarda Sanat Bienali mayısta açılır: şehir dev bir galeriye döner, Arsenale ve Giardini'yi programa ekle."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Zirve ve Redentore",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Sıcak, kalabalık, havai fişek",
+          "description": "Dar sokaklarda nem ve insan seli birleşir; ama temmuzun üçüncü hafta sonundaki Redentore gecesi — kayıklar, sofralar ve lagün üstünde havai fişek — Venedik'in en Venedikli gecesidir.",
+          "callout": {
+            "type": "warning",
+            "label": "Yaz uyarısı",
+            "text": "Öğlen saatlerinde San Marco-Rialto hattına girme; o saatleri Dorsoduro'nun gölgeli kanallarına ya da adalara sakla."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Altın Sis ve Gelgit",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Yumuşak ışık, acqua alta başlangıcı",
+          "description": "Eylül Regata Storica ile açılır, ekim ışığı fotoğrafçı rüyasıdır; kasımda acqua alta ihtimali artar — botlar ve yükseltilmiş platformlarla şehir yoluna devam eder.",
+          "callout": {
+            "type": "tip",
+            "label": "Acqua alta ipucu",
+            "text": "Gelgit uyarısı gelirse panik yok: birkaç saatlik iştir. Platformlardan yürü, çizme al ya da en iyisi — bir bacaro'ya otur, suyun çekilmesini ombra ile bekle."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Sis ve Karnaval",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Boş kanallar, maskeli şubat",
+          "description": "Aralık-ocak sisli, soğuk ve neredeyse turistsizdir — Venedik'in en gizemli hali. Şubatta ise Karnaval patlar: maskeler, pelerinler ve iki hafta süren kostümlü rüya.",
+          "callout": {
+            "type": "warning",
+            "label": "Karnaval notu",
+            "text": "Karnaval haftalarında oteller yılın zirvesine çıkar; maskeli baloya katılmayacaksan karnavalın ilk günlerini seç — kostüm bol, izdiham az."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Venedik'te iyi yemek turist rotasının bir sokak arkasında saklanır ve çoğu zaman ayakta, kadeh eşliğinde yenir.",
+      "local_word": {
+        "word": "Bacaro",
+        "pronunciation": "bakaro",
+        "definition": "Venedik'in meyhane-barı: tezgahta cicchetti (küçük lokmalar), elde ombra, ayakta sohbet. Bacaro turu (giro di ombre) bu şehrin en eski ve en keyifli 'yemek turudur'."
+      },
+      "items": [
+        {
+          "icon": "🍢",
+          "name": "Cicchetti — tezgah lokmaları",
+          "description": "Kızarmış ekmek üstünde baccalà, sarımsaklı karides, dolma ahtapot: bacaro tezgahının renkli ordusu. İki-üç lokma + bir ombra, sonra sıradaki bacaro — tur böyle yapılır.",
+          "tag": "Bacaro turu · ayakta",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=All%27Arco+Venice"
+        },
+        {
+          "icon": "🐟",
+          "name": "Sarde in saor",
+          "description": "Tatlı-ekşi soğanlı, kuş üzümlü, çam fıstıklı sardalya: denizci mutfağının asırlık mirası. Soğuk servis edilir, karakteri sıcaktır.",
+          "tag": "Venedik klasiği · soğuk meze",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cantina+Do+Spade+Venice"
+        },
+        {
+          "icon": "🥖",
+          "name": "Baccalà mantecato",
+          "description": "Çırpılmış morina ezmesi: ipeksi, sarımsaklı, kızarmış polenta üstünde. Venedik'in en zarif basit yemeği — her bacaro'nun gururu.",
+          "tag": "Polenta üstünde · her bacaro'da",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria+al+Portego+Venice"
+        },
+        {
+          "icon": "🦑",
+          "name": "Risotto al nero di seppia",
+          "description": "Mürekkep balığının karasıyla boyanmış risotto: dişleri boyar, damağı fetheder. Lagün mutfağının imza tabağı; iyi yapan yer, iyi yer demektir.",
+          "tag": "İmza tabak · dişler karalanır",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria+alle+Testiere+Venice"
+        },
+        {
+          "icon": "🍤",
+          "name": "Fritto misto — külahta",
+          "description": "Karides, kalamar ve mevsim balığının çıtır karışımı kağıt külahta: kanal kenarında yürürken yenen sokak klasiği.",
+          "tag": "Külahta sokak hali · sıcakken",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Acqua+e+Mais+Venice"
+        },
+        {
+          "icon": "🍹",
+          "name": "Spritz — Select ile",
+          "description": "Aperol herkesin, Select Venedik'indir: koyu kırmızı, hafif buruk, zeytinli servis. Saat 18 spritz saatidir — meydan kenarında, güneşe karşı.",
+          "tag": "Venedik usulü · Select iste",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Campo+Santa+Margherita+Venice"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bacaro kuralı",
+        "text": "İyi bacaro'nun işareti: tezgah kalabalık, cicchetti tazelenmiş, fiyat listesi duvarda. 'Turist menüsü 19.90' tabelası gördüğün an bir sokak ilerle — Venedik'te bir sokak her şeyi değiştirir."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Venedik'te 'gizli' göreceli bir kavramdır; bu altısı kalabalığın iki köprü ötesinde seni bekler.",
+      "items": [
+        {
+          "rarity": "Kitapların gondolda yüzdüğü yer",
+          "name": "Libreria Acqua Alta",
+          "description": "Kitapların gondollara, küvetlere ve fıçılara istiflendiği absürt-güzel kitapçı: arka avluda eski kitaplardan yapılmış merdivenden kanala bakılır. Kedileri de müdavimdir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Libreria+Acqua+Alta+Venice"
+        },
+        {
+          "rarity": "Kuyruksuz en iyi manzara",
+          "name": "San Giorgio Maggiore çan kulesi",
+          "description": "San Marco'nun karşı adasındaki Palladio kilisesinin kulesi: asansörle çık, San Marco'ya cepheden bak. Campanile kuyruğunun akıllı alternatifi — manzara daha da iyidir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Giorgio+Maggiore+Venice"
+        },
+        {
+          "rarity": "Lagünün başladığı yer",
+          "name": "Torcello",
+          "description": "Venedik'ten eski ada: bin yıllık katedralin altın mozaikleri, otlar arasında 'Attila'nın tahtı' ve derin bir sessizlik. Burano'nun renklerinden on dakika, bin yıl uzakta.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Torcello"
+        },
+        {
+          "rarity": "Gondolların doğduğu tersane",
+          "name": "Squero di San Trovaso",
+          "description": "Dorsoduro'da hâlâ çalışan gondol tersanesi: ahşap iskeletler, zift kokusu ve dağ evi görünümlü atölye. Karşı kıyıdan bir ombra ile izlenir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Squero+di+San+Trovaso+Venice"
+        },
+        {
+          "rarity": "Saklı sarmal",
+          "name": "Scala Contarini del Bovolo",
+          "description": "Dar bir avluda saklanan sarmal merdivenli Rönesans kulesi: 'bovolo' Venedikçe salyangoz demektir. Tepesinden çatılar denizi — kalabalıksız.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Scala+Contarini+del+Bovolo+Venice"
+        },
+        {
+          "rarity": "Lagünün bostanı",
+          "name": "Sant'Erasmo",
+          "description": "Venedik'in sebze bahçesi ada: mor enginarı (castraure) efsanedir, bisikletle gezilir, plajı yerlilere aittir. Turist Venedik'inin panzehiri.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sant%27Erasmo+Venice"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sabah tüyosu",
+        "text": "San Marco Meydanı'nı görmek istiyorsan sabah 7'de git: güvercinler, temizlikçiler ve sen. Aynı taşlar öğlen bambaşka bir gezegendir."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Venedik yüzyıllardır ziyaretçi ağırlar; tuzak repertuvarı gelişkin ama kaçış yolları da bellidir.",
+      "items": [
+        {
+          "icon": "🛶",
+          "name": "Pazarlıksız gondola binmek",
+          "description": "Gondol resmi tarifelidir (gündüz/gece ayrı); 'özel tur' vaadiyle katlanan fiyatlar ve kısaltılan rotalar klasik oyundur.",
+          "instead": "Resmi tarifeyi bil, süreyi ve rotayı binmeden netleştir; bütçe dostu alternatif — traghetto ile iki dakikalık gerçek gondol geçişi."
+        },
+        {
+          "icon": "🎻",
+          "name": "San Marco'da orkestralı kafe faturası",
+          "description": "Meydanın tarihi kafelerinde kahve + 'müzik ücreti' astronomik toplamlara ulaşır; fatura şoku meydan kadar ünlüdür.",
+          "instead": "Tarihi kafeyi bilerek ve fiyatına bakarak yaşa — ya da kahveni iki sokak arkada iç, meydanı ayakta bedava dinle."
+        },
+        {
+          "icon": "🏭",
+          "name": "'Ücretsiz Murano turu' teklifi",
+          "description": "Otel lobisinde ya da rıhtımda önerilen 'bedava tekne + cam atölyesi' turları agresif satış seansıyla biter.",
+          "instead": "Murano'ya vaporettoyla kendin git; atölye gösterisini kendi seçtiğin camcıda izle, alışverişi gönlünce yap."
+        },
+        {
+          "icon": "🍝",
+          "name": "Kanal manzaralı 'menu turistico'",
+          "description": "Rialto ve San Marco arasındaki bazı teraslar donuk lazanyayı manzara fiyatına satar; Venedik mutfağıyla ilgisi yoktur.",
+          "instead": "Bacaro turu yap ya da menüsü kısa, günü balıklı osteria'ları seç; Rialto pazarına yakınlık iyi işarettir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Venedik'te fiyat, San Marco'ya olan mesafeyle ters orantılıdır: her köprü yüzde on indirimdir. İki köprü öte, hem hesabı hem şehri düzeltir."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Meydan, pazar ve bacaro — suyun ritminde",
+          "steps": [
+            {
+              "time": "07:30",
+              "title": "San Marco — boş haliyle",
+              "description": "Meydanı güvercinlerle paylaş, bazilikanın cephesini sabah ışığında gör; içine gireceksen ilk seansı önceden ayırt."
+            },
+            {
+              "time": "09:30",
+              "title": "Vaporetto 1 ile Canal Grande",
+              "description": "Bir numaralı hatta bin, sarayların önünden durak durak süzül: dünyanın en güzel 'otobüs hattı'."
+            },
+            {
+              "time": "11:00",
+              "title": "Rialto pazarı + ilk bacaro",
+              "description": "Balık tezgahlarının şovunu izle, ardından pazarın dibindeki bacaro'da ilk cicchetti + ombra molası."
+            },
+            {
+              "time": "13:30",
+              "title": "San Polo'dan Dorsoduro'ya kaybol",
+              "description": "Haritasız yürü: sessiz kanallar, çamaşırlı avlular, squero'da gondol iskeletleri. Venedik'in asıl müzesi bu yürüyüştür."
+            },
+            {
+              "time": "17:00",
+              "title": "San Giorgio kulesine çık",
+              "description": "Vaporettoyla karşı adaya geç, asansörle kuleye: San Marco silüeti ayaklarının altında, kuyruk yok."
+            },
+            {
+              "time": "19:30",
+              "title": "Cannaregio'da bacaro gecesi",
+              "description": "Fondamenta della Misericordia boyunca tur: cicchetti, spritz (Select ile) ve kanal kenarında sallanan ayaklar."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehri turist gibi değil, misafir gibi yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasikler ve kayboluş",
+              "description": "Yukarıdaki 1 günlük akış: meydan, Canal Grande, Rialto, bacaro."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Adalar günü",
+              "description": "Sabah Murano'da cam, öğlen Burano'nun renkli evleri ve bussolai kurabiyesi, ikindi Torcello'nun altın mozaikli sessizliği; dönüşte Fondamente Nove'de günbatımı."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Sanat ve veda",
+              "description": "Sabah Dorsoduro: Akademi ya da Guggenheim, öğlen Zattere'de gianduiotto dondurması, ikindi Bovolo merdiveni ve Acqua Alta kitapçısı; veda — Giudecca kıyısında bir ombra ile silüete karşı."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "İtalyanca üçlü burada da geçerli; üstüne iki Venedik kelimesi eklersen tezgahta yerin hazır.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "buoncorno",
+          "meaning": "Günaydın / iyi günler — dükkana girerken şart"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "gratsiye",
+          "meaning": "Teşekkürler — kısa, net, her zaman"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "per favore",
+          "meaning": "Lütfen — siparişin sonuna ekle"
+        },
+        {
+          "word": "Un'ombra, per favore",
+          "pronunciation": "un ombra per favore",
+          "meaning": "'Bir kadeh şarap lütfen' — bacaro tezgahının sihirli cümlesi"
+        },
+        {
+          "word": "Andemo!",
+          "pronunciation": "andemo",
+          "meaning": "Venedikçe 'hadi gidelim!' — andiamo'nun lagün hali; duyduğun an içerdensin"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Venedik Checklist",
+      "completion_message": "Andemo! Venedik'i hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "San Marco'yu sabah 7'de gör",
+          "sub": "Güvercinler, temizlikçiler ve sen"
+        },
+        {
+          "label": "1 numaralı vaporettoyla Canal Grande'yi gez",
+          "sub": "Dünyanın en güzel otobüs hattı"
+        },
+        {
+          "label": "Bacaro turu yap (giro di ombre)",
+          "sub": "Üç bacaro, üç ombra, sayısız cicchetti"
+        },
+        {
+          "label": "Traghetto ile ayakta karşıya geç",
+          "sub": "Birkaç euroya gerçek gondol deneyimi"
+        },
+        {
+          "label": "Rialto pazarında balık şovunu izle",
+          "sub": "Sabah saatinde — pazartesi balık yok"
+        },
+        {
+          "label": "San Giorgio kulesinden silüete bak",
+          "sub": "Kuyruksuz asansör, cepheden San Marco"
+        },
+        {
+          "label": "Haritasız kaybol",
+          "sub": "Dorsoduro ya da Castello'nun arka kanalları"
+        },
+        {
+          "label": "Acqua Alta kitapçısının gondolunu karıştır",
+          "sub": "Kitap merdiveninden kanala bak"
+        },
+        {
+          "label": "Burano + Torcello ikilisini yap",
+          "sub": "Renkler ve bin yıllık mozaik sessizliği"
+        },
+        {
+          "label": "Select'li spritz ile günü kapat",
+          "sub": "Saat 18, meydan kenarı, zeytinli servis"
+        }
+      ]
+    }
+  }
+}

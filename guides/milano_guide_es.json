@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "city": "Milano",
+    "country": "Italy",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#1A1A2E",
+    "color_light": "#EAEAF5",
+    "tagline": "Moda, diseño, fútbol y el mejor aperitivo del mundo, en ese orden.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Reservar Il Duomo con antelación",
+    "El aperitivo es la cena",
+    "El domingo es sagrado"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Milán",
+      "intro": "Milán no intenta seducirte. No lo necesita. Es una ciudad trabajadora —la capital financiera y de la moda de Italia—, llena de gente con un destino, que no actúa para nadie. Pero justo debajo de esa superficie fría, algo completamente diferente está sucediendo: la obra maestra de Leonardo da Vinci en la pared de un convento, una catedral gótica en construcción durante seis siglos, una colonia de flamencos viviendo en un jardín privado a dos manzanas del centro de la ciudad, y una cultura del aperitivo tan generosa que equivale a una cena gratis con cada bebida. Milán tarda un momento en abrirse. Dale ese momento.",
+      "local_word": {
+        "word": "Aperitivo",
+        "pronunciation": "ah-peh-REE-tee-voh",
+        "definition": "No es solo una bebida antes de cenar, es una institución social. Cada tarde, de 18:00 a 21:00, los bares de Milán se transforman: pide una bebida y aparecerá una variedad de comida. En algunos lugares es un bufé completo. En otros, solo unos cuantos bocados. De cualquier manera, es el gran ritual democrático de la ciudad: el momento en que directores financieros y estudiantes de arte se sientan en el mismo bar y la noche comienza de verdad."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Reserva todo lo importante con antelación",
+          "description": "La Última Cena de Leonardo (Santa Maria delle Grazie) es una de las visitas más reguladas del mundo: solo se permiten 30 personas a la vez, con un máximo de 15 minutos. Las entradas se agotan semanas, a veces meses antes. La azotea del Duomo, la Pinacoteca di Brera, el Cenacolo Vinciano — reserva todo esto antes de llegar. Ir sin reserva el mismo día garantiza una decepción."
+        },
+        {
+          "number": 2,
+          "title": "El aperitivo no es un tentempié, es la cena",
+          "description": "El aperitivo milanés comienza a las 18:00 y se extiende hasta alrededor de las 21:00. Pide un Spritz, Negroni o Campari Soda y llegará una variedad de comida —a veces un bufé completo, siempre sustancioso. Así es como la ciudad cena las tardes de los días laborables. No comas antes. No te apresures. Siéntate, bebe, picotea y observa cómo Milán se relaja después del trabajo."
+        },
+        {
+          "number": 3,
+          "title": "El domingo se para — planifica en consecuencia",
+          "description": "Más que la mayoría de las ciudades italianas, Milán respeta el domingo. Las tiendas cierran, muchos restaurantes bajan la persiana, el distrito de la moda se queda en silencio. La ventaja: los museos están menos concurridos, los parques se llenan de lugareños y la ciudad muestra una cara más lenta y residencial. Planifica tus visitas a museos y días de parque para el domingo y tus compras para cualquier otro día."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "Linate (LIN) or Malpensa (MXP)",
+          "sub": "Linate · 30 min · centro ciudad · Malpensa · 50 min · Malpensa Express"
+        },
+        {
+          "icon": "🚇",
+          "label": "Transporte",
+          "value": "Metro + tram",
+          "sub": "El abono diario ATM cubre todas las líneas"
+        },
+        {
+          "icon": "🕕",
+          "label": "Aperitivo",
+          "value": "18:00–21:00",
+          "sub": "Una bebida, comida ilimitada. La mejor comida de la ciudad."
+        },
+        {
+          "icon": "👗",
+          "label": "Código de vestimenta",
+          "value": "Milán se fija",
+          "sub": "No es una regla, es una cultura. Vístete bien y la ciudad se abrirá a ti."
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "El Milán auténtico",
+        "text": "Milán recompensa la lentitud disfrazada de eficiencia. Los milaneses se mueven rápido pero viven bien. No te apresures de un monumento a otro — encuentra un barrio, busca un bar, pide un Campari y deja que la ciudad se revele a su propio ritmo. El mejor Milán es aquel con el que te topas por casualidad."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "Milán cuenta con una de las mejores redes de transporte público de Italia. El metro es limpio, rápido y lógico. Entre metro, tranvías y autobuses, casi todo es accesible sin necesidad de taxi.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeropuerto de Linate (LIN) → Centro de la ciudad",
+          "description": "Linate es el aeropuerto más cercano, a solo 7 km del centro de la ciudad. La línea 4 de metro (M4, línea azul) se inauguró en 2023 y conecta Linate directamente con el centro en unos 30 minutos. El autobús 73 es la alternativa económica, pero más lenta. El taxi es caro. Si vuelas a Linate, la M4 es la opción obvia."
+        },
+        {
+          "icon": "✈️",
+          "title": "Aeropuerto de Malpensa (MXP) → Centro de la ciudad",
+          "description": "Malpensa está a 50 km al noroeste de la ciudad, más lejos, pero gestiona más vuelos internacionales. El tren Malpensa Express va directamente a Milano Centrale (50 min) o Cadorna (40 min) cada 30 minutos. Es la opción más rápida y fiable. Existen lanzaderas compartidas, pero añaden mucho tiempo. Los taxis desde Malpensa son muy caros."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro — rápido y lógico",
+          "description": "El metro de Milán tiene cuatro líneas (M1 roja, M2 verde, M3 amarilla, M4 azul) que cubren todas las zonas principales. Es rápido, limpio y funciona hasta medianoche entre semana, y más tarde los fines de semana. Paga con tu tarjeta contactless o compra un billete sencillo o un abono diario en cualquier estación. El abono diario es una excelente opción si vas a hacer más de tres viajes. Valida antes de subir."
+        },
+        {
+          "icon": "🚃",
+          "title": "Tranvías — la forma más auténtica",
+          "description": "Los históricos tranvías naranjas de Milán son una de las características más encantadoras de la ciudad; algunos funcionan desde la década de 1920. Son más lentos que el metro, pero cubren zonas a las que el metro no llega y ofrecen una vista en movimiento de la ciudad. La línea 1, de Piazza Castello a Piazza XXIV Maggio, es uno de los mejores paseos en tranvía urbano de Europa. Mismo billete que el metro."
+        },
+        {
+          "icon": "🚲",
+          "title": "BikeMi — bicicletas urbanas",
+          "description": "El sistema público de bicicletas compartidas de Milán, con cientos de estaciones por toda la ciudad. Excelente para zonas céntricas llanas, paseos junto a los canales de los Navigli y para llegar al Parco Sempione desde el centro. Regístrate online o a través de la app. También hay bicicletas eléctricas disponibles en estaciones seleccionadas."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Abono diario ATM",
+        "text": "Si vas a pasar un día completo en la ciudad, el abono diario ATM cubre viajes ilimitados en metro, tranvía y autobús. Cómpralo en cualquier estación de metro o estanco (tabacchi). Mucho mejor relación calidad-precio que los billetes individuales si te vas a mover, y lo harás."
+      }
+    },
+    "stay": {
+      "title": "Dónde Alojarse",
+      "intro": "Los barrios de Milán son drásticamente diferentes en carácter. La elección correcta depende enteramente del tipo de ciudad en la que quieras despertar.",
+      "local_word": {
+        "word": "Navigli",
+        "pronunciation": "na-VEE-lyee",
+        "definition": "El distrito de los canales en el suroeste de Milán —una vez un proyecto de ingeniería de Leonardo da Vinci, ahora el barrio más bohemio de la ciudad. Los dos canales principales, Naviglio Grande y Naviglio Pavese, están bordeados de bares, restaurantes, tiendas de antigüedades y talleres. El último domingo de cada mes, el Mercatone dell'Antiquariato llena toda la orilla del canal con uno de los grandes mercadillos de Italia."
+      },
+      "items": [
+        {
+          "name": "Brera",
+          "badge": "El más bonito",
+          "badge_type": "vibe",
+          "description": "El barrio más pintoresco de Milán —calles empedradas, galerías de arte, boutiques independientes, la magnífica Pinacoteca di Brera. Céntrico, transitable y elegantemente sofisticado. Los bares de aperitivo aquí son de los mejores de la ciudad. Más caro que otras zonas, pero genuinamente uno de los barrios urbanos más exquisitos de Italia.",
+          "tags": [
+            "Pinacoteca di Brera",
+            "Galerías de arte",
+            "Mejores aperitivos"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo+Milano"
+        },
+        {
+          "name": "Navigli",
+          "badge": "El más animado",
+          "badge_type": "local",
+          "description": "El distrito de los canales. Bohemio, creativo y vivo a todas horas. Los canales Naviglio Grande y Naviglio Pavese están bordeados de bares, restaurantes y estudios. La escena del aperitivo aquí es legendaria —algunos de los más generosos de la ciudad. Un poco más lejos del Duomo, pero el metro te lleva en minutos. El mercadillo del último domingo es imperdible.",
+          "tags": [
+            "Bares junto al canal",
+            "Ambiente de aperitivo",
+            "Mercadillo mensual"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Brera+Milano"
+        },
+        {
+          "name": "Isola",
+          "badge": "El más auténtico",
+          "badge_type": "hot",
+          "description": "Antaño una isla obrera aislada por las vías del tren, Isola es ahora el barrio más interesante de Milán —restaurantes independientes, estudios de diseño, arte callejero y las espectaculares torres del Bosco Verticale. Genuinamente local, genuinamente creativo, aún no masificado. La zona alrededor de Piazza Garibaldi y Corso Como es una de las mejores de la ciudad.",
+          "tags": [
+            "Bosco Verticale",
+            "Restaurantes independientes",
+            "Escena de diseño"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Navigli+Milano"
+        },
+        {
+          "name": "Porta Romana & Tortona",
+          "badge": "Distrito del diseño",
+          "badge_type": "vibe",
+          "description": "El corazón del diseño y la moda de la ciudad —particularmente vibrante durante el Salone del Mobile en abril. Antiguos edificios industriales albergan ahora las galerías, showrooms y concept stores más importantes de la ciudad. La Fondazione Prada está aquí. Más tranquilo fuera de la semana del diseño, pero profundamente interesante todo el año.",
+          "tags": [
+            "Fondazione Prada",
+            "Galerías de diseño",
+            "Salone del Mobile"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Isola+Milano"
+        },
+        {
+          "name": "Città Studi",
+          "badge": "Mejor relación calidad-precio",
+          "badge_type": "value",
+          "description": "El distrito universitario al este del centro. Joven, asequible y genuinamente local —buenas trattorias, bares de barrio, el maravilloso Orto Botanico. Más lejos de los lugares turísticos, pero bien conectado por metro y tranvía. La zona alrededor de Piazza Leonardo da Vinci tiene una energía tranquila y estudiosa muy diferente de la intensidad del distrito de la moda.",
+          "tags": [
+            "Ambiente universitario",
+            "Asequible",
+            "Buenas trattorias"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Porta+Romana+Milano"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Mejor Época para Visitar",
+      "intro": "Milán es una ciudad de estaciones — cada una transforma su carácter por completo. El calendario de la moda y el diseño también moldea el ritmo de la ciudad de maneras que vale la pena conocer.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Semana del Diseño",
+          "months": "Mar – May",
+          "subtitle": "Primavera · Semana del Diseño y Clima Perfecto",
+          "description": "Abril trae el Salone del Mobile — la feria de diseño más importante del mundo — y Milán se transforma por completo. Toda la ciudad se convierte en una exposición de diseño, con eventos, instalaciones y fiestas brotando de cada rincón. Fuera de la semana del diseño, la primavera ofrece un clima ideal, cerezos en flor en el Parco Sempione y una ciudad llena de energía. La época más emocionante para estar aquí.",
+          "callout": {
+            "type": "tip",
+            "label": "No te pierdas",
+            "text": "Salone del Mobile (Abril): la feria en sí es enorme, pero la verdadera acción es el Fuorisalone — cientos de eventos por toda la ciudad, la mayoría gratuitos. El Brera Design District y Tortona son los epicentros."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Caluroso y Local",
+          "months": "Jun – Aug",
+          "subtitle": "Verano · Caluroso, Tranquilo, Sorprendentemente Local",
+          "description": "Agosto es cuando los milaneses se van a la costa o a la montaña y la ciudad se vacía. Los restaurantes cierran, las calles se calman y una extraña quietud desciende sobre una de las ciudades más frenéticas de Europa. Julio es caluroso y húmedo pero perfectamente funcional — menos turistas, menos colas, precios más bajos. La escena del aperitivo continúa sin importar qué. No es la temporada alta convencional, pero tiene su propio encanto particular.",
+          "callout": {
+            "type": "warning",
+            "label": "Advertencia de agosto",
+            "text": "Muchos restaurantes y tiendas cierran durante 2–3 semanas a mediados de agosto (Ferragosto). Siempre consulta con antelación. Lo bueno: los museos están más vacíos que en cualquier otra época del año."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "Semana de la Moda",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · Semana de la Moda y Luz Dorada",
+          "description": "Septiembre trae la Semana de la Moda de Milán — la otra gran transformación de la ciudad. Las calles se llenan de editores, compradores y fotógrafos; los restaurantes se vuelven imposibles sin reservas; la energía es eléctrica. Fuera de la semana de la moda, septiembre y octubre ofrecen una luz dorada, productos de la cosecha en los mercados y una ciudad que se asienta en su estación más agradable para vivir.",
+          "callout": {
+            "type": "tip",
+            "label": "No te pierdas",
+            "text": "Semana de la Moda de Milán (Septiembre): no necesitas una invitación para vivirla. La calle fuera de los desfiles es un espectáculo en sí misma. Sitúate cerca de los desfiles en Brera y observa llegar a las personas mejor vestidas del mundo."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Nebuloso y Mágico",
+          "months": "Dec – Feb",
+          "subtitle": "Invierno · Niebla, Risotto y La Scala",
+          "description": "Milán en invierno es niebla, trattorias a la luz de las velas, risotto milanese y la extraordinaria temporada de ópera de La Scala. La ciudad está en su momento más íntimo — solo locales, pocos turistas, el distrito de la moda tranquilo. Mercados navideños en Piazza Duomo y a lo largo de los Navigli. Enero es el mes más tranquilo y auténtico. Febrero trae el carnaval y la energía de la semana del diseño comienza a construirse.",
+          "callout": {
+            "type": "tip",
+            "label": "Secreto local",
+            "text": "La temporada de La Scala va de octubre a julio, con los estrenos más prestigiosos en diciembre. A veces aparecen entradas de última hora en la web oficial. Incluso de pie es una experiencia extraordinaria."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "April",
+          "text": "Salone del Mobile + Semana del Diseño: la capital mundial del diseño por una semana; instalaciones al aire libre por todas partes, los hoteles se llenan pronto."
+        },
+        {
+          "month": "September",
+          "text": "Semana de la Moda: las calles se convierten en una pasarela; el Quadrilatero para avistar celebridades, un paraíso para observar a la gente para todos los demás."
+        },
+        {
+          "month": "December 7",
+          "text": "Sant'Ambrogio + Oh Bej! Oh Bej!: el día del patrón, el mercado tradicional y la noche de apertura de La Scala — el día más milanés de Milán."
+        },
+        {
+          "month": "June–August",
+          "text": "Noches de verano: Navigli e Isola se quedan hasta tarde; a mediados de agosto la ciudad pertenece a los locales y muchas tiendas se van de vacaciones."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Qué Comer",
+      "intro": "La gastronomía de Milán no se parece en nada al resto de Italia, y los milaneses están orgullosos de ello. Más rica, de cocción más lenta, más influenciada por el norte. Esta es la ciudad que inventó el risotto, la cotoletta y el panettone.",
+      "local_word": {
+        "word": "Risotto alla Milanese",
+        "pronunciation": "ree-ZOH-toh ah-la mee-lah-NAY-zeh",
+        "definition": "El plato estrella de la ciudad: arroz Carnaroli, tuétano, vino blanco, azafrán y una cantidad casi desmedida de Parmigiano. El azafrán le da un color dorado intenso. No es una guarnición. Pedirlo correctamente significa solicitarlo como un primo (primer plato) y esperar los 18 minutos completos que tarda en hacerse bien. Cualquier risotto que llegue en menos de 10 minutos no fue hecho para ti."
+      },
+      "items": [
+        {
+          "icon": "🍚",
+          "name": "Risotto alla Milanese — el plato estrella de la ciudad",
+          "description": "Dorado por el azafrán, rico en tuétano, terminado con una generosa cantidad de Parmigiano. El auténtico tarda 18 minutos desde que se pide hasta que llega al plato y se sirve ligeramente líquido — all'onda, dicen, como una ola. Si está espeso, es que lleva tiempo hecho. Osteria dell'Acquabella y Trattoria del Nuovo Macello son referentes. Pídelo como un primo, no como guarnición.",
+          "tag": "18 minutos · all'onda · solo como primer plato",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ratanà+Milano"
+        },
+        {
+          "icon": "🥩",
+          "name": "Cotoletta alla Milanese — no es un schnitzel",
+          "description": "Chuleta de ternera con hueso, empanada y frita en mantequilla clarificada hasta que esté bien dorada. Más gruesa que el Wiener Schnitzel, más rica y siempre servida con el hueso. El debate sobre si los vieneses robaron la receta a Milán lleva 200 años. Pídela en una trattoria tradicional, no en un restaurante turístico. Debe ser crujiente, sustanciosa y servirse sola.",
+          "tag": "Con hueso · frita en mantequilla · no es guarnición",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria+del+Nuovo+Macello+Milano"
+        },
+        {
+          "icon": "🫘",
+          "name": "Cassoeula — el invierno en un plato",
+          "description": "El plato invernal por excelencia: cerdo (costillas, salchicha, manitas) cocinado a fuego lento con col de Saboya hasta que todo se deshace en algo profundo y profundamente reconfortante. Solo en los menús de octubre a febrero; si lo ves en otra época, no es auténtico. Pídelo en una trattoria en los Navigli o Porta Romana. Es contundente, honesto y profundamente milanés.",
+          "tag": "Solo de octubre a febrero · solo en trattorias",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Prosciutteria+Milano"
+        },
+        {
+          "icon": "🥐",
+          "name": "Colazione Milanese — el ritual del desayuno",
+          "description": "Ponte de pie en la barra (nunca te sientes, cuesta más y no es la idea). Pide un cappuccino y un cornetto (cruasán italiano, relleno de crema, mermelada o pistacho). Todo el proceso dura cuatro minutos y cuesta muy poco. Repite en cualquier bar de la ciudad. Así es como empiezan 9 millones de trayectos cada mañana en Lombardía.",
+          "tag": "De pie en la barra · cappuccino + cornetto · nunca antes de las 7 AM",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Camparino+in+Galleria+Milano"
+        },
+        {
+          "icon": "🍊",
+          "name": "Aperitivo — la invención milanesa",
+          "description": "La ciudad que dio al mundo el Campari (inventado aquí en 1860) se toma su aperitivo muy en serio. El pedido clásico: Campari Soda, Negroni o Aperol Spritz. En la mayoría de los bares, una bebida te da acceso a un bufé de comida. En Navigli y Brera, los bufés pueden ser extraordinarios: pasta, platos de arroz, bruschetta, embutidos. Esto es una cena, al precio de una bebida.",
+          "tag": "18:00–21:00 · una bebida · cena incluida",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Navigli+Milano"
+        },
+        {
+          "icon": "🎂",
+          "name": "Panettone — el original",
+          "description": "Sí, el panettone es de Milán. El original no se parece en nada a las versiones de supermercado exportadas por todo el mundo: alto, abovedado, hecho con una masa madre natural que tarda días en desarrollarse. Pasticceria Marchesi (fundada en 1824) y Pasticceria Cova son los referentes históricos. Incluso fuera de Navidad, las buenas panaderías milanesas lo tienen todo el año.",
+          "tag": "Marchesi o Cova · el original no se parece a la versión de exportación",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marchesi+1824+Milano"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Mercato Comunale di Porta Romana",
+        "text": "Milán tiene mercados de comida excepcionales. El Mercato Comunale di Porta Romana es uno de los mejores: un mercado cubierto donde los productores locales venden queso, embutidos, pasta fresca, verduras y vino. Ve un sábado por la mañana, llega con hambre y compra allí tu almuerzo. Mucho mejor que cualquier restaurante y por una fracción del coste."
+      }
+    },
+    "hidden_gems": {
+      "title": "Rincones Escondidos",
+      "intro": "Milán recompensa a quienes miran más allá del Duomo y la Galleria. Las cosas más extraordinarias de la ciudad se encuentran detrás de puertas sin marcar, dentro de fábricas reconvertidas y al final de tranquilos patios.",
+      "items": [
+        {
+          "rarity": "La otra obra maestra de Leonardo — casi sin cola",
+          "name": "La Última Cena (Cenacolo Vinciano) — Santa Maria delle Grazie",
+          "description": "Todo el mundo sabe que existe. Casi nadie se prepara para lo extraordinario que es en persona. Pintado directamente sobre la pared del refectorio entre 1495 y 1498, mide 8,8 metros de ancho y casi 5 metros de alto. Te paras frente a él durante exactamente 15 minutos con otras 29 personas en una sala climatizada. La experiencia es diferente a cualquier otra en Italia. Reserva con semanas de antelación, pero reserva.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa+Invernizzi+Milano"
+        },
+        {
+          "rarity": "Jardín secreto dentro de un patio renacentista",
+          "name": "Università degli Studi — Cortile della Facoltà di Giurisprudenza",
+          "description": "El patio central de la histórica universidad de Milán, construido en el emplazamiento de un hospital del siglo XV diseñado por Filarete. Atraviesa la entrada sin marcar en Via Festa del Perdono y descubre un patio renacentista perfectamente conservado donde los estudiantes han estudiado durante 600 años. Casi completamente desconocido para los turistas. Gratuito, abierto durante el horario universitario.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ca+de+l%27Oreggia+Milano"
+        },
+        {
+          "rarity": "La librería más bonita de Italia",
+          "name": "Libreria Bocca — Galleria Vittorio Emanuele II",
+          "description": "Dentro de la Galleria, escondida de las tiendas de lujo y las multitudes de turistas, se encuentra la librería más antigua de Italia, abierta desde 1775. El interior es magnífico: madera oscura, vitrinas, libros de arte apilados del suelo al techo. Especializada en arte, arquitectura y diseño. El personal lleva recomendando libros desde antes de que existieran la mayoría de los países. Entra, aunque no compres nada.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Bernardino+alle+Ossa+Milano"
+        },
+        {
+          "rarity": "Bosque vertical — un edificio como ningún otro",
+          "name": "Bosco Verticale — Isola",
+          "description": "Dos torres residenciales en el barrio de Isola cubiertas con 900 árboles, 5.000 arbustos y 11.000 plantas: un bosque suspendido sobre la ciudad. Diseñadas por Stefano Boeri y terminadas en 2014, se han convertido en uno de los edificios más fotografiados del mundo. No se puede entrar, pero son extraordinarias desde el nivel de la calle. El barrio circundante de Isola merece medio día por sí solo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vigna+di+Leonardo+Milano"
+        },
+        {
+          "rarity": "Fondazione Prada — arte en una destilería",
+          "name": "Fondazione Prada",
+          "description": "La extraordinaria fundación de Miuccia Prada ocupa una antigua destilería de ginebra en la zona de Porta Romana, un complejo de edificios antiguos y nuevos diseñado por OMA de Rem Koolhaas. La colección permanente incluye algunas de las obras de arte contemporáneo más importantes de Italia. El edificio Haunted House, cubierto de pan de oro, ya justifica la visita. El Bar Luce, diseñado por Wes Anderson para parecer un café milanés de los años 50, es excepcional.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Labirinto+Arnaldo+Pomodoro+Milano"
+        },
+        {
+          "rarity": "El canal más antiguo de Europa — para un paseo al atardecer",
+          "name": "Naviglio Grande a la hora dorada",
+          "description": "Leonardo da Vinci trabajó en el sistema de canales aquí a finales del siglo XV. El Naviglio Grande, que se extiende 50 km hasta el río Ticino, fue en su día la forma en que el mármol llegaba a Milán para construir el Duomo. Hoy está bordeado de bares, restaurantes y estudios. A la hora dorada, la luz sobre el agua y los reflejos de los edificios antiguos crean una de las escenas urbanas más bellas del norte de Italia. Camina desde la Darsena hacia el oeste, en dirección a Corsico.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Terrazze+del+Duomo+Milano"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Último domingo del mes",
+        "text": "El último domingo de cada mes, el Mercatone dell'Antiquariato llena todo el Naviglio Grande: uno de los mercados de pulgas más grandes de Italia. Anticuarios, ropa vintage, grabados de arte, muebles, cerámica. Llega temprano. Lleva efectivo. Funciona desde la mañana hasta la noche y es una de las experiencias más auténticamente milanesas disponibles."
+      }
+    },
+    "checklist": {
+      "title": "Lista de Imprescindibles en Milán",
+      "completion_message": "¡Bravissimo! Has vivido Milán como se debe.",
+      "items": [
+        {
+          "label": "Reserva La Última Cena antes que nada",
+          "sub": "Santa Maria delle Grazie. 15 minutos, 30 personas, semanas de antelación para reservar. Hazlo ya."
+        },
+        {
+          "label": "Toma el aperitivo en Navigli o Brera",
+          "sub": "Una bebida, un bufé completo. De 18:00 a 21:00. Esto es la cena."
+        },
+        {
+          "label": "Pide risotto alla Milanese como primer plato",
+          "sub": "18 minutos de preparación. Oro de azafrán. Ligeramente líquido. Si llega rápido, está mal hecho."
+        },
+        {
+          "label": "Pasea por la Galería Vittorio Emanuele II",
+          "sub": "Una de las galerías cubiertas más bellas del mundo. Gira sobre el toro para la buena suerte."
+        },
+        {
+          "label": "Entra en el Duomo — no solo lo rodees",
+          "sub": "Reserva la terraza por separado. La vista de los Alpes en un día despejado es extraordinaria."
+        },
+        {
+          "label": "Encuentra la Librería Bocca dentro de la Galería",
+          "sub": "La librería más antigua de Italia, abierta desde 1775. Entra aunque no compres nada."
+        },
+        {
+          "label": "Pasea por el Naviglio Grande a la hora dorada",
+          "sub": "El canal, la luz, los reflejos. Uno de los paseos más bonitos del norte de Italia."
+        },
+        {
+          "label": "Visita la Fondazione Prada",
+          "sub": "Antigua destilería, arquitectura de Rem Koolhaas, bar de Wes Anderson. Verdaderamente extraordinario."
+        },
+        {
+          "label": "Toma la colazione milanese de pie en un bar",
+          "sub": "Capuchino y cornetto, de pie. Cuatro minutos. La mejor manera de empezar el día."
+        },
+        {
+          "label": "Explora Isola y admira el Bosco Verticale",
+          "sub": "El barrio más interesante de la ciudad. Las torres del bosque vertical son imperdibles."
+        },
+        {
+          "label": "Prueba la cotoletta alla Milanese en una trattoria",
+          "sub": "Con hueso, frita en mantequilla, contundente. No es un schnitzel. No es una guarnición."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Evita las Trampas",
+      "intro": "Milán es una ciudad elegante, pero los alrededores del Duomo ostentan el récord italiano de densidad de trampas. Conoce estas cuatro y mantén tu estilo intacto.",
+      "items": [
+        {
+          "icon": "🕊️",
+          "name": "Maíz y pulseras en la plaza del Duomo",
+          "description": "Personas que te meten maíz en la mano para fotos con palomas o te atan una pulsera de 'regalo' en la muñeca, insistirán en el pago después.",
+          "instead": "Manos en los bolsillos, sin contacto visual, sonríe y sigue caminando. Haz tu foto desde la esquina de la plaza, queda mejor de todos modos."
+        },
+        {
+          "icon": "☕",
+          "name": "Sentarse a tomar café en la Galería",
+          "description": "Un espresso en una mesa de la Galleria Vittorio Emanuele II cuesta varias veces el precio de pie. La mayoría de los sitios venden la vista, no el café.",
+          "instead": "Hazlo a la milanesa: tómalo de pie en la barra. Para un ambiente histórico, elige la barra del Camparino."
+        },
+        {
+          "icon": "🍸",
+          "name": "Las trampas del aperitivo con 'buffet libre'",
+          "description": "Algunos bares de Navigli cazan turistas con cócteles de neón y un buffet rancio; la bebida es mediocre, el buffet es un atrezzo.",
+          "instead": "Elige el bar donde la gente hable italiano; un buen aperitivo trae un plato pequeño pero cuidado con tu bebida."
+        },
+        {
+          "icon": "👜",
+          "name": "Regatear por bolsos 'de diseño' en la calle",
+          "description": "Los 'Prada' expuestos cerca de Montenapoleone son falsos, y comprar puede ser tan punible como vender.",
+          "instead": "Para estilo con presupuesto, visita los outlets de diseño o las tiendas vintage; la segunda mano de Milán es de primera clase."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de oro",
+        "text": "En Milán, la calidad es discreta: los mejores lugares tienen letreros pequeños, ventanas sencillas, a menudo una puerta cerrada. Evita cualquier cosa que grite."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Preparadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Desde la azotea del Duomo hasta un atardecer en los Navigli",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Duomo + terrazas en la azotea",
+              "description": "Primero la catedral, luego sube al tejado: pasear entre las agujas de mármol es el mejor momento de Milán. Reserva con antelación."
+            },
+            {
+              "time": "11:00",
+              "title": "Galleria + La Scala",
+              "description": "Atraviesa la Galleria (¡gira sobre el toro!), y saldrás en La Scala. El museo es breve y conciso si quieres echar un vistazo por dentro."
+            },
+            {
+              "time": "13:00",
+              "title": "Almuerzo en Brera",
+              "description": "Una trattoria en el barrio de los pintores; luego un vistazo rápido a la Pinacoteca de Brera."
+            },
+            {
+              "time": "15:30",
+              "title": "La Última Cena (con reserva)",
+              "description": "Si reservaste hace meses, este es tu momento. Si no, no te lamentes: la capilla de los huesos de San Bernardino alle Ossa es un plan B inolvidable."
+            },
+            {
+              "time": "18:00",
+              "title": "Castillo Sforzesco + Parco Sempione",
+              "description": "Atraviesa el patio del castillo hasta el parque; respira verde junto a los milaneses."
+            },
+            {
+              "time": "19:30",
+              "title": "Aperitivo en los Navigli",
+              "description": "Campari o spritz junto al canal, el plato que lo acompaña es tu cena. El culmen del ritual milanés."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Vive la ciudad como un invitado, no como un turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Los iconos",
+              "description": "El itinerario de 1 día anterior: Duomo, Galleria, Brera, Navigli."
+            },
+            {
+              "time": "Day 2",
+              "title": "Milán de diseño y moda",
+              "description": "Los escaparates del Quadrilatero della Moda por la mañana, Fondazione Prada o Pirelli HangarBicocca al mediodía, los bares jóvenes de Isola por la noche."
+            },
+            {
+              "time": "Day 3",
+              "title": "El Milán oculto y la despedida",
+              "description": "Los flamencos de Villa Invernizzi, un susurro en el timbre con forma de oreja de Ca' de l'Oreggia, una tarde de spa o vintage en Porta Romana, y una despedida con cotoletta."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "El kit de supervivencia de 5 palabras",
+      "intro": "Milán habla rápido, pero nunca olvida sus modales; lleva estas cinco contigo.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "bwon-JOR-noh",
+          "meaning": "Buenos días / buenas tardes — obligatorio al entrar en una tienda"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Gracias — corto, claro, siempre"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "Por favor — añádelo al final de tu pedido"
+        },
+        {
+          "word": "Cin cin!",
+          "pronunciation": "chin chin",
+          "meaning": "¡Salud! — la palabra oficial de la hora del aperitivo"
+        },
+        {
+          "word": "Andiamo!",
+          "pronunciation": "ahn-DYAH-moh",
+          "meaning": "¡Vamos! — la clave para seguir el ritmo de Milán"
+        }
+      ]
+    }
+  }
+}

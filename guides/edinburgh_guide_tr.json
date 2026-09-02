@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Edinburgh",
+    "country": "İskoçya",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2F5D4A",
+    "color_light": "#E6F0EA",
+    "tagline": "Kalenin gölgesinde taş sokaklar, sisin içinde hikayeler"
+  },
+  "pills": [
+    "Kayanın üstünde bir kale",
+    "Festivallerin dünya başkenti",
+    "Harry Potter'a ilham veren sokaklar"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Edinburgh'a Hoş Geldin",
+      "intro": "Edinburgh iki şehirdir ve ikisi de tepeden birbirine bakar: volkanik kayanın üstündeki kaleden aşağı dökülen ortaçağ Old Town'ı ile düzenli meydanlı, zarif cepheli Georgian New Town'ı. Kapanmış volkan Arthur's Seat şehrin ortasında yükselir, deniz sisi 'haar' bazı sabahlar sokakları yutar, gaydacının sesi Royal Mile'da yankılanır. Bu şehir hikaye anlatıcılarının başkentidir — Stevenson, Conan Doyle ve Harry Potter'ın doğduğu kafeler buradadır. Ağustosta ise dünyanın en büyük sanat festivali şehri dev bir sahneye çevirir.",
+      "local_word": {
+        "word": "Dreich",
+        "pronunciation": "driih",
+        "definition": "İskoçça'nın en sevilen kelimesi: gri, yağmurlu, sisli, iç karartıcı hava — hepsi tek hecede. 'It's a dreich day' dendiğinde gökyüzü kurşun rengidir ama İskoç buna üzülmez: dreich gün pub günüdür, viski günüdür, kitap günüdür. Bu kelimeyi öğrenen, İskoç havasıyla barışır."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Dört mevsime aynı gün hazır ol",
+          "description": "Edinburgh'da hava saatlik değişir: sabah güneş, öğlen yağmur, ikindi rüzgar. Kat kat giyin, yanına ince yağmurluk al — şemsiye rüzgara dayanmaz. Yağmur bastırınca pub ya da kitapçı en yakın sığınaktır; İskoçlar buna plan bozulması değil, plan der."
+        },
+        {
+          "number": 2,
+          "title": "Kale ve popüler yerlere biletini önceden al",
+          "description": "Edinburgh Kalesi saatli biletle çalışır ve yaz günleri kapıda 'sold out' duvarı vardır: online ve erken al. Arthur's Seat, Calton Hill ve sokakların kendisi ise ücretsizdir — paralı simgeleri planla, bedava manzaraları doğaçla."
+        },
+        {
+          "number": 3,
+          "title": "Ağustosa bilerek gel ya da bilerek kaçın",
+          "description": "Ağustosta Fringe Festivali şehri üçe katlar: her mahzen sahne, her sokak gösteri alanıdır — konaklama aylar önce dolar, fiyatlar uçar. Festival ruhu istiyorsan erken planla; sakin Edinburgh istiyorsan ağustosu takvimden çiz."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Edinburgh (EDI)",
+          "sub": "Tramvayla merkeze ~35 dk"
+        },
+        {
+          "icon": "🏰",
+          "label": "İmza",
+          "value": "Edinburgh Kalesi",
+          "sub": "Volkanik kayanın üstünde"
+        },
+        {
+          "icon": "💷",
+          "label": "Para birimi",
+          "value": "Sterlin (GBP)",
+          "sub": "Kart her yerde, nakit nadir"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "İngilizce (+ Scots)",
+          "sub": "Aksan başta zorlar, sonra sevilir"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Edinburgh felsefesi",
+        "text": "Bu şehir yürüyerek ve yokuş çıkarak anlaşılır: her tepenin ödülü bir manzara, her yağmurun ödülü bir pub'dır. Programa boşluk bırak — Edinburgh'un en iyi anları, ara sokakların (close'ların) içinde plansız bulunur."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Merkez tamamen yürünebilir ölçektedir; tramvay havalimanını, Lothian otobüsleri geri kalan her yeri bağlar — araca gerek yoktur.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından geliş",
+          "description": "Havalimanı tramvayı Princes Street'e 35 dakikada iner: bileti otomattan ya da uygulamadan al. Airlink 100 otobüsü gece de çalışır — taksi aynı yolun üç katıdır."
+        },
+        {
+          "icon": "🚶",
+          "title": "Yürünebilir iki şehir",
+          "description": "Old Town ile New Town arasındaki her şey adım mesafesindedir ama adımlar yokuşludur: Royal Mile sırttan iner, ara sokaklar merdivendir. Rahat ayakkabı pazarlıksız şarttır — kaldırım taşı topukla anlaşmaz."
+        },
+        {
+          "icon": "🚌",
+          "title": "Lothian otobüsleri",
+          "description": "Bordo otobüsler şehrin her köşesine uzanır: kartla temassız ödeme günlük tavana takılır — bilet matematiğini sistem senin yerine yapar. Üst kat ön koltuk, şehrin en ucuz manzara turudur."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tramvay hattı",
+          "description": "Tek hat havalimanından Leith'e uzanır: Princes Street ve St Andrew Square kilit duraklardır. Yeni uzatmayla Leith rıhtımına inmek kolaylaştı — liman gezisi için pratik hat."
+        },
+        {
+          "icon": "🥾",
+          "title": "Tepe patikaları",
+          "description": "Arthur's Seat patikaları Holyrood'dan başlar: zirve 45 dakikalık tırmanıştır, patika seçenekleri her seviyeye uyar. Calton Hill ise on dakikada çıkılan 'tembel manzarası'dır — ikisi de ücretsizdir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Manzara tüyosu",
+        "text": "Rüzgarlı ama açık bir akşamüstü Calton Hill'e çık: kale, Old Town silüeti ve Forth Körfezi tek karede toplanır. Gün batımından yirmi dakika önce yerini al — Edinburgh ışığı fotoğrafçıya cömerttir, rüzgar ise şapkana düşmandır."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Seçim iki şehir arasındadır: Old Town'ın taş atmosferi, New Town'ın Georgian zarafeti ya da Stockbridge ile Leith'in mahalle ruhu.",
+      "local_word": {
+        "word": "Close",
+        "pronunciation": "klous",
+        "definition": "Royal Mile'dan ayrılan dar, tünelli ara geçit: Edinburgh'un gizli damarları. Her close'un adı bir hikaye taşır — kimi bir tüccarın, kimi bir hayaletin. Turist ana caddede yürür, şehri tanıyan close'lara sapar: taş kemerin ardında avlular, manzaralar ve dört yüzyıllık fısıltılar vardır."
+      },
+      "items": [
+        {
+          "name": "Old Town",
+          "badge": "En atmosferik",
+          "badge_type": "vibe",
+          "description": "Royal Mile çevresinin taş binalarında oteller: kale yukarıda, close'lar kapının dibinde. Tarihin içinde uyanırsın — yaz ve festival döneminde hareketli, kışın masalsıdır.",
+          "tags": [
+            "Kaleye yürüme",
+            "Taş atmosfer",
+            "Close'ların içinde"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Old+Town+Edinburgh"
+        },
+        {
+          "name": "New Town",
+          "badge": "Georgian zarafet",
+          "badge_type": "value",
+          "description": "Düzenli meydanlar, zarif cepheler ve Princes Street alışverişi: Old Town'a beş dakika, sakinliği bir gömlek fazla. Dengeli ve şık üs — kahvaltı mekanları da buradadır.",
+          "tags": [
+            "Georgian cepheler",
+            "Alışverişe komşu",
+            "Dengeli konum"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=New+Town+Edinburgh"
+        },
+        {
+          "name": "Stockbridge",
+          "badge": "Köy ruhu",
+          "badge_type": "local",
+          "description": "Su kenarında köy havalı mahalle: pazar günü sokak pazarı, bağımsız dükkanlar, kahveciler. Merkeze çeyrek saatlik yürüyüş — Edinburgh'u yerlisi gibi yaşamak isteyene.",
+          "tags": [
+            "Pazar günü pazarı",
+            "Bağımsız dükkanlar",
+            "Dere kenarı yürüyüş"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Stockbridge+Edinburgh"
+        },
+        {
+          "name": "Leith",
+          "badge": "Liman karakteri",
+          "badge_type": "local",
+          "description": "Rıhtım boyu restoranlar, Michelin yıldızlı mutfaklar ve dönüşen liman dokusu: The Shore akşamları şehrin en keyifli köşelerindendir. Tramvayla merkeze bağlanır — fiyatlar bir gömlek insaflı.",
+          "tags": [
+            "Rıhtım restoranları",
+            "Michelin mutfağı",
+            "Tramvay bağlantısı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Leith+Edinburgh"
+        },
+        {
+          "name": "Bruntsfield ve Morningside",
+          "badge": "Sakin taraf",
+          "badge_type": "value",
+          "description": "Parklara komşu, kafeli-fırınlı güney mahalleleri: Meadows çayırından merkeze keyifli yürüyüş. Aileler ve sakin geceler isteyenler için dengeli seçim.",
+          "tags": [
+            "Park komşusu",
+            "Mahalle kafeleri",
+            "Sessiz geceler"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bruntsfield+Edinburgh"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Edinburgh'un havası hiç garanti vermez ama takvimi nettir: ağustos festival çılgınlığı, aralık ışıklı şenlik, bahar ile güz sakin denge.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Uyanan Bahçeler",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Çiçekli Meadows, uzayan günler",
+          "description": "Meadows çayırı kiraz çiçeğine boğulur, günler hızla uzar, festival kalabalığı henüz uzaktadır. Arthur's Seat patikaları ve close keşifleri için yılın en dengeli penceresi — hava yine de sürprizlidir, kat kat giyin.",
+          "callout": {
+            "type": "tip",
+            "label": "Mayıs ipucu",
+            "text": "Mayıs sabahı Arthur's Seat'e erken tırman: zirvede rüzgar sert ama manzara berraktır — kale, körfez ve şehir ayaklarının altında. İnişte Stockbridge pazarına yetişirsen kahvaltı ödülü hazırdır."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Festival Çılgınlığı",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Fringe sahneleri, dolu sokaklar, uzun ışık",
+          "description": "Ağustosta Fringe, Uluslararası Festival ve Military Tattoo aynı anda sahnededir: şehir dev bir gösteriye döner, gece yarısı bile kuyruklar sürer. Işık akşam ona kadar kalır — enerji eşsiz, fiyat ve kalabalık zirvededir.",
+          "callout": {
+            "type": "warning",
+            "label": "Ağustos notu",
+            "text": "Festival ağustosuna plansız gelme: konaklamayı aylar önce ayır, gösterilere önceden bilet al ama günde bir-iki boşluk bırak — Fringe'in ruhu, broşürünü beğendiğin meçhul gösteriye son dakika girmektir."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Altın Sis Mevsimi",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Turuncu parklar, dreich günler, pub şöminesi",
+          "description": "Şehir festival yorgunluğunu atar, parklar altına döner, haar sisi sabahları kaleyi yutup geri verir. Pub şömineleri yanar, viski mevsimi açılır — Edinburgh'un en 'kendisi' olduğu aylar bunlardır.",
+          "callout": {
+            "type": "tip",
+            "label": "Ekim ipucu",
+            "text": "Ekim akşamı Victoria Street'in ışıkları yanarken yürü, ardından şömineli bir pub'da dram söyle: dreich hava dışarıda, sen içeride — İskoç sonbaharının tam formülü budur. Cadılar Bayramı'nın atası Samhuinn ateş festivali de bu aydadır."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Işıklar ve Hogmanay",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Noel pazarları, yılbaşı şenliği, kısa günler",
+          "description": "Aralıkta Noel pazarı Princes Street bahçelerini ışığa boğar; yılbaşında Hogmanay üç günlük şehir şenliğine döner — meşaleli yürüyüş, konserler ve gece yarısı havai fişekleri. Günler kısa, atmosfer yoğundur.",
+          "callout": {
+            "type": "tip",
+            "label": "Hogmanay ipucu",
+            "text": "Yılbaşını Edinburgh'da geçireceksen Hogmanay biletlerini erkenden al: sokak partisi kontenjanlıdır. 1 Ocak'ta cesaretin varsa 'Loony Dook' ile buz gibi denize girenlere katıl ya da kıyıdan alkışla — yıla İskoç usulü başlamış olursun."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "İskoç mutfağı mütevazı görünür, sağlam çıkar: haggis'in baharatı, somonun tazesi, viskinin dumanı — hepsi pub sıcaklığında.",
+      "local_word": {
+        "word": "Dram",
+        "pronunciation": "dram",
+        "definition": "Bir ölçü viski: İskoç sofra kültürünün temel birimi. 'A wee dram' (küçük bir dram) davetin, kutlamanın ve teselli etmenin ortak dilidir. Viskiye su damlatmak ayıp değil, aromayı açan ustalıktır — barmenden 'water dropper' iste, dram'ını kendi ayarınla iç."
+      },
+      "items": [
+        {
+          "icon": "🥘",
+          "name": "Haggis, neeps and tatties",
+          "description": "İskoçya'nın milli yemeği: baharatlı haggis, şalgam ezmesi ve patates püresiyle. Kulağa cesaret işi gelir, tadı baharatlı ve derin çıkar — üstüne viski soslu 'whisky sauce' istemek meşru bir moderniktir.",
+          "tag": "Milli klasik · viski soslu dene",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=haggis+restaurant+Edinburgh"
+        },
+        {
+          "icon": "🥃",
+          "name": "Viski dram ritüeli",
+          "description": "Islay'in dumanlısından Speyside'ın ballısına: iyi viski barı sana sorarak yol çizer. Tadım tahtası (flight) üç dram'la başlar — 'peaty mi, sweet mi?' sorusuna cevabını hazırla.",
+          "tag": "Tadım tahtasıyla · barmene danış",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=whisky+bar+Edinburgh"
+        },
+        {
+          "icon": "🐟",
+          "name": "Fish and chips, chippy sauce'la",
+          "description": "Çıtır hamurlu morina ve iri patates: Edinburgh'da fark, kahverengi 'chippy sauce'tadır — sirkeyle esmer sosun yerli karışımı. 'Salt and sauce?' sorusuna 'aye' de, şehrin usulüne uy.",
+          "tag": "Chippy klasiği · salt and sauce",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=fish+and+chips+Edinburgh"
+        },
+        {
+          "icon": "🍲",
+          "name": "Cullen skink",
+          "description": "Tütsülenmiş mezgitli, patatesli, kremalı çorba: kuzeydoğu kıyısının Edinburgh sofralarına hediyesi. Dreich bir öğlenin en dürüst cevabı — yanında taze ekmek, tereyağı bol.",
+          "tag": "Tütsülü çorba · dreich günü işi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=cullen+skink+Edinburgh"
+        },
+        {
+          "icon": "🍳",
+          "name": "Full Scottish kahvaltı",
+          "description": "Sosis, yumurta, fasulye ve yıldız oyuncular: kare sosis (lorne), tattie scone ve haggis dilimi. Öğlene kadar tok tutar — kahvaltı mekanı kuyruğu Stockbridge'de gelenektir.",
+          "tag": "Güne meydan okuma · tattie scone'lu",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Scottish+breakfast+Edinburgh"
+        },
+        {
+          "icon": "🍰",
+          "name": "Cranachan ve shortbread",
+          "description": "Krema, bal, viski ve kavrulmuş yulafla ahududu tatlısı cranachan; yanında tereyağlı shortbread: İskoç tatlısının iki klasiği. Kapanışı tatlı yerine peynir tabağı + dram ile yapmak da yerli usuldür.",
+          "tag": "Tatlı ikili · viskili krema",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=cranachan+Edinburgh"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sofra kuralı",
+        "text": "Edinburgh'da öğlen menüleri akşamın yarı fiyatıdır: büyük yemeği öğlene kur. Royal Mile üstü turist tuzağına karşı bir sokak sap — Leith rıhtımı ve Stockbridge, fiyat-lezzet dengesinin en dürüst adresleridir."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Kaleyi herkes görür; bu altısı Edinburgh'un sisli, hikayeli saklı sayfaları.",
+      "items": [
+        {
+          "rarity": "Şehir içinde köy",
+          "name": "Dean Village",
+          "description": "Merkezden on dakikada ortaçağ değirmen köyü: taş evler, Water of Leith'in sesi ve sarmaşıklı cepheler. Sabah erken git — köprüden bakınca şehirde olduğuna inanmak zorlaşır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dean+Village+Edinburgh"
+        },
+        {
+          "rarity": "Fotoğrafçının sokağı",
+          "name": "Circus Lane",
+          "description": "Stockbridge'in arka tarafında taş kaplı, çiçekli eski ahır sokağı: kuleli kilise fonu ve begonya saksılarıyla şehrin en zarif karesi. Beş dakikalık sokak, yarım saatlik fotoğraf molası demektir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Circus+Lane+Edinburgh"
+        },
+        {
+          "rarity": "Gölün kıyısında köy pub'ı",
+          "name": "Duddingston ve Sheep Heid Inn",
+          "description": "Arthur's Seat'in arkasına saklanmış köy: gölü, kilisesi ve 1360'tan beri hizmet veren pub'ıyla. Zirveden inişi bu yöne yap — skittle salonu olan pub'da dram, yürüyüşün hak edilmiş ödülüdür.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sheep+Heid+Inn+Duddingston"
+        },
+        {
+          "rarity": "Dere boyu patika",
+          "name": "Water of Leith yürüyüş yolu",
+          "description": "Şehri gizlice kat eden dere patikası: Dean Village'dan Stockbridge'e, oradan botanik bahçesine su sesiyle yürürsün. Şehir gürültüsü bir üst katta kalır — Edinburgh'un saklı yeşil koridoru.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Water+of+Leith+Walkway"
+        },
+        {
+          "rarity": "Tepedeki akropol",
+          "name": "Calton Hill",
+          "description": "On dakikalık tırmanışla anıtlar tepesi: yarım kalmış 'Parthenon'u, gözlemevi ve şehrin en meşhur manzarası. Gün batımında herkes buradadır ama tepe geniştir — kendi taşını bul, ışığın inişini izle.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Calton+Hill+Edinburgh"
+        },
+        {
+          "rarity": "Kitap kokulu mola",
+          "name": "Old Town'ın bağımsız kitapçıları",
+          "description": "Grassmarket ve Victoria Street çevresinin ikinci el kitapçıları: raflar arasında harita, eski baskı ve İskoç şiiri. Yağmur bastırınca en iyi sığınak — 'dreich günü kitapçı günüdür' kuralı burada doğrulanır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Armchair+Books+Edinburgh"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sis stratejisi",
+        "text": "Edinburgh'un saklı köşeleri hava ile eşleşir: açık günde Calton Hill ve Duddingston, dreich günde kitapçılar ve müzeler, her günde Dean Village. Havaya küsme — bu şehirde her gökyüzünün kendi rotası vardır."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Edinburgh dürüst bir şehirdir; tuzakları küçük ama klasiktir — bu dördünü bilen, bütçesini dram'a saklar.",
+      "items": [
+        {
+          "icon": "🧣",
+          "name": "Seri üretim 'İskoç' kaşmir ve tartan",
+          "description": "Royal Mile'ın bazı vitrinlerinde 'Scottish cashmere' etiketli ithal ürünler el dokuması fiyatına satılır; gayda çalan hoparlör, tezgahın menşeini değiştirmez.",
+          "instead": "Etiketi oku: 'Made in Scotland' ara, dokuma fabrikası markalarını seç. Gerçek tartan istiyorsan klan desenini soran, metrajla çalışan köklü dükkana git — hikayesini anlatan esnaf, malını da bilir."
+        },
+        {
+          "icon": "🎫",
+          "name": "Kale kapısında bilet kuyruğu",
+          "description": "Edinburgh Kalesi saatli kontenjanla çalışır: yaz günü kapıya gelen, ya uzun kuyruğa ya 'sold out' tabelasına toslar.",
+          "instead": "Bileti resmi siteden günler önce saatli al; sabah ilk seans hem sakin hem manzara için en iyisidir. Top atışını (One O'Clock Gun) duymak istersen 13.00'te surlarda ol."
+        },
+        {
+          "icon": "🏨",
+          "name": "Ağustos'a son dakika gelmek",
+          "description": "Festival ayında konaklama fiyatları üç-dört katına çıkar ve yine de dolar; son dakika arayan, şehir dışına ya da bütçe üstüne savrulur.",
+          "instead": "Festival planını aylar önce kilitle ya da ziyaretini eylüle kaydır: aynı şehir, yarı fiyat ve boş nefes. Eylül başı 'festival sonrası sakinliği' Edinburgh'un gizli altın haftalarıdır."
+        },
+        {
+          "icon": "👻",
+          "name": "Vasat hayalet turları",
+          "description": "Mezarlık ve yeraltı turlarının bazıları kostümlü korkutmacayla bilet doldurur; tarih anlatısı zayıf, deneyim panayır seviyesinde kalır.",
+          "instead": "Yorumları okuyup hikaye anlatımıyla bilinen küçük grup turlarını seç; alternatif olarak Real Mary King's Close gibi belgeli yeraltı turları tarihiyle korkutur — ucuz jump-scare yerine sahici ürperti."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Edinburgh'da en pahalı şeyler bilet ve ağustos, en değerli şeyler ücretsizdir: tepeler, close'lar, sokak müziği ve manzara. Parayı bir iyi dram'a, bir iyi sofraya ve önceden alınmış biletlere sakla — gerisini yürüyerek biriktir."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Kaleden Calton Hill'e bir hikaye günü",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Full Scottish kahvaltı",
+              "description": "Tattie scone ve haggis dilimli kahvaltıyla güne meydan oku: bugün yokuş çok, yakıt şart."
+            },
+            {
+              "time": "09:30",
+              "title": "Edinburgh Kalesi",
+              "description": "Saatli biletinle ilk seansta gir: taht odası, savaş anıtı ve surlardan şehir. 13.00 top atışına kadar çıkmış ol."
+            },
+            {
+              "time": "12:00",
+              "title": "Royal Mile ve close keşfi",
+              "description": "Ana caddeden değil, ara geçitlerden yürü: avlular, manzaralar ve St Giles Katedrali. Victoria Street'in renkli cephelerinde mola."
+            },
+            {
+              "time": "14:00",
+              "title": "Öğlen sofrası ve müze",
+              "description": "Grassmarket çevresinde cullen skink ya da haggis; ardından Ulusal Müze'nin çatı terası — ücretsiz ve manzaralı."
+            },
+            {
+              "time": "16:30",
+              "title": "Arthur's Seat ya da Calton Hill",
+              "description": "Enerjine göre seç: 45 dakikalık zirve tırmanışı ya da 10 dakikalık anıt tepesi. İkisi de gün batımına cömerttir."
+            },
+            {
+              "time": "19:30",
+              "title": "Pub akşamı ve dram",
+              "description": "Şömineli pub'da akşam yemeği, ardından viski tadım tahtası: 'peaty mi sweet mi?' sorusunun cevabını bul. Canlı folk müziği varsa gece uzar."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "İki şehir, tepeler ve liman — tam Edinburgh",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Edinburgh",
+              "description": "Yukarıdaki 1 günlük akış: kahvaltı, kale, close'lar, müze, tepe manzarası, pub ve dram."
+            },
+            {
+              "time": "2. Gün",
+              "title": "New Town ve köy köşeleri",
+              "description": "Sabah Georgian New Town cepheleri ve Princes Street bahçeleri; öğlen Stockbridge'de kahve ve dükkan turu (pazarsa sokak pazarı); ikindi Dean Village + Water of Leith patikasıyla botanik bahçesine yürüyüş; akşam Circus Lane fotoğrafı ve mahalle bistrosu."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Zirve ve liman",
+              "description": "Sabah Arthur's Seat zirvesi, inişte Duddingston köyü ve Sheep Heid Inn'de öğle; ikindi tramvayla Leith — rıhtım yürüyüşü ve Royal Yacht Britannia; veda akşamı The Shore'da deniz mahsulü sofrası + son dram."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "İskoç İngilizcesi kendi sözlüğüyle gelir; bu beş ifade pub'da ve sokakta buzları anında eritir.",
+      "items": [
+        {
+          "word": "Aye",
+          "pronunciation": "ay",
+          "meaning": "Evet — kısa, net ve İskoç; günde yüz kez duyarsın"
+        },
+        {
+          "word": "Wee",
+          "pronunciation": "vii",
+          "meaning": "Küçük, azıcık — 'a wee dram', 'a wee walk'; her cümleye sığan sevimli kelime"
+        },
+        {
+          "word": "Bonnie",
+          "pronunciation": "boni",
+          "meaning": "Güzel, hoş — manzaraya da insana da söylenir; 'bonnie Scotland' klişesi haklıdır"
+        },
+        {
+          "word": "Slàinte mhath!",
+          "pronunciation": "slança va",
+          "meaning": "Şerefe! — Gal dilinde 'sağlığına'; dram kalkarken söylenir, barda saygı görür"
+        },
+        {
+          "word": "How's it gaun?",
+          "pronunciation": "havz it gon",
+          "meaning": "Nasıl gidiyor? — İskoç usulü 'naber'; cevabı çoğu kez 'no bad' gelir"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Edinburgh Checklist",
+      "completion_message": "Slàinte mhath! Sisin ve hikayelerin şehrini hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Kaleyi saatli biletle gez",
+          "sub": "Sabah ilk seans — surlardan şehir manzarası"
+        },
+        {
+          "label": "Bir close'un içine sap ve avlusunu bul",
+          "sub": "Royal Mile'ın gizli damarları"
+        },
+        {
+          "label": "Arthur's Seat'in zirvesine tırman",
+          "sub": "45 dakika — kapanmış volkanın tepesi"
+        },
+        {
+          "label": "Haggis'i neeps ve tatties ile ye",
+          "sub": "Viski soslu versiyonunu dene"
+        },
+        {
+          "label": "Viski tadım tahtasında dram'ını bul",
+          "sub": "'Peaty mi, sweet mi?' — barmene danış"
+        },
+        {
+          "label": "Victoria Street'in renkli cephelerini gör",
+          "sub": "Diagon Alley'nin ilham kaynağı"
+        },
+        {
+          "label": "Calton Hill'de gün batımını izle",
+          "sub": "On dakikalık tırmanış, anıtlar arasında"
+        },
+        {
+          "label": "Dean Village'a sabah erken in",
+          "sub": "Şehir içinde ortaçağ değirmen köyü"
+        },
+        {
+          "label": "Fish and chips'i chippy sauce'la dene",
+          "sub": "'Salt and sauce?' sorusuna 'aye' de"
+        },
+        {
+          "label": "Şömineli pub'da folk müziğine denk gel",
+          "sub": "Dreich akşamın en iyi kapanışı"
+        }
+      ]
+    }
+  }
+}

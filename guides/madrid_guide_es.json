@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Madrid",
+    "country": "Spain",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#8B1A1A",
+    "color_light": "#F8EAEA",
+    "tagline": "La ciudad europea que nunca duerme, donde estar en la calle a las 2 de la mañana no necesita explicación.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Almorzar tarde, cenar más tarde",
+    "Comer de pie en un bar de tapas",
+    "Ir a El Rastro el domingo por la mañana"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Reinicia tu reloj antes de aterrizar. La comida empieza a las 14:00, cenar antes de las 21:30 es casi impensable, y a las 2:00 de la madrugada las calles siguen llenas. Esto no es una exageración, es el ritmo real de Madrid. Visita el Prado, el Reina Sofía, el Palacio Real, pero si ya estás planeando qué comer después de cenar, estás pensando como un madrileño. El metro cuesta menos que un café. El sol se pone tarde. Las tapas se comen de pie, charlando, sin prisas.",
+      "local_word": {
+        "pronunciation": "ber-moo-TAY-o",
+        "definition": "El ritual de tomar vermut antes de la comida. Entre el mediodía y las 14:00, los bares sirven vermut de grifo, acompañado de patatas fritas, aceitunas y un trozo de tortilla. Los domingos después de El Rastro, o en las pausas para comer entre semana. '¿Hacemos un vermuteo?' es una de las frases más comunes en el vocabulario madrileño.",
+        "word": "Vermuteo"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Adáptate al ritmo de Madrid, o la ciudad te cerrará sus puertas",
+          "description": "El desayuno es ligero y temprano. La comida es entre las 14:00 y las 16:00, la comida más importante del día y la opción más económica: un menú completo de primero, segundo y postre por 12-15 euros, normalmente con bebida incluida. No empieces a cenar antes de las 21:00. A las 23:00 las mesas aún se están llenando. Sigue estos horarios y comerás barato en sitios locales."
+        },
+        {
+          "number": 2,
+          "title": "Evita las trampas para turistas: camina dos calles",
+          "description": "Los restaurantes alrededor de la Plaza Mayor, la mayor parte de Gran Vía y el Mercado de San Miguel son turísticos y caros. A dos calles de distancia, los precios bajan y la calidad sube. Si el menú tiene fotos, hay alguien fuera invitándote a entrar, o el menú en inglés es muy prominente, sigue caminando."
+        },
+        {
+          "number": 3,
+          "title": "Entiende la cultura de las tapas",
+          "description": "En Madrid, las tapas no suelen ser gratis con las bebidas; algunos bares ponen algo pequeño, pero no es la norma. Come de pie en la barra, visita varios bares, y toma algo de comer y beber en cada uno. Pequeñas, ligeras, para compartir: croquetas, patatas bravas, boquerones, un trozo de tortilla."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "MAD — Adolfo Suárez Madrid-Barajas",
+          "sub": "Línea 8 de Metro a Nuevos Ministerios ~25 min · Suplemento aeropuerto de 3 €"
+        },
+        {
+          "icon": "🚇",
+          "label": "Metro",
+          "value": "13 lines, 300+ stations",
+          "sub": "Billete sencillo 1,50–2 € (por distancia) · Billete de 10 viajes 7,30 €"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Clima",
+          "value": "Continental — temperaturas extremas",
+          "sub": "Mayo–Jun y Sep–Oct ideal · Jul–Ago muy caluroso · Dic–Feb frío"
+        },
+        {
+          "icon": "🍷",
+          "label": "Horarios de comidas",
+          "value": "Comida 14:00–16:00 · Cena 21:00+",
+          "sub": "Menú del día 12–15 € · fuera de estos horarios los sitios están vacíos"
+        }
+      ],
+      "tip": {
+        "label": "Menú del día: la mejor opción en Madrid",
+        "text": "De lunes a viernes, de 14:00 a 16:00, casi todos los restaurantes tienen un menú del día. Primero, segundo y postre, pan, bebida (cerveza o vino) incluidos, por 12 a 15 euros. En zonas turísticas es más caro y generalmente de menor calidad. Métete por una calle lateral, busca sitios sin menú en inglés: ahí es donde está el verdadero menú del día.",
+        "type": "tip"
+      },
+      "title": "Bienvenido a Madrid"
+    },
+    "transport": {
+      "intro": "El metro llega a todas partes, pero el centro de la ciudad es lo suficientemente pequeño como para recorrerlo a pie. Los taxis son una opción, pero no son imprescindibles.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeropuerto → Ciudad",
+          "description": "Línea 8 de metro hasta Nuevos Ministerios, 25 minutos, y luego transbordo al centro de la ciudad. El billete es la tarifa estándar de metro más un suplemento de aeropuerto de 3 € — unos 5 € en total. Taxi con tarifa fija desde el aeropuerto: 33 €. Las terminales T1-T2-T3 están conectadas; la T4 está separada, a 10 minutos en metro."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro — la columna vertebral de la ciudad",
+          "description": "13 líneas, más de 300 estaciones. Billete sencillo 1,50–2 €, según la distancia. El billete de 10 viajes (MetroBus) cuesta 7,30 € — válido tanto para metro como para autobús, y se puede compartir entre varias personas (cada una valida su viaje por separado). Primero necesitas comprar una Tarjeta Multi en una máquina de la estación (2,50 €). Funciona de 6:00 a 1:30."
+        },
+        {
+          "icon": "🚌",
+          "title": "Autobuses EMT — para las noches",
+          "description": "Más de 200 rutas diurnas, 35 rutas nocturnas (Búho). El servicio diurno funciona de 6:00 a 23:30. Los autobuses nocturnos salen de Cibeles — la única opción una vez que cierra el metro. Paga directamente con tarjeta o con el billete de 10 viajes."
+        },
+        {
+          "icon": "🚲",
+          "title": "BiciMAD — bicicletas eléctricas",
+          "description": "Estaciones de bicicletas eléctricas compartidas por toda la ciudad. 0,50 € por 30 minutos o una tarifa plana mensual de 10 €. Rutas ideales por el Paseo del Prado, el Retiro y Madrid Río."
+        },
+        {
+          "icon": "🚶",
+          "title": "Caminar — la mejor opción",
+          "description": "El centro de la ciudad es más pequeño de lo que crees. Desde Sol: La Latina a 15 minutos, Malasaña a 20 minutos, Chueca a 10 minutos. Seguro por la noche. Puedes pasar un día entero sin necesidad de usar el metro."
+        }
+      ],
+      "callout": {
+        "label": "¿Abono Turístico o billete de 10 viajes?",
+        "text": "Para unos pocos días, el billete de 10 viajes MetroBus (7,30 €) suele ser la opción más económica — válido tanto para metro como para autobús, y se puede compartir entre viajeros. El Abono Turístico cuesta 10 € al día para la Zona A, 42 € para 7 días — viajes ilimitados incluyendo el aeropuerto sin suplemento. Si te quedas más de 3 días y planeas moverte mucho, el Abono Turístico es una opción a considerar.",
+        "type": "tip"
+      },
+      "title": "Cómo moverse"
+    },
+    "stay": {
+      "intro": "La ubicación importa mucho en Madrid: la ciudad vive de noche y el carácter del barrio influye directamente en tus veladas.",
+      "local_word": {
+        "pronunciation": "BAR-ryo",
+        "definition": "Barrio. Madrid está formado por decenas de barrios, cada uno con su propia identidad. El eje Sol-Gran Vía es el centro turístico. La Latina es histórico y de tapas; Malasaña es joven y alternativo; Chueca es animado y moderno; Chamberí es tranquilo y local; Lavapiés es multicultural y artístico. El barrio en el que te alojes determinará cómo vives la ciudad.",
+        "word": "Barrio"
+      },
+      "items": [
+        {
+          "name": "La Latina / Lavapiés",
+          "badge": "El más histórico, el más vivo",
+          "badge_type": "local",
+          "description": "La Latina es uno de los barrios más antiguos de Madrid. La Cava Baja está repleta de bares de tapas y tabernas históricas. La Plaza de la Paja es una tranquila plaza medieval. El Rastro pasa por aquí los domingos. Justo al lado, Lavapiés es multicultural, artístico y en constante cambio; aquí se encuentra el Mercado de San Fernando.",
+          "tags": [
+            "El Rastro los domingos",
+            "Tapas en Cava Baja",
+            "Calles históricas"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Latina+Madrid"
+        },
+        {
+          "name": "Malasaña",
+          "badge": "El más alternativo",
+          "badge_type": "local",
+          "description": "El movimiento de la Movida Madrileña de los años 80 nació aquí. Aún conserva ese espíritu: arte callejero, tiendas vintage, pequeños bares y cafeterías. La Plaza del Dos de Mayo se llena por la tarde. Animado pero auténtico. A diez minutos a pie de Gran Vía, pero parece otro mundo.",
+          "tags": [
+            "Arte callejero",
+            "Tiendas vintage",
+            "Vida nocturna"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Malasaña+Madrid"
+        },
+        {
+          "name": "Chueca",
+          "badge": "El más animado",
+          "badge_type": "hot",
+          "description": "Colorido, moderno, con una vibrante vida nocturna. Aquí se encuentra el Mercado de San Antón, con tres plantas y un bar en la azotea. La Bodega de la Ardosa sirve vermut directamente del barril desde 1892. Limita con Malasaña, a solo cinco minutos de distancia.",
+          "tags": [
+            "Mercado de San Antón",
+            "Bodega de la Ardosa",
+            "Vida nocturna"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chueca+Madrid"
+        },
+        {
+          "name": "Chamberí",
+          "badge": "El más local, el más tranquilo",
+          "badge_type": "local",
+          "description": "El barrio que eligen los madrileños cuando quieren quedarse en Madrid. Familias tomando café por la mañana en la Plaza de Olavide, parejas mayores compartiendo periódicos. Sin presión turística. Andén 0 —la estación de metro fantasma— está aquí. A 15-20 minutos a pie del centro de la ciudad.",
+          "tags": [
+            "Plaza de Olavide",
+            "Andén 0",
+            "Ritmo de barrio tranquilo"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chamberí+Madrid"
+        },
+        {
+          "name": "Barrio de las Letras",
+          "badge": "El más cultural",
+          "badge_type": "hot",
+          "description": "Entre el Prado y la Puerta del Sol, donde vivieron Lope de Vega y Cervantes. Citas de escritores están incrustadas en el pavimento de la Calle de las Huertas; mira hacia abajo mientras caminas. El Thyssen y el Reina Sofía están a poca distancia. Se tranquiliza temprano por la mañana, ese es su mejor momento.",
+          "tags": [
+            "Citas en Calle de las Huertas",
+            "Cerca de museos",
+            "Historia literaria"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Barrio+de+las+Letras+Madrid"
+        }
+      ],
+      "title": "Dónde alojarse"
+    },
+    "best_time": {
+      "intro": "Madrid tiene un clima continental: los veranos son muy calurosos, los inviernos fríos, y la primavera y el otoño son excelentes.",
+      "items": [
+        {
+          "label": "Primavera",
+          "name": "La mejor época",
+          "months": "Abr – Jun",
+          "description": "De abril a junio es el período más equilibrado de Madrid. Hay sol, pero la temperatura es ideal para explorar. La Rosaleda del Parque del Retiro está en flor en mayo. Fiestas de San Isidro en mayo: la fiesta local más grande de Madrid, músicos callejeros, trajes tradicionales, conciertos al aire libre. La floración de los almendros en la Quinta de los Molinos a finales de marzo.",
+          "callout": {
+            "label": "Fiestas de San Isidro — segunda semana de mayo",
+            "text": "El festival en honor al patrón de Madrid, San Isidro. Una semana completa de conciertos al aire libre por toda la ciudad, actuaciones de chotis tradicional, trajes típicos y festividades. La Pradera de San Isidro es el centro, al suroeste de la ciudad, gratuito. La fiesta local más auténtica.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Primavera · La ciudad se abre, las multitudes aún no han llegado"
+        },
+        {
+          "label": "Otoño",
+          "name": "Respirando después del verano",
+          "months": "Sep – Nov",
+          "description": "Desde mediados de septiembre hasta noviembre, Madrid vuelve a la vida. Los museos abren nuevas exposiciones, los restaurantes lanzan nuevos menús. El Parque del Retiro se tiñe de oro en otoño; las mañanas de los días laborables son sus mejores horas. Las multitudes son menores que en verano.",
+          "callout": {
+            "label": "Parque del Retiro — temprano por la mañana entre semana",
+            "text": "350 hectáreas en el corazón de la ciudad. El Palacio de Cristal es un espacio de exposición gratuito. Puedes alquilar una pequeña barca de remos en el lago; ve y disfrútalo. Las mañanas de los días laborables a las 9h son un mundo diferente a las multitudes de las tardes de fin de semana. La estatua del Ángel Caído está en una pequeña colina al sur, con muy pocos visitantes.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Otoño · La ciudad emerge del letargo veraniego"
+        },
+        {
+          "label": "Verano",
+          "name": "Caluroso, pero la ciudad nunca duerme",
+          "months": "Jul – Aug",
+          "description": "Julio y agosto son los meses más calurosos de Madrid; 40°C es normal. Entre las 14h y las 19h, estar al aire libre es difícil. Pero la vida nocturna alcanza su punto álgido. Veranos de la Villa: conciertos al aire libre, proyecciones de cine y eventos culturales durante todo el verano. Pícnics junto al lago en la Casa de Campo. Los bares en azoteas están en su momento más animado esta temporada.",
+          "callout": {
+            "label": "Azoteas — los bares en azoteas de Madrid",
+            "text": "La azotea del Círculo de Bellas Artes (entrada 5€) ofrece un panorama de la Gran Vía. El bar de la azotea del Mercado de San Antón tiene vistas a Chueca. Los mejores lugares para disfrutar de las vistas del atardecer sobre el horizonte de la ciudad y la Gran Vía. Imprescindible reservar en verano.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Verano · 40°C es posible, pero la vida nocturna alcanza su punto álgido"
+        },
+        {
+          "label": "Invierno",
+          "name": "Tranquilo, pero fácil para el bolsillo",
+          "months": "Dec – Feb",
+          "description": "Diciembre: las luces de Navidad cubren la Gran Vía, y la cabalgata de los Reyes Magos la tarde del 5 de enero. Enero y febrero son tranquilos: museos vacíos, restaurantes sin colas, hoteles asequibles. El cocido madrileño —el guiso de garbanzos invernal— es el plato de estos meses. Frío, pero la nieve es rara.",
+          "callout": {
+            "label": "Reyes Magos — tarde del 5 de enero",
+            "text": "En España no es la Navidad, sino la tradición de los Reyes Magos lo que más importa. La tarde del 5 de enero, una enorme cabalgata recorre las calles de Madrid: tres reyes y cientos de carrozas pasando por el centro de la ciudad, lanzando caramelos a la multitud. La noche más concurrida del año. La mañana del 6 de enero, los niños encuentran sus regalos.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Invierno · La ciudad se calma, más fácil para el bolsillo"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "15 de mayo",
+          "text": "San Isidro: la semana del patrón — pícnics en la pradera, trajes de chulapo, conciertos y el baile del chotis."
+        },
+        {
+          "month": "Junio–Agosto",
+          "text": "Temporada de terrazas: los mediodías calurosos se hacen largos, pero por la noche toda la ciudad está en la calle; los niños siguen en las plazas a medianoche."
+        },
+        {
+          "month": "Septiembre–Noviembre",
+          "text": "La estación ideal: cielos azul intenso, el calor roto, la agenda cultural a tope — los meses más dulces de Madrid."
+        },
+        {
+          "month": "31 de diciembre",
+          "text": "Nochevieja en la Puerta del Sol: el ritual de comer 12 uvas con las campanadas — una uva por cada toque, y un año de suerte si sigues el ritmo."
+        }
+      ],
+      "title": "Cuándo Ir"
+    },
+    "eat": {
+      "intro": "Madrid está lejos del mar, pero el marisco es de lo mejor de la ciudad. Y aquí todo se come de pie, en la barra, sin prisas.",
+      "local_word": {
+        "pronunciation": "bo-ka-DIL-yo de ka-la-MA-res",
+        "definition": "Un bollo de pan relleno de calamares fritos. La comida callejera de Madrid. Se encuentra en bares alrededor de la Plaza Mayor, especialmente en el Bar La Campana. En una ciudad sin costa, el marisco fresco llega a diario gracias a MercaMadrid, uno de los mercados de pescado más grandes del mundo. Este bocadillo es la esencia de Madrid: sencillo, delicioso, para comer de pie.",
+        "word": "Bocadillo de Calamares"
+      },
+      "items": [
+        {
+          "icon": "🦑",
+          "name": "Bocadillo de calamares",
+          "description": "Calamares fritos en un bollo de pan, un chorrito de limón, y listo. El Bar La Campana está justo detrás de la Plaza Mayor, abierto desde 1979. Hay cola, pero avanza rápido. Una cerveza para acompañar, comido de pie en la Plaza Mayor. Prueba esto antes de pensar en cualquier otro sitio al que ir en Madrid.",
+          "tag": "Bar La Campana, detrás de Plaza Mayor · para comer de pie · todos los días",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar+La+Campana+Madrid"
+        },
+        {
+          "icon": "🍳",
+          "name": "Huevos rotos",
+          "description": "Huevos fritos sobre patatas crujientes, con jamón o chorizo. El huevo se rompe para que la yema se extienda sobre las patatas, de ahí su nombre. Típico de Madrid. Casa Lucio es famoso pero suele estar lleno; encontrarás el mismo plato en bares más pequeños de La Latina.",
+          "tag": "Bares de La Latina · almuerzo y cena · ideal para compartir",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Lucio+Madrid"
+        },
+        {
+          "icon": "🥘",
+          "name": "Cocido madrileño",
+          "description": "Un guiso de garbanzos, cerdo, pollo, morcilla y verduras, servido en tres vuelcos. Primero el caldo de garbanzos, luego las verduras, y después las carnes. Un plato de invierno, de noviembre a marzo. La Taberna La Bola lo prepara desde 1870. Imprescindible reservar con antelación.",
+          "tag": "Invierno · almuerzo · Taberna La Bola desde 1870 · se requiere reserva",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Bola+Madrid"
+        },
+        {
+          "icon": "🍟",
+          "name": "Patatas bravas",
+          "description": "Patatas crujientes con dos salsas: una picante (brava) y otra alioli de ajo. En la versión madrileña, la salsa se vierte sobre las patatas. Cada bar de tapas tiene su propia receta. Docamar, en Alcalá, es el bar de patatas bravas más famoso de la ciudad.",
+          "tag": "En cualquier bar de tapas · Docamar es el más famoso",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Docamar+Madrid"
+        },
+        {
+          "icon": "🍩",
+          "name": "Churros con chocolate",
+          "description": "Al final de una noche de fiesta a las 2 de la madrugada, o un domingo por la mañana con los ojos legañosos. La Chocolatería San Ginés lleva abierta desde 1894, justo al lado de la Puerta del Sol. Churros recién hechos, chocolate espeso y oscuro. Sentarse aquí a altas horas de la noche es parte de la experiencia madrileña.",
+          "tag": "Chocolatería San Ginés · desde 1894 · junto a Puerta del Sol · abierto hasta las 2am",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chocolatería+San+Ginés+Madrid"
+        },
+        {
+          "icon": "🍶",
+          "name": "El ritual del vermut",
+          "description": "Los domingos después de El Rastro o en las pausas para comer entre semana. Vermut de grifo, aceitunas para acompañar. La Bodega de la Ardosa en Chueca sirve vermut directamente del barril desde 1892. Casa Alberto en el Barrio de las Letras desde 1827. Esto no es solo una bebida, es un ritual para hacer una pausa.",
+          "tag": "Domingos después de El Rastro o almuerzo entre semana · Bodega de la Ardosa o Casa Alberto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bodega+de+la+Ardosa+Madrid"
+        }
+      ],
+      "callout": {
+        "label": "Cómo tapear en un bar",
+        "text": "Entra, busca un hueco en la barra, pide lo que quieras. Comer de pie es mejor que en una mesa. Visita varios bares: croquetas en uno, patatas bravas en el siguiente, y un bocadillo después. Esta es la forma correcta de tapear en Madrid. Espera un rato antes de pedir la cuenta, aquí no hay prisa.",
+        "type": "tip"
+      },
+      "title": "Qué Comer"
+    },
+    "hidden_gems": {
+      "intro": "Madrid es una ciudad grande, pero sus mejores rincones aparecen en cuanto caminas dos manzanas y giras.",
+      "items": [
+        {
+          "name": "Andén 0 — Estación Fantasma",
+          "description": "Bajo la estación de metro de Puerta del Sol, una estación en desuso que data de 1919. Convertida en museo en 2021. Se conserva la infraestructura original de la construcción del metro: antiguos carteles y vehículos. Con entrada; visitas guiadas en horarios específicos. El punto de partida de la primera línea de metro de España.",
+          "rarity": "Hay otro metro escondido bajo el metro",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Anden+0+Chamberí+Madrid"
+        },
+        {
+          "name": "Calle de las Huertas",
+          "description": "En el Barrio de las Letras, entre Puerta del Sol y el Prado. Citas de Cervantes, Lope de Vega y otros escritores del Siglo de Oro están incrustadas en el pavimento de la calle donde vivieron; mira hacia abajo mientras caminas. Antes de las 10 de la mañana, antes de que lleguen los grupos de turistas, no hay aglomeraciones. La casa de Lope de Vega está abierta como museo.",
+          "rarity": "Poesía incrustada en el pavimento — el barrio literario",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Calle+de+las+Huertas+Madrid"
+        },
+        {
+          "name": "Cerro del Tío Pío — Siete Tetas",
+          "description": "En el barrio de Vallecas, a poca distancia de la parada Buenos Aires de la Línea 1. Siete pequeñas colinas, conocidas localmente como 'Siete Tetas'. Uno de los lugares menos concurridos de la ciudad para disfrutar del skyline de Madrid y el atardecer. Trae una manta de pícnic y comida; siéntate con la gente local a última hora de la tarde.",
+          "rarity": "La colina más local de la ciudad para el atardecer",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cerro+del+Tio+Pio+Madrid"
+        },
+        {
+          "name": "Casa Alberto",
+          "description": "En el Barrio de las Letras, Calle de las Huertas 18. Abierto desde 1827. Barra de madera, vermut de grifo, fotografías antiguas de Madrid en las paredes. Bebe el vermut de grifo, pide caracoles para acompañar — en temporada.",
+          "rarity": "Abierto desde 1827 — en el mismo lugar",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Alberto+Madrid"
+        },
+        {
+          "name": "Quinta de los Molinos",
+          "description": "En Alcalá, cerca de la plaza de toros de Las Ventas. 1.500 almendros — a finales de marzo florecen todos a la vez, el suelo y el aire se tiñen de blanco. Menos conocido que el cerezo japonés, pero igual de impresionante. Gratis, el parque siempre está abierto. Ve un domingo por la mañana — los vecinos pasean por aquí.",
+          "rarity": "Flor de almendro en marzo — el festival más invisible de Madrid",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quinta+de+los+Molinos+Madrid"
+        },
+        {
+          "name": "Azotea del Círculo de Bellas Artes",
+          "description": "Alcalá 42, justo en la esquina de Gran Vía. Paga 5€ y sube a la azotea — Gran Vía, el Palacio Real, la Sierra de Guadarrama visibles 360 grados. Hay un bar. Dentro también hay exposiciones de arte, a menudo gratuitas. Lo más bonito al atardecer.",
+          "rarity": "Contempla la ciudad desde lo alto de Gran Vía",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Circulo+de+Bellas+Artes+Madrid"
+        }
+      ],
+      "callout": {
+        "label": "El Rastro — el ritual del domingo por la mañana",
+        "text": "Todos los domingos de 9h a 15h en La Latina. La Calle de la Ribera de Curtidores es la calle principal — artículos de segunda mano, antigüedades, ropa, libros, de todo. El Rastro el domingo, luego vermuteo a la hora de comer en La Latina — el plan dominical madrileño por excelencia. Vigila tus bolsillos, se llena mucho. La mejor selección, a primera hora de la mañana.",
+        "type": "tip"
+      },
+      "title": "Joyas Escondidas"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Comer un bocadillo de calamares",
+          "sub": "Bar La Campana, detrás de la Plaza Mayor. La cola avanza rápido. Con una caña, de pie en la plaza."
+        },
+        {
+          "label": "Tomar un menú del día — en el lugar adecuado",
+          "sub": "Lun–Vie, 14:00–16:00. Busca una callejuela, 12–15 €, menú completo, bebida incluida."
+        },
+        {
+          "label": "Ir a El Rastro el domingo por la mañana",
+          "sub": "Antes de las 9:00. La Latina, Calle de la Ribera de Curtidores. Vermuteo por el barrio después."
+        },
+        {
+          "label": "Pasear por el Parque del Retiro un día de diario por la mañana",
+          "sub": "Entre semana a las 9:00. Palacio de Cristal, Rosaleda, estanque. Evita los domingos por la tarde."
+        },
+        {
+          "label": "Fijarse en la Calle de las Huertas",
+          "sub": "Barrio de las Letras. Citas de escritores grabadas en el pavimento. Temprano por la mañana, antes de que lleguen los grupos turísticos."
+        },
+        {
+          "label": "Churros con chocolate — de madrugada o el domingo por la mañana",
+          "sub": "Chocolatería San Ginés, desde 1894. Justo al lado de la Puerta del Sol. Abierta hasta las 2:00."
+        },
+        {
+          "label": "Subir a la azotea del Círculo de Bellas Artes",
+          "sub": "Alcalá 42, esquina Gran Vía. Entrada 5 €. Gran Vía, Palacio Real, montañas. Al atardecer."
+        },
+        {
+          "label": "Hacer un vermuteo",
+          "sub": "Bodega de la Ardosa (Chueca, 1892) o Casa Alberto (Letras, 1827). Domingos después de El Rastro o para comer entre semana."
+        },
+        {
+          "label": "Hacer una ruta de tapas",
+          "sub": "Cava Baja en La Latina o Malasaña. Come de pie, visita varios bares."
+        },
+        {
+          "label": "Visitar Andén 0",
+          "sub": "Estación fantasma bajo el metro de Puerta del Sol. Data de 1919. Con entrada, visitas guiadas en horarios fijos."
+        },
+        {
+          "label": "Subir al Cerro del Tío Pío al atardecer",
+          "sub": "Vallecas, Línea 1 Buenos Aires. Manta de pícnic, comida. Horizonte de Madrid, ambiente local."
+        },
+        {
+          "label": "Visitar el Prado o el Reina Sofía",
+          "sub": "Prado gratis Mar–Sáb 18:00–20:00. Reina Sofía gratis Lun–Sáb 19:00–21:00, Dom 13:30–19:00."
+        }
+      ],
+      "title": "Madrid: Tu Lista de Imprescindibles",
+      "completion_message": "Has vivido Madrid a su ritmo. La próxima vez, alarga la noche aún más."
+    },
+    "traps": {
+      "title": "Evita las Trampas",
+      "intro": "Madrid es una ciudad generosa; sus trampas se concentran en sus tres plazas más turísticas. Conoce estas cuatro, el resto es terreno seguro.",
+      "items": [
+        {
+          "icon": "🍤",
+          "name": "Sentarse en la Plaza Mayor",
+          "description": "Las terrazas de la plaza venden la vista histórica, no la cocina: calamares congelados, sangría al doble de precio.",
+          "instead": "Pasea por la plaza, haz tu foto; come tu bocadillo de calamares de pie en los bares clásicos justo fuera de ella."
+        },
+        {
+          "icon": "🥘",
+          "name": "Confundir el Mercado San Miguel con un 'mercado de verdad'",
+          "description": "El mercado de cristal es bonito, pero ahora es un escaparate turístico: raciones pequeñas, precios altos.",
+          "instead": "Para una experiencia de mercado auténtica, ve al Mercado de la Cebada o Antón Martín; los mismos sabores, la mitad de precio, lleno de gente local."
+        },
+        {
+          "icon": "🎩",
+          "name": "Juegos de trileros y peticiones en Sol",
+          "description": "El juego de los cubiletes, la 'petición de la asociación de sordos' y las adivinas con ramitas de romero alrededor de la Puerta del Sol son la misma gente con diferentes disfraces.",
+          "instead": "No te pares, sonríe, sigue caminando; bolso delante, móvil en el bolsillo. Incluso mirar sirve al truco de la multitud de esta gente."
+        },
+        {
+          "icon": "💃",
+          "name": "Las 'galas' de flamenco para tours en autobús",
+          "description": "Los espectáculos gigantes con cena no transmiten el alma del flamenco; la tradición de los tablaos madrileños es más pequeña y auténtica.",
+          "instead": "Elige un tablao establecido, cena en otro sitio, mira el espectáculo con una bebida: más barato y muchas veces más emocionante."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de oro",
+        "text": "La regla de Madrid es sencilla: camina dos manzanas desde cualquier plaza turística y el precio se reduce a la mitad mientras el sabor se duplica. La ciudad ya te lo está diciendo; escucha."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Preparadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Arte, un parque y churros a medianoche",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "El Prado — primera hora",
+              "description": "Reserva con antelación y conoce a Velázquez y Goya con la mente fresca; dos horas son suficientes, no intentes verlo todo."
+            },
+            {
+              "time": "11:30",
+              "title": "Parque del Retiro",
+              "description": "El Palacio de Cristal, una barca en el estanque o simplemente el sol en un banco: donde Madrid respira."
+            },
+            {
+              "time": "14:00",
+              "title": "Comida larga en La Latina",
+              "description": "De bar en bar por la Cava Baja: huevos rotos, tortilla, un vaso de vermut. Las prisas están prohibidas."
+            },
+            {
+              "time": "17:30",
+              "title": "Ruta por Malasaña + Chueca",
+              "description": "Tiendas vintage, vinotecas, café de especialidad; el corazón joven de Madrid late en estos dos barrios."
+            },
+            {
+              "time": "20:30",
+              "title": "Atardecer en la azotea del Círculo",
+              "description": "Contempla la Gran Vía desde la terraza del Círculo de Bellas Artes: las luces de la ciudad se encienden exactamente a esta hora."
+            },
+            {
+              "time": "23:30",
+              "title": "Churros en San Ginés",
+              "description": "Mojar churros en chocolate caliente espeso a medianoche es el ritual de cierre de Madrid; la cola avanza rápido."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Vive la ciudad como un invitado, no como un turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Los clásicos",
+              "description": "El itinerario de 1 día anterior: Prado, Retiro, La Latina, la azotea."
+            },
+            {
+              "time": "Day 2",
+              "title": "El palacio y el Madrid oculto",
+              "description": "El Palacio Real y la Almudena por la mañana, la estación fantasma Andén 0 en Chamberí al mediodía, tapas en el Barrio de las Letras + Casa Alberto por la noche."
+            },
+            {
+              "time": "Day 3",
+              "title": "Mercado y despedida",
+              "description": "El Rastro si es domingo, luego la hora del vermut en La Latina; el Guernica en el Reina Sofía por la tarde, despedida con el skyline desde el Cerro del Tío Pío al anochecer."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "El kit de supervivencia en 5 palabras",
+      "intro": "Madrid es paciente con el inglés, pero cinco palabras en español te abrirán las puertas de par en par.",
+      "items": [
+        {
+          "word": "Buenas",
+          "pronunciation": "BWEH-nas",
+          "meaning": "El saludo corto para todo el día — al entrar en cualquier bar o tienda"
+        },
+        {
+          "word": "Gracias",
+          "pronunciation": "GRAH-syas",
+          "meaning": "Gracias — corto, claro, siempre"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "por fah-VOR",
+          "meaning": "Por favor — añádelo al final de tu pedido"
+        },
+        {
+          "word": "¡Salud!",
+          "pronunciation": "sah-LOOD",
+          "meaning": "¡Salud! — los vasos de vermut se alzan con esto"
+        },
+        {
+          "word": "Vale",
+          "pronunciation": "BAH-leh",
+          "meaning": "OK / de acuerdo — la palabra más usada en España; se dice dos veces: vale, vale"
+        }
+      ]
+    }
+  }
+}

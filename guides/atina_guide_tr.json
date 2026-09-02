@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Atina",
+    "country": "Yunanistan",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2166A5",
+    "color_light": "#E8F1FA",
+    "tagline": "Tanrıların tepesi, sokakların kaosu ve bitmeyen bir kefi"
+  },
+  "pills": [
+    "Akropolis'e sabah ilk saatte",
+    "Taverna masası uzar, bırak uzasın",
+    "Kefi: neşenin Yunan hali"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Atina'ya Hoş Geldin",
+      "intro": "Atina'yı bir müze sanarak gelirsen şaşırırsın: Akropolis her sokağın ucunda süzülür ama aşağıda kaynayan şehir bugüne aittir. Grafiti kaplı duvarların dibinde üçüncü dalga kahveciler, antik agora'nın yanında gece yarısı dolup taşan tavernalar, portakal ağaçlı kaldırımlar ve Balkan aksanlı bir Akdeniz enerjisi. İki bin beş yüz yıllık şehir ne cilalı ne mükemmel — ama sahici, doyurucu ve bir kere sevdirirse bırakmaz.",
+      "local_word": {
+        "word": "Kefi",
+        "pronunciation": "kefi",
+        "definition": "Yunanca'da tarif edilmesi zor o coşku: müziğin, masanın ve anın birleşip insanı kaldırdığı ruh hali. Kefi planlanmaz, gelir; Atina'da bir taverna gecesinde sana da uğrayacak."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Akropolis'e kapı açılışında çık",
+          "description": "Sabah 8'de mermerler serin, ışık altın, kalabalık yok. Öğlen ise sıra, sıcak ve selfie ormanı. Bileti internetten tarihli al; yazın öğle saatlerinde çıplak mermerde gölge yoktur."
+        },
+        {
+          "number": 2,
+          "title": "Sygrou-Fix değil, mahalle seç",
+          "description": "Atina mahalleler şehridir: Plaka'nın kartpostalı, Koukaki'nin sakinliği, Exarchia'nın duvar sesi, Psiri'nin gecesi. Nerede uyuduğun, hangi Atina'yı yaşayacağını belirler."
+        },
+        {
+          "number": 3,
+          "title": "Taksiye binmeden uygulamayı aç",
+          "description": "Havalimanı sabit tarife dışında taksimetre pazarlığı turist klasiğidir; FreeNow tarzı uygulamalar tartışmayı bitirir. Metro zaten hızlı, ucuz ve müze kadar güzel."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Eleftherios Venizelos (ATH)",
+          "sub": "Metro M3 ile merkeze ≈40 dk"
+        },
+        {
+          "icon": "🚇",
+          "label": "Şehir içi",
+          "value": "Metro + yürüyüş",
+          "sub": "İstasyonlarda gerçek antik eserler"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Yunanca",
+          "sub": "Turizmde İngilizce sorunsuz"
+        },
+        {
+          "icon": "🏛️",
+          "label": "İmza",
+          "value": "Akropolis",
+          "sub": "Şehrin her terasından görünür"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Atina felsefesi",
+        "text": "Atina'da plan yüzde elli tutar; kalan yarıyı sokak doldurur. Bir meydanda müzik başladıysa otur, masadaki yaşlı amca anlatmaya başladıysa dinle — şehrin müfredatı budur."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Merkez yürünür, gerisini metro taşır; trafikle inatlaşmak Atina'da kaybedilmiş bir savaştır.",
+      "items": [
+        {
+          "icon": "🚇",
+          "title": "Metro — yeraltı müzesi",
+          "description": "Üç hat merkezi ve limanı örer; Syntagma ve Akropoli istasyonları kazıda çıkan eserleri vitrinlerde sergiler. Havalimanına M3, Pire limanına M1 gider. Bilet 90 dakika tüm ağda geçerli."
+        },
+        {
+          "icon": "🚶",
+          "title": "Merkezde yürüyüş",
+          "description": "Dionysiou Areopagitou yaya yolu Akropolis'in eteğini dolanır: Plaka, Monastiraki, Thissio hepsi zincirleme yürünür. Şehrin en iyi 'toplu taşıması' bu mermer kaldırımdır."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tramvayla sahile",
+          "description": "Syntagma'dan kalkan tramvay Faliro ve Glyfada plaj hattına iner; deniz kenarı Atina'yı (Athens Riviera) görmek için ucuz ve manzaralı seçenek."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taksi ve uygulamalar",
+          "description": "Sarı taksiler ucuzdur ama turistle taksimetre oyunları klasiktir; uygulamayla çağır, nakit yerine kartla öde. Havalimanı-merkez gündüz sabit tarifedir — biniş öncesi hatırlat."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Pire'den adalara",
+          "description": "Adalara açılacaksan M1 ile Pire'ye in; Egina ve Hydra günübirlik mesafede. Feribot biletini yazın önceden al, kapı numaranı (gate) kontrol et."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Yaya uyarısı",
+        "text": "Atina trafiğinde yeşil ışık öneri niteliğindedir: karşıdan karşıya geçerken motosikletlere iki kez bak. Kaldırımda ise portakal ağacının altına park etmiş scooter'a şaşırma."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Atina'da mahalle seçimi otel seçiminden önemlidir; duvarın rengi, kahvaltının sesi ve gecenin uzunluğu mahalleyle değişir.",
+      "local_word": {
+        "word": "Platia",
+        "pronunciation": "platya",
+        "definition": "Meydan: her Atina mahallesinin kalbi. Çocuklar top oynar, yaşlılar tavla çevirir, kafeler taşar. Mahalleni seçerken aslında platia'nı seçersin."
+      },
+      "items": [
+        {
+          "name": "Plaka — Akropolis'in eteği",
+          "badge": "En klasik",
+          "badge_type": "vibe",
+          "description": "Neoklasik evler, begonvil ve taş merdivenli Anafiotika sokakları: Atina'nın kartpostalı. Turistik ama haklı olarak; sabah erken ve gece geç saatlerde büyüsü katlanır. Fiyatlar merkez ortalamasının üstünde.",
+          "tags": [
+            "Akropolis manzarası",
+            "Anafiotika sokakları",
+            "Turistik ama haklı"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Plaka+Athens"
+        },
+        {
+          "name": "Koukaki — sakin ve akıllı seçim",
+          "badge": "En dengeli",
+          "badge_type": "value",
+          "description": "Akropolis Müzesi'nin arkasındaki mahalle: yürüme mesafesi Plaka ile aynı, fiyatlar ve sakinlik daha insaflı. Kahvecileri ve fırınlarıyla 'yaşanan Atina' hissi verir.",
+          "tags": [
+            "Müzeye komşu",
+            "Mahalle kahvecileri",
+            "Fiyat-konum dengesi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Koukaki+Athens"
+        },
+        {
+          "name": "Monastiraki/Psiri — pazarın ve gecenin ortası",
+          "badge": "En canlı",
+          "badge_type": "hot",
+          "description": "Bit pazarı, çatı barları ve gece yarısı süvlaki kuyrukları: şehrin en hareketli yatağı. Ses yalıtımı iyi bir oda seç; karşılığında Atina'nın nabzında uyanırsın.",
+          "tags": [
+            "Çatı barları",
+            "Bit pazarı",
+            "Gece hayatı kapıda"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Monastiraki+Athens"
+        },
+        {
+          "name": "Kolonaki — şık Atina",
+          "badge": "En zarif",
+          "badge_type": "local",
+          "description": "Butikler, galeriler ve Lykavittos'un eteğinde kahve terasları: şehrin cilalı yüzü. Müze meraklısına da yakın (Kikladlar, Benaki); gece hayatı sakin, gündüzü zarif.",
+          "tags": [
+            "Butik ve galeriler",
+            "Lykavittos eteği",
+            "Müze komşuluğu"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kolonaki+Athens"
+        },
+        {
+          "name": "Exarchia — duvarların sesi",
+          "badge": "En alternatif",
+          "badge_type": "hot",
+          "description": "Grafiti, plakçılar, kolektif kafeler ve politik tarih: Atina'nın asi mahallesi. Klişelerin aksine gündüzü yaratıcı ve samimidir; alternatif kültür arayana göre.",
+          "tags": [
+            "Sokak sanatı",
+            "Plakçılar",
+            "Alternatif kültür"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Exarchia+Athens"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Atina'nın düşmanı temmuz sıcağı, dostu ise neredeyse diğer her aydır.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Portakal Çiçeği",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Çiçek kokusu, ideal sıcaklık",
+          "description": "Sokaklar portakal çiçeği kokar, antik alanlar gezilecek sıcaklıktadır, teraslar açılmıştır. Yunan Paskalyası'na denk gelirsen mum ışıklı geceler ve kuzu şölenleri bonus.",
+          "callout": {
+            "type": "tip",
+            "label": "Paskalya ipucu",
+            "text": "Yunan Paskalya gecesi (tarih değişir) kiliselerin önü mum deniziyle dolar; 'Hristos Anesti' anında havai fişekler patlar — şehirde olmak şanstır."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Sıcak ve Sahne",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · 35°C+, açık hava festivali",
+          "description": "Öğlen sıcağı acımasızdır ama akşamları şehir açık hava sinemalarına ve Herodion'daki konserlere dökülür. Ağustosta Atinalılar adalara kaçar; şehir turiste kalır, bazı esnaf tatildedir.",
+          "callout": {
+            "type": "warning",
+            "label": "Sıcak uyarısı",
+            "text": "Temmuz-ağustosta antik alanları 8-11 arası gez, öğleni müzeye veya denize sakla; su şişesi ve şapka pazarlık dışıdır."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Altın Sezon",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Ilık deniz, boş ören yerleri",
+          "description": "Eylül-ekim Atina'nın zirvesidir: deniz hâlâ yüzülür, ışık yumuşar, kalabalık çekilir. Kasım bile çoğu Avrupa şehrinin baharı gibidir — teraslar açık kalır.",
+          "callout": {
+            "type": "tip",
+            "label": "Ekim ipucu",
+            "text": "Ekimde tramvayla Vouliagmeni'ye in: termal gölde yüzme + deniz kenarı öğle, şehre yarım saat mesafede tatil hissi."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Yerlilerin Atinası",
+          "months": "Ara – Mar",
+          "subtitle": "Kış · Sakin ören yerleri, dolu kafeler",
+          "description": "Akropolis'i neredeyse yalnız gezersin, müzeler sana kalır, taverna sobaları yanar. Yağmur molaları dışında yürünebilir bir kış; fiyatlar yılın en insaflı halindedir.",
+          "callout": {
+            "type": "tip",
+            "label": "Kış ipucu",
+            "text": "Kış pazarlarında (laiki) mandalina dağları ve zeytin tezgahları şehrin en renkli manzarasıdır; mahalle pazar gününü otelden sor."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Atina sofrası cömerttir: masaya sığmayan meze, kömür kokulu et ve hesapla birlikte gelen ikram tatlı.",
+      "local_word": {
+        "word": "Yemista",
+        "pronunciation": "yemista",
+        "definition": "'Doldurulmuş': domates-biber dolması başta olmak üzere ev yemeği geleneğinin özeti. Taverna camekanında gördüğün tepsiler (mağirefta) günün ev yemekleridir — sor, göster, seç."
+      },
+      "items": [
+        {
+          "icon": "🥙",
+          "name": "Süvlaki ve gyros",
+          "description": "Şehrin ulusal fast food'u: şişte et ya da dönerden gyros, pide içinde domates-soğan-tzatziki ile. Gece yarısı kuyruğu olan yer, doğru yerdir.",
+          "tag": "Ayaküstü klasiği · gece de açık",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=O+Thanasis+Athens"
+        },
+        {
+          "icon": "🫒",
+          "name": "Horiatiki — gerçek Yunan salatası",
+          "description": "Marulsuz, kocaman domatesli, tek blok beyaz peynirli hali gerçeğidir; üstine sızma yağ ve kekik. Yazın masaların değişmez ilk tabağı.",
+          "tag": "Her tavernada · yazın zirvede",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Psiri+Athens"
+        },
+        {
+          "icon": "🐟",
+          "name": "Izgara ahtapot ve hamsi (gavros)",
+          "description": "Deniz mezelerinin iki ucu: közlenmiş ahtapot sirkeli, çıtır gavros limonlu. Uzo ya da tsipouro ile sıralı gelir; acele ettirmezler.",
+          "tag": "Meze usulü · uzo eşliğinde",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Atlantikos+Athens"
+        },
+        {
+          "icon": "🥧",
+          "name": "Tiropita ve spanakopita",
+          "description": "Peynirli ve ıspanaklı börekler fırın vitrinlerinin sabah yıldızlarıdır; kahvaltıyı ayakta, elde börek, karşıda Akropolis yapmak Atina usulüdür.",
+          "tag": "Sabah fırından · sıcakken",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ariston+Athens"
+        },
+        {
+          "icon": "🍖",
+          "name": "Paidakia — kömürde kuzu pirzola",
+          "description": "Kâğıda serilmiş pirzola dağı, patates ve limonla gelir; etçi tavernaların (hasapotaverna) gurur tabağıdır. Kefi genellikle bu tabaktan sonra başlar.",
+          "tag": "Etçi tavernada · elle yenir",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Telis+Athens"
+        },
+        {
+          "icon": "🍮",
+          "name": "Galaktoboureko ve loukoumades",
+          "description": "Şerbetli muhallebi böreği ile ballı lokmalar tatlı faslının iki şampiyonu; çoğu tavernada tatlı zaten ikram gelir — gelmediyse bu ikisinden birini iste.",
+          "tag": "Pastane veya taverna · ikramı bekle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Krinos+Athens"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Taverna kuralı",
+        "text": "Garson menü yerine 'bugün şunlar var' diye saymaya başladıysa doğru yerdesin. Camekana git, tencerelere bak, parmağınla seç — Atina'da bu ayıp değil, ustalıktır."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Akropolis'i herkes bilir; bu altı köşe ise Atina'yı ikinci kez sevdirenlerdir.",
+      "items": [
+        {
+          "rarity": "Adadan taşınmış mahalle",
+          "name": "Anafiotika",
+          "description": "Plaka'nın üstünde, Kiklad adalarından gelen ustaların 19. yüzyılda kurduğu bembeyaz mini mahalle: dar geçitler, mavi kapılar, saksı ormanı. Atina'nın ortasında bir ada molası.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Anafiotika+Athens"
+        },
+        {
+          "rarity": "Şehrin balkonu",
+          "name": "Lykavittos Tepesi",
+          "description": "Fünikülerle ya da patikayla çıkılan 277 metrelik tepe: Akropolis'ten denize tüm şehir ayaklarının altında. Günbatımında çık, şapeli gör, ışıklar yanarken in.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lycabettus+Hill+Athens"
+        },
+        {
+          "rarity": "Antik mezarlıkta sessizlik",
+          "name": "Kerameikos",
+          "description": "Antik Atina'nın mezarlığı ve Kutsal Kapı'sı: servi, kaplumbağa ve mermer steller arasında şehrin en huzurlu ören yeri. Kalabalık buraya hiç uğramaz.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kerameikos+Athens"
+        },
+        {
+          "rarity": "Pazar günü opera değil pazar",
+          "name": "Monastiraki bit pazarı",
+          "description": "Avissinias Meydanı çevresinde plaklardan pirinç cezvelere her şey: pazar sabahı pazarlık sesleriyle şehrin en eğlenceli tiyatrosu. Alsan da almasan da yürü.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Avissinias+Square+Athens"
+        },
+        {
+          "rarity": "Kültürün yeni sahili",
+          "name": "Stavros Niarchos Vakfı (SNFCC)",
+          "description": "Renzo Piano imzalı opera-kütüphane kompleksi ve dev parkı: çatı terasından deniz, akşamları ücretsiz etkinlikler. Tramvayla yarım saatte modern Atina'nın zirvesi.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Stavros+Niarchos+Foundation+Cultural+Center"
+        },
+        {
+          "rarity": "Termal göl — şehir dibinde",
+          "name": "Vouliagmeni Gölü",
+          "description": "Rivierada kaya duvarların koynunda ılık termal göl: kışın bile 22 derece, içinde minik balıklar. Şehre yarım saat, ruha bir hafta tatil etkisi.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lake+Vouliagmeni"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Müze tüyosu",
+        "text": "Akropolis Müzesi'nin cam zemininde antik mahalle ayaklarının altındadır; cuma akşamları geç saate kadar açıktır ve restoran terası Parthenon'un en iyi akşam manzaralarından birini bedavaya verir."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Atina'nın tuzakları eski usul ve tanıdıktır; dört tanesini bilirsen gerisi dürüst şehirdir.",
+      "items": [
+        {
+          "icon": "🍽️",
+          "name": "Plaka'da kapı davetçili 'geleneksel taverna'",
+          "description": "Menüyü sallayıp 'my friend' diye başlayan yerlerde donuk musakka turist fiyatına gelir; müzik bile banttan.",
+          "instead": "Davetçisiz sokaklara sap: Psiri'nin arka sokakları, Petralona veya Pangrati tavernaları aynı yemeği yarı fiyata, gerçek haliyle verir."
+        },
+        {
+          "icon": "🚕",
+          "name": "Havalimanında taksimetre 'arızası'",
+          "description": "Sabit tarife dışında 'gece tarifesi', 'bagaj ücreti' oyunlarıyla hesap katlanır.",
+          "instead": "Gündüz sabit tarifeyi binmeden söyle, ya da M3 metrosuyla 40 dakikada in; uygulama çağrısı tartışmayı baştan bitirir."
+        },
+        {
+          "icon": "🥃",
+          "name": "'Ücretsiz shot' barı ve hesap şoku",
+          "description": "Monastiraki çevresinde 'hoş geldin shot'u ile başlayan bazı barlarda hesap, menüde olmayan kalemlerle kabarır.",
+          "instead": "Fiyat listesi görünür olmayan yerde oturma; çatı barı istiyorsan oteline değil manzarasına ve menüsüne bak."
+        },
+        {
+          "icon": "🏛️",
+          "name": "Ören yeri kapısında 'rehberli tur' pazarlığı",
+          "description": "Kapıda yaklaşan 'lisanslı rehber'lerin bir kısmı ne lisanslı ne rehberdir; yüksek fiyata ezber metin dinlersin.",
+          "instead": "Rehber istiyorsan lisanslı olanı önceden ayırt; yoksa Akropolis'i sabah kendi temponla gez, hikayeyi müze tamamlasın."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Atina'da 'my friend' diye başlayan cümle ticarettir, 'ela' diye başlayan cümle samimiyettir. İkisini ayırt ettiğin gün şehir sana başka davranır."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Tepeden tavernaya bir Atina özeti",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "Akropolis — kapı açılışında",
+              "description": "Parthenon'u sabah ışığında, kalabalıksız gör; Erechtheion'un karyatidlerine selam ver."
+            },
+            {
+              "time": "10:30",
+              "title": "Akropolis Müzesi",
+              "description": "Cam zeminler ve Parthenon frizi; tepeden gördüğünün hikayesi burada tamamlanır."
+            },
+            {
+              "time": "13:00",
+              "title": "Plaka + Anafiotika",
+              "description": "Öğle yemeğini Plaka'nın sakin bir köşesinde ye, sonra Anafiotika'nın beyaz geçitlerinde kaybol."
+            },
+            {
+              "time": "15:30",
+              "title": "Antik Agora + Monastiraki",
+              "description": "Hephaistos Tapınağı'nın gölgesinden bit pazarının gürültüsüne: iki bin yıl, on beş dakikalık yürüyüş."
+            },
+            {
+              "time": "18:30",
+              "title": "Lykavittos günbatımı",
+              "description": "Fünikülerle tepeye; şehir kızıla dönerken Akropolis'e kuşbakışı veda."
+            },
+            {
+              "time": "21:00",
+              "title": "Psiri'de taverna gecesi",
+              "description": "Meze, paidakia, ev şarabı; canlı müzik başladıysa kefi'ye direnme."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehri turist gibi değil, misafir gibi yaşa",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Antik merkez",
+              "description": "Yukarıdaki 1 günlük akış: Akropolis, müze, Plaka, Lykavittos, Psiri."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Pazar, duvarlar ve modern kıyı",
+              "description": "Sabah Monastiraki bit pazarı ve Kerameikos, öğlen merkez halinde (Varvakios) balık tavernası, öğleden sonra Exarchia duvarları ve plakçılar, akşam SNFCC'de günbatımı + ücretsiz etkinlik."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Riviera veya ada kaçamağı",
+              "description": "Ya tramvayla Vouliagmeni: termal göl + deniz + sahil yemeği; ya da Pire'den feribotla Egina: fıstık, antik tapınak ve liman tavernası. Dönüşte Koukaki'de veda mezesi."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Yunanca üç kelime taverna masasında ikramı, beş kelime dostluğu başlatır.",
+      "items": [
+        {
+          "word": "Yassas",
+          "pronunciation": "yasas",
+          "meaning": "Merhaba / hoşça kal — resmi ve güvenli selam"
+        },
+        {
+          "word": "Efharistó",
+          "pronunciation": "efharisto",
+          "meaning": "Teşekkürler — zor görünür, iki denemede oturur"
+        },
+        {
+          "word": "Parakaló",
+          "pronunciation": "parakalo",
+          "meaning": "Lütfen / rica ederim — Yunancanın joker kelimesi"
+        },
+        {
+          "word": "Yamas!",
+          "pronunciation": "yamas",
+          "meaning": "Şerefe! — uzo ve şarap kadehleri bununla kalkar"
+        },
+        {
+          "word": "Ela!",
+          "pronunciation": "ela",
+          "meaning": "'Gel / hadi / yok artık!' — Yunan sohbetinin her duyguya uyan sihirli kelimesi"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Atina Checklist",
+      "completion_message": "Yamas! Atina'yı hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Parthenon'u sabah ışığında gör",
+          "sub": "Kapı açılışında, kalabalıktan önce"
+        },
+        {
+          "label": "Akropolis Müzesi'nin cam zemininde yürü",
+          "sub": "Ayaklarının altında antik mahalle"
+        },
+        {
+          "label": "Anafiotika'nın beyaz geçitlerinde kaybol",
+          "sub": "Plaka'nın üstündeki ada mahallesi"
+        },
+        {
+          "label": "Lykavittos'tan günbatımı izle",
+          "sub": "Füniküler ya da patika — ışıklar yanarken in"
+        },
+        {
+          "label": "Gece yarısı süvlaki kuyruğuna gir",
+          "sub": "Monastiraki civarı — kuyruk kalitenin işareti"
+        },
+        {
+          "label": "Camekandan yemek seç (mağirefta)",
+          "sub": "Tencere göster, tabak doldur — Atina usulü"
+        },
+        {
+          "label": "Monastiraki bit pazarında pazarlık et",
+          "sub": "Pazar sabahı, plaklar ve pirinç cezveler"
+        },
+        {
+          "label": "Antik Agora'da Hephaistos Tapınağı'nı gör",
+          "sub": "En sağlam kalmış antik tapınaklardan"
+        },
+        {
+          "label": "SNFCC çatısından denize bak",
+          "sub": "Renzo Piano'nun kültür sahili — tramvayla"
+        },
+        {
+          "label": "Bir taverna gecesinde kefi'yi yakala",
+          "sub": "Planlanmaz; müzik başlar, sen kalkarsın"
+        }
+      ]
+    }
+  }
+}

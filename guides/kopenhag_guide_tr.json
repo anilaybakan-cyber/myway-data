@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Kopenhag",
+    "country": "Danimarka",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#235A75",
+    "color_light": "#E8F1F7",
+    "tagline": "Bisiklet, liman suyu ve hygge'nin başkenti"
+  },
+  "pills": [
+    "Bisiklet arabadan çok",
+    "Liman suyu yüzülecek kadar temiz",
+    "Mutluluk araştırmalarının daimi şampiyonu"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Kopenhag'a Hoş Geldin",
+      "intro": "Kopenhag sana ihtişamla değil, iyi kurulmuş bir hayatla hava atar: sabah sekizde takım elbiseli bir adam bisikletle yanından süzülür, öğlen insanlar liman merdivenlerinden denize atlar, akşam mum ışıklı bir pencerede kimse telefonuna bakmadan sohbet eder. Bu şehir 'nasıl yaşamalı' sorusuna verilmiş zarif bir cevaptır. Renkli Nyhavn cephesi kartpostalını çek, sonra asıl işe koyul: pedal çevir, suya gir, bir mumun etrafına otur. Kopenhag görülmez — yaşanır.",
+      "local_word": {
+        "word": "Hygge",
+        "pronunciation": "hüge",
+        "definition": "Danca'nın dünyaya hediyesi: mum ışığı, iyi arkadaşlar, sıcak içecek ve acelesizliğin toplamı olan o tarifsiz rahatlık hali. Bir kafede battaniye ve mum görüyorsan, hygge oradadır — katılmak serbest."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Bisiklet yoluna yürüyerek girme",
+          "description": "Bisiklet şeridi kaldırım değil, otoyoldur: saatte 20 km giden bir akışın içine adım atarsan zil sesinden önce Danca bir uyarı duyarsın. Şeridi ok gibi geç, fotoğrafı kaldırımdan çek."
+        },
+        {
+          "number": 2,
+          "title": "Güvene saygı göster",
+          "description": "Danimarka güven toplumudur: bebek arabaları kafe önünde uyur, bisikletler ince bir kilitle durur, metroda turnike yoktur. Bu sistemin misafiri olarak biletini al ve şaşkınlığını gülümsemeyle sınırla."
+        },
+        {
+          "number": 3,
+          "title": "Suya girmek serbest — kurallıca",
+          "description": "Liman yüzme alanları (havnebad) ücretsizdir ve suyu yüzülecek kadar temizdir; işaretli alanların dışında ve tekne yollarında yüzmek ise hem yasak hem tehlikeli. Yerliler nerede atlıyorsa oraya atla."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Kastrup (CPH)",
+          "sub": "Metroyla merkez ~15 dk"
+        },
+        {
+          "icon": "🚲",
+          "label": "Şehir içi",
+          "value": "Bisiklet + metro",
+          "sub": "Sürücüsüz metro 7/24 çalışır"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Danca",
+          "sub": "İngilizce ana dil gibi akıcı"
+        },
+        {
+          "icon": "💳",
+          "label": "Para",
+          "value": "Danimarka Kronu",
+          "sub": "Nakit neredeyse tarih oldu"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Kopenhag felsefesi",
+        "text": "Kopenhag pahalıdır, doğru; ama en iyi halleri bedavadır: liman kenarında gün batımı, park çimeninde piknik, ücretsiz havnebad. Parayı bir iyi restorana sakla, gerisini şehrin ücretsiz mutluluk altyapısına bırak."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Kopenhag'da ulaşımın kralı bisiklettir; metro sürücüsüz ve dakiktir, liman tekneleri en güzel manzaralı 'otobüstür'.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından merkeze",
+          "description": "Metro M2 hattı 15 dakikada Kongens Nytorv'a iner; tren de Merkez Gar'a benzer sürede gider. İkisi de aynı bilet sistemindedir — temassız kartla kapıdan geç."
+        },
+        {
+          "icon": "🚲",
+          "title": "Bisiklet — şehrin ana dili",
+          "description": "Kiralık bisikletle bir günde şehir senindir: geniş şeritler, bisiklet köprüleri, bisiklet trafik ışıkları. Kurallar ciddidir: sağdan sür, dönüşte el işareti ver, durken elini kaldır."
+        },
+        {
+          "icon": "🚇",
+          "title": "Sürücüsüz metro",
+          "description": "M1-M4 hatları 7/24 çalışır ve ön camından raylara bakmak çocukluk hayali gibidir. Cityringen (M3) çemberi bütün merkez semtleri birbirine bağlar."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Liman tekneleri",
+          "description": "Sarı liman otobüsleri (havnebus) normal toplu taşıma biletiyle çalışır: Nyhavn'dan Operaya, oradan Refshaleøen'e su üstünden git — turist teknesi fiyatına değil, otobüs fiyatına."
+        },
+        {
+          "icon": "🚶",
+          "title": "Merkez yayan",
+          "description": "Strøget'ten Nyhavn'a, oradan saray meydanına merkez rahat yürünür; ama Kopenhag geniş bir şehirdir — Nørrebro ve Refshaleøen için pedala ya da metroya güven."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Havnebus tüyosu",
+        "text": "991/992 sarı tekneleri şehrin en ucuz 'boğaz turudur': Kraliyet Kütüphanesi'nden Operaya bütün kıyı şeridini normal biletle gezersin. Gün batımı seferine denk getir."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Kopenhag'ın semtleri karakter yarıştırır: masal merkezi, bohem Nørrebro, eski-et-yeni-havalı Vesterbro, kanallı Christianshavn.",
+      "local_word": {
+        "word": "Kvarter",
+        "pronunciation": "kvarter",
+        "definition": "Semt, mahalle: Kopenhaglı kimliğini köprünün hangi yakasında oturduğuyla anlatır. 'Nørrebro'lu' olmak bir yaşam tarzı beyanıdır — sorulmadan söylenir."
+      },
+      "items": [
+        {
+          "name": "Indre By (Merkez)",
+          "badge": "En merkezi",
+          "badge_type": "vibe",
+          "description": "Strøget, Nyhavn ve saraylar arasında masal dekoru: her şeye yürüme mesafesi, kanal başında sabah kahvesi. Fiyatlar başkent seviyesinin de üstü — konum parayla ödenir.",
+          "tags": [
+            "Nyhavn iki adım",
+            "Her yere yürüme",
+            "Yüksek fiyat"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Indre+By+Copenhagen"
+        },
+        {
+          "name": "Nørrebro",
+          "badge": "En bohem",
+          "badge_type": "hot",
+          "description": "Köprünün ötesindeki çok kültürlü enerji: dünya mutfakları, vintage dükkanlar, Süperkilen parkı, mezarlık parkında piknik. Genç, canlı ve şehrin en iyi kahvecileri burada.",
+          "tags": [
+            "Dünya mutfağı",
+            "Vintage dükkanlar",
+            "Genç enerji"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nørrebro+Copenhagen"
+        },
+        {
+          "name": "Vesterbro",
+          "badge": "En havalı",
+          "badge_type": "local",
+          "description": "Eski et paketleme bölgesi Kødbyen'in barları, üçüncü dalga kahve ve tasarım otelleri: eski dokunun içinde yeni hayat. Merkez Gar'a komşu — bavulluya da pratik.",
+          "tags": [
+            "Kødbyen barları",
+            "Tasarım oteller",
+            "Gara yakın"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vesterbro+Copenhagen"
+        },
+        {
+          "name": "Christianshavn",
+          "badge": "En pitoresk",
+          "badge_type": "value",
+          "description": "Kanallar, tekneler ve Amsterdam'ı andıran cepheler: merkeze köprüyle beş dakika, akşamları su sesi. Kanal kenarı kahvaltısı ve sakin geceler arayana.",
+          "tags": [
+            "Kanal manzarası",
+            "Merkeze köprü",
+            "Sakin akşamlar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Christianshavn+Copenhagen"
+        },
+        {
+          "name": "Østerbro",
+          "badge": "En sakin",
+          "badge_type": "value",
+          "description": "Elçilikler, göller ve geniş caddeler bölgesi: bebek arabası yoğunluğu şehrin güven göstergesi. Küçük Deniz Kızı'na yürüme mesafesi, aile ve sükunet arayanın semti.",
+          "tags": [
+            "Göl kenarı",
+            "Aile dostu",
+            "Geniş parklar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Østerbro+Copenhagen"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Kopenhag'ın yazı bir ödül, kışı bir ders gibidir: ödül gün ışığı, ders hygge'dir. İkisi de değerlidir.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Uyanış",
+          "months": "Nis – Haz",
+          "subtitle": "İlkbahar · Teraslar açılır, göller canlanır",
+          "description": "Kiraz çiçekleri açar, kafe masaları sokağa taşar, battaniyeler sandalyelere asılır. Işık hızla uzar; haziranda gece saat on birde hâlâ alacakaranlıktır.",
+          "callout": {
+            "type": "tip",
+            "label": "Nisan ipucu",
+            "text": "Nisan sonunda Bispebjerg mezarlığının kiraz ağacı tüneli pembeye boyanır: sabah erken git, kalabalık öğlene doğru gelir."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Liman Yazı",
+          "months": "Tem – Ağu",
+          "subtitle": "Yaz · Havnebad sezonu, uzun akşamlar",
+          "description": "Şehir dışarı taşınır: liman havuzları dolar, kıyılar plaja döner, sokak yemeği pazarları geceye kadar yaşar. Gün 17 saattir ve kimse içeride kalmak istemez.",
+          "callout": {
+            "type": "tip",
+            "label": "Temmuz ipucu",
+            "text": "Yerli gibi bir akşam: Islands Brygge'de suya atla, güneşte kuru, sonra kıyı çimeninde bira ve gün batımı. Toplam maliyet bir bira parası."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Altın Işık",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Kültür gecesi, ilk mumlar",
+          "description": "Ağaçlar sararır, kafelerde mumlar erken yanar, müzeler ve konser salonları sezon açar. Ekimdeki Kulturnatten gecesi yüzlerce mekan gece yarısına kadar kapılarını açar.",
+          "callout": {
+            "type": "tip",
+            "label": "Ekim ipucu",
+            "text": "Kulturnatten'de tek bilekliklе saraydan itfaiye istasyonuna kadar her yer gezilir: kraliyet ahırlarından parlamento kürsüsüne, yılda bir gece."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Hygge Mevsimi",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Mum ışığı, Tivoli ışıkları, kısa günler",
+          "description": "Gün dörtte kararır ama şehir karanlığa mumla cevap verir: Tivoli kış bahçesine döner, kafeler battaniye dağıtır, hygge zirve yapar. Soğuğa giyin, ruha sıcak bak.",
+          "callout": {
+            "type": "tip",
+            "label": "Aralık ipucu",
+            "text": "Tivoli'nin Noel hali Kopenhag kışının kalbidir: ışıklar, gløgg (baharatlı sıcak şarap) ve æbleskiver (top pankek). Hafta içi akşamı git, hafta sonu kuyruğunu ışık seyrine sakla."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Yeni İskandinav mutfağının başkentindesin ama korkma: smørrebrød tezgahı, sosisli arabası ve tarçınlı çörek de en az yıldızlı menüler kadar kutsaldır.",
+      "local_word": {
+        "word": "Smørrebrød",
+        "pronunciation": "smörbröd",
+        "definition": "Çavdar ekmeği üstüne kurulmuş açık sandviç sanatı: ringa, karides, rosto — her biri kurallı bir kompozisyondur. Çatal bıçakla yenir, sırası vardır: önce ringa, sonra balık, sonra et."
+      },
+      "items": [
+        {
+          "icon": "🥪",
+          "name": "Smørrebrød ritüeli",
+          "description": "Öğlenin klasiği: çavdar üstüne marine ringa, remoulade'lı dana ya da yumurtalı karides. Yüz yıllık lokantalarda beyaz örtü ve snaps eşliğinde yenir — sıralamayı garsona bırak.",
+          "tag": "Öğlen klasiği · yanına snaps",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Schønnemann+Copenhagen"
+        },
+        {
+          "icon": "🌭",
+          "name": "Pølsevogn — sosis arabası",
+          "description": "Kırmızı sosis (rød pølse) ekmeği ayrı, hardalı bol, yanında kakaolu süt: Danimarka'nın ayaküstü milli menüsü. Organik sosis arabaları klasiği yeni nesle taşıdı.",
+          "tag": "Ayaküstü · ristet + hepsi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=DØP+Copenhagen"
+        },
+        {
+          "icon": "🥐",
+          "name": "Kanelsnegl ve Danish gerçeği",
+          "description": "'Danish pastry' dedikleri şeye burada wienerbrød (Viyana ekmeği) denir — tarçınlı salyangoz kanelsnegl ise şehrin sabah dini. Fırın kuyruğu gördüğünde arkana geç.",
+          "tag": "Sabah fırınından · kuyruk iyi işaret",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Juno+the+Bakery+Copenhagen"
+        },
+        {
+          "icon": "🏪",
+          "name": "Torvehallerne pazarı",
+          "description": "Cam çatılı gurme pazar: smørrebrød tezgahları, taze balık, kahve ve porsiyon porsiyon Danimarka mutfağı. Yağmurlu gün planının da, güneşli piknik alışverişinin de adresi.",
+          "tag": "Kapalı pazar · öğle tezgahları",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Torvehallerne+Copenhagen"
+        },
+        {
+          "icon": "🍺",
+          "name": "Craft bira ve skål kültürü",
+          "description": "Carlsberg'in şehrinde yeni dalga güçlü: Mikkeller ve mikro bira barları dünya çapında haclıdır. Kadeh kalkınca herkesle göz göze gel, 'skål' de, sonra iç — sıra önemli.",
+          "tag": "Mikro birahane · göz teması + skål",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mikkeller+Bar+Copenhagen"
+        },
+        {
+          "icon": "🔥",
+          "name": "Refshaleøen sokak yemeği",
+          "description": "Eski tersane adasındaki Reffen, konteynerlerden kurulu dev bir sokak mutfağıdır: dünya mutfakları, liman manzarası, ateş çukurları. Havnebus'la git, gün batımına kal.",
+          "tag": "Yazın · tekneyle git",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Reffen+Copenhagen"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bütçe tüyosu",
+        "text": "Kopenhag'da restoran faturası kabarır; dengeyi yerli gibi kur: öğlen smørrebrød ya da pazar tezgahı, akşam tek iyi restoran. Musluk suyu her yerde ücretsiz ve mükemmeldir — sormaktan çekinme."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Küçük Deniz Kızı'nı herkes görür (ve şaşırır); bu altısı Kopenhag'ın asıl karakteri.",
+      "items": [
+        {
+          "rarity": "Filozoflu piknik parkı",
+          "name": "Assistens Kirkegård",
+          "description": "Andersen ve Kierkegaard'ın yattığı mezarlık aynı zamanda Nørrebro'nun parkıdır: yerliler mezar taşları arasında güneşlenir, bisikletle geçer, kitap okur. Ölümle hayatın bu kadar dostça yan yana durduğu az yer vardır.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Assistens+Kirkegård+Copenhagen"
+        },
+        {
+          "rarity": "Çatısında kayak pisti olan santral",
+          "name": "CopenHill",
+          "description": "Şehrin çöp yakma santralinin çatısı yapay kayak pisti, yürüyüş yolu ve dünyanın en yüksek tırmanma duvarıdır: temiz enerji üstünde spor. Zirveden liman ve rüzgar türbinleri — Kopenhag özeti bir manzara.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=CopenHill+Copenhagen"
+        },
+        {
+          "rarity": "Dünya haritası gibi park",
+          "name": "Superkilen",
+          "description": "Nørrebro'nun 60'tan fazla ülkeden objelerle kurulmuş parkı: Fas çeşmesi, Tayland boks ringi, Sovyet neonu ve meşhur beyaz çizgili pembe-siyah tepeler. Şehir tasarımının dünyaca ünlü dersliği.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Superkilen+Copenhagen"
+        },
+        {
+          "rarity": "Ücretsiz liman plajı",
+          "name": "Islands Brygge Havnebad",
+          "description": "Şehrin göbeğinde beş havuzlu ücretsiz liman hamamı: ofisten çıkan Kopenhaglı kravatını çözer, suya atlar, işine döner. Cesaretin varsa beş metre platformu seni bekler.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Islands+Brygge+Havnebadet+Copenhagen"
+        },
+        {
+          "rarity": "Yeraltında sanat sarnıcı",
+          "name": "Cisternerne",
+          "description": "Frederiksberg tepesinin altındaki eski su sarnıcı, şehrin en atmosferik sanat mekanıdır: karanlık, damlayan su ve mekana özel dev enstalasyonlar. Üstündeki park da manzara bonusudur.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cisternerne+Frederiksberg"
+        },
+        {
+          "rarity": "Tersane adasında gün batımı",
+          "name": "Refshaleøen ve La Banchina",
+          "description": "Eski tersane adası şehrin yeni yaratıcı bölgesi: sokak yemeği, sauna-deniz kombinasyonu ve iskelede şarap içilen minicik La Banchina. Havnebus'la git, gün batımını iskele kenarında karşıla.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Banchina+Copenhagen"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sabah tüyosu",
+        "text": "Nyhavn'ı sabah 8'de gör: renkli cepheler, boş rıhtım, kahve buharı. Aynı kadraj öğlen insan seline dönüşür — kartpostal sabah çekilir, öğleden sonra Christianshavn kanallarına kaçılır."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Kopenhag dürüst bir şehirdir; tuzakları kötü niyetten çok fiyat etiketinden gelir.",
+      "items": [
+        {
+          "icon": "🧜",
+          "name": "Küçük Deniz Kızı hac ziyareti",
+          "description": "Dünyaca ünlü heykel 1.25 metredir ve önünde elli kişilik selfie kuyruğu olur; hayal kırıklığı boyundan büyüktür.",
+          "instead": "Sabah bisiklet turunun bir durağı yap: Kastellet yıldız kalesinden geç, heykeli 30 saniyede selamla, asıl vaktini kaleye ve kıyı yoluna ver."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Nyhavn rıhtımında akşam yemeği",
+          "description": "Renkli cephelerin altındaki menüler manzarayı faturaya ekler: vasat balık, başkent üstü fiyat.",
+          "instead": "Nyhavn'da sadece bir bira iç (o da rıhtım taşında, marketten alınmışı meşru gelenektir); yemeği Kødbyen ya da Nørrebro'da ye."
+        },
+        {
+          "icon": "🚕",
+          "name": "Havalimanından taksiye binmek",
+          "description": "Metro 15 dakikada merkezdeyken taksi aynı yolu on kat fiyata gider; trafiğe takılırsa üstüne süre de ekler.",
+          "instead": "Metro M2 doğrudan merkeze iner, bilet temassız kartla kapıda alınır. Bavulun çoksa bile önce metroyu düşün — istasyonlar asansörlüdür."
+        },
+        {
+          "icon": "💸",
+          "name": "Her şeyi restoranda yemeye çalışmak",
+          "description": "Günde üç restoran öğünü Kopenhag'da bütçeyi bir günde bitirir; şehrin kendisi buna göre yaşamıyor.",
+          "instead": "Yerli düzeni kopyala: sabah fırın, öğlen pazar tezgahı ya da smørrebrød, akşam tek seçilmiş restoran. Aradaki farkla bir Louisiana müze bileti çıkar."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Kopenhag'da bir şey pahalıysa yerlisi ucuz halini çoktan bulmuştur: sor, kopyala. Şehrin en iyi anları — liman, park, bisiklet, gün batımı — zaten fiyat etiketi taşımaz."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Pedaldan limana bir Kopenhag günü",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Fırın + boş Nyhavn",
+              "description": "Kanelsnegl ve kahveyle güne başla, Nyhavn'ın renkli cephelerini kalabalık gelmeden çek; rıhtım sabah sadece senin."
+            },
+            {
+              "time": "10:00",
+              "title": "Bisikletle saray turu",
+              "description": "Kiralık bisikletle Amalienborg'dan Kastellet'e pedal bas; nöbet değişimine denk gelirsen dur, Küçük Deniz Kızı'nı 30 saniyede selamla, kıyıdan devam et."
+            },
+            {
+              "time": "12:30",
+              "title": "Torvehallerne'de öğle",
+              "description": "Cam çatılı pazarda smørrebrød tezgahına otur: ringa, karides, bir snaps — Danimarka öğle yemeğinin özeti."
+            },
+            {
+              "time": "14:30",
+              "title": "Christianshavn kanalları",
+              "description": "Kanal kenarında yürü, teknelere bak, Vor Frelsers'in burma kulesine cesaretin varsa tırman: dış merdiven, şehir manzarası, hafif diz titremesi."
+            },
+            {
+              "time": "17:00",
+              "title": "Islands Brygge'de liman hayatı",
+              "description": "Yazsa suya atla, değilse kıyı merdiveninde otur: güneş, çimen ve elinde bir şeyle oturan yarım şehir — Kopenhag'ın en sevdiği saat."
+            },
+            {
+              "time": "19:30",
+              "title": "Kødbyen akşamı",
+              "description": "Eski et paketleme bölgesinin restoran ve barlarında akşam: iyi bir tabak, sonra mikro birahanede skål. Tivoli ışıkları hâlâ açıksa kapanışı orada yap."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Şehri yerlisi gibi pedalla",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Kopenhag",
+              "description": "Yukarıdaki 1 günlük akış: Nyhavn, saray, Torvehallerne, Christianshavn, liman, Kødbyen."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Nørrebro ve yaratıcı ada",
+              "description": "Sabah Assistens parkında yürüyüş ve Superkilen; öğlen Nørrebro'da dünya mutfağı; öğleden sonra havnebus'la Refshaleøen — Reffen sokak yemeği, La Banchina'da gün batımı; dönüşte CopenHill çatısına çık."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Sanat günü ve veda",
+              "description": "Trenle 40 dakikada Louisiana Modern Sanat Müzesi'ne git: deniz kenarı heykel bahçesi tek başına yol parası eder. Dönüşte Cisternerne ya da Ny Carlsberg Glyptotek, akşam son bir hygge kafede mum ışığı."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Danca telaffuz zorlu bir spor ama herkes İngilizce konuşur; bu beş kelime yine de kapıları gülümsemeyle açar.",
+      "items": [
+        {
+          "word": "Hej",
+          "pronunciation": "hay",
+          "meaning": "Merhaba — çift söylersen (hej hej) hoşça kal olur"
+        },
+        {
+          "word": "Tak",
+          "pronunciation": "tak",
+          "meaning": "Teşekkürler — 'tusind tak' bin teşekkür demektir"
+        },
+        {
+          "word": "Skål!",
+          "pronunciation": "skol",
+          "meaning": "Şerefe! — kadeh kalkarken herkesle göz teması şart"
+        },
+        {
+          "word": "Hyggeligt",
+          "pronunciation": "hügelit",
+          "meaning": "'Ne hoştu, çok keyifliydi' — bir buluşmanın en iyi özeti; duyunca gülümse"
+        },
+        {
+          "word": "Undskyld",
+          "pronunciation": "unskül",
+          "meaning": "Affedersiniz / pardon — bisiklet ziliyle birlikte duyarsan hızlıca kenara çekil"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Kopenhag Checklist",
+      "completion_message": "Skål! Kopenhag'ı yerlisi gibi yaşadın!",
+      "items": [
+        {
+          "label": "Bir gün boyunca bisikletle gez",
+          "sub": "Şeride gir, akışa uy, şehri yerlisi gibi gör"
+        },
+        {
+          "label": "Nyhavn'ı sabah boşken fotoğrafla",
+          "sub": "Renkli cepheler, kahve buharı, kalabalıksız"
+        },
+        {
+          "label": "Smørrebrød + snaps öğle yemeği ye",
+          "sub": "Ringayla başla, sırayı garsona bırak"
+        },
+        {
+          "label": "Havnebad'da suya gir ya da ayağını sok",
+          "sub": "Islands Brygge — ücretsiz ve tertemiz"
+        },
+        {
+          "label": "Vor Frelsers'in burma kulesine tırman",
+          "sub": "Dış merdiven, 360 derece Kopenhag"
+        },
+        {
+          "label": "Kanelsnegl için fırın kuyruğuna gir",
+          "sub": "Kuyruk uzunsa doğru fırındasın"
+        },
+        {
+          "label": "Havnebus'la liman turu yap",
+          "sub": "991/992 — otobüs biletiyle boğaz turu"
+        },
+        {
+          "label": "Superkilen'in pembe tepelerinde yürü",
+          "sub": "Nørrebro — dünya haritası gibi park"
+        },
+        {
+          "label": "CopenHill'in çatısından limana bak",
+          "sub": "Çöp santrali üstünde yürüyüş yolu"
+        },
+        {
+          "label": "Bir kafede mum ışığında hygge yap",
+          "sub": "Battaniye, sıcak içecek, telefonsuz sohbet"
+        }
+      ]
+    }
+  }
+}

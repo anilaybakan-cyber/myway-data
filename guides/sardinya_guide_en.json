@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Sardinia",
+    "country": "Italy",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#0F7E8A",
+    "color_light": "#E5F4F5",
+    "tagline": "Caribbean-blue sea, granite mountains, and an island that speaks its own language"
+  },
+  "pills": [
+    "Sardinia without a car is half an island",
+    "Caribbean sea, shepherd soul",
+    "Ajò! — let's go"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Sardinia",
+      "intro": "Sardinia is not an island but a small continent: Caribbean-blue coves on the coast, granite mountains inland, three-thousand-year-old stone towers called nuraghi, and a language apart from Italian. The yachts of the Costa Smeralda are the shop window; the real Sardinia lives in shepherd villages, in the crackle of bread, and in the ease of people who say 'ajò' and hit the road. Don't underestimate the distances, don't hurry the sea — this island belongs to slow travellers.",
+      "local_word": {
+        "word": "Ajò",
+        "pronunciation": "ah-YO",
+        "definition": "Sardinian for 'come on, let's go': the island's mood in one word. To the sea, to the mountains, to the table — no matter; say ajò and a Sardinian counts you as one of their own."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Rent a car — no negotiation",
+          "description": "Public transport is weak between the coastal towns; the coves, nuraghi and mountain villages only happen by car. In summer book months ahead; automatics sell out early."
+        },
+        {
+          "number": 2,
+          "title": "Don't tour the island from one base",
+          "description": "Cagliari to Alghero is four hours. Set separate bases for north, east and south, or devote the trip to one region; the ambition to 'see it all' turns a holiday into motorway."
+        },
+        {
+          "number": 3,
+          "title": "Leave the sand and shells where they are",
+          "description": "Taking sand, pebbles or shells from the beaches is illegal and seriously fined; suitcases get scanned at the airports. For a souvenir, a photo and a bottle of mirto suffice."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Getting there",
+          "value": "Flight or ferry",
+          "sub": "Cagliari, Olbia, Alghero airports"
+        },
+        {
+          "icon": "🚗",
+          "label": "On the island",
+          "value": "Rental car essential",
+          "sub": "Long distances, sparse buses"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Language",
+          "value": "Italian + Sardinian",
+          "sub": "In Alghero they even speak Catalan"
+        },
+        {
+          "icon": "🏖️",
+          "label": "Signature",
+          "value": "Turquoise coves",
+          "sub": "Europe's clearest waters"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The Sardinia philosophy",
+        "text": "Sardinians are among the longest-lived peoples on earth and the secret is plain: little hurry, long tables, constant sea air. Count every slow day on the island as a dose of the recipe."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "In Sardinia the plan starts with a car; the rest is choosing coves.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arrival — three airports",
+          "description": "Cagliari is the gate to the south, Olbia to the northeast (Costa Smeralda), Alghero to the northwest. Fly to the region your route is built on; transfers across the island take hours."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Ferry — bring your own car",
+          "description": "Night ferries from Civitavecchia, Livorno and Genoa land at Olbia and Cagliari; bringing your own car can beat summer rental prices. Book the cabin early."
+        },
+        {
+          "icon": "🚗",
+          "title": "Rental car — the island's key",
+          "description": "The coast roads are scenic but winding, the inland roads narrow. Fill up between villages, keep coins for beach car parks. A small car wins on the narrow cove lanes."
+        },
+        {
+          "icon": "🚆",
+          "title": "The Trenino Verde and the main line",
+          "description": "The main railway runs the Cagliari–Sassari axis, slow but scenic; the historic narrow-gauge 'Trenino Verde' is not transport but an excursion in itself."
+        },
+        {
+          "icon": "⛵",
+          "title": "Boats to the coves",
+          "description": "Cala Goloritzé, the La Maddalena archipelago and most hidden coves are best reached from the water: daily boat tours and gommone (dinghy) hire are everywhere. Ask the engine limit for licence-free boats."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Beach quota warning",
+        "text": "Some famous beaches (La Pelosa, Tuerredda, the Goloritzé path) run summer visitor quotas with online booking; check the day before and go early in the morning."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "In Sardinia 'where to stay' really means 'which Sardinia': five regions, five different holidays.",
+      "local_word": {
+        "word": "Stazzu",
+        "pronunciation": "STAH-tsoo",
+        "definition": "The stone farmhouse of the Gallura region: most are now agriturismi. Staying in a stazzu means sleeping in shepherd Sardinia, ten minutes from the sea."
+      },
+      "items": [
+        {
+          "name": "Cagliari — capital of the south",
+          "badge": "Most urban",
+          "badge_type": "value",
+          "description": "The Castello citadel quarter, the long Poetto beach and true city life: flights are easy, restaurants full, and the southern coves (Chia, Villasimius) within day-trip range. The most sensible start to an island tour.",
+          "tags": [
+            "Castello quarter",
+            "Poetto beach",
+            "Base for the south"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cagliari"
+        },
+        {
+          "name": "Alghero — the Catalan balcony",
+          "badge": "Most characterful",
+          "badge_type": "vibe",
+          "description": "A walled old town with a Catalan past and a coral-craft tradition: sunset on the ramparts at dusk, a boat to Neptune's Grotto at dawn. The sweetest base in the northwest.",
+          "tags": [
+            "Walled lanes",
+            "Catalan heritage",
+            "Neptune's Grotto"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Alghero"
+        },
+        {
+          "name": "Costa Smeralda / San Teodoro",
+          "badge": "Most glamorous",
+          "badge_type": "hot",
+          "description": "The shore of emerald coves and yacht marinas: Porto Cervo is the shop window, San Teodoro and Palau the more grounded alternatives. The La Maddalena boat tours leave from here.",
+          "tags": [
+            "Emerald coves",
+            "La Maddalena",
+            "Summer buzz"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Teodoro+Sardinia"
+        },
+        {
+          "name": "Ogliastra — Cala Gonone and the east",
+          "badge": "Wildest",
+          "badge_type": "local",
+          "description": "The coast of the legendary coves — Goloritzé, Mariolu, Luna: boats, footpaths and the place where the mountain falls into the sea. The region for nature and cove collectors; car and solid shoes required.",
+          "tags": [
+            "Legendary coves",
+            "Trekking routes",
+            "Mountain-and-sea"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Gonone"
+        },
+        {
+          "name": "The south coast — Chia/Pula",
+          "badge": "Family friendly",
+          "badge_type": "value",
+          "description": "Long sands, shallow turquoise water and flamingo lagoons: the south's generous shore for families and calm holidays. Proximity to Cagliari airport is the bonus.",
+          "tags": [
+            "Shallow sands",
+            "Flamingo lagoon",
+            "Near the airport"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chia+Sardinia"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "When to Go",
+      "intro": "Sardinia's sea is warm even in September; the real question is the crowd-and-price balance.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "The Green Island",
+          "months": "Apr – Jun",
+          "subtitle": "Spring · Flowering maquis, empty coves",
+          "description": "The island greens under the scent of maquis, the trails open, the sea warms in June. Quotas not yet running, prices fair — the best window for trekking and cove-hunting.",
+          "callout": {
+            "type": "tip",
+            "label": "June tip",
+            "text": "Mid-June is Sardinia's secret peak: July's sea, May's calm, full sunshine."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "Peak Sea",
+          "months": "Jul – Aug",
+          "subtitle": "Summer · Warm coves, full beaches",
+          "description": "The sea is a bath, the evenings are festivals, the famous beaches run quotas. In August half of Italy is on the island: book everything ahead and reach the beaches before 9 am.",
+          "callout": {
+            "type": "warning",
+            "label": "August warning",
+            "text": "In Ferragosto week (August 15) the ferries and roads overflow; pin your route to one region that week and avoid long drives."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "Warm Sea, Empty Coves",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · September is the golden month",
+          "description": "In September the sea holds August's warmth and the beaches stand half empty; October brings the harvest and the village festivals (sagre). The island's smartest season.",
+          "callout": {
+            "type": "tip",
+            "label": "September tip",
+            "text": "By mid-September the Goloritzé path quota stops being a worry; the classic morning hike + noon swim happens at full flavour."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "The Island's Inner Face",
+          "months": "Dec – Mar",
+          "subtitle": "Winter · Shepherd Sardinia, carnival",
+          "description": "The coastal resorts partly close but the interior lives: the 'Cortes Apertas' events in the Barbagia villages, and in January-February the eerie Mamuthones carnival of Mamoiada. No sea, yet a full island.",
+          "callout": {
+            "type": "tip",
+            "label": "Carnival tip",
+            "text": "Seeing the Mamuthones procession in Mamoiada in February is looking into Sardinia's three-thousand-year-old face; you go not as tourist but as witness."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "The Sardinian table is two worlds: the sea's harvest on the coast, the shepherd's kitchen inland — and over both, a crisp leaf of carasau.",
+      "local_word": {
+        "word": "Porceddu",
+        "pronunciation": "por-CHED-doo",
+        "definition": "Suckling pig turned for hours over myrtle wood: the feast of the shepherd's kitchen. The real thing is eaten at an agriturismo, ordered ahead — the crackle of its skin is the island's sound."
+      },
+      "items": [
+        {
+          "icon": "🥟",
+          "name": "Culurgiones",
+          "description": "Handmade dumplings filled with potato, pecorino and mint, sealed like an ear of wheat: the pride of Ogliastra. With butter and sage or tomato sauce — poetry either way.",
+          "tag": "Ogliastra classic · hand-pleated",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ogliastra+Sardinia"
+        },
+        {
+          "icon": "🍖",
+          "name": "Porceddu — agriturismo style",
+          "description": "Suckling pig slowly turned over embers, scented with myrtle: the summit of the shepherd's table. It arrives after an army of antipasti on the agriturismo menu — come hungry.",
+          "tag": "At an agriturismo · order ahead",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Oliena+Sardinia"
+        },
+        {
+          "icon": "🫓",
+          "name": "Pane carasau and guttiau",
+          "description": "The paper-thin shepherd's bread that keeps for months. Baked with olive oil and salt it becomes guttiau — the first crackle to reach the table.",
+          "tag": "On every table · as guttiau",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercato+di+San+Benedetto+Cagliari"
+        },
+        {
+          "icon": "🐟",
+          "name": "Bottarga and the seafood course",
+          "description": "The cured mullet roe of the Cabras lagoon is gold dust over spaghetti; on the coast the sea course stretches through prawns, octopus and fregola.",
+          "tag": "Cabras bottarga · with fregola",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cabras+Sardinia"
+        },
+        {
+          "icon": "🧀",
+          "name": "Pecorino sardo and honey",
+          "description": "The young sheep's cheese is sweet, the aged one sharp; its pairing with bitter corbezzolo honey is an island classic. The soul of seadas is this same duo.",
+          "tag": "Cheese + honey · ask for corbezzolo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gavoi+Sardinia"
+        },
+        {
+          "icon": "🍷",
+          "name": "Cannonau, Vermentino and mirto",
+          "description": "The strength of Cannonau in the red, the salt of Vermentino in the white; dinner is sealed with the myrtle liqueur mirto. Test the 'wine of long life' legend at the source.",
+          "tag": "The glass sequence · end with mirto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jerzu+Sardinia"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The agriturismo rule",
+        "text": "Once in your life, live a Sardinian agriturismo evening: fixed price, countless plates, house wine by the jug. Eat lightly at noon, and don't surrender before the culurgiones arrive."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Gems",
+      "intro": "Behind the postcard coves hides a three-thousand-year-old island; these six fit sea and history into the same day.",
+      "items": [
+        {
+          "rarity": "Capital of the Bronze Age",
+          "name": "Su Nuraxi — Barumini",
+          "description": "The largest nuraghe complex, UNESCO-listed: a stone tower and village fabric from 1500 BC. Guided tours go inside the tower — the entrance lesson to the island's mysterious civilisation.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Su+Nuraxi+Barumini"
+        },
+        {
+          "rarity": "A cove like a cathedral",
+          "name": "Cala Goloritzé",
+          "description": "Ogliastra's jewel with its granite arch and needle spire: reached only by footpath (quota-controlled) or by swimming in from a boat. The reward is the Mediterranean's purest cove.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Goloritzé"
+        },
+        {
+          "rarity": "A pastel town on a river",
+          "name": "Bosa",
+          "description": "Coloured houses stacked along the Temo river below the Malaspina castle: the island's most photogenic town, left in Alghero's shadow. Also the home of Malvasia wine.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bosa"
+        },
+        {
+          "rarity": "The village whose walls speak",
+          "name": "Orgosolo",
+          "description": "Barbagia's rebel village, an open-air gallery of over 150 political-poetic murals: shepherd Sardinia's voice on the walls. A shepherd's lunch nearby completes the classic.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Orgosolo+murals"
+        },
+        {
+          "rarity": "A palace entered from the sea",
+          "name": "Neptune's Grotto",
+          "description": "The great stalactite cave in Alghero's Capo Caccia cliffs: by the 654-step cliff stairway (Escala del Cabirol) or by boat. Both are part of the show.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta+di+Nettuno+Alghero"
+        },
+        {
+          "rarity": "An ancient city in the lagoon",
+          "name": "Tharros",
+          "description": "The Phoenician-Roman city set on the sea at the Sinis peninsula: blue behind every column. With the San Giovanni di Sinis church and the mullet shacks nearby, a perfect half day.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tharros"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Combination tip",
+        "text": "Sardinia's formula is 'stone in the morning, sea at noon': put the nuraghe or ancient city first, then swim in the nearest cove — history and holiday fit the same day."
+      }
+    },
+    "traps": {
+      "title": "Skip the Traps",
+      "intro": "Sardinia is an honest island; most traps grow from wrong expectations. Know these four.",
+      "items": [
+        {
+          "icon": "🛥️",
+          "name": "Mistaking the Costa Smeralda for Sardinia",
+          "description": "Porto Cervo's yacht window is one percent of the island; judging the island by those prices — or confining it to them — are both mistakes.",
+          "instead": "Tour the shop window for one coffee, then return to the real island: San Teodoro's coves, Gallura's villages, the inland tables."
+        },
+        {
+          "icon": "🏖️",
+          "name": "Arriving unplanned at a quota beach",
+          "description": "Reach La Pelosa at noon and you'll watch the sea from behind a rope; in summer the famous coves demand booking.",
+          "instead": "Reserve the quota beaches online a day ahead and arrive at 8; or pick the equally lovely neighbouring cove — this island always has one."
+        },
+        {
+          "icon": "🦞",
+          "name": "'Catalan lobster' with the price unasked",
+          "description": "Alghero's famous lobster sells by the etto (100 g); order without asking and the bill rocks the holiday budget.",
+          "instead": "Agree the weight and etto price up front; or take the same joy at a fair price with fregola and prawns."
+        },
+        {
+          "icon": "⏱️",
+          "name": "Trusting the map's distances",
+          "description": "An 80 km coast road can take two hours; 'we'll make dinner' plans melt in the bends.",
+          "instead": "Add thirty percent to the app's estimate and do one big drive a day; on Sardinia, fewer roads and more coves is always the right equation."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The golden rule",
+        "text": "The colour of Sardinia's sea is proportional not to your money but to how early you rise: no beach club outshines an empty cove at 8 am."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Routes",
+      "intro": "If you hate planning, follow these flows. The times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "The southern classic from a Cagliari base",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Castello morning",
+              "description": "Look over the gulf from the ramparts of Cagliari's citadel; coffee around Piazza Yenne, pastry stop permitted."
+            },
+            {
+              "time": "10:00",
+              "title": "San Benedetto market",
+              "description": "Descend to the fish floor of one of Italy's biggest covered markets: bottarga, cheese and provisions for lunch."
+            },
+            {
+              "time": "11:30",
+              "title": "South to the Chia coves",
+              "description": "Drive the coast road to Chia: turquoise water, white dunes, a flamingo lagoon. Swim at Su Giudeu."
+            },
+            {
+              "time": "14:00",
+              "title": "Lunch behind the beach",
+              "description": "Fregola or a panino at a sand-floored chiringuito; then one more cove — Tuerredda if you dare, check its quota."
+            },
+            {
+              "time": "17:30",
+              "title": "Ancient Nora",
+              "description": "Stop at the seaside Phoenician-Roman city on the way back: mosaics, theatre and the setting sun in one frame."
+            },
+            {
+              "time": "20:30",
+              "title": "Cagliari evening",
+              "description": "A seafood table in the Marina quarter, closed with mirto. Ajò — another cove tomorrow!"
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Live the island as a guest, not a tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "The southern classic",
+              "description": "The 1-day flow above: Castello, market, Chia, Nora."
+            },
+            {
+              "time": "Day 2",
+              "title": "Stone and the interior",
+              "description": "Su Nuraxi (Barumini) in the morning, the drive into Barbagia at noon, Orgosolo's murals after; an agriturismo feast at night — porceddu and Cannonau."
+            },
+            {
+              "time": "Day 3",
+              "title": "The eastern coves",
+              "description": "Rise early for the boat from Cala Gonone along the Goloritzé–Mariolu line: swim, rest, swim again. Sunset aperitivo at Santa Maria Navarrese; farewell with pecorino and honey."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "The 5-Word Survival Kit",
+      "intro": "Italian is enough, but one word of Sardinian opens the doors wide.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "bwon-JOR-noh",
+          "meaning": "Good morning / good day — mandatory entering the village bar"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Thank you — short, clear, always"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "Please — add it to the end of your order"
+        },
+        {
+          "word": "Salute!",
+          "pronunciation": "sah-LOO-teh",
+          "meaning": "Cheers! — Cannonau glasses rise to this"
+        },
+        {
+          "word": "Ajò!",
+          "pronunciation": "ah-YO",
+          "meaning": "Sardinian for 'let's go!' — say it once and you count as an islander"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Sardinia Checklist",
+      "completion_message": "Ajò! You've done Sardinia properly!",
+      "items": [
+        {
+          "label": "Swim a turquoise cove at 8 am",
+          "sub": "The cove yours, the colours at their purest"
+        },
+        {
+          "label": "Enter the nuraghe tower at Su Nuraxi",
+          "sub": "Barumini — a three-thousand-year stone civilisation"
+        },
+        {
+          "label": "Sit through a porceddu feast at an agriturismo",
+          "sub": "Fixed price, endless plates, house wine"
+        },
+        {
+          "label": "See the wheat-ear seal on culurgiones",
+          "sub": "Ogliastra's dumpling — handmade only"
+        },
+        {
+          "label": "Swim into Goloritzé from a boat",
+          "sub": "Granite arch and needle spire — the purest Mediterranean"
+        },
+        {
+          "label": "Read the walls of Orgosolo",
+          "sub": "150+ murals — shepherd Sardinia's voice"
+        },
+        {
+          "label": "Take the cliff stairway to Neptune's Grotto",
+          "sub": "654 steps — the price of the view"
+        },
+        {
+          "label": "Walk Bosa's pastel lanes",
+          "sub": "The Temo riverside + a glass of Malvasia"
+        },
+        {
+          "label": "Eat spaghetti with bottarga",
+          "sub": "Cabras gold dust — fregola works too"
+        },
+        {
+          "label": "Close with mirto",
+          "sub": "The myrtle liqueur — and a bottle for the suitcase"
+        }
+      ]
+    }
+  }
+}

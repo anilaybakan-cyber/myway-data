@@ -1,0 +1,553 @@
+{
+  "meta": {
+    "city": "New York",
+    "country": "United States",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#1A1A2E",
+    "color_light": "#E8E8F0",
+    "tagline": "La città che non si spiega — e non ne ha bisogno",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Prendi la metropolitana ovunque",
+    "Mangia in piedi",
+    "Attraversa il Ponte di Brooklyn una volta"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "New York non ha un unico centro – ha cinque distretti, centinaia di quartieri e più di otto milioni di persone completamente indifferenti alla tua presenza. Ed è proprio questo il punto. La metropolitana funziona 24 ore su 24. I delis sono aperti da prima che nascessero i tuoi genitori. I bagel di New York sono fatti con l'acqua naturalmente dolce della città – i panettieri altrove non possono replicarne la consistenza. La pizza si piega a metà e si mangia camminando. C'è sempre qualcosa che succede a tre isolati di distanza di cui nessuna guida turistica ti parlerà. La città premia i curiosi e punisce chiunque si aspetti che sia comoda.",
+      "local_word": {
+        "pronunciation": "bo-DAY-ga",
+        "definition": "Un piccolo minimarket di quartiere – aperto a tutte le ore, spesso con un banco gastronomia, e sicuramente con un gatto da qualche parte all'interno. Il 'bacon, egg, and cheese on a roll' della bodega è la colazione di New York. Non la versione da ristorante: quella fatta su una piastra dietro il bancone, avvolta nella stagnola, mangiata sul marciapiede o in metropolitana. È una delle cose più grandi che la città abbia prodotto.",
+        "word": "Bodega"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "La metropolitana va ovunque – usala!",
+          "description": "472 stazioni, 24 ore al giorno, 365 giorni all'anno. Corsa singola $3.00, paga con qualsiasi carta contactless o telefono – non serve la MetroCard. Limite settimanale $35: dopo 12 corse in una settimana, le successive sono gratuite. La metropolitana non è sempre pulita, silenziosa o puntuale. Ma è sempre più veloce di un taxi a Manhattan. Attenzione alle porte che si chiudono."
+        },
+        {
+          "number": 2,
+          "title": "Manhattan è più piccola di quanto pensi – Brooklyn è più grande",
+          "description": "Manhattan è lunga 21 chilometri e larga 4 chilometri nel suo punto più ampio. Puoi camminare dal Lower East Side a Central Park in meno di un'ora. Brooklyn, al contrario, contiene mondi interi – Williamsburg, DUMBO, Park Slope, Crown Heights, Coney Island – ognuno con il suo carattere, nessuno vicino all'altro. Non sottovalutare le distanze nei distretti esterni."
+        },
+        {
+          "number": 3,
+          "title": "Prenota ristoranti; non prenotare viste",
+          "description": "Le migliori viste di New York sono gratuite o economiche: Ponte di Brooklyn (attraversalo a piedi, gratis), Staten Island Ferry (gratis), Roosevelt Island Tram (costo della metropolitana), High Line (gratis). L'Empire State Building e il One World Observatory sono a pagamento e costosi – prova prima le opzioni gratuite. Per visitare la Statua della Libertà da vicino è necessario un biglietto del traghetto separato; vederla dallo Staten Island Ferry è gratuito e spesso sufficiente. Times Square: travolgente di giorno, vale una sera per le luci – ma mangia altrove. I migliori tavoli dei ristoranti – Via Carota, Don Angie, Lilia – si prenotano con settimane di anticipo."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeroporti",
+          "value": "JFK · LGA · EWR",
+          "sub": "JFK AirTrain (a pagamento) + metropolitana ~60 min · Treno per Newark ~45 min"
+        },
+        {
+          "icon": "🚇",
+          "label": "Metropolitana",
+          "value": "OMNY — paga con qualsiasi carta contactless o telefono",
+          "sub": "Corsa singola $3.25 · Limite 7 giorni $35 · funziona 24/7"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Clima",
+          "value": "Quattro vere stagioni",
+          "sub": "Set–Nov ideale · Dic–Feb freddo · Mar–Mag imprevedibile · Giu–Ago caldo e umido"
+        },
+        {
+          "icon": "🍕",
+          "label": "Fetta da un dollaro",
+          "value": "Piegala a metà, mangia camminando",
+          "sub": "Il pasto più onesto della città · preferibilmente contanti · a pagamento"
+        }
+      ],
+      "tip": {
+        "label": "New York gratis — cosa non costa davvero nulla",
+        "text": "Staten Island Ferry: gratuito, traversata di 25 minuti, viste della Statua della Libertà e dello skyline di Lower Manhattan. Entrambe le direzioni. L'High Line: parco sopraelevato gratuito che si estende per 2,3 chilometri sopra i vecchi binari ferroviari sul lato ovest di Manhattan. Passerella del Ponte di Brooklyn: gratuita, meglio all'alba. Tutti gli autobus MTA: accettano contanti, resto esatto. Il Met, il MoMA e il Guggenheim hanno periodi 'pay-what-you-wish' (paga quanto vuoi) – controlla i loro siti web. Central Park: gratuito, 843 acri, il miglior parco di qualsiasi città del mondo.",
+        "type": "tip"
+      },
+      "title": "Benvenuti a New York"
+    },
+    "transport": {
+      "intro": "Prendi la metro o cammina. I taxi hanno senso solo a tarda notte.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeroporto → Città",
+          "description": "Da JFK: AirTrain per Jamaica o Howard Beach, poi metropolitana — circa 60 minuti, entrambi i biglietti sono separati. Da LaGuardia: nessun collegamento ferroviario. Prendi l'autobus M60 fino alla stazione della metropolitana di 125th Street e prosegui verso il centro città in metro. Anche un taxi diretto è un'opzione. Da Newark: treno NJ Transit per Penn Station, circa 45 minuti. I taxi vanno a tassametro; il traffico rende sia il tempo che il costo imprevedibili."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metropolitana — la spina dorsale della città",
+          "description": "472 stazioni in cinque distretti, 24 ore su 24. Appoggia una carta contactless, il telefono o una OMNY Card sul lettore del tornello. $3.25, tetto settimanale $35. Le linee operano in due modalità: i treni locali fermano a ogni stazione, i treni express ne saltano alcune — controlla la mappa prima di salire o potresti superare la tua fermata. I treni passano meno frequentemente di notte ma nessuna linea chiude."
+        },
+        {
+          "icon": "🚌",
+          "title": "Autobus — più lenti ma utili",
+          "description": "Stessa tariffa della metro, usa OMNY. Utili per le rotte trasversali che la metro non copre: M15, M34, M42. Più lenti della metro nel traffico, ma ti godi la città che scorre — a volte ne vale la pena."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Staten Island Ferry — gratuito, sempre in funzione",
+          "description": "Parte dal Whitehall Terminal ogni 30 minuti, 24 ore su 24. 25 minuti passando davanti alla Statua della Libertà, Governors Island e lo skyline di Lower Manhattan — gratuito in entrambe le direzioni. I newyorkesi lo usano per andare al lavoro; tu farai il miglior giro in barca gratuito del mondo."
+        },
+        {
+          "icon": "🚶",
+          "title": "A piedi — l'unico modo per vederla davvero",
+          "description": "Manhattan è una griglia. I viali corrono nord-sud; le strade est-ovest. I numeri aumentano andando a nord e a ovest. Ogni isolato richiede circa un minuto a piedi — 20 isolati sono circa un miglio. Sotto la 14th Street la griglia si interrompe e avrai bisogno della mappa. I distretti esterni non sono a griglia. Indossa scarpe comode per camminare per sei ore."
+        }
+      ],
+      "callout": {
+        "label": "Roosevelt Island Tram — $3, nessuna coda, meglio di qualsiasi rooftop bar",
+        "text": "Il Roosevelt Island Tram parte dalla 59th Street e Second Avenue a Manhattan, attraversando l'East River fino a Roosevelt Island. Stessa tariffa della metropolitana — nessun costo aggiuntivo. Sale a 76 metri sopra il fiume — viste sul Queensboro Bridge, l'East River, gli skyline di Manhattan e Queens. Il viaggio dura cinque minuti a tratta. I newyorkesi lo usano per andare al lavoro. Tutti gli altri lo ignorano a favore di ponti di osservazione da $40. Vai al tramonto.",
+        "type": "tip"
+      },
+      "title": "Come Muoversi"
+    },
+    "stay": {
+      "intro": "Manhattan è comoda e costosa. Brooklyn è interessante e più economica. I quartieri esterni sono dove la città vive davvero.",
+      "local_word": {
+        "pronunciation": "—",
+        "definition": "Manhattan è uno dei cinque distretti. Gli altri — Brooklyn, Queens, il Bronx e Staten Island — sono dove vive la maggior parte dei newyorkesi e dove si trovano il miglior cibo, la cultura e la vita di quartiere della città. 'Andare in città' significa andare a Manhattan, anche per chi vive a New York. La versione migliore di New York spesso richiede di prendere la metropolitana e lasciare Manhattan.",
+        "word": "I Quartieri Esterni"
+      },
+      "items": [
+        {
+          "name": "Lower East Side / East Village",
+          "badge": "Il più interessante",
+          "badge_type": "local",
+          "description": "Tedeschi, ebrei, italiani, cinesi, portoricani — il quartiere dove successive ondate di immigrati sono arrivate e hanno lasciato il segno. Katz's è nello stesso angolo dal 1888. Russ & Daughters dal 1914. I palazzi popolari, i negozi di sottaceti, le strade strette sono ancora qui. L'East Village, proprio accanto, è più giovane, più rumoroso, più economico. Entrambi sono vivaci fino a tarda notte.",
+          "tags": [
+            "Katz's & Russ & Daughters",
+            "Il più storico",
+            "Bar aperti fino a tardi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lower+East+Side+New+York"
+        },
+        {
+          "name": "West Village / Greenwich Village",
+          "badge": "Il più affascinante",
+          "badge_type": "hot",
+          "description": "Dove la griglia stradale si interrompe e le strade hanno nomi anziché numeri. Brownstones, vicoli stretti, jazz club attivi dagli anni '50. Il quartiere più costoso di Manhattan, metro quadro per metro quadro. Via Carota su Grove Street è il miglior ristorante italiano della città. La White Horse Tavern serve dal 1880. Ottimo per passeggiare; rimane rumoroso fino a tarda notte, quindi non ideale se hai bisogno di mattinate tranquille. Fan di Friends? L'edificio usato per le riprese esterne è su Grove Street, a pochi passi da Via Carota.",
+          "tags": [
+            "Via Carota",
+            "Le migliori strade per passeggiare",
+            "Storia del jazz"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=West+Village+New+York"
+        },
+        {
+          "name": "Midtown / Hell's Kitchen",
+          "badge": "Il più comodo",
+          "badge_type": "hot",
+          "description": "Hell's Kitchen è il lato ovest di Midtown — raggiungibile a piedi da Central Park, Times Square, Penn Station e Lincoln Center. Meno costoso del Village, meglio collegato di Brooklyn. La scena gastronomica è davvero buona e sottovalutata. Lo svantaggio: è Midtown. Il rumore, il ritmo frenetico e la mancanza di un'atmosfera di quartiere sono reali. Ideale se la comodità dei trasporti è la priorità.",
+          "tags": [
+            "Central Park in 10 min",
+            "Penn Station vicina",
+            "Scena gastronomica sottovalutata"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hell%27s+Kitchen+New+York"
+        },
+        {
+          "name": "Williamsburg / Brooklyn",
+          "badge": "Il più autentico",
+          "badge_type": "local",
+          "description": "Il quartiere più visitato di Brooklyn — non più il segreto che era una volta, ma ancora davvero valido. La linea L della metropolitana porta a Manhattan in 10 minuti. Il lungofiume dell'East River offre la migliore vista dello skyline della città. La scena gastronomica e dei bar è eccellente. Bedford Avenue è troppo affollata nei fine settimana; andate un martedì sera — uno dei tratti di strada più interessanti della città a quell'ora.",
+          "tags": [
+            "Le migliori viste dello skyline di Manhattan",
+            "Metro L per Manhattan",
+            "I migliori bar di Brooklyn"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Williamsburg+Brooklyn"
+        },
+        {
+          "name": "Upper West Side",
+          "badge": "Il più vivibile",
+          "badge_type": "local",
+          "description": "Il quartiere dove i newyorkesi si trasferiscono quando vogliono rimanere a Manhattan. Central Park a est, Riverside Park a ovest. Barney Greengrass su Amsterdam Avenue serve storione e pesce affumicato dal 1908. Andateci la mattina. Più tranquillo del centro, vicino a tutto con la metro.",
+          "tags": [
+            "Accesso a Central Park",
+            "Barney Greengrass",
+            "Tranquillo e residenziale"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Upper+West+Side+New+York"
+        }
+      ],
+      "title": "Dove Alloggiare"
+    },
+    "best_time": {
+      "intro": "New York è una città diversa a seconda della stagione in cui la si visita. L'estate è brutale, l'inverno è rigido, l'autunno è mozzafiato, la primavera è imprevedibile.",
+      "items": [
+        {
+          "label": "Autunno",
+          "name": "La Stagione Migliore",
+          "months": "Set – Nov",
+          "description": "Settembre e ottobre sono i mesi in cui New York è più autentica. I turisti estivi sono partiti, il caldo si è attenuato, la luce diventa ambrata e soffusa. A ottobre, il foliage autunnale di Central Park è esattamente come nei film: luce ambrata che filtra tra i grattacieli, il parco che si tinge d'oro e di rosso. La scena dei ristoranti riprende vita dopo l'estate: gli chef tornano, nuove aperture avvengono in autunno. Halloween a New York è un vero e proprio evento culturale. La Maratona di New York, all'inizio di novembre, chiude le strade della città nel migliore dei modi. Se potete andarci una sola volta, andate a ottobre.",
+          "callout": {
+            "label": "Maratona di New York — prima domenica di novembre",
+            "text": "26.2 miglia attraverso tutti e cinque i distretti, 50.000 corridori, due milioni di spettatori. Il percorso va da Staten Island attraverso Brooklyn, Queens, il Bronx e termina a Central Park. Guardare dalle strade è gratuito: i punti migliori sono l'approccio al Queensboro Bridge a Long Island City, la First Avenue nella zona degli anni '60 e il traguardo a Central Park South. Arrivate presto. La città chiude i suoi ponti, il che significa che la metropolitana è l'unico modo per spostarsi.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Autunno · La città al suo meglio"
+        },
+        {
+          "label": "Primavera",
+          "name": "Timida ma Ne Vale la Pena",
+          "months": "Mar – Mag",
+          "description": "Marzo è ancora inverno. Aprile è imprevedibile: un giorno un cappotto, il giorno dopo una maglietta. Quando arriva maggio la città si apre: alberi in fiore, marciapiedi che si riempiono, parchi che tornano a vivere. I ciliegi in fiore al Brooklyn Botanic Garden raggiungono il culmine a fine aprile: è affollato ma ne vale la pena. Governors Island apre il suo programma estivo a maggio.",
+          "callout": {
+            "label": "Governors Island — aperta da maggio a ottobre",
+            "text": "Un'isola di 172 acri nel porto di New York — a 10 minuti di traghetto da Lower Manhattan o Brooklyn. Senza auto, prevalentemente parco, con installazioni artistiche e venditori di cibo. Il traghetto è a pagamento; gratuito il sabato e la domenica prima delle 11:00. Le Hills — colline artificiali — offrono viste a 360 gradi sul porto e sullo skyline di Manhattan. Biciclette disponibili a noleggio. Aperta tutto l'anno; il programma estivo va da maggio a ottobre.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Primavera · Imprevedibile ma spesso bellissima"
+        },
+        {
+          "label": "Estate",
+          "name": "Calda, Umida, Affollata",
+          "months": "Giu – Ago",
+          "description": "Luglio a Manhattan ha un suo odore: asfalto caldo, umidità, cibo da ogni direzione. Le piattaforme della metro sono come forni. Ma la città non si ferma: concerti gratuiti all'aperto a Central Park (SummerStage), Shakespeare in the Park e le spiagge di Rockaway sono a 60 minuti di distanza con la linea A. In estate, la mattina presto e la sera tardi sono le ore migliori per stare all'aperto.",
+          "callout": {
+            "label": "Le Rockaways — spiaggia in metropolitana",
+            "text": "La penisola di Rockaway nel Queens è raggiungibile con la linea A della metropolitana — circa 60 minuti da Midtown. Jacob Riis Beach è la più interessante: varia, con poche auto, con un tratto di spiaggia che attira una folla genuinamente locale. La passeggiata a Rockaway Beach è più pulita e orientata alle famiglie. Entrambe sono gratuite. Portate contanti per il cibo. La linea A viaggia express per la spiaggia nei weekend estivi.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Estate · La città non dorme, ma suda"
+        },
+        {
+          "label": "Inverno",
+          "name": "Freddo, Economico, Genuinamente Atmosferico",
+          "months": "Dic – Feb",
+          "description": "Dicembre è il mese più costoso: l'albero del Rockefeller Center, le luci, la folla, i prezzi. Gennaio e febbraio sono i mesi in cui la città si svuota di turisti; gli hotel dimezzano i prezzi, i musei sono tranquilli, i tavoli nei ristoranti sono facili da trovare. Quando nevica tutto cambia: le strade si fanno silenziose, Manhattan si trasforma in un set cinematografico, Central Park diventa il luogo più bello del mondo per qualche ora. Uscite prima che arrivino gli spazzaneve.",
+          "callout": {
+            "label": "Il Met in inverno — senza coda, $30 suggeriti",
+            "text": "Il Metropolitan Museum of Art richiede un biglietto d'ingresso. Per i residenti dello Stato di New York è genuinamente facoltativo — pagate quanto volete. Per tutti gli altri è a prezzo pieno. A gennaio non ci sono code. L'ala egizia, le gallerie greche e romane, i dipinti europei — due ore al vostro ritmo. Il caffè sul tetto è chiuso in inverno, ma il caffè interno si affaccia su Central Park. Momento migliore: una mattina feriale di febbraio.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Inverno · La città senza la messa in scena"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "June",
+          "text": "Pride: eventi per tutto il mese, la gigantesca parata l'ultima domenica — la città si tinge di arcobaleno."
+        },
+        {
+          "month": "Late August–September",
+          "text": "US Open: un festival del tennis a Flushing Meadows; i biglietti giornalieri per la prima settimana sono abbastanza facili da trovare."
+        },
+        {
+          "month": "October 31",
+          "text": "Village Halloween Parade: la più grande parata di Halloween del mondo — con un costume, potete unirvi."
+        },
+        {
+          "month": "December",
+          "text": "Atmosfera natalizia: l'albero del Rockefeller, le vetrine della Fifth Avenue, la pista di Bryant Park. Affollato, ma la magia è vera."
+        }
+      ],
+      "title": "Quando Andare"
+    },
+    "eat": {
+      "intro": "New York offre ogni cucina del mondo e un'opinione su ognuna di esse. Inizia con ciò che la città ha inventato.",
+      "local_word": {
+        "pronunciation": "—",
+        "definition": "Una fetta triangolare di pizza in stile newyorkese, venduta singolarmente al bancone, mangiata piegata a metà in piedi. L'impasto è sottile e pieghevole; il formaggio è mozzarella a bassa umidità; la salsa è semplice. La 'dollar slice' non costa più un dollaro (ora $3–5), ma il formato è invariato. Ordini al bancone, paghi subito, mangi su un ripiano in piedi o per strada. Chiedere un piatto e una sedia in un locale che vende pizza a fette va bene, ma perde un po' il senso.",
+        "word": "Una Fetta"
+      },
+      "items": [
+        {
+          "icon": "🥩",
+          "name": "Pastrami su pane di segale — Katz's Delicatessen",
+          "description": "Katz's si trova al 205 East Houston Street dal 1888. Prendi un biglietto all'ingresso, vai al bancone e chiedi all'uomo di affettarti il pastrami. Lo farà. Il panino arriva con una montagna di pastrami su pane di segale con senape. Lo mangi a un tavolo di Formica sotto luci fluorescenti e fotografie autografate di celebrità. Il pastrami è tagliato a mano, grasso e stagionato lentamente. Questa non è una raccomandazione di un ristorante, è un obbligo.",
+          "tag": "205 E Houston St · prendi un biglietto · mattine feriali meno affollate · con biglietto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Katz%27s+Delicatessen+New+York"
+        },
+        {
+          "icon": "🥯",
+          "name": "Bagel con salmone affumicato — Russ & Daughters",
+          "description": "A due isolati di distanza, aperto dal 1914. Russ & Daughters è un negozio di pesce affumicato: il bancone espone salmone, aringhe e storione, e i clienti prendono le loro scelte molto sul serio. Il bagel è fatto a mano, bollito e cotto al forno; noterai la differenza al primo morso. Il Classic Board: salmone affumicato, cream cheese, bagel. Avvolto nella carta. Vieni per colazione.",
+          "tag": "179 E Houston St · dal 1914 · ordina il Classic Board",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Russ+%26+Daughters+New+York"
+        },
+        {
+          "icon": "🥚",
+          "name": "Bacon, uova e formaggio — qualsiasi bodega",
+          "description": "Uovo, formaggio americano e bacon cotti su una piastra, serviti su un panino Kaiser o un bagel, avvolti nella stagnola. Il formaggio dovrebbe essere completamente fuso con tutto il resto — questo è lo standard. I ristoranti fanno la stessa cosa, ma la versione della bodega ha un suo carattere distintivo.",
+          "tag": "Qualsiasi bodega · mangiato per strada o in metropolitana",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=bodega+deli+New+York"
+        },
+        {
+          "icon": "🍖",
+          "name": "Chopped cheese — Harlem e il Bronx",
+          "description": "Un panino da bodega specifico di Harlem e del Bronx — carne macinata, cipolle e formaggio tritati insieme su una piastra e serviti su un panino hoagie. Meno famoso del pastrami ma altrettanto essenziale per capire New York. L'originale si trova da Hajji's, conosciuto anche come Blue Sky Deli, sulla First Avenue all'altezza della 110th Street a East Harlem. Semplice, veloce ed esattamente come dovrebbe essere.",
+          "tag": "Hajji's, First Ave & 110th St · Harlem",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Blue+Sky+Deli+Harlem"
+        },
+        {
+          "icon": "🍕",
+          "name": "Pizza a fette — Joe's Pizza",
+          "description": "Su Carmine Street nel West Village dal 1975 — il punto di riferimento. Crosta sottile, pieghevole, la giusta quantità di unto. Ci sono decine di migliaia di pizzerie in città; Joe's è lo standard con cui tutto il resto viene misurato. Evita la corsa del pranzo — vai poco prima o poco dopo. Prendi una fetta, piegala, cammina.",
+          "tag": "7 Carmine St, West Village · dal 1975 · mangia in piedi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Joe%27s+Pizza+New+York"
+        },
+        {
+          "icon": "🥗",
+          "name": "Dim sum — Flushing, Queens",
+          "description": "La Chinatown di Manhattan è per i turisti; Flushing è quella vera. 30 minuti con la linea 7 della metropolitana, Main Street: la più grande comunità cinese fuori dalla Cina. La maggior parte delle cucine regionali non è mai arrivata a Manhattan. Solo la food court nel seminterrato del New World Mall vale il viaggio. Supermercati coreani, dolci taiwanesi, curry malese — tutto sulla stessa strada.",
+          "tag": "Linea 7 per Flushing · migliore e più economica della Chinatown di Manhattan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nan+Xiang+Xiao+Long+Bao+Flushing"
+        }
+      ],
+      "callout": {
+        "label": "La bodega — come funziona",
+        "text": "Entra. Il gatto sarà da qualche parte. Il bancone del deli è in fondo. Ordina il bacon egg and cheese — specifica il tipo di pane (roll, bagel o hero) e gli extra (sale, pepe, ketchup). Paga. Aspetta due minuti. Esci. Se c'è la fila, c'è un motivo. Se i prezzi sembrano alti per una bodega, sei in un quartiere dove l'affitto è alto. Trova un'altra bodega. Ce ne sono 13.000 a New York City.",
+        "type": "consiglio"
+      },
+      "title": "Cosa Mangiare"
+    },
+    "hidden_gems": {
+      "intro": "I segreti meglio custoditi di New York si nascondono per lo più in bella vista, ignorati perché richiedono di abbandonare il solito percorso turistico.",
+      "items": [
+        {
+          "name": "La Galleria dei Sussurri di Grand Central",
+          "description": "Nel livello inferiore del Grand Central Terminal, vicino all'ingresso del ristorante Oyster Bar, quattro archi piastrellati si incontrano in un angolo. Mettetevi in un angolo, di fronte al muro, e sussurrate. Qualcuno che si trova nell'angolo diagonalmente opposto — a 15 metri di distanza — vi sentirà chiaramente, mentre nessuno nel mezzo sentirà nulla. Gli archi creano un percorso acustico focalizzato. L'effetto è immediato e completamente reale. Gratuito, senza indicazioni, senza coda. La maggior parte delle migliaia di persone che ogni giorno attraversano Grand Central non ha idea della sua esistenza.",
+          "rarity": "Il trucco acustico di Grand Central che nessuno usa",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grand+Central+Whispering+Gallery+New+York"
+        },
+        {
+          "name": "The High Line",
+          "description": "Un parco sopraelevato di 2,3 chilometri costruito su una linea ferroviaria merci dismessa sul lato ovest di Manhattan, che si estende dal Meatpacking District a Hudson Yards. Aperto dal 2009, gratuito e davvero ben progettato — con piante autoctone, installazioni artistiche e viste sul fiume Hudson. La sezione migliore è il tratto tra la 14a e la 20a Strada, dove i vecchi binari ferroviari sono conservati tra la vegetazione. Andate la mattina presto prima che arrivi la folla, o in inverno quando è vuoto.",
+          "rarity": "Un parco a 9 metri sopra il livello della strada con la migliore vista sullo skyline della città",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+High+Line+New+York"
+        },
+        {
+          "name": "Governors Island",
+          "description": "Un'isola di 172 acri nel porto di New York, aperta da maggio a ottobre. Il traghetto parte dal Pier 6 a Lower Manhattan e dal Battery Maritime Building a Brooklyn — a pagamento; gratuito il sabato e la domenica prima delle 11:00. Senza auto, prevalentemente spazio verde aperto, con fortificazioni storiche, installazioni artistiche e venditori di cibo. Le Hills — colline artificiali costruite con detriti edili — offrono viste panoramiche a 360 gradi sul porto, sulla Statua della Libertà e sullo skyline di Lower Manhattan. Noleggio biciclette disponibile.",
+          "rarity": "Un'isola a 10 minuti da Manhattan dove la maggior parte dei newyorkesi non è mai stata",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Governors+Island+New+York"
+        },
+        {
+          "name": "The Met Cloisters — Fort Tryon Park",
+          "description": "La collezione d'arte medievale del Metropolitan Museum, ospitata in un monastero appositamente costruito e assemblato da cinque chiostri francesi originali del XII-XV secolo, trasportati pietra per pietra e ricostruiti a Fort Tryon Park, all'estremità settentrionale di Manhattan. Qui si trovano gli Arazzi dell'Unicorno — sette pannelli tessuti del XV secolo che raffigurano una caccia all'unicorno. E ancora: cappelle romaniche, sale gotiche, un giardino di erbe medievale e viste sul fiume Hudson fino alle Palisades del New Jersey. L'ingresso è incluso nel biglietto standard del Met. Prendete il treno A fino alla 190th Street — circa 45 minuti da Midtown. Quasi nessuno ci va.",
+          "rarity": "Arte medievale in un monastero, nascosto in un parco all'estremità di Manhattan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Met+Cloisters+New+York"
+        },
+        {
+          "name": "Greenacre Park — East 51st Street",
+          "description": "Un parco tascabile di proprietà privata ma accessibile al pubblico sulla East 51st Street tra la Seconda e la Terza Avenue — segnalato da un piccolo cancello che la maggior parte delle persone supera senza notare. All'interno: una cascata di 12 metri, alberi di robinia, sedie mobili e uno snack bar. La cascata è abbastanza rumorosa da bloccare quasi completamente il suono del traffico di Midtown. Un luogo tranquillo e ombreggiato dove sedersi nel cuore della parte più rumorosa della città. Gratuito. Aperto nei giorni feriali.",
+          "rarity": "Un parco segreto con cascata nascosto tra i grattacieli di Midtown",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Greenacre+Park+New+York"
+        },
+        {
+          "name": "Sylvan Terrace — Washington Heights",
+          "description": "Un unico isolato di case a schiera in legno a Washington Heights, costruito nel 1882, sopravvissuto al XX secolo quasi immutato. Venti case, due piani ciascuna, facciate originali in legno dipinte con colori pastello. La strada è acciottolata. Si trova accanto alla Morris-Jumel Mansion, la casa più antica di Manhattan, in un quartiere che la maggior parte dei visitatori non raggiunge mai. Prendete il treno C fino alla 163rd Street. La strada è gratuita e sempre aperta. La Morris-Jumel Mansion accanto è a pagamento.",
+          "rarity": "Il quartiere che sembra il 1900 — e dove si vive ancora",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sylvan+Terrace+New+York"
+        }
+      ],
+      "callout": {
+        "label": "Flushing, Queens — il quartiere più sottovalutato di New York",
+        "text": "Prendete il treno 7 da Times Square a Main Street-Flushing — circa 30 minuti. Arriverete nella più grande comunità cinese fuori dalla Cina: una griglia di strade dense di ristoranti, panetterie, negozi di alimentari e aree ristoro che servono cucine regionali cinesi che non esistono da nessun'altra parte a Manhattan. Solo l'area ristoro nel seminterrato del New World Mall contiene più cibo interessante della maggior parte di Midtown. Inoltre: supermercati coreani, bubble tea taiwanese, curry malese. Nessuna infrastruttura turistica, non tutti i menu sono in inglese, prezzi una frazione di Manhattan. Questo è ciò che New York è sempre stata — una città di arrivi, che continua ad arrivare.",
+        "type": "tip"
+      },
+      "title": "Tesori Nascosti"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Mangia un bacon egg and cheese in una bodega",
+          "sub": "Su un panino Kaiser. Avvolto nella stagnola. Da mangiare subito. Circa $5. Qualsiasi bodega con un bancone gastronomia."
+        },
+        {
+          "label": "Prendi il traghetto per Staten Island",
+          "sub": "Gratuito. Andata e ritorno. Traversata di 25 minuti. Viste sulla Statua della Libertà e sullo skyline di Lower Manhattan. Parte dal Whitehall Terminal."
+        },
+        {
+          "label": "Vai da Katz's Delicatessen in un giorno feriale",
+          "sub": "205 E Houston St. Prendi un biglietto. Chiedi il pastrami on rye. Circa $28. Dal 1888."
+        },
+        {
+          "label": "Attraversa il Ponte di Brooklyn a piedi",
+          "sub": "Gratuito. Parti dal lato di Manhattan a Chambers Street. 1,3 km. Il meglio all'alba. Viste su Lower Manhattan e l'East River."
+        },
+        {
+          "label": "Prendi la linea 7 della metropolitana per Flushing",
+          "sub": "30 minuti da Times Square. La più grande comunità cinese fuori dalla Cina. Food court del New World Mall. Mangia qualcosa di cui non hai mai sentito parlare."
+        },
+        {
+          "label": "Trova la Galleria dei Sussurri di Grand Central",
+          "sub": "Gratuito. Livello inferiore, vicino all'Oyster Bar. Quattro angoli piastrellati ad arco. Sussurra da un angolo, sarai sentito dall'altro. Nessun cartello, nessuna coda."
+        },
+        {
+          "label": "Percorri la High Line",
+          "sub": "Gratuito. Parco sopraelevato su un'ex linea ferroviaria merci. Dal Meatpacking District a Hudson Yards. Vai presto o in inverno. Le migliori viste tra la 14a e la 20a Strada."
+        },
+        {
+          "label": "Mangia una fetta da Joe's Pizza",
+          "sub": "7 Carmine St, West Village. Semplice o al salame piccante. Piegala a metà. Mangia in piedi. Dal 1975."
+        },
+        {
+          "label": "Prendi la funivia per Roosevelt Island",
+          "sub": "Stessa tariffa della metropolitana. 59th St & 2nd Ave. 76 metri sopra l'East River. Vai al tramonto. Meglio di qualsiasi piattaforma panoramica a pagamento."
+        },
+        {
+          "label": "Visita Russ & Daughters per colazione",
+          "sub": "179 E Houston St. Dal 1914. Ordina il Classic Board — salmone affumicato, cream cheese, bagel."
+        },
+        {
+          "label": "Vai a Governors Island (maggio-ottobre)",
+          "sub": "Traghetto a pagamento; gratuito sab-dom prima delle 11 da Lower Manhattan. Senza auto. The Hills per viste a 360 gradi sul porto. Quasi nessun turista."
+        },
+        {
+          "label": "Trova Sylvan Terrace a Washington Heights",
+          "sub": "Gratuito. Linea C della metropolitana fino alla 163rd St. Un isolato acciottolato di case a schiera in legno del 1882. Accanto alla Morris-Jumel Mansion — la casa più antica di Manhattan."
+        },
+        {
+          "label": "Trova l'edificio di Friends — Grove Street, West Village",
+          "sub": "L'edificio usato per le riprese esterne della serie. Una tappa bonus se sei un fan. A pochi passi da Via Carota."
+        }
+      ],
+      "title": "Checklist di New York",
+      "completion_message": "Hai vissuto New York come si deve. Torna in una stagione diversa."
+    },
+    "traps": {
+      "title": "Evita le Trappole",
+      "intro": "New York è una città che corre; anche le sue trappole agiscono in fretta. Conosci queste quattro e spendi i tuoi dollari per la vera New York.",
+      "items": [
+        {
+          "icon": "🦸",
+          "name": "Personaggi in costume a Times Square",
+          "description": "La foto con Elmo o un supereroe inizia come 'gratis' e finisce con una richiesta aggressiva di mancia. I ristoranti delle catene in piazza sono lo stesso gioco, ma in versione culinaria.",
+          "instead": "Visita la piazza, scatta la tua foto, e vai via in cinque minuti; mangia due isolati più in là a Hell's Kitchen."
+        },
+        {
+          "icon": "🎭",
+          "name": "'Biglietti scontati per Broadway' per strada",
+          "description": "I biglietti venduti per strada sono falsi o non validi; il turista ci rimette sempre.",
+          "instead": "Per sconti per lo stesso giorno usa la biglietteria ufficiale TKTS, oppure prova le app della lotteria degli spettacoli stessi."
+        },
+        {
+          "icon": "🗽",
+          "name": "Venditori ambulanti di 'tour per la Statua della Libertà'",
+          "description": "Le barche pubblicizzate intorno a Battery Park non si avvicinano nemmeno; le imitazioni del traghetto ufficiale sono delusioni costose.",
+          "instead": "Affidati all'ufficiale Statue City Cruises, oppure prendi il classico a costo zero: lo Staten Island Ferry passa davanti alla statua gratuitamente."
+        },
+        {
+          "icon": "🚕",
+          "name": "Persone che chiedono 'Hai bisogno di un taxi?' all'aeroporto",
+          "description": "Gli autisti senza licenza che ti avvicinano al JFK chiedono il triplo; la vera fila dei taxi è fuori con una tariffa fissa.",
+          "instead": "Usa la fila ufficiale dei taxi (JFK–Manhattan ha una tariffa fissa) oppure prendi AirTrain + metropolitana per il centro: il più economico, e spesso il più veloce."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regola d'oro",
+        "text": "A New York, tutto ciò che ti urla addosso è costoso e tutto ciò che ti ignora è buono. I posti migliori non ti invitano a entrare — e non hanno bisogno di una coda alla porta."
+      }
+    },
+    "itinerary": {
+      "title": "Itinerari Pronti",
+      "intro": "Se non ami pianificare, segui questi itinerari. Gli orari sono flessibili; mantieni lo spirito, ma sentiti libero di cambiare l'ordine.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Se Hai 1 Giorno",
+          "subtitle": "Dal parco al ponte, un concentrato di Manhattan",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Mattina a Central Park",
+              "description": "Passeggia per Bethesda Terrace e The Mall con i runner; il parco appartiene ai newyorkesi al mattino e ai turisti di giorno."
+            },
+            {
+              "time": "10:30",
+              "title": "Met o MoMA — scegline uno",
+              "description": "Non ci stanno in un solo giorno. Scegli, dedicagli due ore; all'uscita, passeggia lungo la Fifth Avenue."
+            },
+            {
+              "time": "13:00",
+              "title": "Una fetta o pastrami",
+              "description": "Una fetta da Joe's o pastrami on rye da Katz's: entrambi in piedi, entrambi leggendari."
+            },
+            {
+              "time": "15:00",
+              "title": "High Line + Chelsea Market",
+              "description": "Percorri la vecchia linea ferroviaria, fai uno spuntino nel mercato sottostante; prosegui fino alle vetrate di Hudson Yards."
+            },
+            {
+              "time": "17:30",
+              "title": "Tramonto sul Ponte di Brooklyn",
+              "description": "Entra dal lato di Manhattan e cammina fino a DUMBO: mentre il sole scende, la città alle tue spalle si trasforma in una cartolina."
+            },
+            {
+              "time": "20:00",
+              "title": "Serata nel West Village",
+              "description": "Un bistrò tra le vie alberate, poi un jazz club. La notte di New York si scrive da sé."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Se Hai 3 Giorni",
+          "subtitle": "Vivi la città da ospite, non da turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "I classici di Manhattan",
+              "description": "L'itinerario di 1 giorno qui sopra: parco, museo, High Line, ponte."
+            },
+            {
+              "time": "Day 2",
+              "title": "Downtown e Brooklyn",
+              "description": "Staten Island Ferry al mattino (il selfie con la statua è gratis), Russ & Daughters nel Lower East Side a mezzogiorno, vintage a Williamsburg nel pomeriggio, lo skyline da un rooftop bar la sera."
+            },
+            {
+              "time": "Day 3",
+              "title": "Uptown e arrivederci",
+              "description": "Colazione ad Harlem + un chopped cheese, la quiete medievale del Met Cloisters a mezzogiorno, uno spettacolo di Broadway la sera — due volte più dolce se il biglietto è arrivato dalla lotteria."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Il tuo kit di sopravvivenza in 5 parole",
+      "intro": "La lingua è l'inglese, ma New York ha un suo lessico particolare; tienile a portata di mano.",
+      "items": [
+        {
+          "word": "How you doin'?",
+          "pronunciation": "how ya DOO-in",
+          "meaning": "Ciao — non si aspetta una risposta; basta rispondere allo stesso modo."
+        },
+        {
+          "word": "Bodega",
+          "pronunciation": "boh-DEH-gah",
+          "meaning": "Il negozio all'angolo — il luogo dove trovi il tuo panino, il tuo caffè e tutto ciò che ti serve a mezzanotte."
+        },
+        {
+          "word": "Slice",
+          "pronunciation": "slys",
+          "meaning": "Una fetta di pizza — chiedi 'a slice to go', prendila e mangiala camminando."
+        },
+        {
+          "word": "Schmear",
+          "pronunciation": "shmeer",
+          "meaning": "Il formaggio spalmabile sul tuo bagel — 'bagel with a schmear' è un ordine completo e corretto."
+        },
+        {
+          "word": "Uptown / Downtown",
+          "pronunciation": "UP-town / DOWN-town",
+          "meaning": "Nord / sud — per le direzioni della metro si usano queste parole, non gli indirizzi."
+        }
+      ]
+    }
+  }
+}

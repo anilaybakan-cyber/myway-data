@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Seattle",
+    "country": "USA",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#4D6B8A",
+    "color_light": "#EAEFF4",
+    "tagline": "The emerald city of coffee steam, ferry horns and mountain views"
+  },
+  "pills": [
+    "The capital of coffee culture",
+    "Between mountain and sea",
+    "Home of grunge and tech"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Seattle",
+      "intro": "Seattle is an emerald strip squeezed between two waters: the ferries of Puget Sound on one side, Lake Washington on the other, and on the horizon Mount Rainier appearing and vanishing among the clouds. This city gave the world coffee culture, grunge and software giants, yet its daily life still flows at the market stall, on the ferry deck and in the neighborhood coffee shop. The rain's reputation is exaggerated — it drizzles and passes; locals don't even carry umbrellas. And when 'the Mountain is out', everything about the day is good.",
+      "local_word": {
+        "word": "The Mountain is out",
+        "pronunciation": "thuh MOWN-tin iz owt",
+        "definition": "The local phrase announcing that Rainier has emerged from the clouds. The 4,392-meter volcano hides most days; on the morning it appears, the sentence circulates through offices, buses and cafes. When you hear it, run to a window — Seattle's finest days open with these words."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Hit Pike Place in the morning, skip the first Starbucks queue",
+          "description": "At 09:00 the market crackles with setup energy; by noon it's shoulder to shoulder: see the fish throwing, the flower stalls and the craft tables in morning calm. The 'first Starbucks' queue can run an hour — inside is an ordinary store; drink your coffee at the city's independent roasters."
+        },
+        {
+          "number": 2,
+          "title": "Drop the umbrella, wear layers",
+          "description": "Seattle rain is drizzle, not downpour: locals wear hooded jackets, and an umbrella marks the tourist. A waterproof layer and walking shoes suffice — drizzle doesn't cancel plans; it converts them into coffee breaks."
+        },
+        {
+          "number": 3,
+          "title": "Board a ferry — the destination barely matters",
+          "description": "The Puget Sound ferries are the city's finest 'tour': the Bainbridge run serves skyline, mountains and gulls in 35 minutes. Walk-on tickets are cheap — cross over, drink a coffee in the town, and meet the sunset on the deck coming home."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Airport",
+          "value": "Sea-Tac (SEA)",
+          "sub": "~40 min to town by Link"
+        },
+        {
+          "icon": "⛰️",
+          "label": "Signature",
+          "value": "Pike Place + Rainier",
+          "sub": "Market stalls and a volcano skyline"
+        },
+        {
+          "icon": "💵",
+          "label": "Currency",
+          "value": "Dollar (USD)",
+          "sub": "Cards everywhere, tip 18–20%"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Language",
+          "value": "English",
+          "sub": "Polite but reserved: the Seattle Freeze"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The Seattle philosophy",
+        "text": "This city lives not by the weather but despite it: walks in drizzle, coffee under clouds, everyone outdoors in sun. Keep plans flexible and bolt outside at the sunbreak — Seattle days are beautiful in fragments, and the fragments must not be missed."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "Seattle is a hill city relaxed by rail: the Link train is the spine, the ferries a feast, the neighborhoods walkable islands.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arriving from the airport",
+          "description": "From Sea-Tac the Link light rail reaches Downtown in 40 minutes: cheap and traffic-free. ORCA card or contactless — a ride app takes 25–50 minutes by traffic; the train wins at most hours."
+        },
+        {
+          "icon": "🚈",
+          "title": "Link light rail",
+          "description": "The north-south line runs from the university to the airport: the Capitol Hill and Downtown stops cover a visitor's needs. The expanding network is turning the city rail-first — pick your hotel near the line."
+        },
+        {
+          "icon": "⛴️",
+          "title": "The ferry network",
+          "description": "Ferries leave Colman Dock for Bainbridge and Bremerton all day: walking on is cheap and effortless. The deck can be cold — the view repays the jacket with interest."
+        },
+        {
+          "icon": "🚶",
+          "title": "Hill walking",
+          "description": "The Downtown–Pike Place–waterfront triangle is walkable but hilly: the stairs from the market to the shore and the new waterfront promenade make the pleasant route. Capitol Hill and Fremont walk well within themselves."
+        },
+        {
+          "icon": "🚲",
+          "title": "The Burke-Gilman Trail",
+          "description": "The old rail line offers kilometers of lakeside cycling: the Fremont-to-Gas Works stretch is the classic. Shared bikes and scooters abound — the best route on a dry day."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Ferry tip",
+        "text": "Walk onto the Bainbridge ferry forty minutes before sunset: the skyline turns gold on the way out and the city lights come on for the return. Stand on the open deck — if Rainier is out, the view triples. This ticket is the city's cheapest miracle."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "In Seattle the choice is a choice of rhythm: Downtown beside the market, Capitol Hill's night energy, Fremont's odd charm, Ballard's Scandinavian soul.",
+      "local_word": {
+        "word": "The Sound",
+        "pronunciation": "thuh SOWND",
+        "definition": "The local shorthand for Puget Sound: the glacier-carved inland sea wrapping the city's west. Ferries cross it, orcas swim it, the sun sets into it. A 'Sound-view room' is a status symbol in Seattle — locals even give directions by 'the Sound side'."
+      },
+      "items": [
+        {
+          "name": "Downtown and around Pike Place",
+          "badge": "Beside the market",
+          "badge_type": "hot",
+          "description": "Walking distance to the stalls, the waterfront and the Link line: the practical base for a first visit. Watching the market set up in the morning is this location's reward.",
+          "tags": [
+            "Walk to the market",
+            "Waterfront promenade",
+            "On the Link"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pike+Place+Market+Downtown+Seattle"
+        },
+        {
+          "name": "Capitol Hill",
+          "badge": "Night energy",
+          "badge_type": "vibe",
+          "description": "Coffee shops, record stores, bars and the city's liveliest night scene: the heart of young Seattle. Two Link stops from Downtown — for seekers of energy and character.",
+          "tags": [
+            "Coffee scene",
+            "Nightlife",
+            "On the Link"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Capitol+Hill+Seattle"
+        },
+        {
+          "name": "Ballard",
+          "badge": "Scandinavian soul",
+          "badge_type": "local",
+          "description": "The old fishing quarter's breweries, Sunday street market and canal locks: it lives at its own small-town rhythm. Strong seafood tables — the calm, characterful side.",
+          "tags": [
+            "Breweries",
+            "Sunday market",
+            "The locks"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ballard+Seattle"
+        },
+        {
+          "name": "Fremont",
+          "badge": "Odd and charming",
+          "badge_type": "local",
+          "description": "The self-declared 'center of the universe': a troll under the bridge, a Sunday flea market, canal-side walks. Seattle's sense of humor resides here.",
+          "tags": [
+            "Beside the troll",
+            "Canal walks",
+            "Sunday flea"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fremont+Seattle"
+        },
+        {
+          "name": "Queen Anne",
+          "badge": "View hill",
+          "badge_type": "value",
+          "description": "The hill neighborhood beside the Space Needle: Kerry Park's famous skyline frame is here. Quiet streets, porch breakfasts — the graceful base for the view-first visitor.",
+          "tags": [
+            "Kerry Park",
+            "Beside the Needle",
+            "Quiet streets"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Queen+Anne+Seattle"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "When to Go",
+      "intro": "Seattle's secret is in the calendar: July through September is a nearly rainless paradise, and winter is the season of coffee and museums.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "Cherry Blossoms and Sunbreaks",
+          "months": "Mar – May",
+          "subtitle": "Spring · Blossoming campus, broken sun",
+          "description": "In late March the university quad's cherry trees become a pink dome, and the tulip fields bloom to the north. The weather is fickle: drizzle, sun and rainbow share the same hour — the season of layers and flexibility.",
+          "callout": {
+            "type": "tip",
+            "label": "April tip",
+            "text": "In early April go to the UW Quad in the morning: Gothic halls under cherry blossoms — the postcard of a Seattle spring. Pair it with the Skagit tulip fields an hour north and the day is complete."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "The Dry Season Miracle",
+          "months": "Jun – Sep",
+          "subtitle": "Summer · Sunny 24°C, long evenings, the Mountain always out",
+          "description": "The Seattle summer is America's best-kept secret: July and August run nearly rainless, light until 22:00, and humidity-free. The Mountain is out most days, the lakes are swimmable, the city turns festive — the calendar's golden window.",
+          "callout": {
+            "type": "tip",
+            "label": "August tip",
+            "text": "On an August evening sit atop Gas Works Park: lake, skyline and sunset in one frame. For a Rainier day, drive two hours — wildflower season on the Paradise trails falls exactly in these weeks."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "Golden Leaves and Salmon",
+          "months": "Oct – Nov",
+          "subtitle": "Autumn · Crimson parks, returning salmon, first drizzles",
+          "description": "October paints the city gold, the salmon return home through the canal locks, and the coffee shops shift to winter mode. The drizzle begins but without drama — a calm, misty, photogenic season.",
+          "callout": {
+            "type": "tip",
+            "label": "October tip",
+            "text": "Visit the Ballard Locks' fish ladder in October: watch the salmon climb behind the glass — free and mesmerizing. A brewery beer in Ballard afterwards is autumn's proper close."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Coffee and Mist Season",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Short days, drizzle, steamed windows",
+          "description": "Winter Seattle moves indoors: the cafes fill, the museums quiet down, and the early dark hands over to lit shopfronts. Snow is rare and drizzle constant — the famous 'gray' earns its name in these months, and the coffee is this good precisely because of it.",
+          "callout": {
+            "type": "tip",
+            "label": "January tip",
+            "text": "On a drizzly morning draw a coffee map: three independent roasters, three brew methods, record shops and bookstores between. That is the correct reading of a Seattle winter — umbrella-less, hooded, warm cup in hand."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "The Seattle table is the bounty of cold waters: salmon and oysters, the fresh hum of the market stalls, and the world's most serious cup of coffee.",
+      "local_word": {
+        "word": "Teriyaki",
+        "pronunciation": "teh-ree-YAH-kee",
+        "definition": "Seattle's everyday food signature: the sweet-soy grilled chicken and rice formula born in small shops opened by Japanese immigrant masters in the 1970s. Hundreds of independent teriyaki joints dot the city — cheap, fast and true. What pizza is to New York, teriyaki is to Seattle."
+      },
+      "items": [
+        {
+          "icon": "☕",
+          "name": "The coffee ritual",
+          "description": "Starbucks was born here, but the city's heart beats in the independent roasters: single origins, pour overs and latte-art seriousness. Ask the barista 'what are you brewing today' — in Seattle that question is a mark of respect.",
+          "tag": "Roaster crawl · ask the barista",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=coffee+roaster+Seattle"
+        },
+        {
+          "icon": "🐟",
+          "name": "A Pike Place stall crawl",
+          "description": "Fish-throwing counters, the piroshky bakery, a chowder cup and fresh fruit: a standing tour inside the market is the best lunch. Go in the morning — the stalls' setup is the show itself.",
+          "tag": "Market crawl · morning hours",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pike+Place+Market+Seattle"
+        },
+        {
+          "icon": "🍗",
+          "name": "The teriyaki joint classic",
+          "description": "Sweet-soy grilled chicken, steamed rice and cabbage salad: the set meal of the neighborhood teriyaki shop. A plain shopfront and full tables — Seattle's everyday democracy of flavor.",
+          "tag": "The city's signature · plain shopfront",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=teriyaki+Seattle"
+        },
+        {
+          "icon": "🦪",
+          "name": "The oyster and salmon table",
+          "description": "Puget Sound oysters on ice, sockeye salmon over coals: the cold waters' bounty on a plate. Oyster-bar happy hour is the city's best affordable luxury — the season's salmon is asked about, never waved off.",
+          "tag": "Cold-water bounty · happy hour",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=oyster+bar+Seattle"
+        },
+        {
+          "icon": "🍜",
+          "name": "Pho and dim sum in the ID",
+          "description": "The storied kitchens of the Chinatown-International District: steaming pho bowls, dim sum carts and Filipino bakeries. The warmest answer to a drizzly day lives in this neighborhood.",
+          "tag": "Steaming quarter · drizzle medicine",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=pho+International+District+Seattle"
+        },
+        {
+          "icon": "🍩",
+          "name": "The doughnut and ice cream scene",
+          "description": "Artisan doughnut shops and local creameries take sweet competition seriously: a lavender or salted-caramel scoop beside your coffee is the signature close.",
+          "tag": "Sweet rivalry · beside the coffee",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=doughnut+Seattle"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Table rule",
+        "text": "Don't join the 'first Starbucks' queue: in the same time you can visit two independent roasters, and both are better. With seafood, the season question earns respect — ask 'which oysters today?' and the answer walks you to the right plate."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Corners",
+      "intro": "Everyone sees the Space Needle; these six are Seattle's ferry-horned, troll-shadowed hidden face.",
+      "items": [
+        {
+          "rarity": "Industrial sunset park",
+          "name": "Gas Works Park",
+          "description": "The rusted towers of an old gasification plant turned lakeside sculpture: from its hill you watch skyline, sailboats and sunset. Seattle's best-loved lawn — shared with kite flyers and picnicking locals.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gas+Works+Park+Seattle"
+        },
+        {
+          "rarity": "The skyline's throne",
+          "name": "Kerry Park",
+          "description": "The small terrace on Queen Anne hill: the Space Needle, the skyline and, on a clear day, Rainier in one frame. The postcards are shot from here — take your place twenty minutes before sunset.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kerry+Park+Seattle"
+        },
+        {
+          "rarity": "The salmon gate",
+          "name": "The Ballard Locks",
+          "description": "The ship locks between sea and lake, with a fish ladder alongside: as boats rise, salmon climb behind the glass. Free, engineering and nature on one stage — with a botanical garden thrown in.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ballard+Locks+Seattle"
+        },
+        {
+          "rarity": "Lighthouse and cliff trail",
+          "name": "Discovery Park",
+          "description": "The city's largest park: forest trails descend to a cliff-lined shore, and the Sound opens at the West Point lighthouse. The two-hour loop delivers wilderness without leaving town.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Discovery+Park+Seattle"
+        },
+        {
+          "rarity": "A giant under the bridge",
+          "name": "The Fremont Troll",
+          "description": "A concrete giant clutching a real Volkswagen beneath the Aurora bridge: the neighborhood's monument to humor. Combine with the Fremont market and the Lenin statue — the 'center of the universe' tour wants half a day.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fremont+Troll+Seattle"
+        },
+        {
+          "rarity": "A ferry-ride town escape",
+          "name": "Bainbridge Island",
+          "description": "An island town 35 minutes by ferry: a bookstore main street, wine tasting rooms and calm coves. The skyline view from the return deck — Seattle's most pleasant half day.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bainbridge+Island+ferry"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "View strategy",
+        "text": "Seattle's views run on the clock: Kerry Park at sunset, Gas Works in late afternoon, the ferry deck at golden hour. And if the Mountain is out, break every plan and run to a viewpoint — a frame with Rainier is Seattle's most precious souvenir."
+      }
+    },
+    "traps": {
+      "title": "Tourist Traps",
+      "intro": "Seattle is an honest city; its traps are small but time-devouring — know these four.",
+      "items": [
+        {
+          "icon": "☕",
+          "name": "The 'first Starbucks' queue",
+          "description": "An hour-long line outside the historic Pike Place store: inside waits an ordinary menu and souvenir cups — a photo stop, not a coffee experience.",
+          "instead": "Photograph the facade and move to an independent roaster two blocks away: the truth of Seattle coffee brews there. The storied counters inside the market are queue-free and better too."
+        },
+        {
+          "icon": "🗼",
+          "name": "Mistaking the Needle for the only view",
+          "description": "The Needle ticket is pricey and its view lacks the Needle itself; the queue stretches on summer days.",
+          "instead": "Kerry Park shows the skyline WITH the Needle for free; the Smith Tower's historic observatory is cheaper and full of character. If you do go up, book the sunset slot ahead."
+        },
+        {
+          "icon": "🌂",
+          "name": "Touring with an umbrella",
+          "description": "Seattle drizzle renders umbrellas useless: the wind flips them, locals stare, and your hand stays busy.",
+          "instead": "A hooded waterproof jacket and walking shoes: that is the local uniform. Drizzle breaks no plans — when the sunbreak comes the sun is out anyway; keep walking."
+        },
+        {
+          "icon": "🅿️",
+          "name": "Driving into Pike Place",
+          "description": "The market's narrow streets and pricey garages lock up by noon: the parking hunt devours the market's joy.",
+          "instead": "Come by Link or on foot; if a car is unavoidable, use the waterfront garages. At 09:00 the market offers both parking and stall calm — the late see the crowd, the early see the market."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Golden rule",
+        "text": "In Seattle the best things are either free or early: the market setup, the ferry deck, Kerry Park and the fish ladder cost nothing. Save the budget for coffee, oysters and a Rainier day — the city gifts the rest in drizzle and views."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Itineraries",
+      "intro": "If you hate planning, follow these flows. Times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "From market morning to ferry sunset",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Pike Place at setup",
+              "description": "Enter as the stalls assemble: fish throwing, flower towers and the first piroshky. Take your coffee from an independent roaster."
+            },
+            {
+              "time": "10:30",
+              "title": "The waterfront and the aquarium",
+              "description": "Descend the market stairs to the shore: walk the new promenade, and drop in on the sea otters if you like."
+            },
+            {
+              "time": "12:30",
+              "title": "Teriyaki or chowder lunch",
+              "description": "A set meal at a neighborhood teriyaki joint or a chowder cup at the market: Seattle's everyday flavor."
+            },
+            {
+              "time": "14:00",
+              "title": "Seattle Center and the music museum",
+              "description": "Monorail to Seattle Center: MoPOP's guitar tower and grunge memory, or Chihuly's glass garden — your choice."
+            },
+            {
+              "time": "16:30",
+              "title": "The Kerry Park frame",
+              "description": "Climb Queen Anne: the Needle, the skyline and, with luck, Rainier. The city's postcard is taken from this terrace."
+            },
+            {
+              "time": "18:00",
+              "title": "The Bainbridge ferry sunset",
+              "description": "Walk on and take the deck: a golden skyline going out, city lights coming home. Close with a Downtown oyster happy hour."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Market, canals and the Mountain — the full Seattle",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Classic Seattle",
+              "description": "The 1-day flow above: market morning, the waterfront, Seattle Center, Kerry Park, the ferry sunset."
+            },
+            {
+              "time": "Day 2",
+              "title": "The northern neighborhoods",
+              "description": "Fremont in the morning: the troll, a canal walk and coffee; the salmon ladder at the Ballard Locks at noon; brewery beer and shop-browsing in Ballard; sunset on Gas Works hill + dinner in Wallingford."
+            },
+            {
+              "time": "Day 3",
+              "title": "Mountain or island day",
+              "description": "If skies are clear, a full Rainier day (Paradise trails, wildflowers or snow views); otherwise a Capitol Hill coffee crawl + ID District dim sum + a museum afternoon. The farewell table is coal-grilled salmon — the Mountain on the plate even when hidden."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Word Survival Kit",
+      "intro": "Seattle speech is soft, wry and entangled with the weather; these five phrases catch the city's frequency.",
+      "items": [
+        {
+          "word": "The Mountain is out",
+          "pronunciation": "thuh MOWN-tin iz owt",
+          "meaning": "Rainier is visible and the day just improved — run to a window when you hear it"
+        },
+        {
+          "word": "Sunbreak",
+          "pronunciation": "SUN-brayk",
+          "meaning": "A break of sun between clouds — the official word of Seattle weather"
+        },
+        {
+          "word": "Seattle Freeze",
+          "pronunciation": "see-AT-ul freez",
+          "meaning": "The name of the city's polite-but-reserved sociability — don't take it personally; offer coffee"
+        },
+        {
+          "word": "The Sound",
+          "pronunciation": "thuh SOWND",
+          "meaning": "Short for Puget Sound — the inland sea of ferries and orcas"
+        },
+        {
+          "word": "Drip",
+          "pronunciation": "drip",
+          "meaning": "The local name for filter coffee — 'just a drip, please' is the plainest, most respected order"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Seattle Checklist",
+      "completion_message": "The Mountain is out! You've lived the emerald city the way it deserves!",
+      "items": [
+        {
+          "label": "Watch the fish throwing at Pike Place",
+          "sub": "At setup hour — without the crowds"
+        },
+        {
+          "label": "Drink a pour over at an independent roaster",
+          "sub": "Instead of the first-Starbucks queue"
+        },
+        {
+          "label": "Take the deck on the Bainbridge ferry",
+          "sub": "The sunset run — a gilded skyline"
+        },
+        {
+          "label": "Shoot the skyline frame from Kerry Park",
+          "sub": "Needle + Rainier on a clear day"
+        },
+        {
+          "label": "See the salmon ladder at the Ballard Locks",
+          "sub": "The climb behind the glass — free"
+        },
+        {
+          "label": "Meet the Fremont Troll",
+          "sub": "A giant clutching a Volkswagen under the bridge"
+        },
+        {
+          "label": "Sit out the sunset on Gas Works hill",
+          "sub": "Rusted towers and the lake skyline"
+        },
+        {
+          "label": "Eat a teriyaki set at a neighborhood joint",
+          "sub": "The city's everyday signature"
+        },
+        {
+          "label": "Sit down to an oyster happy hour",
+          "sub": "Ask 'which oysters today?'"
+        },
+        {
+          "label": "Dive into grunge memory at MoPOP",
+          "sub": "The guitar tower and the Nirvana rooms"
+        }
+      ]
+    }
+  }
+}

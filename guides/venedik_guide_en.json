@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Venice",
+    "country": "Italy",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#8E3B46",
+    "color_light": "#F6EAEC",
+    "tagline": "The impossible city built on water: get lost, drink an ombra, get lost again"
+  },
+  "pills": [
+    "Getting lost counts as a route",
+    "Cicchetti + ombra: Venice's tapas hour",
+    "Two bridges from San Marco lies another city"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Venice",
+      "intro": "Everything you've heard about Venice is true: yes it's crowded, yes it's expensive, yes the water sometimes reaches your shoes. And yes — there is nothing else like it on earth. In this impossible city built on a hundred and eighteen islands there are no cars, hurry doesn't work, and maps tell lies. The art is not seeing San Marco but walking two bridges past it and losing yourself on a silent canal: there the washing sways, the gondola repairer works, and Venice still lives.",
+      "local_word": {
+        "word": "Ombra",
+        "pronunciation": "OM-brah",
+        "definition": "'Shade': in Venetian it means a glass of wine — the wine sellers once moved their stalls with the bell tower's shadow. If you can say 'un'ombra e due cicchetti', you're no tourist in this city; you're a regular."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Count getting lost as the plan",
+          "description": "In Venice the GPS falters, lanes dead-end, bridges throw you onto other islands. Don't resist: the city's best moments happen on the wrong streets. Know only the last vaporetto's time and give the rest to the water."
+        },
+        {
+          "number": 2,
+          "title": "Do the vaporetto maths up front",
+          "description": "A single ride is dear; the 24/48/72-hour passes pay for themselves within a few trips. Think of your stay and buy the pass on day one — Murano, Burano and Giudecca ride on the same card."
+        },
+        {
+          "number": 3,
+          "title": "Check the entry fee and the acqua alta",
+          "description": "On peak days day-trippers may owe an access fee (contributo d'accesso); overnight guests are exempt but may need to register. In autumn and winter, download the acqua alta app — and till the tide drops, shelter in a bacaro."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚆",
+          "label": "Getting there",
+          "value": "Santa Lucia station",
+          "sub": "The train lands you at the water's edge"
+        },
+        {
+          "icon": "🚤",
+          "label": "In town",
+          "value": "Walking + vaporetto",
+          "sub": "No cars; wheels don't work"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Language",
+          "value": "Italian",
+          "sub": "The Venetian dialect lives on the street"
+        },
+        {
+          "icon": "🛶",
+          "label": "Signature",
+          "value": "Canals and gondolas",
+          "sub": "118 islands, 400-plus bridges"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The Venice philosophy",
+        "text": "At 6 pm the magic happens: the day-trippers return to ships and trains, and the city exhales. Evening and morning Venice are the reward of those who stay — spend at least one night."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "Venice has two means of transport: your feet and the boats. Neither likes to hurry.",
+      "items": [
+        {
+          "icon": "🚆",
+          "title": "Arrival — Santa Lucia and Marco Polo",
+          "description": "The train reaches Santa Lucia station right on the Grand Canal — the world's best station exit. From the airport, the Alilaguna boat or a bus to Piazzale Roma; beyond that point, no wheels pass."
+        },
+        {
+          "icon": "🚤",
+          "title": "Vaporetto — the water bus",
+          "description": "Line 1 crawls the Grand Canal stop by stop (a tour in itself); line 2 is the express. Ride on a pass, and open up the islands with the same card."
+        },
+        {
+          "icon": "🚶",
+          "title": "Walking — the real transport",
+          "description": "The city walks end to end in an hour; bridge steps are a suitcase's enemy. The yellow 'Per San Marco / Per Rialto' signs are a rough compass — the rest is happy deviation."
+        },
+        {
+          "icon": "🛶",
+          "title": "Traghetto — the people's gondola",
+          "description": "The shared gondola crossing the Grand Canal where bridges are missing: a two-minute true gondola experience for a few euros. The locals cross standing; you may choose to hold on."
+        },
+        {
+          "icon": "🚕",
+          "title": "Water taxi — the conscious luxury",
+          "description": "Sleek, fast and expensive: comfort from airport to hotel carries a high price. Reasonable split among a group; otherwise the vaporetto does every job."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Luggage tip",
+        "text": "Pick a hotel near the station or a vaporetto stop, or travel light: in Venice every bridge is a staircase with your suitcase's name on it."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "In Venice the choice of sestiere decides whether you watch the city from the stalls or from backstage.",
+      "local_word": {
+        "word": "Sestiere",
+        "pronunciation": "ses-TYEH-reh",
+        "definition": "Each of Venice's six historic quarters: it means 'a sixth'. Addresses are written not by street but by sestiere + door number — the city lives by its own rules."
+      },
+      "items": [
+        {
+          "name": "San Marco",
+          "badge": "Most iconic",
+          "badge_type": "vibe",
+          "description": "The sestiere of the square, the basilica and the luxury windows: the centre of everything and the priciest of everything. A human river by day, surprising silence at night — if the budget allows, sleep at centre stage.",
+          "tags": [
+            "Beside the square",
+            "Silent nights",
+            "Luxury windows"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Marco+Venice"
+        },
+        {
+          "name": "Cannaregio",
+          "badge": "Most local",
+          "badge_type": "local",
+          "description": "Stretching from behind the station to the old Ghetto, full of actual Venetians: bacaro rows (Fondamenta della Misericordia), fair prices, true neighbourhood life. The smart traveller's classic choice.",
+          "tags": [
+            "Bacaro rows",
+            "Local life",
+            "Fair prices"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cannaregio+Venice"
+        },
+        {
+          "name": "Dorsoduro",
+          "badge": "Most artistic",
+          "badge_type": "hot",
+          "description": "The southern bank of the Accademia, the Guggenheim and student squares: art by day, spritz on Campo Santa Margherita by night. The sunset walk on the Zattere is the quarter's gift.",
+          "tags": [
+            "Museum density",
+            "Student energy",
+            "The Zattere"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dorsoduro+Venice"
+        },
+        {
+          "name": "San Polo / Santa Croce",
+          "badge": "Balanced centre",
+          "badge_type": "value",
+          "description": "The bank of the Rialto market and the narrow canals: middling distance to everything, tourist density variable. For those who want to wake to the sound of fish stalls on market morning.",
+          "tags": [
+            "Rialto market",
+            "Middle distances",
+            "Canal views"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Polo+Venice"
+        },
+        {
+          "name": "Giudecca",
+          "badge": "Calmest",
+          "badge_type": "value",
+          "description": "The long island across the canal: a head-on view of the San Marco skyline, neighbourhood quiet, and a five-minute vaporetto link. For sleeping far from the crowd and 'commuting' to the city.",
+          "tags": [
+            "Skyline view",
+            "Island quiet",
+            "Vaporetto link"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Giudecca+Venice"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "When to Go",
+      "intro": "Venice's calendar is written in crowds and water: carnival fever, summer crush, autumn tides, winter mist.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "The Lit Lagoon",
+          "months": "Apr – Jun",
+          "subtitle": "Spring · Clear light, long days",
+          "description": "The lagoon light turns painterly and the islands (Burano, Torcello) open in colour. Crowds grow but stay manageable; the early-morning and late-evening formula works in full.",
+          "callout": {
+            "type": "tip",
+            "label": "May tip",
+            "text": "In even years the Art Biennale opens in May: the city becomes a giant gallery — add the Arsenale and Giardini to the plan."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "Peak and Redentore",
+          "months": "Jul – Aug",
+          "subtitle": "Summer · Heat, crowds, fireworks",
+          "description": "Humidity and human rivers merge in the narrow lanes; but Redentore night, the third weekend of July — boats, long tables and fireworks over the lagoon — is Venice's most Venetian night.",
+          "callout": {
+            "type": "warning",
+            "label": "Summer warning",
+            "text": "Avoid the San Marco–Rialto axis at midday; save those hours for Dorsoduro's shaded canals or the islands."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "Golden Mist and Tide",
+          "months": "Sep – Nov",
+          "subtitle": "Autumn · Soft light, first acqua alta",
+          "description": "September opens with the Regata Storica, October's light is a photographer's dream; November raises the acqua alta odds — and with boots and raised walkways, the city carries on.",
+          "callout": {
+            "type": "tip",
+            "label": "Acqua alta tip",
+            "text": "If a tide alert comes, no panic: it's a matter of hours. Walk the platforms, buy boots, or best of all — sit in a bacaro and wait out the water with an ombra."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Mist and Carnival",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Empty canals, masked February",
+          "description": "December and January are misty, cold and nearly tourist-free — Venice at its most mysterious. Then February detonates the Carnival: masks, cloaks and a two-week costumed dream.",
+          "callout": {
+            "type": "warning",
+            "label": "Carnival note",
+            "text": "In Carnival weeks hotels hit the year's peak; if you're not attending a masked ball, choose the first days — plenty of costume, less crush."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "Good food in Venice hides one street behind the tourist route — and is mostly eaten standing, glass in hand.",
+      "local_word": {
+        "word": "Bacaro",
+        "pronunciation": "BAH-kah-ro",
+        "definition": "Venice's tavern-bar: cicchetti (little bites) on the counter, an ombra in hand, conversation on foot. The bacaro crawl (giro di ombre) is this city's oldest and happiest 'food tour'."
+      },
+      "items": [
+        {
+          "icon": "🍢",
+          "name": "Cicchetti — counter bites",
+          "description": "Baccalà on toasted bread, garlicky prawns, stuffed octopus: the colourful army of the bacaro counter. Two or three bites + one ombra, then the next bacaro — that's how the crawl goes.",
+          "tag": "Bacaro crawl · standing",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=All%27Arco+Venice"
+        },
+        {
+          "icon": "🐟",
+          "name": "Sarde in saor",
+          "description": "Sardines under sweet-sour onions with raisins and pine nuts: the sailors' centuries-old preserve. Served cold, warm in character.",
+          "tag": "Venetian classic · cold meze",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cantina+Do+Spade+Venice"
+        },
+        {
+          "icon": "🥖",
+          "name": "Baccalà mantecato",
+          "description": "Whipped salt cod: silken, garlicky, on grilled polenta. Venice's most elegant simple dish — every bacaro's pride.",
+          "tag": "On polenta · at every bacaro",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria+al+Portego+Venice"
+        },
+        {
+          "icon": "🦑",
+          "name": "Risotto al nero di seppia",
+          "description": "Risotto dyed with cuttlefish ink: it stains the teeth and conquers the palate. The lagoon kitchen's signature; a place that does it well is a good place, full stop.",
+          "tag": "Signature dish · teeth go black",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Osteria+alle+Testiere+Venice"
+        },
+        {
+          "icon": "🍤",
+          "name": "Fritto misto — in a paper cone",
+          "description": "Crisp-fried prawns, calamari and the season's fish in a paper cone: the walking classic of the canal bank.",
+          "tag": "Street cone · while hot",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Acqua+e+Mais+Venice"
+        },
+        {
+          "icon": "🍹",
+          "name": "Spritz — with Select",
+          "description": "Aperol belongs to everyone; Select belongs to Venice: deep red, gently bitter, served with an olive. Six o'clock is spritz o'clock — at a square's edge, facing the sun.",
+          "tag": "The Venetian way · ask for Select",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Campo+Santa+Margherita+Venice"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The bacaro rule",
+        "text": "A good bacaro's signs: a crowded counter, cicchetti refreshed, the price list on the wall. The moment you see a 'tourist menu 19.90' board, walk one street on — in Venice one street changes everything."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Gems",
+      "intro": "'Hidden' is a relative idea in Venice; these six wait two bridges beyond the crowd.",
+      "items": [
+        {
+          "rarity": "Where books float in gondolas",
+          "name": "Libreria Acqua Alta",
+          "description": "The absurd-beautiful bookshop where books pile into gondolas, bathtubs and barrels: in the back courtyard a staircase of old books looks over the canal. The cats are regulars too.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Libreria+Acqua+Alta+Venice"
+        },
+        {
+          "rarity": "The best view without a queue",
+          "name": "The campanile of San Giorgio Maggiore",
+          "description": "The tower of Palladio's church on the island facing San Marco: ride the lift and see the piazza head-on. The clever alternative to the Campanile queue — with a better view.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Giorgio+Maggiore+Venice"
+        },
+        {
+          "rarity": "Where the lagoon began",
+          "name": "Torcello",
+          "description": "The island older than Venice: golden mosaics in a thousand-year cathedral, 'Attila's throne' in the grass, and a deep hush. Ten minutes and a thousand years from Burano's colours.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Torcello"
+        },
+        {
+          "rarity": "The boatyard of the gondolas",
+          "name": "Squero di San Trovaso",
+          "description": "The still-working gondola yard in Dorsoduro: wooden skeletons, the smell of pitch, an alpine-hut workshop. Watched best from the far bank, ombra in hand.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Squero+di+San+Trovaso+Venice"
+        },
+        {
+          "rarity": "The hidden spiral",
+          "name": "Scala Contarini del Bovolo",
+          "description": "The Renaissance tower with a spiral staircase tucked into a narrow courtyard: 'bovolo' is Venetian for snail. From its top, a sea of rooftops — without the crowds.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Scala+Contarini+del+Bovolo+Venice"
+        },
+        {
+          "rarity": "The lagoon's kitchen garden",
+          "name": "Sant'Erasmo",
+          "description": "Venice's vegetable-garden island: its purple artichoke (castraure) is legend, bicycles rule, and the beach belongs to locals. The antidote to tourist Venice.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sant%27Erasmo+Venice"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Morning tip",
+        "text": "If you want to see St Mark's Square, go at 7 am: the pigeons, the cleaners and you. The same stones at noon are another planet."
+      }
+    },
+    "traps": {
+      "title": "Skip the Traps",
+      "intro": "Venice has hosted visitors for centuries; the trap repertoire is refined — but so are the exits.",
+      "items": [
+        {
+          "icon": "🛶",
+          "name": "Boarding a gondola without terms",
+          "description": "Gondolas run on an official tariff (day and night differ); 'special tour' promises with multiplied prices and shortened routes are the classic game.",
+          "instead": "Know the official rate and fix duration and route before boarding; the budget alternative — a two-minute true gondola crossing by traghetto."
+        },
+        {
+          "icon": "🎻",
+          "name": "The orchestra-café bill on San Marco",
+          "description": "At the square's historic cafés, coffee plus the 'music supplement' reaches astronomical sums; the bill shock is as famous as the square.",
+          "instead": "Take the historic café knowingly, price sheet read — or drink your coffee two streets back and hear the orchestra from the square, standing, free."
+        },
+        {
+          "icon": "🏭",
+          "name": "The 'free Murano tour' offer",
+          "description": "The 'free boat + glass workshop' tours pitched at hotel lobbies and quays end in an aggressive sales session.",
+          "instead": "Go to Murano yourself by vaporetto; watch a furnace show at a glassmaker of your choosing and shop at your own pace."
+        },
+        {
+          "icon": "🍝",
+          "name": "The canal-view 'menu turistico'",
+          "description": "Some terraces between Rialto and San Marco sell frozen lasagne at view prices; it has nothing to do with Venetian cooking.",
+          "instead": "Do a bacaro crawl, or choose the short-menu osterias that talk about the day's fish; closeness to the Rialto market is a good omen."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The golden rule",
+        "text": "In Venice, price is inversely proportional to the distance from San Marco: every bridge is a ten percent discount. Two bridges over fixes both the bill and the city."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Routes",
+      "intro": "If you hate planning, follow these flows. The times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "Square, market and bacaro — to the water's rhythm",
+          "steps": [
+            {
+              "time": "07:30",
+              "title": "San Marco — empty",
+              "description": "Share the square with the pigeons, see the basilica's façade in morning light; book the first slot if you're going inside."
+            },
+            {
+              "time": "09:30",
+              "title": "The Grand Canal on vaporetto 1",
+              "description": "Board line 1 and glide stop by stop past the palaces: the world's most beautiful 'bus route'."
+            },
+            {
+              "time": "11:00",
+              "title": "Rialto market + the first bacaro",
+              "description": "Watch the fish-stall theatre, then the first cicchetti + ombra stop at a bacaro by the market."
+            },
+            {
+              "time": "13:30",
+              "title": "Lose yourself from San Polo to Dorsoduro",
+              "description": "Walk mapless: silent canals, washing-strung courtyards, gondola skeletons at the squero. This walk is Venice's real museum."
+            },
+            {
+              "time": "17:00",
+              "title": "Up the San Giorgio campanile",
+              "description": "Cross by vaporetto and take the lift: the San Marco skyline at your feet, no queue."
+            },
+            {
+              "time": "19:30",
+              "title": "Bacaro night in Cannaregio",
+              "description": "The crawl along Fondamenta della Misericordia: cicchetti, spritz (with Select), and feet swinging over the canal."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "Live the city as a guest, not a tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Classics and getting lost",
+              "description": "The 1-day flow above: square, Grand Canal, Rialto, bacaro."
+            },
+            {
+              "time": "Day 2",
+              "title": "Islands day",
+              "description": "Glass on Murano in the morning, Burano's coloured houses and bussolai biscuits at noon, Torcello's golden-mosaic hush in the afternoon; sunset from the Fondamente Nove on return."
+            },
+            {
+              "time": "Day 3",
+              "title": "Art and goodbye",
+              "description": "Dorsoduro in the morning: the Accademia or the Guggenheim; a gianduiotto gelato on the Zattere at noon; the Bovolo staircase and the Acqua Alta bookshop after; farewell — an ombra on the Giudecca bank, facing the skyline."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "The 5-Word Survival Kit",
+      "intro": "The Italian trio works here too; add two Venetian words and your place at the counter is ready.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "bwon-JOR-noh",
+          "meaning": "Good morning / good day — mandatory entering a shop"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Thank you — short, clear, always"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "Please — add it to the end of your order"
+        },
+        {
+          "word": "Un'ombra, per favore",
+          "pronunciation": "oon OM-brah pehr fah-VOH-reh",
+          "meaning": "'A glass of wine, please' — the magic sentence of the bacaro counter"
+        },
+        {
+          "word": "Andemo!",
+          "pronunciation": "an-DEH-mo",
+          "meaning": "Venetian for 'let's go!' — andiamo in lagoon form; hear it and you're one of the house"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Venice Checklist",
+      "completion_message": "Andemo! You've done Venice properly!",
+      "items": [
+        {
+          "label": "See San Marco at 7 am",
+          "sub": "The pigeons, the cleaners and you"
+        },
+        {
+          "label": "Ride the Grand Canal on vaporetto 1",
+          "sub": "The world's most beautiful bus route"
+        },
+        {
+          "label": "Do a bacaro crawl (giro di ombre)",
+          "sub": "Three bacari, three ombre, countless cicchetti"
+        },
+        {
+          "label": "Cross standing on a traghetto",
+          "sub": "A true gondola experience for a few euros"
+        },
+        {
+          "label": "Watch the fish theatre at the Rialto market",
+          "sub": "In the morning — no fish on Mondays"
+        },
+        {
+          "label": "See the skyline from San Giorgio's tower",
+          "sub": "A queue-free lift, San Marco head-on"
+        },
+        {
+          "label": "Get lost without a map",
+          "sub": "The back canals of Dorsoduro or Castello"
+        },
+        {
+          "label": "Rummage the gondola at Libreria Acqua Alta",
+          "sub": "Climb the book staircase for the canal view"
+        },
+        {
+          "label": "Do the Burano + Torcello pairing",
+          "sub": "Colour, then a thousand-year mosaic hush"
+        },
+        {
+          "label": "Close the day with a Select spritz",
+          "sub": "Six o'clock, a square's edge, an olive in the glass"
+        }
+      ]
+    }
+  }
+}

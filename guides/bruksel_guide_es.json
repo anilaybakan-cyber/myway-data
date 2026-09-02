@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Brussels",
+    "country": "Belgium",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#5B4E9E",
+    "color_light": "#EEEBF8",
+    "tagline": "Art nouveau, muros de cómic y la desordenada pero entrañable capital de Europa."
+  },
+  "pills": [
+    "La capital de Europa",
+    "Ciudad del cómic",
+    "Hermosa a segunda vista, no a primera"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Bruselas",
+      "intro": "Bruselas no intenta cautivarte a primera vista: mansiones art nouveau se alzan junto a torres de cristal de la UE, y el bullicio de un mercadillo está a dos calles de las elegantes galerías. Pero te quedarás sin aliento la primera vez que pises la Grand Place, te encontrarás cara a cara con un mural de Tintín en una pared, y en la cola de un frietkot escucharás tres idiomas a la vez. Esta ciudad no está pulida, está estratificada — se vuelve más hermosa cuanto más la descubres. Tómate tu tiempo; Bruselas te conquistará al segundo día.",
+      "local_word": {
+        "word": "Zwanze",
+        "pronunciation": "zvahn-zeh",
+        "definition": "El humor propio de Bruselas: auto-irónico, ligeramente irreverente con la autoridad, dulcemente sarcástico. Hacer de la estatua de un niño orinando tu símbolo nacional, eso es Zwanze."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Sé flexible en una ciudad bilingüe",
+          "description": "Bruselas es oficialmente bilingüe: las señales de las calles están en francés y neerlandés, y una plaza puede tener dos nombres. El francés predomina, pero el inglés funciona en todas partes; empieza con un 'bonjour' y el resto vendrá solo."
+        },
+        {
+          "number": 2,
+          "title": "La belleza está en lo alto y en los patios",
+          "description": "Las fachadas de Bruselas pueden parecer cansadas, pero las tallas sobre los portales, los balcones art nouveau y los patios interiores te sorprenderán. Si caminas sin mirar hacia arriba y sin asomarte por los portones, te perderás la mitad de la ciudad."
+        },
+        {
+          "number": 3,
+          "title": "Dedica la mañana del domingo al mercadillo",
+          "description": "El mercadillo de Jeu de Balle se instala cada mañana desde hace 150 años; el domingo es su día más concurrido. Ve temprano, regatea y luego desayuna en los cafés de Les Marolles; esta es la mañana más auténtica de Bruselas."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "Zaventem (BRU)",
+          "sub": "Tren al centro ~20 min · cuidado con Charleroi"
+        },
+        {
+          "icon": "🚇",
+          "label": "Cómo moverse",
+          "value": "Metro + tranvía",
+          "sub": "Valida con tarjeta contactless"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "Francés + neerlandés",
+          "sub": "El inglés funciona en todas partes"
+        },
+        {
+          "icon": "🖼️",
+          "label": "Sello distintivo",
+          "value": "Art nouveau + cómics",
+          "sub": "Ciudad de Horta y Tintín"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofía de Bruselas",
+        "text": "No compares Bruselas con París; ni siquiera entra en esa competición. Esta ciudad promete un rincón peculiar en lugar de una plaza perfecta, una buena mesa de cerveza en lugar de un gran bulevar; ajusta tus expectativas de esa manera y serán superadas."
+      }
+    },
+    "transport": {
+      "title": "Cómo moverse",
+      "intro": "El centro se puede recorrer a pie, las colinas cansan, la red de metro y tranvía es tu aliada: combínalos y olvídate del coche.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Del aeropuerto al centro",
+          "description": "El tren desde Zaventem llega a la estación Central en 20 minutos. Lee la letra pequeña de cualquier billete que diga 'Brussels South Charleroi': ese aeropuerto está a una hora de la ciudad y requiere un traslado en autobús."
+        },
+        {
+          "icon": "🚇",
+          "title": "La red de metro y tranvía",
+          "description": "La red STIB/MIVB envuelve la ciudad; acerca tu tarjeta bancaria sin contacto al torno y el tope de tarifa diaria se calculará automáticamente. Fíjate en el arte de las estaciones de metro, algunas son pequeñas galerías."
+        },
+        {
+          "icon": "🚶",
+          "title": "El centro a pie, pero con cuestas",
+          "description": "La mayoría de los lugares son accesibles a pie desde la Grand Place, pero la ciudad es más montañosa de lo que parece: el Sablon y el Palacio se asientan en la cresta. Utiliza atajos como el ascensor junto a la columna del Congreso para bajar a la Ciudad Baja."
+        },
+        {
+          "icon": "🚄",
+          "title": "Trenes para excursiones de un día",
+          "description": "El ferrocarril belga es un paraíso para las excursiones de un día: Brujas y Gante en una hora, Amberes en 45 minutos. Los billetes de fin de semana tienen descuento; haz de Bruselas tu base y recorre Flandes."
+        },
+        {
+          "icon": "🚲",
+          "title": "Villo! y los carriles bici",
+          "description": "Las bicicletas compartidas son baratas, pero con las cuestas y los adoquines, pedalear por Bruselas es para los experimentados: la orilla del canal y los parques son preciosos, el tráfico del centro requiere valor."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo del metro",
+        "text": "El tour de arte del metro es gratuito: un gigantesco mural de Tintín en Stockel, obras surrealistas en Porte de Hal. Ya has comprado el billete, así que bájate en algunas estaciones, echa un vistazo y coge el siguiente tren."
+      }
+    },
+    "stay": {
+      "title": "Dónde Alojarse",
+      "intro": "Bruselas es una ciudad diferente en cada barrio: el centro medieval, el elegante Sablon, el bohemio Saint-Gilles, el Barrio Europeo de los burócratas.",
+      "local_word": {
+        "word": "Estaminet",
+        "pronunciation": "es-tah-mee-nay",
+        "definition": "Una taberna de barrio de estilo antiguo: mesas de madera, cientos de cervezas, fotografías amarillentas en la pared. En Bruselas, la calidad de un barrio se mide por la calidad del estaminet en su esquina."
+      },
+      "items": [
+        {
+          "name": "Grand Place y el Ilot Sacré",
+          "badge": "El más céntrico",
+          "badge_type": "vibe",
+          "description": "Despertarse a dos calles de la plaza más bonita del mundo: museos, galerías y el olor a gofres en tu puerta. Animado por la noche, turístico en la superficie — el clásico práctico para una primera visita.",
+          "tags": [
+            "Grand Place a dos pasos",
+            "Ir andando a todas partes",
+            "Animado por la noche"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grand+Place+Brussels"
+        },
+        {
+          "name": "Sablon",
+          "badge": "El más elegante",
+          "badge_type": "hot",
+          "description": "La colina de los anticuarios, maestros chocolateros y galerías: un mercado de antigüedades los fines de semana y los cafés más elegantes de la ciudad a su alrededor. A poca distancia de los Museos Reales; los precios concuerdan con la elegancia.",
+          "tags": [
+            "Anticuarios",
+            "Maestros chocolateros",
+            "Junto a los museos"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sablon+Brussels"
+        },
+        {
+          "name": "Saint-Gilles",
+          "badge": "El más bohemio",
+          "badge_type": "local",
+          "description": "El barrio de las fachadas art nouveau, las plazas de mercado y los jóvenes tostadores de café: el Museo Horta está aquí. Pocos turistas, vida de barrio auténtica; a diez minutos del centro en tranvía.",
+          "tags": [
+            "Calles art nouveau",
+            "Mercado de barrio",
+            "Cafés jóvenes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Saint-Gilles+Brussels"
+        },
+        {
+          "name": "Sainte-Catherine y Dansaert",
+          "badge": "El más delicioso",
+          "badge_type": "value",
+          "description": "La antigua plaza del mercado de pescado y la calle de los diseñadores flamencos: los mejores restaurantes y bares de la ciudad se agrupan aquí. A cinco minutos del centro, cenas largas garantizadas.",
+          "tags": [
+            "Concentración de restaurantes",
+            "Tiendas de diseño",
+            "A cinco minutos del centro"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Sainte-Catherine+Brussels"
+        },
+        {
+          "name": "El Barrio Europeo (Quartier Européen)",
+          "badge": "Opción práctica",
+          "badge_type": "value",
+          "description": "El distrito de las instituciones de la UE: tráfico de trajes entre semana, hoteles tranquilos y con descuento los fines de semana. Junto al parque del Cincuentenario; sensato si tu negocio es con la UE o eres un cazador de gangas de fin de semana.",
+          "tags": [
+            "Barato los fines de semana",
+            "Parque del Cincuentenario",
+            "Metro al centro 10 min"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quartier+Européen+Brussels"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Cuándo Ir",
+      "intro": "El calendario de Bruselas está lleno de sorpresas: una alfombra de flores, un desfile medieval, un festival de luces… lo que el cielo decida.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Temporada de Invernaderos",
+          "months": "Abr – Jun",
+          "subtitle": "Primavera · Invernaderos reales, pícnics en el parque",
+          "description": "Los parques se visten de verde, las terrazas se llenan y llega la cita más especial del año: los Invernaderos Reales de Laeken abren al público solo unas pocas semanas. El tiempo es caprichoso, pero la ciudad está en su momento más fresco.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de abril-mayo",
+            "text": "Los invernaderos de Laeken abren ~3 semanas al año (finales de abril-mayo): un bosque de camelias dentro de palacios de hierro y cristal. Consulta las fechas con antelación y reserva: es la cita ineludible de Bruselas."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Festivales en la Plaza",
+          "months": "Jul – Ago",
+          "subtitle": "Verano · El desfile Ommegang, la Alfombra de Flores, al aire libre",
+          "description": "En julio, la Grand Place viaja en el tiempo con el desfile medieval Ommegang; a mediados de agosto (en años pares), la plaza se cubre con una gigantesca alfombra de begonias. La ciudad tiene la calma de la temporada de vacaciones y los festivales se suceden uno tras otro.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de agosto",
+            "text": "La Alfombra de Flores dura cuatro días a mediados de agosto en años pares: compra la entrada para el balcón del Ayuntamiento para ver la alfombra desde arriba y quédate para el espectáculo nocturno de luz y sonido."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "Temporada de Museos y Cerveza",
+          "months": "Sep – Nov",
+          "subtitle": "Otoño · Noches de museos, fin de semana de la cerveza",
+          "description": "En septiembre, el festival de la cerveza llena la Grand Place de barriles de madera y los museos comienzan sus eventos nocturnos; las hojas pintan de oro el Cinquantenaire. Las multitudes disminuyen y los estaminets se vuelven acogedores.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de septiembre",
+            "text": "En los Días del Patrimonio (septiembre), mansiones art nouveau y edificios de la UE normalmente cerrados abren sus puertas de forma gratuita: la única oportunidad del año para entrar en las casas de los alumnos de Horta."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "Luz y Punsch",
+          "months": "Dic – Feb",
+          "subtitle": "Invierno · Placeres de Invierno, el espectáculo de luces, vino caliente",
+          "description": "En diciembre, Placeres de Invierno se apodera de la ciudad: el mercado de Navidad en la plaza del mercado de pescado, una noria gigante junto al canal, un espectáculo de luz y sonido en la Grand Place. Enero y febrero son la temporada de museos y estaminets: llovizna fuera, una quadrupel dentro.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de diciembre",
+            "text": "El espectáculo de luces de la Grand Place es gratuito, cada noche en punto: las multitudes se agolpan en la primera sesión, así que elige una después de las 9 de la noche y encontrarás la plaza medio vacía."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Qué Comer",
+      "intro": "La mesa bruselense es generosa: ollas de mejillones, patatas fritas de doble cocción, chocolate en galerías centenarias y la carta de cervezas más profunda del mundo.",
+      "local_word": {
+        "word": "Kriek",
+        "pronunciation": "kreek",
+        "definition": "Cerveza lambic fermentada con cerezas ácidas: el miembro más querido de la propia familia de cervezas ligeramente ácidas de Bruselas. La lambic se elabora solo con la levadura salvaje del aire de este valle; literalmente, no se puede producir en ningún otro lugar."
+      },
+      "items": [
+        {
+          "icon": "🦪",
+          "name": "Moules-frites — la olla nacional",
+          "description": "Una olla de mejillones con vino blanco y apio, patatas fritas aparte: el plato nacional de Bélgica. En temporada de septiembre a abril; usar una concha vacía como pinza es la técnica adecuada.",
+          "tag": "Alrededor de Sainte-Catherine · en temporada",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Sainte-Catherine+Brussels"
+        },
+        {
+          "icon": "🍟",
+          "name": "El ritual del frietkot",
+          "description": "Un cucurucho de patatas fritas de doble cocción con salsa andaluza por encima: en Bruselas, los frietkots trabajan hasta altas horas de la noche y cada barrio tiene su favorito. Si la cola es larga, estás en el lugar correcto.",
+          "tag": "En cucurucho · del puesto con cola",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+Antoine+Brussels"
+        },
+        {
+          "icon": "🧇",
+          "name": "El gofre — la escuela de lo sencillo",
+          "description": "El gofre de Bruselas es ligero y rectangular, el de Lieja denso y caramelizado. Las tiendas turísticas los venden bajo montañas de fresas y chocolate; los lugareños los comen calientes y solos, como mucho con azúcar glas.",
+          "tag": "Caliente y solo · no a la montaña de fruta",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+Dandoy+Brussels"
+        },
+        {
+          "icon": "🍫",
+          "name": "Un paseo por las galerías de pralinés",
+          "description": "En las cubiertas Galerías Reales vive la alta costura del chocolate: estás en la ciudad donde se inventó el praliné. Elige tu caja pieza a pieza, y no olvides el caramelo de sal marina.",
+          "tag": "En las Galerías Reales · elige tú la caja",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Galeries+Royales+Saint-Hubert+Brussels"
+        },
+        {
+          "icon": "🥘",
+          "name": "Stoemp y carbonnade",
+          "description": "Stoemp: puré de patatas con verduras, cubierto con salchicha o un huevo frito — la cocina casera de Bruselas. La carbonnade flamande es carne de ternera estofada en cerveza. Come ambos en un estaminet, en una mesa de madera.",
+          "tag": "En un estaminet · modo cocina casera",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=A+la+Mort+Subite+Brussels"
+        },
+        {
+          "icon": "🍺",
+          "name": "Una cata de lambic y gueuze",
+          "description": "La lambic fermentada espontáneamente, mezclada al estilo champán, se convierte en gueuze: ácida, viva, inolvidable. La histórica cervecería Cantillon, junto al canal, sigue trabajando con métodos de 1900 — el tour incluye una degustación.",
+          "tag": "En Cantillon · abierto a lo ácido",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Brasserie+Cantillon+Brussels"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de la cerveza",
+        "text": "No te asustes si la carta de cervezas es tan gruesa como un libro: dile al camarero si la quieres dulce, ácida u oscura, y ellos resolverán el resto. Cada cerveza llega en su propio vaso — fotografiar el vaso no es de mala educación, es tradición."
+      }
+    },
+    "hidden_gems": {
+      "title": "Rincones Escondidos",
+      "intro": "Todo el mundo visita la Grand Place; estos seis lugares te permitirán descubrir las diferentes facetas de Bruselas.",
+      "items": [
+        {
+          "rarity": "La casa donde nació el art nouveau",
+          "name": "El Museo Horta",
+          "description": "La propia casa de Victor Horta en Saint-Gilles: la escalera es una espiral de luz, cada pomo de puerta una lección de diseño. En el hogar del hombre que inventó el art nouveau, verás el movimiento en su estado más puro. Las entradas son limitadas, reserva con antelación.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Horta+Museum+Brussels"
+        },
+        {
+          "rarity": "Un mercadillo de 150 años",
+          "name": "El Mercadillo de Jeu de Balle",
+          "description": "El mercadillo que se instala cada mañana en el corazón de Les Marolles: discos antiguos, Tintines con las esquinas dobladas, tenedores de plata, extraños recuerdos. El regateo está incluido, el desayuno en los cafés de alrededor: la mañana más auténtica de Bruselas.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Place+du+Jeu+de+Balle+Brussels"
+        },
+        {
+          "rarity": "El noveno arte en las paredes",
+          "name": "La Ruta del Cómic",
+          "description": "Más de sesenta murales gigantes se esconden en las paredes de la ciudad, desde Tintín hasta Lucky Luke: coge el mapa y búscalos calle a calle. Empieza con el mural de Tintín en el centro y sigue tu camino hacia Les Marolles.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Comic+Book+Route+Brussels"
+        },
+        {
+          "rarity": "La mejor terraza gratuita de la ciudad",
+          "name": "La azotea del MIM",
+          "description": "La cafetería de la azotea del Museo de Instrumentos Musicales, en el edificio art nouveau Old England, ofrece vistas a la Ciudad Baja: cúpulas, tejados, el Atomium a lo lejos. El museo en sí también es una sorpresa: lo recorres escuchando los instrumentos a través de auriculares.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=MIM+Old+England+Brussels"
+        },
+        {
+          "rarity": "Un jardín de invierno de hierro y cristal",
+          "name": "Los Invernaderos Reales de Laeken",
+          "description": "Los palacios de cristal art nouveau del rey Leopoldo II: camelias, palmeras, jardines de invierno abovedados. Abiertos solo unas pocas semanas al año (abril-mayo); si tu visita coincide, cancela todos tus planes y ven aquí.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Serres+Royales+de+Laeken"
+        },
+        {
+          "rarity": "En lo alto del arco del triunfo",
+          "name": "El arco del Cincuentenario",
+          "description": "Se accede a la terraza del colosal arco del triunfo del parque a través del museo del ejército: todo Bruselas a tus pies, desde las torres de la UE hasta el casco antiguo. El parque es ideal para pícnics, los museos son el plan para los días de lluvia.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arc+du+Cinquantenaire+Brussels"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo surrealista",
+        "text": "Reserva el Museo Magritte para la tarde: las multitudes de la mañana son grupos escolares. Al salir, contempla el atardecer desde el jardín del Mont des Arts, a dos pasos; las nubes con bombín no están garantizadas, pero a veces aparecen."
+      }
+    },
+    "traps": {
+      "title": "Trampas para turistas",
+      "intro": "Las trampas de Bruselas se concentran en dos calles; conócelas, y el resto de la ciudad es honesta.",
+      "items": [
+        {
+          "icon": "🦞",
+          "name": "Los camareros insistentes de la Rue des Bouchers",
+          "description": "Los expositores de marisco con hielo y los camareros que te tiran del brazo en la calle de los restaurantes son la trampa clásica: mejillones tibios, una cuenta inflada y el entrante 'gratis' facturado al final.",
+          "instead": "Toma una calle paralela o camina hasta la Place Sainte-Catherine: la misma olla de mejillones, la mitad de precio, clientes locales."
+        },
+        {
+          "icon": "🧇",
+          "name": "Una montaña de fresas encima, un gofre rancio debajo",
+          "description": "Los escaparates de neón alrededor del Manneken Pis entierran el gofre bajo fruta, nata y azúcar: la forma más dulce de esconder una masa rancia.",
+          "instead": "Pídelo caliente y solo: si la masa es fresca, no necesita nada. Un gofre de Lieja recién hecho en la plancha de un puesto callejero supera a la mayoría de las tiendas."
+        },
+        {
+          "icon": "🍫",
+          "name": "Tiendas de 'chocolate belga'",
+          "description": "Los carteles de 'precio de fábrica' a lo largo de la zona turística venden chocolate industrial en cajas de regalo al triple de precio.",
+          "instead": "Sube al Sablon: en las tiendas de los maestros los bombones se eligen pieza a pieza; la diferencia de precio es menor de lo que crees, la diferencia en el paladar es enorme."
+        },
+        {
+          "icon": "⚛️",
+          "name": "Ir al Atomium con las expectativas equivocadas",
+          "description": "El Atomium es hipnotizante por fuera; por dentro es una larga cola más una modesta exposición, y la decepción viene incluida con la entrada.",
+          "instead": "Conformarte con fotos desde fuera y sonreír a Mini-Europa al lado; si entras, hazlo por las luces de la noche, no por las exposiciones."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de oro",
+        "text": "En Bruselas, evita cualquier lugar que intente atraerte desde la puerta: un buen estaminet tiene a los lugareños sentados dentro, no a un camarero de pie fuera."
+      }
+    },
+    "itinerary": {
+      "title": "Itinerarios Listos",
+      "intro": "Si odias planificar, sigue estos flujos. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Una capa de Bruselas, de la plaza al mercadillo",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "La Grand Place, vacía",
+              "description": "Contempla las casas gremiales doradas bajo la luz de la mañana; tómate un café al borde de la plaza desierta. Pásate por el Manneken Pis, sonríe a su tamaño, y sigue tu camino."
+            },
+            {
+              "time": "10:00",
+              "title": "Mont des Arts + Magritte",
+              "description": "Las vistas de la ciudad desde la terraza-jardín, y luego una dosis de surrealismo en el Museo Magritte: 'Esto no es una pipa' — pero esto sí es Bruselas."
+            },
+            {
+              "time": "12:30",
+              "title": "Almuerzo en Sainte-Catherine",
+              "description": "Una olla de mejillones en la antigua plaza del mercado de pescado (si es temporada) o en una barra de mariscos; alternativa: un cucurucho de patatas fritas (frietkot) en un banco de la plaza."
+            },
+            {
+              "time": "14:30",
+              "title": "El Sablon y bajada a Les Marolles",
+              "description": "Llena una caja en las chocolaterías maestras del Sablon y admira los escaparates de antigüedades; luego desciende a Les Marolles y rebusca en las tiendas de objetos de segunda mano alrededor del Jeu de Balle."
+            },
+            {
+              "time": "17:00",
+              "title": "La azotea del MIM o la terraza del arco",
+              "description": "Un café al atardecer en la cafetería de la azotea del edificio Old England; si te quedan energías, sube al arco del Cincuentenario y contempla la ciudad desde lo alto."
+            },
+            {
+              "time": "19:30",
+              "title": "Un estaminet para terminar",
+              "description": "Carbonnade o stoemp en una taberna con mesas de madera, con una Trappist en su propio vaso; que la segunda cerveza sea una gueuze — brindas por Bruselas."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Descubre la capital capa a capa",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "El centro clásico",
+              "description": "El itinerario de un día anterior: Grand Place, Magritte, Sainte-Catherine, Sablon, Marolles, estaminet."
+            },
+            {
+              "time": "Day 2",
+              "title": "Art nouveau y Europa",
+              "description": "El Museo Horta y un paseo por las fachadas de Saint-Gilles por la mañana; el parque del Cincuentenario y la terraza del arco por la tarde, con el Parlamentarium para el lado de la UE; noche en los bares de Dansaert — diseño flamenco y cócteles."
+            },
+            {
+              "time": "Day 3",
+              "title": "Cómics y lambic",
+              "description": "El Museo del Cómic y una búsqueda de murales por la mañana; el tour y cata de lambic Cantillon por la tarde; una cena de despedida alrededor del Jeu de Balle — y si es domingo por la mañana, primero el mercadillo."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de supervivencia de 5 palabras",
+      "intro": "Bruselas es bilingüe; estas cinco frases en francés te abrirán todas las puertas, y un 'dank u wel' te ganará una sonrisa flamenca como extra.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bon-zhoor",
+          "meaning": "Buenos días/Buenas tardes — la primera palabra obligatoria en cualquier interacción; si la omites, empezarás con mal pie."
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-see",
+          "meaning": "Gracias — guarda el 'dank u wel' en la recámara para la parte flamenca."
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo pleh",
+          "meaning": "Por favor — en Bélgica, el camarero también lo dice al dejar tu plato."
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-tay",
+          "meaning": "¡Salud! — ninguna copa se levanta sin contacto visual."
+        },
+        {
+          "word": "Une gueuze, s'il vous plaît",
+          "pronunciation": "oon gerz seel voo pleh",
+          "meaning": "'Una gueuze, por favor' — esta frase te asciende de turista a invitado."
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Lista Imprescindible de Bruselas",
+      "completion_message": "¡Salud! ¡Has vivido Bruselas capa a capa!",
+      "items": [
+        {
+          "label": "Contempla la Grand Place vacía por la mañana",
+          "sub": "Fachadas doradas, sin multitudes"
+        },
+        {
+          "label": "Admira la escalera del Museo Horta",
+          "sub": "La casa donde nació el art nouveau — reserva con antelación"
+        },
+        {
+          "label": "Regatea en el mercadillo de Jeu de Balle",
+          "sub": "Se instala cada mañana; los domingos es cuando más ambiente hay"
+        },
+        {
+          "label": "Disfruta de un plato de moules-frites en temporada",
+          "sub": "De septiembre a abril, por la zona de Sainte-Catherine"
+        },
+        {
+          "label": "Haz cola en un frietkot",
+          "sub": "Un cucurucho de patatas fritas dos veces, salsa andaluza"
+        },
+        {
+          "label": "Prueba una gueuze en Cantillon",
+          "sub": "Una cervecería lambic que trabaja al estilo de 1900"
+        },
+        {
+          "label": "Busca cinco murales de cómic",
+          "sub": "Empieza con Tintín, sigue el mapa"
+        },
+        {
+          "label": "Siéntate a disfrutar de las vistas en la cafetería de la azotea del MIM",
+          "sub": "El edificio Old England — la mejor terraza de la ciudad"
+        },
+        {
+          "label": "Llena una caja de bombones en el Sablon",
+          "sub": "Del mostrador de los maestros, pieza a pieza"
+        },
+        {
+          "label": "Bebe una cerveza trapense en su propio vaso en un estaminet",
+          "sub": "Mesas de madera, fotos amarillentas, Zwanze"
+        }
+      ]
+    }
+  }
+}

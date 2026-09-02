@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Tokyo",
+    "country": "Japonya",
+    "language": "tr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2B3A67",
+    "color_light": "#E9EBF3",
+    "tagline": "Düzenin, neonun ve mükemmeliyetin sessiz devi"
+  },
+  "pills": [
+    "Dünyanın en büyük metropolü",
+    "En çok Michelin yıldızlı şehir",
+    "Gelenek ile gelecek yan yana"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Tokyo'ya Hoş Geldin",
+      "intro": "Tokyo bir şehir değil, iç içe geçmiş yüz şehirdir: Shibuya kavşağının insan seli ile Meiji Tapınağı'nın sedir ormanı arasında beş dakika vardır. Burada dünyanın en yoğun metrosu saniye sapmaz, en küçük ramen dükkanı zanaatını dini ciddiyetle icra eder, otomat makinesi sıcak çorba verir. Şehir devasa ama kaba değildir: herkes sessizce akar, her köşe temizdir, kaybolmak bile güvenlidir. Tokyo'nun sırrı ölçeğinde değil, detayındadır — ne kadar yakından bakarsan o kadar çok görürsün.",
+      "local_word": {
+        "word": "Omotenashi",
+        "pronunciation": "omotenaşi",
+        "definition": "Japon misafirperverliğinin felsefesi: karşılık beklemeden, istenmeden önce düşünülmüş hizmet. Taksinin kendiliğinden açılan kapısı, paketini iki elle uzatan kasiyer, yağmurda poşetine geçirilen kağıt torba — hepsi omotenashi'dir. Bahşiş yoktur çünkü mükemmellik zaten standarttır."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Sessiz ak: metroda konuşma, sokakta yeme",
+          "description": "Tokyo'nun düzeni görünmez kurallarla işler: metroda telefonla konuşulmaz, yemek yürürken değil durarak yenir, çöpünü çantanda taşırsın — çöp kutusu azdır. Kurallara uyum turistin görünmez vizesidir: uy, şehir sana kapılarını açar."
+        },
+        {
+          "number": 2,
+          "title": "Nakit ve IC kart ikisini de taşı",
+          "description": "Suica ya da Pasmo kartı (telefona da yüklenir) metrodan otomata her yerde geçer; ama küçük ramen dükkanları ve tapınaklar hâlâ nakit ister. Bilet makinesli lokantalarda önce makineden fiş al — para el değiştirmeden sofra kurulur."
+        },
+        {
+          "number": 3,
+          "title": "Mahalle mahalle gez, hepsini bitirmeye çalışma",
+          "description": "Tokyo tek seferde 'görülmez': Asakusa'nın tapınak sabahı, Shibuya'nın neon gecesi, Yanaka'nın eski sokakları ayrı şehirlerdir. Günde iki-üç mahalle seç, aralarını trenle bağla — az mahalle, çok derinlik: Tokyo formülü budur."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Havalimanı",
+          "value": "Haneda (HND) / Narita (NRT)",
+          "sub": "Haneda yakın, Narita ekspresli"
+        },
+        {
+          "icon": "🚉",
+          "label": "İmza",
+          "value": "Yamanote hattı",
+          "sub": "Şehri saran yeşil halka tren"
+        },
+        {
+          "icon": "💴",
+          "label": "Para birimi",
+          "value": "Yen (JPY)",
+          "sub": "IC kart + nakit ikilisi şart"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Dil",
+          "value": "Japonca",
+          "sub": "İngilizce sınırlı, nezaket sınırsız"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Tokyo felsefesi",
+        "text": "Bu şehirde plan yarıya, keşif yarıya: her istasyonun arka sokağında bir dünya saklıdır. Kaybol — Tokyo'da kaybolmak güvenli, temiz ve çoğu kez günün en iyi hikayesidir. Trene bin, bilmediğin durakta in."
+      }
+    },
+    "transport": {
+      "title": "Şehirde Ulaşım",
+      "intro": "Tokyo'nun tren ağı şehrin kan dolaşımıdır: Yamanote halkası omurga, metro kılcal damarlar — Suica kartla hepsi tek dokunuştur.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Havalimanından geliş",
+          "description": "Haneda monoray ya da Keikyu hattıyla yarım saatte merkeze bağlanır; Narita'dan Narita Express ya da Skyliner bir saatte indirir. Bilet yerine Suica ile geç — havalimanında kartı al ya da telefonuna yükle."
+        },
+        {
+          "icon": "🚉",
+          "title": "Yamanote halkası",
+          "description": "Yeşil halka tren şehrin ana duraklarını birbirine dizer: Shibuya, Shinjuku, Ueno, Tokyo İstasyonu. Kaybolursan Yamanote'ye dön — halka seni eninde sonunda tanıdık bir durağa çıkarır."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro ustalığı",
+          "description": "İki metro şirketi ve renk kodlu hatlar başta karışık görünür: istasyon numaralarını takip et (G-09 gibi), yön tabelaları kusursuzdur. Yoğun saat 07.30-09.00 arası ciddidir — bavulla o saatte trene binme."
+        },
+        {
+          "icon": "🚶",
+          "title": "Mahalle içinde yürüyüş",
+          "description": "Tokyo mahalleleri yürüyerek açılır: istasyondan çık, ana caddeyi bırak, ara sokağa gir. Adres sistemi sokak adı değil blok esaslıdır — haritayı takip et, kaybolmayı da programa dahil et."
+        },
+        {
+          "icon": "🚄",
+          "title": "Günübirlik Shinkansen",
+          "description": "Tokyo İstasyonu'ndan hızlı trenle Kamakura, Nikko ve hatta Fuji eteklerine günübirlik gidilir. JR Pass artık her gezgin için kârlı değil — rotanı hesapla, tek biletler çoğu kısa gezide daha ekonomiktir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tren tüyosu",
+        "text": "Suica'yı telefonuna yükle ve bakiyeyi otomatlarda da kullan: kilitli turnikede kart aramak Tokyo aceleciliğine aykırıdır. Son tren gece yarısı civarıdır ve ciddiye alınır — kaçırırsan seçenekler taksi, kapsül otel ya da sabaha kadar açık bir izakayadır."
+      }
+    },
+    "stay": {
+      "title": "Nerede Kalmalı",
+      "intro": "Tokyo'da mahalle seçimi şehir seçimidir: Shinjuku'nun neonu, Asakusa'nın tapınak sabahları, Ginza'nın cilası — hepsi ayrı Tokyo.",
+      "local_word": {
+        "word": "Shitamachi",
+        "pronunciation": "şitamaçi",
+        "definition": "'Aşağı şehir': Edo döneminin esnaf ve zanaatkar mahalleleri — bugünkü Asakusa, Yanaka, Ueno çevresi. Dar sokaklar, küçük atölyeler, mahalle sento'ları ve komşuluk ruhu hâlâ buradadır. Gökdelen Tokyo'sunun panzehiri, shitamachi'nin ağır ritmidir."
+      },
+      "items": [
+        {
+          "name": "Shinjuku",
+          "badge": "Her şeyin merkezi",
+          "badge_type": "hot",
+          "description": "Dünyanın en yoğun istasyonu, neon sokaklar, izakaya pasajları ve Golden Gai'nin mini barları: Tokyo yoğunluğunun kalbi. Her hatta bağlanır — enerjisi yüksek, sokakları sabaha kadar açık.",
+          "tags": [
+            "Ulaşım devi",
+            "Neon geceler",
+            "İzakaya pasajları"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Shinjuku+Tokyo"
+        },
+        {
+          "name": "Shibuya",
+          "badge": "Genç nabız",
+          "badge_type": "hot",
+          "description": "Meşhur kavşak, moda sokakları ve gece hayatı: genç Tokyo'nun vitrini. Harajuku ve Omotesando yürüme mesafesinde — tempo yüksek, sıkılmak imkansız.",
+          "tags": [
+            "Kavşağın dibinde",
+            "Moda sokakları",
+            "Genç enerji"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Shibuya+Tokyo"
+        },
+        {
+          "name": "Asakusa",
+          "badge": "Eski Tokyo",
+          "badge_type": "value",
+          "description": "Senso-ji Tapınağı'nın mahallesi: sabah tapınak avlusu, akşam kapanan kepenkler ve sakin geceler. Fiyatlar dost, ryokan seçenekleri var — shitamachi ruhunda uyanmak isteyene.",
+          "tags": [
+            "Tapınak komşusu",
+            "Dost fiyatlar",
+            "Ryokan seçeneği"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Asakusa+Tokyo"
+        },
+        {
+          "name": "Ginza ve Tokyo İstasyonu",
+          "badge": "Cilalı merkez",
+          "badge_type": "vibe",
+          "description": "Lüks vitrinler, Michelin bodrum katları ve imparatorluk sarayı yürüyüşü: Tokyo'nun en zarif yakası. Shinkansen kapısı Tokyo İstasyonu'na komşu — konfor ve konum zirvede.",
+          "tags": [
+            "Lüks vitrinler",
+            "Shinkansen kapısı",
+            "Saray yürüyüşü"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ginza+Tokyo"
+        },
+        {
+          "name": "Ueno ve Yanaka",
+          "badge": "Yerli ritim",
+          "badge_type": "local",
+          "description": "Müzeler parkı, pazar sokağı Ameyoko ve Yanaka'nın eski Tokyo sokakları: turist cilası az, karakter çok. Yamanote üstünde — sakin ve sahici bir üs.",
+          "tags": [
+            "Müze parkı",
+            "Pazar sokağı",
+            "Eski sokaklar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ueno+Yanaka+Tokyo"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Ne Zaman Gitmeli",
+      "intro": "Tokyo'nun takvimi iki zirve bilir: mart sonu sakura, kasım koyo — ama şehir on iki ay dolu, her mevsim başka anlatır.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "İlkbahar",
+          "name": "Sakura Dalgası",
+          "months": "Mar – May",
+          "subtitle": "İlkbahar · Kiraz çiçeği hanami pikniği, ılık günler",
+          "description": "Mart sonu-nisan başı sakura şehri pembeye boyar: parklarda hanami pikniği kurulur, kanallar taç yaprağıyla dolar. Zirve bir hafta sürer ve dünya bunun için gelir — fiyat ve kalabalık da zirvededir. Mayıs ise yeşil ve sakin bir arka kapıdır.",
+          "callout": {
+            "type": "warning",
+            "label": "Sakura notu",
+            "text": "Sakura haftasında konaklamayı aylar önce ayır ve tahmin haritalarını izle: zirve her yıl oynar. Ueno ve Meguro Kanalı kalabalıksa sabah 07.00'de git — aynı pembe, bomboş patika. Golden Week (nisan sonu-mayıs başı) tatiline dikkat: her şey dolar."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Yaz",
+          "name": "Matsuri ve Nem",
+          "months": "Haz – Ağu",
+          "subtitle": "Yaz · Festival davulları, havai fişekler, yapışkan nem",
+          "description": "Yaz Tokyo'su nemli ve sıcaktır ama karşılığı vardır: mahalle matsuri'leri, yukata'lı akşamlar ve nehir üstü havai fişek gösterileri. Klimalı müze-kafe molaları programa dahildir — sabah erken, akşam geç formülü yazın anahtarıdır.",
+          "callout": {
+            "type": "tip",
+            "label": "Temmuz ipucu",
+            "text": "Sumida Nehri havai fişek gecesine denk gelirsen yerini saatler önce al ya da kalabalıktan uzak bir köprü ara. Matsuri tezgahından yakisoba ve kakigori (buz tatlısı) al — yaz Tokyo'sunun tadı festival sokağındadır."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Sonbahar",
+          "name": "Koyo Kızılı",
+          "months": "Eyl – Kas",
+          "subtitle": "Sonbahar · Berrak gökyüzü, kızıl akçaağaç bahçeleri",
+          "description": "Ekim serinletir, kasım şehri kızıla ve altına boyar: bahçelerin akçaağaçları, ginkgo caddeleri ve berrak Fuji manzaraları. Tokyo'nun en dengeli gezme penceresi budur — sakura kadar kalabalık çekmez, ışığı daha da güzeldir.",
+          "callout": {
+            "type": "tip",
+            "label": "Kasım ipucu",
+            "text": "Kasım sonunda Rikugien ve Koishikawa bahçelerinin gece ışıklandırmalarını kontrol et: kızıl akçaağaç, karanlıkta yüzen bir tablo gibi aydınlanır. Meiji Jingu Gaien'in ginkgo tüneli de aynı haftalarda altın sarısındadır."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Kış",
+          "name": "Berrak ve Sessiz",
+          "months": "Ara – Şub",
+          "subtitle": "Kış · Kuru soğuk, kristal Fuji manzarası, ılık izakaya",
+          "description": "Tokyo kışı kuru ve güneşlidir: gökyüzü berrak, Fuji gözlem katlarından kristal netliğindedir. Yılbaşı tapınak ziyaretleri (hatsumode) şehrin en sahici geleneklerindendir — oteller yaza göre sakin, izakayalar buğulu ve sıcaktır.",
+          "callout": {
+            "type": "tip",
+            "label": "Ocak ipucu",
+            "text": "Ocak sabahı gözlem katına erken çık: kış havasında Fuji, şehrin üstünde kartpostal netliğinde yükselir. Akşam soğuğunu oden tezgahında ya da ramen buharında at — kış, Tokyo'nun çorba mevsimidir."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Ne Yemeli",
+      "intro": "Tokyo dünyanın en çok Michelin yıldızlı şehridir ama asıl mucizesi sıradan yerlerin sıra dışılığıdır: istasyon ramenci bile zanaatkardır.",
+      "local_word": {
+        "word": "Omakase",
+        "pronunciation": "omakase",
+        "definition": "'Sana bırakıyorum': menüyü şefe teslim etme sanatı. Suşi barında omakase dediğinde şef o günün en iyi balığından sana özel bir akış kurar — güven karşılığında ustalık. Bütçeni baştan söylemek ayıp değildir; omakase pahalı da olur, öğlen menüsünde sürpriz uygun da."
+      },
+      "items": [
+        {
+          "icon": "🍣",
+          "name": "Suşi: tezgahtan omakase'ye",
+          "description": "Toyosu pazarının sabah suşisinden mahalle ustasının tezgahına: taze balık burada standart, ustalık farktır. Ayakta suşi barları (tachigui) kaliteli ve ekonomiktir — nigiri'yi elinle yemek meşru, soyayı balık tarafına değdirmek adaptır.",
+          "tag": "Tezgah başında · soya balığa",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=sushi+Toyosu+Tokyo"
+        },
+        {
+          "icon": "🍜",
+          "name": "Ramen ritüeli",
+          "description": "Bilet makinesinden fiş al, tezgaha otur, kaseni bekle: tonkotsu'dan shoyu'ya her dükkan tek çorbanın ustasıdır. Höpürdetmek ayıp değil, iltifattır — kuyruk varsa doğru kapıdasın.",
+          "tag": "Makineden fişle · höpürdetmek serbest",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=ramen+Tokyo"
+        },
+        {
+          "icon": "🏮",
+          "name": "İzakaya gecesi",
+          "description": "Japon meyhanesinde küçük tabaklar art arda gelir: yakitori şişleri, edamame, kızarmış tavuk karaage. 'Toriaezu nama' (önce bir bira) diyerek başla — izakaya, Tokyo'nun iş çıkışı nefes aldığı yerdir.",
+          "tag": "Küçük tabaklar · önce bir bira",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=izakaya+yakitori+Tokyo"
+        },
+        {
+          "icon": "🏪",
+          "name": "Konbini kahvaltısı",
+          "description": "7-Eleven, Lawson, FamilyMart: Japon marketi bir mutfaktır — onigiri, yumurta sandviçi (tamago sando) ve sıcak kahve. Ucuz, taze ve şaşırtıcı kalitede: konbini'yi küçümseyen, Tokyo'nun ilk dersini kaçırır.",
+          "tag": "Market mucizesi · tamago sando",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=konbini+Tokyo"
+        },
+        {
+          "icon": "🍱",
+          "name": "Depachika keşfi",
+          "description": "Lüks mağazaların bodrum katı yemek pasajları: bento kutuları, mochi tatlıları, yüz çeşit turşu. Kapanış saatine yakın indirim etiketleri çıkar — parkta yenecek depachika bentosu, Tokyo'nun zarif piknik hilesi.",
+          "tag": "Bodrum katı şöleni · kapanış indirimli",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=depachika+Tokyo"
+        },
+        {
+          "icon": "🍵",
+          "name": "Wagashi ve matcha molası",
+          "description": "Mevsime göre şekillenen zarif tatlılar wagashi, yanında koyu matcha: tapınak çay evinde ya da eski şekercide. Tatlı önce, çay sonra — acılık ile tatlılık sırayla konuşur.",
+          "tag": "Çay evi zarafeti · mevsim şekilli",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=wagashi+matcha+Tokyo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sofra kuralı",
+        "text": "Tokyo'da öğlen menüleri (teishoku) akşamın yarı fiyatına ustalık sunar: büyük yemeği öğlene kur. Kuyruk kaliteyi gösterir, plastik yemek vitrinleri menüyü çözer — ve unutma: bahşiş yok, teşekkür 'gochisosama deshita' ile edilir."
+      }
+    },
+    "hidden_gems": {
+      "title": "Gizli Köşeler",
+      "intro": "Shibuya kavşağını herkes görür; bu altısı Tokyo'nun eski sokaklı, vadi sesli saklı yüzü.",
+      "items": [
+        {
+          "rarity": "Eski Tokyo'nun sokağı",
+          "name": "Yanaka Ginza",
+          "description": "Savaşı ve depremi atlatan shitamachi mahallesinin çarşı sokağı: kedi figürleri, el işi dükkanları, akşam ışığında 'gün batımı merdiveni'. Tapınak avluları ve eski mezarlığın sedirleriyle — Tokyo'nun en yavaş öğleden sonrası.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Yanaka+Ginza+Tokyo"
+        },
+        {
+          "rarity": "Tiyatroların arka sokağı",
+          "name": "Shimokitazawa",
+          "description": "İkinci el plakçılar, vintage dükkanlar, mini sahneler ve kahveciler: Tokyo'nun bohem köyü. Ana hatlardan iki durak, atmosferden yıllar uzakta — pazar öğleden sonrası en canlı halidir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Shimokitazawa+Tokyo"
+        },
+        {
+          "rarity": "Şehrin içinde vadi",
+          "name": "Todoroki Vadisi",
+          "description": "Setagaya'nın ortasında bambu ve akçaağaç gölgeli bir dere vadisi: patika, kırmızı köprü ve vadi sonunda tapınak çay evi. Metropolün sesi otuz saniyede kaybolur — Tokyo'nun en şaşırtıcı doğa kaçamağı.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Todoroki+Valley+Tokyo"
+        },
+        {
+          "rarity": "Taş kaldırımlı geisha mahallesi",
+          "name": "Kagurazaka",
+          "description": "Eski geisha mahallesinin taş sokakları bugün Fransız bistroları ve kappo lokantalarıyla dolu: Tokyo'nun 'küçük Paris'i. Ara sokaklardaki kırmızı fenerli merdivenler, akşam yürüyüşünün ödülüdür.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kagurazaka+Tokyo"
+        },
+        {
+          "rarity": "Sanat + bahçe ikilisi",
+          "name": "Nezu Müzesi bahçesi",
+          "description": "Omotesando'nun bitişiğinde Asya sanatı koleksiyonu ve arkasında saklı Japon bahçesi: çay evleri, yosunlu taşlar, nilüfer göleti. Modanın kalbinden iki dakikada dinginliğe — Tokyo kontrastının zarif özeti.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nezu+Museum+Tokyo"
+        },
+        {
+          "rarity": "Fenerli izakaya pasajı",
+          "name": "Omoide Yokocho",
+          "description": "Shinjuku istasyonunun dibinde savaş sonrası dönemden kalma daracık izakaya pasajı: duman, fener ışığı ve omuz omuza tezgahlar. 'Anı sokağı' adını hak eder — yakitori şişi ve bira, zaman yolculuğunun bileti.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Omoide+Yokocho+Shinjuku+Tokyo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Kontrast stratejisi",
+        "text": "Tokyo'yu kontrastla gez: neon sabahı eski mahalleyle, kalabalık kavşağı bahçeyle dengele. Shibuya'dan Todoroki'ye, Shinjuku'dan Kagurazaka'ya — aynı günde iki zıt Tokyo, şehrin asıl portresidir."
+      }
+    },
+    "traps": {
+      "title": "Tuzaklara Düşme",
+      "intro": "Tokyo dünyanın en dürüst şehirlerindendir; tuzakları azdır ama bilmeyeni yorar — bu dördünü cebine koy.",
+      "items": [
+        {
+          "icon": "🍸",
+          "name": "Kabukicho tellalları",
+          "description": "Gece bölgesinde 'ücretsiz içki, güzel bar' diye yaklaşan tellallar (özellikle İngilizce konuşanlar) şişirilmiş hesaplı mekanlara çeker; itiraz zordur.",
+          "instead": "Sokakta seni davet eden hiçbir bara gitme — kuralı net tut. İçki gecesi için Golden Gai'nin tabelalı barlarını ya da izakaya zincirlerini seç; kapıda 'cover charge' sorulur, cevabı bellidir."
+        },
+        {
+          "icon": "🍣",
+          "name": "Turist suşi vitrinleri",
+          "description": "Bazı turistik bölgelerin 'taze balık' bağıran vitrinleri, vasat suşiyi usta fiyatına satar; İngilizce menü kalabalığı yanıltır.",
+          "instead": "Kuyruklu tachigui barlarını, pazar içi tezgahları ya da öğlen setli suşi ustalarını seç. Fiyat listesi net, tezgah dolu, şef Japon müşteriyle konuşuyorsa doğru yerdesin."
+        },
+        {
+          "icon": "🎫",
+          "name": "Herkese JR Pass refleksi",
+          "description": "JR Pass fiyatı arttı: sadece Tokyo ve bir-iki günübirlik gezi yapan gezgin, pass'e ödediğini geri kazanamaz.",
+          "instead": "Rotanı hesapla: Kyoto-Osaka gidiş-dönüş gibi uzun rotalarda pass hâlâ mantıklı olabilir, Tokyo odaklı gezide Suica + tekil biletler neredeyse her zaman kazanır. Hesap makinesi beş dakika, tasarruf ciddi."
+        },
+        {
+          "icon": "💴",
+          "name": "'Her yerde kart geçer' varsayımı",
+          "description": "Tokyo modern görünür ama küçük lokantalar, tapınaklar ve bazı barlar sadece nakit çalışır; kartla gelen turist kapıda kalır.",
+          "instead": "Cebinde her zaman 10-20 bin yen nakit taşı; konbini ATM'leri (7-Eleven) yabancı kartla sorunsuz çeker. Bilet makineli dükkanlarda bozukluk da işe yarar — nakit, Tokyo'da hâlâ anahtardır."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Altın kural",
+        "text": "Tokyo'da neredeyse kimse seni kandırmaya çalışmaz — istisnalar gece bölgelerinde ve turist vitrinlerinde toplanır. Kuyruğa güven, tellala güvenme, nakit taşı: bu üçlüyle şehrin dürüstlüğü tamamen senin lehine çalışır."
+      }
+    },
+    "itinerary": {
+      "title": "Hazır Rotalar",
+      "intro": "Plan yapmayı sevmiyorsan bu akışları takip et. Saatler esnek; ruhu koru, sırayı boz.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "1 Günün Varsa",
+          "subtitle": "Tapınak sabahından neon geceye",
+          "steps": [
+            {
+              "time": "07:30",
+              "title": "Senso-ji sabahı",
+              "description": "Asakusa'nın tapınağını kalabalık gelmeden gez: Kaminarimon fenerinin altından geç, tütsü dumanında dile dilek. Nakamise dükkanları açılırken sen çıkmış ol."
+            },
+            {
+              "time": "10:00",
+              "title": "Ueno ve Yanaka sokakları",
+              "description": "Parkın müzelerinden birine kısa dalış, ardından Yanaka Ginza'da eski Tokyo yürüyüşü: kediler, el işi dükkanları, taş merdivenler."
+            },
+            {
+              "time": "13:00",
+              "title": "Ramen öğleni",
+              "description": "Bilet makinesinden fiş al, tezgaha otur: buharlı kasende günün ödülü. Höpürdet — iltifattır."
+            },
+            {
+              "time": "15:00",
+              "title": "Meiji Tapınağı ve Harajuku",
+              "description": "Sedir ormanının sessizliğinden Takeshita Sokağı'nın şekerli kaosuna: Tokyo kontrastı tek yürüyüşte. Omotesando'nun mimari vitrinleriyle kapat."
+            },
+            {
+              "time": "17:30",
+              "title": "Shibuya kavşağı ve gözlem katı",
+              "description": "Kavşağı önce içinden geç, sonra yukarıdan izle: ışıklar yanarken insan seli senkronize bir dansa döner."
+            },
+            {
+              "time": "19:30",
+              "title": "İzakaya ve Omoide Yokocho",
+              "description": "Fenerli pasajda yakitori ve bira, omuz omuza tezgahta: 'toriaezu nama!' Gece uzarsa Golden Gai'nin mini barları iki adım ötede."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "3 Günün Varsa",
+          "subtitle": "Tapınaklar, vadiler ve tezgahlar — tam Tokyo",
+          "steps": [
+            {
+              "time": "1. Gün",
+              "title": "Klasik Tokyo",
+              "description": "Yukarıdaki 1 günlük akış: Senso-ji, Yanaka, ramen, Meiji-Harajuku, Shibuya, izakaya gecesi."
+            },
+            {
+              "time": "2. Gün",
+              "title": "Pazar sabahı ve zarif yaka",
+              "description": "Sabah Toyosu ya da Tsukiji dış pazarında suşi kahvaltısı; öğlen Ginza vitrinleri ve depachika keşfi; ikindi Nezu Müzesi bahçesinde çay; akşam Kagurazaka'nın taş sokaklarında kappo sofrası."
+            },
+            {
+              "time": "3. Gün",
+              "title": "Vadi, bohem köy ve veda",
+              "description": "Sabah Todoroki Vadisi'nde dere patikası ve tapınak çayı; öğleden sonra Shimokitazawa'da plak ve vintage turu; veda akşamı Shinjuku gözlem katından gün batımı — Fuji açıksa selam gönder, kapanışı ramen buharıyla yap."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5 Kelimelik Hayatta Kalma Kiti",
+      "intro": "Japonca nezaket dilidir ve tek kelimelik çaba bile büyük saygı görür; bu beşi her kapıyı aralar.",
+      "items": [
+        {
+          "word": "Konnichiwa",
+          "pronunciation": "konniçiva",
+          "meaning": "Merhaba — gündüz selamının temeli; hafif baş eğmesiyle birlikte"
+        },
+        {
+          "word": "Arigatou gozaimasu",
+          "pronunciation": "arigato gozaimas",
+          "meaning": "Çok teşekkürler — kısaca 'arigatou'; günde elli kez söyleyeceksin"
+        },
+        {
+          "word": "Sumimasen",
+          "pronunciation": "sumimasen",
+          "meaning": "Affedersiniz / pardon / teşekkür — Japonca'nın en çok işleyen sihirli kelimesi"
+        },
+        {
+          "word": "Itadakimasu",
+          "pronunciation": "itadakimas",
+          "meaning": "Sofra başlangıç sözü — yemeğe saygıyla başlamanın ifadesi; eller birleşik"
+        },
+        {
+          "word": "Kanpai!",
+          "pronunciation": "kanpay",
+          "meaning": "Şerefe! — izakaya gecesinin açılış vuruşu; bardaklar hafifçe tokuşur"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Tokyo Checklist",
+      "completion_message": "Kanpai! Düzenin ve neonun şehrini hakkıyla yaşadın!",
+      "items": [
+        {
+          "label": "Senso-ji'yi sabah erken gez",
+          "sub": "Kaminarimon feneri, tütsü dumanı"
+        },
+        {
+          "label": "Shibuya kavşağını içinden ve yukarıdan gör",
+          "sub": "Önce geç, sonra izle"
+        },
+        {
+          "label": "Ramenini bilet makinesinden fişle al",
+          "sub": "Tezgahta, höpürdeterek"
+        },
+        {
+          "label": "Bir izakayada 'toriaezu nama' de",
+          "sub": "Küçük tabaklar art arda gelsin"
+        },
+        {
+          "label": "Meiji Tapınağı'nın sedir ormanında yürü",
+          "sub": "Harajuku'nun bitişiğinde sessizlik"
+        },
+        {
+          "label": "Yanaka Ginza'da gün batımı merdivenine çık",
+          "sub": "Eski Tokyo'nun çarşı sokağı"
+        },
+        {
+          "label": "Depachika'dan bento al, parkta ye",
+          "sub": "Bodrum katı şöleni — kapanış indirimi"
+        },
+        {
+          "label": "Omoide Yokocho'da yakitori ye",
+          "sub": "Fenerli pasajda, omuz omuza"
+        },
+        {
+          "label": "Todoroki Vadisi'nde dere patikasını yürü",
+          "sub": "Metropolün içinde otuz saniyede orman"
+        },
+        {
+          "label": "Gözlem katından Fuji'yi ara",
+          "sub": "Kış sabahı en berrak ihtimal"
+        }
+      ]
+    }
+  }
+}

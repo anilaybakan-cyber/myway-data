@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Geneva",
+    "country": "Switzerland",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#1A4B8C",
+    "color_light": "#E8EEF8",
+    "tagline": "Una delle città più costose del mondo — la maggior parte delle cose più belle sono gratis.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Chiedi la Tessera Trasporti al check-in",
+    "Mangia la fonduta nel posto giusto",
+    "Raggiungi Jonction a piedi"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Ginevra è una città piccola, ma al suo interno ospita la sede europea delle Nazioni Unite, più di 40 organizzazioni internazionali e la più alta concentrazione mondiale di missioni diplomatiche. Lo si nota appena si arriva: tutto è troppo ordinato, troppo pulito, troppo silenzioso. Dopo le 22 le strade si svuotano. Poi ti siedi sulla riva del Lago Lemano, le Alpi di fronte, il Jet d'Eau sopra di te, un caffè accanto — e capisci perché la città è stata costruita qui. A Jonction, due fiumi si incontrano con colori diversi. A Carouge, inizia a respirare uno spirito da quartiere italiano. Ginevra è piccola ma stratificata.",
+      "local_word": {
+        "pronunciation": "mwa-tYEY mwa-tYEY",
+        "definition": "Metà e metà. A Ginevra, quando si parla di fonduta, è questo che si intende: metà formaggio Gruyère, metà Vacherin Fribourgeois. Questa è la miscela standard. Al ristorante, non limitarti a dire 'fonduta' — chiedi una 'moitié-moitié' e noterai la differenza. Un piatto invernale; da novembre a marzo.",
+        "word": "Moitié-Moitié"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Se alloggi in hotel, tutti i trasporti sono gratuiti — chiedi al check-in",
+          "description": "Se alloggi in un hotel, ostello o campeggio a Ginevra, hai diritto a una Geneva Transport Card. Per tutta la durata del tuo soggiorno, tram, autobus, treno e il traghetto giallo (Mouettes Genevoises) sono tutti gratuiti. Copre anche il trasferimento dall'aeroporto. A volte non viene consegnata automaticamente — chiedi al check-in."
+        },
+        {
+          "number": 2,
+          "title": "Una città costosa — ma le cose gratuite sono davvero valide",
+          "description": "I prezzi dei ristoranti sono tra i più alti d'Europa; pianifica di conseguenza. Ma non dimenticare: il Jet d'Eau, il Muro della Riforma, passeggiare per le strade della Vieille Ville, camminare fino a Jonction e lungo il lago sono tutte attività gratuite. Molti musei sono gratuiti la domenica. I menu del pranzo sono spesso la metà del prezzo della cena nello stesso ristorante — stessa qualità."
+        },
+        {
+          "number": 3,
+          "title": "Fonduta e raclette sono piatti invernali — non ordinarli in estate",
+          "description": "Da novembre a marzo è la stagione giusta per fonduta e raclette. In estate vengono servite nei ristoranti turistici, ma questi piatti appartengono al freddo. La domanda giusta in estate è: 'Avete Filets de perches du Léman?' Filetti di persico fresco del Lago Lemano — se il menu non specifica 'du Léman', il pesce potrebbe essere congelato e importato dall'Europa dell'Est."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeroporto",
+          "value": "GVA — Geneva Cointrin",
+          "sub": "7 minuti di treno per Gare Cornavin · biglietto gratuito di 80 minuti all'uscita"
+        },
+        {
+          "icon": "🚋",
+          "label": "Trasporti",
+          "value": "TPG — tram, bus, train, Mouettes",
+          "sub": "Gratuiti per l'intero soggiorno se alloggi in hotel"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Meteo",
+          "value": "Quattro stagioni, effetto lago e montagna",
+          "sub": "Apr–Giu e Set ideali · Dic–Mar freddo · attenzione al vento Bise"
+        },
+        {
+          "icon": "💰",
+          "label": "Valuta",
+          "value": "Swiss Franc (CHF)",
+          "sub": "Una delle città più care d'Europa · i menu del pranzo molto più economici della cena"
+        }
+      ],
+      "tip": {
+        "label": "Geneveroule — noleggio bici gratuito",
+        "text": "L'ufficio Geneveroule si trova proprio di fronte alla Gare Cornavin. Lascia un documento d'identità e un deposito di 20 CHF, prendi una bici per la giornata. Il deposito viene restituito a fine giornata; la bici è gratuita. Ginevra ha le dimensioni giuste per essere esplorata in bicicletta. Il lungolago, Carouge e Plainpalais sono tutti pianeggianti e adatti alle bici. La stagione va da maggio a ottobre.",
+        "type": "tip"
+      },
+      "title": "Benvenuti a Ginevra"
+    },
+    "transport": {
+      "intro": "Ginevra è piccola e ben collegata. Tram, autobus, treni e i traghetti gialli funzionano tutti con lo stesso biglietto — e se alloggi in un hotel, è tutto gratuito.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeroporto → Città",
+          "description": "Dalla stazione ferroviaria nel seminterrato dell'aeroporto alla Gare Cornavin: 7 minuti, ogni 10-15 minuti. Dopo aver ritirato i bagagli, mostra la tua carta d'imbarco alle macchinette per ottenere un biglietto gratuito valido 80 minuti. Se hai la Geneva Transport Card, non ne hai bisogno — è già tutto incluso."
+        },
+        {
+          "icon": "🚋",
+          "title": "TPG — tram e autobus",
+          "description": "6 linee di tram (numeri 12-17) e una vasta rete di autobus coprono ogni angolo della città. Un singolo biglietto è valido per 60 minuti; trasferimenti gratuiti tra tram, autobus, treni e Mouettes. I biglietti si acquistano alle macchinette alle fermate — gli autobus urbani non hanno macchinette a bordo, quindi acquista prima di salire."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Mouettes Genevoises — traghetti gialli",
+          "description": "Piccole imbarcazioni gialle che collegano le due sponde del lago, con lo stesso biglietto TPG. La linea M1 va da Pâquis a Eaux-Vives, la linea M2 da vicino al Ponte del Monte Bianco a Genève-Plage. Una breve traversata, ma sul Lago Lemano — il modo più semplice per vedere la città da un'angolazione diversa."
+        },
+        {
+          "icon": "🚲",
+          "title": "Bici — Geneveroule",
+          "description": "Direttamente di fronte alla Gare Cornavin. Lascia un documento d'identità e un deposito di 20 CHF per una bici gratuita per un giorno. Percorsi pianeggianti e sicuri lungo il lago fino a Carouge e Plainpalais. Stagione da maggio a ottobre."
+        },
+        {
+          "icon": "🚶",
+          "title": "A piedi — ideale per il centro città",
+          "description": "Vieille Ville, Pâquis e la riva del lago sono tutte collegate a piedi. Dalla Gare Cornavin al Jet d'Eau: 20 minuti. Carouge: 15 minuti in tram o 35 minuti a piedi. Jonction: 25 minuti a piedi dal centro."
+        }
+      ],
+      "callout": {
+        "label": "Geneva Transport Card — chiedi al check-in",
+        "text": "Se alloggi in un hotel, ostello o campeggio a Ginevra, hai diritto a questa carta. Copre tutti i veicoli TPG, i treni e le Mouettes all'interno della Zona 10 per tutta la durata del tuo soggiorno. A volte non viene inviata automaticamente — se non la chiedi al check-in, potresti perderla. Copre anche il trasferimento dall'aeroporto. I trasporti pubblici a Ginevra non sono economici; questa carta è un vero risparmio.",
+        "type": "tip"
+      },
+      "title": "Come Muoversi"
+    },
+    "stay": {
+      "intro": "Ginevra è piccola, ma i suoi quartieri sono molto diversi tra loro. Dove alloggi influenzerà direttamente la tua esperienza della città.",
+      "local_word": {
+        "pronunciation": "ka-RUJE",
+        "definition": "Progettato da architetti sardi nel XVIII secolo, Carouge fa tecnicamente parte di Ginevra ma è indipendente nello spirito. L'influenza italiana è forte: ampi cortili, edifici bassi, caffè all'aperto. Completamente diverso dall'atmosfera fredda e protocollare della città. Con il suo mercato del fine settimana, i ristoranti locali e l'atmosfera serale, è l'angolo più vivo di Ginevra.",
+        "word": "Carouge"
+      },
+      "items": [
+        {
+          "name": "Rive / Eaux-Vives",
+          "badge": "Il più centrale",
+          "badge_type": "hot",
+          "description": "Sulla riva sinistra del lago, a pochi passi dal Jet d'Eau. Qui si trovano il Jardin Anglais, le vie dello shopping e il mercato alimentare delle Halles de Rive. Facili collegamenti in tram ovunque. La scelta giusta se è la tua prima volta e vuoi un facile accesso a tutto.",
+          "tags": [
+            "A pochi passi dal Jet d'Eau",
+            "Halles de Rive",
+            "Facile accesso a tutto"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Eaux-Vives+Geneva"
+        },
+        {
+          "name": "Pâquis",
+          "badge": "Il più vivace",
+          "badge_type": "local",
+          "description": "Proprio accanto alla Gare Cornavin, sulla riva destra del lago. Il quartiere più multiculturale di Ginevra; qui vivono comunità asiatiche, africane e arabe. I Bains des Pâquis sono il punto di ritrovo estivo sul lungolago. Ristoranti e bar restano aperti fino a tardi — la parte meno tranquilla della città.",
+          "tags": [
+            "Bains des Pâquis",
+            "Accanto alla Gare Cornavin",
+            "Multiculturale, vivace"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Paquis+Geneva"
+        },
+        {
+          "name": "Vieille Ville / Città Vecchia",
+          "badge": "Il più storico",
+          "badge_type": "hot",
+          "description": "In cima alla collina, con la Cattedrale di Saint-Pierre e il Muro della Riforma. Strette vie in pietra, edifici storici, piccoli caffè. La parte più turistica di Ginevra, ma autenticamente bella nelle ore tranquille — la mattina presto o il tardo pomeriggio. La salita è faticosa ma i panorami valgono la pena.",
+          "tags": [
+            "Cathédrale Saint-Pierre",
+            "Muro della Riforma",
+            "Viste panoramiche"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vieille+Ville+Geneva"
+        },
+        {
+          "name": "Carouge",
+          "badge": "Il più caratteristico",
+          "badge_type": "local",
+          "description": "Tecnicamente un comune separato annesso a Ginevra. 15 minuti in tram. Architettura italiana con cortili, un mercato del fine settimana, ristoranti locali. Completamente diverso dall'atmosfera fredda e ordinata del resto della città. Vai a Carouge per cena; soggiorna lì.",
+          "tags": [
+            "15 min in tram",
+            "Mercato del fine settimana",
+            "Il quartiere più autentico"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Carouge+Geneva"
+        },
+        {
+          "name": "Plainpalais / Jonction",
+          "badge": "Il più locale",
+          "badge_type": "local",
+          "description": "Quartiere studentesco e artistico attorno all'Università di Ginevra. La piazza di Plainpalais si trasforma nel miglior mercato dell'usato della città il mercoledì e il sabato. Jonction è dove il Rodano e l'Arve si incontrano — dove i locali nuotano in estate. Il più lontano da qualsiasi atmosfera turistica.",
+          "tags": [
+            "Mercato dell'usato di Plainpalais",
+            "Confluenza della Jonction",
+            "Quartiere studentesco"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Plainpalais+Geneva"
+        }
+      ],
+      "title": "Dove Alloggiare"
+    },
+    "best_time": {
+      "intro": "Ginevra vive ogni stagione in modo diverso. In estate è il lago; in inverno sono le Alpi e il silenzio.",
+      "items": [
+        {
+          "label": "Primavera",
+          "name": "Il periodo più equilibrato",
+          "months": "Apr – Giu",
+          "description": "Da fine aprile a giugno, il periodo più equilibrato di Ginevra. Il lago è ancora freddo ma la riva è bellissima. Il Jardin Anglais e il Parc La Grange sono in fiore. Le folle non si sono ancora formate, i voli sono più economici rispetto al picco estivo. Si apre la stagione delle biciclette. Maggio è il mese in cui la città è al suo meglio: non troppo fredda, non troppo affollata.",
+          "callout": {
+            "label": "Parc La Grange — roseto e vista lago",
+            "text": "Sulla riva sinistra a Eaux-Vives. Il più grande roseto di Ginevra, in piena fioritura da fine maggio a inizio giugno. Antica villa, aree picnic, vista lago. Gratuito, sempre aperto. Trascurato dalla maggior parte delle mappe turistiche.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Primavera · Prima della folla, mentre la città si apre"
+        },
+        {
+          "label": "Estate",
+          "name": "La stagione del lago",
+          "months": "Lug – Ago",
+          "description": "Luglio e agosto sono i mesi più affollati ma la città non sembra mai opprimente. Il lago è pronto per nuotare. Il Festival di Ginevra all'inizio di agosto — un grande spettacolo pirotecnico. Fresco persico del Lemano invece della fonduta; la scelta giusta in estate.",
+          "callout": {
+            "label": "Nuotare nel fiume alla Jonction",
+            "text": "Dove il Rodano e l'Arve si incontrano alla Jonction, i locali nuotano nel fiume in estate. La corrente è forte; ci sono aree sicure. L'ingresso è gratuito. Folla locale, sole — non un'attività turistica, un rituale estivo della città.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Estate · Lago, fiume, aria aperta"
+        },
+        {
+          "label": "Autunno",
+          "name": "La stagione più sottovalutata",
+          "months": "Set – Nov",
+          "description": "Settembre e ottobre: la folla è andata via, il tempo è ancora mite, il lago è calmo e blu. Si apre la stagione della fonduta. Entro la fine di ottobre, le annuali marmitte di cioccolato di Favarger appaiono nelle vetrine dei pasticceri — il primo segno de L'Escalade.",
+          "callout": {
+            "label": "Una serata autunnale a Carouge",
+            "text": "A settembre e ottobre, i caffè e i ristoranti con tavoli all'aperto di Carouge sono ancora fuori; le folle estive sono andate via. Il mercato del mercoledì e del sabato offre prodotti autunnali: funghi, zucche, formaggi locali. Andate nel tardo pomeriggio, passeggiate tra i resti del mercato, sedetevi da qualche parte. Le ore più rilassanti della città.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Autunno · Lago calmo, la fonduta è tornata"
+        },
+        {
+          "label": "Inverno",
+          "name": "Silenzio e le Alpi",
+          "months": "Dic – Mar",
+          "description": "Dicembre si anima brevemente con il mercatino di Natale e le celebrazioni de L'Escalade. Gennaio e febbraio sono i mesi in cui la città si svuota di turisti. Il vento Bise — freddo e tagliente da nord — può soffiare per giorni; siate pronti. Le Alpi sono vicine per sciare: Chamonix è a un'ora, Les Gets a un'ora e mezza. Ginevra in inverno è molto tranquilla — il momento migliore per chi ama questo.",
+          "callout": {
+            "label": "L'Escalade — il momento più locale di Ginevra a dicembre",
+            "text": "Ogni anno nella seconda settimana di dicembre, un festival che celebra la vittoria del 1602 sulla Savoia. Una processione storica in costume attraverso la Vieille Ville. La marmitta di cioccolato di Favarger — Marmite de l'Escalade — fatta appositamente per quell'anno, è in vendita nelle pasticcerie da metà novembre. Tradizione: rompere la marmitta e condividere i dolci all'interno.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Inverno · La città si quieta, le Alpi sono vicine"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "Agosto",
+          "text": "Fêtes de Genève: uno dei più grandi spettacoli pirotecnici d'Europa sul lago; la riva diventa un luna park di una settimana."
+        },
+        {
+          "month": "Dicembre",
+          "text": "L'Escalade: la celebrazione della vittoria del 1602 — sfilate in costume, storia a cavallo e il rituale della rottura della marmitta di cioccolato."
+        },
+        {
+          "month": "Giugno–Settembre",
+          "text": "Stagione del lago: nuotare ai Bains des Pâquis, picnic sulla riva; in estate la città vive con il suo lago."
+        },
+        {
+          "month": "Gennaio–Febbraio",
+          "text": "Fuga sciistica: Chamonix e Portes du Soleil sono a un'ora di distanza; piste al mattino, fonduta in città la sera."
+        }
+      ],
+      "title": "Quando Andare"
+    },
+    "eat": {
+      "intro": "Una città nel cuore della cucina franco-svizzera. Formaggio, pesce d'acqua dolce, salsicce locali: tutto assume un sapore diverso se gustato nel posto giusto.",
+      "local_word": {
+        "pronunciation": "fi-LAY duh PERSH duh lay-MAN",
+        "definition": "Filetti freschi di pesce persico del Lago Lemano. Il piatto estivo di Ginevra. Se il menù non specifica 'du Léman', potrebbe non essere fresco: cercate quell'indicazione. Leggermente infarinati e fritti nel burro, serviti con limone e riso. Da maggio a settembre.",
+        "word": "Filets de perches du Léman"
+      },
+      "items": [
+        {
+          "icon": "🧀",
+          "name": "Fondue moitié-moitié",
+          "description": "La fondue classica di Ginevra: metà Gruyère, metà Vacherin Fribourgeois. Pezzi di pane intinti nel formaggio fuso con una forchetta lunga. La stagione giusta per la fondue va da novembre a marzo. Evitate i ristoranti intorno alla Gare Cornavin: usano miscele di formaggi economiche e la differenza si sente. I Bains des Pâquis o i ristoranti a Carouge sono gli indirizzi affidabili.",
+          "tag": "Nov–Mar · Bains des Pâquis o Carouge · prenotazione obbligatoria",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+du+Soleil+Geneva"
+        },
+        {
+          "icon": "🧀",
+          "name": "Raclette",
+          "description": "Una mezza forma di formaggio riscaldata accanto al fuoco, la parte fusa raschiata direttamente sul piatto. Servita con patate bollite, cetriolini e cipolle. La versione elettrica da tavolo è una scorciatoia: quella vera si fa con una mezza forma di formaggio.",
+          "tag": "Inverno · deve essere da mezza forma · la versione da tavolo non è quella vera",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Armures+Geneva"
+        },
+        {
+          "icon": "🌭",
+          "name": "Longeole",
+          "description": "Una salsiccia locale unica di Ginevra, con indicazione geografica protetta (IGP). Fatta con carne di maiale, semi di finocchio e spezie; prodotta solo qui. Uno dei piatti ufficiali della città. Servita con lenticchie o fagioli secchi. Si trova nei ristoranti locali a Carouge e alle Halles de Rive.",
+          "tag": "IGP di Ginevra · Carouge e Halles de Rive",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Auberge+de+Savièse+Geneva"
+        },
+        {
+          "icon": "🐟",
+          "name": "Filets de perches du Léman",
+          "description": "Filetti freschi di pesce persico del Lago Lemano — il piatto principale nei ristoranti sul lago in estate. Se il menù non specifica 'du Léman', il pesce non è fresco: cercate quell'indicazione. Leggermente infarinati e fritti nel burro. Da maggio a settembre.",
+          "tag": "Mag–Set · etichetta 'du Léman' essenziale · ristoranti sul lago",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Buvette+des+Bains+Geneva"
+        },
+        {
+          "icon": "🍫",
+          "name": "Marmite de l'Escalade",
+          "description": "Una pentola di cioccolato prodotta da Favarger ogni anno da metà novembre a metà dicembre. Commemora la vittoria del 1602. Riempita di piccole dolcezze; la tradizione vuole che la si rompa e se ne condivida il contenuto. L'esperienza cioccolatiera più locale di Ginevra — non disponibile il resto dell'anno.",
+          "tag": "Metà Nov a metà Dic · Favarger · produzione annuale",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Auer+Chocolatier+Geneva"
+        },
+        {
+          "icon": "🛒",
+          "name": "Halles de Rive",
+          "description": "A Rive, proprio accanto al lago. Il miglior mercato alimentare coperto di Ginevra. Venditori di formaggi locali, macellai, pescivendoli e panifici, tutti insieme. Qui troverete Longeole, Gruyère e pesce persico fresco. Non è una destinazione turistica; è qui che i ginevrini fanno la spesa. Aperto tutti i giorni, più affollato al mattino.",
+          "tag": "Rive · aperto tutti i giorni · meglio al mattino",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Halles+de+Rive+Geneva"
+        }
+      ],
+      "callout": {
+        "label": "Evitate la zona intorno alla Gare Cornavin",
+        "text": "Il tratto di Rue du Mont-Blanc intorno alla stazione ospita decine di locali che servono fondue e raclette. Formaggio scadente, fondue acquosa e insapore, pesce congelato. Evitate questi ristoranti. Camminate un po' più a lungo: Carouge, i Bains des Pâquis, o Les Armures e il Café Papon nella Vieille Ville sono tutte opzioni decisamente migliori.",
+        "type": "tip"
+      },
+      "title": "Cosa Mangiare"
+    },
+    "hidden_gems": {
+      "intro": "Appena dietro la facciata diplomatica di Ginevra, si nasconde una città completamente diversa.",
+      "items": [
+        {
+          "name": "La Pointe de la Jonction",
+          "description": "All'estremità occidentale della città, il Rodano e l'Arve si incontrano. Uno è verde turchese, l'altro marrone torbido — i due colori scorrono fianco a fianco per un lungo tratto senza mescolarsi. Chiaramente visibile a occhio nudo. In estate si può nuotare in aree sicure. Facilmente raggiungibile a piedi o in bicicletta. Gratuito, sempre aperto.",
+          "rarity": "Due fiumi, due colori — che scorrono fianco a fianco senza mescolarsi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pointe+de+la+Jonction+Geneva"
+        },
+        {
+          "name": "Quartier des Grottes",
+          "description": "A pochi minuti a piedi a nord-ovest della Gare Cornavin. Negli anni '80, i residenti di un quartiere destinato alla demolizione occuparono i loro edifici; gli architetti progettarono facciate organiche, ondulate e multicolori. Ora conosciute come gli 'edifici dei Puffi'. L'esatto opposto del carattere ordinato e sterile di Ginevra. Studi d'arte e caffè alternativi nei cortili. Gratuito, sempre aperto.",
+          "rarity": "Gli edifici più strani della Svizzera — il quartiere dei Puffi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Grottes+Geneva"
+        },
+        {
+          "name": "Promenade de la Treille",
+          "description": "Appena sopra la Vieille Ville, lungo il bordo del Parc des Bastions. La panchina di legno qui, lunga 120 metri, è tra le più lunghe del mondo. Ogni anno, l'arrivo della primavera è ufficialmente annunciato dal primo germoglio del castagno accanto a questo sentiero. Viste panoramiche sulla città, a pochi passi dal Muro dei Riformatori.",
+          "rarity": "Una panchina di legno di 120 metri e l'annuncio ufficiale della primavera",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Promenade+de+la+Treille+Geneva"
+        },
+        {
+          "name": "CERN",
+          "description": "All'estremità occidentale della città, al confine svizzero-francese. Il più grande laboratorio di fisica delle particelle del mondo e il luogo di nascita del World Wide Web. L'ingresso al Science Gateway, aperto nel 2023, è gratuito — ma è necessaria la registrazione. La registrazione online può essere effettuata fino a un mese prima e garantisce l'ingresso; la registrazione in loco è anche possibile ma soggetta a disponibilità. Le visite guidate sono anch'esse gratuite ma aperte solo per prenotazioni in loco, due ore prima dell'inizio del tour — si esauriscono molto rapidamente. Circa 30 minuti in tram.",
+          "rarity": "Dove è nato il World Wide Web — e il Large Hadron Collider",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=CERN+Geneva"
+        },
+        {
+          "name": "Place des Nations — Broken Chair",
+          "description": "Di fronte all'edificio delle Nazioni Unite, una gigantesca sedia di legno a tre gambe. La quarta gamba è rotta — a rappresentare le mine antiuomo e gli ordigni inesplosi. Eretta temporaneamente nel 1997 per promuovere la firma del Trattato di Ottawa che vieta le mine antiuomo. Ginevra non l'ha mai rimossa. Una visita guidata al Palais des Nations è a pagamento, ma l'ingresso alla piazza è gratuito.",
+          "rarity": "Una scultura, un trattato — e Ginevra non l'ha mai rimossa",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Broken+Chair+Geneva"
+        },
+        {
+          "name": "Bains des Pâquis",
+          "description": "Un pontile di legno che si estende nel lago sulla riva di Pâquis. In estate una piscina all'aperto e un hammam: nuoto, bagni di sole, sauna, cibo leggero. Non chiude in inverno — uno dei luoghi più popolari per la fonduta invernale. A pagamento ma a prezzi ragionevoli. In inverno, le prenotazioni per la fonduta sono essenziali; i fine settimana si riempiono velocemente.",
+          "rarity": "Nuoto, sauna e fonduta in riva al lago — aperto tutto l'anno",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bains+des+Paquis+Geneva"
+        }
+      ],
+      "callout": {
+        "label": "Plainpalais — il miglior mercato dell'usato della città",
+        "text": "Ogni mercoledì e sabato mattina in Piazza Plainpalais. Libri, dischi, abbigliamento vintage, antiquariato, elettronica. Il mercato all'aperto più colorato e vario di Ginevra. Il meglio al mattino presto. Ingresso gratuito.",
+        "type": "tip"
+      },
+      "title": "Tesori Nascosti"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Richiedi la Geneva Transport Card al check-in",
+          "sub": "Se alloggi in hotel, ostello o campeggio, ne hai diritto. Tutti i trasporti pubblici gratuiti per il tuo soggiorno. A volte non viene inviata automaticamente — chiedi sempre."
+        },
+        {
+          "label": "Ammira il Jet d'Eau",
+          "sub": "140 metri d'altezza, visibile da ogni punto del lago. Puoi avvicinarti a piedi. Gratuito."
+        },
+        {
+          "label": "Passeggia fino a Jonction",
+          "sub": "Dove il Rodano e l'Arve si incontrano con colori diversi. 25 minuti a piedi o in bici. Gratuito."
+        },
+        {
+          "label": "Cena a Carouge",
+          "sub": "15 minuti in tram. Una Ginevra completamente diversa. Ristoranti locali, cortili, resti di mercato."
+        },
+        {
+          "label": "Noleggia una bici da Geneveroule",
+          "sub": "Di fronte alla Gare Cornavin. Documento d'identità + 20 CHF di deposito. La bici è gratuita. Stagione maggio–ottobre."
+        },
+        {
+          "label": "Vai ai Bains des Pâquis",
+          "sub": "Nuoto e sole in estate, sauna in inverno. Sul lago, un luogo frequentato dai locali. A pagamento ma economico."
+        },
+        {
+          "label": "Ammira il Muro della Riforma",
+          "sub": "Nel Parc des Bastions. Statue giganti di Calvino e degli altri riformatori. Gratuito."
+        },
+        {
+          "label": "Visita le Halles de Rive",
+          "sub": "Al mattino presto. Venditori di formaggi locali, pescivendoli, panifici. La vera cucina di Ginevra."
+        },
+        {
+          "label": "Visita il CERN",
+          "sub": "L'ingresso al Science Gateway è gratuito, è richiesta la registrazione online. Visite guidate: prenotazione solo in loco, apre 2 ore prima, si esaurisce velocemente. Circa 30 minuti in tram."
+        },
+        {
+          "label": "Trova la Sedia Rotta",
+          "sub": "Di fronte al palazzo dell'ONU. La quarta gamba rotta rappresenta le mine antiuomo. L'ingresso alla piazza è gratuito."
+        },
+        {
+          "label": "Prendi le Mouettes",
+          "sub": "Traghetto giallo, incluso nel tuo biglietto TPG. Attraversa il lago."
+        },
+        {
+          "label": "Mangia nel posto giusto",
+          "sub": "Per la fonduta: Carouge o Bains des Pâquis. Per il pesce persico fresco: ristoranti sul lago. Evita la zona della Gare Cornavin."
+        }
+      ],
+      "title": "Lista di cose da fare a Ginevra",
+      "completion_message": "Hai visto Ginevra per davvero, non solo in superficie."
+    },
+    "traps": {
+      "title": "Evita le Trappole",
+      "intro": "Ginevra ha poche trappole — ma i prezzi in sé possono esserne una. Conosci queste quattro e proteggi il tuo budget svizzero.",
+      "items": [
+        {
+          "icon": "🚕",
+          "name": "Prendere un taxi dall'aeroporto",
+          "description": "Pagare 40 franchi per un taxi quando esiste un treno di 7 minuti è il classico errore del turista in città — e il biglietto del treno è gratuito nella sala ritiro bagagli.",
+          "instead": "Prendi il biglietto gratuito da 80 minuti dalla macchina vicino ai nastri bagagli; al tuo hotel, chiedi la Geneva Transport Card gratuita."
+        },
+        {
+          "icon": "⌚",
+          "name": "Un 'orologio svizzero' da un negozio di souvenir",
+          "description": "Alcuni degli orologi e coltelli economici 'Swiss made' nelle vetrine di Rue du Mont-Blanc sono imitazioni importate.",
+          "instead": "Per l'originale vai da un rivenditore autorizzato; per un regalo economico, il cioccolato svizzero è sempre la risposta giusta."
+        },
+        {
+          "icon": "🫕",
+          "name": "Insistere sulla fondue in estate",
+          "description": "È presente nei menu tutto l'anno, ma la fondue è un piatto invernale; servita ai turisti ad agosto perde sia il suo sapore che la sua atmosfera.",
+          "instead": "In estate mangia i filetti di persico del lago; conserva la fondue per una serata fredda e una brasserie con muri in pietra."
+        },
+        {
+          "icon": "💸",
+          "name": "Trasformare il lago in un pacchetto a pagamento",
+          "description": "Costosi pacchetti 'city tour' vendono un percorso che è già gratuito: la vista sul Jet d'Eau, il lungolago, la Città Vecchia.",
+          "instead": "I taxi acquatici gialli 'Mouettes' attraversano il lago gratuitamente con la tua tessera dei trasporti; i tuoi piedi si occuperanno del resto."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regola d'oro",
+        "text": "Sei in una delle città più care del mondo, ma le sue cose migliori sono gratuite: il lago, le viste sulle montagne, la Città Vecchia, un tramonto ai Bains des Pâquis. Risparmia i soldi per il cibo e il cioccolato."
+      }
+    },
+    "itinerary": {
+      "title": "Percorsi Predefiniti",
+      "intro": "Se non ami pianificare, segui questi itinerari. Gli orari sono indicativi; cogli lo spirito, non la lettera.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Se Hai 1 Giorno",
+          "subtitle": "Il lago, la Città Vecchia e l'incontro di due fiumi",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Lungolago + Jet d'Eau",
+              "description": "Dal Giardino Inglese, oltre l'orologio floreale, fino al getto d'acqua di 140 metri; alla luce del mattino il lago è uno specchio."
+            },
+            {
+              "time": "10:30",
+              "title": "Città Vecchia + Cattedrale di St-Pierre",
+              "description": "Vicoletti acciottolati, la vista sul lago dalla torre della cattedrale e la panchina di legno più lunga del mondo sulla Treille."
+            },
+            {
+              "time": "13:00",
+              "title": "Pranzo alle Halles de Rive",
+              "description": "Formaggi, salumi e pasta fresca alle bancarelle del mercato coperto; dove pranzano i veri abitanti del posto."
+            },
+            {
+              "time": "15:00",
+              "title": "Le vie di Carouge",
+              "description": "La Greenwich Village di Ginevra: cortili in stile sardo, botteghe artigiane, caffè tranquilli."
+            },
+            {
+              "time": "17:30",
+              "title": "Bains des Pâquis",
+              "description": "Nuota dal pontile in mezzo al lago, o semplicemente siediti; il tramonto qui è democratico — la stessa vista per tutti."
+            },
+            {
+              "time": "20:00",
+              "title": "Serata a Pâquis",
+              "description": "Cucine dal mondo nel quartiere più colorato della città — o, se è inverno, una fonduta accanto a un muro di pietra."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Se Hai 3 Giorni",
+          "subtitle": "Vivi la città da ospite, non da turista",
+          "steps": [
+            {
+              "time": "Giorno 1",
+              "title": "Lago e Città Vecchia",
+              "description": "L'itinerario di 1 giorno descritto sopra: la riva, la cattedrale, Carouge, Pâquis."
+            },
+            {
+              "time": "Giorno 2",
+              "title": "Scienza e diplomazia",
+              "description": "Il CERN al mattino (gratuito, con prenotazione), Place des Nations e la Sedia Rotta nel pomeriggio, le case in stile Gaudí di Les Grottes sulla via del ritorno."
+            },
+            {
+              "time": "Giorno 3",
+              "title": "La Jonction e arrivederci",
+              "description": "Passeggia fino all'incontro bicolore del Rodano e dell'Arve, il mercatino delle pulci di Plainpalais a mezzogiorno (mer/sab), un'ultima traversata in Mouettes al tramonto + shopping di cioccolato."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Il Kit di Sopravvivenza da 5 Parole",
+      "intro": "A Ginevra si parla francese, ma alla maniera svizzera: calma, educata e con parole tutte sue.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Buongiorno — la prima parola obbligatoria di ogni scambio"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Grazie — lo sentirete costantemente in Svizzera"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "Per favore — aggiungetelo alla fine del vostro ordine"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "Salute! — i bicchieri di vino bianco si alzano a questo grido"
+        },
+        {
+          "word": "Adieu!",
+          "pronunciation": "ah-DYUH",
+          "meaning": "Il saluto amichevole della Svizzera francese — sia per dire ciao che arrivederci"
+        }
+      ]
+    }
+  }
+}

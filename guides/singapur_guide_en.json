@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Singapore",
+    "country": "Singapore",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#0E8A74",
+    "color_light": "#E4F4F0",
+    "tagline": "Hawker tables, supertrees and three cuisines in a garden city"
+  },
+  "pills": [
+    "A city in a garden",
+    "Hawker culture on the UNESCO list",
+    "Home of the world's best airport"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Welcome to Singapore",
+      "intro": "Singapore is proof of how ambitious a city-state can be: giant supertrees rise between the towers, a waterfall pours inside the airport, and the streets are operating-theatre clean. But beneath the polished surface simmers the real treasure — at the steaming stalls of the hawker centres, Chinese, Malay and Indian cooking have simmered shoulder to shoulder for a century. Step out of the air-conditioned mall and onto a plastic stool: Singapore's heart beats there, over a plate of char kway teow.",
+      "local_word": {
+        "word": "Shiok",
+        "pronunciation": "shee-ok",
+        "definition": "Singlish's best-loved word: 'fantastic, pure pleasure'. It escapes you unbidden after the first spoon of laksa — and if it doesn't, you're at the wrong stall."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "The rules are real, and so are the fines",
+          "description": "Gum sales banned, no eating on the metro, serious fines for littering: this city protects its order with rules. There's tolerance for visitors, but don't test the line — the rules work the same for everyone."
+        },
+        {
+          "number": 2,
+          "title": "Learn the chope culture",
+          "description": "A tissue packet left on a hawker table means 'this seat is taken': the system is called chope, and it is sacred. Chope your own table first, then join the stall queue — that's the local order of operations."
+        },
+        {
+          "number": 3,
+          "title": "Manage your layers between street and aircon",
+          "description": "Outside is 30 degrees and humid all year; inside is icy air-conditioning: light clothes + a thin extra layer is the city uniform. Plan walks for morning and evening, malls and museums for midday."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Airport",
+          "value": "Changi (SIN)",
+          "sub": "MRT to centre ~40 min · the Jewel waterfall inside"
+        },
+        {
+          "icon": "🚇",
+          "label": "Getting around",
+          "value": "MRT + bus",
+          "sub": "Tap straight in with a contactless card"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Language",
+          "value": "English + 3 more official",
+          "sub": "Malay, Mandarin, Tamil"
+        },
+        {
+          "icon": "🌳",
+          "label": "Signature",
+          "value": "Gardens by the Bay",
+          "sub": "The supertrees light up nightly"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "The Singapore philosophy",
+        "text": "In this city the distance between luxury and street is one doorway: leave the Marina Bay rooftop bar and sit on a hawker stool ten minutes later. Fitting both into one evening is the shortest way to understand Singapore."
+      }
+    },
+    "transport": {
+      "title": "Getting Around",
+      "intro": "Singapore's transport is a machine that runs without friction: the MRT goes everywhere, a contactless card opens every gate, and the ride app waits in reserve.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Changi to the centre",
+          "description": "The MRT's green-blue combination reaches the centre in 40 minutes; a taxi takes 25 at a reasonable metered fare. If your flight is early or late, give the Jewel waterfall an hour — this airport is a sight in itself."
+        },
+        {
+          "icon": "🚇",
+          "title": "The MRT — cold, fast, flawless",
+          "description": "The metro web covers the island: tap through with a contactless bank card and the daily cap calculates itself. Take the no-eating rule seriously — and enjoy the air-conditioning."
+        },
+        {
+          "icon": "🚌",
+          "title": "The double-decker buses",
+          "description": "The bus network opens the neighbourhoods the MRT misses: the top-deck front seat is the air-conditioned way to learn the city. The same card works — remember to tap off as well."
+        },
+        {
+          "icon": "🚶",
+          "title": "Walking — a morning and evening affair",
+          "description": "Marina Bay, the river and the neighbourhood cores are walkable, but budget for the humidity. Use the shaded routes and air-conditioned shopping links as corridors — the locals do."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxis and the apps",
+          "description": "Taxis are metered and honest; the apps (Grab) show the fare upfront. Peak and night surcharges are normal — not a surprise, a tariff."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Card tip",
+        "text": "You don't need a separate transit card: your contactless bank card taps straight through on MRT and bus. One rule — use the same card in and out; the system adds up the day and charges the cheapest cap."
+      }
+    },
+    "stay": {
+      "title": "Where to Stay",
+      "intro": "In Singapore choosing a neighbourhood is choosing a theme: the bay skyline, Chinatown's shophouses, Arab Street's colours or Katong's Peranakan façades.",
+      "local_word": {
+        "word": "Kopitiam",
+        "pronunciation": "ko-pee-tyam",
+        "definition": "The traditional coffee shop: the kopi ordering language is a dictionary in itself — kopi-o is black with sugar, kopi-c with evaporated milk, kopi kosong unsweetened. The morning trio of soft eggs + kaya toast + kopi is the national breakfast."
+      },
+      "items": [
+        {
+          "name": "Marina Bay and the Civic District",
+          "badge": "Most iconic",
+          "badge_type": "vibe",
+          "description": "The bay skyline, museums and light shows at your door: Singapore's showcase face. High prices, flawless views and location — the showy base for a first visit.",
+          "tags": [
+            "Bay views",
+            "Museum district",
+            "The light show"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marina+Bay+Singapore"
+        },
+        {
+          "name": "Chinatown and Tanjong Pagar",
+          "badge": "Most delicious",
+          "badge_type": "hot",
+          "description": "Shophouse façades, temples and hawker centres interlocked, with night bars and boutique hotels on the same streets. The natural centre of a food-first visit.",
+          "tags": [
+            "Hawker heaven",
+            "Shophouse fabric",
+            "Night bars"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chinatown+Singapore"
+        },
+        {
+          "name": "Kampong Glam and Arab Street",
+          "badge": "Most colourful",
+          "badge_type": "local",
+          "description": "Fabric shops, cafés and murals around the Sultan Mosque: Haji Lane's boutiques are the young crowd's route. Characterful small hotels — for those after colour and rhythm.",
+          "tags": [
+            "Haji Lane",
+            "Wall art",
+            "Boutique hotels"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kampong+Glam+Singapore"
+        },
+        {
+          "name": "Little India",
+          "badge": "Most vivid",
+          "badge_type": "value",
+          "description": "Spice scent, garland stalls and Mustafa, the 24-hour shopping legend: the friendliest prices in town. Dense, noisy and utterly alive — Singapore unfiltered.",
+          "tags": [
+            "Spice bazaar",
+            "Fair prices",
+            "24-hour life"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Little+India+Singapore"
+        },
+        {
+          "name": "Katong and Joo Chiat",
+          "badge": "Most characterful",
+          "badge_type": "local",
+          "description": "Pastel Peranakan façades, laksa stalls and walking distance to the shore: graceful neighbourhood life off the tourist route. A quarter hour to the centre by MRT.",
+          "tags": [
+            "Peranakan façades",
+            "Laksa territory",
+            "Near the shore"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Katong+Singapore"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "When to Go",
+      "intro": "On the equator there are no seasons, only rhythm: 30 degrees all year, sudden downpours and a festival calendar — plan by the events, not the rain.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Spring",
+          "name": "Festival Spring",
+          "months": "Feb – Apr",
+          "subtitle": "February-April · New Year afterglow, the drier stretch",
+          "description": "The year's relatively dry slice: Chinese New Year colours February, and April passes comfortably for hawker crawls. The humidity is its usual self — the early-morning plan remains the golden rule.",
+          "callout": {
+            "type": "tip",
+            "label": "February tip",
+            "text": "If you're here around Chinese New Year, walk Chinatown's lights and market in the evening; know that some hawker stalls close for the first two festival days — build your plan across neighbourhoods."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Summer",
+          "name": "The Hot Routine",
+          "months": "May – Aug",
+          "subtitle": "May-August · Standard tropics: heat + afternoon downpour",
+          "description": "The equatorial routine runs in full: morning sun, a short violent afternoon shower, a warm evening. June-July's Great Singapore Sale calls the shoppers, July's food festival the flavour hunters.",
+          "callout": {
+            "type": "tip",
+            "label": "Downpour tip",
+            "text": "A rain radar app is Singapore's secret weapon: the downpours usually last 30-60 minutes. When the rain starts, sit in a kopitiam, order kopi, wait — the city was built to this rhythm."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Autumn",
+          "name": "Lights and Race Season",
+          "months": "Sep – Nov",
+          "subtitle": "September-November · The F1 night race, Deepavali lights",
+          "description": "In September the Formula 1 night race pulls the city inside the circuit — hotels peak that week. In October-November Deepavali turns Little India into a sea of light. The rains build with November.",
+          "callout": {
+            "type": "warning",
+            "label": "F1 note",
+            "text": "In race week the Marina roads close and hotel prices multiply: shift the week if you're not watching; if you are, lock tickets and lodging months ahead."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Monsoon and Sparkle",
+          "months": "Dec – Jan",
+          "subtitle": "December-January · The wet stretch, festive lights",
+          "description": "The northeast monsoon brings the wettest slice, but the city is built for it: Orchard Road dresses in lights, and the covered walkways and malls make the rain unfelt. In the rain's pauses the gardens are washed and cool.",
+          "callout": {
+            "type": "tip",
+            "label": "December tip",
+            "text": "The rainy-December evening formula: the Jewel waterfall + the National Gallery + the Marina walkways to the light show — a complete Singapore day with the umbrella barely opened."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "What to Eat",
+      "intro": "Singapore's true monuments are its hawker centres: in these UNESCO-listed open kitchens, the masters of three cultures cook under one roof.",
+      "local_word": {
+        "word": "Makan",
+        "pronunciation": "mah-kahn",
+        "definition": "Malay for 'to eat': in Singlish it is verb, invitation and way of life. 'Makan already?' (have you eaten?) is this city's warm way of asking how you are — and the answer always comes with a stall recommendation."
+      },
+      "items": [
+        {
+          "icon": "🍗",
+          "name": "Hainanese chicken rice — the national plate",
+          "description": "Silken poached chicken, rice cooked in chicken fat, ginger and chilli sauce: simplicity's summit. Every Singaporean has a sworn stall — join the one with the queue.",
+          "tag": "National classic · with the chilli sauce",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maxwell+Food+Centre+Singapore"
+        },
+        {
+          "icon": "🍜",
+          "name": "Laksa and char kway teow",
+          "description": "Coconut-spiced laksa soup and wok-smoky char kway teow noodles: two heavyweights, two different stalls. Katong laksa is eaten with a spoon only — the noodles come pre-cut.",
+          "tag": "Hawker heavyweights · Katong style",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=328+Katong+Laksa"
+        },
+        {
+          "icon": "🦀",
+          "name": "Chilli crab — the shell feast",
+          "description": "Crab in sweet-hot tomato sauce with mantou buns for dunking: Singapore's celebration plate. Eaten by hand, apron on, billed by weight — ask the price first.",
+          "tag": "The feast plate · with mantou",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jumbo+Seafood+Singapore"
+        },
+        {
+          "icon": "🍞",
+          "name": "Kaya toast + soft eggs + kopi",
+          "description": "Toast with coconut kaya jam, half-boiled eggs with soy sauce, and kopi whose ordering language is an art of its own: the kopitiam breakfast's holy trio.",
+          "tag": "Morning ritual · at a kopitiam",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ya+Kun+Kaya+Toast+Singapore"
+        },
+        {
+          "icon": "🍢",
+          "name": "Satay and the night stalls",
+          "description": "Marinated skewers over coals, peanut sauce and cucumber-onion garnish: ordered by the dozen in the evening satay streets. Iced sugarcane juice alongside — the night classic.",
+          "tag": "Evening classic · by the dozen",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lau+Pa+Sat+satay+Singapore"
+        },
+        {
+          "icon": "🥭",
+          "name": "Ais kacang and tropical sweets",
+          "description": "Shaved ice under coloured syrups, red beans and corn: the official cure for tropical heat. Mango sticky rice and the durian courage test play in the same sweet league.",
+          "tag": "The cooling sweet · the brave try durian",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Newton+Food+Centre+Singapore"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "The hawker rule",
+        "text": "Three signs never lie at a hawker centre: a long queue, a stall mastering one single dish, and an old newspaper clipping on the wall. Return your own tray — it's the rule now, with a fine behind it. And don't forget to chope with a tissue packet."
+      }
+    },
+    "hidden_gems": {
+      "title": "Hidden Corners",
+      "intro": "Everyone sees the supertrees; these six are the garden city's hidden layers.",
+      "items": [
+        {
+          "rarity": "A skywalk through the forest",
+          "name": "The Southern Ridges walk",
+          "description": "From the rippling wooden bridge of Henderson Waves onto forest-crest walkways: you cross the city's south at canopy level. Start early — the macaques and birds wake before you.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Henderson+Waves+Singapore"
+        },
+        {
+          "rarity": "A time-capsule island",
+          "name": "Pulau Ubin",
+          "description": "Ten minutes by boat from Changi jetty into 1960s Singapore: village houses, dirt tracks and the Chek Jawa wetlands. Rent a bike — the island is the wild sibling the city-state kept.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pulau+Ubin"
+        },
+        {
+          "rarity": "Nature at first light",
+          "name": "The MacRitchie TreeTop Walk",
+          "description": "The rainforest reserve's suspension bridge crosses above the canopy: monkey families, monitor lizards and silence. The full loop takes three hours — carry water, walk in the morning cool.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=MacRitchie+TreeTop+Walk"
+        },
+        {
+          "rarity": "The neighbourhood classic",
+          "name": "Tiong Bahru",
+          "description": "A market, independent bookshops and one of the city's oldest hawker centres among 1930s art deco blocks: chwee kueh (steamed rice cakes) is the morning classic. An elegance not yet fully on the tourist route.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tiong+Bahru+Market"
+        },
+        {
+          "rarity": "The botanical heart",
+          "name": "The Botanic Gardens at 7 am",
+          "description": "The UNESCO gardens are famous for the orchids, but the real magic is at 7 am: tai chi groups, rain-tree shade and nearly empty paths. Entry free — Singapore's most generous gift.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Singapore+Botanic+Gardens"
+        },
+        {
+          "rarity": "Sunset at the island's end",
+          "name": "Sentosa's quiet end — Tanjong Beach",
+          "description": "Step away from Sentosa's theme-park face: Tanjong beach at the southern tip is nearly empty on weekdays. Palm shade, warm water and a ship-silhouetted sunset — the island's calm face.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tanjong+Beach+Sentosa"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Garden tip",
+        "text": "The Gardens by the Bay conservatories (Cloud Forest + Flower Dome) are the best midday-heat refuge, and the supertree light show (Garden Rhapsody) runs two free sessions each evening. Order accordingly: conservatories at noon, lights at night — a bay walk in between."
+      }
+    },
+    "traps": {
+      "title": "Tourist Traps",
+      "intro": "Singapore plays in honesty's world league; its traps are not scams but price and planning mistakes.",
+      "items": [
+        {
+          "icon": "🍸",
+          "name": "The rooftop bar price shock",
+          "description": "One cocktail at a skyline rooftop costs four hawker meals; add service and tax and the bill multiplies.",
+          "instead": "Plan the rooftop as a one-drink view break and move the rest of the evening to hawkers and neighbourhood bars. Some viewpoints charge entry with a drink voucher — do the maths first."
+        },
+        {
+          "icon": "🎢",
+          "name": "Buying everything at Sentosa",
+          "description": "The island's amusements bought one by one melt a wallet, and the 'all-inclusive' bundles swell with activities you'll never use.",
+          "instead": "Enter Sentosa by the free Boardwalk and cut the plan to two or three picks: the beach is free anyway, and so is the sunset. Buy classics like the luge at the early online price."
+        },
+        {
+          "icon": "🍺",
+          "name": "The alcohol clock and price surprise",
+          "description": "Alcohol tax is high and shop sales stop after 10.30 pm: whoever doesn't know loses both budget and evening.",
+          "instead": "Shop for drinks in daylight and chase the bars' happy hours (usually 5-8 pm). Hawker beer costs half the restaurant price — the stall beer is a legitimate classic."
+        },
+        {
+          "icon": "🛍️",
+          "name": "The 'tax-free electronics' haggle",
+          "description": "In some tourist electronics arcades the game of unlabelled prices, missing receipts and 'today only' discounts still lives.",
+          "instead": "Buy electronics from chain stores and compare prices online. Process the tourist GST refund yourself at the airport with official receipts — no middleman needed."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Golden rule",
+        "text": "Singapore's budget balance is one sentence: eat at hawkers, spend on experiences. What three hawker meals a day save funds a conservatory ticket + one rooftop cocktail + a night safari with ease."
+      }
+    },
+    "itinerary": {
+      "title": "Ready-Made Routes",
+      "intro": "If you hate planning, follow these flows. The times are flexible; keep the spirit, break the order.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "If You Have 1 Day",
+          "subtitle": "A full dose of Singapore, from kopitiam to supertrees",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "A kopitiam breakfast",
+              "description": "Kaya toast + soft eggs + kopi: try the ordering language, and smile if you get it wrong — they'll fix it. Start the day the local way."
+            },
+            {
+              "time": "09:30",
+              "title": "Chinatown and the temples",
+              "description": "Shophouse façades, the Buddha Tooth Relic temple and Sri Mariamman's painted gopuram: three cultures in one quarter."
+            },
+            {
+              "time": "12:00",
+              "title": "The hawker lunch summit",
+              "description": "A chicken rice + laksa tour at Maxwell or a neighbourhood hawker: chope with a tissue packet, pick the queued stall, prepare to say 'shiok'."
+            },
+            {
+              "time": "14:30",
+              "title": "A cool break in the conservatories",
+              "description": "Cloud Forest's indoor waterfall and the Flower Dome: the midday heat's most graceful refuge. A bay walk on the way out."
+            },
+            {
+              "time": "18:30",
+              "title": "The Marina skyline and one cocktail",
+              "description": "A one-drink view break at a rooftop bar: watch the skyline light up over the bay — with one drink, the bill stays elegant."
+            },
+            {
+              "time": "19:45",
+              "title": "Garden Rhapsody + a night makan tour",
+              "description": "Watch the supertrees' free light show from the ground; then a dozen skewers + sugarcane juice on a satay street: the night closes with makan."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "If You Have 3 Days",
+          "subtitle": "City, neighbourhoods and the wild side",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Classic Singapore",
+              "description": "The one-day flow above: kopitiam, Chinatown, hawker, conservatories, light show."
+            },
+            {
+              "time": "Day 2",
+              "title": "The neighbourhood tour",
+              "description": "Kampong Glam in the morning (Sultan Mosque + Haji Lane), a banana-leaf thali in Little India at noon; Katong's Peranakan façades + laksa in the afternoon; riverside dinner and the Civic District lights at night."
+            },
+            {
+              "time": "Day 3",
+              "title": "Green and wild Singapore",
+              "description": "The MacRitchie treetop walk or a Pulau Ubin bike morning; the Botanic Gardens + a Tiong Bahru pause in the afternoon; the Night Safari or a Tanjong Beach sunset in the evening — let the farewell be tropical."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Word Survival Kit",
+      "intro": "English is official in Singapore, but Singlish is the city's real music: these five suit both your ear and your tongue.",
+      "items": [
+        {
+          "word": "Lah",
+          "pronunciation": "lah",
+          "meaning": "The sentence-ending emphasis: 'Can lah!' (of course it works!) — Singlish's signature"
+        },
+        {
+          "word": "Shiok!",
+          "pronunciation": "shee-ok",
+          "meaning": "'Fantastic, pure pleasure' — arrives unbidden after the first spoon of laksa"
+        },
+        {
+          "word": "Makan",
+          "pronunciation": "mah-kahn",
+          "meaning": "Food / to eat — 'go makan?' is this city's warmest invitation"
+        },
+        {
+          "word": "Chope",
+          "pronunciation": "chohp",
+          "meaning": "To reserve a table with a tissue packet — the hawker order's sacred verb"
+        },
+        {
+          "word": "Can!",
+          "pronunciation": "kan",
+          "meaning": "'Sure, it works!' — Singaporean practicality in one word; 'can can' is even more positive"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Singapore Checklist",
+      "completion_message": "Shiok lah! You've done the garden city properly!",
+      "items": [
+        {
+          "label": "Chope a table at a hawker centre",
+          "sub": "Tissue packet down — then join the queue"
+        },
+        {
+          "label": "Find your sworn chicken rice stall",
+          "sub": "A long queue means the right one"
+        },
+        {
+          "label": "Crack the kopi ordering language",
+          "sub": "Kopi-o, kopi-c, kopi kosong"
+        },
+        {
+          "label": "Watch the supertree light show",
+          "sub": "Garden Rhapsody — two free evening sessions"
+        },
+        {
+          "label": "Cool off at the Cloud Forest waterfall",
+          "sub": "An indoor cool world — at midday heat"
+        },
+        {
+          "label": "Mop up chilli crab with mantou",
+          "sub": "Apron on, price asked first"
+        },
+        {
+          "label": "Do three quarters in one day",
+          "sub": "Chinatown + Little India + Kampong Glam"
+        },
+        {
+          "label": "Cross the treetop bridge",
+          "sub": "MacRitchie — in the morning cool"
+        },
+        {
+          "label": "Pedal into the 1960s on Pulau Ubin",
+          "sub": "Ten minutes by boat, fifty years back"
+        },
+        {
+          "label": "Stand under the Jewel waterfall",
+          "sub": "At the airport — before or after the flight"
+        }
+      ]
+    }
+  }
+}

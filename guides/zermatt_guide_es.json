@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Zermatt",
+    "country": "Switzerland",
+    "language": "en",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#4E5A6E",
+    "color_light": "#ECEFF3",
+    "tagline": "Un pueblo sin coches, trenes glaciares y la sombra del Matterhorn."
+  },
+  "pills": [
+    "No se permiten coches de gasolina",
+    "El Matterhorn: el pico más famoso del mundo",
+    "El ferrocarril al aire libre más alto de Europa"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenido a Zermatt",
+      "intro": "Zermatt es una devoción construida alrededor de una única montaña: la pirámide torcida del Matterhorn se alza al final de cada calle, frente a cada balcón, en la esquina de cada foto. Los coches de gasolina no pueden entrar en el pueblo; los mini-taxis eléctricos zumban al pasar, los esquiadores caminan desde la estación de tren hasta las pistas, y los graneros de madera ennegrecida de siglos de antigüedad se mezclan con los hoteles boutique. En invierno es una de las regiones de esquí más altas del mundo; en verano, un paraíso de senderos. En el momento en que la cima se despeja de nubes, todas las cabezas del pueblo giran en la misma dirección, y la tuya también lo hará.",
+      "local_word": {
+        "word": "Horu",
+        "pronunciation": "ho-roo",
+        "definition": "El nombre del Matterhorn en el dialecto local del Valais: los habitantes llaman a su montaña 'ds Horu' — 'el Cuerno'. La pregunta de un zermatter '¿está el Horu despejado?' es el boletín meteorológico nacional que marca el plan del día."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Programa la hora de la cima para la mañana",
+          "description": "El Matterhorn a menudo se cubre con su gorro de nubes por la tarde: las probabilidades de una vista despejada son mayores por la mañana. Programa Gornergrat y los planes de fotos temprano; deja la tarde para el pueblo y el valle."
+        },
+        {
+          "number": 2,
+          "title": "Respeta la altitud, confía en las capas",
+          "description": "El pueblo se encuentra a 1.600 metros, las estaciones de la cima entre 3.000 y 3.900: la altitud se siente y el tiempo cambia en minutos. Sube despacio, bebe agua, nunca olvides la crema solar; el sol de montaña quema el doble al reflejarse en la nieve."
+        },
+        {
+          "number": 3,
+          "title": "Deja el coche en Täsch",
+          "description": "Los coches privados no pueden entrar en Zermatt: los conductores aparcan en la terminal de Täsch y toman el tren lanzadera de 12 minutos. Los carros de equipaje se suben directamente al tren; el sistema funciona a la perfección, no intentes ir en contra."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚆",
+          "label": "Cómo llegar",
+          "value": "Tren lanzadera desde Täsch",
+          "sub": "Pueblo sin coches · ~1 h desde Visp"
+        },
+        {
+          "icon": "🚡",
+          "label": "En el pueblo",
+          "value": "A pie + e-taxi",
+          "sub": "Minibuses eléctricos y calles peatonales"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Idioma",
+          "value": "Alemán (dialecto del Valais)",
+          "sub": "El inglés funciona en todas partes"
+        },
+        {
+          "icon": "🏔️",
+          "label": "Sello distintivo",
+          "value": "El Matterhorn (4.478 m)",
+          "sub": "El tren de Gornergrat es el mejor palco"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La filosofía de Zermatt",
+        "text": "En este pueblo, los planes los marca el Horu: si la cima está despejada, déjalo todo y sube; si está oculta, es hora de museo, spa y fondue. El calendario de la montaña prevalece sobre el tuyo; acéptalo y relájate."
+      }
+    },
+    "transport": {
+      "title": "Por el Pueblo y la Montaña",
+      "intro": "El transporte en Zermatt es tridimensional: calles a pie, valles en tren, cumbres en teleférico — todo funciona con la precisión de un reloj.",
+      "items": [
+        {
+          "icon": "🚆",
+          "title": "Cómo llegar — vía Visp y Täsch",
+          "description": "La línea principal conecta en Visp con el ferrocarril de montaña; los conductores aparcan en la terminal de Täsch y suben al transbordador de 12 minutos. Desde la dirección Ginebra-Zúrich, todo el trayecto recompensa con paisajes espectaculares."
+        },
+        {
+          "icon": "🚞",
+          "title": "El ferrocarril de Gornergrat — un palco al aire libre",
+          "description": "El tren cremallera, en funcionamiento desde 1898, asciende desde el pueblo hasta los 3.089 metros: siéntate a la derecha y el Matterhorn llenará la ventanilla durante todo el trayecto. En la cima, te esperan un anfiteatro glaciar y 29 'cuatromiles'."
+        },
+        {
+          "icon": "🚡",
+          "title": "La cadena Matterhorn Glacier Paradise",
+          "description": "La cadena de teleféricos asciende hasta la estación de teleférico más alta de Europa (3.883 m): un palacio glaciar, esquí de verano y vistas a Italia. Los suelos de cristal de las cabinas Crystal Ride son un extra para los valientes."
+        },
+        {
+          "icon": "🚶",
+          "title": "El pueblo a pie + e-taxi",
+          "description": "La calle principal (Bahnhofstrasse) se recorre de punta a punta en diez minutos; los hoteles transportan a los huéspedes en minibuses eléctricos. Escucha el silencio — en lugar de motores, oirás cascos y el murmullo del arroyo."
+        },
+        {
+          "icon": "🥾",
+          "title": "Senderos y caminos invernales",
+          "description": "400 km de senderos de verano y caminos invernales acondicionados: el funicular de Sunnegga es la puerta a la ruta de los cinco lagos, el teleférico de Furi a la garganta glaciar. La señalización de los senderos es impecable, con el estándar suizo."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo de tren",
+        "text": "Toma el primer tren hasta Gornergrat y baja un tramo a pie, apeándote en Riffelberg o Rotenboden: los senderos que descienden junto a la vía ofrecen el doble de vistas por el precio del billete. El descenso Rotenboden-Riffelsee es la ruta oficial para la foto del reflejo."
+      }
+    },
+    "stay": {
+      "title": "Dónde Alojarse",
+      "intro": "En Zermatt la pregunta es una cuestión de balcón: ¿una fachada frente al Horu, el sonido del arroyo o al borde de la pista?",
+      "local_word": {
+        "word": "Gädi",
+        "pronunciation": "gay-dee",
+        "definition": "Los graneros de madera ennegrecida del Valais: estructuras centenarias que se alzan sobre discos de piedra para mantener alejados a los ratones. Todavía se alinean en hileras a lo largo del callejón Hinterdorf; el estudio de fotografía más antiguo del pueblo está justo allí."
+      },
+      "items": [
+        {
+          "name": "Bahnhofstrasse y el centro",
+          "badge": "Lo más práctico",
+          "badge_type": "vibe",
+          "description": "En y alrededor de la calle principal: a poca distancia de la estación, los remontes y los restaurantes. Animado en temporada de esquí, con banda sonora de après-ski incluida; la ubicación lo hace todo fácil.",
+          "tags": [
+            "Cerca de la estación",
+            "Variedad de restaurantes",
+            "Animado en temporada"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bahnhofstrasse+Zermatt"
+        },
+        {
+          "name": "Alrededor del Hinterdorf",
+          "badge": "Con más encanto",
+          "badge_type": "local",
+          "description": "El barrio de los graneros de madera centenarios: el tejido del viejo Zermatt, tejados de piedra y callejones silenciosos. A dos minutos del centro, dos siglos atrás en atmósfera, para despertar dentro de la historia.",
+          "tags": [
+            "Graneros históricos",
+            "Callejones silenciosos",
+            "A dos minutos del centro"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hinterdorf+Zermatt"
+        },
+        {
+          "name": "La ladera del Matterhorn — balcones al sur",
+          "badge": "Las mejores vistas",
+          "badge_type": "hot",
+          "description": "Hoteles y chalets con balcones frente al Horu: abre las cortinas y el pico se alza frente a tu cama. El precio se multiplica con la vista; la mayoría de la gente viene a Zermatt una vez y se queda aquí.",
+          "tags": [
+            "Vistas al pico",
+            "Desayunos en el balcón",
+            "Precios elevados"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zermatt+Matterhorn+view+hotel"
+        },
+        {
+          "name": "Winkelmatten",
+          "badge": "El más tranquilo",
+          "badge_type": "value",
+          "description": "El barrio alto del pueblo: callejones de chalets, pensiones familiares y atajos a las pistas. A cinco o diez minutos a pie del centro, para quienes buscan el equilibrio entre calma y esquí.",
+          "tags": [
+            "Barrio de chalets",
+            "Cerca de las pistas",
+            "Pensiones familiares"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Winkelmatten+Zermatt"
+        },
+        {
+          "name": "Täsch",
+          "badge": "La base económica",
+          "badge_type": "value",
+          "description": "El pueblo terminal valle abajo: precios notablemente más amigables, Zermatt a 12 minutos en tren lanzadera. La elección sensata para conductores y para quienes ahorran el presupuesto para los billetes de montaña.",
+          "tags": [
+            "Precios justos",
+            "Aparcamiento de coches",
+            "El tren lanzadera"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Täsch"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Cuándo Ir",
+      "intro": "Zermatt es un escenario de dos estaciones: una catedral del esquí en invierno, un paraíso de senderos en verano; los periodos intermedios son tranquilos, pero la cima nunca desaparece.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Primavera",
+          "name": "Nieve de Primavera y Temporada Baja",
+          "months": "Abr – Jun",
+          "subtitle": "Primavera · Esquí en lo alto, primeros verdes abajo",
+          "description": "La nieve de primavera se esquía en las pistas altas hasta finales de abril; mayo-junio es la temporada de respiro — algunos remontes cierran por mantenimiento, los precios se suavizan y los senderos más bajos se abren.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de junio",
+            "text": "Ven en junio: los prados en flor, los arroyos ruidosos con el deshielo, el pueblo en calma. Los senderos altos pueden tener parches de nieve — elige rutas según el informe de apertura; la oficina de turismo lo mantiene actualizado."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Verano",
+          "name": "Temporada Alta de Senderismo",
+          "months": "Jul – Aug",
+          "subtitle": "Verano · 400 km de senderos, reflejos en el lago",
+          "description": "El corazón de la temporada de senderismo: la ruta de los cinco lagos, las gargantas glaciares y las estaciones de cumbre más altas de Europa funcionan a pleno rendimiento. Las mañanas son claras, las tardes acumulan nubes — el madrugador gana.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de julio",
+            "text": "Toma el primer tren hacia Riffelsee: antes de que se levante el viento, el reflejo del Matterhorn permanece inmóvil en el lago. Después de las 10, el viento y las multitudes lo estropean — el turno para esta fotografía es a las 8 de la mañana."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Otoño",
+          "name": "Los Alerces Dorados",
+          "months": "Sep – Oct",
+          "subtitle": "Otoño · Bosques de alerces amarillos, cumbres de cristal",
+          "description": "Septiembre-octubre es la obra maestra oculta de Zermatt: los bosques de alerces se tiñen de oro, el aire se vuelve cristalino, los senderos se vacían. La primera nieve empolva las cumbres — la temporada más generosa para la fotografía.",
+          "callout": {
+            "type": "tip",
+            "label": "Consejo de octubre",
+            "text": "A principios de octubre, recorre la línea Sunnegga-Findeln: alerces dorados, chalets ennegrecidos y el nevado Horu en un solo encuadre. Los restaurantes de montaña de Findeln disfrutan de la calma de fin de temporada — mesas con vistas, reservas fáciles."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Invierno",
+          "name": "La Catedral del Esquí",
+          "months": "Nov – Mar",
+          "subtitle": "Invierno · 360 km de pistas, esquí hasta Italia, après-ski",
+          "description": "La vasta zona de esquí de tres sectores se conecta con Cervinia en Italia: la altitud garantiza nieve y la temporada es larga. El pueblo brilla y los precios alcanzan su máximo — Año Nuevo y las semanas escolares de febrero se agotan con meses de antelación.",
+          "callout": {
+            "type": "warning",
+            "label": "Nota de temporada",
+            "text": "Reserva tus vacaciones de invierno con antelación: Año Nuevo y las vacaciones de febrero se llenan con meses de antelación. Nunca salgas de pista sin un guía — las reglas de la zona glaciar son estrictas, y sus razones son serias."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "¿Qué Comer?",
+      "intro": "La cocina del Valais es la cocina de la montaña: queso fundido, carne seca al aire, pan de centeno y el vino de los viñedos más altos de Europa.",
+      "local_word": {
+        "word": "Cólera",
+        "pronunciation": "ko-leh-ra",
+        "definition": "La tarta del Valais cuyo nombre asusta y cuyo sabor encanta: patata, puerro, manzana y queso en una sola masa. Recibe su nombre de los días de epidemia, cuando se preparaba con lo que había en casa — la necesidad más deliciosa de la historia."
+      },
+      "items": [
+        {
+          "icon": "🧀",
+          "name": "Raclette du Valais — en su tierra natal",
+          "description": "Estás en la madre patria de la raclette: la cara de la rueda se funde al fuego, se raspa sobre patatas y se equilibra con pepinillos. En los restaurantes del pueblo, la marca 'AOP Valais' es el sello de la auténtica.",
+          "tag": "En su tierra natal · con sello AOP",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Walliserkanne+Zermatt"
+        },
+        {
+          "icon": "🫕",
+          "name": "Fondue — el caldero tras la pista",
+          "description": "El cierre oficial de un día frío de pista: la olla en el centro, pan en el tenedor, vino blanco al lado. Quien deje caer el pan en la olla tendrá su penitencia decidida en la mesa — la tradición es seria.",
+          "tag": "Tras la pista · olla al centro",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Whymper-Stube+Zermatt"
+        },
+        {
+          "icon": "🥩",
+          "name": "Walliserteller — la tabla de carne seca",
+          "description": "Carne de vacuno secada al aire de la montaña, jamón ahumado, queso alpino y pan de centeno: el orgullo de la charcutería del Valais en un solo plato. El entrante clásico con una copa de Fendant.",
+          "tag": "El entrante clásico · con Fendant",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Schäferstube+Zermatt"
+        },
+        {
+          "icon": "🥧",
+          "name": "La tarta Cólera",
+          "description": "El cuarteto de patata, puerro, manzana y queso en forma de tarta: se encuentra en refugios de montaña y panaderías de pueblo. No te dejes engañar por el extraño nombre — su equilibrio agridulce es sorprendentemente delicioso.",
+          "tag": "Herencia del Valais · pruébala en un refugio",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bäckerei+Fuchs+Zermatt"
+        },
+        {
+          "icon": "🍷",
+          "name": "Vino de los viñedos altos — Heida",
+          "description": "El blanco Heida de los viñedos más altos de Europa (Visperterminen, 1.150 m) y el Fendant del Valais: las copas locales de la mesa de montaña. Aquí 'vino de montaña' no es marketing — es geografía.",
+          "tag": "La copa local · de las cepas altas",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Visperterminen+Heida+wine"
+        },
+        {
+          "icon": "🫖",
+          "name": "La parada en el refugio de montaña",
+          "description": "Rösti, tarta casera y chocolate caliente con vistas en los refugios junto al sendero (hacia Findeln y Zum See): la mejor dirección para almorzar en Zermatt suele estar a 2.100 metros. Reservar una terraza soleada es esencial en temporada.",
+          "tag": "En el sendero · en una terraza soleada",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chez+Vrony+Findeln"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo para el presupuesto",
+        "text": "Los precios de Zermatt compiten con su altitud: encuentra el equilibrio con un sándwich de panadería + un pícnic de supermercado + un buen trío para cenar. Los autoservicios de las estaciones de montaña también son notablemente más amables que los restaurantes — misma vista, diferente cuenta."
+      }
+    },
+    "hidden_gems": {
+      "title": "Rincones Escondidos",
+      "intro": "Todo el mundo conoce el Gornergrat; estos seis son los rincones más tranquilos y auténticos de Zermatt.",
+      "items": [
+        {
+          "rarity": "La mañana del lago espejo",
+          "name": "El reflejo del Riffelsee",
+          "description": "A cinco minutos de la estación de Rotenboden: en una mañana sin viento, el Matterhorn encuentra su gemelo en el lago. Aquí es donde los fotógrafos esperan el amanecer; únete a ellos en el primer tren y luego baja caminando hasta Riffelberg.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Riffelsee+Zermatt"
+        },
+        {
+          "rarity": "El siglo XVI dentro del pueblo",
+          "name": "El callejón Hinterdorf",
+          "description": "A dos pasos de la calle principal, graneros ennegrecidos y hórreos de piedra: la esencia pre-turística del pueblo se congela aquí. Cuando las linternas se encienden al anochecer, el callejón se convierte en una máquina del tiempo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hinterdorf+Zermatt"
+        },
+        {
+          "rarity": "La memoria del precio de la montaña",
+          "name": "El Cementerio de los Alpinistas",
+          "description": "En el cementerio de la iglesia descansan los escaladores que dieron sus vidas al Matterhorn y a los picos circundantes, entre ellos, rastros del desastre de la primera ascensión en 1865. El rincón más tranquilo y profundo del pueblo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mountaineers+Cemetery+Zermatt"
+        },
+        {
+          "rarity": "Un corredor esculpido por el glaciar",
+          "name": "La Garganta de Gorner (Gornerschlucht)",
+          "description": "El cañón de agua glaciar al borde del pueblo: pasarelas de madera cuelgan sobre aguas turquesas. El recorrido de media hora es el mejor plan B para una tarde nublada.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gorner+Gorge+Zermatt"
+        },
+        {
+          "rarity": "Almuerzo entre los chalets",
+          "name": "La aldea de Findeln",
+          "description": "La antigua aldea alpina en el camino de bajada desde Sunnegga: chalets ennegrecidos, alerces dorados y restaurantes de montaña frente al Horu. Esquiadores en invierno y excursionistas en verano se encuentran en las mismas terrazas.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Findeln+Zermatt"
+        },
+        {
+          "rarity": "Las estrellas menores de los cinco lagos",
+          "name": "Los lagos más tranquilos del 5-Seenweg",
+          "description": "Stellisee es la estrella de la ruta de los cinco lagos, pero el marco de alerces de Grindjisee y el embarcadero de Leisee escapan a la mayoría de los visitantes: completa la ruta, cada lago ofrece un retrato diferente del Horu.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=5-Seenweg+Zermatt"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Consejo para el atardecer",
+        "text": "Con la luz del atardecer, sube desde el pueblo, hacia el puente de la iglesia o hacia Winkelmatten: el resplandor rosado llamado 'alpenglow' ilumina primero la punta del Horu y luego toda la pared. Dura cinco minutos y permanece toda la vida."
+      }
+    },
+    "traps": {
+      "title": "Trampas para turistas",
+      "intro": "Zermatt es un lugar honesto, pero los juegos de precios y expectativas del turismo de montaña también se aplican aquí.",
+      "items": [
+        {
+          "icon": "🌫️",
+          "name": "Malograr un billete de cumbre entre las nubes",
+          "description": "Los billetes de teleférico son caros; en una cumbre cubierta de nubes no hay nada que ver más allá del palacio de hielo.",
+          "instead": "Consulta las webcams por la mañana (se ven en todas las pantallas del pueblo): si el Horu está oculto, cambia el día por una visita a la garganta, un museo, un spa y una fondue. El billete no se escapará, pero las nubes sí."
+        },
+        {
+          "icon": "🎿",
+          "name": "Alquilar equipo sin un plan",
+          "description": "Quien busca equipo de esquí a última hora en plena temporada paga el precio de lo que queda y por las tallas que quedan.",
+          "instead": "Reserva el equipo online con antelación y pregunta por el descuento para varios días. Si eres senderista, no escatimes en bastones y botas: los senderos son pedregosos y las rodillas solo las tienes una vez."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Comer siempre en los restaurantes de la calle principal",
+          "description": "Los restaurantes de escaparate de la Bahnhofstrasse funcionan a ritmo de turista: precios altos, la cocina a veces normalita.",
+          "instead": "Gira una calle más allá, o come en una cabaña de montaña: el mismo presupuesto te da vistas y buena cocina. Para cenar, pregunta a un lugareño su dirección favorita para la raclette."
+        },
+        {
+          "icon": "🥾",
+          "name": "Subestimar la altitud",
+          "description": "Quien llega del nivel del mar y sube a 3.800 metros el primer día se encuentra con dolor de cabeza y falta de aliento; quien abandona la ruta marcada en la zona glaciar corre un riesgo grave.",
+          "instead": "Pasa el primer día en el pueblo y a altitudes medias, sube gradualmente, bebe mucha agua. Nunca abandones la línea marcada en la zona glaciar: esas marcas no son decoración, son tu seguro."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Regla de oro",
+        "text": "En Zermatt, el error más caro es la prisa y la mejor inversión, la paciencia: guarda la cumbre para un día despejado y el gran gasto para una elección planificada. El Horu lleva cuatro mil años en pie, puede esperar tus dos horas de flexibilidad."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Preparadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden. (Versión de verano — en invierno la pista reemplaza al sendero.)",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "Un día Horu, del reflejo al resplandor alpino",
+          "steps": [
+            {
+              "time": "07:00",
+              "title": "Primer tren al Gornergrat",
+              "description": "Siéntate en la ventanilla derecha: el Horu te acompañará todo el camino. En la cima, el anfiteatro glaciar y 29 cuatromiles — desayuno en la terraza."
+            },
+            {
+              "time": "09:00",
+              "title": "El reflejo del Riffelsee",
+              "description": "Baja en Rotenboden y a cinco minutos del lago: haz la foto del espejo antes de que suba el viento, luego camina por el sendero hasta Riffelberg."
+            },
+            {
+              "time": "12:30",
+              "title": "Un almuerzo en una cabaña en Findeln",
+              "description": "Cruza al lado de Sunnegga; rösti + Heida en la terraza de un chalet de Findeln: la vista está en el menú."
+            },
+            {
+              "time": "15:00",
+              "title": "Leisee y el descenso",
+              "description": "Un baño valiente o una pausa en el embarcadero del Leisee; desciende en funicular o por el sendero y pasa por el callejón de los graneros de Hinterdorf."
+            },
+            {
+              "time": "18:00",
+              "title": "La observación del resplandor alpino",
+              "description": "Toma tu lugar en el puente de la iglesia: observa el resplandor rosado del Horu — los cinco minutos más tranquilos del pueblo."
+            },
+            {
+              "time": "19:30",
+              "title": "El cierre con fondue",
+              "description": "Olla en el centro, Fendant al lado: el día se sella al estilo valesano. No dejes caer el pan — la penalización se discute en la mesa."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Cumbres, lagos y glaciar — la dosis completa del Horu",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Zermatt Clásico",
+              "description": "El itinerario de un día anterior: Gornergrat, Riffelsee, Findeln, resplandor alpino, fondue."
+            },
+            {
+              "time": "Day 2",
+              "title": "El mundo glaciar",
+              "description": "La cadena de teleféricos al Matterhorn Glacier Paradise: el palacio de hielo, la terraza a 3.883 m y la vista a Italia; una pausa en Furi + las pasarelas del Gorner Gorge al bajar; raclette por la noche y un momento de tranquilidad en el cementerio de los montañistas."
+            },
+            {
+              "time": "Day 3",
+              "title": "Cinco lagos y despedida",
+              "description": "Completa el 5-Seenweg: del Stellisee al Leisee, cada lago un retrato diferente del Horu; almuerzo en una cabaña, una hora de spa o un paseo por la Bahnhofstrasse por la tarde; una noche de despedida con pastel de Cólera + un último resplandor alpino."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de supervivencia de 5 palabras",
+      "intro": "El dialecto del Valais es tan sólido como sus montañas; estas cinco palabras te abrirán puertas tanto en el sendero como en el refugio.",
+      "items": [
+        {
+          "word": "Grüezi / Grüessech",
+          "pronunciation": "grew-tsee / grew-es-sekh",
+          "meaning": "Hola — todo el que se cruza en un sendero saluda; es prácticamente una ley."
+        },
+        {
+          "word": "Merci vilmal",
+          "pronunciation": "mer-see feel-mahl",
+          "meaning": "Muchas gracias — también funciona en la terraza del refugio."
+        },
+        {
+          "word": "En Guete!",
+          "pronunciation": "en goo-eh-teh",
+          "meaning": "¡Que aproveche! — se dice cuando se abre la olla de la fondue."
+        },
+        {
+          "word": "Proscht!",
+          "pronunciation": "prosht",
+          "meaning": "¡Salud! — contacto visual mientras se alza el Fendant."
+        },
+        {
+          "word": "Ds Horu",
+          "pronunciation": "ds ho-roo",
+          "meaning": "'El Cuerno' — el nombre local del Matterhorn; úsalo y los lugareños sonreirán."
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Lista de Zermatt",
+      "completion_message": "¡Proscht! ¡Has vivido la sombra del Horu como se debe!",
+      "items": [
+        {
+          "label": "Toma el primer tren al Gornergrat",
+          "sub": "Ventana de la derecha: el Horu durante todo el trayecto"
+        },
+        {
+          "label": "Captura el reflejo en el Riffelsee",
+          "sub": "Una mañana sin viento: el cambio es a las 8 de la mañana"
+        },
+        {
+          "label": "Contempla el resplandor alpino rosado",
+          "sub": "Desde el puente de la iglesia al atardecer"
+        },
+        {
+          "label": "Pasea entre los graneros de Hinterdorf",
+          "sub": "El siglo XVI, a dos pasos"
+        },
+        {
+          "label": "Raspa raclette en su lugar de origen",
+          "sub": "Con el sello AOP Valais"
+        },
+        {
+          "label": "Moja pan en la olla de fondue",
+          "sub": "No lo dejes caer: la prenda es ley de mesa"
+        },
+        {
+          "label": "Alcanza los 3.883 m en el palacio de hielo",
+          "sub": "Glacier Paradise: el más alto de Europa"
+        },
+        {
+          "label": "Completa la ruta de los cinco lagos",
+          "sub": "Cada lago, un retrato diferente del Horu"
+        },
+        {
+          "label": "Permanece en silencio en el cementerio de los alpinistas",
+          "sub": "La memoria del precio de la montaña"
+        },
+        {
+          "label": "Bebe Heida en la terraza de una cabaña",
+          "sub": "De los viñedos más altos de Europa"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "city": "Marseille",
+    "country": "France",
+    "language": "en",
+    "version": "2.1",
+    "color_primary": "#1A4B8C",
+    "color_light": "#E8EEF8",
+    "tagline": "La ciudad más antigua de Francia y la más incomprendida.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Ir al mercado de pescado antes de las 10:00",
+    "La terraza del MuCEM es gratuita",
+    "Comer bouillabaisse una vez, correctamente"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Marsella tiene 2.600 años, fue fundada por marineros griegos y ha pasado la mayor parte de su historia siendo subestimada. París la mira por encima del hombro. Los turistas la ignoran. A los marselleses no les importa. El Vieux-Port ha sido el corazón palpitante de la ciudad desde que los griegos llegaron alrededor del 600 a.C. Las Calanques son algunas de las costas más espectaculares de Europa. El mercado de pescado funciona cada mañana, con pescadores vendiendo desde los mismos barcos, de la misma manera. El MuCEM es uno de los museos mejor diseñados del continente. Nada de esto es un secreto. El secreto es que la ciudad funciona: ruidosa, orgullosa y completamente auténtica.",
+      "local_word": {
+        "pronunciation": "la bon MAIR",
+        "definition": "Así es como cada marsellés llama a Notre-Dame de la Garde, la basílica que vigila la ciudad desde la colina más alta. Los barcos que salían del puerto la miraban. Los barcos que regresaban la miraban. Está en cada exvoto de marinero colgado en su interior. 'La Bonne Mère' significa 'la buena madre'. El nombre lo dice todo sobre cómo esta ciudad se relaciona con el mar y con la fe. Entrada gratuita. Ve al atardecer.",
+        "word": "La Bonne Mère"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "El mercado de pescado termina a las 10:00",
+          "description": "Cada mañana, los pescadores venden la pesca de la noche directamente desde sus barcos a lo largo del Quai des Belges en el Vieux-Port. Este es uno de los últimos mercados de este tipo en Europa: sin intermediarios, sin mayoristas. A las 10:00 ya ha terminado. A las 11:00 el muelle está vacío. Ve a las 08:00, antes de que lleguen los restaurantes a comprar. Es gratis pasear. No hay nada que comprar a menos que tengas cocina."
+        },
+        {
+          "number": 2,
+          "title": "La bullabesa tiene una carta — y eso importa",
+          "description": "La auténtica bullabesa utiliza pescados de roca mediterráneos específicos —rascasse, grondin, Saint-Pierre— y sigue la Carta de la Bullabesa que firman los restaurantes de Marsella. Es cara, se sirve en dos platos y lleva horas. La versión de menú turístico de 20 € es un plato diferente. Pruébala una vez, en un restaurante que haya firmado la carta, y entenderás por qué tanto revuelo. Aquí es donde se inventó."
+        },
+        {
+          "number": 3,
+          "title": "Marsella no es una ciudad para ir con prisas",
+          "description": "Las Calanques requieren planificación: en verano, el acceso a algunas calas está restringido debido al riesgo de incendios y debe reservarse online. El MuCEM tiene colas al mediodía; ve temprano o tarde. Notre-Dame de la Garde está a 30 minutos a pie cuesta arriba desde el puerto, o puedes tomar el autobús 60 desde el Hôtel de Ville. Le Panier es mejor antes de las 11:00, antes de que lleguen los excursionistas. Date al menos tres días."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aeropuerto",
+          "value": "MRS — Marseille Provence Airport",
+          "sub": "Autobús lanzadera → estación Saint-Charles, ~25 min"
+        },
+        {
+          "icon": "🚌",
+          "label": "Transporte",
+          "value": "Metro + bus + tram (RTM)",
+          "sub": "Billete sencillo 1,70 € · Abono 24h 5,20 € · Le Vélo primeros 30 min gratis"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Clima",
+          "value": "300 days of sun per year",
+          "sub": "May–Jun ideal · Jul–Ago caluroso y concurrido · Sep–Oct perfecto · invierno suave"
+        },
+        {
+          "icon": "🐟",
+          "label": "Mercado de pescado",
+          "value": "Daily, Quai des Belges, Vieux-Port",
+          "sub": "Pescadores venden directo desde los barcos · termina a las 10:00 · visita gratuita"
+        }
+      ],
+      "tip": {
+        "label": "Acceso gratuito — MuCEM sin entrada",
+        "text": "Las galerías del MuCEM son de pago, pero los pasillos exteriores, la terraza de la azotea y el Fort Saint-Jean contiguo son completamente gratuitos. La pasarela que conecta el MuCEM con el Fort Saint-Jean no cuesta nada. El propio Fort Saint-Jean —una fortaleza del siglo XVII con jardines y murallas con vistas al Vieux-Port— es gratuito. La terraza del MuCEM ofrece algunas de las mejores vistas del puerto y el mar de la ciudad. Primer domingo de cada mes: las galerías del museo también son gratuitas.",
+        "type": "tip"
+      },
+      "title": "Bienvenido a Marsella"
+    },
+    "transport": {
+      "intro": "Marsella es una ciudad grande y con muchas colinas. El centro se puede recorrer a pie. Las Calanques, las playas y los barrios exteriores requieren autobús. La red RTM lo cubre todo, úsala.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aeropuerto → Centro de la ciudad",
+          "description": "El autobús lanzadera Navette Marseille conecta el aeropuerto con la estación de tren Saint-Charles cada 15-20 minutos, el trayecto dura unos 25 minutos y se paga a bordo. Desde Saint-Charles, el metro y el tranvía conectan con el resto de la ciudad. Los taxis funcionan con taxímetro y son significativamente más caros."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro — dos líneas, bien ubicadas",
+          "description": "La Línea 1 recorre el centro de este a oeste: Vieux-Port, Noailles, Castellane. La Línea 2 va de norte a sur: Saint-Charles, Joliette (para el MuCEM), Rond-Point du Prado. Billete sencillo 1,70 €, válido 60 minutos en todos los transportes RTM. Abono de 24 horas 5,20 €. Cómpralos en las máquinas de cada estación."
+        },
+        {
+          "icon": "🚌",
+          "title": "Autobuses — esenciales para la costa",
+          "description": "Autobús 60 a Notre-Dame de la Garde desde el Hôtel de Ville. Autobús 83 a lo largo de la Corniche — Vallon des Auffes, playas del Prado, Malmousque. Autobús B1 desde el metro Castellane hasta la calanque de Sormiou. Mismo billete RTM que el metro. La ruta costera del autobús 83 es uno de los mejores trayectos en autobús urbano de Francia."
+        },
+        {
+          "icon": "🚲",
+          "title": "Le Vélo — bicicletas por el centro",
+          "description": "Más de 100 estaciones, 1.000 bicicletas. Los primeros 30 minutos gratis con una suscripción. Bastante llano en el centro; las colinas comienzan inmediatamente al salir de la zona del puerto. Útil para ir del Vieux-Port a Le Panier, Cours Julien, o a lo largo del paseo marítimo hasta el MuCEM."
+        },
+        {
+          "icon": "🚶",
+          "title": "A pie — la única forma de conocer Le Panier",
+          "description": "Vieux-Port al MuCEM: 10 minutos. Vieux-Port a Le Panier: 15 minutos cuesta arriba. Notre-Dame de la Garde: 30-40 minutos de caminata empinada desde el puerto, o autobús 60. Los callejones de Le Panier no se pueden recorrer de otra manera. Usa zapatos cómodos para caminar."
+        }
+      ],
+      "callout": {
+        "label": "Autobús 83 — la ruta de la Corniche",
+        "text": "El autobús 83 recorre la Corniche Kennedy — la carretera costera que serpentea alrededor de la bahía al sur del Vieux-Port. A la izquierda: mar, rocas, bañistas. A la derecha: villas de la Belle Époque, palmeras, la ciudad en lo alto. El Vallon des Auffes aparece bajo un puente — te lo perderás si no estás atento. Las playas del Prado al final. Mismo billete RTM. Siéntate en el lado izquierdo del autobús.",
+        "type": "tip"
+      },
+      "title": "Cómo moverse"
+    },
+    "stay": {
+      "intro": "Los barrios de Marsella son muy distintos. La proximidad al Vieux-Port es cómoda, pero no siempre es donde la ciudad realmente vive.",
+      "local_word": {
+        "pronunciation": "luh pan-YAY",
+        "definition": "El barrio más antiguo de Marsella, construido en la colina sobre el Vieux-Port, en el lugar del asentamiento griego original. Su nombre significa 'la cesta'. Calles demasiado estrechas para coches, ropa tendida entre ventanas, gatos en los escalones. Los artistas llevan décadas mudándose, lo que significa que galerías, murales y gentrificación conviven. Sigue siendo el lugar con más ambiente para alojarse en la ciudad.",
+        "word": "Le Panier"
+      },
+      "items": [
+        {
+          "name": "Le Panier",
+          "badge": "Con más ambiente",
+          "badge_type": "local",
+          "description": "La parte más antigua de la ciudad, sobre el Vieux-Port. Callejones estrechos, arte urbano, la Vieille Charité — un hospicio del siglo XVII ahora utilizado como museo y espacio de exposiciones. Las mañanas son tranquilas; a las 11:00 llegan los excursionistas. El mejor barrio para alojarse si quieres sentir la ciudad en lugar de solo verla.",
+          "tags": [
+            "Barrio más antiguo",
+            "A 10 min del Vieux-Port",
+            "Arte urbano y galerías"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Panier+Marseille"
+        },
+        {
+          "name": "Vieux-Port / 1er arrondissement",
+          "badge": "Más céntrico",
+          "badge_type": "hot",
+          "description": "Alrededor del antiguo puerto. Todo empieza aquí. Mercado de pescado por la mañana, terrazas de aperitivos al atardecer, el ferry a Château d'If desde el muelle. Céntrico, caro y ruidoso por la noche. Cerca del MuCEM, Le Panier y la terminal de ferris. Ideal para estancias cortas.",
+          "tags": [
+            "Ferry a Château d'If",
+            "Mercado de pescado a un paso",
+            "Ruidoso por la noche"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vieux-Port+Marseille"
+        },
+        {
+          "name": "Noailles / Notre-Dame du Mont",
+          "badge": "Más auténtico",
+          "badge_type": "local",
+          "description": "Noailles es el barrio más multicultural de Marsella — comunidades argelinas, marroquíes, comorenses, armenias, todas presentes desde que la ciudad fue un importante puerto de llegada. El mercado se extiende por las calles: especias, aceitunas, pan plano, productos baratos. Notre-Dame du Mont, justo encima, es donde los marselleses más jóvenes realmente salen. Cours Julien está al borde — arte urbano, mercado ecológico los miércoles.",
+          "tags": [
+            "Mercado de Noailles",
+            "Cours Julien cerca",
+            "Vida urbana auténtica"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Noailles+Marseille"
+        },
+        {
+          "name": "Joliette / Euromed",
+          "badge": "Más moderno",
+          "badge_type": "hot",
+          "description": "El distrito portuario regenerado alrededor del MuCEM. Nuevos hoteles, Les Docks (un almacén del siglo XIX convertido en oficinas y restaurantes), y acceso directo al MuCEM y al Fuerte Saint-Jean. Todavía no es un barrio en el sentido pleno — más infraestructura que comunidad. Ideal si el MuCEM y la zona portuaria son la prioridad.",
+          "tags": [
+            "MuCEM y Fuerte Saint-Jean",
+            "Hoteles modernos",
+            "A 10 min del Vieux-Port"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Joliette+Marseille"
+        },
+        {
+          "name": "Prado / 8ème arrondissement",
+          "badge": "Opción más tranquila",
+          "badge_type": "local",
+          "description": "Al sur del centro, a lo largo de la costa. Acceso a las playas del Prado, al Parc Borély y al inicio de la carretera de las Calanques. Más residencial, más marsellés, menos turistas. Metro o autobús al centro. Ideal si las Calanques son la razón principal para estar allí.",
+          "tags": [
+            "Playas del Prado",
+            "Parc Borély",
+            "Acceso a las Calanques"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Prado+Marseille"
+        }
+      ],
+      "title": "Dónde alojarse"
+    },
+    "best_time": {
+      "intro": "Marsella tiene 300 días de sol. La cuestión no es si ir, sino cuándo para evitar las multitudes.",
+      "items": [
+        {
+          "label": "Primavera",
+          "name": "La Estación Ideal",
+          "months": "Abr – Jun",
+          "description": "Mayo y junio son los mejores meses. Temperaturas alrededor de 20-25°C, el mar se está calentando, las Calanques son totalmente accesibles sin las restricciones de incendios del verano, y las multitudes de turistas aún no han llegado. El mercado matutino del Vieux-Port está en su punto más activo. Los precios del alojamiento son un 30-40% más bajos que en agosto. Marsella en mayo es la versión que la ciudad prefiere para sí misma.",
+          "callout": {
+            "label": "Acceso a las Calanques en verano — consulta antes de ir",
+            "text": "Desde mediados de junio hasta mediados de septiembre, el acceso a algunas calanques (particularmente Sugiton, Morgiou y Marseilleveyre) está restringido ciertos días debido al riesgo de incendios. La restricción se comunica con 48 horas de antelación y cambia diariamente según el índice de riesgo de incendios de Météo-France. Consulta la web o la app del Parc National des Calanques el día anterior. El acceso es gratuito pero limitado. El autobús B1 desde el metro Castellane hasta Sormiou funciona todo el año.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Primavera · Cálida, sin aglomeraciones, Calanques totalmente abiertas"
+        },
+        {
+          "label": "Verano",
+          "name": "Caluroso y Abarrotado",
+          "months": "Jul – Ago",
+          "description": "Julio y agosto: todo el sur de Francia está aquí. Acceso a las Calanques restringido en días de alto riesgo de incendios. Los restaurantes del Vieux-Port duplican sus precios. La ciudad en sí sigue siendo Marsella — playas, pastis, cenas tardías — pero requiere paciencia. Si vas en verano, aléjate del Vieux-Port a la hora de cenar y come tierra adentro. Los barrios absorben a los turistas; el puerto no.",
+          "callout": {
+            "label": "L'Estaque — el pueblo que las multitudes olvidan",
+            "text": "L'Estaque es un antiguo pueblo de pescadores a 10 kilómetros al norte del centro, ahora absorbido por la ciudad pero que aún conserva su esencia. Cézanne y Braque pintaron aquí repetidamente — la luz sobre la bahía era el punto clave. El pueblo tiene algunos restaurantes, una pequeña playa y casi ningún turista en verano porque ninguna guía envía a nadie allí. Autobús 35 desde Joliette. El chichi frégi — una especialidad local de masa frita — se vende en puestos cerca del puerto.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Verano · Temporada alta, gestiona en consecuencia"
+        },
+        {
+          "label": "Otoño",
+          "name": "El Secreto Mejor Guardado",
+          "months": "Sep – Nov",
+          "description": "Septiembre y octubre: el mar está en su punto más cálido (22-24°C), las Calanques vuelven a estar totalmente abiertas, las multitudes han desaparecido y la ciudad recupera su propio ritmo. Los precios de los restaurantes bajan. La disponibilidad de hoteles aumenta. La luz se vuelve dorada y más baja. Los marselleses que se fueron en agosto regresan. Esta es la versión de la ciudad que los residentes realmente prefieren — y casi ningún visitante la conoce.",
+          "callout": {
+            "label": "Bañarse en las Calanques en septiembre",
+            "text": "Después de un verano completo de calentamiento, el mar en septiembre alcanza su temperatura máxima. Los senderos de las Calanques están tranquilos — las mañanas de los días laborables puedes tener Sugiton o En-Vau prácticamente para ti solo. La piedra caliza adquiere un color diferente con la luz otoñal: más cálido, más ámbar. Lleva agua (no hay fuentes en los senderos), empieza temprano y consulta las restricciones de incendios incluso en septiembre — pueden persistir durante las primeras semanas del mes.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Otoño · Mar cálido, calanques vacías, precios más bajos"
+        },
+        {
+          "label": "Invierno",
+          "name": "Suave y Subestimado",
+          "months": "Dic – Mar",
+          "description": "El invierno en Marsella es suave — rara vez por debajo de 10°C, a menudo 15°C y soleado. El viento Mistral puede ser fuerte y sostenido durante días, pero entre los Mistrales la ciudad es discretamente hermosa. Los museos no tienen colas. El mercado de pescado funciona. Los cafés de barrio se llenan de lugareños. Notre-Dame de la Garde en una clara mañana de invierno, con los Alpes visibles al norte — esta no es la Marsella que la mayoría de los turistas ven.",
+          "callout": {
+            "label": "El Mistral — qué es y cómo interpretarlo",
+            "text": "El Mistral es un viento frío y seco del noroeste que puede soplar a 70-90 km/h durante tres días seguidos. Hace que el cielo sea excepcionalmente claro y la luz nítida, pero hace que cenar al aire libre y pasear por la costa sea desagradable. Los lugareños saben: cuando sopla el Mistral, ve a Le Panier (resguardado por la colina), come en interiores y espera. Se detiene tan repentinamente como empieza. El día después de un Mistral, Marsella parece recién limpia.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Invierno · 15°C, vacío, totalmente local"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "June",
+          "text": "Fête du Panier: el barrio más antiguo celebra durante dos días con conciertos callejeros y talleres abiertos."
+        },
+        {
+          "month": "July–August",
+          "text": "Temporada alta de Calanques: el acceso a las calas puede estar restringido — planifica ir temprano o en barco; las playas de la ciudad están en pleno apogeo."
+        },
+        {
+          "month": "September–October",
+          "text": "La temporada secreta: el mar aún cálido, las multitudes desaparecidas, la luz es la luz de Cézanne — Marsella en su mejor momento."
+        },
+        {
+          "month": "December",
+          "text": "Foire aux Santons: las figuras de arcilla del belén provenzal llegan a la ciudad en una feria de dos siglos de antigüedad, con el aroma de las navettes de fondo."
+        }
+      ],
+      "title": "Cuándo Ir"
+    },
+    "eat": {
+      "intro": "La gastronomía de Marsella es mediterránea, directa y moldeada por el puerto. Los ingredientes provienen del mar y de las comunidades que llegaron a través de él.",
+      "local_word": {
+        "pronunciation": "pas-TEES",
+        "definition": "El aperitivo de Marsella: con sabor a anís, diluido con agua fría, lo que lo vuelve turbio. Ricard y Pernod son las marcas; los marselleses tienen opiniones sobre cuál es mejor. Se sirve en un vaso alto, con una jarrita de agua fría al lado. La proporción es una parte de pastis por cinco de agua, aunque los marselleses lo sirven generosamente. Cada terraza de café, cada partida de petanca, cada almuerzo dominical comienza aquí.",
+        "word": "Pastis (pas-TEES)"
+      },
+      "items": [
+        {
+          "icon": "🐟",
+          "name": "Bullabesa — la original",
+          "description": "No es una sopa, es un método. Pescados de roca específicos (rascasse, grondin, Saint-Pierre, vive) cocidos a fuego lento en un caldo de azafrán, hinojo y aceite de oliva, y luego servidos en dos tiempos: primero el caldo con rouille (alioli de ajo y azafrán) untado en pan tostado, y luego el pescado por separado. La Carta de la Bullabesa define las especies requeridas. Hecha correctamente, lleva horas y cuesta en consecuencia. Las versiones baratas son sopa de pescado. Esto es arquitectura.",
+          "tag": "Solo en restaurantes con Carta · dos tiempos · caro y vale la pena",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chez+Fonfon+Marseille"
+        },
+        {
+          "icon": "🥜",
+          "name": "Panisse — comida callejera de Marsella",
+          "description": "Una torta espesa de harina de garbanzo, frita hasta quedar crujiente por fuera y suave por dentro, servida en bastones o redonda. Originalmente traída por inmigrantes genoveses, Marsella la absorbió y la hizo suya. Se encuentra en el Marché de Noailles y en puestos callejeros por toda la ciudad. Caliente, barata y mejor de lo que parece. La versión de L'Estaque con una cerveza fría es el pedido correcto.",
+          "tag": "Mercado de Noailles · puestos callejeros · L'Estaque",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Estaque+Marseille"
+        },
+        {
+          "icon": "🧄",
+          "name": "Rouille — el condimento esencial",
+          "description": "Una emulsión espesa, de color naranja intenso, de ajo, azafrán y aceite de oliva; más contundente que el alioli, menos sutil que la mayonesa. Se unta en los picatostes que acompañan el caldo de la bullabesa. También se come con pescado a la parrilla y verduras fritas. El color proviene del azafrán y la pimienta; el picor, del ajo. Cada restaurante de Marsella prepara la suya. La calidad varía significativamente.",
+          "tag": "Con bullabesa · pescado a la parrilla · las mejores son rojo-anaranjadas",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Miramar+Marseille"
+        },
+        {
+          "icon": "🍪",
+          "name": "Navette — la galleta de Saint-Victor",
+          "description": "Una galleta seca con forma de barca, aromatizada con agua de azahar, elaborada desde 1781 por la panadería Four des Navettes, cerca de la Abadía de Saint-Victor. La forma hace referencia a las pequeñas embarcaciones que, según la tradición, llevaron a María Magdalena y a los primeros cristianos a la Provenza. Se vende todo el año en la panadería. Dura y seca, está pensada para mojar en café o pastis. No es un tentempié; es una tradición.",
+          "tag": "Four des Navettes · desde 1781 · cerca de Saint-Victor",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Four+des+Navettes+Marseille"
+        },
+        {
+          "icon": "🫒",
+          "name": "Tapenade y anchoïade — básicos provenzales",
+          "description": "Tapenade: aceitunas negras, alcaparras, anchoas y aceite de oliva mezclados hasta formar una pasta; el nombre proviene de la palabra provenzal para alcaparra. Anchoïade: una pasta más rústica y picante de anchoas y ajo. Ambas se untan en pan, se sirven antes de las comidas y se comen en cada terraza. Marsella se encuentra al borde de la Provenza; estos son los sabores que han estado aquí por más tiempo.",
+          "tag": "En cada terraza · antes de las comidas · con pan y pastis",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Noailles+Marseille"
+        },
+        {
+          "icon": "☕",
+          "name": "Café en la barra — el verdadero ritmo marsellés",
+          "description": "Ponte en la barra. Pide un 'petit café'. Paga y vete en diez minutos. El recargo por terraza en los cafés del Vieux-Port añade un coste extra visible; los locales saben que hay que pedir en la barra. Una mañana en el mercado de Noailles, un café en el mostrador, viendo cómo el barrio cobra vida: esta es la versión más auténtica de la ciudad. Cuesta menos de un euro y nada más en Marsella te dirá tanto.",
+          "tag": "En la barra, no en la terraza · Noailles · antes de las 09:00",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cours+Julien+Marseille"
+        }
+      ],
+      "callout": {
+        "label": "Marché de Noailles — la verdadera cocina de la ciudad",
+        "text": "Noailles es donde los marselleses hacen sus compras. Las calles alrededor de la Rue Longue-des-Capucins se llenan de puestos cada mañana: especias del norte de África, aceitunas frescas, merguez, hierbas provenzales, limones encurtidos, panes planos recién horneados. Los olores son a la vez del norte de África y de la Provenza. Sin infraestructura turística, sin menús en inglés. Ve con hambre, lleva efectivo, come de pie. Aquí es donde la ciudad se alimenta.",
+        "type": "tip"
+      },
+      "title": "Qué Comer"
+    },
+    "hidden_gems": {
+      "intro": "Marsella es famosa por su puerto y su basílica. Ambos merecen la pena. Pero la ciudad tiene una segunda capa a la que la mayoría de los visitantes nunca llegan.",
+      "items": [
+        {
+          "name": "Vallon des Auffes",
+          "description": "Una pequeña cala excavada en la Corniche, a la que se llega caminando bajo el viaducto que lleva la carretera costera por encima. Una docena de coloridos barcos de pesca, un grupo de casas construidas en la roca, dos o tres restaurantes que sirven la pesca del día. Los pescadores siguen allí, no es un espectáculo. En verano, los lugareños se sientan en las rocas al atardecer con una botella. El autobús 83 pasa directamente por encima; mira por la ventanilla del autobús y verás por qué te bajas. Gratuito, siempre abierto.",
+          "rarity": "Un pequeño puerto pesquero escondido bajo un puente de carretera — a 15 minutos del Vieux-Port",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vallon+des+Auffes+Marseille"
+        },
+        {
+          "name": "L'Estaque",
+          "description": "Diez kilómetros al norte del centro, al borde de la bahía. Cézanne vino aquí repetidamente de 1870 a 1882; Braque, Dufy y Derain le siguieron. La bahía y las chimeneas de las fábricas aparecieron en docenas de obras que se convirtieron en la base del Cubismo. El pueblo hoy tiene una pequeña playa, un puñado de restaurantes de pescadores y casi ningún visitante. El autobús 35 desde el metro Joliette tarda 25 minutos. El chichi frégi —masa frita que se vende en puestos cerca del puerto— es el tentempié local. Ve entre semana.",
+          "rarity": "Un pueblo de Cézanne y Braque al que ninguna guía envía a nadie",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Estaque+Marseille"
+        },
+        {
+          "name": "La Vieille Charité — Le Panier",
+          "description": "Construido entre 1671 y 1749 como hospicio, diseñado por Pierre Puget — el arquitecto barroco más importante de Marsella. Tres plantas de galerías porticadas alrededor de un patio, con una pequeña capilla abovedada en el centro. Ahora alberga el Museo de Arqueología Mediterránea y el Museo de Artes Africanas, Oceánicas y Amerindias. La arquitectura por sí sola justifica la subida a través de Le Panier. La entrada al patio es gratuita; los museos son de pago.",
+          "rarity": "El hospicio del siglo XVII que se convirtió en el espacio cultural más hermoso de la ciudad",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Vieille+Charité+Marseille"
+        },
+        {
+          "name": "La Friche la Belle de Mai",
+          "description": "Una antigua fábrica de tabaco SEITA de 45.000 m² en el barrio de Belle de Mai, a 15 minutos a pie del centro. Convertida en un complejo cultural: estudios de artistas, salas de espectáculos, un cine, espacios de exposición, jardines compartidos y una terraza en la azotea con vistas panorámicas de la ciudad. El bar de la azotea abre en verano — bebidas, vistas de la ciudad, sin infraestructura turística. No está en el itinerario estándar porque requiere salir de la zona del puerto. Toma el autobús 49 desde Réformés-Canebière.",
+          "rarity": "Una antigua fábrica de tabaco con un bar en la azotea que los turistas no han descubierto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Friche+la+Belle+de+Mai+Marseille"
+        },
+        {
+          "name": "Cathédrale de la Major",
+          "description": "Una de las iglesias más grandes de Francia, construida en la segunda mitad del siglo XIX en estilo románico-bizantino a rayas — alternando piedra verde y blanca, mosaicos dorados en el interior, cúpulas imponentes. Se encuentra justo al lado del MuCEM y la mayoría de los visitantes pasan de largo para llegar al museo. Entrada gratuita. El interior es oscuro, fresco y casi completamente vacío. El contraste con las multitudes inmediatamente fuera es absoluto.",
+          "rarity": "La catedral más grande que Notre-Dame de París — a la que nadie entra",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cathédrale+de+la+Major+Marseille"
+        },
+        {
+          "name": "Calanque de Sormiou",
+          "description": "La calanque más cercana a la ciudad y la más accesible — el autobús B1 desde el metro Castellane va directamente al inicio del sendero. Una caminata de 30 minutos hasta una bahía turquesa rodeada de acantilados de piedra caliza blanca. En verano, el acceso en coche está restringido; en primavera y otoño, el camino está casi vacío. Hay un pequeño restaurante de temporada en la parte inferior. El agua es lo suficientemente clara como para ver el fondo a cinco metros de profundidad. Gratuito. Consulta las restricciones de incendios antes de ir en verano.",
+          "rarity": "La cala que los barcos turísticos de las Calanques se saltan",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Calanque+de+Sormiou"
+        },
+        {
+          "name": "Cours Julien",
+          "description": "A 15 minutos a pie del Vieux-Port. Arte callejero, cafeterías independientes, tiendas de discos, tiendas vintage y una de las zonas de arte urbano al aire libre más grandes de Francia. Los miércoles por la mañana, un mercado de agricultores ecológicos se instala en la Place Jean Jaurès — unos treinta productores locales, productos provenzales frescos. Por las noches, los bares se llenan de gente completamente local. Comida a mitad de precio que en el Vieux-Port, el doble de ambiente. Gratis para pasear, comer, sentarse.",
+          "rarity": "La plaza bohemia donde los lugareños realmente se reúnen",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cours+Julien+Marseille"
+        },
+        {
+          "name": "Palais Longchamp",
+          "description": "Construido en 1869 para celebrar el canal que finalmente trajo agua a la ciudad — un palacio construido sobre un embalse. En el centro, una gran cascada y un grupo escultórico; en las dos alas, el Museo de Bellas Artes y el Museo de Historia Natural. Detrás, un extenso parque: céspedes para picnic, parques infantiles, senderos sombreados. Tranvía T2 hasta la parada Longchamp, 3 minutos a pie. Jardines y exterior siempre gratuitos; museos de pago, gratuitos el primer domingo de cada mes.",
+          "rarity": "Dos museos, jardines espectaculares — casi sin turistas",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palais+Longchamp+Marseille"
+        },
+        {
+          "name": "Notre-Dame de la Garde — La Bonne Mère",
+          "description": "A 162 metros, el punto más alto de Marsella. Una caminata cuesta arriba de 30-40 minutos por el sendero, o el autobús 60 desde el Hôtel de Ville. Desde la cima: toda la ciudad, el Vieux-Port, las islas y el mar abierto. Dentro: cientos de exvotos —ofrendas votivas dejadas por marineros, madres, supervivientes— cubriendo las paredes. La basílica en sí es románico-bizantina del siglo XIX. Entrada gratuita. Ve al anochecer — la luz a esa hora es diferente.",
+          "rarity": "360 grados sobre la ciudad — la subida merece la pena",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Notre-Dame+de+la+Garde+Marseille"
+        }
+      ],
+      "callout": {
+        "label": "Las Calanques — cómo llegar realmente",
+        "text": "El consejo habitual es hacer un tour en barco desde el Vieux-Port — la mejor opción es ir por tu cuenta. El autobús B1 desde el metro Castellane (línea 1) va a Luminy; desde allí, es una caminata de 90 minutos hasta la Calanque de Sugiton, sin instalaciones, lleva todo lo necesario. La misma línea va a Sormiou — 30 minutos a pie cuesta abajo, un restaurante de temporada en la parte inferior, mejor para nadar. Ambas rutas son gratuitas. Empieza antes de las 09:00 en verano. Los tours en barco te muestran los acantilados desde fuera; los senderos te meten dentro de ellos.",
+        "type": "tip"
+      },
+      "title": "Joyas Escondidas"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Visita el mercado de pescado del Vieux-Port antes de las 10:00",
+          "sub": "Pescadores vendiendo directamente desde sus barcas. Diario, Quai des Belges. Gratis. Termina antes de las 10:00 — llega a las 08:00."
+        },
+        {
+          "label": "Pasea por la terraza del MuCEM y el Fuerte Saint-Jean",
+          "sub": "Los pasillos exteriores del MuCEM y el Fuerte Saint-Jean son gratuitos. Las galerías del museo requieren entrada. El primer domingo de cada mes: las galerías también son gratuitas."
+        },
+        {
+          "label": "Sube a Notre-Dame de la Garde (La Bonne Mère)",
+          "sub": "Entrada gratuita. Autobús 60 desde Hôtel de Ville o 30-40 minutos a pie cuesta arriba. Mejor al atardecer. Las vistas abarcan toda la ciudad, las islas y las Calanques."
+        },
+        {
+          "label": "Pasea por Le Panier por la mañana",
+          "sub": "Gratis. Ve antes de las 11:00, antes de que lleguen los excursionistas. El patio de La Vieille Charité es de entrada gratuita — los museos de dentro requieren entrada."
+        },
+        {
+          "label": "Toma el autobús 83 por la Corniche",
+          "sub": "Billete RTM. Siéntate a la izquierda. Busca el Vallon des Auffes debajo del puente — bájate y camina."
+        },
+        {
+          "label": "Come bouillabaisse una vez, en un restaurante adherido a la carta",
+          "sub": "Caro y vale la pena. Busca restaurantes adheridos a la Carta de la Bouillabaisse. Dos platos. Aquí es donde se inventó el plato."
+        },
+        {
+          "label": "Toma un pastis en la terraza de un café",
+          "sub": "Aperitivo de anís, diluido con agua fría. Ricard o Pernod. Pide una jarra de agua con él. En cualquier café de la ciudad."
+        },
+        {
+          "label": "Ve al Marché de Noailles",
+          "sub": "Gratis. Todas las mañanas, Rue Longue-des-Capucins. Especias del norte de África, aceitunas, productos frescos. Lleva efectivo. Come de pie."
+        },
+        {
+          "label": "Haz una ruta de senderismo a una calanque",
+          "sub": "Gratis. Autobús B1 desde el metro Castellane hasta Sormiou (30 minutos a pie) o Luminy para Sugiton (90 minutos de caminata). Consulta las restricciones de incendios online antes de ir."
+        },
+        {
+          "label": "Encuentra el Vallon des Auffes",
+          "sub": "Gratis. Camina desde la Corniche bajo el viaducto. Barcas de pesca, casas de piedra, atardecer sobre el agua. El autobús 83 para arriba."
+        },
+        {
+          "label": "Entra en la Cathédrale de la Major",
+          "sub": "Gratis. Al lado del MuCEM. Exterior de piedra a rayas, mosaicos dorados en el interior, casi nunca está llena. La mayoría de los visitantes pasan de largo."
+        },
+        {
+          "label": "Visita L'Estaque entre semana",
+          "sub": "Autobús 35 desde Joliette, 25 minutos. El pueblo donde pintaron Cézanne y Braque. Pequeña playa, restaurantes de pescadores, sin turistas. Prueba el chichi frégi."
+        }
+      ],
+      "title": "Lista de Imprescindibles de Marsella",
+      "completion_message": "Has vivido el verdadero Marsella."
+    },
+    "traps": {
+      "title": "Evita las Trampas",
+      "intro": "Marsella es una ciudad sin pretensiones; incluso sus trampas son obvias. Conoce estas cuatro y confía en la ciudad para el resto.",
+      "items": [
+        {
+          "icon": "🍲",
+          "name": "'Bullabesa' por menos de 40 euros",
+          "description": "La auténtica bullabesa exige al menos cuatro tipos de pescado de roca y dos servicios; la sopa naranja de los menús baratos es caldo de pescado disfrazado.",
+          "instead": "Ve a uno de los clásicos que firmaron la carta — Fonfon, Miramar; caro, pero prueba la auténtica una vez."
+        },
+        {
+          "icon": "⚓",
+          "name": "Menús con fotos en el muelle del Vieux-Port",
+          "description": "Las hileras de terrazas con vistas al puerto venden el pescado cansado del día a precios de turista.",
+          "instead": "Camina dos calles hacia el interior, o acércate a una pequeña cala como Vallon des Auffes: mismo mar, cocina honesta."
+        },
+        {
+          "icon": "🧼",
+          "name": "Falso 'Jabón de Marsella'",
+          "description": "Los coloridos cubos perfumados de las tiendas de souvenirs suelen ser imitaciones importadas; el auténtico lleva el sello del 72% de aceite y procede de solo cuatro jabonerías.",
+          "instead": "Busca el sello del 72%; compra en las tiendas propias de las fábricas de jabón históricas o a un vendedor de confianza."
+        },
+        {
+          "icon": "⛵",
+          "name": "Ir a las Calanques sin preparación",
+          "description": "En verano, el acceso por carretera se cierra y los senderos pueden clausurarse por riesgo de incendio; los desprevenidos se dan la vuelta bajo un sol implacable.",
+          "instead": "Ve temprano, lleva agua, comprueba el acceso el día anterior; o acércate en barco desde el mar — gánate tu primera vista de Sormiou."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La regla de oro",
+        "text": "En Marsella, la belleza viene sin pulir: la mejor cala no tiene tumbonas, el mejor bar no tiene letrero, el mejor pescado no tiene espectáculo. Si ves pulcritud, el precio es de turista."
+      }
+    },
+    "itinerary": {
+      "title": "Rutas Prediseñadas",
+      "intro": "Si odias planificar, sigue estos itinerarios. Los horarios son flexibles; mantén el espíritu, rompe el orden.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Tienes 1 Día",
+          "subtitle": "El puerto, Le Panier y la colina de la Buena Madre",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Mercado de pescado del Vieux-Port",
+              "description": "Observa cómo el pescado pasa del barco al puesto en el muelle; el mercado cierra a las 10:00, ven temprano."
+            },
+            {
+              "time": "10:00",
+              "title": "Las callejuelas de Le Panier",
+              "description": "Piérdete en el barrio más antiguo de la ciudad: arte callejero, ropa tendida, el tranquilo patio de la Vieille Charité."
+            },
+            {
+              "time": "13:00",
+              "title": "Almuerzo en Noailles",
+              "description": "Entre los puestos del 'vientre de Marsella': panisse, kebab, aromas del norte de África. El verdadero condimento de la ciudad."
+            },
+            {
+              "time": "15:00",
+              "title": "MuCEM + Catedral de la Major",
+              "description": "Desde el museo de hormigón calado, extiéndete sobre el mar por la pasarela; la catedral a rayas es preciosa mientras esperas el anochecer."
+            },
+            {
+              "time": "18:00",
+              "title": "Notre-Dame de la Garde",
+              "description": "Sube la colina y contempla la ciudad y el mar bajo La Bonne Mère: la mejor vista de Marsella, gratis."
+            },
+            {
+              "time": "20:30",
+              "title": "Noche en Cours Julien",
+              "description": "Un bar en la plaza cubierta de grafitis, música en vivo, pastis. La noche se alarga aquí."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Tienes 3 Días",
+          "subtitle": "Vive la ciudad como un invitado, no como un turista",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Puerto y colinas",
+              "description": "El itinerario de 1 día anterior: mercado, Panier, MuCEM, Bonne Mère."
+            },
+            {
+              "time": "Day 2",
+              "title": "Día de Calanques",
+              "description": "Sormiou a primera hora de la mañana, o las calas en barco; mar, sendero y descanso. Cena de pescado en Vallon des Auffes al regresar."
+            },
+            {
+              "time": "Day 3",
+              "title": "L'Estaque y arte",
+              "description": "Panisse y chichi frégi en el puerto de Cézanne, L'Estaque, La Friche la Belle de Mai por la tarde, despedida alrededor del Palais Longchamp por la noche."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "El kit de supervivencia de las 5 palabras",
+      "intro": "El francés abre puertas; el argot marsellés conquista corazones. Con estas cinco, te sentirás como en casa en el muelle.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Hola — la primera palabra obligatoria en cada interacción"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Gracias — más potente con 'beaucoup'"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "Por favor — añádelo al final de tu pedido"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "¡Salud! — las copas de pastis se alzan con esto"
+        },
+        {
+          "word": "Dégun",
+          "pronunciation": "day-GUHN",
+          "meaning": "Argot marsellés para 'nadie' — 'craint dégun': no teme a nadie, el lema de la ciudad"
+        }
+      ]
+    }
+  }
+}
