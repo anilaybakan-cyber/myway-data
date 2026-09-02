@@ -7,55 +7,6 @@
   },
   "highlights": [
     {
-      "name": "3100 Kulmhotel Gornergrat",
-      "name_en": "Kulmhotel Gornergrat",
-      "area": "Gornergrat",
-      "category": "Deneyim",
-      "tags": [
-        "otel",
-        "gözlem",
-        "yüksek",
-        "zirve",
-        "yıldızlar",
-        "tarihi"
-      ],
-      "lat": 45.984,
-      "lng": 7.785,
-      "price": "high",
-      "rating": 4.8,
-      "description": "1896'da inşa edilen, Avrupa'nın en yüksek tarihi oteli. Matterhorn manzaralı, geleneksel Alp mimarisiyle zirvedeki bu yapı, bir gözlemeviyle eşsiz bir dağ deneyimi sunar.",
-      "description_en": "Built in 1896, Europe's highest historic hotel. With Matterhorn views, this traditional Alpine architectural summit structure offers a unique mountain experience, housing an observatory.",
-      "bestTime": "Gece",
-      "tips": "Gün batımını izlemek ve yıldızları seyretmek için mutlaka rezervasyon yaptırın.",
-      "tips_en": "Definitely make a reservation to watch the sunset and stargaze.",
-      "id": "kulmhotel-gornergrat",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fkulmhotel-gornergrat.jpg?alt=media",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "3100 Kulmhotel",
-      "name_en": "3100 Kulmhotel",
-      "area": "Gornergrat",
-      "category": "Deneyim",
-      "tags": [
-        "otel",
-        "gözlem",
-        "yüksek",
-        "zirve",
-        "yıldızlar"
-      ],
-      "lat": 45.9833,
-      "lng": 7.7836,
-      "price": "high",
-      "rating": 4.8,
-      "description": "1907'den beri Gornergrat'ta Alp Dağları'nın en yüksek oteli olan bu ikonik yapı, panoramik manzaralar sunan tarihi ve mimari bir başyapıttır.",
-      "description_en": "Since 1907 on Gornergrat, this iconic structure, the Alps' highest hotel, is a historic and architectural masterpiece offering panoramic views.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/3100_Kulmhotel_Gornergrat_winter.jpg/1280px-3100_Kulmhotel_Gornergrat_winter.jpg",
-      "tips": "Güneşin doğuşunu ve batışını kaçırmayın, büyüleyici manzaralar sunar.",
-      "tips_en": "Don't miss the sunrise and sunset, they offer captivating views."
-    },
-    {
       "name": "Matterhorn Viewpoint",
       "name_en": "Matterhorn Viewpoint",
       "area": "Zermatt",
@@ -74,7 +25,11 @@
       "description_en": "The Matterhorn's sharp, pyramidal summit, adorned with its eternal snow mantle over grey gneiss rocks, forms a dramatic silhouette against the cerulean tones of the sky.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Matterhorn_from_Zermatt_2.jpg/1280px-Matterhorn_from_Zermatt_2.jpg",
       "tips": "Sabah erken saatlerde, zirvenin altın ışıkla parlayışını yakalamak için gidin.",
-      "tips_en": "Go in the early morning to capture the summit glistening with golden light."
+      "tips_en": "Go in the early morning to capture the summit glistening with golden light.",
+      "description_it": "La vetta aguzza e piramidale del Cervino, ammantata dalla sua eterna neve su rocce di gneiss grigio, si staglia in una silhouette drammatica contro i toni cerulei del cielo.",
+      "tips_it": "Andate la mattina presto per immortalare la vetta che scintilla di luce dorata.",
+      "description_es": "La afilada cumbre piramidal del Matterhorn, adornada con su eterno manto de nieve sobre rocas de gneis gris, forma una silueta dramática contra los tonos cerúleos del cielo.",
+      "tips_es": "Ve a primera hora de la mañana para capturar la cumbre resplandeciendo con luz dorada."
     },
     {
       "name": "5-Seenweg (Beş Göl Yürüyüşü)",
@@ -98,7 +53,11 @@
       "id": "5-seenweg-beş-gol-yuruyuşu",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2F5_seenweg_bes_gol_yuruyusu.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Plasmato dal genio naturale dell'Era Glaciale, questo sentiero geologico unico offre le iconiche riflessioni del Cervino su cinque laghi incontaminati, rivelando la bellezza mozzafiato di Zermatt.",
+      "tips_it": "Non dimenticate la macchina fotografica per immortalare i riflessi del Cervino nei laghi.",
+      "description_es": "Moldeado por el genio natural de la Edad de Hielo, este sendero geológico único ofrece los icónicos reflejos del Matterhorn en cinco lagos prístinos, mostrando la impresionante belleza de Zermatt.",
+      "tips_es": "No olvides tu cámara para capturar los reflejos del Matterhorn en los lagos."
     },
     {
       "name": "Abenteuerweg (Adventure Trail)",
@@ -122,7 +81,11 @@
       "id": "adventure-trail",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fadventure-trail.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nel cuore di Zermatt, un sentiero avventura ricco di informazioni, impreziosito da antiche strutture in legno che narrano la storia dell'alpinismo e l'architettura vallesana, regala viste mozzafiato sul Cervino.",
+      "tips_it": "Controllate il meteo; indossate scarponi robusti e portate acqua.",
+      "description_es": "En el corazón de Zermatt, un sendero de aventura informativo adornado con antiguas estructuras de madera que muestran la historia del alpinismo y la arquitectura del Valais, ofreciendo vistas impresionantes del Matterhorn.",
+      "tips_es": "Consulta el clima; usa botas resistentes y lleva agua."
     },
     {
       "name": "Adler Hitta",
@@ -146,7 +109,11 @@
       "id": "adler-hitta",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fadler-hitta.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "L'elegante struttura in legno si affaccia su un paesaggio alpino unico, offrendo un'atmosfera accogliente dai colori caldi. Un connubio di noce e pino crea un'esperienza armoniosa con la natura.",
+      "tips_it": "Sedetevi sulla terrazza, a due passi dalle piste da sci.",
+      "description_es": "La elegante estructura de madera domina el singular paisaje alpino, ofreciendo un ambiente acogedor con colores cálidos. Una mezcla de nogal y pino crea una experiencia armoniosa con la naturaleza.",
+      "tips_es": "Siéntate en la terraza, cerca de las pistas de esquí."
     },
     {
       "name": "After Seven",
@@ -169,7 +136,11 @@
       "tips": "Sıcak çikolatanızı manzaraya karşı yudumlayın.",
       "tips_en": "Sip your hot chocolate against the stunning view.",
       "source": "firebase",
-      "name_en": "After Seven"
+      "name_en": "After Seven",
+      "description_it": "Con le iconiche viste montane di Zermatt, l'After Seven propone sapori locali con un tocco moderno, promettendo agli ospiti un'esperienza culinaria eccezionale.",
+      "tips_it": "Sorseggiate la vostra cioccolata calda ammirando il panorama mozzafiato.",
+      "description_es": "Con las icónicas vistas a la montaña de Zermatt, After Seven ofrece sabores locales con toques modernos, prometiendo a los comensales una experiencia culinaria excepcional.",
+      "tips_es": "Disfruta de tu chocolate caliente con la impresionante vista de fondo."
     },
     {
       "name": "Air Zermatt Heliport",
@@ -193,7 +164,11 @@
       "id": "air-zermatt-heliport",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fair-zermatt-heliport.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Dal 1965, fulcro vitale per il soccorso alpino e i trasporti di Zermatt, questo moderno eliporto vanta un'architettura funzionale. È la linfa vitale della regione, garantendo la sicurezza in montagna.",
+      "tips_it": "Vivete le vette alpine in modo unico con un tour panoramico in elicottero.",
+      "description_es": "Desde 1965, este moderno helipuerto es el centro vital de rescate y transporte alpino de Zermatt, con una arquitectura funcional. Es el salvavidas de la región, garantizando la seguridad en la montaña.",
+      "tips_es": "Experimenta las cumbres alpinas de forma única con un tour panorámico en helicóptero."
     },
     {
       "name": "Alphubel",
@@ -217,7 +192,11 @@
       "id": "alphubel",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Falphubel.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Tra la bellezza da cartolina di Zermatt, la vetta dell'Alphubel si fonde con il cielo, offrendo un sereno abbraccio visivo.",
+      "tips_it": "Partite presto per ammirare l'alba dalla vetta.",
+      "description_es": "En medio de la belleza de postal de Zermatt, la cumbre del Alphubel se funde con el cielo, ofreciendo un sereno abrazo visual.",
+      "tips_es": "Sal temprano para ver el amanecer desde la cumbre."
     },
     {
       "name": "Alpine Center Zermatt",
@@ -241,31 +220,11 @@
       "id": "alpine-center",
       "distanceFromCenter": 1.0,
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Falpine_center_zermatt.jpg?alt=media",
-      "source": "firebase"
-    },
-    {
-      "name": "Backstage Hotel Vernissage",
-      "name_en": "Backstage Hotel",
-      "area": "Zermatt",
-      "category": "Deneyim",
-      "tags": [
-        "tasarım",
-        "sanat",
-        "modern"
-      ],
-      "lat": 46.02,
-      "lng": 7.749,
-      "price": "high",
-      "rating": 4.7,
-      "description": "Zermatt'ın simge mimarı Heinz Julen tarafından tasarlanan Backstage Hotel Vernissage, Art-Deco sineması, galerisi ve eşsiz küp spasını barındıran, büyüleyici bir kültür ve konaklama merkezidir.",
-      "description_en": "Zermatt's iconic architect Heinz Julen designed Backstage Hotel Vernissage, a captivating cultural hub with an Art-Deco cinema, gallery, and unique cube spa.",
-      "bestTime": "Tüm gün",
-      "tips": "Otel galerisindeki Heinz Julen eserlerini ve sinema programını inceleyin.",
-      "tips_en": "Explore Heinz Julen's art in the hotel gallery and check the cinema program.",
-      "id": "backstage-hotel",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fbackstage-hotel.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "description_it": "Nascosto sotto la piazza della chiesa, questo museo unico espone la vita di Zermatt nel XIX secolo, la storia dell'alpinismo e reperti della prima ascensione del Cervino. La sua architettura sotterranea è affascinante.",
+      "tips_it": "Non perdetevi gli impressionanti reperti legati alla prima ascensione del Cervino.",
+      "description_es": "Escondido bajo la plaza de la iglesia, este museo único exhibe la vida de Zermatt en el siglo XIX, la historia del alpinismo y artefactos de la primera ascensión al Matterhorn. Su arquitectura subterránea es cautivadora.",
+      "tips_es": "No dejes de ver los impresionantes artefactos relacionados con la primera ascensión al Matterhorn."
     },
     {
       "name": "Bahnhofstrasse",
@@ -288,7 +247,11 @@
       "tips": "Sıcak çikolata için sıraya girin, tadı benzersizdir.",
       "tips_en": "Queue for the hot chocolate, its flavor is unique.",
       "source": "firebase",
-      "name_en": "Bahnhofstrasse"
+      "name_en": "Bahnhofstrasse",
+      "description_it": "La Bahnhofstrasse, nel cuore di Zermatt, incanta gli amanti dello shopping con vetrine colorate e un'atmosfera alpina serena.",
+      "tips_it": "Mettetevi in coda per la cioccolata calda, il suo sapore è unico.",
+      "description_es": "Bahnhofstrasse, en el corazón de Zermatt, cautiva a los compradores con coloridos escaparates y una serena atmósfera alpina.",
+      "tips_es": "Haz cola para el chocolate caliente, su sabor es único."
     },
     {
       "name": "Bar 55",
@@ -312,31 +275,11 @@
       "id": "bar-55",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fbar-55.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "BaseCamp Hotel",
-      "name_en": "BaseCamp Hotel",
-      "area": "Zermatt",
-      "category": "Deneyim",
-      "tags": [
-        "dağcı",
-        "modern",
-        "konsept"
-      ],
-      "lat": 46.022,
-      "lng": 7.7485,
-      "price": "medium",
-      "rating": 4.6,
-      "description": "Şehir'in kalbinde, modern gezginler için tasarlanmış BaseCamp Hotel, şehrin enerjisini doğa tutkusuyla birleştiriyor. Keşfe hazır olun!",
-      "description_en": "In the heart of Şehir, BaseCamp Hotel, designed for modern travelers, blends the city's energy with a passion for nature. Get ready to explore!",
-      "bestTime": "Tüm gün",
-      "tips": "Oteldeki ortak alanlar, diğer gezginlerle tanışmak ve Şehir'in gizli rotalarını keşfetmek için idealdir.",
-      "tips_en": "The hotel's common areas are ideal for meeting other travelers and discovering Şehir's hidden routes.",
-      "id": "basecamp-hotel",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fbasecamp-hotel.jpg?alt=media",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nel cuore di Zermatt, il Bar 55 propone una selezione di vini internazionali e bevande locali, immerso nella magia alpina.",
+      "tips_it": "Non mancate di provare i vini locali abbinati alla fonduta in inverno.",
+      "description_es": "En el corazón de Zermatt, Bar 55 ofrece una colección de vinos internacionales y bebidas locales, impregnadas de la magia alpina.",
+      "tips_es": "No te pierdas probar los vinos locales maridados con fondue en invierno."
     },
     {
       "name": "Bayard Sports & Fashion",
@@ -360,7 +303,11 @@
       "id": "bayard-sports",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fbayard-sports.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nel cuore di Zermatt, Bayard Sports & Fashion affascina gli appassionati di stile con abbigliamento da montagna elegante e accessori unici.",
+      "tips_it": "Non fate acquisti senza prima provare gli abiti.",
+      "description_es": "En el corazón de Zermatt, Bayard Sports & Fashion cautiva a los entusiastas del estilo con elegante ropa de montaña y accesorios únicos.",
+      "tips_es": "No compres sin probarte la ropa primero."
     },
     {
       "name": "Bazaar",
@@ -384,7 +331,11 @@
       "id": "bazaar",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fbazaar.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "La sorprendente presentazione del Bazaar propone polpette di lenticchie leggermente speziate, mescolate con olio d'oliva ed erbe fresche, offrendo un'esperienza di sapori ricca.",
+      "tips_it": "Provate il gelato artigianale per dessert.",
+      "description_es": "La impresionante presentación de Bazaar incluye tortitas de lentejas ligeramente especiadas, mezcladas con aceite de oliva y hierbas frescas, ofreciendo una rica experiencia de sabor.",
+      "tips_es": "Prueba el helado casero de postre."
     },
     {
       "name": "Bergrestaurant Blatten",
@@ -408,7 +359,11 @@
       "id": "blatten-restaurant",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fblatten-restaurant.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Con un'atmosfera vivace e viste sulle montagne, il Bergrestaurant Blatten è un favorito tra gli sciatori locali, offrendo piatti preparati con ingredienti freschi.",
+      "tips_it": "Visitate a pranzo per immortalare panorami mozzafiato.",
+      "description_es": "Con un ambiente animado y vistas a la montaña, Bergrestaurant Blatten es uno de los favoritos entre los esquiadores locales, ofreciendo platos elaborados con ingredientes frescos.",
+      "tips_es": "Visita a la hora del almuerzo para capturar vistas impresionantes."
     },
     {
       "name": "Bernhard Perren's Memorial",
@@ -432,7 +387,11 @@
       "id": "perren-memorial",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fperren-memorial.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il memoriale di Bernhard Perren, leggendaria guida alpina e pioniere dello sci di Zermatt, onora il suo alpinismo senza pari e i suoi contributi alla comunità, simboleggiando il vitale patrimonio sportivo della regione.",
+      "tips_it": "Percepirete lo spirito alpinistico di Zermatt visitando il memoriale.",
+      "description_es": "El monumento a Bernhard Perren, legendario guía de montaña y pionero del esquí de Zermatt, honra su alpinismo inigualable y sus contribuciones a la comunidad, simbolizando el vital patrimonio deportivo de la región.",
+      "tips_es": "Siente el espíritu montañero de Zermatt visitando el monumento."
     },
     {
       "name": "Blauherd",
@@ -456,7 +415,11 @@
       "id": "blauherd",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fblauherd.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Incastonato nel panorama delle vette di Zermatt, Blauherd diventa un santuario per i viandanti in cerca di pace, immerso nei sussurri di una dolce brezza tra le nuvole che danzano.",
+      "tips_it": "Assicuratevi di controllare il meteo prima di salire in montagna.",
+      "description_es": "Enclavado en el panorama de picos de Zermatt, Blauherd se convierte en un santuario para los viajeros que buscan paz, bañado por los susurros de una suave brisa entre nubes a la deriva.",
+      "tips_es": "Asegúrate de consultar el pronóstico del tiempo antes de subir a la montaña."
     },
     {
       "name": "Brasserie Uno",
@@ -480,7 +443,11 @@
       "id": "brasserie-uno",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fbrasserie-uno.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "L'aria vibra di un leggero chiacchiericcio e dell'aroma di erbe arrostite. Fuori, una brezza frizzante sussurra, mentre all'interno, una luce calda brilla su legno lucido e bicchieri tintinnanti.",
+      "tips_it": "Cercate il posto vicino alla finestra per ammirare il debole luccichio del Cervino al tramonto.",
+      "description_es": "El aire zumba con un suave murmullo y el aroma de hierbas asadas. Afuera, una brisa fresca susurra, mientras que adentro, una luz cálida brilla sobre la madera pulida y el tintineo de los vasos.",
+      "tips_es": "Busca el asiento junto a la ventana para ver el tenue resplandor del Matterhorn al atardecer."
     },
     {
       "name": "Breithorn",
@@ -504,7 +471,11 @@
       "id": "breithorn",
       "distanceFromCenter": 1.0,
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fbreithorn.jpg?alt=media",
-      "source": "firebase"
+      "source": "firebase",
+      "description_it": "Il Breithorn, un angolo nascosto di Zermatt; la sua vetta elegantemente innevata si fonde con la tranquillità della natura.",
+      "tips_it": "Non dimenticate di portare la cioccolata calda per un picnic.",
+      "description_es": "Breithorn, un rincón escondido de Zermatt; su cumbre elegantemente cubierta de nieve se funde con la tranquilidad de la naturaleza.",
+      "tips_es": "No olvides llevar chocolate caliente para un pícnic."
     },
     {
       "name": "Broken Bar",
@@ -528,7 +499,11 @@
       "id": "broken-bar",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fbroken-bar.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il Broken Bar offre un ambiente sociale dinamico, incorniciato da un'architettura moderna e un'atmosfera storica.",
+      "tips_it": "Provate il menu degustazione speciale per le birre locali.",
+      "description_es": "Broken Bar ofrece un ambiente social dinámico en un telón de fondo de arquitectura moderna y ambiente histórico.",
+      "tips_es": "Prueba el menú de degustación especial de cervezas locales."
     },
     {
       "name": "Brown Cow Pub",
@@ -553,7 +528,11 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fbrown-cow-pub.jpg?alt=media",
       "source": "firebase",
       "distanceFromCenter": 1.0,
-      "area_en": "Center"
+      "area_en": "Center",
+      "description_it": "Nel cuore di Zermatt, l'architettura alpina tradizionale incontra tocchi moderni. A lume di candela, il calore delle bevande si fonde con le viste montane.",
+      "tips_it": "Non perdetevi di provare le birre artigianali della casa presenti nel menu.",
+      "description_es": "En el corazón de Zermatt, la arquitectura alpina tradicional se encuentra con toques modernos. A la luz de las velas, la calidez de las bebidas se fusiona con las vistas a la montaña.",
+      "tips_es": "No dejes de probar las cervezas de la casa que figuran en el menú."
     },
     {
       "name": "Café du Pont",
@@ -576,7 +555,11 @@
       "tips": "Pencereden dağ manzarasını izleyerek bir espresso için.",
       "tips_en": "Order an espresso while enjoying the mountain view from the window.",
       "source": "firebase",
-      "name_en": "Café du Pont"
+      "name_en": "Café du Pont",
+      "description_it": "Situato nel cuore di Zermatt, il Café du Pont brulica di atleti locali, creando un'atmosfera inebriante intrisa del profumo di caffè.",
+      "tips_it": "Ordinate un espresso mentre vi godete la vista sulle montagne dalla finestra.",
+      "description_es": "Situado en el corazón de Zermatt, Café du Pont bulle con atletas locales, creando una atmósfera embriagadora llena del aroma a café.",
+      "tips_es": "Pide un espresso mientras disfrutas de la vista a la montaña desde la ventana."
     },
     {
       "name": "Camping Attermenzen",
@@ -600,7 +583,11 @@
       "id": "attermenzen-camping",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fattermenzen-camping.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Affacciato sulla leggendaria silhouette del Cervino, questo campeggio incarna in modo unico la storia centenaria dell'alpinismo di Zermatt e la sua architettura alpina tradizionale, perfettamente integrata con la natura.",
+      "tips_it": "Prenotate in anticipo per assicurarvi una vista mozzafiato sul Cervino; preparate adeguatamente la vostra attrezzatura da trekking.",
+      "description_es": "Con vistas a la legendaria silueta del Matterhorn, este camping encarna de forma única la centenaria historia alpinista de Zermatt y su arquitectura alpina tradicional, integrada con la naturaleza.",
+      "tips_es": "Reserve con antelación para disfrutar de las vistas al Matterhorn; prepare su equipo de senderismo adecuadamente."
     },
     {
       "name": "Carina",
@@ -624,7 +611,11 @@
       "id": "carina",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fcarina.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il ricco piatto di fonduta di Carina offre un'armonia perfetta di formaggio cremoso con sottili note nocciolate e pezzi di pane fresco.",
+      "tips_it": "Intingete la fonduta con il pane fresco.",
+      "description_es": "La rica tabla de fondue de Carina ofrece una armonía perfecta de queso cremoso con sutiles notas a nuez y trozos de pan fresco.",
+      "tips_es": "Moje la fondue con pan fresco."
     },
     {
       "name": "Casa Mia",
@@ -648,31 +639,11 @@
       "id": "casa-mia",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fcasa-mia.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Cervo Mountain Resort",
-      "name_en": "Cervo",
-      "area": "Zermatt",
-      "category": "Deneyim",
-      "tags": [
-        "lüks",
-        "apres-ski",
-        "teras"
-      ],
-      "lat": 46.022,
-      "lng": 7.752,
-      "price": "high",
-      "rating": 4.7,
-      "description": "Zermatt'taki Cervo Mountain Resort, çağdaş lüksü geleneksel Alp mimarisiyle harmanlar. Matterhorn manzaralı terasları, sürdürülebilir tasarımı ve enfes mutfağıyla eşsiz bir dağ deneyimi sunar.",
-      "description_en": "Cervo Mountain Resort in Zermatt blends contemporary luxury with traditional Alpine architecture. Its Matterhorn-view terraces, sustainable design, and exquisite cuisine offer unparalleled mountain experience.",
-      "bestTime": "Akşamüzeri",
-      "tips": "Güneş batımını Matterhorn manzaralı terasta bir kokteylle izleyin.",
-      "tips_en": "Watch the sunset with a cocktail on the Matterhorn-view terrace.",
-      "id": "cervo",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fcervo.jpg?alt=media",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "L'aroma del caffè appena macinato riempie l'aria; il vapore sale da ogni tazza. Nonostante la frizzante brezza montana esterna, il calore interno e il sussurro dei dolci vi avvolgono.",
+      "tips_it": "Sorseggiate la vostra cioccolata calda vicino alla finestra, ammirando la silenziosa maestosità del Cervino.",
+      "description_es": "El aroma a café recién molido inunda el aire; el vapor se eleva de cada taza. A pesar de la fresca brisa de montaña exterior, la calidez interior y el susurro de los dulces le envuelven.",
+      "tips_es": "Disfrute de su chocolate caliente junto a la ventana, contemplando la majestuosidad silenciosa del Matterhorn."
     },
     {
       "name": "Chalet Schalisee",
@@ -696,7 +667,11 @@
       "id": "chalet-schalisee",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fchalet-schalisee.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Incastonato nel cuore di Zermatt, lo Chalet Schalisee è un raro gioiello architettonico Walser del XIX secolo, che mette in mostra squisite opere di falegnameria locale e l'affascinante stile di vita alpino tradizionale.",
+      "tips_it": "Sorseggiate una cioccolata calda sulla terrazza con vista sul Cervino, assaporando ogni istante.",
+      "description_es": "Enclavado en el corazón de Zermatt, el Chalet Schalisee es una rara joya arquitectónica Walser del siglo XIX, que exhibe una exquisita carpintería local y el cautivador estilo de vida alpino tradicional.",
+      "tips_es": "Disfrute de un chocolate caliente en la terraza con vistas al Matterhorn, saboreando el momento."
     },
     {
       "name": "Champagne Bar",
@@ -720,7 +695,11 @@
       "id": "champagne-bar",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fchampagne-bar.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Incastonato nel cuore di Zermatt, un caldo rifugio dove bollicine squisite incontrano un'eleganza toccante, circondato da panorami montani mozzafiato.",
+      "tips_it": "Visitate alle cinque del pomeriggio per un tramonto unico.",
+      "description_es": "Enclavado en el corazón de Zermatt, un cálido refugio donde las exquisitas burbujas se encuentran con una elegancia conmovedora, rodeado de impresionantes vistas a la montaña.",
+      "tips_es": "Visite a las cinco de la tarde para disfrutar de un atardecer único."
     },
     {
       "name": "Charles Kuonen Asma Köprüsü",
@@ -744,7 +723,11 @@
       "id": "charles-kuonen-asma-koprusu",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fcharles-kuonen-asma-koprusu.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "L'angolo di paradiso di Zermatt, un punto d'incontro per innamorati e avventurieri. Panorami abbaglianti prendono vita con escursionisti pieni di spirito.",
+      "tips_it": "Scegliete le prime ore del mattino per la vostra visita.",
+      "description_es": "El rincón paradisíaco de Zermatt, un punto de encuentro para amantes y aventureros. Vistas deslumbrantes cobran vida con excursionistas llenos de energía.",
+      "tips_es": "Elija las primeras horas de la mañana para su visita."
     },
     {
       "name": "Chez Vrony",
@@ -766,7 +749,11 @@
       "tips_en": "Don’t miss the Matterhorn view from the window.",
       "description_en": "Located in the heart of Zermatt, Chez Vrony masterfully blends traditional mountain cuisine with modern flavors; offering a tranquil hidden oasis amidst the bustling crowds.",
       "source": "firebase",
-      "name_en": "Chez Vrony"
+      "name_en": "Chez Vrony",
+      "description_it": "Situato nel cuore di Zermatt, Chez Vrony fonde magistralmente la cucina tradizionale di montagna con sapori moderni; offrendo un'oasi nascosta e tranquilla tra la folla vivace.",
+      "tips_it": "Non perdetevi la vista sul Cervino dalla finestra.",
+      "description_es": "Situado en el corazón de Zermatt, Chez Vrony combina magistralmente la cocina tradicional de montaña con sabores modernos; ofreciendo un tranquilo oasis escondido en medio de las bulliciosas multitudes.",
+      "tips_es": "No se pierda las vistas al Matterhorn desde la ventana."
     },
     {
       "name": "Chocolate Shop Hörnli",
@@ -789,7 +776,11 @@
       "tips": "Kış aylarında kakao içerek ısınabilirsiniz.",
       "tips_en": "Warm up with a cocoa during the winter months.",
       "source": "firebase",
-      "name_en": "Chocolate Shop Hörnli"
+      "name_en": "Chocolate Shop Hörnli",
+      "description_it": "Il Chocolate Shop Hörnli, sinonimo di Zermatt, offre cioccolatini confortanti realizzati con ingredienti freschi locali, lasciando sapori indimenticabili che persistono sul vostro palato.",
+      "tips_it": "Riscaldatevi con una cioccolata calda durante i mesi invernali.",
+      "description_es": "Chocolate Shop Hörnli, sinónimo de Zermatt, ofrece reconfortantes chocolates elaborados con ingredientes locales frescos, dejando sabores inolvidables en su paladar.",
+      "tips_es": "Caliente el cuerpo con un cacao durante los meses de invierno."
     },
     {
       "name": "Cinema Lounge",
@@ -813,7 +804,11 @@
       "id": "cinema-lounge",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fcinema-lounge.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Integrato nelle montagne di Zermatt, questo capolavoro architettonico fonde comfort lussuoso con tecnologia all'avanguardia. Offre un'esperienza culturale immersiva attraverso proiezioni cinematografiche esclusive.",
+      "tips_it": "Non dimenticate di gustare un drink al lussuoso bar prima o dopo il vostro film.",
+      "description_es": "Integrada en las montañas de Zermatt, esta obra maestra arquitectónica combina el lujo y la comodidad con tecnología de vanguardia. Ofrece una experiencia cultural inmersiva a través de proyecciones de películas exclusivas.",
+      "tips_es": "No olvide disfrutar de una copa en el lujoso bar antes o después de su película."
     },
     {
       "name": "Coop Supermarket Zermatt",
@@ -837,7 +832,11 @@
       "id": "coop",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fcoop.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il supermercato Coop a Zermatt riflette direttamente la cultura del villaggio offrendo prodotti freschi locali provenienti dai borghi montani.",
+      "tips_it": "Assicuratevi di provare le varietà di formaggi locali.",
+      "description_es": "El supermercado Coop en Zermatt refleja directamente la cultura del pueblo al ofrecer productos locales frescos de las aldeas de montaña.",
+      "tips_es": "Asegúrese de probar las variedades de quesos locales."
     },
     {
       "name": "Dom Hut",
@@ -861,7 +860,11 @@
       "id": "dom-hut",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fdom-hut.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Tra le vette di Zermatt, la Dom Hut, simbolo della storia dell'alpinismo, mostra la durabilità dell'architettura d'alta quota. È un rifugio vitale per gli alpinisti, che dà inizio a esperienze alpine indimenticabili.",
+      "tips_it": "Prenotate in anticipo e controllate sempre le condizioni meteorologiche prima della vostra ascesa.",
+      "description_es": "Entre los picos de Zermatt, Dom Hut, símbolo de la historia del alpinismo, muestra la durabilidad de la arquitectura de alta montaña. Es un refugio vital para los escaladores, iniciando experiencias alpinas inolvidables.",
+      "tips_es": "Reserve con antelación y siempre verifique las condiciones meteorológicas antes de su ascenso."
     },
     {
       "name": "Dossen Glacier Garden",
@@ -885,7 +888,11 @@
       "id": "dossen-glacier-garden",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fdossen-glacier-garden.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "L'originale formazione naturale del Giardino dei Ghiacciai di Dossen riecheggia la storia della regione, traboccante della ricca cultura delle montagne circostanti.",
+      "tips_it": "Visitate la mattina presto per le migliori viste del giardino.",
+      "description_es": "La formación natural original del Jardín Glaciar de Dossen hace eco de la historia de la región, rebosante de la rica cultura de las montañas circundantes.",
+      "tips_es": "Visite a primera hora de la mañana para disfrutar de las mejores vistas del jardín."
     },
     {
       "name": "Du Pont",
@@ -909,7 +916,11 @@
       "id": "du-pont",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fdu-pont.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Con l'eleganza dei materiali alpini, i caldi toni del legno e le imponenti viste sulle montagne, Du Pont offre un rifugio sereno.",
+      "tips_it": "Prendete un posto in terrazza al tramonto.",
+      "description_es": "Con la elegancia de los materiales alpinos, los cálidos tonos de madera y las imponentes vistas a la montaña, Du Pont ofrece un refugio sereno.",
+      "tips_es": "Consiga un lugar en la terraza al atardecer."
     },
     {
       "name": "Edelweiss Trail",
@@ -933,7 +944,11 @@
       "id": "edelweiss-trail",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fedelweiss-trail.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Intrecciato nel tessuto storico di Zermatt, questo sentiero che offre panorami unici del Cervino è una terrazza panoramica naturale costruita con la finezza dell'ingegneria montana.",
+      "tips_it": "Iniziate la mattina presto; scatterete le foto più nitide del Cervino.",
+      "description_es": "Tejido en el tejido histórico de Zermatt, este sendero que ofrece panoramas únicos del Matterhorn es una terraza natural construida con la delicadeza de la ingeniería de montaña.",
+      "tips_es": "Comience temprano por la mañana; capturará las fotos más claras del Matterhorn."
     },
     {
       "name": "Elsie's Bar",
@@ -956,7 +971,11 @@
       "tips": "Kahveyle birlikte yerel peynirlerin tadına bakın.",
       "tips_en": "Try the local cheeses paired with your coffee.",
       "source": "firebase",
-      "name_en": "Elsie's Bar"
+      "name_en": "Elsie's Bar",
+      "description_it": "Nel cuore di Zermatt, i dettagli in legno e l'atmosfera accogliente creano un ambiente perfetto per conversazioni amichevoli.",
+      "tips_it": "Provate i formaggi locali abbinati al vostro caffè.",
+      "description_es": "En el corazón de Zermatt, los detalles de madera y el ambiente acogedor crean un escenario perfecto para conversaciones amistosas.",
+      "tips_es": "Pruebe los quesos locales maridados con su café."
     },
     {
       "name": "English Church",
@@ -979,7 +998,11 @@
       "tips": "Kilisenin huzurlu atmosferini ve anıt plakalarını mutlaka deneyimleyin.",
       "tips_en": "Experience the church's peaceful atmosphere and memorial plaques.",
       "source": "firebase",
-      "name_en": "English Church"
+      "name_en": "English Church",
+      "description_it": "Costruita nel 1869 da alpinisti inglesi, questa chiesa gotica vittoriana ospita speciali memoriali e vetrate colorate che commemorano le vittime del Cervino. Un simbolo spirituale della ricca storia alpinistica di Zermatt.",
+      "tips_it": "Vivete l'atmosfera pacifica della chiesa e le targhe commemorative.",
+      "description_es": "Construida en 1869 por alpinistas ingleses, esta iglesia gótica victoriana alberga memoriales especiales y vidrieras que conmemoran a las víctimas del Matterhorn. Un símbolo espiritual de la rica historia alpinista de Zermatt.",
+      "tips_es": "Experimente la atmósfera pacífica de la iglesia y sus placas conmemorativas."
     },
     {
       "name": "Escape Room Zermatt",
@@ -1003,7 +1026,11 @@
       "id": "escape-room",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fescape-room.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Riflettendo la profonda storia alpinistica e l'architettura tradizionale di Zermatt, questo puzzle ingegnosamente progettato vi trasporta nel passato. Scoprite lo spirito leggendario della regione.",
+      "tips_it": "Riunite la vostra squadra; festeggiate in un caffè con vista sul Cervino.",
+      "description_es": "Reflejando la arraigada historia alpinista y la arquitectura tradicional de Zermatt, este ingenioso rompecabezas le transporta al pasado. Descubra el espíritu legendario de la región.",
+      "tips_es": "Reúna a su equipo; celebre en una cafetería con vistas al Matterhorn."
     },
     {
       "name": "Findelbach Viaduct",
@@ -1027,7 +1054,11 @@
       "id": "findelbach-viaduct",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Ffindelbach-viaduct.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nel cuore di Zermatt, il Viadotto di Findelbach offre un'atmosfera vibrante ed energica come punto d'incontro.",
+      "tips_it": "Visitate la mattina presto per ammirare l'alba.",
+      "description_es": "En el corazón de Zermatt, el Viaducto de Findelbach ofrece una atmósfera vibrante y energética como punto de encuentro.",
+      "tips_es": "Visite a primera hora de la mañana para ver el amanecer."
     },
     {
       "name": "Findeln",
@@ -1051,7 +1082,11 @@
       "id": "findeln",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Ffindeln.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Findeln, sopra Zermatt, un incantevole borgo, mette in mostra rare architetture Walser in legno secolari. Case, fienili, granai incarnano il prezioso lascito della vita alpina.",
+      "tips_it": "Dopo un'escursione panoramica, assaporate le prelibatezze locali nei suoi incantevoli ristoranti.",
+      "description_es": "Findeln, sobre Zermatt, una encantadora aldea, exhibe una rara arquitectura de madera Walser de siglos de antigüedad. Casas, graneros y hórreos encarnan el precioso legado de la vida alpina.",
+      "tips_es": "Después de una pintoresca caminata, saboree las delicias locales en sus encantadores restaurantes."
     },
     {
       "name": "Findlerhof",
@@ -1074,7 +1109,11 @@
       "tips": "Köyün en iyi peynir fondü için akşamüstü gidin.",
       "tips_en": "Visit in the late afternoon for the best cheese fondue in town.",
       "source": "firebase",
-      "name_en": "Findlerhof"
+      "name_en": "Findlerhof",
+      "description_it": "Il Findlerhof offre un caldo rifugio ricco di sapori locali e viste mozzafiato sulle montagne.",
+      "tips_it": "Visitate nel tardo pomeriggio per la migliore fonduta di formaggio della città.",
+      "description_es": "Findlerhof ofrece un cálido refugio lleno de sabores locales e impresionantes vistas a la montaña.",
+      "tips_es": "Visite a última hora de la tarde para disfrutar de la mejor fondue de queso de la ciudad."
     },
     {
       "name": "Five Lakes Walk",
@@ -1096,7 +1135,11 @@
       "tips_en": "Set out early in the morning for the perfect scenery.",
       "description_en": "In Zermatt's cool mountain air, the reflections of five lakes offer tranquility, enveloped in nature's soothing silence.",
       "source": "firebase",
-      "name_en": "Five Lakes Walk"
+      "name_en": "Five Lakes Walk",
+      "description_it": "Nell'aria fresca di montagna di Zermatt, i riflessi di cinque laghi offrono una tranquillità avvolgente, immersi nel silenzio rigenerante della natura.",
+      "tips_it": "Partite all'alba per godere di uno scenario mozzafiato e cogliere i riflessi migliori.",
+      "description_es": "En el fresco aire de montaña de Zermatt, los reflejos de cinco lagos ofrecen tranquilidad, envueltos en el relajante silencio de la naturaleza.",
+      "tips_es": "Salga temprano por la mañana para disfrutar del paisaje perfecto."
     },
     {
       "name": "Fluhalp",
@@ -1120,7 +1163,11 @@
       "id": "fluhalp",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Ffluhalp.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Fluhalp, splendido esempio di architettura alpina dove legno e pietra si fondono con grazia, regala un'atmosfera calda e accogliente, accompagnata da viste mozzafiato sul Cervino.",
+      "tips_it": "D'inverno, sorseggiate un tè caldo sulla terrazza esterna mentre la neve cade, un'esperienza magica.",
+      "description_es": "Fluhalp, un hermoso ejemplo de arquitectura alpina con una elegante mezcla de madera y piedra, ofrece un ambiente cálido acompañado de impresionantes vistas del Matterhorn.",
+      "tips_es": "En invierno, pruebe a tomar té en la terraza exterior mientras nieva."
     },
     {
       "name": "Forest Fun Park",
@@ -1144,7 +1191,11 @@
       "id": "forest-fun-park",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fforest-fun-park.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Questo parco, magistralmente integrato nelle pinete di Zermatt, offre emozionanti percorsi a fune e zipline con vista sul Cervino. La sua architettura moderna e in armonia con la natura promette avventure alpine indimenticabili.",
+      "tips_it": "Prenotate in anticipo e indossate scarpe comode; i percorsi possono essere molto frequentati.",
+      "description_es": "Este parque, magistralmente integrado en los bosques de pinos de Zermatt, ofrece emocionantes circuitos de cuerdas y tirolinas con vistas al Matterhorn. Su arquitectura moderna y en armonía con la naturaleza promete aventuras alpinas inolvidables.",
+      "tips_es": "Reserve con antelación y use calzado cómodo; los circuitos pueden estar concurridos."
     },
     {
       "name": "Fuchs Bakery",
@@ -1166,7 +1217,11 @@
       "tips_en": "Only purchase traditional bread in the morning.",
       "description_en": "Fuchs Bakery is a historic corner offering modern flavors; a tranquil spot where Parisian pastries meet Alpine bread.",
       "source": "firebase",
-      "name_en": "Fuchs Bakery"
+      "name_en": "Fuchs Bakery",
+      "description_it": "La Panetteria Fuchs è un angolo storico che propone sapori moderni; un luogo tranquillo dove la pasticceria parigina incontra il pane alpino.",
+      "tips_it": "Acquistate il pane tradizionale solo al mattino per gustarlo al meglio.",
+      "description_es": "La Panadería Fuchs es un rincón histórico que ofrece sabores modernos; un lugar tranquilo donde la repostería parisina se encuentra con el pan alpino.",
+      "tips_es": "Compre pan tradicional solo por la mañana."
     },
     {
       "name": "Furi",
@@ -1190,7 +1245,11 @@
       "id": "furi",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Ffuri.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Furi rivela l'architettura geologica unica dell'Era Glaciale: giganteschi mulini glaciali e antiche formazioni rocciose. I tradizionali chalet definiscono questa affascinante esperienza storica di Zermatt.",
+      "tips_it": "Indossate scarpe da trekking comode quando esplorate il giardino dei ghiacciai.",
+      "description_es": "Furi exhibe la arquitectura geológica única de la Edad de Hielo: molinos glaciares gigantes, antiguas formaciones rocosas. Los chalets tradicionales definen esta fascinante experiencia histórica de Zermatt.",
+      "tips_es": "Use calzado cómodo para caminar al explorar el jardín glaciar."
     },
     {
       "name": "Gandegg Hütte",
@@ -1214,7 +1273,11 @@
       "id": "gandegg-hut",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fgandegg-hut.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Eretta nel 1891 sul ghiacciaio del Teodulo a Zermatt, è tra i rifugi più antichi e simbolici. La sua resiliente architettura alpina tradizionale offre un rifugio storico agli esploratori che scalano le vette.",
+      "tips_it": "L'escursione al rifugio è lunga e impegnativa; un buon equipaggiamento è fondamentale.",
+      "description_es": "Erigida en 1891 sobre el glaciar Theodul de Zermatt, esta es una de las cabañas más antiguas y simbólicas. Su resistente arquitectura alpina tradicional ofrece un refugio histórico para los exploradores que escalan picos.",
+      "tips_es": "La caminata hasta la cabaña es larga y desafiante; un buen equipo es esencial."
     },
     {
       "name": "Gant",
@@ -1238,7 +1301,11 @@
       "id": "gant",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fgant.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Gant vanta un'architettura raffinata dove legno e pietra si fondono, impreziosita da panorami alpini illuminati dalle tenui sfumature rosa dell'alpenglow.",
+      "tips_it": "Accomodatevi in terrazza per un brunch e godetevi la vista impareggiabile.",
+      "description_es": "Gant presume de una arquitectura refinada donde la madera y la piedra se fusionan, adornada con vistas alpinas iluminadas en suaves tonos rosados por el arrebol alpino.",
+      "tips_es": "Siéntese en la terraza para disfrutar de un brunch y de las vistas."
     },
     {
       "name": "Gee's",
@@ -1262,7 +1329,11 @@
       "id": "gees",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fgees.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Sotto lo sguardo del Cervino, questo luogo custodisce il tintinnio sommesso del ghiaccio per chi conosce davvero Zermatt, una tranquilla ricompensa dopo l'ultima discesa, lontano dalla confusione principale.",
+      "tips_it": "Ordinate il loro 'Glühwein mit Schuss' fatto in casa dopo le 20:00 per un calore autentico e avvolgente.",
+      "description_es": "Bajo la mirada del Matterhorn, este lugar guarda el suave tintineo del hielo para quienes realmente conocen Zermatt, una tranquila recompensa después de la última bajada, lejos del bullicio principal.",
+      "tips_es": "Pida su 'Glühwein mit Schuss' casero después de las 8 PM para un calor genuino."
     },
     {
       "name": "Glacier Palace",
@@ -1286,7 +1357,11 @@
       "id": "glacier-palace",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fglacier-palace.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Scolpito a 15 metri di profondità nel Matterhorn Glacier Paradise, è il palazzo di ghiaccio più alto del mondo. Rivela le meraviglie artistiche e geologiche del ghiacciaio naturale: sculture di ghiaccio, crepacci e tunnel.",
+      "tips_it": "Le temperature interne si aggirano intorno ai -5°C. Indossate abiti caldi e guanti.",
+      "description_es": "Tallado a 15 metros de profundidad en el Matterhorn Glacier Paradise, el palacio de hielo más alto del mundo. Revela las maravillas artísticas y geológicas del glaciar natural: esculturas de hielo, grietas, túneles.",
+      "tips_es": "Las temperaturas interiores rondan los -5°C. Use ropa de abrigo y guantes."
     },
     {
       "name": "Golden India",
@@ -1310,7 +1385,11 @@
       "id": "golden-india",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fgolden-india.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Golden India a Şehir è una tappa consolidata che offre autentici sapori indiani. Scoprite piatti tradizionali preparati con una danza di spezie.",
+      "tips_it": "Provate il loro menù del pranzo feriale o le specialità tandoori.",
+      "description_es": "Golden India en Şehir es una parada consolidada que ofrece auténticos sabores indios. Descubra platos tradicionales preparados con una danza de especias.",
+      "tips_es": "Pruebe su menú de almuerzo entre semana o las especialidades tandoori."
     },
     {
       "name": "Golf Club Matterhorn",
@@ -1334,7 +1413,11 @@
       "id": "matterhorn-golf-club",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmatterhorn-golf-club.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Fondato nel 1991, questo iconico golf club all'ombra del Cervino integra magistralmente un campo da campionato con il terreno alpino; la sua elegante clubhouse fonde splendidamente lusso e natura.",
+      "tips_it": "Anche se non giocate a golf, assaporate le viste sul Cervino dal ristorante del club.",
+      "description_es": "Fundado en 1991, este icónico club de golf a la sombra del Matterhorn integra magistralmente un campo de campeonato con el terreno alpino; su elegante casa club fusiona espléndidamente lujo y naturaleza.",
+      "tips_es": "Incluso si no juega al golf, saboree las vistas del Matterhorn desde el restaurante del club."
     },
     {
       "name": "Gorner Gorge",
@@ -1356,7 +1439,11 @@
       "tips_en": "Visit in the morning to listen to the rushing water sounds.",
       "description_en": "In Gorner Gorge, the sound of nature ignites the imagination of adventurers, radiating a vibrant energy throughout the area.",
       "source": "firebase",
-      "name_en": "Gorner Gorge"
+      "name_en": "Gorner Gorge",
+      "description_it": "Nella Gola di Gorner, il suono della natura accende l'immaginazione degli avventurieri, irradiando un'energia vibrante in tutta l'area.",
+      "tips_it": "Visitate al mattino per ascoltare il fragore delle acque impetuose.",
+      "description_es": "En la Garganta de Gorner, el sonido de la naturaleza enciende la imaginación de los aventureros, irradiando una energía vibrante por toda la zona.",
+      "tips_es": "Visite por la mañana para escuchar el sonido del agua corriendo."
     },
     {
       "name": "Gornergrat",
@@ -1380,7 +1467,11 @@
       "id": "gornergrat",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fgornergrat.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il Gornergrat offre generosamente panorami alpini mozzafiato dalla cima di Zermatt, mettendo in mostra la maestosa silhouette del Cervino.",
+      "tips_it": "Gustate la vostra colazione sulla terrazza del caffè al Gornergrat, con una vista indimenticabile.",
+      "description_es": "Gornergrat presenta generosamente impresionantes vistas alpinas desde la cima de Zermatt, mostrando la majestuosa silueta del Matterhorn.",
+      "tips_es": "Disfrute de su desayuno en la terraza de la cafetería en Gornergrat."
     },
     {
       "name": "Gornergrat Railway",
@@ -1402,7 +1493,11 @@
       "tips_en": "Bring warm clothing, even in midsummer.",
       "description_en": "From the Gornergrat Railway, hear the whisper of the wind and the sound of falling snowflakes while admiring the magnificent Alpine views.",
       "source": "firebase",
-      "name_en": "Gornergrat Railway"
+      "name_en": "Gornergrat Railway",
+      "description_it": "Dalla Ferrovia del Gornergrat, ascoltate il sussurro del vento e il suono dei fiocchi di neve che cadono, ammirando i magnifici panorami alpini.",
+      "tips_it": "Portate abiti caldi, anche in piena estate.",
+      "description_es": "Desde el Tren de Gornergrat, escuche el susurro del viento y el sonido de los copos de nieve cayendo mientras admira las magníficas vistas alpinas.",
+      "tips_es": "Lleve ropa de abrigo, incluso en pleno verano."
     },
     {
       "name": "Grampi's Bar",
@@ -1426,7 +1521,11 @@
       "id": "grampis",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fgrampis.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il Grampi's Bar offre cocktail artigianali in un'atmosfera accogliente e con viste mozzafiato sulle montagne.",
+      "tips_it": "Optate per il cocktail alpino nelle ore serali, un vero piacere.",
+      "description_es": "Grampi's Bar ofrece cócteles artesanales junto con un ambiente acogedor e impresionantes vistas a la montaña.",
+      "tips_es": "Opte por el cóctel alpino en las horas de la tarde."
     },
     {
       "name": "Grampi's Pub",
@@ -1449,31 +1548,11 @@
       "tips": "Pencereden dağ manzarası eşliğinde kahve içmelisiniz.",
       "tips_en": "Enjoy coffee with a mountain view from the window.",
       "source": "firebase",
-      "name_en": "Grampi's Pub"
-    },
-    {
-      "name": "Grand Hotel Zermatterhof",
-      "name_en": "Zermatterhof",
-      "area": "Zermatt",
-      "category": "Deneyim",
-      "tags": [
-        "lüks",
-        "tarihi",
-        "spa"
-      ],
-      "lat": 46.0205,
-      "lng": 7.7485,
-      "price": "high",
-      "rating": 4.9,
-      "description": "1879'da inşa edilen bu Belle Époque mimarisi şaheseri, Zermatt'ın efsanevi bir simgesidir. Tarihi zarafeti, Matterhorn manzarasıyla nesillerdir seçkin misafirleri ağırlamıştır.",
-      "description_en": "This 1879 Belle Époque masterpiece, a legendary Zermatt symbol, offers historic elegance. Its stunning Matterhorn views have welcomed distinguished guests for generations.",
-      "bestTime": "Tüm gün",
-      "tips": "Matterhorn manzaralı odalardan birini ayırtarak deneyiminizi zirveye taşıyın.",
-      "tips_en": "Elevate your experience by booking a room with Matterhorn views.",
-      "id": "zermatterhof",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fzermatterhof.jpg?alt=media",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "name_en": "Grampi's Pub",
+      "description_it": "Il Grampi's Pub a Zermatt fonde il fascino storico con sapori moderni, offrendo conversazioni vivaci e angoli tranquilli.",
+      "tips_it": "Godetevi un caffè con vista sulle montagne dalla finestra, un momento di pura serenità.",
+      "description_es": "Grampi's Pub en Zermatt combina el encanto histórico con sabores modernos, ofreciendo conversaciones animadas y rincones tranquilos.",
+      "tips_es": "Disfrute de un café con vistas a la montaña desde la ventana."
     },
     {
       "name": "Grill le Cervin",
@@ -1497,7 +1576,11 @@
       "id": "grill-le-cervin",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fgrill-le-cervin.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il Grill le Cervin, incastonato nel cuore di Zermatt, offre un'atmosfera vivace dove sciatori locali e turisti si incontrano. Burro caldo e carni fresche alla griglia sono le delizie essenziali di questo locale.",
+      "tips_it": "Nelle giornate di sole, godetevi la terrazza per un'esperienza indimenticabile.",
+      "description_es": "Grill le Cervin, enclavado en el corazón de Zermatt, ofrece un ambiente animado donde convergen esquiadores locales y turistas. La mantequilla caliente y las carnes recién asadas son las delicias esenciales del restaurante.",
+      "tips_es": "Disfrute de la terraza en los días soleados."
     },
     {
       "name": "Grindjisee",
@@ -1521,7 +1604,11 @@
       "id": "grindjisee",
       "distanceFromCenter": 1.0,
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fgrindjisee.jpg?alt=media",
-      "source": "firebase"
+      "source": "firebase",
+      "description_it": "Un affascinante lago di montagna di origine glaciale, che offre riflessi unici del Cervino con la sua architettura naturale. Ospitando flora e fauna alpina, questa meraviglia naturale è un'esperienza impagabile a Zermatt.",
+      "tips_it": "Visitate al mattino presto per ammirare i migliori riflessi del Cervino sull'acqua.",
+      "description_es": "Un cautivador lago de montaña de la era glacial, que ofrece reflejos únicos del Matterhorn con su arquitectura natural. Albergando flora y fauna alpina, esta maravilla natural es una experiencia inestimable de Zermatt.",
+      "tips_es": "Visite temprano por la mañana para obtener los mejores reflejos del Matterhorn."
     },
     {
       "name": "Grünsee",
@@ -1545,7 +1632,11 @@
       "id": "grunsee",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fgrunsee.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Formatosi dallo scioglimento dei ghiacciai, questo iconico lago di montagna a Zermatt custodisce i riflessi cristallini delle Alpi mozzafiato. I suoi panorami spirituali incantano ogni viaggiatore.",
+      "tips_it": "Visitate al mattino presto; i riflessi del lago sono più nitidi in quel momento.",
+      "description_es": "Formado por deshielos glaciares, este icónico lago de montaña en Zermatt alberga los reflejos cristalinos de los impresionantes Alpes. Sus vistas espirituales cautivan a cada viajero.",
+      "tips_es": "Visite temprano por la mañana; los reflejos del lago son más claros entonces."
     },
     {
       "name": "Harry's Ski Bar",
@@ -1569,7 +1660,11 @@
       "id": "harrys-ski-bar",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fharrys-ski-bar.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "L'Harry's Ski Bar, incastonato ai piedi delle Alpi, delizia con ricca cioccolata calda e fonduta fatta in casa, offrendo il luogo perfetto per rilassarsi dopo una sciata.",
+      "tips_it": "Non andate via senza aver provato la fonduta; è una delizia divina e imperdibile.",
+      "description_es": "Harry's Ski Bar, enclavado a los pies de los Alpes, deleita con un rico chocolate caliente y fondue casera, ofreciendo un lugar perfecto para relajarse después de esquiar.",
+      "tips_es": "No se vaya sin probar la fondue; es un manjar divino."
     },
     {
       "name": "Heli-Skiing Zermatt",
@@ -1593,7 +1688,11 @@
       "id": "heli-skiing",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fheli-skiing.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Zermatt, all'ombra del Cervino, vanta paesaggi glaciali mozzafiato. L'eliski fonde secoli di tradizione alpinistica con l'avventura moderna, offrendo un accesso unico a queste vette colossali.",
+      "tips_it": "Prenotate in anticipo per assicurarvi l'esperienza e monitorate attentamente le condizioni meteorologiche.",
+      "description_es": "Zermatt, a la sombra del Matterhorn, presume de una magnífica arquitectura glacial. El heliesquí fusiona siglos de herencia montañista con la aventura moderna, ofreciendo un acceso único a estas colosales cumbres.",
+      "tips_es": "Reserva con antelación para asegurar tu experiencia y sigue las condiciones meteorológicas con atención."
     },
     {
       "name": "Helicopter Tour",
@@ -1617,7 +1716,11 @@
       "id": "helicopter-tour",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhelicopter-tour.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Esplorate il tessuto storico e lo skyline moderno della città da una prospettiva a volo d'uccello. Offre una visione unica che spazia dalle antiche rovine all'architettura contemporanea.",
+      "tips_it": "Prenotate l'escursione vicino al tramonto per ammirare la città che si illumina di una luce dorata.",
+      "description_es": "Explora el tejido histórico y el moderno horizonte de la ciudad a vista de pájaro. Ofrece una perspectiva única que abarca desde ruinas antiguas hasta arquitectura contemporánea.",
+      "tips_es": "Reserva cerca del atardecer para capturar la ciudad bañada en una luz dorada."
     },
     {
       "name": "Hennu Stall",
@@ -1641,7 +1744,11 @@
       "id": "hennu-stall",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhennu-stall.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "L'Hennu Stall è un rifugio storico che mette in mostra l'iconica architettura vallesana di Zermatt, con strutture in legno centenarie che riflettono la vita tradizionale di montagna. Offre un'autentica ospitalità alpina.",
+      "tips_it": "Sedetevi all'aperto in una giornata di sole e godetevi il panorama.",
+      "description_es": "Hennu Stall es un refugio histórico que exhibe la icónica arquitectura del Valais de Zermatt con estructuras de madera centenarias, reflejo de la vida tradicional de montaña. Ofrece una auténtica hospitalidad alpina.",
+      "tips_es": "Siéntate fuera en un día soleado y disfruta de las vistas."
     },
     {
       "name": "Hexenbar",
@@ -1665,7 +1772,11 @@
       "id": "witches-bar",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fwitches-bar.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "L'Hexenbar, ricco di dettagli mistici in legno e luci calde, avvolge Zermatt in un'atmosfera incantevole.",
+      "tips_it": "Accomodatevi nell'area del camino, sul retro del bar.",
+      "description_es": "Hexenbar, repleto de detalles místicos de madera y luz cálida, envuelve Zermatt en una atmósfera encantadora.",
+      "tips_es": "Siéntate en la zona de la chimenea, en la parte trasera del bar."
     },
     {
       "name": "Hinterdorf",
@@ -1687,7 +1798,11 @@
       "tips_en": "Preserve the silence; experience this historic village's atmosphere with tranquility.",
       "description_en": "Hinterdorf, Zermatt's oldest district, preserves 16th-19th century wooden houses, stables, granaries, revealing unique Valais architecture and profound alpine history.",
       "source": "firebase",
-      "name_en": "Hinterdorf (Old Barns)"
+      "name_en": "Hinterdorf (Old Barns)",
+      "description_it": "Hinterdorf, il quartiere più antico di Zermatt, conserva case in legno, stalle e granai del XVI-XIX secolo, rivelando un'architettura vallesana unica e una profonda storia alpina.",
+      "tips_it": "Preservate il silenzio; vivete l'atmosfera di questo villaggio storico con tranquillità.",
+      "description_es": "Hinterdorf, el distrito más antiguo de Zermatt, conserva casas de madera, establos y graneros de los siglos XVI al XIX, revelando una arquitectura única del Valais y una profunda historia alpina.",
+      "tips_es": "Preserva el silencio; experimenta la atmósfera de este pueblo histórico con tranquilidad."
     },
     {
       "name": "Hinterdorf (Eski Köy)",
@@ -1712,7 +1827,11 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhinterdorf-eski-koy.jpg?alt=media",
       "source": "firebase",
       "distanceFromCenter": 1.0,
-      "area_en": "Center"
+      "area_en": "Center",
+      "description_it": "Un affascinante nucleo storico preservato che riflette la vita di Zermatt tra il XVI e il XIX secolo, mostrando un'architettura agricola regionale unica attraverso case e fienili vallesani in legno sostenuti da pietre.",
+      "tips_it": "Passeggiate lentamente per le stradine del vecchio villaggio per fare un viaggio nel passato.",
+      "description_es": "Un fascinante y bien conservado núcleo histórico que refleja la vida de Zermatt entre los siglos XVI y XIX, exhibiendo una arquitectura agrícola regional única a través de casas y graneros de madera del Valais con cimientos de piedra.",
+      "tips_es": "Pasea lentamente por las estrechas calles del casco antiguo para viajar al pasado."
     },
     {
       "name": "Hinterdorfstrasse",
@@ -1736,7 +1855,11 @@
       "id": "hinterdorf-street",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhinterdorf-street.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Hinterdorfstrasse, l'antico cuore di Zermatt, conserva in modo unico case in legno vallesane del XVI secolo. La sua architettura autentica mostra il tessuto originale del villaggio e la storica vita contadina alpina.",
+      "tips_it": "Indossate scarpe robuste e passeggiate per le stradine.",
+      "description_es": "Hinterdorfstrasse, el antiguo corazón de Zermatt, conserva de forma única casas de madera del Valais del siglo XVI. Su arquitectura auténtica muestra el tejido original del pueblo y la vida histórica de los agricultores alpinos.",
+      "tips_es": "Usa calzado resistente y deambula por sus estrechas calles."
     },
     {
       "name": "Hirli",
@@ -1760,7 +1883,11 @@
       "id": "hirli",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhirli.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nell'angolo nascosto di Hirli, ci si perde nella serena melodia della natura, avvolti dal silenzio della montagna.",
+      "tips_it": "Non dimenticate di fare colazione prima di salire.",
+      "description_es": "En el rincón escondido de Hirli, te perderás en la serena melodía de la naturaleza, envuelto por el silencio de la montaña.",
+      "tips_es": "No olvides desayunar antes de subir."
     },
     {
       "name": "Hohbalmen",
@@ -1784,7 +1911,11 @@
       "id": "hohbalmen",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhohbalmen.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Hohbalmen intreccia moderne baite di montagna con affascinanti viste alpine classiche.",
+      "tips_it": "Andate presto per una tranquilla passeggiata mattutina.",
+      "description_es": "Hohbalmen entrelaza modernas cabañas de montaña con cautivadoras vistas alpinas clásicas.",
+      "tips_es": "Ve temprano para un tranquilo paseo matutino."
     },
     {
       "name": "Hohtälli",
@@ -1808,7 +1939,11 @@
       "id": "hohtalli",
       "distanceFromCenter": 1.0,
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhohtalli.jpg?alt=media",
-      "source": "firebase"
+      "source": "firebase",
+      "description_it": "Hohtälli è un rifugio nascosto dove antiche montagne incontrano moderne strutture sciistiche.",
+      "tips_it": "Non dimenticate di ordinare il gözleme per colazione.",
+      "description_es": "Hohtälli es un refugio escondido donde las montañas ancestrales se encuentran con modernas instalaciones de esquí.",
+      "tips_es": "No olvides pedir el gözleme para el desayuno."
     },
     {
       "name": "Horu Trophy Curling",
@@ -1832,31 +1967,11 @@
       "id": "curling",
       "distanceFromCenter": 1.0,
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhoru_trophy_curling.jpg?alt=media",
-      "source": "firebase"
-    },
-    {
-      "name": "Hotel Bahnhof",
-      "name_en": "Hotel Bahnhof",
-      "area": "Zermatt",
-      "category": "Deneyim",
-      "tags": [
-        "ekonomik",
-        "tarihi",
-        "dağcı"
-      ],
-      "lat": 46.023,
-      "lng": 7.7485,
-      "price": "low",
-      "rating": 4.4,
-      "description": "Hotel Bahnhof, şehrin tarihi tren garının yanı başında, 19. yüzyıl sonlarından beri yolcuları ağırlayan köklü bir durak. Merkezi konumuyla Şehir'i keşfe ideal.",
-      "description_en": "Hotel Bahnhof, a historic stop welcoming travelers since the late 19th century, stands right next to the city's main train station. Ideal for exploring Şehir with its central location.",
-      "bestTime": "Tüm gün",
-      "tips": "Trenle gelenler için ideal, erken rezervasyonla gar manzaralı odaları yakalayın.",
-      "tips_en": "Ideal for train travelers; secure station-view rooms by booking early.",
-      "id": "hotel-bahnhof",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhotel-bahnhof.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "description_it": "L'Horu Trophy Curling, tra le vette di Zermatt, è un prestigioso centro di sport invernali noto per il suo design moderno, che ospita campionati internazionali e riflette il patrimonio alpino.",
+      "tips_it": "Prenotate in anticipo e provate il curling con vista sul Cervino.",
+      "description_es": "El Horu Trophy Curling, entre los picos de Zermatt, es un prestigioso centro de deportes de invierno notable por su diseño moderno, que alberga campeonatos internacionales y refleja la herencia alpina.",
+      "tips_es": "Reserva con antelación y experimenta el curling con vistas al Matterhorn."
     },
     {
       "name": "Hängebrücke Furi",
@@ -1880,7 +1995,11 @@
       "id": "furi-suspension-bridge",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Ffuri-suspension-bridge.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Con il fresco della brezza montana, ammirare i villaggi nascosti e la natura circostante dal Hängebrücke Furi offre una pace unica.",
+      "tips_it": "Andate la mattina presto per evitare la folla.",
+      "description_es": "Con el frescor de la brisa de montaña, contemplar los pueblos escondidos y la naturaleza envolvente desde el Hängebrücke Furi ofrece una paz única.",
+      "tips_es": "Ve temprano por la mañana para evitar las multitudes."
     },
     {
       "name": "Höhenweg Europaweg",
@@ -1904,7 +2023,11 @@
       "id": "hohenweg-europaweg",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhohenweg-europaweg.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "L'iconico Europaweg di Zermatt, che ospita il Ponte Sospeso Charles Kuonen inaugurato nel 2017, incarna la brillantezza ingegneristica. Offre viste impareggiabili su maestose vette alpine, incluso il Cervino.",
+      "tips_it": "Indossate scarponi da trekking robusti; fate attenzione se soffrite di vertigini.",
+      "description_es": "El icónico Europaweg de Zermatt, hogar del Puente Colgante Charles Kuonen inaugurado en 2017, encarna la brillantez de la ingeniería. Ofrece vistas inigualables de majestuosos picos alpinos, incluido el Matterhorn.",
+      "tips_es": "Usa botas de senderismo resistentes; ten precaución si tienes miedo a las alturas."
     },
     {
       "name": "Hörnlihütte",
@@ -1928,7 +2051,11 @@
       "id": "hornli-hut",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhornli-hut.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Costruita nel 1880, la Hörnlihütte è l'ultima tappa essenziale per gli scalatori del Cervino. La sua architettura alpina funzionale incarna strategicamente secoli di storia alpinistica e aspirazioni alla vetta.",
+      "tips_it": "Godetevi un tè caldo e viste impareggiabili sul Cervino dopo la vostra ascesa.",
+      "description_es": "Construida en 1880, Hörnlihütte es la última parada esencial para los escaladores del Matterhorn. Su arquitectura alpina funcional encarna estratégicamente siglos de historia montañista y aspiraciones de cumbre.",
+      "tips_es": "Disfruta de un té caliente y vistas inigualables del Matterhorn después de tu ascenso."
     },
     {
       "name": "Igloo Village Zermatt",
@@ -1952,7 +2079,11 @@
       "id": "igloo-village-zermatt",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Figloo-village-zermatt.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Ricostruito ogni anno, questo villaggio unico vanta un'architettura scolpita nella neve e nel ghiaccio; offre esperienze indimenticabili con camere d'hotel con vista sul Cervino, un bar di ghiaccio e opere d'arte affascinanti.",
+      "tips_it": "Prenotate in anticipo per non perdere questa unica esperienza in un hotel di neve.",
+      "description_es": "Reconstruido anualmente, este singular pueblo presume de una arquitectura esculpida en nieve y hielo; ofreciendo experiencias inolvidables con habitaciones de hotel con vistas al Matterhorn, un bar de hielo y arte cautivador.",
+      "tips_es": "Reserva con antelación para asegurarte de no perderte esta experiencia única en un hotel de nieve."
     },
     {
       "name": "Inderbinen Fountain",
@@ -1976,7 +2107,11 @@
       "id": "inderbinen-fountain",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Finderbinen-fountain.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Dedicata al leggendario guida alpina di Zermatt Ulrich Inderbinen, questa fontana in pietra onora la sua eredità e la tradizione alpinistica della regione. Offre acqua rinfrescante, simbolo di resilienza.",
+      "tips_it": "Riempite la vostra borraccia e assaggiate l'acqua di montagna più fresca di Zermatt.",
+      "description_es": "Dedicada al legendario guía de montaña de Zermatt, Ulrich Inderbinen, esta fuente de piedra honra su legado y la tradición montañista de la región. Ofrece agua refrescante, simbolizando la resiliencia.",
+      "tips_es": "Rellena tu botella y prueba el agua de montaña más fresca de Zermatt."
     },
     {
       "name": "Indoor Golf Zermatt",
@@ -2000,7 +2135,11 @@
       "id": "indoor-golf",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Findoor-golf.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Miscelando magistralmente l'architettura tradizionale di Zermatt con l'estetica alpina e la tecnologia moderna, questa struttura unica ospita simulatori di golf avanzati, offrendo divertimento con vista sulle montagne anche in mezzo alle nevi invernali.",
+      "tips_it": "Prenotate in anticipo per provare i simulatori con vista sulle montagne.",
+      "description_es": "Fusionando magistralmente la arquitectura tradicional de Zermatt con la estética alpina y la tecnología moderna, esta instalación única alberga simuladores de golf avanzados, ofreciendo el disfrute de vistas a la montaña incluso entre las nieves invernales.",
+      "tips_es": "Reserva con antelación para experimentar los simuladores con vistas a la montaña."
     },
     {
       "name": "Kapelle Blatten",
@@ -2024,7 +2163,11 @@
       "id": "blatten-chapel",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fblatten-chapel.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Costruita nel 1686, la Kapelle Blatten, una rara gemma alpina dedicata alla Vergine Maria, presenta un altare barocco, squisite sculture in legno, ed è una tappa sacra sul sentiero storico di Zmutt.",
+      "tips_it": "Si raggiunge tramite il sentiero escursionistico di Zmutt; ricordate di indossare scarpe comode.",
+      "description_es": "Construida en 1686, la Kapelle Blatten, una rara joya alpina dedicada a la Virgen María, presenta un altar barroco, exquisitas tallas de madera y es una parada sagrada en el histórico sendero de Zmutt.",
+      "tips_es": "Se llega a través del sendero de senderismo de Zmutt; recuerda usar calzado cómodo."
     },
     {
       "name": "Kayak & Snowboard",
@@ -2048,7 +2191,11 @@
       "id": "kayak-&-snowboard",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fkayak-_-snowboard.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Continuando la tradizione degli sport invernali di Zermatt, questo centro offre attrezzatura e lezioni per sci e snowboard. Godetevi le vette innevate!",
+      "tips_it": "Può diventare affollato nei fine settimana; preferite andare presto o nei giorni feriali.",
+      "description_es": "Continuando la tradición de deportes de invierno de Şehir, este centro ofrece equipo y lecciones para esquí y snowboard. ¡Disfruta de los picos nevados!",
+      "tips_es": "Puede llenarse los fines de semana; prefiere ir temprano o entre semana."
     },
     {
       "name": "Kirchbrücke",
@@ -2072,7 +2219,11 @@
       "id": "church-bridge",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fchurch-bridge.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Ascendendo elegantemente sulla Matter Vispa, il ponte in pietra, cullato nell'ombra storica della chiesa, incornicia la maestosa silhouette del Cervino in un'atmosfera serena.",
+      "tips_it": "Cogliete la cima del Cervino dal ponte alla prima luce del mattino.",
+      "description_es": "Ascendiendo elegantemente sobre el Matter Vispa, el puente de piedra, acunado a la sombra histórica de la iglesia, enmarca la majestuosa silueta del Matterhorn en una atmósfera serena.",
+      "tips_es": "Captura la cima del Matterhorn desde el puente con la primera luz de la mañana."
     },
     {
       "name": "Klein Matterhorn",
@@ -2096,7 +2247,11 @@
       "id": "little-matterhorn",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Flittle-matterhorn.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Al Klein Matterhorn, l'energia è palpabile: alpinisti e appassionati di sci si mescolano in un'atmosfera di pura eccitazione. La vista spazia su un'ampia catena montuosa, elegantemente avvolta da un manto nevoso che sembra danzare.",
+      "tips_it": "Indossate scarpe comode per l'ascesa al Klein Matterhorn.",
+      "description_es": "Siente la energía vibrante en Klein Matterhorn, donde escaladores y entusiastas del esquí se mezclan con emoción. La vista baila con la elegante capa de nieve de la extensa cordillera.",
+      "tips_es": "Usa calzado cómodo al ascender al Klein Matterhorn."
     },
     {
       "name": "Kulturweg",
@@ -2120,7 +2275,11 @@
       "id": "culture-path",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fculture-path.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Immerso nella suggestiva valle alpina di Zermatt, questo sentiero culturale è un vero e proprio viaggio nel tempo. Qui potrete ammirare le tradizionali case Walser in legno del XVI secolo, fienili e cappelle, che raccontano secoli di architettura e stile di vita alpino.",
+      "tips_it": "Indossate scarpe comode per esplorare al meglio l'autentico passato di Zermatt.",
+      "description_es": "Enclavado en el valle alpino de Zermatt, este sendero cultural exhibe casas tradicionales de madera Walser del siglo XVI, graneros y capillas, revelando siglos de arquitectura y estilo de vida alpino.",
+      "tips_es": "Usa calzado cómodo para caminar y explorar eficazmente el auténtico pasado de Zermatt."
     },
     {
       "name": "Kushion",
@@ -2144,7 +2303,11 @@
       "id": "kushion",
       "distanceFromCenter": 1.0,
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fkushion.jpg?alt=media",
-      "source": "firebase"
+      "source": "firebase",
+      "description_it": "Ci scusiamo, non sono disponibili informazioni reali e verificate su 'Kushion'. Vi preghiamo di fornire maggiori dettagli.",
+      "tips_it": "Non è possibile fornire consigli, poiché non sono disponibili informazioni reali su questo luogo.",
+      "description_es": "Disculpas, la información real y verificada sobre 'Kushion' no está disponible. Por favor, proporciona más detalles.",
+      "tips_es": "No se pueden proporcionar consejos ya que la información real sobre el lugar no está disponible."
     },
     {
       "name": "Leisee",
@@ -2168,7 +2331,11 @@
       "id": "leisee",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fleisee.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il lago Leisee di Zermatt, con le sue acque cristalline e le aree pensate per le famiglie, è una vera meraviglia naturale che offre un'esperienza alpina unica, il tutto incorniciato da una vista mozzafiato sul Cervino.",
+      "tips_it": "Raggiungete facilmente il lago tramite la gondola Sunnegga e la funicolare Leisee.",
+      "description_es": "El lago Leisee de Zermatt, con vistas al Matterhorn, es una maravilla natural. Sus aguas cristalinas y sus áreas familiares cuidadosamente diseñadas ofrecen una experiencia alpina única.",
+      "tips_es": "Llega fácilmente al lago a través de la góndola Sunnegga y el funicular Leisee."
     },
     {
       "name": "Madre Nostra",
@@ -2192,7 +2359,11 @@
       "id": "madre-nostra",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmadre-nostra.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nel cuore pulsante di Zermatt, Madre Nostra è il punto di ritrovo per eccellenza degli abitanti del luogo. Qui si celebra la gioia di condividere panorami montani mozzafiato e vini deliziosi, il tutto in un'atmosfera vivace e contagiosa.",
+      "tips_it": "Non dimenticate di assaggiare il menu dei vini locali.",
+      "description_es": "Situado en el corazón de Zermatt, Madre Nostra es un punto de encuentro para los lugareños, ofreciendo la alegría de compartir vistas a la montaña junto con deliciosos vinos en un ambiente enérgico.",
+      "tips_es": "No olvides probar la carta de vinos locales."
     },
     {
       "name": "Mamacita",
@@ -2216,7 +2387,11 @@
       "id": "mamacita",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmamacita.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Mamacita vi accoglie con le calde texture del legno e della pietra, armoniosamente integrate con ampie finestre che si aprono su panorami montani mozzafiato.",
+      "tips_it": "Visitatelo nel tardo pomeriggio per ammirare tramonti spettacolari.",
+      "description_es": "Mamacita presenta cálidas texturas de madera y piedra, integradas a la perfección con amplios ventanales que ofrecen impresionantes vistas a la montaña.",
+      "tips_es": "Visita al final de la tarde para disfrutar de impresionantes vistas del atardecer."
     },
     {
       "name": "Manud",
@@ -2240,7 +2415,11 @@
       "id": "manud",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmanud.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Manud vi accoglie in un'atmosfera intima e avvolgente, inebriata dagli aromi del caffè appena macinato e dei dolci fatti in casa. Lasciatevi incantare dalla combinazione perfetta di nocciole caramellate e cioccolato fondente.",
+      "tips_it": "Vi consiglio di abbinare il vostro caffè al croissant al cioccolato.",
+      "description_es": "Manud recibe a sus huéspedes en un ambiente acogedor lleno de los aromas de café recién molido y pasteles caseros. La mezcla de avellanas caramelizadas y chocolate intenso es encantadora.",
+      "tips_es": "Recomiendo maridar tu café con el cruasán de chocolate."
     },
     {
       "name": "Mark Twain Weg",
@@ -2264,7 +2443,11 @@
       "id": "mark-twain-path",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmark-twain-path.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il Mark Twain Weg a Zermatt è un sentiero naturale di profonda importanza storica e letteraria, che ripercorre l'avventura alpina dell'autore nel 1878. Offre panorami mozzafiato e custodisce l'eredità intramontabile di Twain.",
+      "tips_it": "Andate la mattina presto: la folla è minore e i panorami sono ancora più suggestivi.",
+      "description_es": "El Mark Twain Weg en Zermatt es un sendero natural de importancia histórica y literaria, que recrea la aventura alpina del autor en 1878. Alberga vistas impresionantes y el legado perdurable de Twain.",
+      "tips_es": "Ve temprano por la mañana; hay menos gente y las vistas son más cautivadoras."
     },
     {
       "name": "Marmot Watching Point",
@@ -2288,7 +2471,11 @@
       "id": "marmot-point",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmarmot-point.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nelle antiche montagne di Şehir, si trova un parco unico dove potrete osservare le marmotte vivere nel loro habitat naturale da secoli. Un'occasione imperdibile per scoprire la ricca biodiversità della regione.",
+      "tips_it": "Le marmotte sono più attive la mattina presto o nel tardo pomeriggio. Non dimenticate il binocolo!",
+      "description_es": "En las antiguas montañas de Şehir, un parque único donde puedes observar marmotas viviendo en su hábitat natural durante siglos. Descubre la rica biodiversidad de la región.",
+      "tips_es": "Las mañanas temprano o las últimas horas de la tarde son cuando las marmotas están más activas. No olvides traer prismáticos."
     },
     {
       "name": "Matterhorn",
@@ -2312,7 +2499,11 @@
       "id": "matterhorn",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmatterhorn.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il vento freddo della vetta vi accarezza il viso, mentre in lontananza echeggiano i campanacci delle mucche. L'aria si riempie del fresco profumo di pino, e all'improvviso, emerge maestosa la cima del Cervino.",
+      "tips_it": "Catturate il bagliore rossastro della vetta dal Gornergrat, baciata dai primi raggi del sole.",
+      "description_es": "El frío viento de la cumbre acaricia tu rostro; los cencerros lejanos resuenan. El fresco aroma a pino llena el aire mientras emerge el majestuoso pico del Matterhorn.",
+      "tips_es": "Captura el resplandor rojizo del pico desde Gornergrat con los primeros rayos del sol."
     },
     {
       "name": "Matterhorn Express",
@@ -2336,7 +2527,11 @@
       "id": "matterhorn-express",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmatterhorn-express.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Questa moderna meraviglia ingegneristica, il Matterhorn Express, offre un accesso diretto al Glacier Paradise. Le sue stazioni, perfettamente integrate nel paesaggio alpino, sono un pilastro fondamentale per lo sviluppo turistico di Zermatt.",
+      "tips_it": "Partite la mattina presto per evitare le code; controllate sempre le condizioni meteorologiche in anticipo.",
+      "description_es": "Esta maravilla de la ingeniería moderna, el Matterhorn Express, ofrece acceso directo al Glacier Paradise. Sus estaciones integradas en el paisaje alpino son fundamentales en el desarrollo turístico de Zermatt.",
+      "tips_es": "Sal temprano por la mañana para evitar colas; siempre verifica las condiciones meteorológicas de antemano."
     },
     {
       "name": "Matterhorn Glacier Paradise",
@@ -2362,7 +2557,11 @@
       "description_en": "This isn't just a view. It's the crisp silence at 3,883 meters, a secret communion with the continent's highest lift-accessed ice, where alpine panoramas unfurl endlessly.",
       "source": "firebase",
       "name_en": "Glacier Ride",
-      "area": "Matterhorn"
+      "area": "Matterhorn",
+      "description_it": "Non è solo una vista. È il silenzio cristallino a 3.883 metri, una comunione segreta con il ghiacciaio più alto del continente accessibile con un impianto di risalita, dove i panorami alpini si svelano all'infinito.",
+      "tips_it": "Arrivate prima delle 9 del mattino per godervi un'esperienza serena e senza folla al palazzo di ghiaccio.",
+      "description_es": "Esto no es solo una vista. Es el silencio nítido a 3.883 metros, una comunión secreta con el hielo más alto accesible por teleférico del continente, donde los panoramas alpinos se despliegan sin fin.",
+      "tips_es": "Llega antes de las 9 AM para una experiencia serena y sin aglomeraciones en el palacio de hielo."
     },
     {
       "name": "Matterhorn Jump",
@@ -2386,7 +2585,11 @@
       "id": "matterhorn-jump",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmatterhorn-jump.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Vivete un indimenticabile 'salto' verso le vette alpine con il parapendio in tandem, all'ombra maestosa del Cervino a Zermatt. Una vera e propria scarica di adrenalina!",
+      "tips_it": "Controllate le condizioni meteorologiche e prenotate in anticipo. I voli mattutini sono generalmente più calmi e offrono panorami più suggestivi.",
+      "description_es": "Experimenta un 'salto' inolvidable hacia los picos alpinos con parapente biplaza a la sombra del Matterhorn en Zermatt. Una verdadera descarga de adrenalina.",
+      "tips_es": "Verifica las condiciones meteorológicas y reserva con antelación. Los vuelos matutinos suelen ser más tranquilos y pintorescos."
     },
     {
       "name": "Matterhorn Müzesi (Zermatlantis)",
@@ -2414,7 +2617,11 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmatterhorn-muzesi-zermatlantis.jpg?alt=media",
       "source": "firebase",
       "distanceFromCenter": 1.0,
-      "area_en": "Center"
+      "area_en": "Center",
+      "description_it": "Nascosto nel sottosuolo, questo straordinario museo ricostruisce la vita del villaggio di Zermatt nel XIX secolo, la tragica prima ascensione del Cervino e la ricca storia alpinistica della regione, attraverso installazioni autentiche e coinvolgenti.",
+      "tips_it": "Acquistate il biglietto d'ingresso online in anticipo; in inverno l'atmosfera è più tranquilla.",
+      "description_es": "Escondido bajo tierra, este impactante museo reconstruye la vida del pueblo de Zermatt en el siglo XIX, el trágico primer ascenso al Matterhorn y la rica historia del montañismo de la región con auténticas instalaciones.",
+      "tips_es": "Compra tu entrada online con antelación; es más tranquilo en invierno."
     },
     {
       "name": "Matterhorn Photo Point",
@@ -2438,7 +2645,11 @@
       "id": "photo-point",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fphoto-point.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Qui, la piramide del Cervino trafigge il cielo, una sentinella silenziosa immersa nella luce alpina. La sua cima scolpita domina il panorama, evocando una maestosità profonda e senza tempo sullo sfondo di Zermatt.",
+      "tips_it": "Andate all'alba per catturare il bagliore dorato sulla parete est.",
+      "description_es": "Aquí, la pirámide del Matterhorn perfora el cielo, un centinela silencioso bañado por la luz alpina. Su pico esculpido domina el panorama, evocando una majestad profunda y atemporal contra el lienzo de Zermatt.",
+      "tips_es": "Ve al amanecer para capturar el resplandor dorado en la cara este."
     },
     {
       "name": "Matterhorn Sport",
@@ -2462,7 +2673,11 @@
       "id": "matterhorn-sport",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmatterhorn-sport.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il fascino intramontabile del Cervino, che da sempre plasma lo spirito avventuroso di Zermatt, trova in Matterhorn Sport il suo erede, che porta avanti questa tradizione alpinistica con attrezzature moderne e all'avanguardia.",
+      "tips_it": "Provate gli scarponi da sci nel pomeriggio; i piedi tendono a gonfiarsi leggermente durante il giorno.",
+      "description_es": "El encanto atemporal del Matterhorn, que moldea el espíritu aventurero de Zermatt, ve a Matterhorn Sport continuar este legado montañista con equipo moderno.",
+      "tips_es": "Prueba las botas de esquí por la tarde; tus pies se hinchan ligeramente durante el día."
     },
     {
       "name": "Matterhorn Trail",
@@ -2486,7 +2701,11 @@
       "id": "matterhorn-trail",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmatterhorn-trail.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Questo sentiero storico ripercorre le esplorazioni alpinistiche del Cervino del XIX secolo. Offre una prospettiva unica sull'iconica architettura naturale della vetta a forma di piramide e magnifici panorami su Zermatt.",
+      "tips_it": "Partite presto, controllate il meteo e indossate scarponi da trekking robusti.",
+      "description_es": "Este sendero histórico desvela las exploraciones montañistas del Matterhorn del siglo XIX. Ofrece la arquitectura natural única del icónico pico en forma de pirámide y magníficas vistas de Zermatt.",
+      "tips_es": "Empieza temprano, verifica el clima y usa botas de senderismo resistentes."
     },
     {
       "name": "Matterhorn Ultraks",
@@ -2510,7 +2729,11 @@
       "id": "matterhorn-ultraks",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmatterhorn-ultraks.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Matterhorn Ultraks è un'esperienza di trail running impegnativa che si svolge a Zermatt, ai piedi dell'iconico Cervino, offrendo panorami montani mozzafiato. Ogni anno accoglie migliaia di corridori.",
+      "tips_it": "Registratevi in anticipo per partecipare alla gara, oppure godetevi l'atmosfera vibrante di Zermatt nei giorni della competizione.",
+      "description_es": "Matterhorn Ultraks es una desafiante experiencia de trail running que se celebra en Zermatt, a los pies del icónico Matterhorn, ofreciendo impresionantes vistas a la montaña. Acoge a miles de corredores anualmente.",
+      "tips_es": "Inscríbete con antelación para participar en la carrera, o vive el ambiente en Zermatt durante los días de la competición."
     },
     {
       "name": "McDonald's Zermatt",
@@ -2534,7 +2757,11 @@
       "id": "mcdonalds",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmcdonalds.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nel cuore di Zermatt, McDonald's offre un rifugio accogliente dove potrete ammirare le Alpi, gustando sia sapori locali che i classici hamburger.",
+      "tips_it": "Sedetevi vicino alla finestra e godetevi la vista.",
+      "description_es": "Enclavado en el corazón de Zermatt, McDonald's ofrece una calidez acogedora mientras contemplas los Alpes, sirviendo tanto sabores locales como hamburguesas clásicas.",
+      "tips_es": "Siéntate junto a la ventana y disfruta de la vista."
     },
     {
       "name": "Migros Supermarket",
@@ -2558,7 +2785,11 @@
       "id": "migros",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmigros.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Migros, con la sua vasta gamma di prodotti moderni, risplende come un tesoro nascosto tra le storiche vie di Zermatt.",
+      "tips_it": "Assaggiate i formaggi locali per colazione.",
+      "description_es": "Migros, lleno de productos modernos, brilla como un tesoro escondido en las históricas calles de Zermatt.",
+      "tips_es": "Prueba los quesos locales para el desayuno."
     },
     {
       "name": "Mont Cervin Palace",
@@ -2582,7 +2813,11 @@
       "id": "mont-cervin-palace",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmont-cervin-palace.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Inaugurato nel 1853, questo lussuoso hotel alpino, con la sua architettura tradizionale, è il simbolo iconico di Zermatt. Camere con vista sul Cervino, ristorazione gourmet e spa incarnano la sua grandezza storica.",
+      "tips_it": "Prenotate un tavolo al ristorante sulla terrazza per godere delle migliori viste sul Cervino.",
+      "description_es": "Inaugurado en 1853, este lujoso hotel alpino, con su arquitectura tradicional, es el símbolo icónico de Zermatt. Sus habitaciones con vistas al Matterhorn, su gastronomía gourmet y su spa encarnan la grandeza histórica.",
+      "tips_es": "Reserve una mesa en el restaurante de la terraza para disfrutar de las mejores vistas del Matterhorn."
     },
     {
       "name": "Monte Rosa Hütte",
@@ -2605,7 +2840,11 @@
       "tips_en": "Good physical condition is essential for the ascent; make reservations.",
       "id": "monte-rosa-hut",
       "distanceFromCenter": 1.0,
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmonte_rosa_hutte_hut.jpg?alt=media"
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmonte_rosa_hutte_hut.jpg?alt=media",
+      "description_it": "Costruito nel 2009, questo rifugio a forma di diamante è stato pioniere nell'architettura sostenibile e nell'autosufficienza energetica nelle Alpi. Un rifugio d'alta quota che offre viste indimenticabili sui ghiacciai.",
+      "tips_it": "Una buona condizione fisica è essenziale per l'ascesa; ricordatevi di prenotare.",
+      "description_es": "Construido en 2009, este refugio en forma de diamante fue pionero en arquitectura sostenible y autosuficiencia energética en los Alpes. Un refugio de gran altitud que ofrece vistas inolvidables del glaciar.",
+      "tips_es": "Es imprescindible tener una buena condición física para el ascenso; haga sus reservas con antelación."
     },
     {
       "name": "Moosjisee",
@@ -2629,7 +2868,11 @@
       "id": "moosjisee",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmoosjisee.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il Moosjisee di Zermatt, con le sue acque color smeraldo alimentate dai ghiacciai, è un capolavoro alpino senza pari. Affacciato sul Cervino, questa meraviglia naturale offre un'esperienza indimenticabile.",
+      "tips_it": "Assicuratevi di visitarlo durante la '5 Lakes Walk'; non perdete le opportunità fotografiche!",
+      "description_es": "El Moosjisee de Zermatt, de un verde esmeralda y alimentado por aguas glaciares, es una obra maestra alpina sin igual. Con vistas al Matterhorn, esta maravilla natural ofrece una experiencia inolvidable.",
+      "tips_es": "Asegúrese de visitarlo durante la Ruta de los 5 Lagos; ¡no se pierda las oportunidades para tomar fotografías!"
     },
     {
       "name": "Mountaineers' Cemetery",
@@ -2652,7 +2895,11 @@
       "tips": "Sakin ve anlamlı bir ziyaret için sabah erken veya akşamüstü tercih edin.",
       "tips_en": "Visit early morning or late afternoon for a quiet, reflective experience.",
       "source": "firebase",
-      "name_en": "Mountaineers' Cemetery"
+      "name_en": "Mountaineers' Cemetery",
+      "description_it": "Un cimitero toccante che onora i coraggiosi alpinisti persi sul Cervino e sulle vette vicine, preservando la storia dell'alpinismo di Zermatt. Memoriali semplici e commoventi, insieme a effetti personali, riflettono la dura lotta dell'umanità con la natura.",
+      "tips_it": "Visitate la mattina presto o nel tardo pomeriggio per un'esperienza tranquilla e riflessiva.",
+      "description_es": "Un cementerio conmovedor que honra a los valientes montañistas perdidos en el Matterhorn y picos cercanos, preservando la historia del alpinismo de Zermatt. Sencillos y emotivos monumentos y efectos personales reflejan la dura lucha de la humanidad con la naturaleza.",
+      "tips_es": "Visite temprano por la mañana o al final de la tarde para una experiencia tranquila y reflexiva."
     },
     {
       "name": "Murmeli Brunnen",
@@ -2676,7 +2923,11 @@
       "id": "marmot-fountain",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmarmot-fountain.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "La Murmeli Brunnen di Zermatt è una storica fontana dei primi del '900, adornata con la tipica lavorazione della pietra vallesana. Le sue sculture in bronzo di marmotte simboleggiano la natura alpina e il patrimonio alpinistico.",
+      "tips_it": "Non dimenticate di bere dalla fontana e scattare una foto ricordo!",
+      "description_es": "La Murmeli Brunnen de Zermatt es una fuente histórica de principios del siglo XX, adornada con mampostería del Valais. Sus esculturas de marmotas de bronce simbolizan la naturaleza alpina y la herencia montañista.",
+      "tips_es": "No olvide beber de la fuente y tomar una foto de recuerdo."
     },
     {
       "name": "Myoko",
@@ -2700,7 +2951,11 @@
       "id": "myoko",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fmyoko.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Myoko offre un'atmosfera calda a Zermatt, dove dettagli in legno e viste sulle montagne creano un angolo tranquillo per assaporare la cucina locale.",
+      "tips_it": "Arrivate alle 17:00, quando la folla inizia a diradarsi.",
+      "description_es": "Myoko ofrece un ambiente cálido en Zermatt, donde los detalles de madera y las vistas a la montaña crean un lugar tranquilo para saborear la cocina local.",
+      "tips_es": "Llegue alrededor de las 5 PM, cuando las multitudes comienzan a dispersarse."
     },
     {
       "name": "North Wall Bar",
@@ -2724,7 +2979,11 @@
       "id": "north-wall",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fnorth-wall.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il Gin Fizz Alpino, drink d'autore del North Wall Bar, offre un ginepro fresco accompagnato da vivace scorza di limone e delicate sfumature di sambuco. È meticolosamente completato con soda frizzante e un rametto di rosmarino appena colto.",
+      "tips_it": "Arrivate intorno alle 17:00 per godervi la vivace atmosfera après-ski.",
+      "description_es": "El Alpine Gin Fizz, la bebida insignia del North Wall Bar, presenta un enebro fresco junto con un brillante toque de ralladura de limón y delicadas notas de flor de saúco. Se corona meticulosamente con soda espumosa y una ramita de romero recién cogida.",
+      "tips_es": "Llegue alrededor de las 5 PM para disfrutar del animado ambiente après-ski."
     },
     {
       "name": "Papa Caesar",
@@ -2748,7 +3007,11 @@
       "id": "papa-caesar",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fpapa-caesar.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Papa Caesar si distingue per l'architettura in pietra alpina e legno, offrendo un'atmosfera calda nel cuore di Zermatt.",
+      "tips_it": "Sedetevi in terrazza per ammirare il tramonto.",
+      "description_es": "Papa Caesar presenta una arquitectura de piedra alpina y madera, ofreciendo un ambiente cálido en el corazón de Zermatt.",
+      "tips_es": "Siéntese en la terraza para contemplar el atardecer."
     },
     {
       "name": "Papperla Pub",
@@ -2772,7 +3035,11 @@
       "id": "papperla-pub",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fpapperla-pub.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Lo spirito delle antiche baite di montagna si fonde in un'atmosfera da bar moderno, offrendo una gioiosa evasione.",
+      "tips_it": "Visitate alle 18:00 per la musica dal vivo.",
+      "description_es": "El espíritu de las antiguas cabañas de montaña se funde en un ambiente de bar moderno, ofreciendo una alegre escapada.",
+      "tips_es": "Visite a las 6 PM para disfrutar de música en vivo."
     },
     {
       "name": "Paragliding Zermatt",
@@ -2796,7 +3063,11 @@
       "id": "paragliding",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fparagliding.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Libratevi sopra i mozzafiato paesaggi alpini di Zermatt, all'ombra del Cervino. Vivete un sicuro volo in parapendio biposto con piloti professionisti.",
+      "tips_it": "Per la migliore esperienza, prenotate la mattina presto e controllate le condizioni meteorologiche.",
+      "description_es": "Vuele sobre los impresionantes paisajes alpinos de Zermatt, a la sombra del Matterhorn. Experimente un vuelo seguro en parapente biplaza con pilotos profesionales.",
+      "tips_es": "Para la mejor experiencia, reserve temprano por la mañana y consulte las condiciones meteorológicas."
     },
     {
       "name": "Peak 2 Peak",
@@ -2820,7 +3091,11 @@
       "id": "peak-2-peak-ticket",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fpeak-2-peak-ticket.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "La funivia Peak 2 Peak, una meraviglia ingegneristica che collega le montagne di Whistler e Blackcomb, offre un'esperienza mozzafiato a 360 gradi con la campata senza supporti più lunga del mondo.",
+      "tips_it": "Optate per le cabine con fondo di vetro e andate più vicino al tramonto per viste davvero magiche.",
+      "description_es": "La góndola Peak 2 Peak, una maravilla de la ingeniería que conecta las montañas Whistler y Blackcomb, ofrece una impresionante experiencia de 360 grados con el tramo sin soporte más largo del mundo.",
+      "tips_es": "Opte por las góndolas con suelo de cristal y vaya más cerca del atardecer para disfrutar de vistas verdaderamente mágicas."
     },
     {
       "name": "Peak Performance",
@@ -2844,7 +3119,11 @@
       "id": "peak-performance",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fpeak-performance.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Situato nel cuore di Zermatt, Peak Performance offre abbigliamento elegante e funzionale per gli sport di montagna, realizzato con materiali di alta qualità per una libertà di movimento ottimale.",
+      "tips_it": "Non dimenticate di approfittare degli sconti stagionali.",
+      "description_es": "Ubicada en el corazón de Zermatt, Peak Performance ofrece ropa elegante y funcional para deportes de montaña, elaborada con materiales de alta calidad para una óptima libertad de movimiento.",
+      "tips_es": "No olvide aprovechar los descuentos de temporada."
     },
     {
       "name": "Petit Royal",
@@ -2868,7 +3147,11 @@
       "id": "petit-royal",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fpetit-royal.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il caldo profumo del caffè, gli echi dei passi sui pavimenti in legno e la fresca brezza di montagna si incontrano al Petit Royal.",
+      "tips_it": "Sorseggiate il vostro caffè ammirando il panorama dalla finestra.",
+      "description_es": "El cálido aroma a café, los ecos de pasos sobre suelos de madera y la fresca brisa de la montaña se unen en Petit Royal.",
+      "tips_es": "Beba su café mientras contempla por la ventana."
     },
     {
       "name": "Pink Live Music Bar",
@@ -2892,7 +3175,11 @@
       "id": "pink",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fpink.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nel cuore di Zermatt, il Pink Bar esplode di musica dal vivo, un punto di ritrovo per i giovani e gli amanti della musica.",
+      "tips_it": "Andate prima delle 21:00 per accaparrarvi i posti migliori.",
+      "description_es": "En el corazón de Zermatt, el Pink Bar estalla con música en vivo, un punto de encuentro para jóvenes y amantes de la música.",
+      "tips_es": "Vaya antes de las 9 PM para conseguir los mejores sitios."
     },
     {
       "name": "Pollux Restaurant",
@@ -2916,7 +3203,11 @@
       "id": "pollux",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fpollux.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Ispirato dalle montagne di Zermatt, Pollux abbraccia calorosamente la cucina tradizionale svizzera. Non andate via senza aver provato i piatti preferiti dai locali: fondue e raclette.",
+      "tips_it": "Non dimenticate di ordinare la fondue, abbinandola a un vino locale.",
+      "description_es": "Inspirado en las montañas de Zermatt, Pollux abraza cálidamente la cocina tradicional suiza. No se vaya sin probar los favoritos de los lugareños: fondue y raclette.",
+      "tips_es": "No olvide pedir fondue, maridándola con vino local."
     },
     {
       "name": "Potato",
@@ -2940,7 +3231,11 @@
       "id": "potato",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fpotato.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nel tessuto storico di Şehir, Potato offre sapori unici di patate dagli anni '70, un favorito locale con ricette tramandate di generazione in generazione. Una vera eredità culinaria.",
+      "tips_it": "Andate presto, specialmente a pranzo; assicuratevi di provare le loro patate al forno e le salse speciali.",
+      "description_es": "En el tejido histórico de Şehir, Potato ha estado ofreciendo sabores únicos de patata desde los años 70, un favorito local con recetas transmitidas de generación en generación. Un verdadero legado culinario.",
+      "tips_es": "Vaya temprano, especialmente para el almuerzo; asegúrese de probar sus patatas asadas y salsas especiales."
     },
     {
       "name": "Randa",
@@ -2964,7 +3259,11 @@
       "id": "randa",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Franda.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Inaugurato nel 2017, il Ponte Charles Kuonen di Randa è una meraviglia ingegneristica contemporanea di 494 metri. Essendo il ponte sospeso pedonale più lungo delle Alpi, completa in modo spettacolare l'Europaweg.",
+      "tips_it": "Raggiungere il ponte richiede un'escursione ripida; indossate scarpe comode.",
+      "description_es": "Inaugurado en 2017, el Puente Charles Kuonen de Randa es una maravilla de la ingeniería contemporánea de 494 metros. Como el puente colgante peatonal más largo de los Alpes, completa de forma espectacular el Europaweg.",
+      "tips_es": "Llegar al puente requiere una caminata empinada; use zapatos cómodos."
     },
     {
       "name": "Restaurant Julen",
@@ -2988,7 +3287,11 @@
       "id": "restaurant-julen",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Frestaurant-julen.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "A Zermatt, potrete gustare la fondue in un'atmosfera calda dove i locali percepiscono l'energia vibrante.",
+      "tips_it": "Provate il pane fatto in casa con la vostra fondue.",
+      "description_es": "En Zermatt, puede disfrutar de fondue en un ambiente cálido donde los lugareños sienten la energía vibrante.",
+      "tips_es": "Pruebe el pan casero con su pedido de fondue."
     },
     {
       "name": "Restaurant Klein Matterhorn",
@@ -3011,7 +3314,11 @@
       "tips": "Müzik açılmadan önceki saatlerde gidin.",
       "tips_en": "Visit before the music starts for a quieter experience.",
       "source": "firebase",
-      "name_en": "Restaurant Klein Matterhorn"
+      "name_en": "Restaurant Klein Matterhorn",
+      "description_it": "Il Klein Matterhorn a Zermatt brulica di gente del posto che gusta pasti deliziosi tra musica vivace.",
+      "tips_it": "Visitate prima che inizi la musica per un'esperienza più tranquilla.",
+      "description_es": "El Klein Matterhorn en Zermatt bulle con lugareños disfrutando de deliciosas comidas en medio de música animada.",
+      "tips_es": "Visite antes de que empiece la música para una experiencia más tranquila."
     },
     {
       "name": "Restaurant Sonnmatten",
@@ -3035,7 +3342,11 @@
       "id": "sonnmatten",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fsonnmatten.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Al Sonnmatten, l'aroma del caffè si mescola alle spezie di piatti deliziosi mentre la brezza di montagna si diffonde all'interno.",
+      "tips_it": "Ordinate una tazza di cioccolata calda e sedetevi sulla terrazza esterna.",
+      "description_es": "En Sonnmatten, el aroma a café se mezcla con las especias de deliciosos platos mientras las brisas de la montaña se cuelan en el interior.",
+      "tips_es": "Pida una taza de chocolate caliente y siéntese en la terraza exterior."
     },
     {
       "name": "Ricola Herb Garden",
@@ -3059,7 +3370,11 @@
       "id": "ricola-herb-garden",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fricola-herb-garden.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il Giardino delle Erbe Ricola a Zermatt offre un rifugio sereno, avvolto nel magico profumo delle erbe naturali.",
+      "tips_it": "Rilassatevi accanto a erbe che risalgono al XIX secolo.",
+      "description_es": "El Jardín de Hierbas Ricola en Zermatt ofrece un refugio sereno envuelto en el mágico aroma de las hierbas naturales.",
+      "tips_es": "Relájate junto a hierbas que datan del siglo XIX."
     },
     {
       "name": "Riedweg",
@@ -3083,7 +3398,11 @@
       "id": "riedweg-viewpoint",
       "distanceFromCenter": 1.0,
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Friedweg.jpg?alt=media",
-      "source": "firebase"
+      "source": "firebase",
+      "description_it": "La texture di legno e pietra del Riedweg crea un'armonia unica con il manto verde delle montagne.",
+      "tips_it": "Fate una passeggiata all'alba per catturare panorami mozzafiato.",
+      "description_es": "La textura de madera y piedra de Riedweg crea una armonía única con el manto verde de las montañas.",
+      "tips_es": "Da un paseo al amanecer para capturar las impresionantes vistas."
     },
     {
       "name": "Riffelalp Cinema",
@@ -3107,31 +3426,11 @@
       "id": "riffelalp-cinema",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Friffelalp-cinema.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Riffelalp Resort 2222m",
-      "name_en": "Riffelalp Resort",
-      "area": "Riffelalp",
-      "category": "Deneyim",
-      "tags": [
-        "dağ",
-        "spa",
-        "kayak"
-      ],
-      "lat": 46.002,
-      "lng": 7.758,
-      "price": "high",
-      "rating": 4.9,
-      "description": "1884'te görkemli bir grand otel olarak açılan Riffelalp, Avrupa'nın en yüksek tramvayına ev sahipliği yapar. Alp Belle Époque mimarisiyle, Matterhorn'a nazır, İsviçre lüksünün öncü zirvesidir.",
-      "description_en": "Opened spectacularly in 1884 as a grand hotel, Riffelalp hosts Europe's highest tramway. With Alpine Belle Époque architecture overlooking the Matterhorn, it's Switzerland's pioneering peak of luxury.",
-      "bestTime": "Tüm gün",
-      "tips": "Riffelalp tramvayıyla otele varış, Matterhorn manzaralı unutulmaz bir deneyimdir.",
-      "tips_en": "Arriving by Riffelalp tram offers an unforgettable experience with Matterhorn views.",
-      "id": "riffelalp-resort",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Friffelalp-resort.jpg?alt=media",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il Riffelalp, il cinema all'aperto più alto d'Europa, fa parte dello storico Riffelalp Resort del 1884. Godetevi film unici sotto le stelle, con viste mozzafiato sul Cervino.",
+      "tips_it": "Non dimenticate abiti caldi e una coperta per le proiezioni serali.",
+      "description_es": "El cine al aire libre más alto de Europa, Riffelalp, forma parte del histórico Riffelalp Resort de 1884. Disfruta de películas únicas bajo las estrellas, con impresionantes vistas del Matterhorn.",
+      "tips_es": "No olvides ropa de abrigo y una manta para las proyecciones nocturnas."
     },
     {
       "name": "Riffelberg",
@@ -3155,7 +3454,11 @@
       "id": "riffelberg",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Friffelberg.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Le strutture in legno del Riffelberg si armonizzano splendidamente con le sfumature verdi della natura, offrendo una vista accattivante sulla cima della montagna.",
+      "tips_it": "Arrivate presto per ammirare l'alba.",
+      "description_es": "Las estructuras de madera de Riffelberg armonizan bellamente con los tonos verdes de la naturaleza, ofreciendo una vista cautivadora de la cima de la montaña.",
+      "tips_es": "Llega temprano para presenciar el amanecer."
     },
     {
       "name": "Riffelsee",
@@ -3177,7 +3480,11 @@
       "tips_en": "Enjoy breakfast by the lake to savor the view.",
       "description_en": "In the Riffelsee lake of Zermatt, cool mountain breezes ripple the surface, perfectly reflecting the Alps.",
       "source": "firebase",
-      "name_en": "Riffelsee Lake"
+      "name_en": "Riffelsee Lake",
+      "description_it": "Nel lago Riffelsee di Zermatt, le fresche brezze montane increspano la superficie, riflettendo perfettamente le Alpi.",
+      "tips_it": "Godetevi la colazione in riva al lago per assaporare la vista.",
+      "description_es": "En el lago Riffelsee de Zermatt, las frescas brisas de montaña ondean la superficie, reflejando a la perfección los Alpes.",
+      "tips_es": "Disfruta de un desayuno junto al lago para saborear la vista."
     },
     {
       "name": "Rote Nase",
@@ -3201,7 +3508,11 @@
       "id": "red-nose",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fred-nose.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Rote Nase si trova nel cuore di Zermatt, offrendo panorami montani mozzafiato e un'atmosfera calda e accogliente ai piedi delle Alpi.",
+      "tips_it": "Provate un vino locale mentre vi godete il panorama.",
+      "description_es": "Rote Nase se encuentra en el corazón de Zermatt, ofreciendo impresionantes vistas a la montaña y un ambiente cálido y acogedor a los pies de los Alpes.",
+      "tips_es": "Prueba un vino local mientras disfrutas de la vista."
     },
     {
       "name": "Rothorn Paradise",
@@ -3225,7 +3536,11 @@
       "id": "rothorn-paradise",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Frothorn-paradise.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Al Rothorn Paradise a Zermatt, le moderne seggiovie incontrano la magia delle Alpi secolari, offrendo un sereno angolo di paradiso.",
+      "tips_it": "Provate lo yogurt filtrato preparato con formaggi locali per colazione.",
+      "description_es": "En Rothorn Paradise, en Zermatt, los modernos telesillas se encuentran con la magia de los Alpes centenarios, ofreciendo un sereno pedazo de paraíso.",
+      "tips_es": "Prueba el yogur colado elaborado con quesos locales para el desayuno."
     },
     {
       "name": "Saycheese!",
@@ -3249,7 +3564,11 @@
       "id": "saycheese!",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fsaycheese!.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "A Saycheese!, il cuore pulsante di Zermatt, pattinatori e turisti si mescolano, mentre fonduta e vino accompagnano vivaci conversazioni.",
+      "tips_it": "Godetevi la vostra fonduta e i vini sulla terrazza.",
+      "description_es": "En Saycheese!, el enérgico corazón de Zermatt, patinadores y turistas se mezclan, mientras la fondue y el vino acompañan animadas conversaciones.",
+      "tips_es": "Disfruta de tu fondue y vinos en la terraza."
     },
     {
       "name": "Schalisee",
@@ -3273,7 +3592,11 @@
       "id": "schalisee",
       "distanceFromCenter": 1.0,
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fschalisee.jpg?alt=media",
-      "source": "firebase"
+      "source": "firebase",
+      "description_it": "Formatosi dallo scioglimento dei ghiacciai, lo Schalisee è un capolavoro architettonico naturale che ospita i riflessi unici del Cervino. Le sue acque limpide e la biodiversità circostante offrono un'esperienza alpina tranquilla.",
+      "tips_it": "Ideale per picnic; scegliete le prime ore del mattino per ammirare i riflessi e godervi momenti di pace.",
+      "description_es": "Formado por el deshielo glaciar, Schalisee es una obra maestra arquitectónica natural que alberga los reflejos únicos del Matterhorn. Sus aguas cristalinas y la biodiversidad circundante ofrecen una tranquila experiencia alpina.",
+      "tips_es": "Ideal para pícnics; elige las primeras horas para disfrutar de los reflejos y momentos de paz."
     },
     {
       "name": "Schwarzsee",
@@ -3296,7 +3619,11 @@
       "tips": "Göl kenarında yürüyüş yaparken sessizliği dinleyin.",
       "tips_en": "Listen to the tranquility while walking by the lake.",
       "source": "firebase",
-      "name_en": "Schwarzsee"
+      "name_en": "Schwarzsee",
+      "description_it": "Schwarzsee offre una valle serena circondata da conifere, con un lago blu intenso e montagne lussureggianti.",
+      "tips_it": "Ascoltate la tranquillità mentre passeggiate in riva al lago.",
+      "description_es": "Schwarzsee ofrece un valle sereno rodeado de coníferas, con un lago azul profundo y exuberantes montañas.",
+      "tips_es": "Escucha la tranquilidad mientras paseas junto al lago."
     },
     {
       "name": "Schwarzsee Paradise",
@@ -3320,7 +3647,11 @@
       "id": "schwarzsee-paradise",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fschwarzsee-paradise.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Schwarzsee Paradise a Zermatt offre un equilibrio perfetto tra moderne strutture montane e il tradizionale paesaggio svizzero.",
+      "tips_it": "Dovete assolutamente provare i bagel freschi al formaggio per colazione.",
+      "description_es": "Schwarzsee Paradise en Zermatt ofrece un equilibrio perfecto entre modernas instalaciones de montaña y el tradicional paisaje suizo.",
+      "tips_es": "Debes probar los bagels de queso fresco para el desayuno."
     },
     {
       "name": "Schäferstube",
@@ -3344,7 +3675,11 @@
       "id": "schaferstube",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fschaferstube.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nascosto nel cuore di Zermatt, questo luogo offre un'esperienza intima con ingredienti locali accuratamente selezionati e un'atmosfera calda.",
+      "tips_it": "Provate la zuppa fatta in casa durante l'ora di pranzo.",
+      "description_es": "Escondido en el corazón de Zermatt, este lugar ofrece una experiencia íntima con ingredientes locales cuidadosamente seleccionados y un ambiente cálido.",
+      "tips_es": "Prueba la sopa casera durante las horas del almuerzo."
     },
     {
       "name": "Schönbielhütte",
@@ -3368,7 +3703,11 @@
       "id": "schonbiel-hut",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fschonbiel-hut.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Dal 1909, questo storico rifugio alpino offre un riparo vitale agli alpinisti. La sua robusta architettura in pietra e legno si affaccia sul Ghiacciaio di Zmutt, cruciale per le ascensioni al Cervino.",
+      "tips_it": "Partite presto per l'ascesa e prenotate sempre.",
+      "description_es": "Desde 1909, esta histórica cabaña alpina ha ofrecido un refugio vital a los alpinistas. Su robusta arquitectura de piedra y madera domina el glaciar de Zmutt, crucial para los ascensos al Matterhorn.",
+      "tips_es": "Comienza temprano el ascenso y haz siempre una reserva."
     },
     {
       "name": "Slalom Sport",
@@ -3392,7 +3731,11 @@
       "id": "slalom-sport",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fslalom-sport.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nel cuore di Zermatt, Slalom Sport affascina gli appassionati di sport locali con la sua ricca collezione di abbigliamento e accessori, evocando una sensazione di atemporalità.",
+      "tips_it": "Testate qui la vostra attrezzatura per gli sport invernali.",
+      "description_es": "En el corazón de Zermatt, Slalom Sport cautiva a los entusiastas de los deportes locales con su rica colección de ropa y accesorios, evocando una sensación de atemporalidad.",
+      "tips_es": "Prueba aquí tu equipo de deportes de invierno."
     },
     {
       "name": "Snowboat",
@@ -3416,7 +3759,11 @@
       "id": "snowboat",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fsnowboat.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Un gioiello nascosto nel cuore di Zermatt: dettagli in legno e luci calde illuminano le fredde notti invernali, accompagnati da cocktail infusi con olio di rosa.",
+      "tips_it": "Ordinate i cocktail dall'area nascosta sul retro del bar.",
+      "description_es": "Una joya escondida en el corazón de Zermatt: detalles de madera y luces cálidas iluminan las frías noches de invierno junto a cócteles infusionados con aceite de rosa.",
+      "tips_es": "Pide cócteles en la zona trasera oculta del bar."
     },
     {
       "name": "Soupi",
@@ -3440,7 +3787,11 @@
       "id": "soupi",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fsoupi.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Al Soupi a Zermatt, le zuppe fatte in casa abbracciano il calore, creando un'esperienza indimenticabile con viste mozzafiato sulle montagne.",
+      "tips_it": "Non dimenticate di godervi la vista sul Cervino mentre sorseggiate la vostra zuppa.",
+      "description_es": "En Soupi, en Zermatt, las sopas caseras abrazan la calidez, creando una experiencia inolvidable con impresionantes vistas a la montaña.",
+      "tips_es": "No olvides disfrutar de la vista del Matterhorn mientras saboreas tu sopa."
     },
     {
       "name": "Sparky's Bar",
@@ -3464,7 +3815,11 @@
       "id": "sparkys",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fsparkys.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nascosto nel cuore di Zermatt, scopritevi tra texture di legno naturale e luci calde allo Sparky's Bar.",
+      "tips_it": "Per un cambio speciale, provate il menu di birre locali.",
+      "description_es": "Ubicado en el corazón de Zermatt, encuéntrate entre texturas de madera natural y luces cálidas en Sparky's Bar.",
+      "tips_es": "Para un cambio especial, prueba el menú de cervezas locales."
     },
     {
       "name": "St. Mauritius Kilisesi",
@@ -3492,7 +3847,11 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fst_-mauritius-kilisesi.jpg?alt=media",
       "source": "firebase",
       "distanceFromCenter": 1.0,
-      "area_en": "Center"
+      "area_en": "Center",
+      "description_it": "La centrale Chiesa di San Maurizio a Zermatt è un maestoso edificio neogotico del 1913. Le sue impressionanti vetrate e gli artefatti custoditi rivelano profondamente il secolare patrimonio religioso e culturale del villaggio.",
+      "tips_it": "Visitate il cimitero degli alpinisti accanto alla chiesa per ripercorrere le orme della storia.",
+      "description_es": "La céntrica Iglesia de San Mauricio de Zermatt es un majestuoso edificio neogótico de 1913. Sus impresionantes vidrieras y los artefactos que alberga revelan profundamente la herencia religiosa y cultural centenaria del pueblo.",
+      "tips_es": "Visita el cementerio de los alpinistas junto a la iglesia para seguir las huellas de la historia."
     },
     {
       "name": "St. Peter's Church",
@@ -3516,7 +3875,11 @@
       "id": "st-peters-church",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fst-peters-church.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "La chiesa gotica vittoriana di San Pietro a Zermatt, del 1870, ospita commoventi memoriali e impressionanti vetrate, costruita per gli alpinisti inglesi dispersi sul Cervino. Un'importante eredità storica.",
+      "tips_it": "Visitate per esaminare i memoriali del Cervino e vivere l'atmosfera di pace.",
+      "description_es": "La iglesia gótica victoriana de Zermatt de 1870 alberga conmovedores memoriales e impresionantes vidrieras, construida para los montañistas ingleses perdidos en el Matterhorn. Un legado histórico significativo.",
+      "tips_es": "Visita para examinar los memoriales del Matterhorn y experimentar la atmósfera de paz."
     },
     {
       "name": "Stars Bar",
@@ -3540,7 +3903,11 @@
       "id": "stars-bar",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fstars-bar.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Nascosto in uno degli angoli più suggestivi di Zermatt, lo Stars Bar offre una fuga ideale per conversazioni intime sulla sua terrazza con viste mozzafiato sulle montagne.",
+      "tips_it": "Ordinate una birra locale per assaporarne il gusto.",
+      "description_es": "Ubicado en uno de los rincones escondidos de Zermatt, Stars Bar ofrece una escapada ideal para conversaciones íntimas en su terraza con impresionantes vistas a la montaña.",
+      "tips_es": "Pide una cerveza local para saborear su gusto."
     },
     {
       "name": "Stefanie's Crêperie",
@@ -3564,7 +3931,11 @@
       "id": "stefanies-creperie",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fstefanies-creperie.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "La Crêperie di Stefanie a Zermatt vibra di un'energia contagiosa, dove alpinisti ed escursionisti si deliziano con crêpes calde nelle giornate più fresche, immersi in un'atmosfera vivace e accogliente.",
+      "tips_it": "Attendi l'orario più frequentato dai locali per gustare la tua crêpe preferita.",
+      "description_es": "La Crêperie de Stefanie en Zermatt irradia energía, un lugar donde escaladores y excursionistas disfrutan de crepes calientes en los días fríos, envueltos en una atmósfera vibrante y acogedora.",
+      "tips_es": "Espera a la hora local para degustar tu crepe favorito."
     },
     {
       "name": "Stellisee",
@@ -3588,7 +3959,11 @@
       "id": "stellisee",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fstellisee.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Lo Stellisee, che offre il riflesso impeccabile del Cervino come un'opera d'arte naturale, è un affascinante lago alpino plasmato dalla sua storia geologica, custode della vista più iconica di Zermatt.",
+      "tips_it": "Recati sul posto all'alba; il riflesso del Cervino sull'acqua è semplicemente mozzafiato.",
+      "description_es": "El Stellisee, un lago alpino cautivador moldeado por su historia geológica, regala la vista icónica de Zermatt, presentando el reflejo impecable del Matterhorn como una obra de arte natural.",
+      "tips_es": "Acude temprano para el amanecer; el reflejo del Matterhorn es simplemente sobrecogedor."
     },
     {
       "name": "Stoked Snowsports School",
@@ -3612,7 +3987,11 @@
       "id": "stoked",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fstoked.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Situata nel cuore pulsante degli sport invernali della città di Şehir, la Stoked Snowsports School offre lezioni sicure e divertenti per appassionati di sci e snowboard di tutti i livelli, grazie ai suoi istruttori esperti.",
+      "tips_it": "Controlla attentamente l'attrezzatura prima delle lezioni e assicurati di prenotare con largo anticipo.",
+      "description_es": "Situada en el vibrante corazón de los deportes de invierno de la ciudad de Şehir, la Escuela de Deportes de Nieve Stoked ofrece lecciones seguras y divertidas para entusiastas del esquí y el snowboard de todos los niveles, impartidas por instructores expertos.",
+      "tips_es": "Verifica tu equipo antes de las clases y realiza tus reservas con antelación."
     },
     {
       "name": "Sunnegga",
@@ -3636,7 +4015,11 @@
       "id": "sunnegga",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fsunnegga.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "La vista mozzafiato sul Cervino avvolge Sunnegga in un abbraccio sereno, dove l'aroma del caffè si mescola a una brezza fresca.",
+      "tips_it": "Gusta un cioccolato unico mentre ammiri la maestosa vista sulle montagne direttamente dalla finestra.",
+      "description_es": "La impresionante vista del Matterhorn envuelve Sunnegga en un abrazo sereno, donde el aroma a café se mezcla con la fresca brisa alpina.",
+      "tips_es": "Deléitate con un chocolate único mientras contemplas la majestuosa vista de la montaña desde la ventana."
     },
     {
       "name": "Sunnegga Paradise",
@@ -3659,7 +4042,11 @@
       "tips": "Yüksek zirveleri görmek için erken gidin.",
       "tips_en": "Visit early to catch the views of the high peaks.",
       "source": "firebase",
-      "name_en": "Sunnegga Paradise"
+      "name_en": "Sunnegga Paradise",
+      "description_it": "Sunnegga Paradise offre una vista magnifica tra l'abbraccio delle montagne, dove l'erba alpina fresca e i fitti pini danzano con i giochi di luce.",
+      "tips_it": "Visita di buon'ora per catturare le viste più spettacolari delle alte vette.",
+      "description_es": "Sunnegga Paradise regala una vista magnífica, en el abrazo de las montañas, donde las frescas hierbas alpinas y los densos pinos danzan al compás del juego de luces.",
+      "tips_es": "Visita temprano para capturar las mejores vistas de los picos más altos."
     },
     {
       "name": "Swiss Chalet",
@@ -3683,7 +4070,11 @@
       "id": "swiss-chalet",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fswiss-chalet.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Incastonato nel cuore di Zermatt, lo Swiss Chalet ti avvolge in un'atmosfera calda e accogliente, con piatti preparati utilizzando ingredienti locali accuratamente selezionati.",
+      "tips_it": "Cena nel soppalco, sotto la suggestiva luce dei lampadari, per un'esperienza indimenticabile.",
+      "description_es": "Anidado en el corazón de Zermatt, el Swiss Chalet te envuelve en un ambiente cálido, ofreciendo platos elaborados con ingredientes locales cuidadosamente seleccionados.",
+      "tips_es": "Cena en el altillo, bajo la mágica luz de las lámparas de araña."
     },
     {
       "name": "Swiss Ski School Zermatt",
@@ -3707,7 +4098,11 @@
       "id": "ski-school",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fski-school.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Dal 1934, la venerabile Scuola Svizzera di Sci è il cuore del patrimonio degli sport invernali di Zermatt. I suoi istruttori esperti offrono esperienze alpine impareggiabili sulle iconiche piste del Cervino.",
+      "tips_it": "Prenota le lezioni con largo anticipo per assicurarti momenti indimenticabili con vista sul Cervino.",
+      "description_es": "Desde 1934, la venerable Escuela Suiza de Esquí ha sido el corazón del patrimonio de deportes de invierno de Zermatt. Sus instructores expertos ofrecen experiencias alpinas inigualables en las icónicas pistas del Matterhorn.",
+      "tips_es": "Reserva tus clases con antelación para asegurar momentos inolvidables con vistas al Matterhorn."
     },
     {
       "name": "Swiss Watch Boutique",
@@ -3729,7 +4124,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Satış danışmanlarına özel saat önerilerini sorun.",
       "tips_en": "Ask the sales consultants for personalized watch recommendations.",
-      "name_en": "Swiss Watch Boutique"
+      "name_en": "Swiss Watch Boutique",
+      "description_it": "Situata nel cuore delle Alpi, la Swiss Watch Boutique di Zermatt espone la maestria degli orologiai locali e la ricca tradizione dell'orologeria.",
+      "tips_it": "Non esitare a chiedere ai consulenti di vendita raccomandazioni personalizzate per trovare l'orologio perfetto.",
+      "description_es": "Situada en el corazón de los Alpes, la Boutique de Relojes Suizos en Zermatt exhibe con orgullo la maestría de los relojeros locales y la rica tradición de la horología.",
+      "tips_es": "Consulta a los asesores de ventas para obtener recomendaciones personalizadas de relojes."
     },
     {
       "name": "The Cavern",
@@ -3753,7 +4152,11 @@
       "id": "the-cavern",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fthe-cavern.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Scolpito nella roccia madre di Zermatt, il bar The Cavern rivela pareti di granito grigio grezzo. Illuminato da calde applique color ambra, le travi di larice intagliate a mano creano un contrasto materico con il bancone in ardesia scura.",
+      "tips_it": "Gusta un vin brulé e osserva come la luce ambrata esalta le texture naturali del granito.",
+      "description_es": "Tallado en la roca madre de Zermatt, el bar The Cavern revela paredes de granito gris en bruto. Iluminado por cálidos apliques de ámbar, las vigas de madera de alerce talladas a mano crean un contraste textural fascinante con la barra de pizarra oscura.",
+      "tips_es": "Disfruta de un reconfortante vino caliente; observa cómo la luz ámbar realza las texturas del granito."
     },
     {
       "name": "The Omnia",
@@ -3777,7 +4180,11 @@
       "id": "the-omnia",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fthe-omnia.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Progettato da Ali Tayar, questo capolavoro architettonico moderno fonde l'estetica dello chalet svizzero con una visione newyorkese. Offrendo viste mozzafiato sul Cervino, rappresenta il lusso contemporaneo unico di Zermatt.",
+      "tips_it": "Massimizza la tua esperienza prenotando una camera con vista diretta sul Cervino.",
+      "description_es": "Diseñada por Ali Tayar, esta obra maestra arquitectónica moderna fusiona la estética de un chalet suizo con la visión neoyorquina. Ofreciendo vistas espectaculares al Matterhorn, es el epítome del lujo contemporáneo y único de Zermatt.",
+      "tips_es": "Maximiza tu experiencia reservando una habitación con vistas privilegiadas al Matterhorn."
     },
     {
       "name": "Theodul Pass",
@@ -3801,7 +4208,11 @@
       "id": "theodul-pass",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Ftheodul-pass.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il Passo del Teodulo, un abbraccio perduto tra le montagne, offre un silenzio incantevole e panorami mozzafiato.",
+      "tips_it": "Visita al mattino; l'alba da qui è semplicemente mozzafiato.",
+      "description_es": "El Paso Theodul, un abrazo perdido entre las imponentes montañas, regala un silencio encantador y vistas que te dejarán sin aliento.",
+      "tips_es": "Visita por la mañana; el amanecer es simplemente espectacular."
     },
     {
       "name": "Trockener Steg",
@@ -3824,7 +4235,11 @@
       "tips": "Sabah erken saatlerde, ilk kabinle zirveye çıkıp buzul manzarasını yakalayın.",
       "tips_en": "Ride the first cable car up early for pristine glacier views.",
       "source": "firebase",
-      "name_en": "Trockener Steg"
+      "name_en": "Trockener Steg",
+      "description_it": "L'architettura elegante in acciaio e vetro della moderna stazione della funivia contrasta nettamente con le antiche formazioni rocciose scolpite dai ghiacciai; qui, la tecnologia ascende mentre la natura sussurra la sua eternità.",
+      "tips_it": "Prendi la prima funivia al mattino presto per godere di viste incontaminate sul ghiacciaio.",
+      "description_es": "La elegante arquitectura de acero y vidrio de la moderna estación del teleférico contrasta de forma impactante con las antiguas formaciones rocosas esculpidas por glaciares; aquí, la tecnología asciende mientras la naturaleza susurra su eternidad.",
+      "tips_es": "Toma el primer teleférico a primera hora para disfrutar de vistas prístinas del glaciar."
     },
     {
       "name": "Täsch",
@@ -3848,7 +4263,11 @@
       "id": "tasch",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Ftasch.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Täsch, che mostra un'autentica architettura vallesana, fonde magistralmente legno e pietra, con i suoi tipici granai e le stradine strette, fungendo da porta storica verso il Cervino.",
+      "tips_it": "Parcheggia l'auto a Täsch e prendi il comodo treno navetta per Zermatt.",
+      "description_es": "Täsch, con su auténtica arquitectura del Valais, fusiona magistralmente madera y piedra, revelando típicos graneros y calles estrechas que sirven como una histórica puerta de entrada al Matterhorn.",
+      "tips_es": "Estaciona tu coche en Täsch y toma el tren lanzadera hacia Zermatt."
     },
     {
       "name": "Täschalp",
@@ -3872,31 +4291,11 @@
       "id": "taschalp",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Ftaschalp.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Unique Hotel Post",
-      "name_en": "Hotel Post",
-      "area": "Zermatt",
-      "category": "Deneyim",
-      "tags": [
-        "gece hayatı",
-        "merkezi",
-        "parti"
-      ],
-      "lat": 46.019,
-      "lng": 7.748,
-      "price": "medium",
-      "rating": 4.5,
-      "description": "Zermatt'ın 19. yüzyıl Alp mimarisinin ahşap ve taş işçiliğini sergileyen bu ikonik yapı, geleneksel zarafetle modern konforu harmanlar; bölgenin misafirperverlik mirasından ilham alır.",
-      "description_en": "Showcasing 19th-century Zermatt alpine architecture's wood and stone, this iconic structure blends traditional elegance with modern comfort, inspired by the region's hospitality heritage.",
-      "bestTime": "Tüm gün",
-      "tips": "Matterhorn manzaralı bir oda rezerve ederek deneyimi tamamlayın.",
-      "tips_en": "Complete the experience by booking a room with a Matterhorn view.",
-      "id": "hotel-post",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fhotel-post.jpg?alt=media",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Täschalp è un autentico alpeggio svizzero, adornato da tradizionali strutture in legno, che preserva una cultura alpina secolare. Mostra il ricco patrimonio culturale della regione, il tutto con spettacolari viste sul Cervino.",
+      "tips_it": "Durante la tua escursione sull'alpe, non perdere l'occasione di assaggiare i formaggi tradizionali e i prodotti lattiero-caseari freschi.",
+      "description_es": "Täschalp es un auténtico pasto alpino suizo, adornado con tradicionales estructuras de madera, que preserva una cultura agrícola alpina centenaria. Muestra el rico patrimonio cultural de la región, todo ello con impresionantes vistas al Matterhorn.",
+      "tips_es": "Durante tu caminata por la alp, degusta quesos tradicionales y productos lácteos frescos de la zona."
     },
     {
       "name": "Vernissage",
@@ -3920,7 +4319,11 @@
       "id": "vernissage",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fvernissage.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Progettato dal rinomato artista Heinz Julen, il Vernissage è il cuore culturale di Zermatt, che mostra un'architettura contemporanea unica. Ospita mostre, proiezioni cinematografiche e concerti, vitalizzando lo spirito della regione.",
+      "tips_it": "Controlla sempre il programma attuale delle mostre e degli eventi prima di visitarlo, per non perderti nulla.",
+      "description_es": "Diseñado por el renombrado artista Heinz Julen, Vernissage es el corazón cultural de Zermatt, exhibiendo una arquitectura contemporánea única. Alberga exposiciones, cine y conciertos, vitalizando el espíritu de la región.",
+      "tips_es": "Consulta siempre el programa actual de exposiciones y eventos antes de tu visita."
     },
     {
       "name": "Vis-à-Vis",
@@ -3944,31 +4347,11 @@
       "id": "vis-a-vis",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fvis-a-vis.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Walliserhof Grand-Hotel & Spa",
-      "name_en": "Walliserhof",
-      "area": "Zermatt",
-      "category": "Deneyim",
-      "tags": [
-        "spa",
-        "lüks",
-        "merkezi"
-      ],
-      "lat": 46.021,
-      "lng": 7.7485,
-      "price": "high",
-      "rating": 4.7,
-      "description": "Zermatt'ın kalbinde yer alan, geleneksel Valais mimarisi ile Belle Époque zarafetini harmanlayan, yüzyılı aşkın mirasa sahip Walliserhof Grand-Hotel, lüks konaklama ve çağdaş spa deneyimini sunuyor.",
-      "description_en": "Nestled in Zermatt's heart, Walliserhof Grand-Hotel, with over a century of heritage, blends traditional Valais architecture with Belle Époque elegance, offering luxurious accommodation and a contemporary spa experience.",
-      "bestTime": "Tüm gün",
-      "tips": "Otelden Matterhorn manzaralı bir oda ayırtmayı unutmayın, büyüleyici.",
-      "tips_en": "Don't forget to book a room with Matterhorn views from the hotel; it's enchanting.",
-      "id": "walliserhof",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fwalliserhof.jpg?alt=media",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Con ampie vetrate che si affacciano direttamente sulla cima aguzza di granito del Cervino, il Vis-à-Vis collega il caldo legno di pino e il pavimento in ardesia degli interni al bianco maestoso delle Alpi.",
+      "tips_it": "Al tramonto, siediti vicino alla finestra per catturare i magnifici toni ramati del Cervino.",
+      "description_es": "Con grandes paneles de vidrio que miran directamente al afilado pico de granito del Matterhorn, Vis-à-Vis conecta la calidez de la madera de pino y el suelo de pizarra de su interior con el majestuoso blanco de los Alpes.",
+      "tips_es": "Al atardecer, siéntate junto a la ventana para capturar los mágicos tonos cobrizos del Matterhorn."
     },
     {
       "name": "Walliserkanne",
@@ -3992,7 +4375,11 @@
       "id": "walliserkanne",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fwalliserkanne.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Incastonato nel cuore della cucina alpina, il Walliserkanne riflette l'essenza storica di Zermatt attraverso la sua autentica esperienza culinaria.",
+      "tips_it": "Visita al mattino per assicurarti di gustare piatti preparati con gli ingredienti più freschi.",
+      "description_es": "Anidado en el corazón de la cocina alpina, Walliserkanne refleja la esencia histórica de Zermatt a través de una experiencia culinaria inolvidable.",
+      "tips_es": "Visita por la mañana para disfrutar de los ingredientes más frescos."
     },
     {
       "name": "Weisshorn",
@@ -4016,7 +4403,11 @@
       "id": "weisshorn",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fweisshorn.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Il maestoso Weisshorn, una meraviglia naturale di 4505 metri nelle Alpi vallesane, scalato per la prima volta nel 1861, è rinomato per la sua forma piramidale e offre viste mozzafiato.",
+      "tips_it": "Per le viste più spettacolari, ammira il tramonto da Zermatt o Randa.",
+      "description_es": "El majestuoso Weisshorn, una maravilla natural de 4505 metros en los Alpes del Valais, cuya primera ascensión data de 1861, es célebre por su forma piramidal y ofrece vistas que quitan el aliento.",
+      "tips_es": "Para disfrutar de las mejores vistas, contempla el atardecer desde Zermatt o Randa."
     },
     {
       "name": "Whymper Stube",
@@ -4044,7 +4435,11 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fwhymper-stube.jpg?alt=media",
       "source": "firebase",
       "distanceFromCenter": 1.0,
-      "area_en": "Center"
+      "area_en": "Center",
+      "description_it": "La Whymper Stube pulsa con la gioia degli sciatori ed è intrisa di colori locali, nel cuore di Zermatt.",
+      "tips_it": "Evita le ore di punta se desideri un pranzo veloce e tranquillo.",
+      "description_es": "Whymper Stube late al ritmo de la alegría de los esquiadores y se llena de los colores locales en el corazón de Zermatt.",
+      "tips_es": "Evita las horas punta si buscas un almuerzo rápido."
     },
     {
       "name": "Wolli Park",
@@ -4068,7 +4463,11 @@
       "id": "wolli-park",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fwolli-park.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Wolli Park a Zermatt abbaglia con la sua bellezza naturale e l'architettura alpina, un tripudio di fiori che brillano sotto il sole.",
+      "tips_it": "Il momento migliore per una passeggiata rilassante è nel pomeriggio.",
+      "description_es": "Wolli Park en Zermatt deslumbra con su belleza natural y su encantadora arquitectura alpina, repleto de flores que brillan bajo el sol.",
+      "tips_es": "El mejor momento para un paseo es por la tarde."
     },
     {
       "name": "Wolli's Adventure Park",
@@ -4092,7 +4491,11 @@
       "id": "wollis-park",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fwollis-park.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Scoprite un'oasi serena, ricca delle delizie della natura, nel cuore pulsante di Zermatt.",
+      "tips_it": "Non dimenticate di fare un picnic all'ombra degli alberi maestosi.",
+      "description_es": "Descubre un oasis sereno, rebosante de las delicias de la naturaleza, en el corazón de Zermatt.",
+      "tips_es": "No olvides hacer un pícnic bajo la sombra de los altos árboles."
     },
     {
       "name": "Wolli's Treasure Hunt",
@@ -4116,7 +4519,11 @@
       "id": "treasure-hunt",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Ftreasure-hunt.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Intraprendete un'indimenticabile caccia al tesoro con Wolli, la mascotte di Zermatt, all'ombra del Cervino. Seguite gli indizi, esplorate il villaggio in famiglia e trovate lo scrigno nascosto!",
+      "tips_it": "Ritirate la mappa del tesoro presso l'Ufficio del Turismo di Zermatt e indossate scarpe comode. È gratuita per i bambini!",
+      "description_es": "Embárcate en una inolvidable búsqueda del tesoro con Wolli, la mascota de Zermatt, a la sombra del Matterhorn. ¡Sigue las pistas, explora el pueblo en familia y encuentra el cofre escondido!",
+      "tips_es": "Consigue el mapa del tesoro en la Oficina de Turismo de Zermatt y lleva calzado cómodo. ¡Es gratis para los niños!"
     },
     {
       "name": "Yosemite Zermatt",
@@ -4140,7 +4547,11 @@
       "id": "yosemite",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fyosemite.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Yosemite Zermatt, una serena convergenza tra design moderni e lo spirito tradizionale di Zermatt.",
+      "tips_it": "Non perdetevi i cioccolatini speciali durante l'ora del tè après-ski.",
+      "description_es": "Yosemite Zermatt, una serena convergencia de diseños modernos y el espíritu tradicional de Zermatt.",
+      "tips_es": "Prueba los chocolates especiales durante la hora del té après-ski."
     },
     {
       "name": "Z'Alt Hischi",
@@ -4164,7 +4575,11 @@
       "id": "old-house",
       "distanceFromCenter": 1.0,
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fz_alt_hischi.jpg?alt=media",
-      "source": "firebase"
+      "source": "firebase",
+      "description_it": "Z'Alt Hischi propone bevande vivaci, infuse con fresche erbe alpine, in un'atmosfera allegra e vibrante a Zermatt.",
+      "tips_it": "Gustate una fonduta tradizionale nel pomeriggio per ammirare panorami mozzafiato.",
+      "description_es": "Z'Alt Hischi ofrece bebidas vibrantes infusionadas con hierbas alpinas frescas en un ambiente animado en Zermatt.",
+      "tips_es": "Disfruta de una fondue tradicional por la tarde para contemplar vistas impresionantes."
     },
     {
       "name": "Zermatt Matterhorn Viewpoint",
@@ -4188,7 +4603,11 @@
       "id": "zermatt-matterhorn-viewpoint",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fzermatt-matterhorn-viewpoint.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "L'atmosfera tranquilla del villaggio di Zermatt crea un contrasto sorprendente con la magnificenza dell'iconico Cervino.",
+      "tips_it": "Visitate la mattina presto per le foto migliori.",
+      "description_es": "La tranquila atmósfera del pueblo de Zermatt crea un contraste impactante con la magnificencia del icónico Matterhorn.",
+      "tips_es": "Visita temprano por la mañana para conseguir las mejores fotos."
     },
     {
       "name": "Zermatt Souvenirs",
@@ -4211,7 +4630,11 @@
       "tips": "Sabah erken gidin, kalabalık olmuyor.",
       "tips_en": "Go early in the morning to avoid the crowds.",
       "source": "firebase",
-      "name_en": "Zermatt Souvenirs"
+      "name_en": "Zermatt Souvenirs",
+      "description_it": "Da Zermatt Souvenirs, i suoni dei nostalgici giocattoli in legno si fondono con il caldo aroma del caffè.",
+      "tips_it": "Andate la mattina presto per evitare la folla.",
+      "description_es": "En Zermatt Souvenirs, los sonidos de los nostálgicos juguetes de madera se mezclan con el cálido aroma del café.",
+      "tips_es": "Ve temprano por la mañana para evitar las multitudes."
     },
     {
       "name": "Zermatt Spor Dükkanları",
@@ -4236,7 +4659,11 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fzermatt_spor_dukkanlari.jpg?alt=media",
       "source": "firebase",
       "distanceFromCenter": 1.0,
-      "area_en": "Center"
+      "area_en": "Center",
+      "description_it": "I negozi sportivi di Zermatt emanano un'atmosfera calda che riflette lo spirito montano, ricca di dettagli unici.",
+      "tips_it": "Visitate la mattina presto per ammirare l'alba.",
+      "description_es": "Las tiendas de deportes de Zermatt irradian una atmósfera cálida que refleja el espíritu montañés, llena de detalles únicos.",
+      "tips_es": "Visita temprano por la mañana para contemplar el amanecer."
     },
     {
       "name": "Zermatt Tourism Office",
@@ -4260,7 +4687,11 @@
       "id": "tourist-information",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Ftourist-information.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "La vostra porta d'accesso al magico mondo del Cervino! Ottenete informazioni ufficiali e supporto per le prenotazioni per esplorare la natura unica di Zermatt e la vita del villaggio senza auto.",
+      "tips_it": "Visitate la mattina presto per ottenere le ultime informazioni sui pass di Zermatt e sui tour del Cervino.",
+      "description_es": "¡Tu puerta de entrada al mágico mundo del Matterhorn! Obtén información oficial y asistencia para reservas para explorar la naturaleza única de Zermatt y su vida de pueblo sin coches.",
+      "tips_es": "Visita temprano por la mañana para obtener la información más reciente sobre los pases de Zermatt y los tours del Matterhorn."
     },
     {
       "name": "Zermatt Unplugged",
@@ -4284,31 +4715,11 @@
       "id": "zermatt-unplugged",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fzermatt-unplugged.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
-    },
-    {
-      "name": "Zermatt Youth Hostel",
-      "name_en": "Youth Hostel",
-      "area": "Zermatt",
-      "category": "Deneyim",
-      "tags": [
-        "ekonomik",
-        "hostel",
-        "genç"
-      ],
-      "lat": 46.018,
-      "lng": 7.748,
-      "price": "low",
-      "rating": 4.5,
-      "description": "1960'lardan beri Zermatt'a hizmet veren bu modern, yenilenmiş hostel, Matterhorn manzarasıyla büyüler. İşlevsel mimarisi, dağcılık ruhunu yaşatan gençlere eşsiz bir konaklama sunar.",
-      "description_en": "Serving Zermatt since the 1960s, this modern, renovated hostel captivates with Matterhorn views. Its functional architecture offers young mountaineering enthusiasts a unique stay.",
-      "bestTime": "Tüm gün",
-      "tips": "Önceden rezervasyon yapın ve kendi yemeğinizi hazırlayarak tasarruf edin.",
-      "tips_en": "Book in advance and save money by preparing your own food.",
-      "id": "youth-hostel",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fyouth-hostel.jpg?alt=media",
-      "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Zermatt Unplugged, che si tiene dal 2007 all'ombra del Cervino, è un festival di musica acustica di fama mondiale. Offre un'esperienza indimenticabile con la sua atmosfera intima e artisti stellari.",
+      "tips_it": "Prenotate i biglietti in anticipo e seguite il programma per godervi la musica su palchi unici con vista sul Cervino.",
+      "description_es": "Zermatt Unplugged, celebrado desde 2007 a la sombra del Matterhorn, es un festival de música acústica de renombre mundial. Ofrece una experiencia inolvidable con su ambiente íntimo y artistas estelares.",
+      "tips_es": "Reserva tus entradas con antelación y sigue el programa para disfrutar de la música en escenarios únicos con vistas al Matterhorn."
     },
     {
       "name": "Zermatt-Sunnegga Funicular",
@@ -4332,7 +4743,11 @@
       "id": "zermatt-sunnegga-funicular",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fzermatt-sunnegga-funicular.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Inaugurata nel 1980, la Funicolare Zermatt-Sunnegga è una meraviglia ingegneristica, interamente scavata nella roccia sotterranea, che offre un accesso cruciale a viste mozzafiato sul Cervino.",
+      "tips_it": "Andate presto per magnifiche viste panoramiche sul Cervino e meno folla.",
+      "description_es": "Inaugurado en 1980, el funicular Zermatt-Sunnegga es una maravilla de la ingeniería, excavado completamente bajo tierra a través de la roca, proporcionando un acceso crucial a impresionantes vistas del Matterhorn.",
+      "tips_es": "Ve temprano para disfrutar de magníficas vistas panorámicas del Matterhorn y menos multitudes."
     },
     {
       "name": "Zmutt",
@@ -4356,7 +4771,11 @@
       "id": "zmutt",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fzmutt.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "Vicino a Zermatt, questo storico villaggio Walser affascina con autentiche case in legno del XVI secolo, un'incantevole cappella e un'architettura unica che mostra la vita alpina tradizionale svizzera.",
+      "tips_it": "Fate un'escursione da Zermatt; gustate un pasto nello storico ristorante di Zmutt.",
+      "description_es": "Cerca de Zermatt, este histórico pueblo Walser cautiva con auténticas casas de madera del siglo XVI, una encantadora capilla y una arquitectura única que muestra la vida alpina tradicional suiza.",
+      "tips_es": "Haz una caminata desde Zermatt; disfruta de una comida en el histórico restaurante de Zmutt."
     },
     {
       "name": "Zmutt Dam",
@@ -4380,7 +4799,11 @@
       "id": "zmutt-dam",
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fzmutt-dam.jpg?alt=media",
       "source": "firebase",
-      "distanceFromCenter": 1.0
+      "distanceFromCenter": 1.0,
+      "description_it": "La diga di Zmutt, incastonata nel cuore di Zermatt, assomiglia a un quadro tranquillo che riflette le montagne.",
+      "tips_it": "Andate prima dell'alba; il riflesso sull'acqua è ipnotizzante.",
+      "description_es": "La presa de Zmutt, enclavada en el corazón de Zermatt, se asemeja a una tranquila pintura que refleja las montañas.",
+      "tips_es": "Ve antes del amanecer; el reflejo en el agua es hipnotizante."
     },
     {
       "name": "Zum See",
@@ -4403,7 +4826,11 @@
       "tips": "Almancı bir yemek için gün batımında gelin.",
       "tips_en": "Visit at sunset for a taste of authentic cuisine.",
       "source": "firebase",
-      "name_en": "Zum See"
+      "name_en": "Zum See",
+      "description_it": "Zum See, che offre sapori locali di Zermatt, regala un'esperienza unica con viste mozzafiato sulle montagne.",
+      "tips_it": "Visitate al tramonto per assaporare una cucina autentica.",
+      "description_es": "Zum See, que ofrece sabores locales de Zermatt, proporciona una experiencia única con impresionantes vistas a la montaña.",
+      "tips_es": "Visita al atardecer para probar la auténtica cocina."
     },
     {
       "name": "Gornergrat Platform",
@@ -4423,7 +4850,77 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Fzermatt%2Fgornergrat_platform.jpg?alt=media",
       "source": "firebase",
       "tips": "Kahvaltınızı buradan yaparak güne başlayın.",
-      "tips_en": "Start your day with breakfast from here."
+      "tips_en": "Start your day with breakfast from here.",
+      "description_it": "La piattaforma del Gornergrat, rinomata per le viste panoramiche di Zermatt, funge da punto d'incontro per le leggende.",
+      "tips_it": "Iniziate la giornata con la colazione da qui.",
+      "description_es": "La Plataforma Gornergrat, famosa por las vistas panorámicas de Zermatt, sirve como punto de encuentro para leyendas.",
+      "tips_es": "Empieza tu día con un desayuno desde aquí."
+    },
+    {
+      "id": "gen_ChIJL0ddId81j0cRY67X8IgdtM0",
+      "name": "Restaurant Zum See",
+      "name_en": "Restaurant Zum See",
+      "category": "Restoran",
+      "area": "Zum See 24",
+      "description": "Zermatt'ta tarihi dağ kulübeleri arasında yer alan bu mekan, sıcak ve samimi bir atmosfer sunar. Ev yapımı lezzetler ve klasik İsviçre yemekleriyle misafirlerini ağırlar.",
+      "description_en": "Nestled among historic mountain huts in Zermatt, this spot offers a warm, cozy atmosphere. It welcomes guests with homemade delicacies and classic Swiss dishes.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/zermatt/gen_ChIJL0ddId81j0cRY67X8IgdtM0.jpg",
+      "lat": 46.0065403,
+      "lng": 7.7319523,
+      "rating": 4.8,
+      "reviewCount": 801,
+      "price": "high",
+      "tags": [
+        "restoran",
+        "popüler"
+      ],
+      "source": "places_textsearch",
+      "description_it": "Incastonato tra storiche baite di montagna a Zermatt, questo luogo offre un'atmosfera calda e accogliente. Accoglie gli ospiti con prelibatezze fatte in casa e piatti classici svizzeri.",
+      "description_es": "Enclavado entre históricas cabañas de montaña en Zermatt, este lugar ofrece un ambiente cálido y acogedor. Da la bienvenida a los huéspedes con delicias caseras y platos clásicos suizos."
+    },
+    {
+      "id": "gen_ChIJE99BId81j0cRQzKtskEKKa4",
+      "name": "Alphitta",
+      "name_en": "Alphitta",
+      "category": "Restoran",
+      "area": "Riffelalp",
+      "description": "Zermatt'ta, Matterhorn manzaralı bu dağ restoranı, lezzetli yemekleri ve canlı müziğiyle rahat bir atmosfer sunuyor. Dost canlısı personeli ve evcil hayvanlarıyla misafirlerine keyifli bir deneyim yaşatıyor.",
+      "description_en": "This mountain restaurant in Zermatt offers a relaxed atmosphere with delicious food and live music, boasting Matterhorn views. Friendly staff and their dogs provide a delightful experience for guests.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/zermatt/gen_ChIJE99BId81j0cRQzKtskEKKa4.jpg",
+      "lat": 46.0014611,
+      "lng": 7.749910499999999,
+      "rating": 4.7,
+      "reviewCount": 1034,
+      "price": "medium",
+      "tags": [
+        "restoran",
+        "popüler"
+      ],
+      "source": "places_textsearch",
+      "description_it": "Questo ristorante di montagna a Zermatt offre un'atmosfera rilassata con cibo delizioso e musica dal vivo, vantando viste sul Cervino. Il personale cordiale e i loro cani offrono un'esperienza deliziosa agli ospiti.",
+      "description_es": "Este restaurante de montaña en Zermatt ofrece un ambiente relajado con comida deliciosa y música en vivo, presumiendo de vistas al Matterhorn. El amable personal y sus perros brindan una experiencia encantadora a los huéspedes."
+    },
+    {
+      "id": "gen_ChIJ7VYWyoU1j0cRDKBm7K96w2E",
+      "name": "CERVO Mountain Resort",
+      "name_en": "CERVO Mountain Resort",
+      "category": "Kafe",
+      "area": "Riedweg 156",
+      "description": "Zermatt'ta yer alan bu dağ tesisi, balkonlu şık konaklama birimleri, barlar, yemek seçenekleri ve lüks bir spa sunmaktadır. Kayakla giriş-çıkış imkanı ve çeşitli aktivitelerle konforlu bir deneyim vadediyor.",
+      "description_en": "This mountain resort in Zermatt offers chic quarters with balconies, bars, dining, and a posh spa. It promises a comfortable experience with ski-in/ski-out access and various activities.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/zermatt/gen_ChIJ7VYWyoU1j0cRDKBm7K96w2E.jpg",
+      "lat": 46.0219264,
+      "lng": 7.754370499999999,
+      "rating": 4.7,
+      "reviewCount": 1469,
+      "price": "medium",
+      "tags": [
+        "kafe",
+        "popüler"
+      ],
+      "source": "places_textsearch",
+      "description_it": "Questo resort di montagna a Zermatt offre alloggi eleganti con balconi, bar, ristoranti e una spa di lusso. Promette un'esperienza confortevole con accesso diretto alle piste (ski-in/ski-out) e varie attività.",
+      "description_es": "Este resort de montaña en Zermatt ofrece elegantes alojamientos con balcones, bares, restaurantes y un lujoso spa. Promete una experiencia cómoda con acceso directo a las pistas (ski-in/ski-out) y diversas actividades."
     }
   ],
   "heroImage": "https://holidaystoswitzerland.com/wp-content/uploads/2020/07/Zermatt-and-the-Matterhorn-at-dawn.jpg",

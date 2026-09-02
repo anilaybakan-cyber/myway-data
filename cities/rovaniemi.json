@@ -25,7 +25,11 @@
       "tips": "Gün batımında yürüyüş yaparak sessizliği deneyimleyin.",
       "tips_en": "Take a walk at sunset to experience the serenity.",
       "subcategory": "Tepelik",
-      "name_en": "Aavasaksa"
+      "name_en": "Aavasaksa",
+      "description_it": "Gli spiriti mitici celati sotto la neve di Aavasaksa offrono una tranquillità unica a chi visita questo parco storico.",
+      "tips_it": "Fai una passeggiata al tramonto per assaporare la serenità.",
+      "description_es": "Los espíritus míticos que se esconden bajo la nieve en Aavasaksa ofrecen una tranquilidad única a quienes visitan este histórico parque.",
+      "tips_es": "Da un paseo al atardecer para experimentar la serenidad."
     },
     {
       "id": "access-lapland",
@@ -46,7 +50,11 @@
       "tips": "Kış sezonunda yerinizi önceden ayırtın ve katmanlı giyinmeyi unutmayın; hava koşulları hızla değişebilir.",
       "tips_en": "Book your spot in advance during the winter season and remember to dress in layers; weather conditions can change rapidly.",
       "subcategory": "Tur",
-      "name_en": "Access Lapland"
+      "name_en": "Access Lapland",
+      "description_it": "Access Lapland a Rovaniemi dà vita alla magia dell'Artico. Crea ricordi indimenticabili con safari in husky e renne, cacce all'Aurora Boreale e tour in motoslitta.",
+      "tips_it": "Prenota il tuo posto in anticipo durante la stagione invernale e ricorda di vestirti a strati; le condizioni meteorologiche possono cambiare rapidamente.",
+      "description_es": "Access Lapland en Rovaniemi da vida a la magia del Ártico. Crea recuerdos inolvidables con safaris de huskies y renos, cazas de auroras boreales y excursiones en moto de nieve.",
+      "tips_es": "Reserva tu plaza con antelación durante la temporada de invierno y recuerda vestirte por capas; las condiciones meteorológicas pueden cambiar rápidamente."
     },
     {
       "id": "amarillo-rovaniemi",
@@ -67,7 +75,11 @@
       "tips": "Akşamları canlı atmosferi ve doyurucu Tex-Mex menüsüyle öne çıkar. Özellikle fajitaları denemelisiniz.",
       "tips_en": "It stands out in the evenings with its lively atmosphere and hearty Tex-Mex menu. You should especially try the fajitas.",
       "subcategory": "Meksika",
-      "name_en": "Amarillo Rovaniemi"
+      "name_en": "Amarillo Rovaniemi",
+      "description_it": "Nel cuore di Rovaniemi, Amarillo offre vivaci sapori Tex-Mex, un luogo popolare per residenti e viaggiatori. Ideale per una pausa calda dal freddo del nord.",
+      "tips_it": "Si distingue la sera per la sua atmosfera vivace e il ricco menu Tex-Mex. Dovresti provare soprattutto le fajitas.",
+      "description_es": "En el corazón de Rovaniemi, Amarillo ofrece vibrantes sabores Tex-Mex, un lugar popular tanto para locales como para viajeros. Ideal para un cálido respiro del frío nórdico.",
+      "tips_es": "Destaca por las noches con su animado ambiente y su contundente menú Tex-Mex. Deberías probar especialmente las fajitas."
     },
     {
       "name": "Angry Birds Activity Park",
@@ -90,7 +102,11 @@
       "tips": "Parkta en sessiz saatler, sabah altıda başlar.",
       "tips_en": "The quietest hours in the park begin at six in the morning.",
       "source": "firebase",
-      "name_en": "Angry Birds Activity Park"
+      "name_en": "Angry Birds Activity Park",
+      "description_it": "L'Angry Birds Activity Park a Rovaniemi è un mondo gioioso immerso in foreste naturali.",
+      "tips_it": "Le ore più tranquille nel parco iniziano alle sei del mattino.",
+      "description_es": "El Parque de Actividades Angry Birds en Rovaniemi es un mundo de alegría rodeado de bosques naturales.",
+      "tips_es": "Las horas más tranquilas en el parque comienzan a las seis de la mañana."
     },
     {
       "id": "antinkaapo",
@@ -111,28 +127,11 @@
       "tips": "Pencereden nefis manzarayı izleyerek kahve yudumlayın.",
       "tips_en": "Sip your coffee while enjoying the lovely view from the window.",
       "subcategory": "Fırın",
-      "name_en": "Antinkaapo"
-    },
-    {
-      "id": "apukka-resort",
-      "name": "Apukka Resort",
-      "category": "Deneyim",
-      "tags": [
-        "ice cabins",
-        "aurora wagon",
-        "activities"
-      ],
-      "lat": 66.578362,
-      "lng": 26.0154,
-      "rating": 4.7,
-      "description": "Eski tomrukçu köyünden modern mimari harikasına dönüşen Apukka, geleneksel Arktik tasarımları sergiler. Cam igloları, büyüleyici buz şapeli ve otantik kütük evleriyle kuzeyin eşsiz doğasını yaşatır.",
-      "description_en": "Apukka, from an old logger's village, showcases innovative Arctic architecture. Its glass igloos, unique ice chapel, and authentic log cabins offer an unparalleled northern nature experience.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fapukka-resort.jpg?alt=media",
-      "price": "high",
-      "tips": "Kutup ışıklarını görmek için gece gökyüzünü mutlaka kontrol edin.",
-      "tips_en": "Definitely check the night sky to witness the Northern Lights.",
-      "subcategory": "Resort",
-      "name_en": "Apukka Resort"
+      "name_en": "Antinkaapo",
+      "description_it": "I dettagli in legno e i toni caldi di Antinkaapo si fondono armoniosamente con l'atmosfera pacifica del caffè.",
+      "tips_it": "Sorseggia il tuo caffè godendoti la splendida vista dalla finestra.",
+      "description_es": "Los detalles de madera y los tonos cálidos de Antinkaapo se fusionan armoniosamente con la atmósfera tranquila de la cafetería.",
+      "tips_es": "Disfruta de tu café mientras contemplas las preciosas vistas desde la ventana."
     },
     {
       "name": "Arctic Boulevard",
@@ -154,7 +153,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Öğle yemeğinde yerel ren geyiği burgerini denemeyi unutmayın.",
       "tips_en": "Don’t miss trying the local reindeer burger for lunch.",
-      "name_en": "Arctic Boulevard"
+      "name_en": "Arctic Boulevard",
+      "description_it": "Nel cuore di Rovaniemi, assapora i freschi sapori scandinavi sotto l'Aurora Boreale, godendoti momenti deliziosi con gli amici in un'atmosfera vivace.",
+      "tips_it": "Non perdere l'occasione di provare l'hamburger di renna locale per pranzo.",
+      "description_es": "En el corazón de Rovaniemi, experimenta los frescos sabores escandinavos bajo las Auroras Boreales, disfrutando de momentos deliciosos con amigos en un ambiente animado.",
+      "tips_es": "No dejes de probar la hamburguesa de reno local para el almuerzo."
     },
     {
       "id": "arctic-circle-hiking-area",
@@ -175,7 +178,11 @@
       "tips": "Sabah erken saatlerde gidin, kuş seslerini dinleyin.",
       "tips_en": "Visit early in the morning to hear the birds sing.",
       "subcategory": "Park",
-      "name_en": "Arctic Circle Hiking Area"
+      "name_en": "Arctic Circle Hiking Area",
+      "description_it": "Nell'Arctic Circle Hiking Area di Rovaniemi, gli amanti della natura e i corridori assaporano la bellezza, mentre l'atmosfera vivace risuona di conversazioni amichevoli.",
+      "tips_it": "Visita la mattina presto per ascoltare il canto degli uccelli.",
+      "description_es": "En la Zona de Senderismo del Círculo Polar Ártico de Rovaniemi, los entusiastas de la naturaleza y los corredores saborean la belleza, mientras el animado ambiente bulle con conversaciones amistosas.",
+      "tips_es": "Visita temprano por la mañana para escuchar el canto de los pájaros."
     },
     {
       "id": "arctic-circle-information",
@@ -196,7 +203,11 @@
       "tips": "Arktik Daire geçiş sertifikanızı almayı unutmayın, harika bir hatıradır.",
       "tips_en": "Don't forget your Arctic Circle crossing certificate; it's a unique souvenir.",
       "subcategory": "Turizm Ofisi",
-      "name_en": "Arctic Circle Information"
+      "name_en": "Arctic Circle Information",
+      "description_it": "L'iconica linea del Circolo Polare Artico nel cuore di Rovaniemi offre mostre uniche sulla geografia polare, la cultura Sami e la storia attraverso i suoi impressionanti centri informazioni.",
+      "tips_it": "Non dimenticare il tuo certificato di attraversamento del Circolo Polare Artico; è un souvenir unico.",
+      "description_es": "La icónica línea del Círculo Polar Ártico, en el corazón de Rovaniemi, ofrece exposiciones únicas sobre geografía polar, cultura sami e historia a través de sus impresionantes centros de información.",
+      "tips_es": "No olvides tu certificado de cruce del Círculo Polar Ártico; es un recuerdo único."
     },
     {
       "id": "arctic-circle-line",
@@ -217,7 +228,11 @@
       "tips": "Kuzey Kutup Dairesi'ni geçtiğinize dair sertifikanızı almayı unutmayın!",
       "tips_en": "Don't forget to get your certificate for crossing the Arctic Circle!",
       "subcategory": "Anıt",
-      "name_en": "Arctic Circle Line"
+      "name_en": "Arctic Circle Line",
+      "description_it": "Questa linea storica a 66°33′45.9″ di latitudine a Rovaniemi simboleggia l'attraversamento del Circolo Polare Artico. Segna l'inizio della notte polare e del sole di mezzanotte, offrendo la natura e la cultura uniche della Lapponia.",
+      "tips_it": "Non dimenticare di ottenere il tuo certificato per l'attraversamento del Circolo Polare Artico!",
+      "description_es": "Esta histórica línea, a 66°33′45.9″ de latitud en Rovaniemi, simboliza el cruce del Círculo Polar Ártico. Marca la noche polar, el inicio del sol de medianoche; ofreciendo la naturaleza y cultura únicas de Laponia.",
+      "tips_es": "¡No olvides conseguir tu certificado por cruzar el Círculo Polar Ártico!"
     },
     {
       "id": "arctic-circle-snowmobile-park",
@@ -238,7 +253,11 @@
       "tips": "Gezinize uygun termal kıyafetler giymek, deneyiminizi en üst düzeye çıkarır.",
       "tips_en": "Wearing appropriate thermal clothing for your ride maximizes your experience.",
       "subcategory": "Aktivite",
-      "name_en": "Arctic Circle Snowmobile Park"
+      "name_en": "Arctic Circle Snowmobile Park",
+      "description_it": "Situato strategicamente sul Circolo Polare Artico, questo parco di Rovaniemi mostra l'evoluzione dei trasporti artici. Il suo design armonioso con la natura riflette la tradizione storica di esplorazione e avventura della regione.",
+      "tips_it": "Indossare un abbigliamento termico adeguato per la tua corsa massimizza la tua esperienza.",
+      "description_es": "Estratégicamente situado en el Círculo Polar Ártico, este parque de Rovaniemi muestra la evolución del transporte ártico. Su diseño, en armonía con la naturaleza, refleja la tradición histórica de exploración y aventura de la región.",
+      "tips_es": "Usar ropa térmica adecuada para tu paseo maximiza tu experiencia."
     },
     {
       "id": "arctic-design-shop",
@@ -259,7 +278,11 @@
       "tips": "Öğle saatlerinde gitmek, kalabalıktan kaçınmanızı sağlar.",
       "tips_en": "Visiting during lunch hours helps you avoid the crowds.",
       "subcategory": "Tasarım",
-      "name_en": "Arctic Design Shop"
+      "name_en": "Arctic Design Shop",
+      "description_it": "L'Arctic Design Shop riflette lo spirito vibrante di Rovaniemi, ricco di souvenir artigianali e opere d'arte locali. I visitatori apprezzano l'atmosfera calda.",
+      "tips_it": "Visitare durante l'ora di pranzo ti aiuta a evitare la folla.",
+      "description_es": "Arctic Design Shop refleja el espíritu vibrante de Rovaniemi, lleno de recuerdos artesanales y obras de arte locales. Los visitantes disfrutan de su cálida atmósfera.",
+      "tips_es": "Visitar durante las horas del almuerzo te ayudará a evitar las multitudes."
     },
     {
       "id": "arctic-golf-finland",
@@ -280,7 +303,11 @@
       "tips": "Güneş batmadan golf deneyimi için yazın gece yarısı tee-time'ı ayarlayın.",
       "tips_en": "For endless daylight golf, book a midnight tee-time during summer.",
       "subcategory": "Golf",
-      "name_en": "Arctic Golf Finland"
+      "name_en": "Arctic Golf Finland",
+      "description_it": "Questo campo da golf del Circolo Polare Artico, sapientemente integrato nella natura selvaggia del nord, mostra una brillante architettura paesaggistica moderna. Offre un golf unico sotto il sole di mezzanotte, un'icona sportiva di Rovaniemi.",
+      "tips_it": "Per un golf con luce infinita, prenota un tee-time a mezzanotte durante l'estate.",
+      "description_es": "Este campo de golf del Círculo Polar Ártico, expertamente integrado en la naturaleza salvaje del norte, exhibe una brillante arquitectura paisajística moderna. Ofrece un golf único bajo el sol de medianoche, un icono deportivo de Rovaniemi.",
+      "tips_es": "Para un golf con luz diurna infinita, reserva una hora de salida a medianoche durante el verano."
     },
     {
       "id": "arctic-lifestyle",
@@ -301,70 +328,11 @@
       "tips": "Kuzey Işıkları avı için en iyi şansınızı yakalamak adına kış aylarında, özellikle karanlık ve açık gecelerde katılın.",
       "tips_en": "For your best chance to catch the Northern Lights, join during winter months, especially on dark and clear nights.",
       "subcategory": "Tur",
-      "name_en": "Arctic Lifestyle"
-    },
-    {
-      "id": "arctic-light-hotel",
-      "name": "Arctic Light Hotel",
-      "category": "Deneyim",
-      "tags": [
-        "boutique",
-        "luxury",
-        "breakfast"
-      ],
-      "lat": 66.501342,
-      "lng": 25.734505,
-      "rating": 4.7,
-      "description": "Rovaniemi'nin İkinci Dünya Savaşı sonrası yeniden doğuşunu simgeleyen, 1949 yapımı eski şehir binasında yer alan Arctic Light Hotel, modern İskandinav mimarisini yansıtırken lüks konaklama ve eşsiz Arktik deneyimi sunar.",
-      "description_en": "Symbolizing Rovaniemi's post-WWII rebirth, Arctic Light Hotel occupies the historic 1949 former city hall, showcasing modern Scandinavian architecture while offering luxurious accommodation and unique Arctic experiences.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Farctic-light-hotel.jpg?alt=media",
-      "price": "high",
-      "tips": "Hoteldeki Arctic Eye restoranında yerel lezzetleri deneyimlemeyi unutmayın.",
-      "tips_en": "Don't forget to experience local delicacies at the hotel's Arctic Eye restaurant.",
-      "subcategory": "Otel",
-      "name_en": "Arctic Light Hotel"
-    },
-    {
-      "id": "arctic-snowhotel-glass-igloos",
-      "name": "Arctic SnowHotel & Glass Igloos",
-      "category": "Tarihi",
-      "tags": [
-        "snow hotel",
-        "ice bar",
-        "dinner"
-      ],
-      "lat": 66.638263,
-      "lng": 25.342493,
-      "rating": 4.5,
-      "description": "Rovaniemi'deki Arctic SnowHotel, her yıl yeniden inşa edilen eşsiz bir kar ve buz mimarisi harikasıdır. İkonik cam igloları, nefes kesici Kuzey Işıkları manzaraları sunarak unutulmaz Arktik deneyim yaşatır.",
-      "description_en": "Rovaniemi's Arctic SnowHotel, an annually sculpted architectural marvel of snow and ice, houses unique accommodations. Iconic glass igloos provide unparalleled Northern Lights views, a breathtaking Arctic experience.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Farctic-snowhotel-glass-igloos.jpg?alt=media",
-      "price": "medium",
-      "tips": "Buz oteli için sıcak giyinin ve erken rezervasyon yapın.",
-      "tips_en": "Dress warmly, especially for the ice hotel, and book early.",
-      "subcategory": "Otel",
-      "name_en": "Arctic SnowHotel & Glass Igloos"
-    },
-    {
-      "id": "arctic-treehouse-hotel",
-      "name": "Arctic TreeHouse Hotel",
-      "category": "Deneyim",
-      "tags": [
-        "design",
-        "view",
-        "luxury"
-      ],
-      "lat": 66.539435,
-      "lng": 25.799994,
-      "rating": 4.6,
-      "description": "Rovaniemi'nin kış ormanlarına zarifçe entegre edilmiş, modern İskandinav mimarisinin başyapıtı Arctic TreeHouse Hotel, panoramik pencereli lüks ağaç evler sunar. Kuzey Işıkları'nı ve orman manzarasını deneyimlemek için tasarlanmış eşsiz bir mimari harikadır.",
-      "description_en": "Rovaniemi's Arctic TreeHouse Hotel, a modern Scandinavian architectural marvel, blends into winter forests. Its panoramic luxury treehouses offer unparalleled Northern Lights and serene forest experiences.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Farctic-treehouse-hotel.jpg?alt=media",
-      "price": "very high",
-      "tips": "Rakshi restoranında yer ayırtın; en iyi Kuzey Işıkları için aurora alarmını kullanın.",
-      "tips_en": "Book Rakshi restaurant; use aurora alarm for best Northern Lights viewing.",
-      "subcategory": "Otel",
-      "name_en": "Arctic TreeHouse Hotel"
+      "name_en": "Arctic Lifestyle",
+      "description_it": "Arctic Lifestyle offre un viaggio nel cuore della vita artica a Rovaniemi con tradizionali safari in husky, gite in slitta con renne e cacce all'Aurora Boreale. Esperienze uniche intrecciate con la cultura locale secolare.",
+      "tips_it": "Per le migliori possibilità di avvistare l'Aurora Boreale, partecipa durante i mesi invernali, specialmente nelle notti buie e limpide.",
+      "description_es": "Arctic Lifestyle ofrece un viaje al corazón de la vida ártica en Rovaniemi con safaris tradicionales de huskies, paseos en trineo de renos y cazas de auroras boreales. Experiencias únicas entrelazadas con la cultura local centenaria.",
+      "tips_es": "Para tener la mejor oportunidad de ver las Auroras Boreales, únete durante los meses de invierno, especialmente en noches oscuras y despejadas."
     },
     {
       "id": "arctic-warriors",
@@ -385,7 +353,11 @@
       "tips": "Yerel müzisyenlerin performansını dinleyerek alışveriş yapın.",
       "tips_en": "Shop while enjoying performances from local musicians.",
       "subcategory": "Sağlık",
-      "name_en": "Arctic Warriors"
+      "name_en": "Arctic Warriors",
+      "description_it": "Arctic Warriors a Rovaniemi presenta prodotti artigianali di artisti locali in un'atmosfera dinamica. Musica dal vivo e conversazioni amichevoli animano l'esperienza di shopping.",
+      "tips_it": "Fai shopping mentre ti godi le esibizioni di musicisti locali.",
+      "description_es": "Arctic Warriors en Rovaniemi presenta productos hechos a mano por artesanos locales en un ambiente dinámico. La música en vivo y las conversaciones amistosas animan la experiencia de compra.",
+      "tips_es": "Compra mientras disfrutas de las actuaciones de músicos locales."
     },
     {
       "id": "arktikum-beach-aurora-spot",
@@ -406,7 +378,11 @@
       "tips": "Kuzey ışıkları için berrak kış gecelerinde saat 22:00 sonrası gidin.",
       "tips_en": "Visit after 10 PM on clear winter nights for aurora chances.",
       "subcategory": "Park",
-      "name_en": "Arktikum Beach (Aurora Spot)"
+      "name_en": "Arktikum Beach (Aurora Spot)",
+      "description_it": "Lungo la curva dell'Ounasjoki, questa 'spiaggia' sfida le aspettative tropicali; le sue rive ghiacciate sono un palcoscenico silenzioso dove la natura selvaggia artica incontra lo sguardo speranzoso per le aurore danzanti, un netto contrappunto alle tipiche spiagge sabbiose.",
+      "tips_it": "Visita dopo le 22:00 nelle notti invernali limpide per avere possibilità di avvistare l'aurora.",
+      "description_es": "A lo largo de la curva del Ounasjoki, esta 'playa' desafía las expectativas tropicales; sus orillas heladas son un escenario silencioso donde la cruda naturaleza ártica se encuentra con la mirada esperanzada de las auroras danzantes, un marcado contrapunto a las típicas costas arenosas.",
+      "tips_es": "Visita después de las 22:00 en noches claras de invierno para tener oportunidades de ver auroras."
     },
     {
       "name": "Arktikum Bridge",
@@ -428,7 +404,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Kasım-Mart arası gün batımında pilonun alevini ve nehir yansımalarını yakalayın.",
       "tips_en": "Catch the pylon's flame and river reflections at sunset between November and March.",
-      "name_en": "Arktikum Bridge"
+      "name_en": "Arktikum Bridge",
+      "description_it": "L'architettura del Ponte Arktikum si distingue per il suo unico pilone in cemento che si erge elegantemente sul fiume Kemijoki. La torcia accesa di notte crea un contrasto suggestivo con il blu nordico.",
+      "tips_it": "Ammirate la fiamma del pilone e i suoi riflessi sul fiume al tramonto, tra novembre e marzo.",
+      "description_es": "La arquitectura del Puente Arktikum destaca por su único pilón de hormigón que se eleva elegantemente sobre el río Kemijoki. La antorcha encendida por la noche forma un sorprendente contraste con el azul nórdico.",
+      "tips_es": "Contempla la llama del pilón y los reflejos del río al atardecer entre noviembre y marzo."
     },
     {
       "name": "Arktikum Science Museum",
@@ -449,7 +429,11 @@
       "tips": "Kuzey Işıkları için ideal bir nokta olan cam tünelini kaçırmayın.",
       "tips_en": "Don't miss the glass tunnel, an ideal spot for Northern Lights.",
       "description_en": "Rovaniemi's Arktikum, with Lahdelma & Mahlamäki's iconic glass-tunnelled underground architecture, is a captivating science and provincial museum showcasing Arctic and Lapland culture.",
-      "name_en": "Arktikum Science Museum"
+      "name_en": "Arktikum Science Museum",
+      "description_it": "L'Arktikum di Rovaniemi, con la sua iconica architettura sotterranea a tunnel di vetro, opera di Lahdelma & Mahlamäki, è un affascinante museo scientifico e provinciale che espone la cultura artica e lappone.",
+      "tips_it": "Non perdetevi il tunnel di vetro, un luogo ideale per ammirare l'Aurora Boreale.",
+      "description_es": "El Arktikum de Rovaniemi, con la icónica arquitectura subterránea de túnel de cristal de Lahdelma & Mahlamäki, es un cautivador museo de ciencia y provincial que exhibe la cultura ártica y lapona.",
+      "tips_es": "No te pierdas el túnel de cristal, un lugar ideal para las Auroras Boreales."
     },
     {
       "id": "auttikongs",
@@ -470,7 +454,11 @@
       "tips": "En iyi şelale manzarası için doğa parkurundan üst güverteye yürüyün.",
       "tips_en": "Hike the nature trail to the upper deck for best rapids views.",
       "subcategory": "Şelale",
-      "name_en": "Auttiköngäs"
+      "name_en": "Auttiköngäs",
+      "description_it": "Auttiköngäs sussurra storie di un passato industrioso, conservando un canale di fluitazione del legname vitale per il trasporto del legname lappone. Le potenti rapide scendono a cascata accanto a questa reliquia, testimonianza di un'ingegnosità d'altri tempi.",
+      "tips_it": "Percorrete il sentiero naturalistico fino al ponte superiore per le migliori viste sulle rapide.",
+      "description_es": "Auttiköngäs susurra historias de un pasado industrioso, conservando un canal de flotación de troncos vital para el transporte de madera lapona. Los potentes rápidos caen en cascada junto a esta reliquia, un testimonio de ingenio de antaño.",
+      "tips_es": "Recorre el sendero natural hasta la plataforma superior para disfrutar de las mejores vistas de los rápidos."
     },
     {
       "name": "Auttiköngäs Waterfall",
@@ -492,7 +480,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Spreyi yakından hissetmek için ahşap patikalarda yürüyün.",
       "tips_en": "Walk the wooden duckboards to feel the spray up close.",
-      "name_en": "Auttiköngäs Waterfall"
+      "name_en": "Auttiköngäs Waterfall",
+      "description_it": "Auttiköngäs pulsa con il ruggito incessante della sua cascata a più livelli, una calamita per escursionisti e famiglie vivaci. Il flusso costante dell'acqua e il loro allegro chiacchierio infondono in questi antichi pini una vita vibrante e palpabile.",
+      "tips_it": "Camminate sulle passerelle di legno per sentire gli spruzzi da vicino.",
+      "description_es": "Auttiköngäs late con el rugido incesante de su cascada escalonada, un imán para excursionistas y familias animadas. El flujo constante del agua y su alegre parloteo infunden a estos pinos centenarios una vida vibrante y palpable.",
+      "tips_es": "Camina por las pasarelas de madera para sentir el rocío de cerca."
     },
     {
       "id": "balmuir-store-arctic-circle",
@@ -513,7 +505,11 @@
       "tips": "Yumuşak, otantik bir Lapland hatırası için kaşmir battaniyelere göz atın.",
       "tips_en": "Browse the cashmere throws for a soft, authentic Lapland souvenir.",
       "subcategory": "Butik",
-      "name_en": "Balmuir Store Arctic Circle"
+      "name_en": "Balmuir Store Arctic Circle",
+      "description_it": "Attingendo a un'eredità di artigianato nordico, Balmuir al Circolo Polare Artico crea accessori e articoli per la casa di lusso, ogni pezzo che riecheggia lo spirito sereno ma robusto della natura finlandese.",
+      "tips_it": "Date un'occhiata ai plaid in cashmere per un morbido e autentico souvenir della Lapponia.",
+      "description_es": "Inspirándose en un legado de artesanía nórdica, Balmuir en el Círculo Polar Ártico elabora lujosos accesorios y artículos para el hogar, cada pieza haciendo eco del espíritu sereno pero robusto de la naturaleza finlandesa.",
+      "tips_es": "Explora las mantas de cachemira para un suave y auténtico recuerdo de Laponia."
     },
     {
       "id": "beana-laponia",
@@ -534,7 +530,11 @@
       "tips": "Kuzey Işıkları'nı deneyimlemek için kış aylarında rezervasyon yapmayı unutmayın.",
       "tips_en": "Remember to book during winter months to experience the Northern Lights.",
       "subcategory": "Butik Otel",
-      "name_en": "Beana Laponia"
+      "name_en": "Beana Laponia",
+      "description_it": "Beana Laponia, a Rovaniemi, integra l'architettura finlandese moderna con la natura artica. È una struttura unica che fonde il ricco patrimonio culturale e le esperienze nella natura selvaggia della Lapponia con il lusso.",
+      "tips_it": "Ricordate di prenotare durante i mesi invernali per vivere l'esperienza dell'Aurora Boreale.",
+      "description_es": "Beana Laponia, en Rovaniemi, fusiona la arquitectura finlandesa moderna con la naturaleza ártica. Es una instalación única que combina la rica herencia cultural de Laponia y las experiencias en la naturaleza salvaje con el lujo.",
+      "tips_es": "Recuerda reservar durante los meses de invierno para vivir la experiencia de las Auroras Boreales."
     },
     {
       "id": "bearhill-husky",
@@ -555,7 +555,11 @@
       "tips": "Kızak keyfi için mutlaka önceden rezervasyon yapın ve sıcak giyinin.",
       "tips_en": "For sledding fun, definitely book in advance and dress warmly.",
       "subcategory": "Aktivite",
-      "name_en": "Bearhill Husky"
+      "name_en": "Bearhill Husky",
+      "description_it": "Questa fattoria unica, che sostiene lo storico stile di vita artico della Lapponia, ospita antiche razze di Siberian Husky e tramanda la conoscenza tradizionale della slitta, un vero patrimonio culturale.",
+      "tips_it": "Per il divertimento in slitta, prenotate con largo anticipo e vestitevi calorosamente.",
+      "description_es": "Esta granja única, que mantiene el histórico estilo de vida ártico de Laponia, alberga antiguas razas de huskies siberianos y el conocimiento tradicional del trineo, un verdadero patrimonio cultural.",
+      "tips_es": "Para disfrutar de la diversión en trineo, reserva con antelación y vístete con ropa de abrigo."
     },
     {
       "id": "beyond-arctic",
@@ -576,7 +580,11 @@
       "tips": "Kutup ışıkları için en iyi dönem Eylül-Mart arasıdır; turlarınızı önceden ayırtın ve kat kat giyinin.",
       "tips_en": "The best period for Northern Lights is September-March; book your tours in advance and dress in layers.",
       "subcategory": "Tur",
-      "name_en": "Beyond Arctic"
+      "name_en": "Beyond Arctic",
+      "description_it": "Nel cuore di Rovaniemi, vivete la magia del Circolo Polare Artico. Beyond Arctic offre avventure per ammirare l'Aurora Boreale e nella natura selvaggia con guide locali.",
+      "tips_it": "Il periodo migliore per l'Aurora Boreale va da settembre a marzo; prenotate i vostri tour in anticipo e vestitevi a strati.",
+      "description_es": "En el corazón de Rovaniemi, experimenta la magia del Círculo Polar Ártico. Beyond Arctic ofrece aventuras para ver las Auroras Boreales y explorar la naturaleza salvaje con guías locales.",
+      "tips_es": "El mejor periodo para las Auroras Boreales es de septiembre a marzo; reserva tus tours con antelación y vístete por capas."
     },
     {
       "id": "bio-rex-rovaniemi",
@@ -597,7 +605,11 @@
       "tips": "Popüler filmler için biletleri önceden online almayı unutmayın.",
       "tips_en": "Don't forget to buy tickets online in advance for popular movies.",
       "subcategory": "Sinema",
-      "name_en": "Bio Rex Rovaniemi"
+      "name_en": "Bio Rex Rovaniemi",
+      "description_it": "Il moderno centro di intrattenimento di Rovaniemi, Bio Rex, offre un'esperienza cinematografica unica con gli ultimi film e sistemi audio/video all'avanguardia. La sua architettura contemporanea unisce comfort e stile.",
+      "tips_it": "Non dimenticate di acquistare i biglietti online in anticipo per i film più popolari.",
+      "description_es": "El moderno centro de entretenimiento de Rovaniemi, Bio Rex, ofrece una experiencia cinematográfica única con los últimos estrenos y sistemas audiovisuales de vanguardia. Su arquitectura contemporánea fusiona el confort.",
+      "tips_es": "No olvides comprar las entradas online con antelación para las películas más populares."
     },
     {
       "id": "bull-bar-grill",
@@ -618,7 +630,11 @@
       "tips": "Güneşli günlerde terasta oturun ve manzarayı izleyin.",
       "tips_en": "Sit on the terrace on sunny days and enjoy the view.",
       "subcategory": "Amerikan",
-      "name_en": "Bull Bar & Grill"
+      "name_en": "Bull Bar & Grill",
+      "description_it": "Il Bull Bar & Grill delizia con carni cotte a legna e ingredienti locali che rinvigoriscono il palato.",
+      "tips_it": "Sedetevi in terrazza nelle giornate di sole e godetevi la vista.",
+      "description_es": "Bull Bar & Grill deleita con carnes cocinadas a la leña e ingredientes locales que vigorizan el paladar.",
+      "tips_es": "Siéntate en la terraza en los días soleados y disfruta de las vistas."
     },
     {
       "name": "Cafe & Bar 21",
@@ -639,7 +655,11 @@
       "tips": "Kışın, pencere kenarında sıcak çikolata için.",
       "tips_en": "In winter, indulge in hot chocolate by the window.",
       "description_en": "Nestled in the heart of Rovaniemi, Cafe & Bar 21 caresses the soul with its warm decor and inviting atmosphere.",
-      "name_en": "Cafe & Bar 21"
+      "name_en": "Cafe & Bar 21",
+      "description_it": "Incastonato nel cuore di Rovaniemi, il Cafe & Bar 21 accarezza l'anima con il suo arredamento caldo e l'atmosfera invitante.",
+      "tips_it": "In inverno, concedetevi una cioccolata calda vicino alla finestra.",
+      "description_es": "Ubicado en el corazón de Rovaniemi, Cafe & Bar 21 acaricia el alma con su cálida decoración y su ambiente acogedor.",
+      "tips_es": "En invierno, deléitate con un chocolate caliente junto a la ventana."
     },
     {
       "id": "cafe-rovaniemi",
@@ -660,28 +680,11 @@
       "tips": "Pencereden manzarayı izlemek için sabah kahvaltısına gelin.",
       "tips_en": "Visit for breakfast to enjoy the view from the window.",
       "subcategory": "Kafe",
-      "name_en": "Cafe Rovaniemi"
-    },
-    {
-      "id": "chalet-hotel-rovaniemi",
-      "name": "Chalet Hotel Rovaniemi",
-      "category": "Deneyim",
-      "tags": [
-        "river view",
-        "log cabins",
-        "nature"
-      ],
-      "lat": 66.508679,
-      "lng": 25.787482,
-      "rating": 4.4,
-      "description": "Rovaniemi'nin savaş sonrası yeniden inşasını simgeleyen, geleneksel Lapland mimarisini modern konforla harmanlayan bu büyüleyici otel, Kuzey Kutbu'nun eşsiz ruhunu ve mirasını yaşatıyor.",
-      "description_en": "Symbolizing Rovaniemi's post-war reconstruction, this charming hotel blends traditional Lapland architecture with modern comfort, preserving the Arctic's unique spirit and heritage.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fchalet-hotel-rovaniemi.jpg?alt=media",
-      "price": "medium",
-      "tips": "Otelden direkt nehir kenarına inen yolları keşfedin, yürüyüş keyfi yaşayın.",
-      "tips_en": "Explore paths from the hotel to the riverside for a refreshing walk.",
-      "subcategory": "Kır Evi",
-      "name_en": "Chalet Hotel Rovaniemi"
+      "name_en": "Cafe Rovaniemi",
+      "description_it": "Le ampie vetrate del caffè esaltano la luce naturale con toni tenui e dettagli in legno di betulla, creando un'atmosfera serena.",
+      "tips_it": "Visitatelo per colazione per godervi la vista dalla finestra.",
+      "description_es": "Los grandes ventanales de la cafetería realzan la luz natural con tonos suaves y detalles de madera de abedul, creando una atmósfera serena.",
+      "tips_es": "Visítalo para desayunar y disfrutar de las vistas desde la ventana."
     },
     {
       "id": "choco-deli",
@@ -702,7 +705,11 @@
       "tips": "Güneşli günlerde terasta oturun, muhteşem manzara keyfi çıkarın.",
       "tips_en": "Sit on the terrace during sunny days to enjoy the stunning views.",
       "subcategory": "Pastane",
-      "name_en": "Choco Deli"
+      "name_en": "Choco Deli",
+      "description_it": "L'elegante architettura, dove legno e vetro convergono, conferisce a Choco Deli un'atmosfera accogliente. Gli interni pastello si armonizzano splendidamente con lo splendore della natura.",
+      "tips_it": "Sedetevi in terrazza nelle giornate di sole per godervi le viste mozzafiato.",
+      "description_es": "La elegante arquitectura, donde la madera y el cristal convergen, confiere a Choco Deli una sensación acogedora. El interior en tonos pastel armoniza bellamente con el esplendor de la naturaleza.",
+      "tips_es": "Siéntate en la terraza durante los días soleados para disfrutar de las impresionantes vistas."
     },
     {
       "id": "christmas-house-restaurant-coffee-bar",
@@ -723,7 +730,11 @@
       "tips": "Çikolatalı kekin yanında ev yapımı kahve denemeyi unutmayın.",
       "tips_en": "Don't forget to try the homemade coffee with the chocolate cake.",
       "subcategory": "Açık Büfe",
-      "name_en": "Christmas House Restaurant & Coffee Bar"
+      "name_en": "Christmas House Restaurant & Coffee Bar",
+      "description_it": "La Christmas House a Rovaniemi offre un rifugio accogliente con torte fatte in casa e un'atmosfera calda e invitante, perfetta per conversazioni intime con gli amici.",
+      "tips_it": "Non dimenticate di provare il caffè fatto in casa con la torta al cioccolato.",
+      "description_es": "Christmas House en Rovaniemi ofrece un acogedor refugio con pasteles caseros y un ambiente cálido y acogedor, perfecto para conversaciones íntimas con amigos.",
+      "tips_es": "No olvides probar el café casero con el pastel de chocolate."
     },
     {
       "name": "Coffee House Rovaniemi",
@@ -745,7 +756,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Donmuş Ounasjoki'nin kesintisiz manzarası için pencere kenarı bir koltuk kapın.",
       "tips_en": "Grab a window seat for uninterrupted views of the frozen Ounasjoki.",
-      "name_en": "Coffee House Rovaniemi"
+      "name_en": "Coffee House Rovaniemi",
+      "description_it": "All'interno, i pannelli in legno chiaro di betulla riscaldano lo spazio minimalista, riflettendo la morbida luce nordica che si riversa attraverso le ampie finestre, incorniciando il sereno fiume Ounasjoki.",
+      "tips_it": "Prendete un posto vicino alla finestra per godere di viste ininterrotte sull'Ounasjoki ghiacciato.",
+      "description_es": "En el interior, los paneles de madera clara de abedul calientan el espacio minimalista, reflejando la suave luz nórdica que se filtra por los amplios ventanales, enmarcando el sereno río Ounasjoki.",
+      "tips_es": "Elige un asiento junto a la ventana para disfrutar de vistas ininterrumpidas del Ounasjoki congelado."
     },
     {
       "id": "crystal-arctic-suites",
@@ -766,7 +781,9 @@
       "tips": "Gerçek bir mekan için ipucu verilemez.",
       "tips_en": "No tips can be given for a fictional venue.",
       "subcategory": "Apart",
-      "name_en": "Crystal Arctic Suites"
+      "name_en": "Crystal Arctic Suites",
+      "description_it": "Questa struttura è fittizia. Non sono disponibili informazioni reali e verificate. Si prega di fornire il nome di una struttura esistente.",
+      "description_es": "Este lugar es ficticio. No hay información real y verificada disponible. Por favor, proporcione un nombre de lugar real."
     },
     {
       "id": "culture-house-wiljami",
@@ -787,7 +804,11 @@
       "tips": "Ziyaret etmeden önce güncel sergileri ve etkinlik takvimini kontrol edin.",
       "tips_en": "Check current exhibitions and event schedules before your visit.",
       "subcategory": "Etkinlik",
-      "name_en": "Culture House Wiljami"
+      "name_en": "Culture House Wiljami",
+      "description_it": "La Biblioteca Civica e il Museo d'Arte di Rovaniemi, progettati da Alvar Aalto negli anni '60, sono un magnifico esempio di architettura finlandese moderna e organica, un vero e proprio fulcro culturale del Nord.",
+      "tips_it": "Prima della visita, consulta il programma delle mostre e degli eventi in corso.",
+      "description_es": "La Biblioteca y Museo de Arte de la Ciudad de Rovaniemi, diseñado por Alvar Aalto en la década de 1960, exhibe una arquitectura finlandesa moderna orgánica única, siendo el centro cultural del Norte.",
+      "tips_es": "Consulta las exposiciones actuales y los horarios de eventos antes de tu visita."
     },
     {
       "id": "curio",
@@ -808,7 +829,11 @@
       "tips": "Sato'ya uğrayıp, yerel zanaatkarların eserlerini inceleyin.",
       "tips_en": "Stop by Sato to explore works by local artisans.",
       "subcategory": "Tasarım",
-      "name_en": "Curio"
+      "name_en": "Curio",
+      "description_it": "Nel cuore di Rovaniemi, scopri l'artigianato locale che riflette l'autentica cultura lappone, ben oltre il semplice shopping.",
+      "tips_it": "Fai un salto da Sato per ammirare le opere degli artigiani locali.",
+      "description_es": "En el corazón de Rovaniemi, descubre artesanías locales que reflejan la auténtica cultura lapona, más allá de las compras habituales.",
+      "tips_es": "Pasa por Sato para explorar las obras de los artesanos locales."
     },
     {
       "id": "elfs-farm-yard",
@@ -829,28 +854,11 @@
       "tips": "Kahvaltıdan sonra çay saati için uğrayın.",
       "tips_en": "Stop by after breakfast for tea time.",
       "subcategory": "Hayvanat Bahçesi",
-      "name_en": "Elf's Farm Yard"
-    },
-    {
-      "id": "forenom-aparthotel-rovaniemi",
-      "name": "Forenom Aparthotel Rovaniemi",
-      "category": "Deneyim",
-      "tags": [
-        "keyless",
-        "central",
-        "practical"
-      ],
-      "lat": 66.503441,
-      "lng": 25.734976,
-      "rating": 4.1,
-      "description": "Rovaniemi'nin kalbinde yer alan Forenom Aparthotel, modern konforu ve Kuzey Kutbu'nun büyüsünü birleştirir. Kendi yemeğinizi hazırlayabileceğiniz daireleriyle özgür bir konaklama sunar.",
-      "description_en": "Located in the heart of Rovaniemi, Forenom Aparthotel combines modern comfort with the magic of the Arctic. It offers independent stays with self-catering apartments.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fforenom-aparthotel-rovaniemi.jpg?alt=media",
-      "price": "medium",
-      "tips": "Şehrin merkezindeki konumu sayesinde Arktikum ve Lordi Meydanı'na yürüyerek kolayca ulaşabilirsiniz.",
-      "tips_en": "Thanks to its central location, you can easily reach Arktikum and Lordi Square on foot.",
-      "subcategory": "Apart",
-      "name_en": "Forenom Aparthotel Rovaniemi"
+      "name_en": "Elf's Farm Yard",
+      "description_it": "Tra il profumo di caffè caldo, si possono godere passeggiate tranquille tra i pini.",
+      "tips_it": "Fermati qui dopo colazione per l'ora del tè.",
+      "description_es": "Entre el aroma del café caliente, se pueden disfrutar de paseos tranquilos entre los pinos.",
+      "tips_es": "Pasa por aquí después del desayuno para la hora del té."
     },
     {
       "id": "frans-chrie-bistro",
@@ -871,7 +879,11 @@
       "tips": "Bir kış akşamı çikolatalı sıcak şarap deneyin.",
       "tips_en": "Try the hot chocolate wine on a winter evening.",
       "subcategory": "Fransız",
-      "name_en": "Frans & Chérie Bistro"
+      "name_en": "Frans & Chérie Bistro",
+      "description_it": "Il Frans & Chérie Bistro, nel cuore di Rovaniemi, è il luogo ideale per conversazioni calorose e deliziose bevande; qui si incontrano artisti e uomini d'affari locali.",
+      "tips_it": "In una sera d'inverno, prova il vino caldo al cioccolato.",
+      "description_es": "Frans & Chérie Bistro, en el corazón de Rovaniemi, acoge cálidas conversaciones y deliciosas tazas; aquí se reúnen artistas y empresarios locales.",
+      "tips_es": "Prueba el vino caliente de chocolate en una tarde de invierno."
     },
     {
       "id": "german-soldier-cemetery",
@@ -892,28 +904,11 @@
       "tips": "Özellikle sonbaharda huzurlu güzelliği için saygıyla ziyaret edin.",
       "tips_en": "Visit respectfully, especially during autumn for its serene beauty.",
       "subcategory": "Anıt",
-      "name_en": "German Soldier Cemetery"
-    },
-    {
-      "id": "glass-resort",
-      "name": "Glass Resort",
-      "category": "Deneyim",
-      "tags": [
-        "glass apartments",
-        "private jacuzzi",
-        "luxury"
-      ],
-      "lat": 66.541253,
-      "lng": 25.849966,
-      "rating": 4.9,
-      "description": "Rovaniemi'deki Glass Resort, ödüllü modern Finlandiya mimarisini sergiliyor. Yenilikçi cam igloları, eşsiz Kuzey Kutbu gökyüzü manzaraları sunarak görkemli Kuzey Işıklarını gözler önüne seriyor. Lüks, doğayla iç içe bir deneyim.",
-      "description_en": "Rovaniemi's Glass Resort presents award-winning modern Finnish architecture. Its innovative glass igloos offer unparalleled Arctic sky views, showcasing the majestic Northern Lights. A luxurious, nature-blending experience.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fglass-resort.jpg?alt=media",
-      "price": "very high",
-      "tips": "En iyi Kuzey Işıkları deneyimi için Eylül ve Mart arası ziyaret edin.",
-      "tips_en": "Visit between September and March for the best Northern Lights viewing.",
-      "subcategory": "Otel",
-      "name_en": "Glass Resort"
+      "name_en": "German Soldier Cemetery",
+      "description_it": "Questo solenne cimitero di Rovaniemi commemora i soldati tedeschi caduti in Lapponia durante la Seconda Guerra Mondiale. I suoi semplici monumenti in pietra offrono una profonda testimonianza della perdita in tempo di guerra e della riconciliazione.",
+      "tips_it": "Visita con rispetto, specialmente in autunno per ammirarne la serena bellezza.",
+      "description_es": "Este solemne cementerio de Rovaniemi conmemora a los soldados alemanes caídos en Laponia durante la Segunda Guerra Mundial. Sus sencillos monumentos de piedra ofrecen un profundo testimonio de la pérdida en tiempos de guerra y la reconciliación.",
+      "tips_es": "Visítalo con respeto, especialmente durante el otoño por su serena belleza."
     },
     {
       "id": "guesthouse-borealis",
@@ -934,7 +929,11 @@
       "tips": "Sabah kahvaltısında yöresel lezzetleri deneyimleyin; özellikle ev yapımı reçelleri kaçırmayın.",
       "tips_en": "Experience local delicacies at breakfast; especially don't miss the homemade jams.",
       "subcategory": "Misafir Evi",
-      "name_en": "Guesthouse Borealis"
+      "name_en": "Guesthouse Borealis",
+      "description_it": "Situata nel tessuto storico di Şehir, la Guesthouse Borealis fonde architettura tradizionale e comfort moderno. Vivi la cultura locale e scopri la pace.",
+      "tips_it": "Assaggia le prelibatezze locali a colazione; non perderti soprattutto le marmellate fatte in casa.",
+      "description_es": "Situado en el tejido histórico de la ciudad, Guesthouse Borealis fusiona la arquitectura tradicional con el confort moderno. Experimenta la cultura local, descubre la paz.",
+      "tips_es": "Experimenta las delicias locales en el desayuno; especialmente no te pierdas las mermeladas caseras."
     },
     {
       "id": "gustav-kitchen-bar",
@@ -955,28 +954,11 @@
       "tips": "Pencereden bakarak yerel otların çayını yudumlayın.",
       "tips_en": "Sip on herbal tea while gazing through the window.",
       "subcategory": "Bistro",
-      "name_en": "Gustav Kitchen & Bar"
-    },
-    {
-      "id": "haawe-boutique-apart-hotel",
-      "name": "Haawe Boutique Apart Hotel",
-      "category": "Deneyim",
-      "tags": [
-        "design",
-        "luxury",
-        "apartments"
-      ],
-      "lat": 66.502517,
-      "lng": 25.734311,
-      "rating": 4.9,
-      "description": "Antalya Kaleiçi'nin kalbinde, restore edilmiş tarihi bir yapıda yer alan Haawe, modern konforla geçmişi harmanlar. Eşsiz bir konaklama deneyimi sunar.",
-      "description_en": "Located in a restored historical building in the heart of Antalya's Kaleiçi, Haawe blends modern comfort with history, offering a unique stay.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fhaawe-boutique-apart-hotel.jpg?alt=media",
-      "price": "high",
-      "tips": "Kaleiçi'nin dar sokaklarını keşfetmek için ideal bir başlangıç noktasıdır; sabah erken saatlerde yürüyüşe çıkın.",
-      "tips_en": "It's an ideal starting point for exploring Kaleiçi's narrow streets; go for a walk in the early morning.",
-      "subcategory": "Otel",
-      "name_en": "Haawe Boutique Apart Hotel"
+      "name_en": "Gustav Kitchen & Bar",
+      "description_it": "Il Gustav Kitchen & Bar ti invita in un viaggio attraverso i sapori locali, avvolto in un'atmosfera accogliente ricca di caldi dettagli in legno e luci soffuse.",
+      "tips_it": "Sorseggia una tisana mentre ammiri il panorama dalla finestra.",
+      "description_es": "Gustav Kitchen & Bar te invita a un viaje por los sabores locales, envuelto en un ambiente acogedor lleno de cálidos detalles de madera y una iluminación suave.",
+      "tips_es": "Disfruta de un té de hierbas mientras contemplas por la ventana."
     },
     {
       "id": "hai-long",
@@ -997,7 +979,11 @@
       "tips": "Akşam yemeği için rezervasyon yaptırmayı unutmayın.",
       "tips_en": "Don’t forget to make a reservation for dinner.",
       "subcategory": "Çin",
-      "name_en": "Hai Long"
+      "name_en": "Hai Long",
+      "description_it": "Nel cuore di Rovaniemi, i sapori orientali si rivelano con un tocco tradizionale. Ogni piatto offre una miscela nostalgica di gusti locali.",
+      "tips_it": "Non dimenticare di prenotare per cena.",
+      "description_es": "En el corazón de Rovaniemi, los sabores orientales se despliegan con un toque tradicional. Cada plato ofrece una nostálgica mezcla de gustos locales.",
+      "tips_es": "No olvides hacer una reserva para la cena."
     },
     {
       "id": "half-moon-night-club",
@@ -1018,7 +1004,11 @@
       "tips": "Hafta sonları erken gelerek canlı atmosferi ve eşsiz kokteylleri kaçırmayın.",
       "tips_en": "Arrive early on weekends to experience the vibrant atmosphere and unique cocktails.",
       "subcategory": "Gece Kulübü",
-      "name_en": "Half Moon Night Club"
+      "name_en": "Half Moon Night Club",
+      "description_it": "Nel cuore di Rovaniemi, l'Half Moon, un impressionante esempio di architettura scandinava moderna, ospita tecnologie audio e luci all'avanguardia. È un iconico locale di intrattenimento che celebra l'esperienza artica.",
+      "tips_it": "Arriva presto nei fine settimana per vivere l'atmosfera vibrante e assaggiare i cocktail unici.",
+      "description_es": "En el corazón de Rovaniemi, Half Moon, un impresionante ejemplo de arquitectura escandinava moderna, alberga tecnologías de sonido e iluminación de vanguardia. Es un icónico lugar de entretenimiento que celebra la experiencia ártica.",
+      "tips_es": "Llega temprano los fines de semana para experimentar el ambiente vibrante y los cócteles únicos."
     },
     {
       "id": "hemingways-rovaniemi",
@@ -1039,7 +1029,11 @@
       "tips": "Sıcak bir içecekle edebi atmosferin tadını çıkarın, rezervasyon önerilir.",
       "tips_en": "Enjoy the literary atmosphere with a warm drink; reservations are recommended.",
       "subcategory": "Pub",
-      "name_en": "Hemingway's Rovaniemi"
+      "name_en": "Hemingway's Rovaniemi",
+      "description_it": "Riflettendo lo spirito di ricostruzione moderna di Rovaniemi dopo la Seconda Guerra Mondiale, questo luogo fonde magistralmente legno e pietra, esponendo rari manufatti a tema Hemingway, una vera oasi letteraria.",
+      "tips_it": "Goditi l'atmosfera letteraria con una bevanda calda; la prenotazione è consigliata.",
+      "description_es": "Reflejando el espíritu de reconstrucción moderna de Rovaniemi tras la Segunda Guerra Mundial, este lugar fusiona magistralmente madera y piedra, exhibiendo artefactos raros con temática de Hemingway, un verdadero oasis literario.",
+      "tips_es": "Disfrute del ambiente literario con una bebida caliente; se recomienda reservar."
     },
     {
       "id": "himo",
@@ -1060,7 +1054,11 @@
       "tips": "Günlük taze otlar için şefin önerilerini dinleyin.",
       "tips_en": "Listen to the chef's suggestions for daily fresh herbs.",
       "subcategory": "Asya",
-      "name_en": "Himo"
+      "name_en": "Himo",
+      "description_it": "Himo offre un'esperienza innovativa di cucina finlandese, creata con erbe fresche e ingredienti locali.",
+      "tips_it": "Ascolta i suggerimenti dello chef per le erbe fresche del giorno.",
+      "description_es": "Himo ofrece una innovadora experiencia culinaria finlandesa, elaborada con hierbas frescas e ingredientes locales.",
+      "tips_es": "Preste atención a las sugerencias del chef sobre las hierbas frescas del día."
     },
     {
       "id": "hook",
@@ -1081,28 +1079,11 @@
       "tips": "Kışın, sıcak şarap eşliğinde dışarıdaki manzarayı izleyin.",
       "tips_en": "In winter, watch the view outside with a glass of hot wine.",
       "subcategory": "Spor Bar",
-      "name_en": "Hook"
-    },
-    {
-      "id": "hostel-caf-koti",
-      "name": "Hostel Café Koti",
-      "category": "Deneyim",
-      "tags": [
-        "budget",
-        "stylish",
-        "cafe"
-      ],
-      "lat": 66.501218,
-      "lng": 25.734052,
-      "rating": 4.6,
-      "description": "Rovaniemi'nin kalbinde, modern İskandinav mimarisiyle tasarlanmış bu butik hostel, konforlu odaları ve canlı kafesiyle misafirlere eşsiz bir 'ev' deneyimi sunar.",
-      "description_en": "Located in the heart of Rovaniemi, this boutique hostel, designed with modern Scandinavian architecture, offers guests a unique 'home' experience with comfortable rooms and a vibrant café.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fhostel-caf-koti.jpg?alt=media",
-      "price": "low",
-      "tips": "Lobi kafesinde yerel atıştırmalıkları deneyip dinlenmek harika bir seçenektir.",
-      "tips_en": "Relax in the lobby café, enjoying local snacks and Arctic vibes.",
-      "subcategory": "Hostel",
-      "name_en": "Hostel Café Koti"
+      "name_en": "Hook",
+      "description_it": "Hook a Rovaniemi è un rifugio ricco di sapori locali e un'atmosfera accogliente.",
+      "tips_it": "In inverno, ammira il panorama esterno con un bicchiere di vin brulé.",
+      "description_es": "Hook, en Rovaniemi, es un refugio lleno de sabores locales y un ambiente cálido.",
+      "tips_es": "En invierno, contemple las vistas exteriores con una copa de vino caliente."
     },
     {
       "id": "husky-park",
@@ -1123,7 +1104,11 @@
       "tips": "Huskylerle unutulmaz anlar için kışlık kıyafetlerinizi ve kameranızı hazırlayın.",
       "tips_en": "Prepare your winter clothes and camera for unforgettable husky moments.",
       "subcategory": "Aktivite",
-      "name_en": "Husky Park"
+      "name_en": "Husky Park",
+      "description_it": "Questo parco preserva l'antica tradizione lappone delle slitte trainate da husky. Con le sue tradizionali cucce nordiche, ospita potenti husky siberiani e dell'Alaska, offrendo un'autentica esperienza della cultura artica.",
+      "tips_it": "Prepara i tuoi vestiti invernali e la macchina fotografica per momenti indimenticabili con gli husky.",
+      "description_es": "Este parque conserva la antigua herencia de los trineos de huskies de Laponia. Con perreras nórdicas tradicionales, alberga poderosos huskies siberianos y de Alaska, ofreciendo una auténtica cultura ártica.",
+      "tips_es": "Prepare su ropa de invierno y su cámara para vivir momentos inolvidables con los huskies."
     },
     {
       "name": "Husky Safari Center",
@@ -1146,30 +1131,11 @@
       "tips": "Kutup soğuklarına dayanıklı giysilerle gelmeyi unutmayın.",
       "tips_en": "Don't forget to arrive with Arctic-proof clothing.",
       "source": "firebase",
-      "name_en": "Husky Safari Center"
-    },
-    {
-      "name": "Ice Hotel Experience",
-      "category": "Deneyim",
-      "tags": [
-        "ice",
-        "hotel",
-        "unique"
-      ],
-      "lat": 66.545,
-      "lng": 25.86,
-      "rating": 4.7,
-      "description": "Rovaniemi'nin buz oteli, her yıl kardan ve buzdan yeniden doğar. Karmaşık heykeller, benzersiz sanat odaları ve buz barı barındırır; geçici bir Arktik harikadır.",
-      "description_en": "Rovaniemi's ice hotel, reborn annually from snow and ice, boasts intricate sculptures, unique art rooms, and an ice bar. An ephemeral Arctic wonder.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fice_hotel_experience.jpg?alt=media",
-      "price": "medium",
-      "distanceFromCenter": 1.0,
-      "bestTime": "09:00 - 18:00",
-      "bestTime_en": "09:00 - 18:00",
-      "tips": "Termal giysilerle ziyaret edin ve geceyi buz barında geçirmeyi deneyin.",
-      "tips_en": "Visit with thermal clothing; try spending the evening at the ice bar.",
-      "source": "firebase",
-      "name_en": "Ice Hotel Experience"
+      "name_en": "Husky Safari Center",
+      "description_it": "Nell'abbraccio nevoso di Rovaniemi, questo centro, con la sua architettura in legno ispirata ai Sami, onora l'antica tradizione delle slitte trainate da husky, mostrando lo stile di vita artico.",
+      "tips_it": "Non dimenticare di arrivare con abbigliamento adatto alle condizioni artiche.",
+      "description_es": "En el nevado abrazo de Rovaniemi, este centro, con arquitectura de madera inspirada en los sami, honra la antigua tradición de los trineos de huskies, mostrando el estilo de vida ártico.",
+      "tips_es": "No olvide venir con ropa adecuada para el Ártico."
     },
     {
       "id": "iisakki-glass-village",
@@ -1190,7 +1156,11 @@
       "tips": "Atölye ziyaretini kaçırmayın; kendi cam hediyeliğinizi tasarlayabilirsiniz!",
       "tips_en": "Don't miss the workshop visit; design your own glass souvenir!",
       "subcategory": "Otel",
-      "name_en": "Iisakki Glass Village"
+      "name_en": "Iisakki Glass Village",
+      "description_it": "Il Villaggio del Vetro Iisakki a Rovaniemi è una celebrazione dell'antica arte finlandese della soffiatura del vetro. Maestri artigiani, utilizzando tecniche tramandate di generazione in generazione, creano design unici di brillantezza architettonica. Un'eredità storica vibrante dell'artigianato finlandese.",
+      "tips_it": "Non perdete la visita al laboratorio: potrete disegnare il vostro souvenir di vetro!",
+      "description_es": "El Iisakki Glass Village de Rovaniemi celebra el soplado de vidrio tradicional finlandés. Maestros artesanos utilizan técnicas ancestrales, creando diseños únicos de brillantez arquitectónica. Un vibrante legado histórico de la artesanía finlandesa.",
+      "tips_es": "No se pierda la visita al taller; ¡diseñe su propio recuerdo de vidrio!"
     },
     {
       "id": "irish-arms",
@@ -1211,7 +1181,11 @@
       "tips": "Kışın şömine başında bir İrlanda kahvesi ile ısının.",
       "tips_en": "Warm up with an Irish coffee by the fireplace in winter.",
       "subcategory": "Pub",
-      "name_en": "Irish Arms"
+      "name_en": "Irish Arms",
+      "description_it": "A Rovaniemi, questo locale offre un'autentica esperienza celtica. La sua architettura tradizionale da pub irlandese, l'arredamento caldo in legno e la ricca collezione di whisky sono semplicemente affascinanti.",
+      "tips_it": "D'inverno, riscaldatevi con un Irish coffee accanto al camino.",
+      "description_es": "En Rovaniemi, este lugar ofrece una auténtica experiencia celta. Su arquitectura tradicional de pub irlandés, la cálida decoración de madera y su rica colección de whiskies son cautivadoras.",
+      "tips_es": "Caliente el cuerpo con un café irlandés junto a la chimenea en invierno."
     },
     {
       "name": "Jätkänkynttilä Bridge",
@@ -1233,7 +1207,11 @@
       "tips_en": "Try walking as the sun sets.",
       "description_en": "The Jätkänkynttilä Bridge stretches along the shore, juxtaposing modern architecture with the tranquility of nature, making Rovaniemi unique.",
       "source": "firebase",
-      "name_en": "Jätkänkynttilä Bridge"
+      "name_en": "Jätkänkynttilä Bridge",
+      "description_it": "Il Ponte Jätkänkynttilä si estende lungo la riva, giustapponendo l'architettura moderna alla tranquillità della natura, rendendo Rovaniemi davvero unica.",
+      "tips_it": "Provate a passeggiarci al tramonto.",
+      "description_es": "El Puente Jätkänkynttilä se extiende a lo largo de la orilla, yuxtaponiendo la arquitectura moderna con la tranquilidad de la naturaleza, haciendo de Rovaniemi un lugar único.",
+      "tips_es": "Intente pasear al atardecer."
     },
     {
       "name": "Kahvila Kauppayhtiö",
@@ -1255,7 +1233,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Pencere kenarında sıcak çikolata tadın.",
       "tips_en": "Enjoy hot chocolate by the window.",
-      "name_en": "Kahvila Kauppayhtiö"
+      "name_en": "Kahvila Kauppayhtiö",
+      "description_it": "Il Kahvila Kauppayhtiö riflette lo spirito di Rovaniemi, ripercorrendo le tradizioni mercantili; ogni sorso evoca il calore della cultura Sami.",
+      "tips_it": "Godetevi una cioccolata calda seduti accanto alla finestra.",
+      "description_es": "Kahvila Kauppayhtiö refleja el espíritu de Rovaniemi, rastreando las tradiciones mercantiles; cada sorbo evoca la calidez de la cultura sami.",
+      "tips_es": "Disfrute de un chocolate caliente junto a la ventana."
     },
     {
       "id": "kauppayhtio",
@@ -1276,7 +1258,11 @@
       "tips": "Öğle yemeğinde taze kruvasanları deneyin.",
       "tips_en": "Try the fresh croissants at lunch.",
       "subcategory": "Burger",
-      "name_en": "Kauppayhtiö"
+      "name_en": "Kauppayhtiö",
+      "description_it": "Il Kauppayhtiö, nel cuore di Rovaniemi, fonde sapori boschivi e speziati. Il Kuymak e il salmone sono arricchiti da erbe fresche.",
+      "tips_it": "A pranzo, non mancate di assaggiare i croissant freschi.",
+      "description_es": "Kauppayhtiö, en el corazón de Rovaniemi, fusiona sabores boscosos y especiados. El Kuymak y el salmón se enriquecen con hierbas frescas.",
+      "tips_es": "Pruebe los cruasanes frescos a la hora del almuerzo."
     },
     {
       "id": "kemi-snowcastle",
@@ -1297,7 +1283,11 @@
       "tips": "Ziyaret için kalın giysiler ve iyi bir termal katman şarttır.",
       "tips_en": "Warm clothing and good thermal layers are essential for your visit.",
       "subcategory": "Kale",
-      "name_en": "Kemi SnowCastle"
+      "name_en": "Kemi SnowCastle",
+      "description_it": "Il Castello di Neve di Kemi, ricostruito ogni anno, è una meraviglia architettonica artica effimera. Ospita sculture di ghiaccio, un hotel unico, un ristorante e una cappella, un vero capolavoro di ingegneria del gelo.",
+      "tips_it": "Abbigliamento caldo e buoni strati termici sono essenziali per la vostra visita.",
+      "description_es": "El Castillo de Nieve de Kemi, construido anualmente, es una efímera maravilla arquitectónica ártica. Alberga esculturas de hielo, un hotel, restaurante y capilla únicos, mostrando una ingeniería congelada.",
+      "tips_es": "La ropa de abrigo y buenas capas térmicas son esenciales para su visita."
     },
     {
       "name": "Kemijoki River Trail",
@@ -1320,7 +1310,11 @@
       "tips": "Sahildeki kafede oturup yerel tatlıları dene.",
       "tips_en": "Sit at the riverside café and try the local pastries.",
       "source": "firebase",
-      "name_en": "Kemijoki River Trail"
+      "name_en": "Kemijoki River Trail",
+      "description_it": "Il Sentiero del Fiume Kemijoki offre un equilibrio pacifico tra la storica fortezza di Kemi e il moderno centro città di Rovaniemi.",
+      "tips_it": "Sedetevi al caffè lungo il fiume e assaggiate i dolci locali.",
+      "description_es": "El Sendero del Río Kemijoki ofrece un equilibrio pacífico entre la histórica fortaleza de Kemi y el moderno centro de la ciudad de Rovaniemi.",
+      "tips_es": "Siéntese en la cafetería junto al río y pruebe los pasteles locales."
     },
     {
       "id": "kesrafla-sauna",
@@ -1341,7 +1335,11 @@
       "tips": "Akşamüstü nehir kenarında rahatlayın, geleneksel lezzetleri deneyimleyin.",
       "tips_en": "Relax by the river in the evening, and experience traditional delicacies.",
       "subcategory": "Sauna",
-      "name_en": "Kesärafla Sauna"
+      "name_en": "Kesärafla Sauna",
+      "description_it": "Sulle rive del Kemijoki, questa moderna sauna finlandese abbraccia la natura con la sua architettura in legno locale. Offre la tradizionale ospitalità di Rovaniemi insieme a viste panoramiche uniche sul fiume.",
+      "tips_it": "Rilassatevi lungo il fiume la sera e assaporate le prelibatezze tradizionali.",
+      "description_es": "A orillas del Kemijoki, esta moderna sauna finlandesa abraza la naturaleza con arquitectura de madera local. Ofrece la hospitalidad tradicional de Rovaniemi junto con vistas panorámicas únicas del río.",
+      "tips_es": "Relájese junto al río por la noche y pruebe las delicias tradicionales."
     },
     {
       "id": "kierikki-stone-age-centre",
@@ -1362,7 +1360,11 @@
       "tips": "Antik el sanatları atölyelerine katılarak Taş Devri deneyiminizi zenginleştirin.",
       "tips_en": "Enhance your Stone Age experience by participating in ancient craft workshops.",
       "subcategory": "Tarih",
-      "name_en": "Kierikki Stone Age Centre"
+      "name_en": "Kierikki Stone Age Centre",
+      "description_it": "Il Centro dell'Età della Pietra di Kierikki a Rovaniemi, un museo con impressionanti ricostruzioni di villaggi dell'Età della Pietra e reperti archeologici, illustra vividamente la vita nel nord millenni fa.",
+      "tips_it": "Arricchite la vostra esperienza nell'Età della Pietra partecipando ai laboratori di artigianato antico.",
+      "description_es": "El Centro de la Edad de Piedra de Kierikki en Rovaniemi, un museo con una impresionante arquitectura de aldea de la Edad de Piedra reconstruida y hallazgos arqueológicos, muestra vívidamente la vida del norte hace milenios.",
+      "tips_es": "Mejore su experiencia en la Edad de Piedra participando en talleres de artesanía antigua."
     },
     {
       "id": "koivusaari-nature-trail",
@@ -1383,7 +1385,11 @@
       "tips": "İlkbahar ve sonbahar, göçmen kuşları gözlemlemek için en iyi zamanlardır. Rahat yürüyüş ayakkabıları giyin.",
       "tips_en": "Spring and autumn are the best times to observe migratory birds. Wear comfortable walking shoes.",
       "subcategory": "Ada",
-      "name_en": "Koivusaari Nature Trail"
+      "name_en": "Koivusaari Nature Trail",
+      "description_it": "Il Sentiero Naturale di Koivusaari, su una delle isole uniche di Helsinki, affascina gli amanti della natura con le sue foreste secolari e le viste costiere. Ideale per il birdwatching.",
+      "tips_it": "La primavera e l'autunno sono i periodi migliori per osservare gli uccelli migratori. Indossate scarpe comode per camminare.",
+      "description_es": "El Sendero Natural de Koivusaari, en una de las islas únicas de Helsinki, cautiva a los amantes de la naturaleza con sus bosques antiguos y vistas costeras. Ideal para la observación de aves.",
+      "tips_es": "La primavera y el otoño son las mejores épocas para observar aves migratorias. Use calzado cómodo para caminar."
     },
     {
       "id": "korouoma-canyon",
@@ -1404,7 +1410,11 @@
       "tips": "Kanyonun en yüksek noktasına sabah 8'de çıkın.",
       "tips_en": "Hike to the canyon's highest point by 8 AM.",
       "subcategory": "Kanyon",
-      "name_en": "Korouoma Canyon"
+      "name_en": "Korouoma Canyon",
+      "description_it": "Il Canyon di Korouoma presenta un paesaggio naturale affascinante con rocce mozzafiato rosse e grigio chiaro immerse in una fitta vegetazione. Le imponenti scogliere offrono punti panoramici da togliere il fiato.",
+      "tips_it": "Fate un'escursione fino al punto più alto del canyon entro le 8 del mattino.",
+      "description_es": "El Cañón de Korouoma presenta un paisaje natural cautivador con impresionantes rocas rojas y gris claro entre una densa vegetación. Los imponentes acantilados ofrecen miradores impresionantes.",
+      "tips_es": "Camine hasta el punto más alto del cañón antes de las 8 AM."
     },
     {
       "name": "Korundi House of Culture",
@@ -1425,7 +1435,11 @@
       "tips": "Biletinizi önceden alarak sergi ve konserlere kolayca erişim sağlayın.",
       "tips_en": "Purchase your ticket in advance for easy access to exhibitions and concerts.",
       "description_en": "Korundi, an impressive cultural center in Rovaniemi, transformed from an old postal bus depot, enriched with modern architecture. It houses the Lapland Art Museum and Arctic art.",
-      "name_en": "Korundi House of Culture"
+      "name_en": "Korundi House of Culture",
+      "description_it": "Korundi, un imponente centro culturale a Rovaniemi, trasformato da un vecchio deposito di autobus postali, arricchito da architettura moderna. Ospita il Museo d'Arte della Lapponia e arte artica.",
+      "tips_it": "Acquistate il biglietto in anticipo per un facile accesso a mostre e concerti.",
+      "description_es": "Korundi, un impresionante centro cultural en Rovaniemi, transformado de un antiguo depósito de autobuses postales, enriquecido con arquitectura moderna. Alberga el Museo de Arte de Laponia y arte ártico.",
+      "tips_es": "Compre su entrada con antelación para facilitar el acceso a exposiciones y conciertos."
     },
     {
       "id": "kotisaari-island",
@@ -1446,7 +1460,11 @@
       "tips": "Akşam yemeği deneyimi için yazın tekne turuyla ziyaret edin.",
       "tips_en": "Visit by boat tour in summer for a unique dinner experience.",
       "subcategory": "Ada",
-      "name_en": "Kotisaari Island"
+      "name_en": "Kotisaari Island",
+      "description_it": "L'Isola di Kotisaari sul Kemijoki riflette il passato di Rovaniemi legato all'industria del legname, un autentico campo di boscaioli. I suoi vecchi edifici e attrezzature rivelano l'ardua storia e la vita della silvicoltura finlandese.",
+      "tips_it": "Visitatela con un tour in barca in estate per un'esperienza culinaria unica.",
+      "description_es": "La Isla Kotisaari, en el Kemijoki, refleja el pasado maderero de Rovaniemi, un auténtico campamento de leñadores. Sus antiguos edificios y equipos revelan la ardua historia y vida forestal finlandesa.",
+      "tips_es": "Visítela en un tour en barco en verano para una experiencia de cena única."
     },
     {
       "id": "kuninkaanlaavu-kings-lean-to",
@@ -1467,7 +1485,11 @@
       "tips": "Şafak vaktinde Ounasjoki nehri üzerinde canlı yansımaları yakalayın.",
       "tips_en": "Dawn light on the Ounasjoki river reveals vibrant reflections.",
       "subcategory": "Manzara",
-      "name_en": "Kuninkaanlaavu (King's Lean-to)"
+      "name_en": "Kuninkaanlaavu (King's Lean-to)",
+      "description_it": "Il nome stesso, \"Capanna del Re\", conserva la memoria della visita di Re Oscar II nel 1894, quando la regalità onorò brevemente questo paesaggio artico, cercando riposo in mezzo alla foresta.",
+      "tips_it": "La luce dell'alba sul fiume Ounasjoki rivela riflessi vibranti.",
+      "description_es": "El propio nombre, Refugio del Rey, conserva la memoria de la visita del Rey Óscar II en 1894, cuando la realeza honró brevemente este paisaje ártico, buscando un respiro en medio del bosque.",
+      "tips_es": "La luz del amanecer sobre el río Ounasjoki revela reflejos vibrantes."
     },
     {
       "id": "lampivaara-amethyst-mine",
@@ -1488,7 +1510,11 @@
       "tips": "Soğuk hava için sıcak giysiler giyin, kendi ametist taşınızı bulun.",
       "tips_en": "Wear warm clothes for cold weather, find your own amethyst stone.",
       "subcategory": "Maden",
-      "name_en": "Lampivaara Amethyst Mine"
+      "name_en": "Lampivaara Amethyst Mine",
+      "description_it": "Situata a Rovaniemi, questa miniera di ametista nel Circolo Polare Artico svela milioni di anni di formazione geologica. L'unico giacimento turistico accessibile in Europa, mostra brillantemente gli antichi tesori viola della Lapponia.",
+      "tips_it": "Indossate abiti caldi per il freddo e provate a trovare la vostra pietra di ametista.",
+      "description_es": "Situada en Rovaniemi, esta mina de amatistas del Círculo Polar Ártico desvela millones de años de formación geológica. Es el único yacimiento de Europa accesible para turistas y muestra brillantemente los antiguos tesoros púrpuras de Laponia.",
+      "tips_es": "Use ropa de abrigo para el frío, encuentre su propia piedra de amatista."
     },
     {
       "name": "Lapin Kultakaivos Gold Mine Gift Shop",
@@ -1510,7 +1536,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Hediyelik eşya seçerken madenden gelen altın tozunu hisset.",
       "tips_en": "Feel the golden dust from the mine while selecting souvenirs.",
-      "name_en": "Lapin Kultakaivos Gold Mine Gift Shop"
+      "name_en": "Lapin Kultakaivos Gold Mine Gift Shop",
+      "description_it": "A Rovaniemi, il negozio di souvenir Lapin Kultakaivos cattura il calore della miniera e l'essenza della terra ricca d'oro, traboccante di opere d'arte locali e souvenir artigianali unici.",
+      "tips_it": "Sentite la polvere d'oro della miniera mentre scegliete i vostri souvenir.",
+      "description_es": "En Rovaniemi, la tienda de regalos Lapin Kultakaivos captura la calidez de la mina y la esencia de la tierra rica en oro, rebosante de obras de arte locales y recuerdos artesanales únicos.",
+      "tips_es": "Sienta el polvo dorado de la mina mientras selecciona sus recuerdos."
     },
     {
       "name": "Lapland Forestry Museum",
@@ -1533,28 +1563,11 @@
       "tips": "Geniş alanı keşfetmek için rahat ayakkabılar giyin ve yeterli zaman ayırın.",
       "tips_en": "Wear comfortable shoes and allow ample time to explore the expansive area.",
       "source": "firebase",
-      "name_en": "Lapland Forestry Museum"
-    },
-    {
-      "id": "lapland-hotels-sky-ounasvaara",
-      "name": "Lapland Hotels Sky Ounasvaara",
-      "category": "Deneyim",
-      "tags": [
-        "view",
-        "luxury",
-        "ski-in"
-      ],
-      "lat": 66.501981,
-      "lng": 25.788322,
-      "rating": 4.5,
-      "description": "Lapland Hotels Sky Ounasvaara, Rovaniemi'nin Ounasvaara tepesinde, modern İskandinav mimarisiyle yükselir. Arktik'in büyüleyici panoramik manzaralarını, kuzey ışıkları ve yerel mutfak deneyimini sunar.",
-      "description_en": "Lapland Hotels Sky Ounasvaara, on Rovaniemi's Ounasvaara fell, showcases modern Scandinavian architecture. It offers enchanting panoramic Arctic views, Northern Lights, and local culinary experiences.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Flapland-hotels-sky-ounasvaara.jpg?alt=media",
-      "price": "high",
-      "tips": "Kuzey ışıklarını yakalamak için akşam yemeği rezervasyonunu önceden yapın.",
-      "tips_en": "Book dinner in advance to catch the Northern Lights.",
-      "subcategory": "Otel",
-      "name_en": "Lapland Hotels Sky Ounasvaara"
+      "name_en": "Lapland Forestry Museum",
+      "description_it": "Questo museo all'aperto espone edifici originali, attrezzi e macchinari per la silvicoltura, che riportano in vita la storia forestale della Lapponia. Documenta in modo impressionante la vita dei lavoratori forestali.",
+      "tips_it": "Indossate scarpe comode e dedicate tempo sufficiente per esplorare l'ampia area.",
+      "description_es": "Este museo al aire libre exhibe edificios originales, herramientas y equipos de tala, dando vida a la historia forestal de Laponia. Documenta de manera impresionante las vidas de los trabajadores del bosque.",
+      "tips_es": "Use zapatos cómodos y dedique tiempo suficiente para explorar la extensa área."
     },
     {
       "id": "lapland-restaurant-kotahovi",
@@ -1575,7 +1588,11 @@
       "tips": "Dış mekanda oturup kuzey manzarasının tadını çıkarın.",
       "tips_en": "Enjoy the northern view while sitting on the outdoor terrace.",
       "subcategory": "Lapon",
-      "name_en": "Lapland Restaurant Kotahovi"
+      "name_en": "Lapland Restaurant Kotahovi",
+      "description_it": "Tra dettagli architettonici moderni, questo locale offre sapori locali in un'atmosfera accogliente, fondendo tranquillità e vivacità.",
+      "tips_it": "Godetevi la vista settentrionale seduti sulla terrazza esterna.",
+      "description_es": "Entre detalles arquitectónicos modernos, este lugar ofrece sabores locales en un ambiente acogedor, fusionando la tranquilidad con la vitalidad.",
+      "tips_es": "Disfrute de la vista nórdica mientras se sienta en la terraza exterior."
     },
     {
       "id": "lapland-safaris-office",
@@ -1596,7 +1613,11 @@
       "tips": "Kış sezonu turlarına erken rezervasyon yapın, hızla doluyorlar.",
       "tips_en": "Book winter season tours early, they fill up fast.",
       "subcategory": "Tur",
-      "name_en": "Lapland Safaris Office"
+      "name_en": "Lapland Safaris Office",
+      "description_it": "Questo importante ufficio di Lapland Safaris, nel cuore di Rovaniemi, è la porta d'accesso ad avventure e alla vita artica, offrendo esperienze indimenticabili in Lapponia con tour guidati.",
+      "tips_it": "Prenotate i tour della stagione invernale in anticipo, si esauriscono rapidamente.",
+      "description_es": "Esta importante oficina de Lapland Safaris, en el corazón de Rovaniemi, es la puerta de entrada a las aventuras y la vida árticas, ofreciendo experiencias inolvidables en Laponia con tours guiados.",
+      "tips_es": "Reserve los tours de la temporada de invierno con antelación, se agotan rápidamente."
     },
     {
       "id": "lappia-hall",
@@ -1617,7 +1638,11 @@
       "tips": "Rovaniemi Şehir Tiyatrosu'nun programını kontrol ederek bir gösteriye katılın.",
       "tips_en": "Check Rovaniemi City Theatre's program and attend a performance.",
       "subcategory": "Tiyatro",
-      "name_en": "Lappia Hall"
+      "name_en": "Lappia Hall",
+      "description_it": "Il capolavoro di Alvar Aalto degli anni '70, la Lappia Hall, ospita il Teatro Comunale di Rovaniemi, congressi e la biblioteca. La sua architettura modernista unica definisce il cuore culturale del Nord.",
+      "tips_it": "Consultate il programma del Teatro Comunale di Rovaniemi e assistete a uno spettacolo.",
+      "description_es": "La Sala Lappia, obra maestra de Alvar Aalto de la década de 1970, alberga el Teatro de la Ciudad de Rovaniemi, congresos y la biblioteca. Su arquitectura modernista única define el corazón cultural del Norte.",
+      "tips_es": "Consulte la programación del Teatro de la Ciudad de Rovaniemi y asista a una función."
     },
     {
       "id": "lauri-historical-manor",
@@ -1638,7 +1663,11 @@
       "tips": "Müzeyi ziyaretinizi Noel Baba Köyü ile birleştirmeyi unutmayın.",
       "tips_en": "Don't forget to combine your museum visit with Santa Claus Village.",
       "subcategory": "Konak",
-      "name_en": "Lauri Historical Manor"
+      "name_en": "Lauri Historical Manor",
+      "description_it": "La Lauri Historical Manor di Rovaniemi, un magnifico esempio di architettura in legno del XIX secolo, ospita mobili e manufatti autentici che illustrano la vita settentrionale e la storia regionale; un affascinante patrimonio culturale.",
+      "tips_it": "Non dimenticate di combinare la vostra visita al museo con il Villaggio di Babbo Natale.",
+      "description_es": "La Mansión Histórica Lauri de Rovaniemi, un magnífico ejemplo arquitectónico de madera del siglo XIX, alberga muebles y artefactos auténticos que muestran la vida nórdica y la historia regional; un patrimonio cultural cautivador.",
+      "tips_es": "No olvide combinar su visita al museo con el Pueblo de Papá Noel."
     },
     {
       "id": "levi-ski-resort",
@@ -1659,7 +1688,11 @@
       "tips": "Kuzey ışıklarını izlemek için mutlaka gece safari turlarına katılın.",
       "tips_en": "Join night safari tours to experience the stunning Northern Lights.",
       "subcategory": "Kayak Merkezi",
-      "name_en": "Levi Ski Resort"
+      "name_en": "Levi Ski Resort",
+      "description_it": "Levi, la principale stazione sciistica artica della Finlandia, è un pioniere, che mostra architettura moderna e design funzionale perfettamente adattati alle rigide condizioni invernali, ospitando eventi di Coppa del Mondo.",
+      "tips_it": "Partecipate ai safari notturni per ammirare le spettacolari Aurore Boreali.",
+      "description_es": "Levi, la principal estación de esquí ártica de Finlandia, es pionera, exhibiendo una arquitectura moderna y un diseño funcional perfectamente adaptados a las duras condiciones invernales, y sede de eventos de la Copa del Mundo.",
+      "tips_es": "Únase a los safaris nocturnos para experimentar las impresionantes Auroras Boreales."
     },
     {
       "id": "loft-cafe",
@@ -1680,7 +1713,11 @@
       "tips": "Pencere kenarında, taze demlenmiş kahvenizi yudumlarken buzlu manzarayı izleyin.",
       "tips_en": "Sip your freshly brewed coffee by the window, watching the frosty landscape.",
       "subcategory": "Kafe",
-      "name_en": "Loft Cafe"
+      "name_en": "Loft Cafe",
+      "description_it": "Il Loft Cafe, nel cuore di Rovaniemi, offre un rifugio intimo sotto travi di legno, che riflette le luci del nord attraverso le sue ampie finestre. I sussurri locali riscaldano l'ambiente industrial chic.",
+      "tips_it": "Sorseggiate il vostro caffè appena fatto vicino alla finestra, osservando il paesaggio ghiacciato.",
+      "description_es": "Loft Cafe, en el corazón de Rovaniemi, ofrece un refugio íntimo bajo vigas de madera, reflejando las luces del norte a través de sus amplios ventanales. Los susurros locales calientan el ambiente de estilo industrial chic.",
+      "tips_es": "Disfrute de su café recién hecho junto a la ventana, observando el paisaje helado."
     },
     {
       "id": "lomavekarit",
@@ -1701,7 +1738,11 @@
       "tips": "Yaz aylarında düzenlenen kamplarına erken kayıt yaptırarak yerinizi garantileyin.",
       "tips_en": "Secure your spot by registering early for their summer camps.",
       "subcategory": "Kır Evi",
-      "name_en": "Lomavekarit"
+      "name_en": "Lomavekarit",
+      "description_it": "Lomavekarit è un programma che offre esperienze di vacanza indimenticabili immerse nella natura per bambini e famiglie. Crea ricordi gioiosi per tutti.",
+      "tips_it": "Assicuratevi il vostro posto iscrivendovi in anticipo ai loro campi estivi.",
+      "description_es": "Lomavekarit es un programa que ofrece experiencias vacacionales inolvidables inmersas en la naturaleza para niños y familias. Crea recuerdos alegres para todos.",
+      "tips_es": "Asegure su plaza inscribiéndose con antelación en sus campamentos de verano."
     },
     {
       "name": "Lordi's Square",
@@ -1722,7 +1763,11 @@
       "tips": "Gece saatlerinde ışıklarını daha iyi görünüyor.",
       "tips_en": "Visit at night for a clearer view of the lights.",
       "description_en": "Lordi's Square, a serene oasis where the Northern Lights dance, pulsating with the heartbeat of city life amidst rocks and trees.",
-      "name_en": "Lordi's Square"
+      "name_en": "Lordi's Square",
+      "description_it": "Lordi's Square, un'oasi serena dove danzano le Aurore Boreali, che pulsa con il battito della vita cittadina tra rocce e alberi.",
+      "tips_it": "Visitate di notte per una vista più chiara delle luci.",
+      "description_es": "La Plaza Lordi, un oasis sereno donde danzan las Auroras Boreales, pulsando con el latido de la vida urbana entre rocas y árboles.",
+      "tips_es": "Visite por la noche para una vista más clara de las luces."
     },
     {
       "id": "lumberjacks-candle-bridge-jtknkynttil",
@@ -1743,7 +1788,11 @@
       "tips": "Işıklandırılmış 'mumlarını' görmek için karanlıkta ziyaret edin.",
       "tips_en": "Visit after dark to witness its spectacular illuminated 'candles'.",
       "subcategory": "Köprü",
-      "name_en": "Lumberjack's Candle Bridge (Jätkänkynttilä)"
+      "name_en": "Lumberjack's Candle Bridge (Jätkänkynttilä)",
+      "description_it": "L'iconico Ponte Jätkänkynttilä di Rovaniemi, inaugurato nel 1989, simboleggia l'eredità dei taglialegna della città. I suoi caratteristici piloni a forma di torcia illuminano brillantemente il fiume Kemijoki, un imponente punto di riferimento architettonico.",
+      "tips_it": "Visitate dopo il tramonto per ammirare le sue spettacolari 'candele' illuminate.",
+      "description_es": "El icónico Puente Jätkänkynttilä de Rovaniemi, inaugurado en 1989, simboliza la herencia leñadora de la ciudad. Sus distintivos pilones en forma de antorcha iluminan brillantemente el río Kemijoki, un impresionante hito arquitectónico.",
+      "tips_es": "Visite después del anochecer para presenciar sus espectaculares 'velas' iluminadas."
     },
     {
       "id": "mainostoimisto-seven-1",
@@ -1764,7 +1813,11 @@
       "tips": "Şehrin reklamcılık ve tasarım dünyasındaki son trendleri ve yaratıcı işleri keşfetmek için ziyaret edin.",
       "tips_en": "Visit to discover the latest trends and creative works in the city's advertising and design world.",
       "subcategory": "Ofis",
-      "name_en": "Mainostoimisto Seven-1"
+      "name_en": "Mainostoimisto Seven-1",
+      "description_it": "Mainostoimisto Seven-1, dove batte il polso creativo della città, è un punto d'incontro per il design moderno e le idee innovative. Offre uno sguardo nel dinamico mondo della pubblicità.",
+      "tips_it": "Visitate per scoprire le ultime tendenze e i lavori creativi nel mondo della pubblicità e del design della città.",
+      "description_es": "Mainostoimisto Seven-1, donde late el pulso creativo de la ciudad, es un punto de encuentro para el diseño moderno y las ideas innovadoras. Ofrece una visión del dinámico mundo de la publicidad.",
+      "tips_es": "Visite para descubrir las últimas tendencias y trabajos creativos en el mundo de la publicidad y el diseño de la ciudad."
     },
     {
       "id": "marimekko-outlet",
@@ -1785,7 +1838,11 @@
       "tips": "Öğle saatlerinde daha fazla seçeneğiniz olacak.",
       "tips_en": "You’ll find more options around lunchtime.",
       "subcategory": "Moda",
-      "name_en": "Marimekko Outlet"
+      "name_en": "Marimekko Outlet",
+      "description_it": "Il Marimekko Outlet a Rovaniemi offre un'esperienza di shopping unica, ricca di esempi iconici e colorati del design finlandese.",
+      "tips_it": "Troverete più opzioni all'ora di pranzo.",
+      "description_es": "El Outlet de Marimekko en Rovaniemi ofrece una experiencia de compra única, llena de ejemplos icónicos y coloridos del diseño finlandés.",
+      "tips_es": "Encontrará más opciones alrededor de la hora del almuerzo."
     },
     {
       "id": "marttiini-knife-shop",
@@ -1806,28 +1863,11 @@
       "tips": "Kahvenizi alıp dükkanın arka köşesindeki sandalyeye oturun.",
       "tips_en": "Grab your coffee and sit in the chair at the back corner of the shop.",
       "subcategory": "Bıçak",
-      "name_en": "Marttiini Knife Shop"
-    },
-    {
-      "id": "motelli-rovaniemi",
-      "name": "Motelli Rovaniemi",
-      "category": "Deneyim",
-      "tags": [
-        "budget",
-        "clean",
-        "roadside"
-      ],
-      "lat": 66.453209,
-      "lng": 25.579639,
-      "rating": 4.0,
-      "description": "Rovaniemi'nin kalbinde, klasik bir Fin moteli deneyimi sunan Motelli Rovaniemi, Lapland maceralarınız için samimi ve pratik bir başlangıç noktasıdır.",
-      "description_en": "Motelli Rovaniemi, a classic Finnish motel in the heart of Rovaniemi, offers a cozy and practical starting point for your Lapland adventures.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fmotelli-rovaniemi.jpg?alt=media",
-      "price": "low",
-      "tips": "Geleneksel Fin saunasını deneyimleyerek günün yorgunluğunu atın.",
-      "tips_en": "Experience the traditional Finnish sauna to unwind after a day of exploration.",
-      "subcategory": "Motel",
-      "name_en": "Motelli Rovaniemi"
+      "name_en": "Marttiini Knife Shop",
+      "description_it": "L'interno del Marttiini Knife Shop trabocca del profumo di acciaio affilato e legno, mentre una fresca brezza esalta questa esperienza unica.",
+      "tips_it": "Prendete il vostro caffè e sedetevi sulla sedia nell'angolo posteriore del negozio.",
+      "description_es": "El interior de la Tienda de Cuchillos Marttiini rebosa con el aroma de acero afilado y madera, mientras una brisa fresca realza esta experiencia única.",
+      "tips_es": "Tome su café y siéntese en la silla del rincón trasero de la tienda."
     },
     {
       "id": "mrs-santa-claus-christmas-cottage",
@@ -1848,7 +1888,11 @@
       "tips": "Noel Anne ile tanışmak için önceden rezervasyon yapın.",
       "tips_en": "Book your meeting with Mrs. Santa in advance.",
       "subcategory": "Noel Baba",
-      "name_en": "Mrs. Santa Claus Christmas Cottage"
+      "name_en": "Mrs. Santa Claus Christmas Cottage",
+      "description_it": "L'incantevole e tradizionale cottage in legno finlandese di Rovaniemi, la casa di Mamma Natale, custodisce regali artigianali artici e racconti senza tempo; è il cuore culturale dello spirito natalizio.",
+      "tips_it": "Prenotate il vostro incontro con Mamma Natale in anticipo.",
+      "description_es": "La encantadora y tradicional cabaña de madera finlandesa de Rovaniemi, el hogar de la Sra. Claus, guarda regalos árticos hechos a mano y cuentos atemporales; es el corazón cultural del espíritu navideño.",
+      "tips_es": "Reserve su encuentro con la Sra. Claus con antelación."
     },
     {
       "id": "napapiirin-lahja",
@@ -1869,7 +1913,11 @@
       "tips": "Pencereden bakarak Norveç Wool’den şal alın.",
       "tips_en": "Purchase a scarf made from Norwegian wool while looking out the window.",
       "subcategory": "Hediyelik",
-      "name_en": "Napapiirin Lahja"
+      "name_en": "Napapiirin Lahja",
+      "description_it": "Napapiirin Lahja, a Rovaniemi, vi accoglie con i suoi souvenir fatti a mano, invitandovi a scoprire la trama unica dell'arte e dell'artigianato locale.",
+      "tips_it": "Mentre ammirate il panorama dalla finestra, non perdete l'occasione di acquistare una sciarpa in lana norvegese.",
+      "description_es": "Napapiirin Lahja ofrece recuerdos hechos a mano en Rovaniemi, permitiéndole explorar la textura única del arte y la artesanía local.",
+      "tips_es": "Adquiera una bufanda de lana noruega mientras mira por la ventana."
     },
     {
       "id": "napapiirin-porofarmi",
@@ -1890,7 +1938,11 @@
       "tips": "Kışın kalın giyin, kızak deneyimi unutulmazdır.",
       "tips_en": "Dress warmly in winter; the sleigh ride experience is unforgettable.",
       "subcategory": "Çiftlik",
-      "name_en": "Napapiirin Porofarmi"
+      "name_en": "Napapiirin Porofarmi",
+      "description_it": "Questa fattoria del Circolo Polare Artico incarna la secolare tradizione Sámi dell'allevamento delle renne. Le sue strutture tradizionali in legno e le esperienze autentiche ne fanno il cuore culturale della Lapponia.",
+      "tips_it": "Vestitevi caldamente in inverno; l'esperienza della slitta trainata dalle renne è indimenticabile.",
+      "description_es": "Esta granja del Círculo Polar Ártico encarna la tradición centenaria de pastoreo de renos Sámi. Sus estructuras de madera tradicionales y experiencias auténticas forman el corazón cultural de Laponia.",
+      "tips_es": "Vístase abrigado en invierno; la experiencia del paseo en trineo es inolvidable."
     },
     {
       "name": "Nili Restaurant",
@@ -1911,7 +1963,11 @@
       "tips": "Yerli yemeklerin tadını çıkarmak için akşamüstü gidin.",
       "tips_en": "Visit in the late afternoon to savor the local dishes.",
       "description_en": "In the heart of Rovaniemi, Nili buzzes with vibrant conversations and flavorful dishes, serving as a gathering spot for locals. Energy and warmth permeate every corner.",
-      "name_en": "Nili Restaurant"
+      "name_en": "Nili Restaurant",
+      "description_it": "Nel cuore di Rovaniemi, il Ristorante Nili pulsa di conversazioni vivaci e piatti saporiti, fungendo da punto d'incontro per la gente del posto. Energia e calore pervadono ogni angolo.",
+      "tips_it": "Visitatelo nel tardo pomeriggio per assaporare al meglio i piatti tipici locali.",
+      "description_es": "En el corazón de Rovaniemi, Nili bulle con conversaciones vibrantes y platos sabrosos, sirviendo como punto de encuentro para los lugareños. La energía y la calidez impregnan cada rincón.",
+      "tips_es": "Visite a última hora de la tarde para saborear los platos locales."
     },
     {
       "id": "nordic-unique-travels",
@@ -1932,7 +1988,11 @@
       "tips": "Kuzey Işıkları için en iyi gözlem zamanı kış aylarıdır; turlarınızı önceden ayırtın.",
       "tips_en": "The best time to observe the Northern Lights is during winter months; book your tours in advance.",
       "subcategory": "Tur",
-      "name_en": "Nordic Unique Travels"
+      "name_en": "Nordic Unique Travels",
+      "description_it": "Nordic Unique Travels propone avventure artiche indimenticabili, con safari in husky e gite in slitta trainata da renne, immersi nell'atmosfera magica del Nord: l'indirizzo giusto per esperienze uniche.",
+      "tips_it": "Il periodo migliore per osservare l'Aurora Boreale è durante i mesi invernali; prenotate i vostri tour in anticipo.",
+      "description_es": "Nordic Unique Travels ofrece inolvidables aventuras árticas con safaris de huskies y paseos en trineo de renos en la mágica atmósfera del Norte, la dirección para experiencias únicas.",
+      "tips_es": "La mejor época para observar las Auroras Boreales es durante los meses de invierno; reserve sus tours con antelación."
     },
     {
       "name": "Northern Lights Tour Point",
@@ -1954,7 +2014,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Kuzey Işıklarını görmek için hava durumu tahminlerini kontrol edin ve sıcak giyinin.",
       "tips_en": "Check weather forecasts for aurora visibility and dress warmly.",
-      "name_en": "Northern Lights Tour Point"
+      "name_en": "Northern Lights Tour Point",
+      "description_it": "Questo punto di osservazione dell'Aurora Boreale a Rovaniemi fonde antiche storie artiche con un'architettura unica. È il cuore di un patrimonio millenario, una porta d'accesso alla danza magica dell'Aurora.",
+      "tips_it": "Controllate le previsioni meteo per la visibilità dell'aurora e vestitevi caldamente.",
+      "description_es": "Este punto de Auroras Boreales de Rovaniemi fusiona antiguas historias árticas con una arquitectura única. Es el corazón de una herencia milenaria, una puerta de entrada a la danza mágica de la Aurora.",
+      "tips_es": "Consulte los pronósticos meteorológicos para la visibilidad de la aurora y vístase abrigado."
     },
     {
       "name": "Norvajärvi Lake",
@@ -1977,28 +2041,11 @@
       "tips": "Egzotik sakinlik için, şafakta ziyaret edip aynalı sular üzerinde yükselen sisi görün.",
       "tips_en": "For ethereal calm, visit at dawn to see mist rise over mirrored waters.",
       "source": "firebase",
-      "name_en": "Norvajärvi Lake"
-    },
-    {
-      "id": "nova-skyland-hotel",
-      "name": "Nova Skyland Hotel",
-      "category": "Deneyim",
-      "tags": [
-        "luxury",
-        "modern",
-        "forest"
-      ],
-      "lat": 66.541396,
-      "lng": 25.848004,
-      "rating": 4.8,
-      "description": "Nova Skyland Hotel, şehrin en yüksek noktasında, modern mimarisiyle nefes kesen panoramik manzaralar sunar. Tarihi silüeti kuşbakışı izleyin.",
-      "description_en": "Nova Skyland Hotel, at the city's highest point, offers breathtaking panoramic views with its modern architecture. Witness the historical silhouette from above.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fnova-skyland-hotel.jpg?alt=media",
-      "price": "high",
-      "tips": "Gün batımında teras barında kokteylinizi yudumlarken şehrin ışıklarını izleyin.",
-      "tips_en": "Watch the city lights while sipping your cocktail at the terrace bar during sunset.",
-      "subcategory": "Otel",
-      "name_en": "Nova Skyland Hotel"
+      "name_en": "Norvajärvi Lake",
+      "description_it": "Il Lago Norvajärvi a Rovaniemi si rivela come una distesa serena dove il cielo cobalto profondo si specchia sulle sue acque calme e scure, orlate da foreste di pini smeraldo. L'autunno trasforma le betulle in brillanti tonalità dorate e ruggine.",
+      "tips_it": "Per una calma eterea, visitatelo all'alba per ammirare la nebbia che si alza sulle acque specchiate.",
+      "description_es": "El lago Norvajärvi en Rovaniemi se despliega como una serena extensión donde el profundo cielo cobalto se refleja en sus aguas tranquilas y oscuras, bordeadas por bosques de pinos esmeralda. El otoño transforma los abedules en brillantes tonos dorados y rojizos.",
+      "tips_es": "Para una calma etérea, visita al amanecer y observa cómo la niebla se eleva sobre las aguas espejadas."
     },
     {
       "id": "olivers-corner",
@@ -2019,7 +2066,11 @@
       "tips": "Kış aylarında ziyaret ederek özel atölyelere katılmayı unutmayın.",
       "tips_en": "Don't forget to visit during winter months to join special workshops.",
       "subcategory": "Pub",
-      "name_en": "Oliver's Corner"
+      "name_en": "Oliver's Corner",
+      "description_it": "Nel cuore di Rovaniemi, Oliver's Corner, un gioiello architettonico tradizionale finlandese degli anni '20, ospita artigianato locale e manufatti dell'esplorazione artica, offrendo un'esperienza affascinante.",
+      "tips_it": "Non dimenticate di visitarlo durante i mesi invernali per partecipare a workshop speciali.",
+      "description_es": "En el corazón de Rovaniemi, Oliver's Corner, una joya arquitectónica finlandesa tradicional de la década de 1920, alberga artesanía local y artefactos de exploración ártica, ofreciendo una experiencia fascinante.",
+      "tips_es": "No olvides visitarlo durante los meses de invierno para unirte a talleres especiales."
     },
     {
       "id": "ollero-eco-lodge",
@@ -2040,28 +2091,11 @@
       "tips": "Sabah erken saatlerde kahve tarlası turuna katılın ve bölgenin zengin biyoçeşitliliğini keşfedin.",
       "tips_en": "Join an early morning coffee plantation tour and discover the region's rich biodiversity.",
       "subcategory": "Eko Otel",
-      "name_en": "Ollero Eco Lodge"
-    },
-    {
-      "id": "original-sokos-hotel-vaakuna",
-      "name": "Original Sokos Hotel Vaakuna",
-      "category": "Deneyim",
-      "tags": [
-        "northern lights",
-        "nightclub",
-        "central"
-      ],
-      "lat": 66.502006,
-      "lng": 25.736303,
-      "rating": 4.2,
-      "description": "Savaş sonrası yeniden inşa edilen Rovaniemi'nin kalbinde yer alan, modern İskandinav mimarisiyle dikkat çeken bu otel, şehrin yeniden doğuşunu simgeler. Konforlu hizmetiyle Lapland misafirperverliğini yaşatır.",
-      "description_en": "Located in post-war rebuilt Rovaniemi's heart, this hotel, with notable modern Scandinavian architecture, symbolizes the city's rebirth. Experience Lapland's famed hospitality here.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Foriginal-sokos-hotel-vaakuna.jpg?alt=media",
-      "price": "medium",
-      "tips": "Otelden Kemijoki Nehri manzarasının keyfini çıkarın; yakındaki Alvar Aalto binalarını keşfedin.",
-      "tips_en": "Enjoy Kemijoki River views from the hotel; explore nearby Alvar Aalto buildings.",
-      "subcategory": "Otel",
-      "name_en": "Original Sokos Hotel Vaakuna"
+      "name_en": "Ollero Eco Lodge",
+      "description_it": "Nascosto tra le lussureggianti piantagioni di caffè del Salento, l'Ollero Eco Lodge offre una fuga di pace immersa nella natura. Godetevi panorami unici accompagnati dal canto degli uccelli.",
+      "tips_it": "Partecipate a un tour mattutino della piantagione di caffè e scoprite la ricca biodiversità della regione.",
+      "description_es": "Escondido entre las exuberantes plantaciones de café de Salento, Ollero Eco Lodge ofrece un refugio de paz inmerso en la naturaleza. Disfruta de vistas únicas acompañadas por el canto de los pájaros.",
+      "tips_es": "Únete a un tour matutino por la plantación de café y descubre la rica biodiversidad de la región."
     },
     {
       "id": "ounaskoski-beach",
@@ -2082,7 +2116,11 @@
       "tips": "Gündoğumunu izlemek için erken gelin.",
       "tips_en": "Arrive early to catch the sunrise.",
       "subcategory": "Plaj",
-      "name_en": "Ounaskoski Beach"
+      "name_en": "Ounaskoski Beach",
+      "description_it": "La Spiaggia di Ounaskoski offre un paradiso naturale, con sabbia soffice sotto i piedi e il suono rilassante delle onde che lambiscono la riva.",
+      "tips_it": "Arrivate presto per ammirare l'alba.",
+      "description_es": "La playa de Ounaskoski ofrece un paraíso natural rodeado de arena suave bajo los pies y el relajante sonido de las olas rompiendo en la orilla.",
+      "tips_es": "Llega temprano para contemplar el amanecer."
     },
     {
       "id": "ounasvaara-observation-tower",
@@ -2103,7 +2141,11 @@
       "tips": "Sahneye geç gel, gün batımını kaçırma.",
       "tips_en": "Arrive late to enjoy the sunset views.",
       "subcategory": "Kule",
-      "name_en": "Ounasvaara Observation Tower"
+      "name_en": "Ounasvaara Observation Tower",
+      "description_it": "La Torre di Osservazione di Ounasvaara offre panorami mozzafiato, fondendosi armoniosamente con i verdi pini e i cieli blu intenso di Rovaniemi.",
+      "tips_it": "Arrivate nel tardo pomeriggio per godervi i panorami del tramonto.",
+      "description_es": "La Torre de Observación de Ounasvaara ofrece vistas hipnotizantes, fusionándose con los verdes pinos y los cielos azul profundo de Rovaniemi.",
+      "tips_es": "Llega tarde para disfrutar de las vistas del atardecer."
     },
     {
       "name": "Ounasvaara Ski Resort",
@@ -2124,7 +2166,11 @@
       "tips": "Gündoğumunu izlemek için dağın zirvesine çıkın.",
       "tips_en": "Hike to the mountain top to watch the sunrise.",
       "description_en": "The chill of Ounasvaara Ski Resort intertwines with the warm scent of coffee wafting from the café, footsteps echo gently on the soft snow.",
-      "name_en": "Ounasvaara Ski Resort"
+      "name_en": "Ounasvaara Ski Resort",
+      "description_it": "Il freddo del comprensorio sciistico di Ounasvaara si intreccia con il caldo profumo di caffè che si diffonde dal bar, mentre i passi echeggiano dolcemente sulla neve soffice.",
+      "tips_it": "Salite a piedi fino alla cima della montagna per ammirare l'alba.",
+      "description_es": "El frío de la estación de esquí de Ounasvaara se entrelaza con el cálido aroma a café que emana de la cafetería, mientras los pasos resuenan suavemente sobre la nieve blanda.",
+      "tips_es": "Sube a la cima de la montaña para ver el amanecer."
     },
     {
       "id": "ounasvaara-summer-bobsleigh-track",
@@ -2145,7 +2191,11 @@
       "tips": "Teleferiği kullanarak zirveye çıkıp manzaranın tadını çıkarın.",
       "tips_en": "Take the cable car to the top and enjoy the views.",
       "subcategory": "Aktivite",
-      "name_en": "Ounasvaara Summer Bobsleigh Track"
+      "name_en": "Ounasvaara Summer Bobsleigh Track",
+      "description_it": "Sapientemente integrata a Ounasvaara, questa moderna pista di bob estiva unisce velocità e sicurezza con un'ingegneria brillante. Offre adrenalina indimenticabile e viste panoramiche su Rovaniemi.",
+      "tips_it": "Prendete la funivia fino in cima e godetevi il panorama.",
+      "description_es": "Hábilmente integrada en Ounasvaara, esta moderna pista de bobsleigh de verano combina velocidad y seguridad con una ingeniería brillante. Ofrece adrenalina inolvidable y vistas panorámicas de Rovaniemi.",
+      "tips_es": "Toma el teleférico hasta la cima y disfruta de las vistas."
     },
     {
       "id": "ounasvaara-winter-trail",
@@ -2166,7 +2216,11 @@
       "tips": "Dağın zirvesinde gün batımını izlemeyi unutmayın.",
       "tips_en": "Don’t forget to watch the sunset from the mountain summit.",
       "subcategory": "Yürüyüş",
-      "name_en": "Ounasvaara Winter Trail"
+      "name_en": "Ounasvaara Winter Trail",
+      "description_it": "Il Sentiero Invernale di Ounasvaara offre una serena passeggiata nella natura, circondati da alberi coperti di neve, con i rilassanti echi dei passi sulla neve fresca.",
+      "tips_it": "Non dimenticate di ammirare il tramonto dalla cima della montagna.",
+      "description_es": "El Sendero Invernal de Ounasvaara ofrece un sereno paseo por la naturaleza rodeado de árboles cubiertos de nieve, con los relajantes ecos de los pasos sobre la nieve crujiente.",
+      "tips_es": "No olvides contemplar el atardecer desde la cima de la montaña."
     },
     {
       "id": "paha-kurki-rockhouse",
@@ -2187,7 +2241,11 @@
       "tips": "Kışın ziyaret için sıcak giysiler ve güçlü bir fener şarttır.",
       "tips_en": "Warm clothes and a powerful flashlight are essential for winter visits.",
       "subcategory": "Bar",
-      "name_en": "Paha Kurki Rockhouse"
+      "name_en": "Paha Kurki Rockhouse",
+      "description_it": "La Paha Kurki Rockhouse, scolpita nelle formazioni naturali uniche di Rovaniemi, è un'impressionante meraviglia architettonica che testimonia millenni di vita lappone. Questa struttura rocciosa mette in mostra l'antica cultura e la resilienza della regione.",
+      "tips_it": "Vestiti caldi e una torcia potente sono essenziali per le visite invernali.",
+      "description_es": "Paha Kurki Rockhouse, tallada en las formaciones naturales únicas de Rovaniemi, es una impresionante maravilla arquitectónica que ha sido testigo de milenios de vida en Laponia. Esta estructura rocosa muestra la antigua cultura y resiliencia de la región.",
+      "tips_es": "Ropa de abrigo y una linterna potente son esenciales para las visitas invernales."
     },
     {
       "id": "pentik-arctic-circle",
@@ -2208,7 +2266,11 @@
       "tips": "Eşsiz seramikler için renkli bölümde gezin.",
       "tips_en": "Explore the colorful section for unique ceramics.",
       "subcategory": "Tasarım",
-      "name_en": "Pentik Arctic Circle"
+      "name_en": "Pentik Arctic Circle",
+      "description_it": "Pentik Arctic Circle fonde design moderni con tocchi tradizionali finlandesi, creando un'esperienza di shopping unica.",
+      "tips_it": "Esplorate la sezione colorata per trovare ceramiche uniche.",
+      "description_es": "Pentik Arctic Circle fusiona diseños modernos con toques tradicionales finlandeses, creando una experiencia de compra única.",
+      "tips_es": "Explora la sección colorida para encontrar cerámicas únicas."
     },
     {
       "id": "peoples-pub",
@@ -2229,7 +2291,11 @@
       "tips": "Yerel halkla sohbet edin, bölgeye ait eşsiz hikayeleri dinleyin.",
       "tips_en": "Chat with locals, hear unique stories about the region and its history.",
       "subcategory": "Pub",
-      "name_en": "People's Pub"
+      "name_en": "People's Pub",
+      "description_it": "Simbolo della ricostruzione post-bellica di Rovaniemi, questo storico pub pulsa dello spirito più autentico della comunità locale. La sua architettura, un capolavoro di artigianato del legno nordico, custodisce gelosamente i ricordi della città, ergendosi a vero e proprio cuore pulsante e punto di riferimento per tutti.",
+      "tips_it": "Non perdere l'occasione di chiacchierare con la gente del posto: ti racconteranno storie uniche sulla regione e la sua affascinante storia.",
+      "description_es": "Símbolo de la reconstrucción de Rovaniemi tras la guerra, este pub histórico encarna el espíritu local. Su arquitectura, que presenta la artesanía en madera del Norte, conserva íntimamente los recuerdos de la ciudad, siendo verdaderamente un pilar de la comunidad.",
+      "tips_es": "Conversa con los lugareños para escuchar historias únicas sobre la región y su historia."
     },
     {
       "id": "piece-of-lapland",
@@ -2251,7 +2317,11 @@
       "tips_en": "Find inspiration in the moss-green velvet corner to the left of the entrance in daylight.",
       "subcategory": "Hediyelik",
       "source": "firebase",
-      "name_en": "Piece of Lapland"
+      "name_en": "Piece of Lapland",
+      "description_it": "All'interno, il pino nordico avvolge l'ambiente, con le sue travi che sorreggono il soffitto in un'armonia perfetta con le pietre candide del pavimento. Nelle vetrine, l'arte del vetro blu ghiaccio cattura e riflette la fredda magia delle notti polari.",
+      "tips_it": "Lasciati ispirare dall'angolo in velluto verde muschio, a sinistra dell'ingresso, specialmente durante le ore diurne.",
+      "description_es": "El pino nórdico que envuelve el interior de la tienda sostiene el techo, ofreciendo una textura armoniosa con las piedras blancas como la nieve del suelo. El arte en vidrio azul hielo de los expositores refleja la frescura de las noches polares.",
+      "tips_es": "Encuentra inspiración en el rincón de terciopelo verde musgo a la izquierda de la entrada durante el día."
     },
     {
       "name": "Pilke Science Centre",
@@ -2273,7 +2343,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Arktikum Bilim Merkezi ve Lapland İl Müzesi ile gezmenizi öneririz.",
       "tips_en": "Combine your visit with Arktikum Science Centre and Lapland Provincial Museum.",
-      "name_en": "Pilke Science Centre"
+      "name_en": "Pilke Science Centre",
+      "description_it": "Il Pilke Science Centre di Rovaniemi, un gioiello di architettura moderna, si immerge profondamente nel tema della sostenibilità delle foreste nordiche. Attraverso mostre interattive e coinvolgenti, ne svela l'immenso significato ecologico e culturale del legno.",
+      "tips_it": "Per un'esperienza completa, abbina la tua visita a quella dell'Arktikum Science Centre e del Museo Provinciale della Lapponia.",
+      "description_es": "El Centro Científico Pilke de Rovaniemi, una joya arquitectónica moderna, explora profundamente la sostenibilidad de los bosques del norte, mostrando la importancia ecológica y cultural de la madera a través de exposiciones interactivas.",
+      "tips_es": "Combina tu visita con el Centro Científico Arktikum y el Museo Provincial de Laponia."
     },
     {
       "id": "poturi",
@@ -2295,7 +2369,11 @@
       "tips_en": "Inquire about specific local designers; their unique stories enrich each purchase.",
       "subcategory": "Çömlek",
       "source": "firebase",
-      "name_en": "Poturi"
+      "name_en": "Poturi",
+      "description_it": "Poturi svela una collezione accuratamente selezionata, dove il calore tattile del legno nordico si fonde con le linee audaci dei tessuti finlandesi moderni. Qui potrai scoprire oggetti in argento e feltro, realizzati artigianalmente, che richiamano la palette naturale della Lapponia.",
+      "tips_it": "Non esitare a chiedere informazioni sui designer locali: le loro storie uniche arricchiranno ogni tuo acquisto, rendendolo ancora più speciale.",
+      "description_es": "Poturi revela una colección curada donde la calidez táctil de la madera nórdica se encuentra con las líneas audaces de los textiles finlandeses modernos. Descubre artículos de plata y fieltro hechos a mano que reflejan la paleta natural de Laponia.",
+      "tips_es": "Pregunta por diseñadores locales específicos; sus historias únicas enriquecen cada compra."
     },
     {
       "id": "pure-pizza",
@@ -2316,7 +2394,11 @@
       "tips": "Fırından yeni çıkan pizzayı mutlaka deneyin.",
       "tips_en": "Definitely try the freshly baked pizza straight from the oven.",
       "subcategory": "Pizza",
-      "name_en": "Pure Pizza"
+      "name_en": "Pure Pizza",
+      "description_it": "Alla Pure Pizza di Rovaniemi, le pizze cotte nel forno a legna sono un'esplosione di sapori unici, arricchiti da ingredienti freschissimi e di qualità.",
+      "tips_it": "Assolutamente da provare la pizza appena sfornata, direttamente dal forno a legna!",
+      "description_es": "En Pure Pizza de Rovaniemi, las pizzas al horno de leña ofrecen sabores únicos enriquecidos con ingredientes frescos.",
+      "tips_es": "Definitivamente, prueba la pizza recién horneada directamente del horno."
     },
     {
       "id": "pyh-luosto-national-park",
@@ -2337,7 +2419,11 @@
       "tips": "Göl kenarındaki yürüyüş parkurunu sabah erken gezin.",
       "tips_en": "Explore the lakeside trail early in the morning.",
       "subcategory": "Park",
-      "name_en": "Pyhä-Luosto National Park"
+      "name_en": "Pyhä-Luosto National Park",
+      "description_it": "Le foreste secolari e i laghi cristallini del Parco Nazionale di Pyhä-Luosto offrono un rifugio di pace e serenità, lontano dal trambusto quotidiano.",
+      "tips_it": "Ti consiglio di esplorare il sentiero lungo il lago nelle prime ore del mattino, quando la natura si risveglia.",
+      "description_es": "Los profundos bosques y los tranquilos lagos del Parque Nacional Pyhä-Luosto ofrecen un escape de paz.",
+      "tips_es": "Explora el sendero junto al lago a primera hora de la mañana."
     },
     {
       "id": "poyliovaara",
@@ -2358,7 +2444,11 @@
       "tips": "Kuzey ışıkları için, şehir ışıklarından uzak zirveye gece çıkın.",
       "tips_en": "For Northern Lights, climb the summit at night, away from city lights.",
       "subcategory": "Tepelik",
-      "name_en": "Pöyliövaara"
+      "name_en": "Pöyliövaara",
+      "description_it": "Pöyliövaara è il polmone verde e tranquillo di Rovaniemi, il luogo prediletto da chi cerca una fuga dalla folla per immergersi nello spirito più autentico del luogo. Dalla sua cima, le luci della città creano uno sfondo suggestivo e misterioso per le danze dell'Aurora Boreale nelle lunghe Notti Polari.",
+      "tips_it": "Per ammirare l'Aurora Boreale in tutto il suo splendore, sali sulla cima di notte, lontano dalle luci della città.",
+      "description_es": "Pöyliövaara, el aliento tranquilo de Rovaniemi; preferido por quienes escapan de las multitudes para inhalar el espíritu local. Desde su cima, las luces de la ciudad forman un telón de fondo misterioso para las Auroras Boreales en las Noches Polares.",
+      "tips_es": "Para ver las Auroras Boreales, sube a la cima por la noche, lejos de las luces de la ciudad."
     },
     {
       "id": "rang-mahal",
@@ -2379,7 +2469,11 @@
       "tips": "Baharatların dans ettiği bu mekanda, geleneksel Hint lezzetlerini keşfedin. Akşam yemeği için rezervasyon yaptırmanız önerilir.",
       "tips_en": "Discover traditional Indian flavors where spices dance. Reservations are recommended for dinner.",
       "subcategory": "Hint",
-      "name_en": "Rang Mahal"
+      "name_en": "Rang Mahal",
+      "description_it": "Prendendo il nome dai sontuosi palazzi indiani, Rang Mahal è una tappa culinaria imperdibile che offre una cucina indiana ricca e autentica, sapientemente rivisitata con un tocco moderno.",
+      "tips_it": "Lasciati trasportare in un viaggio di sapori tradizionali indiani, dove le spezie danzano in armonia. Per la cena, la prenotazione è vivamente consigliata.",
+      "description_es": "Nombrado en honor a los palacios indios, Rang Mahal es una parada culinaria que ofrece una cocina india rica y auténtica con un toque moderno.",
+      "tips_es": "Descubre sabores indios tradicionales donde las especias bailan. Se recomienda reservar para la cena."
     },
     {
       "name": "Ranua Wildlife Park",
@@ -2400,7 +2494,11 @@
       "tips": "Öğleden sonra hayvanların aktiviteleri daha canlı oluyor.",
       "tips_en": "Animals are more active in the afternoon.",
       "description_en": "Amidst cold-toned structures, it offers impressive wildlife and stunning natural scenery interwoven with nature.",
-      "name_en": "Ranua Wildlife Park"
+      "name_en": "Ranua Wildlife Park",
+      "description_it": "Immerso in un paesaggio dai toni freddi e suggestivi, il parco offre l'opportunità di ammirare una fauna selvatica impressionante e scenari naturali mozzafiato, in perfetta armonia con l'ambiente circostante.",
+      "tips_it": "Gli animali sono solitamente più attivi nel pomeriggio: un ottimo momento per osservarli!",
+      "description_es": "Entre estructuras de tonos fríos, ofrece una fauna impresionante y un paisaje natural asombroso entrelazado con la naturaleza.",
+      "tips_es": "Los animales están más activos por la tarde."
     },
     {
       "name": "Ravintola Monte Rosa",
@@ -2422,7 +2520,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Öğle yemeği için en keyifli yeri seçin.",
       "tips_en": "Choose the coziest spot for lunch.",
-      "name_en": "Ravintola Monte Rosa"
+      "name_en": "Ravintola Monte Rosa",
+      "description_it": "Il Ravintola Monte Rosa a Rovaniemi ti accoglie in un'atmosfera da fiaba invernale, dove il calore delle texture in legno si fonde con la freschezza delle brezze artiche.",
+      "tips_it": "Per il pranzo, scegli l'angolo più accogliente e lasciati coccolare dall'atmosfera.",
+      "description_es": "Ravintola Monte Rosa en Rovaniemi ofrece una atmósfera de cuento de hadas invernal, llena de cálidas texturas de madera y brisas árticas.",
+      "tips_es": "Elige el rincón más acogedor para almorzar."
     },
     {
       "id": "ravintola-valdemari",
@@ -2444,7 +2546,11 @@
       "tips_en": "Try a local beer during the late afternoon.",
       "subcategory": "Yazlık",
       "source": "firebase",
-      "name_en": "Ravintola Valdemari"
+      "name_en": "Ravintola Valdemari",
+      "description_it": "Il Ravintola Valdemari è il luogo ideale per assaporare i sapori locali, grazie alla sua atmosfera calda e accogliente e alla vivace clientela.",
+      "tips_it": "Nel tardo pomeriggio, concediti una birra locale per immergerti appieno nell'atmosfera.",
+      "description_es": "Ravintola Valdemari es el lugar ideal para saborear los sabores locales, con su ambiente cálido y su animada clientela.",
+      "tips_es": "Prueba una cerveza local a última hora de la tarde."
     },
     {
       "name": "Reindeer Farm Visit",
@@ -2467,7 +2573,11 @@
       "tips": "Kışın ziyaret ederek, donmuş ormanlarda ren geyiği kızak sürüşünü deneyimleyin.",
       "tips_en": "Visit in winter to experience a reindeer sleigh ride through frozen forests.",
       "source": "firebase",
-      "name_en": "Reindeer Farm Visit"
+      "name_en": "Reindeer Farm Visit",
+      "description_it": "Nel cuore di Rovaniemi, autentiche strutture agricole in legno raccontano l'essenza secolare dell'allevamento tradizionale di renne Sámi, offrendo uno spaccato unico sulla vita artica e sul ricco patrimonio culturale della regione.",
+      "tips_it": "Visita la fattoria in inverno per vivere l'emozione di un giro in slitta trainata da renne attraverso le foreste innevate.",
+      "description_es": "En el corazón de Rovaniemi, las auténticas estructuras de madera de las granjas reflejan la esencia del pastoreo tradicional de renos sami, con siglos de antigüedad, mostrando la vida ártica y el patrimonio cultural.",
+      "tips_es": "Visita en invierno para experimentar un paseo en trineo de renos a través de bosques helados."
     },
     {
       "id": "restaurant-aitta",
@@ -2488,7 +2598,11 @@
       "tips": "Gün doğumunu görmek için sabah 7’de gidin.",
       "tips_en": "Visit at 7 AM to catch the sunrise.",
       "subcategory": "Lapon",
-      "name_en": "Restaurant Aitta"
+      "name_en": "Restaurant Aitta",
+      "description_it": "Le pietre naturali e le ampie vetrate di Aitta invitano la bellezza mozzafiato delle foreste di Rovaniemi a entrare nell'ambiente interno, creando un'atmosfera magica.",
+      "tips_it": "Ti consiglio di visitarlo alle 7 del mattino per goderti lo spettacolo dell'alba che filtra tra gli alberi.",
+      "description_es": "Las piedras naturales y los grandes ventanales de Aitta invitan a las cautivadoras vistas del bosque de Rovaniemi al interior.",
+      "tips_es": "Visita a las 7 de la mañana para contemplar el amanecer."
     },
     {
       "name": "Restaurant Gaissa",
@@ -2510,7 +2624,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Yerli av malzemelerini tatmak için menüyü kontrol edin.",
       "tips_en": "Check the menu to taste local game ingredients.",
-      "name_en": "Restaurant Gaissa"
+      "name_en": "Restaurant Gaissa",
+      "description_it": "Un ristorante unico nel suo genere, dove i sapori artigianali raccontano la ricchezza e l'autenticità della cucina locale di Rovaniemi.",
+      "tips_it": "Non dimenticare di consultare il menu per scoprire e assaporare gli ingredienti di selvaggina locale, una vera delizia!",
+      "description_es": "Un restaurante único que exhibe sabores artesanales que reflejan la cocina local de Rovaniemi.",
+      "tips_es": "Consulta el menú para probar ingredientes de caza locales."
     },
     {
       "name": "Revontuli Shopping Centre",
@@ -2532,7 +2650,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Üst kat terasta Rovaniemi manzarasının tadını çıkarın.",
       "tips_en": "Enjoy the view of Rovaniemi from the terrace on the upper floor.",
-      "name_en": "Revontuli Shopping Centre"
+      "name_en": "Revontuli Shopping Centre",
+      "description_it": "Con i suoi cortili vivaci e le facciate in vetro scintillante, il Revontuli Shopping Centre è un esempio brillante di design moderno e innovativo.",
+      "tips_it": "Non perdere l'occasione di goderti la splendida vista su Rovaniemi dalla terrazza panoramica al piano superiore.",
+      "description_es": "Con patios coloridos y fachadas de cristal, el Centro Comercial Revontuli es un ejemplo de diseño moderno.",
+      "tips_es": "Disfruta de las vistas de Rovaniemi desde la terraza de la planta superior."
     },
     {
       "id": "riisitunturi-national-park",
@@ -2553,7 +2675,11 @@
       "tips": "Gündüz saatlerinde özel fotoğraf noktalarını keşfedin.",
       "tips_en": "Explore unique photo spots during daylight hours.",
       "subcategory": "Park",
-      "name_en": "Riisitunturi National Park"
+      "name_en": "Riisitunturi National Park",
+      "description_it": "Gli alberi imbiancati nel Parco Nazionale di Riisitunturi creano un mondo invernale cristallino, offrendo panorami mozzafiato che si fondono con il cielo.",
+      "tips_it": "Esplorate angoli fotografici unici durante le ore diurne.",
+      "description_es": "Los árboles blancos del Parque Nacional Riisitunturi crean un mundo invernal cristalino, ofreciendo vistas impresionantes que se funden con el cielo.",
+      "tips_es": "Explora lugares únicos para fotos durante las horas de luz."
     },
     {
       "id": "rinteenkulma-shopping-centre",
@@ -2574,7 +2700,11 @@
       "tips": "Kahve köşesinde pişmiş fare türlü denemelisiniz.",
       "tips_en": "You should try the baked mouse dish at the coffee corner.",
       "subcategory": "AVM",
-      "name_en": "Rinteenkulma Shopping Centre"
+      "name_en": "Rinteenkulma Shopping Centre",
+      "description_it": "Il Centro Commerciale Rinteenkulma offre sapori locali unici e un'atmosfera accogliente.",
+      "tips_it": "Dovreste provare una specialità insolita all'angolo caffè.",
+      "description_es": "El Centro Comercial Rinteenkulma ofrece sabores locales únicos y un ambiente cálido.",
+      "tips_es": "Deberías probar el plato de ratón horneado en la cafetería."
     },
     {
       "name": "Roka Kitchen & Bar",
@@ -2596,7 +2726,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Alacakaranlık manzaralı köşe masayı ayırtın, isli Arktik alabalığın tadını çıkarın.",
       "tips_en": "Book the corner table for twilight views, savoring the smoked Arctic char.",
-      "name_en": "Roka Kitchen & Bar"
+      "name_en": "Roka Kitchen & Bar",
+      "description_it": "Roka eleva con maestria gli ingredienti lapponi oltre ogni aspettativa. È l'angolo tranquillo dove il carpaccio di renna si rivela una vera scoperta, abbinato alla perfezione con i loro raffinati cocktail ai frutti di bosco, lontano dalla frenesia dei turisti giornalieri.",
+      "tips_it": "Prenotate il tavolo d'angolo per ammirare il tramonto, gustando il salmerino alpino affumicato.",
+      "description_es": "Roka eleva sutilmente los ingredientes lapones más allá de las expectativas. Es el rincón tranquilo donde el carpaccio de reno se siente como un descubrimiento, maridado a la perfección con sus matizados cócteles de bayas, lejos del bullicio de los excursionistas.",
+      "tips_es": "Reserva la mesa de la esquina para disfrutar de las vistas al atardecer, saboreando el salvelino ártico ahumado."
     },
     {
       "id": "roka-street-bistro",
@@ -2617,7 +2751,11 @@
       "tips": "Akşamüstü, yerel halkın sosyalleşme anına tanık olmak için uğrayın.",
       "tips_en": "Stop by in the late afternoon to witness the locals' social hour.",
       "subcategory": "Bistro",
-      "name_en": "Roka Street Bistro"
+      "name_en": "Roka Street Bistro",
+      "description_it": "Roka Street Bistro cattura il vero battito di Rovaniemi; accoglie studenti universitari a pranzo e artisti e commercianti locali la sera, offrendo un'atmosfera dinamica, ricca di conversazioni e risate.",
+      "tips_it": "Passate nel tardo pomeriggio per assistere all'ora sociale dei residenti.",
+      "description_es": "Roka Street Bistro capta el pulso de Rovaniemi; acoge a jóvenes universitarios a la hora del almuerzo y a artistas y comerciantes locales por las noches, ofreciendo un ambiente dinámico rico en conversación y risas.",
+      "tips_es": "Pásate a última hora de la tarde para presenciar la hora social de los lugareños."
     },
     {
       "id": "rollohalli",
@@ -2638,7 +2776,11 @@
       "tips": "Etkinlik takvimini kontrol edin ve erken gelerek mimariyi detaylıca inceleyin.",
       "tips_en": "Check the event calendar; arrive early to admire the architecture.",
       "subcategory": "Park",
-      "name_en": "Rollohalli"
+      "name_en": "Rollohalli",
+      "description_it": "L'iconica Rollohalli di Rovaniemi, la prima centrale elettrica degli anni '10, riflette il patrimonio industriale della città. Questa architettura in mattoni rossi è ora un imponente centro per mostre artistiche ed eventi culturali.",
+      "tips_it": "Consultate il calendario degli eventi e arrivate in anticipo per ammirare l'architettura.",
+      "description_es": "El icónico Rollohalli de Rovaniemi, la primera central eléctrica de la década de 1910, refleja el patrimonio industrial de la ciudad. Esta arquitectura de ladrillo rojo es ahora un impresionante centro para exposiciones artísticas y eventos culturales.",
+      "tips_es": "Consulta el calendario de eventos; llega temprano para admirar la arquitectura."
     },
     {
       "id": "roosevelt-cottage",
@@ -2659,7 +2801,11 @@
       "tips": "Ziyaretçi merkezinin yakınında, Arctic Circle hattını kaçırmayın.",
       "tips_en": "Don't miss the Arctic Circle line near the visitor center.",
       "subcategory": "Kulübe",
-      "name_en": "Roosevelt Cottage"
+      "name_en": "Roosevelt Cottage",
+      "description_it": "Simbolo della ricostruzione di Rovaniemi dopo la Seconda Guerra Mondiale, questo modesto cottage del 1950, costruito per Eleanor Roosevelt, fu il primo edificio del Circolo Polare Artico, segnando l'inizio del turismo nella regione.",
+      "tips_it": "Non perdetevi la linea del Circolo Polare Artico vicino al centro visitatori.",
+      "description_es": "Simbolizando la reconstrucción de Rovaniemi después de la Segunda Guerra Mundial, esta modesta cabaña de 1950, construida para Eleanor Roosevelt, fue el primer edificio del Círculo Polar Ártico, marcando el inicio del turismo.",
+      "tips_es": "No te pierdas la línea del Círculo Polar Ártico cerca del centro de visitantes."
     },
     {
       "name": "Rovaniemi Art Museum",
@@ -2681,7 +2827,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Müzeyi ziyaret sonrası Korundi Cafe'de yerel lezzetleri deneyimleyin.",
       "tips_en": "After visiting the museum, experience local delicacies at Korundi Cafe.",
-      "name_en": "Rovaniemi Art Museum"
+      "name_en": "Rovaniemi Art Museum",
+      "description_it": "All'interno di un ex deposito di autobus postali ristrutturato, questo museo espone arte moderna finlandese e nordica. Ospita la Collezione Jenny e Antti Wihuri, definendo il cuore artistico di Rovaniemi.",
+      "tips_it": "Dopo la visita al museo, gustate le prelibatezze locali al Korundi Cafe.",
+      "description_es": "Ubicado en una antigua estación de autobuses postal renovada, este museo exhibe arte moderno finlandés y nórdico. Presenta la Colección Jenny y Antti Wihuri, que define el corazón artístico de Rovaniemi.",
+      "tips_es": "Después de visitar el museo, prueba las delicias locales en Korundi Cafe."
     },
     {
       "name": "Rovaniemi Church",
@@ -2703,7 +2853,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "İç mekanın dingin atmosferinde huzurlu bir an geçirmek için ziyaret edin.",
       "tips_en": "Visit to experience a peaceful moment in its serene interior atmosphere.",
-      "name_en": "Rovaniemi Church"
+      "name_en": "Rovaniemi Church",
+      "description_it": "Ricostruita nel 1950, la Chiesa di Rovaniemi, distinta dalla sua architettura modernista e minimalista, ospita la pala d'altare 'La Fonte della Vita' di Antti Salmenlinna. Simboleggia la speranza del dopoguerra.",
+      "tips_it": "Visitatela per un momento di pace nella sua serena atmosfera interna.",
+      "description_es": "Reconstruida en 1950, la Iglesia de Rovaniemi, distinguida por su arquitectura modernista minimalista, alberga el retablo \"La Fuente de la Vida\" de Antti Salmenlinna. Simboliza la esperanza de posguerra.",
+      "tips_es": "Visítala para experimentar un momento de paz en su serena atmósfera interior."
     },
     {
       "id": "rovaniemi-city-hall",
@@ -2724,7 +2878,11 @@
       "tips": "Aalto Merkezi'nin bir parçası olarak dış mimarisini mutlaka inceleyin.",
       "tips_en": "As part of the Aalto Centre, definitely examine its exterior architecture.",
       "subcategory": "Bina",
-      "name_en": "Rovaniemi City Hall"
+      "name_en": "Rovaniemi City Hall",
+      "description_it": "Il capolavoro architettonico moderno di Alvar Aalto, il Municipio di Rovaniemi, completato nel 1988, è il cuore amministrativo della città. Rappresenta con orgoglio lo stile funzionalista unico di Aalto e la visione post-bellica di Rovaniemi.",
+      "tips_it": "Essendo parte del Centro Aalto, non mancate di esaminarne l'architettura esterna.",
+      "description_es": "La obra maestra de arquitectura moderna de Alvar Aalto, el Ayuntamiento de Rovaniemi, completado en 1988, es el corazón administrativo de la ciudad. Representa con orgullo el estilo funcionalista único de Aalto y la visión de posguerra de Rovaniemi.",
+      "tips_es": "Como parte del Centro Aalto, no dejes de examinar su arquitectura exterior."
     },
     {
       "id": "rovaniemi-disc-golf-park",
@@ -2745,7 +2903,11 @@
       "tips": "Kışın karda oynamak eşsiz bir Rovaniemi deneyimidir; ekipman kiralayın.",
       "tips_en": "Playing in snow during winter is a unique Rovaniemi experience; rent equipment.",
       "subcategory": "Spor",
-      "name_en": "Rovaniemi Disc Golf Park"
+      "name_en": "Rovaniemi Disc Golf Park",
+      "description_it": "Il Rovaniemi Disc Golf Park, una meraviglia dell'architettura sportiva contemporanea del Circolo Polare Artico, situato con maestria nella natura incontaminata della Lapponia, offre un'esperienza ricreativa unica.",
+      "tips_it": "Giocare sulla neve in inverno è un'esperienza unica a Rovaniemi; noleggiate l'attrezzatura.",
+      "description_es": "El Parque de Disc Golf de Rovaniemi, una maravilla de la arquitectura deportiva contemporánea del Círculo Polar Ártico, magistralmente situado en la naturaleza prístina de Laponia, ofrece una experiencia única de área recreativa.",
+      "tips_es": "Jugar en la nieve durante el invierno es una experiencia única en Rovaniemi; alquila el equipo."
     },
     {
       "id": "rovaniemi-library",
@@ -2766,7 +2928,11 @@
       "tips": "Kütüphanenin sessiz okuma alanlarını ve Aalto'nun mimarisini keşfedin.",
       "tips_en": "Explore the library's quiet reading areas and Aalto's architecture.",
       "subcategory": "Kütüphane",
-      "name_en": "Rovaniemi Library"
+      "name_en": "Rovaniemi Library",
+      "description_it": "Progettata da Alvar Aalto nel 1965, questa meraviglia architettonica funzionalista è una porta verso la conoscenza con la sua ricca collezione. Questa biblioteca iconica, un polo culturale a Rovaniemi, offre un'esperienza di lettura serena.",
+      "tips_it": "Esplorate le tranquille aree di lettura della biblioteca e l'architettura di Aalto.",
+      "description_es": "Diseñada por Alvar Aalto en 1965, esta maravilla arquitectónica funcionalista es una puerta al conocimiento con su rica colección. Esta icónica biblioteca, un centro cultural en Rovaniemi, ofrece una serena experiencia de lectura.",
+      "tips_es": "Explora las tranquilas zonas de lectura de la biblioteca y la arquitectura de Aalto."
     },
     {
       "id": "rovaniemi-local-history-museum",
@@ -2787,7 +2953,11 @@
       "tips": "Müzenin avlusundaki eski binaları ve geleneksel eşyaları keşfetmeyi unutmayın.",
       "tips_en": "Don't miss exploring the old buildings and traditional artifacts in the museum's courtyard.",
       "subcategory": "Tarih",
-      "name_en": "Rovaniemi Local History Museum"
+      "name_en": "Rovaniemi Local History Museum",
+      "description_it": "Il Museo di Storia Locale di Rovaniemi, ospitato nella fattoria in legno Pöykkölä degli anni '30, vanta una collezione affascinante che illustra la vita tradizionale della Lapponia, l'agricoltura, la pesca e la ricostruzione post-bellica.",
+      "tips_it": "Non mancate di esplorare gli antichi edifici e gli artefatti tradizionali nel cortile del museo.",
+      "description_es": "El Museo de Historia Local de Rovaniemi, ubicado en la granja de madera Pöykkölä de la década de 1930, cuenta con una cautivadora colección que muestra la vida tradicional lapona, la agricultura, la pesca y la reconstrucción de posguerra.",
+      "tips_es": "No te pierdas la exploración de los edificios antiguos y los artefactos tradicionales en el patio del museo."
     },
     {
       "id": "rovaniemi-theater",
@@ -2808,7 +2978,11 @@
       "tips": "Performans programını önceden kontrol edin ve biletlerinizi ayırtın.",
       "tips_en": "Check the performance schedule in advance and book your tickets.",
       "subcategory": "Tiyatro",
-      "name_en": "Rovaniemi Theater"
+      "name_en": "Rovaniemi Theater",
+      "description_it": "Il capolavoro di Alvar Aalto, il Teatro Civico di Rovaniemi, è un esempio impressionante di architettura moderna e patrimonio culturale. Cuore artistico della Lapponia, ospita spettacoli di prosa, musica e danza.",
+      "tips_it": "Consultate il programma degli spettacoli in anticipo e prenotate i vostri biglietti.",
+      "description_es": "La obra maestra de Alvar Aalto, el Teatro de la Ciudad de Rovaniemi, es un impresionante ejemplo de arquitectura moderna y patrimonio cultural. Como corazón artístico de Laponia, acoge representaciones de teatro, música y danza.",
+      "tips_es": "Consulta el programa de actuaciones con antelación y reserva tus entradas."
     },
     {
       "id": "rovaniemi-tourist-information",
@@ -2829,7 +3003,11 @@
       "tips": "Ziyaretinizi erken saatlere planlayın; popüler turlar ve konaklamalar için rezervasyon yaptırmadan önce güncel bilgileri buradan alın.",
       "tips_en": "Plan your visit early; get up-to-date information here before booking popular tours and accommodations.",
       "subcategory": "Turizm Ofisi",
-      "name_en": "Rovaniemi Tourist Information"
+      "name_en": "Rovaniemi Tourist Information",
+      "description_it": "L'Ufficio Informazioni Turistiche di Rovaniemi è la porta d'accesso all'Artico e la città natale ufficiale di Babbo Natale, situato nel cuore della Lapponia. La vostra guida affidabile per tutte le avventure nella regione.",
+      "tips_it": "Pianificate la vostra visita in anticipo; ottenete qui informazioni aggiornate prima di prenotare tour e alloggi popolari.",
+      "description_es": "La Oficina de Información Turística de Rovaniemi es la puerta de entrada al Ártico y la ciudad natal oficial de Papá Noel, ubicada en el corazón de Laponia. Tu guía fiable para todas las aventuras en la región.",
+      "tips_es": "Planifica tu visita con antelación; obtén información actualizada aquí antes de reservar tours populares y alojamientos."
     },
     {
       "id": "roy-club",
@@ -2850,7 +3028,11 @@
       "tips": "Etkinlik takvimini önceden kontrol ederek size özel bir deneyim yakalayın.",
       "tips_en": "Check the event calendar in advance to find an experience that suits you best.",
       "subcategory": "Gece Kulübü",
-      "name_en": "Roy Club"
+      "name_en": "Roy Club",
+      "description_it": "Il Roy Club, parte della consolidata vita sociale della città, offre eventi a tema ed esperienze interattive, forte della sua lunga tradizione.",
+      "tips_it": "Consultate il calendario degli eventi in anticipo per trovare l'esperienza che più vi si addice.",
+      "description_es": "Roy Club, parte de la vida social establecida de la ciudad, ofrece eventos temáticos y experiencias interactivas con su larga tradición.",
+      "tips_es": "Consulta el calendario de eventos con antelación para encontrar la experiencia que mejor se adapte a ti."
     },
     {
       "id": "safartica",
@@ -2871,7 +3053,11 @@
       "tips": "Popüler safariler için önceden rezervasyon yapın ve mutlaka sıcak giyinin.",
       "tips_en": "Book popular safaris in advance and definitely dress warmly.",
       "subcategory": "Tur",
-      "name_en": "Safartica"
+      "name_en": "Safartica",
+      "description_it": "Safartica, a Rovaniemi, fonde il ricco patrimonio artico della Lapponia con un design esperienziale. Offre safari tradizionali con renne e husky, creando avventure indimenticabili che riflettono lo spirito incantato di questa terra.",
+      "tips_it": "Prenotate i safari più richiesti con largo anticipo e, mi raccomando, vestitevi molto calorosamente!",
+      "description_es": "Safartica fusiona la rica herencia ártica de Laponia con un diseño experiencial en Rovaniemi. Ofrece safaris tradicionales de renos y huskies, creando aventuras inolvidables que reflejan el espíritu encantador de la región.",
+      "tips_es": "Reserve los safaris populares con antelación y, sin duda, vístase abrigado."
     },
     {
       "id": "saigon-noodle-bar",
@@ -2892,7 +3078,11 @@
       "tips": "Öğle vakti taze sushi tadın, kalabalık olmuyor.",
       "tips_en": "Savor fresh sushi during lunchtime; it's less crowded.",
       "subcategory": "Vietnam",
-      "name_en": "Saigon Noodle Bar"
+      "name_en": "Saigon Noodle Bar",
+      "description_it": "Nel cuore di Rovaniemi, piatti di noodle preparati al momento e ricchi di ingredienti autentici rivelano un tesoro culinario nascosto. I sapori orientali si fondono armoniosamente con un'atmosfera accogliente.",
+      "tips_it": "Assaporate il sushi fresco durante l'ora di pranzo; c'è meno folla e potrete godervelo al meglio.",
+      "description_es": "En el corazón de Rovaniemi, los platos de fideos recién preparados, repletos de ingredientes auténticos, revelan un tesoro culinario escondido. Los sabores orientales se fusionan a la perfección con un ambiente acogedor.",
+      "tips_es": "Saboree sushi fresco durante el almuerzo; hay menos gente."
     },
     {
       "id": "sampo-icebreaker",
@@ -2913,7 +3103,11 @@
       "tips": "Gemi turunuza başlamadan önce sıcak giysiler giyin ve kameralarınızı hazırlayın.",
       "tips_en": "Wear warm clothes before your ship tour and prepare your cameras.",
       "subcategory": "Gemi",
-      "name_en": "Sampo Icebreaker"
+      "name_en": "Sampo Icebreaker",
+      "description_it": "Costruita nel 1960, questa potente rompighiaccio artica è una meraviglia dell'ingegneria e un'icona della storia marittima. Offre viaggi tra i ghiacci e l'esperienza unica di nuotare nel mare ghiacciato.",
+      "tips_it": "Indossate abiti caldi prima del tour sulla nave e tenete pronte le vostre macchine fotografiche!",
+      "description_es": "Construido en 1960, este potente rompehielos ártico es una maravilla de la ingeniería y un icono de la historia marítima. Ofrece viajes gélidos y la singular experiencia de nadar en el mar helado.",
+      "tips_es": "Póngase ropa de abrigo antes de su tour en barco y prepare sus cámaras."
     },
     {
       "name": "Sampokeskus Shopping Center",
@@ -2935,7 +3129,11 @@
       "bestTime_en": "09:00 - 18:00",
       "tips": "Öğleden sonraları, hediyelik eşya dükkanlarını keşfedin.",
       "tips_en": "Explore the souvenir shops in the afternoon.",
-      "name_en": "Sampokeskus Shopping Center"
+      "name_en": "Sampokeskus Shopping Center",
+      "description_it": "Il Sampokeskus, nel cuore di Rovaniemi, attira gli acquirenti con le sue vetrine colorate e un'atmosfera calda e accattivante.",
+      "tips_it": "Esplorate i negozi di souvenir nel pomeriggio, quando l'atmosfera è più rilassata.",
+      "description_es": "Sampokeskus, en el corazón de Rovaniemi, atrae a los compradores con sus coloridas exhibiciones y una atmósfera cálida y cautivadora.",
+      "tips_es": "Explore las tiendas de souvenirs por la tarde."
     },
     {
       "id": "santa-claus-holiday-village",
@@ -2956,7 +3154,11 @@
       "tips": "Noel Baba'ya kartpostal gönderin; benzersiz Kuzey Kutup Dairesi damgası alacak.",
       "tips_en": "Send Santa a postcard; it gets a unique Arctic Circle postmark.",
       "subcategory": "Kır Evi",
-      "name_en": "Santa Claus Holiday Village"
+      "name_en": "Santa Claus Holiday Village",
+      "description_it": "Questo villaggio sul Circolo Polare Artico, con la sua architettura tradizionale finlandese, ospita la casa, l'ufficio e l'ufficio postale ufficiale di Babbo Natale. È un iconico fulcro globale dello spirito natalizio.",
+      "tips_it": "Inviate una cartolina a Babbo Natale; riceverà un timbro postale unico del Circolo Polare Artico!",
+      "description_es": "Este pueblo del Círculo Polar Ártico, con arquitectura tradicional finlandesa, alberga la casa, la oficina y la oficina de correos oficiales de Papá Noel. Un centro icónico del espíritu navideño global.",
+      "tips_es": "Envíe una postal a Papá Noel; recibirá un matasellos único del Círculo Polar Ártico."
     },
     {
       "id": "santa-claus-main-post-office",
@@ -2977,7 +3179,11 @@
       "tips": "Noel için mektup göndermek istiyorsanız erken gelin, posta kuyrukları uzun olabilir.",
       "tips_en": "If sending letters for Christmas, arrive early; postal queues can be long.",
       "subcategory": "Postane",
-      "name_en": "Santa's Main Post Office"
+      "name_en": "Santa's Main Post Office",
+      "description_it": "L'ufficio postale ufficiale di Babbo Natale a Rovaniemi elabora milioni di lettere. Con la sua atmosfera magica e il timbro postale unico del Circolo Polare Artico, offre un'esperienza indimenticabile e rinomata in tutto il mondo.",
+      "tips_it": "Se dovete spedire lettere per Natale, arrivate presto; le code all'ufficio postale possono essere lunghe.",
+      "description_es": "La oficina de correos oficial de Papá Noel en Rovaniemi procesa millones de cartas. Con su atmósfera mágica y su matasellos único del Círculo Polar Ártico, ofrece una experiencia inolvidable y de renombre mundial.",
+      "tips_es": "Si envía cartas para Navidad, llegue temprano; las colas postales pueden ser largas."
     },
     {
       "id": "santa-claus-office",
@@ -2998,7 +3204,11 @@
       "tips": "Noel Baba ile görüşmek için erken rezervasyon yapın, ana posta ofisini ziyaret edin.",
       "tips_en": "Book your Santa meeting early; visit the unique main post office.",
       "subcategory": "Noel Baba",
-      "name_en": "Santa Claus Office"
+      "name_en": "Santa Claus Office",
+      "description_it": "Questa autentica meraviglia architettonica lappone, situata sul Circolo Polare Artico, è l'ufficio ufficiale di Babbo Natale. Qui si raccolgono i desideri dei bambini, si gestisce il tempo e si diffonde lo spirito natalizio.",
+      "tips_it": "Prenotate il vostro incontro con Babbo Natale con largo anticipo; e non dimenticate di visitare l'unico ufficio postale principale!",
+      "description_es": "Esta auténtica maravilla arquitectónica lapona en el Círculo Polar Ártico es la oficina oficial de Papá Noel. Recoge los deseos de los niños, gestiona el tiempo y difunde el espíritu navideño.",
+      "tips_es": "Reserve su encuentro con Papá Noel con antelación; visite la singular oficina de correos principal."
     },
     {
       "id": "santa-claus-reindeer",
@@ -3019,7 +3229,11 @@
       "tips": "Sıcak giyinin; kışın ren geyiği deneyimleri gerçekten büyülüdür. Kızak turlarını önceden ayırtın.",
       "tips_en": "Dress warmly; winter reindeer experiences are truly magical. Book sled rides early.",
       "subcategory": "Aktivite",
-      "name_en": "Santa Claus Reindeer"
+      "name_en": "Santa Claus Reindeer",
+      "description_it": "Questa destinazione di Rovaniemi, profondamente radicata nella cultura Sámi, mette in mostra l'antica pratica dell'allevamento delle renne in Lapponia. Strutture tradizionali immerse in contesti naturali ospitano gli iconici compagni di Babbo Natale, offrendo esperienze uniche legate al patrimonio artico.",
+      "tips_it": "Vestitevi calorosamente; le esperienze invernali con le renne sono davvero magiche. Prenotate le gite in slitta con anticipo.",
+      "description_es": "Este destino de Rovaniemi, profundamente arraigado en la cultura sami, exhibe la antigua cría de renos de Laponia. Estructuras tradicionales en entornos naturales albergan a los icónicos compañeros de Papá Noel, ofreciendo experiencias únicas de la herencia ártica.",
+      "tips_es": "Vístase abrigado; las experiencias invernales con renos son verdaderamente mágicas. Reserve los paseos en trineo con antelación."
     },
     {
       "name": "Santa Claus Village",
@@ -3040,7 +3254,11 @@
       "tips": "Noel Baba'ya kendi mektubunuzu postalamayı unutmayın, özel damga ile gelir.",
       "tips_en": "Mail your own letter to Santa; it gets a special stamp.",
       "description_en": "Built with traditional Finnish architecture on the Arctic Circle, this village became Santa Claus's official residence in 1985, housing his Office and post office.",
-      "name_en": "Santa Claus Village"
+      "name_en": "Santa Claus Village",
+      "description_it": "Costruito con architettura tradizionale finlandese sul Circolo Polare Artico, questo villaggio è diventato la residenza ufficiale di Babbo Natale nel 1985, ospitando il suo Ufficio e l'ufficio postale.",
+      "tips_it": "Spedite la vostra lettera a Babbo Natale; riceverà un timbro speciale!",
+      "description_es": "Construido con arquitectura tradicional finlandesa en el Círculo Polar Ártico, este pueblo se convirtió en la residencia oficial de Papá Noel en 1985, albergando su Oficina y su oficina de correos.",
+      "tips_es": "Envíe su propia carta a Papá Noel; recibirá un sello especial."
     },
     {
       "id": "santas-forest-joulukan-mets",
@@ -3061,28 +3279,11 @@
       "tips": "Yürüyüşe çıkmadan önce sıcak çikolata alın.",
       "tips_en": "Grab a hot chocolate before heading out for a walk.",
       "subcategory": "Orman",
-      "name_en": "Santa's Forest (Joulukan Metsä)"
-    },
-    {
-      "id": "santas-hotel-santa-claus",
-      "name": "Santa's Hotel Santa Claus",
-      "category": "Deneyim",
-      "tags": [
-        "central",
-        "classic",
-        "sauna"
-      ],
-      "lat": 66.502595,
-      "lng": 25.732028,
-      "rating": 4.3,
-      "description": "Rovaniemi'de, Kuzey Kutup Dairesi'nin kalbinde yer alan bu modern ve masalsı otel, Noel Baba'nın resmi karargahı olarak benzersiz Arktik ve kutlama deneyimleri sunar.",
-      "description_en": "In Rovaniemi, heart of the Arctic Circle, this modern, fairytale-like hotel serves as Santa Claus's official headquarters, providing unique Arctic and festive experiences.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fsantas-hotel-santa-claus.jpg?alt=media",
-      "price": "high",
-      "tips": "Noel döneminde rezervasyonları erken yapın ve husky safarilerini kaçırmayın!",
-      "tips_en": "Book early for Christmas and don't miss the husky safaris!",
-      "subcategory": "Otel",
-      "name_en": "Santa's Hotel Santa Claus"
+      "name_en": "Santa's Forest (Joulukan Metsä)",
+      "description_it": "La Foresta di Babbo Natale (Joulukan Metsä) a Rovaniemi offre un'esperienza ricca e unica, immersa in una bellezza naturale mozzafiato e suoni rilassanti.",
+      "tips_it": "Prendete una cioccolata calda prima di avventurarvi per una passeggiata.",
+      "description_es": "El Bosque de Papá Noel (Joulukan Metsä) en Rovaniemi ofrece una experiencia rica y única, llena de una belleza natural impresionante y sonidos relajantes.",
+      "tips_es": "Tome un chocolate caliente antes de salir a caminar."
     },
     {
       "id": "santas-igloos-arctic-circle",
@@ -3103,7 +3304,11 @@
       "tips": "Kutup Işıkları'nı görmek için en iyi zaman kış aylarıdır; erken rezervasyon yapın.",
       "tips_en": "Winter is best for Northern Lights; book early for availability.",
       "subcategory": "Otel",
-      "name_en": "Santa's Igloos Arctic Circle"
+      "name_en": "Santa's Igloos Arctic Circle",
+      "description_it": "Sul Circolo Polare Artico di Rovaniemi si trovano igloo di vetro, adiacenti al Villaggio di Babbo Natale. Meraviglie architettoniche progettate per l'osservazione dell'Aurora Boreale, offrono un'esperienza artica davvero unica.",
+      "tips_it": "L'inverno è il periodo migliore per l'Aurora Boreale; prenotate con largo anticipo per assicurarvi la disponibilità.",
+      "description_es": "El Círculo Polar Ártico de Rovaniemi cuenta con iglús de cristal, adyacentes al Pueblo de Papá Noel. Maravillas arquitectónicas diseñadas para la observación de las Auroras Boreales, ofrecen una experiencia ártica única.",
+      "tips_es": "El invierno es la mejor época para las Auroras Boreales; reserve con antelación para asegurar disponibilidad."
     },
     {
       "id": "santas-pizza-burger",
@@ -3124,7 +3329,11 @@
       "tips": "Yerel bira seçeneklerini deneyin, ruhunuzu besler.",
       "tips_en": "Try the local beer options; they nourish the spirit.",
       "subcategory": "Fast Food",
-      "name_en": "Santa's Pizza & Burger"
+      "name_en": "Santa's Pizza & Burger",
+      "description_it": "Nel cuore di Rovaniemi, questo locale offre sapori autentici che vanno oltre la pizza ordinaria. Ogni morso vi riscalderà contro il freddo dell'inverno.",
+      "tips_it": "Provate le opzioni di birra locale; nutriranno lo spirito!",
+      "description_es": "En el corazón de Rovaniemi, este lugar ofrece sabores auténticos que trascienden la pizza ordinaria. Cada bocado le reconforta contra el frío del invierno.",
+      "tips_es": "Pruebe las opciones de cerveza local; nutren el espíritu."
     },
     {
       "id": "santas-salmon-place",
@@ -3145,7 +3354,11 @@
       "tips": "En iyi somon için kesinlikle rezervasyon yaptırın.",
       "tips_en": "Definitely make a reservation for the best salmon.",
       "subcategory": "Yerel",
-      "name_en": "Santa's Salmon Place (Food)"
+      "name_en": "Santa's Salmon Place (Food)",
+      "description_it": "I piatti di salmone, sapientemente miscelati con sapori locali a Rovaniemi, provengono dalle acque fresche e gelide dell'Artico. Ogni boccone porta una calda intimità nelle fredde notti invernali.",
+      "tips_it": "Assolutamente, prenotate per assaporare il miglior salmone!",
+      "description_es": "Los platos de salmón, fusionados con sabores locales en Rovaniemi, provienen de las frescas y frías aguas del Ártico. Cada bocado aporta una cálida intimidad a las frías noches de invierno.",
+      "tips_es": "Definitivamente, haga una reserva para disfrutar del mejor salmón."
     },
     {
       "name": "SantaPark",
@@ -3166,28 +3379,11 @@
       "tips": "Kış aylarında kalın giysiler giyin, sıcak kalın.",
       "tips_en": "Dress warmly in winter months to stay cozy.",
       "description_en": "At SantaPark, the warmth of wooden structures reflecting a winter fairy tale atmosphere intertwines with dim lights and traditional Scandinavian motifs.",
-      "name_en": "SantaPark"
-    },
-    {
-      "id": "santasport-apartment-hotel",
-      "name": "Santasport Apartment Hotel",
-      "category": "Deneyim",
-      "tags": [
-        "sports",
-        "family",
-        "active"
-      ],
-      "lat": 66.497171,
-      "lng": 25.767382,
-      "rating": 4.4,
-      "description": "Rovaniemi'nin Aalto'nun geyikbaşı planıyla yeniden doğuş vizyonunu sürdüren Santasport, fonksiyonel mimarisiyle Arktik spor ve wellness merkezi olarak bölgenin aktif yaşam kalbini oluşturur.",
-      "description_en": "Embodying Rovaniemi's post-war rebuilding vision by Aalto, Santasport, with functional architecture, is the Arctic sports and wellness hub, heart of active regional life.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fsantasport-apartment-hotel.jpg?alt=media",
-      "price": "medium",
-      "tips": "Buz yüzmeyi veya sauna deneyimini mutlaka yaşayın!",
-      "tips_en": "Definitely experience ice swimming or a sauna!",
-      "subcategory": "Apart",
-      "name_en": "Santasport Apartment Hotel"
+      "name_en": "SantaPark",
+      "description_it": "A SantaPark, il calore delle strutture in legno che riflettono un'atmosfera da fiaba invernale si intreccia con luci soffuse e motivi tradizionali scandinavi.",
+      "tips_it": "Vestitevi calorosamente nei mesi invernali per rimanere al caldo e godervi appieno l'esperienza.",
+      "description_es": "En SantaPark, la calidez de las estructuras de madera que reflejan una atmósfera de cuento de hadas invernal se entrelaza con luces tenues y motivos escandinavos tradicionales.",
+      "tips_es": "Vístase abrigado en los meses de invierno para mantenerse cómodo."
     },
     {
       "id": "santasport-institute",
@@ -3208,7 +3404,11 @@
       "tips": "Santasport'un kapsamlı spor tesislerini deneyimlemek için önceden rezervasyon yapın.",
       "tips_en": "Book in advance to experience Santasport's comprehensive sports facilities.",
       "subcategory": "Spor",
-      "name_en": "Santasport Institute"
+      "name_en": "Santasport Institute",
+      "description_it": "Il Santasport Institute a Rovaniemi si erge come il principale centro sportivo e di benessere della Lapponia. La sua architettura moderna ospita servizi di istruzione, sport di alto livello e benessere, vitalizzando la regione.",
+      "tips_it": "Prenotate in anticipo per sperimentare le complete strutture sportive del Santasport.",
+      "description_es": "El Instituto Santasport en Rovaniemi se erige como el principal centro deportivo y de bienestar de Laponia. Su arquitectura moderna alberga servicios de educación, deportes de alto rendimiento y bienestar, vitalizando la región.",
+      "tips_es": "Reserve con antelación para experimentar las completas instalaciones deportivas de Santasport."
     },
     {
       "id": "scandic-pohjanhovi",
@@ -3229,7 +3429,11 @@
       "tips": "Kemi Nehri manzaralı restoranında yerel lezzetleri deneyimleyin.",
       "tips_en": "Experience local flavors at its restaurant with Kemi River views.",
       "subcategory": "Otel",
-      "name_en": "Scandic Pohjanhovi"
+      "name_en": "Scandic Pohjanhovi",
+      "description_it": "Progettato dal celebre Alvar Aalto, questo iconico hotel è un simbolo della ricostruzione post-bellica di Rovaniemi. La sua architettura funzionalista incarna l'ospitalità moderna in un contesto storico di grande valore.",
+      "tips_it": "Non perdete l'occasione di assaporare i sapori locali nel suo ristorante, godendo di una splendida vista sul fiume Kemi.",
+      "description_es": "Diseñado por Alvar Aalto, este icónico hotel simboliza la reconstrucción de Rovaniemi después de la guerra. Su arquitectura funcionalista exhibe la hospitalidad moderna en un hito histórico.",
+      "tips_es": "Experimente los sabores locales en su restaurante con vistas al río Kemi."
     },
     {
       "id": "scandic-rovaniemi-city",
@@ -3250,7 +3454,11 @@
       "tips": "Şehir merkezindeki konumu sayesinde Arktikum ve Lordi Meydanı'na yürüyerek kolayca ulaşabilirsiniz.",
       "tips_en": "Thanks to its city center location, you can easily walk to Arktikum and Lordi Square.",
       "subcategory": "Otel",
-      "name_en": "Scandic Rovaniemi City"
+      "name_en": "Scandic Rovaniemi City",
+      "description_it": "Lo Scandic Rovaniemi City propone un'esperienza di soggiorno moderna nel cuore pulsante di Rovaniemi, a due passi dall'Arktikum e da Lordi Square. Incarna perfettamente il volto contemporaneo della città dopo la sua rinascita.",
+      "tips_it": "Grazie alla sua posizione centralissima, potrete raggiungere comodamente a piedi l'Arktikum e la vivace Lordi Square.",
+      "description_es": "Scandic Rovaniemi City ofrece una moderna experiencia de alojamiento en el corazón de Rovaniemi, cerca de Arktikum y la Plaza Lordi. Refleja la cara moderna de la ciudad tras su reconstrucción.",
+      "tips_es": "Gracias a su ubicación céntrica, puede caminar fácilmente hasta Arktikum y la Plaza Lordi."
     },
     {
       "id": "shell-helmi-simpukka-napapiiri",
@@ -3271,7 +3479,11 @@
       "tips": "Kuzey Kutup Çizgisi'ni geçtiğinizi gösteren sertifikayı almadan önce veya sonra pratik bir yemek molası için ideal.",
       "tips_en": "Ideal for a practical meal stop before or after getting your Arctic Circle crossing certificate.",
       "subcategory": "Kafeterya",
-      "name_en": "Shell Helmi Simpukka Napapiiri"
+      "name_en": "Shell Helmi Simpukka Napapiiri",
+      "description_it": "Situata proprio sul Circolo Polare Artico a Napapiiri, questa stazione Shell, con il suo accogliente ristorante Helmi Simpukka, offre ai viaggiatori una piacevole pausa. Qui potrete gustare i sapori tradizionali finlandesi e fare una sosta pratica e ristoratrice.",
+      "tips_it": "È il luogo ideale per una sosta pratica e gustosa, perfetta prima o dopo aver ritirato il vostro certificato di attraversamento del Circolo Polare Artico.",
+      "description_es": "Situada directamente en el Círculo Polar Ártico en Napapiiri, esta estación Shell con su restaurante Helmi Simpukka ofrece a los viajeros un cálido descanso. Disfrute de los sabores tradicionales finlandeses y de una parada práctica.",
+      "tips_es": "Ideal para una parada práctica para comer antes o después de obtener su certificado de cruce del Círculo Polar Ártico."
     },
     {
       "id": "sierijrvi-reindeer-farm",
@@ -3292,7 +3504,11 @@
       "tips": "Ren geyiği kızak turunu deneyimlemek için önceden rezervasyon yaptırın.",
       "tips_en": "Book in advance to experience the reindeer sleigh ride.",
       "subcategory": "Çiftlik",
-      "name_en": "Sierijärvi Reindeer Farm"
+      "name_en": "Sierijärvi Reindeer Farm",
+      "description_it": "A Rovaniemi, la fattoria Sierijärvi custodisce gelosamente generazioni di tradizione Sami nell'allevamento delle renne. Attraverso la sua autentica architettura in legno, rivela la ricchezza culturale e storica della vita artica.",
+      "tips_it": "Consigliamo di prenotare in anticipo per non perdere l'emozionante esperienza del giro in slitta trainata dalle renne.",
+      "description_es": "En Rovaniemi, la Granja Sierijärvi, que conserva generaciones de la tradición sami de pastoreo de renos, exhibe la riqueza cultural e histórica de la vida ártica a través de su auténtica arquitectura de madera.",
+      "tips_es": "Reserve con antelación para experimentar el paseo en trineo de renos."
     },
     {
       "id": "sky-ounasvaara-roof-terrace",
@@ -3313,7 +3529,11 @@
       "tips": "Kuzey ışıkları için alacakaranlıkta git, sıcak kahveni yudumla.",
       "tips_en": "Go at twilight for the Northern Lights, sip your warm coffee.",
       "subcategory": "Teras",
-      "name_en": "Sky Ounasvaara Roof Terrace"
+      "name_en": "Sky Ounasvaara Roof Terrace",
+      "description_it": "Arroccata sulla cima di Ounasvaara, questa terrazza offre una serenità mozzafiato, dove l'antica natura artica contrasta in modo sorprendente con le luci moderne di Rovaniemi. Qui, un silenzio senza tempo echeggia in questo pacifico punto di osservazione contemporaneo.",
+      "tips_it": "Recatevi al crepuscolo per ammirare l'Aurora Boreale, sorseggiando un caffè caldo in un'atmosfera magica.",
+      "description_es": "Encaramada en la cima de Ounasvaara, la impresionante serenidad de la antigua naturaleza ártica contrasta sorprendentemente con las luces modernas de la ciudad de Rovaniemi. Aquí, el silencio atemporal resuena en este pacífico punto de observación actual.",
+      "tips_es": "Vaya al anochecer para ver las Auroras Boreales, mientras saborea su café caliente."
     },
     {
       "id": "snowman-world",
@@ -3334,28 +3554,11 @@
       "tips": "Kat kat giyinin; buz bardayken ekstra sıcak tutacaktır.",
       "tips_en": "Dress warmly in layers; the ice bar is very cold.",
       "subcategory": "Kar Parkı",
-      "name_en": "Snowman World"
-    },
-    {
-      "id": "snowman-world-glass-resort",
-      "name": "Snowman World Glass Resort",
-      "category": "Deneyim",
-      "tags": [
-        "modern",
-        "glass",
-        "luxury"
-      ],
-      "lat": 66.542649,
-      "lng": 25.845896,
-      "rating": 4.8,
-      "description": "Rovaniemi'nin modern cam iglo ve kar kompleksi, mimari bir harika olarak eşsiz Kuzey Kutbu konaklaması sunar. Kuzey Işıkları izlemeye yönelik tasarlanan tesis, Laponya'nın eşsiz kış deneyimidir.",
-      "description_en": "Rovaniemi's modern glass igloo and snow complex, an architectural marvel, offers unparalleled Arctic accommodation. Designed for Northern Lights viewing, it embodies Lapland's unique winter experience.",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Fsnowman-world-glass-resort.jpg?alt=media",
-      "price": "high",
-      "tips": "Kuzey Işıkları için popüler dönemlerde erken rezervasyon yapmak önemlidir.",
-      "tips_en": "Booking early is crucial during popular periods for Northern Lights viewing.",
-      "subcategory": "Otel",
-      "name_en": "Snowman World Glass Resort"
+      "name_en": "Snowman World",
+      "description_it": "Ricostruito ogni anno a Rovaniemi, questo capolavoro temporaneo di architettura in neve e ghiaccio è una vera espressione dell'arte artica. Le sue sculture, il bar e i ristoranti offrono un'esperienza invernale davvero unica e indimenticabile.",
+      "tips_it": "Vestitevi a strati e molto caldamente; il bar di ghiaccio è, come potete immaginare, estremamente freddo!",
+      "description_es": "Reconstruido anualmente en Rovaniemi, esta arquitectura de nieve y hielo es una obra maestra temporal del arte ártico. Sus esculturas, bar y restaurantes ofrecen una experiencia invernal única.",
+      "tips_es": "Vístase con varias capas de ropa abrigada; el bar de hielo es muy frío."
     },
     {
       "id": "syvsenvaara-fell",
@@ -3376,7 +3579,11 @@
       "tips": "Günü batmadan önce muhteşem manzarayı yakalayın.",
       "tips_en": "Catch the stunning views before sunset.",
       "subcategory": "Tepelik",
-      "name_en": "Syväsenvaara Fell"
+      "name_en": "Syväsenvaara Fell",
+      "description_it": "Il Syväsenvaara Fell intreccia antiche leggende Sami con la possibilità di un'esplorazione serena, invitando i visitatori a deliziarsi con la flora locale lungo i suoi suggestivi sentieri escursionistici.",
+      "tips_it": "Non perdetevi le viste mozzafiato, specialmente poco prima del tramonto, quando i colori si accendono.",
+      "description_es": "El monte Syväsenvaara entrelaza leyendas sami con una exploración serena, invitando a los visitantes a deleitarse con la flora local a lo largo de sus senderos.",
+      "tips_es": "Disfrute de las impresionantes vistas antes del atardecer."
     },
     {
       "id": "taiga-koru",
@@ -3397,7 +3604,11 @@
       "tips": "Pencereden dışarı bakarak çayınızı yudumlayın.",
       "tips_en": "Sip your tea while gazing out the window.",
       "subcategory": "Mücevher",
-      "name_en": "Taiga Koru"
+      "name_en": "Taiga Koru",
+      "description_it": "Il ricco aroma del caffè si fonde con la calda texture dei prodotti artigianali esposti sugli scaffali in legno; la brezza fredda accarezza la pelle mentre l'esperienza di shopping avvolge i sensi in un'atmosfera unica.",
+      "tips_it": "Sorseggiate una tazza di tè caldo, lasciandovi incantare dalla vista che si apre oltre la finestra.",
+      "description_es": "El rico aroma del café se mezcla con la cálida textura de los productos artesanales en los estantes de madera; la brisa fría acaricia su piel mientras la experiencia de compra envuelve su mente.",
+      "tips_es": "Disfrute de su té mientras contempla el paisaje por la ventana."
     },
     {
       "id": "three-elves-restaurant",
@@ -3418,7 +3629,11 @@
       "tips": "Rezervasyon yaptırmayı unutmayın; sıklıkla doluyorlar.",
       "tips_en": "Don't forget to make a reservation; they often fill up.",
       "subcategory": "Lapon",
-      "name_en": "Three Elves Restaurant"
+      "name_en": "Three Elves Restaurant",
+      "description_it": "Situato nel cuore di Rovaniemi, il ristorante Three Elves propone una sorprendente torta di mele arricchita con cipolle caramellate e olio al tartufo. Ogni morso è un'armonia calda e dolce, un'esperienza culinaria da non perdere.",
+      "tips_it": "Non dimenticate di prenotare in anticipo; il locale è molto popolare e spesso si riempie rapidamente.",
+      "description_es": "Ubicado en el corazón de Rovaniemi, Three Elves ofrece una tarta de manzana enriquecida con cebolla caramelizada y aceite de trufa. Cada bocado presenta una armonía cálida y dulce.",
+      "tips_es": "No olvide hacer una reserva; suelen llenarse."
     },
     {
       "id": "uitto-pub",
@@ -3439,7 +3654,11 @@
       "tips": "Eski tomrukçuluk hikayelerini dinlerken yerel biraları deneyimleyin; gerçek Fin ruhu.",
       "tips_en": "Experience local beers while listening to old logging stories; truly Finnish spirit.",
       "subcategory": "Pub",
-      "name_en": "Uitto Pub"
+      "name_en": "Uitto Pub",
+      "description_it": "Adagiato sulle rive del fiume Kemijoki a Rovaniemi, questo autentico edificio finlandese racchiude una ricca storia legata al disboscamento. La sua peculiare architettura in legno preserva il vibrante patrimonio culturale degli antichi boscaioli.",
+      "tips_it": "Assaporate le birre locali mentre ascoltate le affascinanti storie dei boscaioli di un tempo; un'immersione autentica nello spirito finlandese.",
+      "description_es": "Ubicado en la orilla del río Kemijoki en Rovaniemi, esta auténtica estructura finlandesa encarna una rica historia maderera. Su singular arquitectura de madera preserva la vibrante herencia cultural de los antiguos leñadores.",
+      "tips_es": "Pruebe las cervezas locales mientras escucha antiguas historias de leñadores; el verdadero espíritu finlandés."
     },
     {
       "id": "vaattunki-wilderness-area",
@@ -3462,7 +3681,11 @@
       "tips": "Kuzey ışıklarını görmek için karanlık bir alana gidin.",
       "tips_en": "Head to a dark spot to catch the Northern Lights.",
       "subcategory": "Yürüyüş",
-      "name_en": "Vaattunki Wilderness Resort"
+      "name_en": "Vaattunki Wilderness Resort",
+      "description_it": "A soli cinque minuti dalla frenesia della vita moderna, vi attende un'oasi unica nella natura, perfetta per ritrovare la tranquillità e dedicarsi all'esplorazione con i propri cari.",
+      "tips_it": "Dirigetevi verso un punto buio e isolato per avere le migliori possibilità di ammirare l'incanto dell'Aurora Boreale.",
+      "description_es": "A solo cinco minutos de la vida moderna, un área única para la tranquilidad y la exploración con sus seres queridos le espera en plena naturaleza.",
+      "tips_es": "Diríjase a un lugar oscuro para avistar las Auroras Boreales."
     },
     {
       "id": "valley-of-snowmen",
@@ -3483,7 +3706,11 @@
       "tips": "Ziyaretinizi geceye denk getirin; aydınlatmalar heykelleri büyülü kılar.",
       "tips_en": "Time your visit for evening; illuminations render the sculptures truly magical.",
       "subcategory": "Park",
-      "name_en": "Valley of Snowmen"
+      "name_en": "Valley of Snowmen",
+      "description_it": "Esaltando lo spirito invernale di Rovaniemi, questa valle ospita ogni anno monumentali sculture di neve e ghiaccio, magistralmente realizzate. È una celebrazione effimera dell'antica e affascinante architettura artica della Lapponia.",
+      "tips_it": "Programmate la vostra visita per la sera: le illuminazioni rendono le sculture ancora più suggestive e magiche.",
+      "description_es": "Elevando el espíritu invernal de Rovaniemi, este valle alberga anualmente monumentales esculturas de nieve y hielo magistralmente construidas. Es una celebración efímera de la antigua arquitectura ártica de Laponia.",
+      "tips_es": "Programe su visita para la tarde; las iluminaciones hacen que las esculturas sean verdaderamente mágicas."
     },
     {
       "id": "vikakongs-rapids",
@@ -3504,7 +3731,11 @@
       "tips": "Güneş doğarken gelin, renkli manzarayı kaçırmayın.",
       "tips_en": "Come at sunrise to catch the vibrant scenery.",
       "subcategory": "Nehir",
-      "name_en": "Vikaköngäs Rapids"
+      "name_en": "Vikaköngäs Rapids",
+      "description_it": "Le rapide di Vikaköngäs, culla di antiche leggende Sami popolate da spiriti dell'acqua, sono un luogo affascinante che testimonia la potenza primordiale della natura.",
+      "tips_it": "Venite all'alba per catturare la vibrante bellezza del paesaggio, quando la natura si risveglia.",
+      "description_es": "Los Rápidos de Vikaköngäs, cuna de antiguas leyendas llenas de espíritus del agua en la cultura sami, son un sitio cautivador que atestigua el poder de la naturaleza.",
+      "tips_es": "Venga al amanecer para capturar el vibrante paisaje."
     },
     {
       "id": "wanha-mestari",
@@ -3525,7 +3756,11 @@
       "tips": "Yerel biralar eşliğinde Fin pub kültürünü en iyi akşam saatlerinde yaşayın.",
       "tips_en": "Experience Finnish pub culture best in the evening, accompanied by local beers.",
       "subcategory": "Pub",
-      "name_en": "Wanha Mestari"
+      "name_en": "Wanha Mestari",
+      "description_it": "Il Wanha Mestari è una vera e propria pietra miliare della consolidata cultura dei pub della città. Qui potrete vivere l'autentica atmosfera finlandese, in un genuino punto di incontro locale che accoglie avventori da decenni.",
+      "tips_it": "L'esperienza della cultura dei pub finlandesi si vive al meglio la sera, sorseggiando birre locali in compagnia.",
+      "description_es": "Wanha Mestari es un pilar de la arraigada cultura de pubs de la ciudad. Experimente la auténtica atmósfera finlandesa en este genuino punto de encuentro local durante décadas.",
+      "tips_es": "Experimente la cultura de pub finlandesa en su mejor momento por la noche, acompañada de cervezas locales."
     },
     {
       "id": "wild-nordic-finland",
@@ -3546,7 +3781,11 @@
       "tips": "Kışın kat kat giyinin ve her deneyimi önceden ayırtın.",
       "tips_en": "Dress warmly in layers for winter; book experiences well in advance.",
       "subcategory": "Tur",
-      "name_en": "Wild Nordic Finland"
+      "name_en": "Wild Nordic Finland",
+      "description_it": "Wild Nordic Finland a Rovaniemi celebra l'antica cultura Sámi e l'architettura naturale dell'Artico, offrendo esperienze uniche che spaziano dalla vita tradizionale alle foreste ghiacciate, fino all'incanto dell'Aurora Boreale.",
+      "tips_it": "Vestitevi caldamente a strati per affrontare l'inverno artico e prenotate le vostre esperienze con largo anticipo per assicurarvi un posto.",
+      "description_es": "Wild Nordic Finland en Rovaniemi realza la ancestral cultura sami y la arquitectura natural del Ártico, ofreciendo experiencias únicas que albergan la vida tradicional, bosques congelados y las Auroras Boreales.",
+      "tips_es": "Vístase con varias capas de ropa abrigada para el invierno; reserve las experiencias con mucha antelación."
     },
     {
       "id": "wingston",
@@ -3567,7 +3806,11 @@
       "tips": "Yerli avcıların tariflerine göz atın, ilham alabilirsiniz.",
       "tips_en": "Check out local hunters' recipes for inspiration.",
       "subcategory": "Fast Food",
-      "name_en": "Wingston"
+      "name_en": "Wingston",
+      "description_it": "Nel cuore di Rovaniemi, la cultura gastronomica e quella dei locali offrono un'esperienza unica, sapientemente fusa con le tradizioni Sami.",
+      "tips_it": "Per un tocco autentico, prova a scoprire le ricette dei cacciatori locali.",
+      "description_es": "En el corazón de Rovaniemi, la cultura culinaria y de bebidas ofrece una experiencia única fusionada con las tradiciones sami.",
+      "tips_es": "Consulte las recetas de los cazadores locales para inspirarse."
     },
     {
       "id": "yuca",
@@ -3588,7 +3831,11 @@
       "tips": "Pencereden dışarı bakarken bir çay sipariş edin.",
       "tips_en": "Order a tea while gazing out the window.",
       "subcategory": "Meksika",
-      "name_en": "Yuca"
+      "name_en": "Yuca",
+      "description_it": "L'aroma del caffè da Yuca è un caldo abbraccio contro l'aria gelida di Rovaniemi, mentre i passi risuonano sul pavimento in legno.",
+      "tips_it": "Sorseggia un tè ammirando il paesaggio dalla finestra.",
+      "description_es": "El aroma del café en Yuca ofrece un cálido abrazo contra el aire frío de Rovaniemi, con pasos que resuenan en el suelo de madera.",
+      "tips_es": "Pida un té mientras contempla el paisaje por la ventana."
     },
     {
       "id": "zoomit",
@@ -3609,7 +3856,11 @@
       "tips": "Krema köpüklü kahvenizi log cabin şöminesi önünde için.",
       "tips_en": "Enjoy your cream-topped coffee in front of the log cabin fireplace.",
       "subcategory": "Bar",
-      "name_en": "Zoomit"
+      "name_en": "Zoomit",
+      "description_it": "La bellezza incontaminata dei paesaggi innevati si armonizza deliziosamente con gli interni caldi e in legno di Zoomit.",
+      "tips_it": "Gusta il tuo caffè con panna davanti al camino della baita in legno.",
+      "description_es": "La belleza prístina de los paisajes cubiertos de nieve armoniza deliciosamente con el cálido interior de madera de Zoomit.",
+      "tips_es": "Disfrute de su café con nata frente a la chimenea de la cabaña de troncos."
     },
     {
       "name": "Reindeer Sleigh Ride",
@@ -3629,7 +3880,77 @@
       "imageUrl": "https://firebasestorage.googleapis.com/v0/b/myway-3fe75.firebasestorage.app/o/cities%2Frovaniemi%2Freindeer_sleigh_ride.jpg?alt=media",
       "source": "firebase",
       "tips": "İlkbahar aylarında daha az kalabalık için gidin.",
-      "tips_en": "Visit during spring months for fewer crowds."
+      "tips_en": "Visit during spring months for fewer crowds.",
+      "description_it": "Rovaniemi, il leggendario villaggio di Babbo Natale, offre un affascinante viaggio invernale a bordo di una slitta trainata dalle renne.",
+      "tips_it": "Per goderti l'esperienza con meno folla, scegli i mesi primaverili.",
+      "description_es": "Rovaniemi, el legendario pueblo de Papá Noel, ofrece un cautivador viaje invernal en trineo de renos.",
+      "tips_es": "Visite durante los meses de primavera para evitar las multitudes."
+    },
+    {
+      "id": "gen_ChIJd7lPxc9LK0QRoi2yUUZyu8E",
+      "name": "Hanki",
+      "name_en": "Hanki",
+      "category": "Restoran",
+      "area": "Korkalonkatu 2 C",
+      "description": "Rovaniemi'de otantik Kore lezzetleri sunan bu restoran, sıcak ve samimi atmosferiyle dikkat çekiyor. Taze ve özenle hazırlanmış yemekleri ile misafirlerine keyifli bir deneyim sunuyor.",
+      "description_en": "This restaurant in Rovaniemi offers authentic Korean flavors in a warm and cozy atmosphere. It provides a delightful experience with its fresh and carefully prepared dishes.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/rovaniemi/gen_ChIJd7lPxc9LK0QRoi2yUUZyu8E.jpg",
+      "lat": 66.4978107,
+      "lng": 25.7295505,
+      "rating": 4.9,
+      "reviewCount": 1124,
+      "price": "medium",
+      "tags": [
+        "restoran",
+        "popüler"
+      ],
+      "source": "places_textsearch",
+      "description_it": "Questo ristorante a Rovaniemi propone autentici sapori coreani in un'atmosfera calda e accogliente. Un'esperienza deliziosa garantita dai suoi piatti freschi e preparati con cura.",
+      "description_es": "Este restaurante en Rovaniemi ofrece auténticos sabores coreanos en un ambiente cálido y acogedor. Proporciona una experiencia deliciosa con sus platos frescos y cuidadosamente preparados."
+    },
+    {
+      "id": "gen_ChIJJZTa61Cw1EURd0tb2RkxrzA",
+      "name": "Arctic SnowHotel & Glass Igloos",
+      "name_en": "Arctic SnowHotel & Glass Igloos",
+      "category": "Restoran",
+      "area": "Lehtoahontie 27",
+      "description": "Rovaniemi'de yer alan bu macera dolu otel, kar odaları ve cam igloların yanı sıra kar şapeli, üç restoran ve saunalarıyla eşsiz bir konaklama sunuyor. Buz ve kar yapıları her yıl yeniden inşa ediliyor.",
+      "description_en": "Located in Rovaniemi, this adventurous hotel offers unique accommodation with snow rooms and glass igloos, a snow chapel, three restaurants, and saunas. The ice and snow structures are rebuilt every year.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/rovaniemi/gen_ChIJJZTa61Cw1EURd0tb2RkxrzA.jpg",
+      "lat": 66.6373212,
+      "lng": 25.3439064,
+      "rating": 4.5,
+      "reviewCount": 1820,
+      "price": "medium",
+      "tags": [
+        "restoran",
+        "popüler"
+      ],
+      "source": "places_textsearch",
+      "description_it": "Situato a Rovaniemi, questo avventuroso hotel offre sistemazioni uniche con camere di neve e igloo di vetro, una cappella di neve, tre ristoranti e saune. Le strutture di ghiaccio e neve vengono ricostruite ogni anno.",
+      "description_es": "Ubicado en Rovaniemi, este aventurero hotel ofrece alojamiento único con habitaciones de nieve e iglús de cristal, una capilla de nieve, tres restaurantes y saunas. Las estructuras de hielo y nieve se reconstruyen cada año."
+    },
+    {
+      "id": "gen_ChIJswdeu00bdkgReAjdjnjxnTs",
+      "name": "Ye Olde Mitre, Holborn",
+      "name_en": "Ye Olde Mitre, Holborn",
+      "category": "Bar",
+      "area": "1 Ely Ct",
+      "description": "Rovaniemi'de gizli bir ara sokakta yer alan bu geleneksel bar, tarihi resimlerle süslenmiş otantik bir atmosfere sahiptir. Ziyaretçiler, zamanın dokunmadığı bir deneyim yaşayabilir.",
+      "description_en": "Tucked away in a hidden alley in Rovaniemi, this traditional bar offers an authentic atmosphere adorned with historical pictures. Visitors can experience a place untouched by time.",
+      "imageUrl": "https://storage.googleapis.com/myway-3fe75.firebasestorage.app/cities/rovaniemi/gen_ChIJswdeu00bdkgReAjdjnjxnTs.jpg",
+      "lat": 51.5184368,
+      "lng": -0.1073928,
+      "rating": 4.7,
+      "reviewCount": 3337,
+      "price": "medium",
+      "tags": [
+        "bar",
+        "popüler"
+      ],
+      "source": "places_textsearch",
+      "description_it": "Nascosto in un vicolo segreto di Rovaniemi, questo bar tradizionale offre un'atmosfera autentica, impreziosita da immagini storiche. I visitatori possono vivere un luogo rimasto intatto nel tempo.",
+      "description_es": "Escondido en un callejón secreto de Rovaniemi, este bar tradicional ofrece una atmósfera auténtica adornada con fotografías históricas. Los visitantes pueden experimentar un lugar intocado por el tiempo."
     }
   ],
   "heroImage": "https://www.visitfinland.com/dam/jcr:70734834-7ba2-4bf1-9f6e-bf185e014367/central-plaza-santa-claus-village-rovaniemi-lapland-finland%20(1).jpg",
