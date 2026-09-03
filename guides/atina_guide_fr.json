@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Athens",
+    "country": "Greece",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2166A5",
+    "color_light": "#E8F1FA",
+    "tagline": "La colline des dieux, le chaos des rues et un kefi qui ne finit jamais."
+  },
+  "pills": [
+    "L'Acropole à l'heure d'ouverture",
+    "Laisser la table de la taverne s'éterniser",
+    "Kefi : la joie à la grecque"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Athènes",
+      "intro": "Attendez-vous à un musée et Athènes vous surprendra : l'Acropole flotte au bout de chaque rue, mais la ville bouillonnante en contrebas appartient à aujourd'hui. Cafés de troisième vague sous des murs graffés, tavernes débordantes à minuit à côté de l'ancienne Agora, orangers sur les trottoirs et une énergie méditerranéenne avec un accent balkanique. La ville vieille de vingt-cinq siècles n'est ni polie ni parfaite – mais elle est réelle, enrichissante, et une fois qu'elle vous a conquis, elle ne vous lâche plus.",
+      "local_word": {
+        "word": "Kefi",
+        "pronunciation": "keh-FEE",
+        "definition": "Cette euphorie grecque difficile à définir : l'état où la musique, la table et le moment fusionnent et vous transportent. Le Kefi ne peut être planifié ; il arrive – et lors d'une soirée taverne à Athènes, il vous appellera aussi."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Montez à l'Acropole à l'heure d'ouverture",
+          "description": "À 8h, le marbre est frais, la lumière dorée, la foule absente. À midi, ce sont les files d'attente, la chaleur et une forêt de selfies. Achetez un billet daté en ligne ; en été, il n'y a pas d'ombre sur le marbre nu à midi."
+        },
+        {
+          "number": 2,
+          "title": "Choisissez un quartier, pas une autoroute",
+          "description": "Athènes est une ville de quartiers : la carte postale de Plaka, le calme de Koukaki, la voix d'Exarchia sur les murs, la nuit de Psiri. L'endroit où vous dormez décide de l'Athènes que vous vivez."
+        },
+        {
+          "number": 3,
+          "title": "Ouvrez l'application avant d'appeler un taxi",
+          "description": "En dehors du forfait aéroport, le marchandage du compteur est un classique touristique ; des applications comme FreeNow mettent fin à la discussion. Le métro est rapide, bon marché et de toute façon aussi beau qu'un musée."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Eleftherios Venizelos (ATH)",
+          "sub": "Métro M3 vers le centre ≈40 min"
+        },
+        {
+          "icon": "🚇",
+          "label": "En ville",
+          "value": "Métro + à pied",
+          "sub": "Véritables antiquités dans les stations"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Grec",
+          "sub": "Anglais sans effort dans le tourisme"
+        },
+        {
+          "icon": "🏛️",
+          "label": "Symbole",
+          "value": "L'Acropole",
+          "sub": "Visible de chaque toit"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie athénienne",
+        "text": "À Athènes, un plan vaut pour cinquante pour cent ; la rue complète le reste. Si la musique commence sur une place, asseyez-vous ; si le vieil homme à la table voisine commence une histoire, écoutez – c'est le programme de la ville."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Le centre se parcourt à pied et le métro fait le reste ; se disputer avec la circulation athénienne est une guerre déjà perdue.",
+      "items": [
+        {
+          "icon": "🚇",
+          "title": "Métro — le musée souterrain",
+          "description": "Trois lignes relient le centre et le port ; les stations Syntagma et Akropoli exposent des découvertes de leurs propres fouilles. M3 pour l'aéroport, M1 pour le Pirée. Un seul ticket couvre l'ensemble du réseau pendant 90 minutes."
+        },
+        {
+          "icon": "🚶",
+          "title": "Se promener dans le centre",
+          "description": "La promenade Dionysiou Areopagitou entoure le pied de l'Acropole : Plaka, Monastiraki et Thissio sont reliés à pied. Le meilleur 'transport en commun' de la ville est ce pavé de marbre."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tramway vers la côte",
+          "description": "Depuis Syntagma, le tramway descend vers la ligne de plage de Faliro et Glyfada ; la manière économique et pittoresque de découvrir Athènes côté mer (la Riviera athénienne)."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxis et applications",
+          "description": "Les taxis jaunes sont bon marché, mais les jeux de compteur avec les touristes sont un classique ; appelez via une application, payez par carte. Aéroport-centre est un tarif forfaitaire de jour — mentionnez-le avant de partir."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Le Pirée pour les îles",
+          "description": "Si les îles vous appellent, prenez la M1 jusqu'au Pirée ; Égine et Hydra sont à distance d'une excursion d'une journée. En été, réservez vos ferries à l'avance et vérifiez votre numéro de quai."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Attention aux piétons",
+        "text": "Dans la circulation athénienne, un feu vert est un conseil : regardez deux fois les motos en traversant. Et ne soyez pas surpris par le scooter garé sous un oranger sur le trottoir."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Athènes, le quartier compte plus que l'hôtel ; la couleur des murs, le son du petit-déjeuner et la durée de la nuit changent avec lui.",
+      "local_word": {
+        "word": "Platia",
+        "pronunciation": "plah-TYAH",
+        "definition": "La place : le cœur de chaque quartier d'Athènes. Les enfants jouent au ballon, les aînés jouent au backgammon, les cafés débordent. En choisissant votre quartier, vous choisissez en réalité votre platia."
+      },
+      "items": [
+        {
+          "name": "Plaka — au pied de l'Acropole",
+          "badge": "Le plus classique",
+          "badge_type": "vibe",
+          "description": "Maisons néoclassiques, bougainvilliers et les escaliers en pierre d'Anafiotika : la carte postale d'Athènes. Touristique, mais à juste titre ; tôt le matin et tard le soir, sa magie se multiplie. Prix supérieurs à la moyenne de la ville.",
+          "tags": [
+            "Vues sur l'Acropole",
+            "Ruelles d'Anafiotika",
+            "Touristique mais juste"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Plaka+Athens"
+        },
+        {
+          "name": "Koukaki — le choix calme et intelligent",
+          "badge": "Le plus équilibré",
+          "badge_type": "value",
+          "description": "Le quartier derrière le musée de l'Acropole : les distances de marche correspondent à Plaka, les prix et le calme sont plus doux. Ses cafés et boulangeries donnent l'impression d'une Athènes habitée.",
+          "tags": [
+            "À côté du musée",
+            "Cafés de quartier",
+            "Équilibre prix-emplacement"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Koukaki+Athens"
+        },
+        {
+          "name": "Monastiraki/Psiri — marché et nuit",
+          "badge": "Le plus animé",
+          "badge_type": "hot",
+          "description": "Marché aux puces, bars en rooftop et files d'attente pour le souvlaki de minuit : le lit le plus énergique de la ville. Choisissez une chambre bien insonorisée ; en retour, vous vous réveillerez au rythme d'Athènes.",
+          "tags": [
+            "Bars en rooftop",
+            "Marché aux puces",
+            "Vie nocturne à la porte"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Monastiraki+Athens"
+        },
+        {
+          "name": "Kolonaki — Athènes élégante",
+          "badge": "Le plus raffiné",
+          "badge_type": "local",
+          "description": "Boutiques, galeries et terrasses de café au pied du Lycabette : le visage poli de la ville. Proche des musées (Cycladique, Benaki) ; nuits calmes, journées gracieuses.",
+          "tags": [
+            "Boutiques et galeries",
+            "Au pied du Lycabette",
+            "Voisins des musées"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kolonaki+Athens"
+        },
+        {
+          "name": "Exarchia — la voix sur les murs",
+          "badge": "Le plus alternatif",
+          "badge_type": "hot",
+          "description": "Graffitis, disquaires, cafés collectifs et histoire politique : le quartier rebelle d'Athènes. Contrairement aux clichés, son ambiance diurne est créative et chaleureuse ; pour les amateurs de culture alternative.",
+          "tags": [
+            "Art de rue",
+            "Disquaires",
+            "Culture alternative"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Exarchia+Athens"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir ?",
+      "intro": "Athènes a un ennemi – la chaleur de juillet – et presque tous les autres mois pour ami.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Fleur d'oranger",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Parfum de fleurs, chaleur idéale",
+          "description": "Les rues sentent la fleur d'oranger, les sites antiques sont agréables à visiter à pied, les terrasses sont ouvertes. Coïncider avec Pâques grecques et les nuits aux chandelles et les festins d'agneau sont un bonus.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de Pâques",
+            "text": "La nuit de Pâques grecques (la date varie), les églises sont inondées de bougies ; au cri de 'Christos Anesti', les feux d'artifice s'élèvent – être en ville est une chance inouïe."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Chaleur et Scène",
+          "months": "Jul – Aug",
+          "subtitle": "Été · 35°C+, festival en plein air",
+          "description": "La chaleur de midi est impitoyable, mais la nuit, la ville se déverse dans les cinémas en plein air et les concerts à l'Hérodeion. En août, les Athéniens fuient vers les îles ; la ville est laissée aux visiteurs, et certains magasins prennent des vacances.",
+          "callout": {
+            "type": "warning",
+            "label": "Avertissement chaleur",
+            "text": "En juillet et août, visitez les sites antiques entre 8h et 11h, gardez le milieu de journée pour un musée ou la mer ; bouteille d'eau et chapeau sont non négociables."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "La Saison Dorée",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Mer chaude, ruines désertes",
+          "description": "Septembre et octobre sont l'apogée d'Athènes : la mer est encore propice à la baignade, la lumière s'adoucit, les foules diminuent. Même novembre ressemble au printemps dans la majeure partie de l'Europe – les terrasses restent ouvertes.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'octobre",
+            "text": "En octobre, prenez le tram jusqu'à Vouliagmeni : une baignade dans le lac thermal et un déjeuner en bord de mer – une sensation de vacances à une demi-heure de la ville."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "L'Athènes des habitants",
+          "months": "Dec – Mar",
+          "subtitle": "Hiver · Ruines calmes, cafés animés",
+          "description": "Vous marchez presque seul sur l'Acropole, les musées sont à vous, les poêles des tavernes sont allumés. Un hiver agréable à pied, hormis les averses ; les prix sont les plus doux.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'hiver",
+            "text": "Les marchés de rue hivernaux (laiki) avec leurs montagnes de mandarines et leurs étals d'olives sont le spectacle le plus coloré de la ville ; demandez à votre hôtel quel jour est le jour du marché."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La table athénienne est généreuse : des meze à n'en plus finir, de la viande parfumée au charbon de bois et un dessert gratuit qui arrive avec l'addition.",
+      "local_word": {
+        "word": "Yemista",
+        "pronunciation": "yeh-mee-STAH",
+        "definition": "'Farcis' : tomates et poivrons avant tout — le résumé de la tradition culinaire maison. Les plateaux dans la vitrine en verre de la taverne (magirefta) sont les plats du jour — demandez, montrez du doigt, choisissez."
+      },
+      "items": [
+        {
+          "icon": "🥙",
+          "name": "Souvlaki et gyros",
+          "description": "Le fast-food national de la ville : viande en brochette ou gyros émincé, enveloppé dans une pita avec tomate, oignon et tzatziki. L'endroit avec une file d'attente à minuit est le bon endroit.",
+          "tag": "Classique debout · ouvert tard",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=O+Thanasis+Athens"
+        },
+        {
+          "icon": "🫒",
+          "name": "Horiatiki — la vraie salade grecque",
+          "description": "Pas de laitue, des tomates géantes et une solide tranche de feta : c'est la vraie version, assaisonnée d'huile et d'origan. L'incontournable première assiette de l'été.",
+          "tag": "Chaque taverne · plein été",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Psiri+Athens"
+        },
+        {
+          "icon": "🐟",
+          "name": "Poulpe grillé et gavros",
+          "description": "Les deux piliers des meze de la mer : poulpe grillé au vinaigre, anchois croustillants au citron. Ils arrivent en séquence avec de l'ouzo ou du tsipouro ; personne ne vous presse.",
+          "tag": "Style meze · avec ouzo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Atlantikos+Athens"
+        },
+        {
+          "icon": "🥧",
+          "name": "Tiropita et spanakopita",
+          "description": "Les tartes au fromage et aux épinards sont les stars matinales de la vitrine de la boulangerie ; petit-déjeuner debout, tarte à la main, l'Acropole en face — c'est la manière athénienne.",
+          "tag": "Boulangerie du matin · chaud",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ariston+Athens"
+        },
+        {
+          "icon": "🍖",
+          "name": "Paidakia — côtelettes d'agneau au charbon de bois",
+          "description": "Une montagne de côtelettes sur papier, avec des frites et du citron ; le plat de fierté des tavernes de viande (hasapotaverna). Le Kefi commence généralement après ce plat.",
+          "tag": "Taverne de viande · à manger avec les mains",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Telis+Athens"
+        },
+        {
+          "icon": "🍮",
+          "name": "Galaktoboureko et loukoumades",
+          "description": "Tarte à la crème pâtissière sirupeuse et beignets au miel : les deux champions du dessert. Dans la plupart des tavernes, le dessert arrive de toute façon gratuitement — si ce n'est pas le cas, demandez l'un de ceux-ci.",
+          "tag": "Pâtisserie ou taverne · attendez la surprise",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Krinos+Athens"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle de la taverne",
+        "text": "Si le serveur commence à réciter 'aujourd'hui nous avons...' au lieu de vous donner un menu, vous êtes au bon endroit. Allez au comptoir, regardez dans les casseroles, montrez du doigt — à Athènes, ce n'est pas impoli, c'est de l'expertise."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Tout le monde connaît l'Acropole ; ces six recoins sont ce qui vous fera aimer Athènes une deuxième fois.",
+      "items": [
+        {
+          "rarity": "Un quartier déplacé d'une île",
+          "name": "Anafiotika",
+          "description": "Au-dessus de Plaka, un minuscule quartier blanchi à la chaux construit par des artisans cycladiques au XIXe siècle : passages étroits, portes bleues, une forêt de pots de fleurs. Des vacances insulaires au cœur d'Athènes.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Anafiotika+Athens"
+        },
+        {
+          "rarity": "Le balcon de la ville",
+          "name": "Lycabettus Hill",
+          "description": "277 mètres en funiculaire ou à pied : toute la ville, de l'Acropole à la mer, à vos pieds. Montez pour le coucher du soleil, visitez la chapelle, redescendez quand les lumières s'allument.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lycabettus+Hill+Athens"
+        },
+        {
+          "rarity": "Silence dans un ancien cimetière",
+          "name": "Kerameikos",
+          "description": "Le cimetière et la Porte Sacrée de l'Athènes antique : cyprès, tortues et stèles de marbre sur le site le plus paisible de la ville. Les foules ne viennent jamais ici.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kerameikos+Athens"
+        },
+        {
+          "rarity": "Le dimanche appartient au marché",
+          "name": "The Monastiraki flea market",
+          "description": "Tout, des disques aux cafetières en laiton autour de la place Avissinias : le dimanche matin, le théâtre de marchandage le plus divertissant de la ville. Promenez-vous-y, que vous achetiez ou non.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Avissinias+Square+Athens"
+        },
+        {
+          "rarity": "Le nouveau rivage de la culture",
+          "name": "Stavros Niarchos Foundation (SNFCC)",
+          "description": "Le complexe opéra-bibliothèque de Renzo Piano et son grand parc : la mer depuis la terrasse sur le toit, événements gratuits en soirée. Une demi-heure en tramway jusqu'au sommet de l'Athènes moderne.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Stavros+Niarchos+Foundation+Cultural+Center"
+        },
+        {
+          "rarity": "Un lac thermal en bordure de ville",
+          "name": "Lake Vouliagmeni",
+          "description": "Un lac thermal chaud niché entre des parois rocheuses sur la Riviera : 22 degrés même en hiver, de minuscules poissons à l'intérieur. À une demi-heure de la ville, une semaine de vacances pour l'âme.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lake+Vouliagmeni"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil musée",
+        "text": "Sous les sols en verre du musée de l'Acropole, un quartier antique s'étend à vos pieds ; les vendredis soirs, il reste ouvert tard, et la terrasse du restaurant offre gratuitement l'une des meilleures vues nocturnes sur le Parthénon."
+      }
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Les pièges d'Athènes sont classiques et bien connus ; connaissez ces quatre-là et le reste de la ville sera honnête avec vous.",
+      "items": [
+        {
+          "icon": "🍽️",
+          "name": "La 'taverne traditionnelle' avec rabatteur à l'entrée à Plaka",
+          "description": "Où l'on vous agite le menu et où la phrase commence par 'my friend', une moussaka congelée arrive à des prix touristiques ; même la musique est enregistrée.",
+          "instead": "Engagez-vous dans les ruelles sans rabatteurs : les arrière-rues de Psiri, ou les tavernes de Petralona et Pangrati servent la même nourriture à moitié prix, sous sa forme authentique."
+        },
+        {
+          "icon": "🚕",
+          "name": "Le 'dysfonctionnement' du compteur de taxi à l'aéroport",
+          "description": "En dehors du tarif forfaitaire, les jeux de 'tarif de nuit' et de 'frais de bagages' multiplient la facture.",
+          "instead": "Indiquez le tarif forfaitaire de jour avant de partir, ou prenez le métro M3 en 40 minutes ; une réservation via une application met fin au débat avant qu'il ne commence."
+        },
+        {
+          "icon": "🥃",
+          "name": "Le bar au 'shot gratuit' et la surprise de la facture",
+          "description": "Autour de Monastiraki, certains bars s'ouvrent avec un 'shot de bienvenue' et se ferment avec une facture gonflée par des articles ne figurant sur aucun menu.",
+          "instead": "Ne vous asseyez jamais là où la liste des prix n'est pas visible ; si vous voulez un rooftop, choisissez-le pour sa vue et son menu, pas pour son rabatteur."
+        },
+        {
+          "icon": "🏛️",
+          "name": "L'arnaque des 'guides agréés' aux portes des sites",
+          "description": "Certains des 'guides agréés' qui vous abordent à l'entrée ne sont ni agréés ni guides ; vous payez cher pour un script mémorisé.",
+          "instead": "Si vous voulez un guide, réservez-en un agréé à l'avance ; sinon, parcourez l'Acropole à votre rythme le matin et laissez le musée compléter l'histoire."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "À Athènes, une phrase commençant par 'my friend' est du commerce et une phrase commençant par 'ela' est de la chaleur. Le jour où vous saurez les distinguer, la ville vous traitera différemment."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "De la colline à la taverne, un condensé d'Athènes",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "Acropole — à l'ouverture des portes",
+              "description": "Admirez le Parthénon sous la lumière matinale, sans la foule ; saluez les caryatides de l'Érechthéion."
+            },
+            {
+              "time": "10:30",
+              "title": "Le Musée de l'Acropole",
+              "description": "Planchers de verre et frise du Parthénon ; l'histoire de ce que vous avez vu sur la colline se complète ici."
+            },
+            {
+              "time": "13:00",
+              "title": "Plaka + Anafiotika",
+              "description": "Déjeuner dans un coin tranquille de Plaka, puis perdez-vous dans les passages blanchis à la chaux d'Anafiotika."
+            },
+            {
+              "time": "15:30",
+              "title": "Agora Antique + Monastiraki",
+              "description": "De l'ombre du Temple d'Héphaïstos au brouhaha du marché aux puces : deux mille ans en quinze minutes de marche."
+            },
+            {
+              "time": "18:30",
+              "title": "Coucher de soleil sur le Lycabette",
+              "description": "Funiculaire jusqu'au sommet ; un adieu aérien à l'Acropole tandis que la ville se pare de pourpre."
+            },
+            {
+              "time": "21:00",
+              "title": "Soirée taverne à Psiri",
+              "description": "Meze, paidakia, vin maison ; si la musique live commence, ne résistez pas au kefi."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Le centre antique",
+              "description": "Le parcours d'un jour ci-dessus : Acropole, musée, Plaka, Lycabette, Psiri."
+            },
+            {
+              "time": "Day 2",
+              "title": "Marché, murs et la côte moderne",
+              "description": "Le marché aux puces de Monastiraki et Kerameikos le matin, une taverne de poisson au marché central (Varvakios) à midi, les murs et les disquaires d'Exarchia l'après-midi, coucher de soleil et un événement gratuit au SNFCC le soir."
+            },
+            {
+              "time": "Day 3",
+              "title": "Riviera ou escapade insulaire",
+              "description": "Soit le tramway jusqu'à Vouliagmeni : lac thermal + mer + déjeuner au bord de l'eau ; soit le ferry du Pirée à Égine : pistaches, un temple antique et une taverne portuaire. Un meze d'adieu à Koukaki au retour."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Trois mots grecs lancent les petites attentions gratuites dans une taverne ; cinq mots lancent une amitié.",
+      "items": [
+        {
+          "word": "Yassas",
+          "pronunciation": "YAH-sas",
+          "meaning": "Bonjour / Au revoir — la salutation formelle et sûre"
+        },
+        {
+          "word": "Efharistó",
+          "pronunciation": "ef-hah-ree-STOH",
+          "meaning": "Merci — semble difficile, mais ça vient au deuxième essai"
+        },
+        {
+          "word": "Parakaló",
+          "pronunciation": "pah-rah-kah-LOH",
+          "meaning": "S'il vous plaît / De rien — le joker grec"
+        },
+        {
+          "word": "Yamas!",
+          "pronunciation": "YAH-mas",
+          "meaning": "Santé ! — les verres d'ouzo et de vin se lèvent à cela"
+        },
+        {
+          "word": "Ela!",
+          "pronunciation": "EH-lah",
+          "meaning": "'Viens / Allez / Pas question !' — le mot grec magique qui correspond à tous les sentiments"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Check-list Athènes",
+      "completion_message": "Yamas ! Vous avez bien exploré Athènes !",
+      "items": [
+        {
+          "label": "Voir le Parthénon à la lumière du matin",
+          "sub": "À l'ouverture des portes, avant la foule"
+        },
+        {
+          "label": "Marcher sur les sols en verre du musée de l'Acropole",
+          "sub": "Un quartier antique sous vos pieds"
+        },
+        {
+          "label": "Se perdre dans les passages blancs d'Anafiotika",
+          "sub": "Le quartier insulaire au-dessus de Plaka"
+        },
+        {
+          "label": "Regarder le coucher de soleil depuis le Lycabette",
+          "sub": "Funiculaire ou sentier – descendez quand les lumières s'allument"
+        },
+        {
+          "label": "Rejoindre une file d'attente pour un souvlaki de minuit",
+          "sub": "Autour de Monastiraki – la file d'attente est gage de qualité"
+        },
+        {
+          "label": "Choisir votre repas au comptoir (magirefta)",
+          "sub": "Pointer les plats, remplir l'assiette – à la manière athénienne"
+        },
+        {
+          "label": "Marchander au marché aux puces de Monastiraki",
+          "sub": "Dimanche matin, disques et cafetières en laiton"
+        },
+        {
+          "label": "Voir le temple d'Héphaïstos sur l'Agora",
+          "sub": "Parmi les temples antiques les mieux conservés"
+        },
+        {
+          "label": "Regarder la mer depuis le toit du SNFCC",
+          "sub": "La rive culturelle de Renzo Piano – en tram"
+        },
+        {
+          "label": "Attraper le kefi lors d'une soirée taverne",
+          "sub": "Ça ne se planifie pas ; la musique commence, et vous vous levez"
+        }
+      ]
+    }
+  }
+}

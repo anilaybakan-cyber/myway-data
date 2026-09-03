@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Sintra",
+    "country": "Portugal",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#56743B",
+    "color_light": "#EEF4E6",
+    "tagline": "Un conte de fées romantique dans les palais d'une montagne voilée de brume."
+  },
+  "pills": [
+    "Patrimoine mondial de l'UNESCO",
+    "L'« Éden glorieux » de Byron",
+    "À côté du point le plus occidental de l'Europe"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Sintra",
+      "intro": "Sintra n'est pas une ville, mais un état d'esprit : la brume atlantique serpente à travers les forêts de montagne, le lierre engloutit les murs, et sur chaque colline se dresse un autre palais de rêveur. Le Palais de Pena, aux tours rouges et jaunes, flotte au-dessus des nuages, les marches du puits initiatique de la Regaleira s'enfoncent dans la terre, et les remparts mauresques parcourent les crêtes. Lord Byron a appelé cet endroit un 'magnifique Éden', et il n'avait pas tort. Mais même l'Éden a ses règles : venez tôt, allez-y doucement, et considérez la brume comme un décor, non comme un défaut.",
+      "local_word": {
+        "word": "Serra",
+        "pronunciation": "seh-hra",
+        "definition": "Le nom court des montagnes de Sintra : quand quelqu'un dit 'la serra', il désigne la masse de granit boisée qui entoure la ville. Elle crée son propre microclimat – la serra peut être brumeuse tandis que Lisbonne se dore au soleil. Pour les habitants, ce n'est pas la météo, c'est le caractère."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Venez tôt, allez à contre-courant",
+          "description": "Sintra est l'excursion d'une journée préférée de Lisbonne : les foules arrivent à 10h30. Prenez le premier train, et pendant que tout le monde se précipite vers Pena, commencez par la Regaleira — ou faites exactement le contraire. Celui qui nage à contre-courant voit les palais vides."
+        },
+        {
+          "number": 2,
+          "title": "Achetez vos billets de palais horodatés à l'avance",
+          "description": "Le Palais de Pena fonctionne avec des billets horodatés, et les jours d'été, la billetterie est souvent complète. Choisissez deux, au maximum trois sites – celui qui essaie de tout caser en une journée ne verra vraiment rien."
+        },
+        {
+          "number": 3,
+          "title": "Oubliez la voiture — faites confiance à vos pieds et au bus",
+          "description": "Les routes de montagne sont étroites, le stationnement impossible, la dépanneuse impitoyable. Venez en train ; utilisez les bus 434 (Pena) et 435 (Regaleira-Monserrate) ou les sentiers de randonnée — les chemins forestiers sont de toute façon la meilleure partie de la visite."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚄",
+          "label": "S'y rendre",
+          "value": "Train depuis Lisbonne 40 min",
+          "sub": "Direct depuis la gare de Rossio"
+        },
+        {
+          "icon": "🚌",
+          "label": "Sur place",
+          "value": "Bus 434/435 + à pied",
+          "sub": "Sentiers forestiers entre les palais"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Portugais",
+          "sub": "Anglais courant sur les sentiers touristiques"
+        },
+        {
+          "icon": "🏰",
+          "label": "Incontournable",
+          "value": "Palais de Pena",
+          "sub": "Billets horodatés — réservez à l'avance"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Sintra",
+        "text": "À Sintra, la brume n'est pas votre ennemie mais le metteur en scène : alors que Pena apparaît et disparaît dans les nuages, le facteur féerique augmente. Ceux qui recherchent un soleil garanti peuvent attendre midi ; ceux qui recherchent l'atmosphère devraient courir vers la brume matinale."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Le train pour Sintra, puis le bus et la marche sur place : enfreignez cette règle en trois parties et vous passerez votre journée à chercher une place de parking.",
+      "items": [
+        {
+          "icon": "🚄",
+          "title": "Le train depuis Lisbonne",
+          "description": "Un train toutes les 20-30 minutes depuis la gare de Rossio atteint Sintra en 40 minutes : chargez une carte Viva Viagem et validez. Les premiers trains du matin sont le seul moyen d'éviter la foule."
+        },
+        {
+          "icon": "🚌",
+          "title": "434 — la boucle de Pena",
+          "description": "Le bus 434 depuis la gare fait une boucle à travers le centre historique, le Château des Maures et Pena et revient : il circule à sens unique, et le ticket journalier est judicieux. La file d'attente est la plus courte tôt le matin."
+        },
+        {
+          "icon": "🚌",
+          "title": "435 — la ligne de la vallée",
+          "description": "Le bus 435 vers Regaleira, Seteais et Monserrate circule indépendamment des foules de Pena : le moyen confortable d'atteindre les palais plus calmes de la vallée."
+        },
+        {
+          "icon": "🚶",
+          "title": "Les sentiers forestiers",
+          "description": "Dix minutes du centre à Regaleira, ou une ascension forestière de 45 minutes vers Pena via le sentier de Vila Sassetti : marcher parmi les fougères, les séquoias géants et la brume est préférable au bus. Essayer la descente est plus doux pour les genoux."
+        },
+        {
+          "icon": "🚐",
+          "title": "La connexion Cabo da Roca",
+          "description": "Le bus côtier depuis la gare atteint Cabo da Roca, le point le plus occidental de l'Europe, en 40 minutes : la combinaison Sintra + bord de l'océan est le meilleur deuxième acte de la journée."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil d'itinéraire",
+        "text": "La foule est vaincue par une logique inversée : à l'ouverture, entrez à Regaleira au lieu de Pena (c'est presque vide à l'entrée), et visitez Pena après 15h30 avec un billet horodaté — les bus touristiques sont alors sur le chemin du retour vers Lisbonne."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "Les excursionnistes rentrent chez eux par le train du soir ; ceux qui restent voient la vraie Sintra — celle où la brume s'installe et les palais se taisent.",
+      "local_word": {
+        "word": "Quinta",
+        "pronunciation": "keen-ta",
+        "definition": "Un manoir ou un domaine avec jardins : les pentes de Sintra regorgent de quintas d'aristocrates du XIXe siècle. La plupart sont aujourd'hui des hôtels-boutiques — se réveiller dans une quinta recouverte de lierre, c'est la pleine dose de romance de Sintra."
+      },
+      "items": [
+        {
+          "name": "Le centre historique (Vila)",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "vibe",
+          "description": "Les ruelles étroites au pied des cheminées du Palais National : odeurs de boulangerie, façades d'azulejos et le silence féerique qui tombe le soir. Bondé le jour, entièrement à vous la nuit.",
+          "tags": [
+            "Accès à pied aux palais",
+            "Silence du soir",
+            "Boulangerie à côté"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sintra+historic+centre"
+        },
+        {
+          "name": "São Pedro de Penaferrim",
+          "badge": "Le plus local",
+          "badge_type": "local",
+          "description": "Le quartier calme au-dessus du centre : antiquaires, restaurants familiaux et la foire historique qui a lieu les deuxième et quatrième dimanches du mois. La vraie vie de la ville en dehors de la vague touristique.",
+          "tags": [
+            "Antiquaires",
+            "Restaurants familiaux",
+            "Foire du dimanche"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=São+Pedro+de+Penaferrim+Sintra"
+        },
+        {
+          "name": "Les quintas à flanc de colline",
+          "badge": "Le plus romantique",
+          "badge_type": "hot",
+          "description": "Hôtels-manoirs historiques cachés dans la forêt : jardins suspendus de lierre, cours avec fontaines, petits-déjeuners avec vue sur la brume. L'option qui transforme l'âme de Sintra en hébergement — un classique pour les lunes de miel.",
+          "tags": [
+            "Manoirs historiques",
+            "Petits-déjeuners au jardin",
+            "Vues sur la brume"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quinta+hotel+Sintra"
+        },
+        {
+          "name": "Colares",
+          "badge": "Côté vignoble",
+          "badge_type": "value",
+          "description": "Le village viticole au pied maritime de la montagne : le vin de Colares, issu de certaines des plus anciennes vignes cultivées dans le sable du monde, y est né. Maisons de location et calme rural — un équilibre côte + palais pour ceux qui ont une voiture.",
+          "tags": [
+            "Vignes de Colares",
+            "Calme rural",
+            "Près de la côte"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Colares+Sintra"
+        },
+        {
+          "name": "Praia das Maçãs and Azenhas do Mar",
+          "badge": "Côté océan",
+          "badge_type": "value",
+          "description": "Les villages balnéaires de Sintra : maisons blanches dévalant une falaise, une piscine océanique et des restaurants de poisson. En été, le tramway historique relie le centre — matins au palais, soirées à l'océan.",
+          "tags": [
+            "Piscine océanique",
+            "Restaurants de poisson",
+            "Tramway historique"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Praia+das+Maçãs+Sintra"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Dans le microclimat de la serra, les quatre saisons peuvent se succéder en une seule journée ; le véritable choix est dicté par le calendrier d'affluence.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Camélias et brume dansante",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Jardins fleuris, verdure éclatante",
+          "description": "Les jardins s'ouvrent avec les camélias et les magnolias, la forêt prend son vert le plus éclatant, et l'air est frais pour la marche. Moins de foule qu'en été — la saison la plus équilibrée de Sintra.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour mai",
+            "text": "En mai, les jardins de Monserrate atteignent leur apogée : vallées de fougères, roseraie et chemins presque vides. Au mépris de la file d'attente de Pena, accordez à cet endroit la plus longue heure de votre journée."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Foule maximale, montagne fraîche",
+          "months": "Jul – Aug",
+          "subtitle": "Été · Échapper à la chaleur de Lisbonne, pleine capacité",
+          "description": "Tandis que Lisbonne rôtit, la serra est 5 à 8 degrés plus fraîche : c'est pourquoi tout le monde est ici. Les palais se remplissent même avec des billets horodatés et la file d'attente du 434 s'allonge. La stratégie 'arriver tôt, partir tard' et une escapade à la plage sont les clés de l'été.",
+          "callout": {
+            "type": "warning",
+            "label": "Note pour août",
+            "text": "En août, n'approchez pas de Pena entre 10h30 et 15h30 : réservez le premier ou le dernier créneau. Consacrez le milieu de journée à Cabo da Roca et Praia das Maçãs — le vent de l'océan ne connaît pas de file d'attente."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "La forêt dorée",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Lumière douce, foule décroissante",
+          "description": "Septembre est encore l'été, mais avec octobre, la forêt prend des teintes cuivrées, la brume entre plus souvent en scène et les palais peuvent respirer. La saison des photographes et des voyageurs lents.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour octobre",
+            "text": "Par un matin brumeux d'octobre, montez au Château des Maures : les remparts disparaissent et réapparaissent dans le nuage, et Pena glisse comme un fantôme. Une journée brumeuse n'est pas du 'mauvais temps' — c'est le meilleur filtre de Sintra."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Conte brumeux, palais vides",
+          "months": "Dec – Mar",
+          "subtitle": "Hiver · Accalmies de pluie, romance sans touristes",
+          "description": "Pluie et brume enveloppent la serra, les palais sont presque vides, et les quintas avec cheminée deviennent les stars de la saison. Celui qui ne craint pas la pierre mouillée voit Sintra comme Byron l'a vue.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour janvier",
+            "text": "Un jour de semaine en hiver, vous trouverez des billets pour Pena même à l'entrée, et les terrasses vous seront réservées : attendez que la pluie cesse, photographiez quand la brume se lève — les clichés qui n'existent sur aucune carte postale apparaissent à ce moment-là."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine de Sintra commence au comptoir de la pâtisserie : deux douceurs légendaires font la fierté des boulangeries de la ville ; les villages de montagne et l'océan complètent le reste.",
+      "local_word": {
+        "word": "Travesseiro",
+        "pronunciation": "trah-veh-say-roo",
+        "definition": "'Oreiller' : le classique de Sintra, une pâte feuilletée roulée autour d'une crème d'amande et saupoudrée de sucre. Servi chaud et dévoré en deux bouchées — la file d'attente devant la boulangerie la plus célèbre de la ville existe pour cet oreiller."
+      },
+      "items": [
+        {
+          "icon": "🥐",
+          "name": "Travesseiro — l'oreiller chaud",
+          "description": "Un rouleau de pâte feuilletée à la crème d'amande au moment où il sort du four : croustillant à l'extérieur, chaud à l'intérieur. Le classique de la boulangerie Piriquita — si la file d'attente est longue, sachez qu'un nouveau plateau vient de sortir.",
+          "tag": "Servi chaud · une file d'attente est bon signe",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Piriquita+Sintra"
+        },
+        {
+          "icon": "🧀",
+          "name": "Queijada de Sintra",
+          "description": "Une tartelette au fromage frais et à la cannelle dans une pâte fine et croustillante : une légende miniature fabriquée depuis le XIIIe siècle et vendue en rouleaux de papier par demi-douzaine. Une dégustation comparative avec le travesseiro est obligatoire.",
+          "tag": "Une recette séculaire · achetez-en une demi-douzaine",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Queijadas+da+Sapa+Sintra"
+        },
+        {
+          "icon": "🐟",
+          "name": "Poisson de l'océan à Azenhas do Mar",
+          "description": "Le poisson et les fruits de mer du jour dans les restaurants du village perché sur la falaise : le bruit des vagues et la vue sur la piscine océanique sont inclus. Le meilleur remède contre la fatigue des palais.",
+          "tag": "Dans le village côtier · la pêche du jour",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Azenhas+do+Mar+restaurant"
+        },
+        {
+          "icon": "🍖",
+          "name": "Leitão et la table de montagne",
+          "description": "Le cochon de lait rôti (leitão) et le chouriço grillé sur braises des villages environnants sont des classiques des tables de week-end : dans les restaurants familiaux de São Pedro, avec des accompagnements généreux. Copieux, authentique, local.",
+          "tag": "Dans les restaurants de São Pedro · le week-end",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=São+Pedro+de+Penaferrim+restaurants"
+        },
+        {
+          "icon": "🍷",
+          "name": "Vin de Colares",
+          "description": "Un vin rare issu de vignes centenaires qui ont survécu au phylloxéra dans le sable : le Ramisco rouge avec son caractère atlantique salin. Peu est produit et il est difficile à trouver — goûtez-le au verre partout où vous le voyez.",
+          "tag": "Une rareté · des vignobles de sable",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Adega+Regional+de+Colares"
+        },
+        {
+          "icon": "☕",
+          "name": "Une pause ginjinha et une bica",
+          "description": "Liqueur de cerise aigre (ginjinha) dans un petit verre, un espresso (bica) à côté : la pause portugaise typique entre deux visites. La ginjinha dans une tasse en chocolat est touristique, mais un jeu sucré.",
+          "tag": "Entre les visites · dans un petit verre",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ginjinha+Sintra"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle de la boulangerie",
+        "text": "Ne faites pas emballer votre travesseiro pour emporter — mangez-le chaud au comptoir : cette pâtisserie ne supporte pas le transport. Ne vous laissez pas intimider par la file d'attente ; les plateaux sont constamment réapprovisionnés et la file avance plus vite qu'il n'y paraît."
+      }
+    },
+    "hidden_gems": {
+      "title": "Coins Cachés",
+      "intro": "Tout le monde voit Pena ; ces six-là sont ce que Sintra cache derrière la brume.",
+      "items": [
+        {
+          "rarity": "Une tour descendant dans la terre",
+          "name": "Le Puits Initiatique de la Regaleira",
+          "description": "La tour inversée de la Quinta da Regaleira : un escalier en spirale de 27 mètres s'enfonce dans le sol et se connecte au fond par des tunnels de grottes à une cascade. Avec ses symboles maçonniques et ses pierres moussues, c'est le mystère de Sintra sous sa forme la plus pure. Entrez à la première heure — il est possible de trouver le puits vide.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quinta+da+Regaleira+Sintra"
+        },
+        {
+          "rarity": "Remparts dans les nuages",
+          "name": "La guet de brume du Château des Maures",
+          "description": "Les murs du IXe siècle ondulent le long de l'échine de la montagne : par temps clair, vous regardez l'Atlantique, par temps brumeux, une mer de nuages. Les foules faisant la queue pour Pena se détournent rarement ici — la promenade sur les remparts est généralement calme.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Castelo+dos+Mouros+Sintra"
+        },
+        {
+          "rarity": "Un palais botanique",
+          "name": "Palais de Monserrate",
+          "description": "Autour du palais indo-gothique à dôme, les plantes du monde entier dévalent la vallée : clairières de fougères, un jardin mexicain, une roseraie. Le joyau le moins fréquenté et le plus sous-estimé de Sintra — il mérite une demi-journée.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palácio+de+Monserrate+Sintra"
+        },
+        {
+          "rarity": "Silence tapissé de liège",
+          "name": "Convento dos Capuchos",
+          "description": "Un couvent de frères du XVIe siècle avec des cellules tapissées de liège au fond de la forêt : l'exact opposé de la splendeur de Pena — pierre et silence. C'est ce que les gens entendent par 'l'autre visage de Sintra'.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Convento+dos+Capuchos+Sintra"
+        },
+        {
+          "rarity": "Un chemin à travers un jardin de palais",
+          "name": "Le chemin de la Vila Sassetti",
+          "description": "Le chemin forestier pavé de pierres, du centre vers Pena, traverse le jardin d'une villa italianisante : séquoias, fontaines et chants d'oiseaux. L'alternative la plus élégante à la file d'attente du 434 — magnifique aussi en descente.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vila+Sassetti+Sintra"
+        },
+        {
+          "rarity": "Le village blanc sur la falaise",
+          "name": "Azenhas do Mar",
+          "description": "Des maisons blanches dévalant une falaise océanique et une piscine marine creusée dans les rochers : le village qui dissipe la fatigue des billets avec l'air salin. Observez depuis le point de vue en hauteur au coucher du soleil — la carte postale se prend toute seule.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Azenhas+do+Mar+viewpoint"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil de chemin",
+        "text": "Les chemins de Sintra sont autant un patrimoine que ses palais : reliez la ligne Regaleira-Seteais-Monserrate à pied et découvrez les fontaines et les portails que les automobilistes ne voient jamais. L'ombre de la forêt reste fraîche même en été — une bouteille d'eau suffit."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Le piège de Sintra n'est pas la mauvaise foi mais l'arithmétique des foules : la connaissance des horaires et de l'ordre change tout.",
+      "items": [
+        {
+          "icon": "🎫",
+          "name": "Arriver sans plan et essayer de tout voir",
+          "description": "Quiconque essaie de caser cinq palais + le château + les jardins en une journée la termine dans les files d'attente et les bus, sans rien savourer.",
+          "instead": "Choisissez deux sites et considérez un troisième comme bonus : la paire classique est Pena + Regaleira, la paire tranquille Monserrate + Capuchos. Achetez des billets horodatés en ligne et reliez les espaces par des sentiers."
+        },
+        {
+          "icon": "🚗",
+          "name": "Conduire sa propre voiture en montagne",
+          "description": "La route de montagne est étroite et à sens unique, le stationnement est quasi inexistant ; un mauvais stationnement vous fera rencontrer la dépanneuse.",
+          "instead": "Venez en train et déplacez-vous avec les bus 434/435 et les sentiers. Si vous êtes venu en voiture, laissez-la près de la gare ou dans les parkings à l'entrée de la ville — ne montez jamais."
+        },
+        {
+          "icon": "🛺",
+          "name": "Négocier un tuk-tuk devant la gare",
+          "description": "Les tuk-tuks proposant un 'tour privé à Pena' demandent dix fois le prix du bus ; la route est la même, la file d'attente la même.",
+          "instead": "Achetez le billet journalier 434 ou empruntez le sentier Vila Sassetti. Si vous avez envie d'un tuk-tuk, utilisez-le là où le bus ne va pas — une excursion côtière Colares-Azenhas — avec le prix fixé au préalable."
+        },
+        {
+          "icon": "⏰",
+          "name": "Entrer dans les salles d'apparat de Pena à midi",
+          "description": "Même avec des billets horodatés, aux créneaux de midi, vous vous traînez pas à pas dans les couloirs du palais, et les terrasses deviennent une scène à selfies.",
+          "instead": "Réservez le premier créneau ou après 15h30 ; si vous êtes bloqué à midi, faites d'abord le parc et les terrasses et laissez les salles d'apparat pour la seconde moitié du créneau."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "À Sintra, l'heure compte plus que le lieu : le palais de second choix à la bonne heure offre plus que Pena à la mauvaise. Et rappelez-vous — pour ceux qui restent, Sintra le soir est une ville différente que les excursionnistes ne rencontrent jamais."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Du puits au palais, à contre-courant",
+          "steps": [
+            {
+              "time": "08:40",
+              "title": "Premier train + Regaleira",
+              "description": "Prenez l'un des premiers trains depuis Rossio ; marchez depuis la gare et entrez à Regaleira dès l'ouverture. Allez directement au Puits Initiatique — la première demi-heure est presque vide."
+            },
+            {
+              "time": "11:00",
+              "title": "Montée par le sentier de Vila Sassetti",
+              "description": "Montez vers Pena par le sentier de pierre à travers la forêt : séquoias, brume et chant d'oiseaux. Une pause sur les remparts du Château des Maures."
+            },
+            {
+              "time": "13:00",
+              "title": "Déjeuner en ville + le duel sucré",
+              "description": "Un déjeuner léger au centre, puis la dégustation comparative de travesseiro versus queijada : à vous de désigner le vainqueur."
+            },
+            {
+              "time": "15:30",
+              "title": "Palais de Pena — le créneau tardif",
+              "description": "Dans le palais coloré avec un billet horodaté : les bus touristiques étant sur le chemin du retour, les terrasses se détendent. D'abord les points de vue du parc, puis les salles d'apparat."
+            },
+            {
+              "time": "18:00",
+              "title": "Le Palais National et ses cheminées",
+              "description": "Lumière du soir sur le palais aux cheminées blanches de la place de la ville : entrez, ou admirez la façade depuis un café de la place."
+            },
+            {
+              "time": "19:30",
+              "title": "Sintra en soirée",
+              "description": "Quand les excursionnistes montent dans le train, la ville est à vous : une promenade nocturne dans les ruelles couvertes de lierre, une table locale à São Pedro — le final tranquille du conte."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Palais, brume et océan — Sintra dans son intégralité",
+          "steps": [
+            {
+              "time": "Jour 1",
+              "title": "Sintra classique",
+              "description": "Le parcours d'une journée ci-dessus : Regaleira, le sentier, le château, Pena, la soirée en ville."
+            },
+            {
+              "time": "Jour 2",
+              "title": "La journée des palais tranquilles",
+              "description": "Une longue matinée dans les jardins de Monserrate ; le silence du couvent des Capuchos l'après-midi ; du vin dans un jardin de quinta le soir — n'oubliez pas de faire ouvrir une bouteille de Colares."
+            },
+            {
+              "time": "Jour 3",
+              "title": "Le bord de l'océan et les adieux",
+              "description": "Le bus côtier jusqu'au vent du bout du continent au Cabo da Roca ; du poisson à Azenhas do Mar pour le déjeuner ; la piscine océanique de Praia das Maçãs au retour — scellez le conte de fées des palais avec de l'eau salée."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de survie en 5 mots",
+      "intro": "Le portugais est une langue courtoise ; ces cinq mots vous mèneront du comptoir de la pâtisserie à la porte du palais.",
+      "items": [
+        {
+          "word": "Bom dia",
+          "pronunciation": "bong dee-ah",
+          "meaning": "Bonjour — la salutation d'ouverture dans la file d'attente de la boulangerie"
+        },
+        {
+          "word": "Obrigado / Obrigada",
+          "pronunciation": "oh-bree-gah-doo / -dah",
+          "meaning": "Merci — se termine par -o si vous êtes un homme, par -a si vous êtes une femme"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "poor fah-vor",
+          "meaning": "S'il vous plaît — 'um travesseiro, por favor' est la phrase la plus importante de la journée"
+        },
+        {
+          "word": "Que lindo!",
+          "pronunciation": "kuh leen-doo",
+          "meaning": "'Comme c'est beau !' — cela vous échappera spontanément sur la terrasse de Pena"
+        },
+        {
+          "word": "Saúde!",
+          "pronunciation": "sah-ood",
+          "meaning": "Santé ! — au moment où le verre de Colares se lève"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Check-list de Sintra",
+      "completion_message": "Que lindo! Vous avez vécu le conte de fées brumeux comme il se doit !",
+      "items": [
+        {
+          "label": "Descendre au fond du Puits Initiatique",
+          "sub": "Regaleira — escalier en spirale, sortie de la grotte"
+        },
+        {
+          "label": "S'imprégner des couleurs sur les terrasses de Pena",
+          "sub": "Billet horodaté — premier ou dernier créneau"
+        },
+        {
+          "label": "Parcourir les remparts maures",
+          "sub": "Par temps brumeux, une mer de nuages en bonus"
+        },
+        {
+          "label": "Manger un travesseiro chaud",
+          "sub": "Au comptoir, jamais en boîte"
+        },
+        {
+          "label": "Faire la dégustation comparative de queijadas",
+          "sub": "Achetez une demi-douzaine, soyez le juge"
+        },
+        {
+          "label": "Emprunter le sentier de Vila Sassetti",
+          "sub": "L'alternative élégante à la file d'attente du 434"
+        },
+        {
+          "label": "Se perdre dans les jardins de Monserrate",
+          "sub": "Clairières de fougères et la vallée des roses — le joyau tranquille"
+        },
+        {
+          "label": "Se tenir au bord du continent au Cabo da Roca",
+          "sub": "Le point le plus occidental de l'Europe — préparez-vous au vent"
+        },
+        {
+          "label": "Photographier Azenhas do Mar d'en haut",
+          "sub": "Le village blanc dévalant la falaise"
+        },
+        {
+          "label": "Vivre la soirée de Sintra",
+          "sub": "Après le dernier train — la récompense des noctambules"
+        }
+      ]
+    }
+  }
+}

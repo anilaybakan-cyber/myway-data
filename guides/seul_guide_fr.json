@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Seoul",
+    "country": "South Korea",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#DE4B3B",
+    "color_light": "#FBE9E6",
+    "tagline": "Où des palais vieux de cinq siècles et des rues aux néons coexistent."
+  },
+  "pills": [
+    "Capitale mondiale de la K-culture",
+    "Palais à côté des gratte-ciel",
+    "Rues animées bien après minuit"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Séoul",
+      "intro": "Séoul rime avec vitesse et grâce dans la même phrase : une cérémonie vieille de cinq cents ans est rejouée dans la cour du Gyeongbokgung tandis que, deux rues plus loin, une vidéo de K-pop bat des records sur l'internet le plus rapide du monde. La courbe des toits de hanok et l'éclat des tours de verre partagent un même cadre ; à minuit, les étals de rue fument encore et les cafés restent ouverts jusqu'à l'aube. Tout ici fonctionne 'ppalli ppalli' (vite, vite) — mais la culture de la table refuse de se presser : le temps passé autour du grill est l'hospitalité la plus précieuse de Séoul.",
+      "local_word": {
+        "word": "Jeong",
+        "pronunciation": "juhng",
+        "definition": "Le mot coréen intraduisible : l'attachement profond et le soin inconditionnel tissés au fil du temps. Le vendeur de rue qui ajoute un morceau supplémentaire à votre assiette, un hôte qui vous nourrit comme son propre enfant — tout cela est le jeong. Comprendre la Corée commence par remarquer ce lien invisible qui circule à chaque table."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Changez votre carte : utilisez Naver ou Kakao",
+          "description": "Google Maps ne fonctionne qu'à moitié en Corée : téléchargez Naver Map ou Kakao Map pour les itinéraires à pied et en transport en commun. Les deux ont des interfaces en anglais et affichent les numéros de sortie du métro — à Séoul, un lieu de rendez-vous est donné comme 'station + numéro de sortie'."
+        },
+        {
+          "number": 2,
+          "title": "Apprenez les manières à table : le partage est la règle",
+          "description": "La table coréenne est basée sur des plats partagés : les banchan appartiennent à tout le monde, et le grill est cuit ensemble à table. Ne laissez pas votre cuillère debout dans le bol de riz, et marquez une pause avant que l'aîné ne commence — les petits gestes gagnent un grand respect dans cette ville."
+        },
+        {
+          "number": 3,
+          "title": "Visitez le palais en hanbok, suivez le rythme du palais",
+          "description": "Ceux qui portent un hanbok loué entrent gratuitement dans les palais : visiter Gyeongbokgung en tenue traditionnelle n'est pas un gadget touristique — les habitants le font aussi. Planifiez votre visite au moment de la relève de la garde — les tambours dans la cour du palais sont le voyage dans le temps le plus gracieux de la ville."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Incheon (ICN)",
+          "sub": "~45 min par AREX express"
+        },
+        {
+          "icon": "🏯",
+          "label": "Emblème",
+          "value": "Gyeongbokgung + Bukchon",
+          "sub": "Palais et village hanok côte à côte"
+        },
+        {
+          "icon": "💳",
+          "label": "Monnaie",
+          "value": "Won (KRW)",
+          "sub": "Une carte T-money ouvre toutes les portes"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Coréen",
+          "sub": "Métro et menus supportent l'anglais"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Séoul",
+        "text": "Dans cette ville, vous visitez les palais le jour et les étals la nuit : consacrez la moitié du programme à l'histoire, l'autre moitié au néon. Quand vous êtes fatigué, allez dans un jjimjilbang ; quand vous avez faim, faites la queue — à Séoul, la file d'attente est la publicité la plus honnête de la qualité."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Le métro de Séoul est l'un des meilleurs au monde : propre, ponctuel, et avec des annonces en anglais — avec une carte T-money, la ville tient dans votre poche.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arriver de l'aéroport",
+          "description": "Depuis Incheon, l'AREX express atteint la gare de Séoul en 45 minutes ; l'AREX omnibus est plus lent mais moins cher. Pour les arrivées tardives, les bus limousines de l'aéroport desservent les différents quartiers — les taxis sont confortables mais coûteux."
+        },
+        {
+          "icon": "🚇",
+          "title": "Maîtriser le métro",
+          "description": "Lignes codées par couleur, sorties numérotées et annonces en anglais : le métro est la colonne vertébrale de Séoul. Achetez une carte T-money dans n'importe quel dépanneur ; les correspondances sont calculées automatiquement. La ligne 2 est bondée aux heures de pointe — attendez un train, le suivant arrive plus vide."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxis et Kakao T",
+          "description": "Les taxis sont abordables selon les standards mondiaux : orange et argent est standard, noir 'deluxe' est plus cher. L'application Kakao T résout le problème d'adresse — montrer au chauffeur une adresse en coréen est toujours la solution la plus rapide."
+        },
+        {
+          "icon": "🚶",
+          "title": "Promenades de quartier",
+          "description": "Séoul se découvre quartier par quartier : les pentes de Bukchon, les ruelles d'entrepôts de Seongsu, les jeunes foules de Hongdae. Le ruisseau Cheonggyecheon est un couloir de promenade au cœur de la ville — encore plus charmant sous les lumières nocturnes."
+        },
+        {
+          "icon": "🚌",
+          "title": "Bus de nuit et lignes de montagne",
+          "description": "Les bus de nuit (Owl buses) parcourent les artères principales après minuit ; les bus urbains atteignent les portes de Bukhansan et des autres montagnes. Peu d'endroits échappent au métro — le bus est son complément pittoresque."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil métro",
+        "text": "Comprenez la culture des adresses : 'Hongik Univ. Station, Exit 9' est une adresse. Tapez la station dans Naver Map et suivez le numéro de sortie — sortir par la mauvaise sortie signifie une marche supplémentaire de dix minutes à Séoul."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Séoul, choisir un quartier, c'est choisir un rythme : la praticité de Myeongdong, le rythme nocturne de Hongdae, les matins hanok de Bukchon.",
+      "local_word": {
+        "word": "Ondol",
+        "pronunciation": "ON-dol",
+        "definition": "Chauffage au sol : le système de confort millénaire de la maison coréenne. Dans un hanok traditionnel, vous dormez sur un matelas posé au sol et chauffé par le dessous — même les appartements modernes ne sont pas construits sans ondol. Lorsque vous sentez la chaleur du sol lors d'un séjour hivernal en hanok, vous avez touché le cœur de la culture domestique coréenne."
+      },
+      "items": [
+        {
+          "name": "Myeongdong",
+          "badge": "Le plus pratique",
+          "badge_type": "hot",
+          "description": "Le centre des rues commerçantes, des boutiques de cosmétiques et des stands de street food : excellentes liaisons de métro, tout est accessible à pied. La base classique et simple pour une première visite.",
+          "tags": [
+            "Centre commercial",
+            "Stands de rue",
+            "Métro efficace"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Myeongdong+Seoul"
+        },
+        {
+          "name": "Hongdae",
+          "badge": "Rythme nocturne",
+          "badge_type": "hot",
+          "description": "Les spectacles de rue, clubs et cafés du quartier universitaire : animé jusque tard dans la nuit. Accès direct à l'aéroport via la ligne AREX — l'adresse pour l'énergie jeune.",
+          "tags": [
+            "Scènes de rue",
+            "Vie nocturne",
+            "Direct aéroport"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hongdae+Seoul"
+        },
+        {
+          "name": "Bukchon et Insadong",
+          "badge": "Âme de Hanok",
+          "badge_type": "vibe",
+          "description": "Le village hanok entre les palais et les ruelles artistiques adjacentes : salons de thé, galeries, silence matinal. Une expérience ondol avec un séjour en hanok — pour se réveiller au cœur de l'histoire.",
+          "tags": [
+            "Séjours en Hanok",
+            "Près des palais",
+            "Salons de thé"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bukchon+Hanok+Village+Seoul"
+        },
+        {
+          "name": "Gangnam",
+          "badge": "Visage moderne",
+          "badge_type": "value",
+          "description": "De larges boulevards, des tours et des restaurants raffinés : la facette moderne et brillante de Séoul. Le COEX et le temple Bongeunsa se côtoient — le centre pour les séjours d'affaires et de confort.",
+          "tags": [
+            "Confort moderne",
+            "Cuisine raffinée",
+            "Grands boulevards"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gangnam+Seoul"
+        },
+        {
+          "name": "Seongsu",
+          "badge": "Reconversion branchée",
+          "badge_type": "local",
+          "description": "Le 'Brooklyn de Séoul', où d'anciennes usines de chaussures sont devenues des cafés et des galeries : boutiques éphémères, café de troisième vague. À côté du parc Seoul Forest — pour découvrir la scène créative à la source.",
+          "tags": [
+            "Cafés d'usine",
+            "Scène pop-up",
+            "Près du parc"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Seongsu+Seoul"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Séoul vit intensément ses quatre saisons : les cerisiers en fleurs au printemps, la mousson et les festivals en été, les feuilles écarlates en automne, un ciel glacial mais bleu azur en hiver.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "La vague des cerisiers en fleurs",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Cours de palais en fleurs, pique-niques au bord de la rivière",
+          "description": "Début avril, les cerisiers en fleurs envahissent la ville : les tunnels d'arbres de Yeouido, les cours des palais et les campus se parent de rose. L'air se réchauffe et les pique-niques au bord du fleuve Han commencent — la période la plus photogénique de Séoul.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'avril",
+            "text": "La pleine floraison dure une semaine et le calendrier change chaque année : suivez les cartes de prévision de floraison. Préférez les heures matinales du lac Seokchon à la foule de Yeouido — le même rose, un dixième des gens."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Mousson et nuits au bord du fleuve",
+          "months": "Jul – Aug",
+          "subtitle": "Été · Chaleur humide, averses, pique-niques nocturnes",
+          "description": "La mousson de juillet apporte des averses et août est humide et chaud : les journées s'organisent autour des musées et cafés climatisés, les soirées autour des rives du fleuve Han. Le pique-nique nocturne — une tente, du poulet frit et une brise fluviale — est la signature d'un été à Séoul.",
+          "callout": {
+            "type": "warning",
+            "label": "Note sur la mousson",
+            "text": "Mi-juillet, gardez le parapluie dans votre sac : les averses frappent soudainement — les machines à emballer les parapluies aux sorties de métro existent pour une raison. L'humidité vous épuise ; prévoyez une pause café chaque jour."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Pic des feuilles écarlates",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Ciel clair, avenues de ginkgos dorés",
+          "description": "Octobre et novembre sont les meilleurs mois pour Séoul : ciel cristallin, air frais, ginkgos peignant les avenues d'or. Le granite du Bukhansan vire au cramoisi et les cours des palais captent leur lumière la plus gracieuse — la saison des promeneurs et des photographes.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de novembre",
+            "text": "Début novembre, le jardin arrière de Gyeongbokgung et la route de Samcheong-dong se parent de jaune ginkgo : allez-y tôt et promenez-vous tant que la lumière est basse. C'est aussi la meilleure période de l'année pour la randonnée au sommet du Bukhansan — choisissez un jour de semaine."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Jours bleu azur",
+          "months": "Dec – Mar",
+          "subtitle": "Hiver · Froid glacial, ciel bleu profond, étals fumants",
+          "description": "L'hiver à Séoul est rigoureux : il fait parfois moins dix, mais le ciel reste d'un bleu profond la plupart du temps. La vapeur des étals de rue, les crêpes hotteok et la chaleur des jjimjilbangs sont les récompenses de l'hiver — et quand il neige, les cours des palais deviennent des cartes postales.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de janvier",
+            "text": "Par une nuit glaciale, allez dans un jjimjilbang : piscines chaudes, salle de sel et sieste sur le sol chauffé — la thérapie hivernale coréenne. En sortant, achetez un hotteok chaud à un stand : le sirop brûle la main, et ça en vaut la peine."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La table coréenne est l'architecture du partage : de la viande sur des braises, une armée de banchan au centre, du soju à côté — et tout a son étiquette.",
+      "local_word": {
+        "word": "Banchan",
+        "pronunciation": "BAN-chan",
+        "definition": "L'armée de petites assiettes qui accompagne le plat principal : kimchi, cornichons, légumes assaisonnés, petites omelettes. Tout est inclus, tout est à volonté — ne soyez pas surpris si la table se remplit de petites assiettes ; c'est la constitution de la table coréenne. La générosité des banchan est le premier signe d'un bon restaurant."
+      },
+      "items": [
+        {
+          "icon": "🥓",
+          "name": "Le rituel du samgyeopsal",
+          "description": "De la poitrine de porc ou du bœuf sur des braises encastrées dans votre table : coupé aux ciseaux, enveloppé dans une feuille de laitue — ail, ssamjang et un morceau de kimchi à l'intérieur. Mangez l'enveloppe en une seule bouchée ; l'étiquette l'exige. L'heure autour du grill est le cœur de la vie sociale de Séoul.",
+          "tag": "Braises à table · wraps en une bouchée",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=samgyeopsal+Seoul"
+        },
+        {
+          "icon": "🏮",
+          "name": "Les classiques du marché de Gwangjang",
+          "description": "Aux étals du marché centenaire : bindaetteok (crêpes de haricots mungo) et mayak gimbap (mini-rouleaux 'addictifs'). Prenez un tabouret et admirez la maîtrise des 'tantes'. L'étal bondé est toujours le bon étal.",
+          "tag": "Classique du marché · sur un tabouret",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gwangjang+Market+Seoul"
+        },
+        {
+          "icon": "🍲",
+          "name": "Kimchi jjigae et une table complète",
+          "description": "Un ragoût de kimchi bouillonnant avec du riz et l'armée de banchan : la pierre angulaire de la cuisine familiale coréenne. Quelques dollars dans un restaurant de midi — sa chaleur rivalise avec son réconfort, et la cuillère est difficile à poser.",
+          "tag": "Classique maison · un pot bouillonnant",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=kimchi+jjigae+Seoul"
+        },
+        {
+          "icon": "🍢",
+          "name": "Tteokbokki et l'étal de rue",
+          "description": "Des gâteaux de riz dans une sauce aigre-douce et piquante, avec des gâteaux de poisson et des mandu frits à côté : le classique des sorties d'école et des promenades nocturnes. L'atmosphère du pojangmacha (étal sous tente) fait la moitié de l'expérience — la vapeur est meilleure par temps froid.",
+          "tag": "Classique de rue · à un étal sous tente",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=tteokbokki+Seoul"
+        },
+        {
+          "icon": "🍗",
+          "name": "Chimaek : poulet + bière",
+          "description": "Du poulet coréen croustillant doublement frit avec de la bière froide : la contraction 'chikin + maekju' est désormais une institution. Commandez-en la moitié en sauce, la moitié nature, et mangez-le au bord de la rivière Han — le plaisir le plus démocratique des soirées de Séoul.",
+          "tag": "L'institution · au bord de la rivière",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=chimaek+chicken+beer+Seoul"
+        },
+        {
+          "icon": "🍧",
+          "name": "Bingsu et culture des cafés",
+          "description": "De la glace pilée fine comme de la neige sous des haricots rouges sucrés, du lait et des fruits : le bingsu est le sommet sucré de Séoul. La scène des cafés de la ville est une raison de voyager en soi — des cafés à thème aux toits-terrasses, le café est pris au sérieux.",
+          "tag": "Dessert glacé · avec la scène des cafés",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=bingsu+cafe+Seoul"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle de table",
+        "text": "Trois signes d'un bon restaurant à Séoul : une file d'attente à l'entrée, des banchan généreux sur la table, peu d'articles au menu. Les restaurants de grillades exigent parfois deux portions pour les convives solitaires — alors les restaurants de ragoûts et de bibimbap sont vos amis."
+      }
+    },
+    "hidden_gems": {
+      "title": "Coins cachés",
+      "intro": "Tout le monde voit Gyeongbokgung ; ces six lieux sont le visage caché de Séoul, parfumé aux hanoks et encadré par les montagnes.",
+      "items": [
+        {
+          "rarity": "Des hanoks transformés en cafés",
+          "name": "Ikseondong",
+          "description": "Cafés, ateliers et boutiques dans les ruelles étroites de hanoks restaurés : café de troisième vague sous des toits traditionnels. Allez-y un matin de semaine — les ruelles se remplissent l'après-midi, mais la matinée est à vous.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ikseondong+Hanok+Village+Seoul"
+        },
+        {
+          "rarity": "Promenade nocturne sur la muraille",
+          "name": "Les murailles de la forteresse de Naksan",
+          "description": "Le tronçon de Naksan des murailles de la ville est éclairé la nuit : des pierres vieilles de cinq cents ans d'un côté, une ville illuminée de millions de lumières de l'autre. L'itinéraire de Hyehwa à Dongdaemun est l'activité gratuite la plus romantique de Séoul.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Naksan+Park+fortress+wall+Seoul"
+        },
+        {
+          "rarity": "Un sommet accessible en métro",
+          "name": "Bukhansan National Park",
+          "description": "Des pics de granite s'élevant de la ville : le métro et le bus vous déposent à l'entrée, et en quelques heures, vous contemplez la mégalopole depuis la roche nue. Peu de villes de millions d'habitants ont une montagne aussi proche — allez-y un jour de semaine.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bukhansan+National+Park"
+        },
+        {
+          "rarity": "Nuit au bain coréen",
+          "name": "L'expérience du jjimjilbang",
+          "description": "Piscines chaudes, salles de sel et de glace, siestes sur des sols chauffés et la serviette en forme de tête de mouton : le jjimjilbang n'est pas un spa mais une institution sociale. Vous pouvez même y passer la nuit — s'endormir sur un sol chaud est la manière coréenne de se ressourcer.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=jjimjilbang+Seoul"
+        },
+        {
+          "rarity": "Le marché des tantes",
+          "name": "Mangwon Market",
+          "description": "Un marché de quartier que les touristes atteignent rarement : stands de poulet frit, plats faits maison et prix abordables. Faites vos achats, puis marchez cinq minutes jusqu'à la rivière Han — marché plus pique-nique au bord de la rivière est la formule week-end des habitants.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mangwon+Market+Seoul"
+        },
+        {
+          "rarity": "De l'usine au café",
+          "name": "Seongsu and Seoul Forest",
+          "description": "D'anciennes usines de chaussures sont devenues des cafés, des galeries et des boutiques éphémères ; juste à côté, les bosquets de cerfs de la Forêt de Séoul. Partagez un après-midi entre les deux — le présent créatif de Séoul et son souffle vert côte à côte.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Seoul+Forest+Seongsu"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Stratégie de rythme",
+        "text": "Visitez Séoul par couches : palais et hanok le matin, un stand de marché à midi, un café ou une montagne l'après-midi, une promenade sur la muraille ou une rue néon la nuit. Lorsque la fatigue s'accumule, le jjimjilbang vous ressource — cette ville va vite, mais elle a institutionnalisé ses pauses."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Séoul est une ville honnête et sûre ; ses pièges sont petits et faciles à éviter — gardez ces quatre points à l'esprit.",
+      "items": [
+        {
+          "icon": "🗺️",
+          "name": "Faire confiance à Google Maps",
+          "description": "Les données cartographiques sont restreintes en Corée : Google ne tracera pas d'itinéraires à pied et ses estimations de temps sont trompeuses — 'ne pas trouver son chemin' est le problème classique des touristes à Séoul.",
+          "instead": "Téléchargez Naver Map ou Kakao Map et configurez-les en anglais : les numéros de sortie de métro, les horaires de bus et les itinéraires à pied fonctionnent parfaitement. Copier les adresses en coréen peut aussi vous sauver la vie en taxi."
+        },
+        {
+          "icon": "💄",
+          "name": "La pression de vente des 'cadeaux gratuits' à Myeongdong",
+          "description": "Dans certains magasins de cosmétiques, le 'masque gratuit' qu'on vous tend à l'entrée se transforme en une longue et insistante discussion de vente à l'intérieur ; le panier gonfle et les retours sont difficiles.",
+          "instead": "Refusez le cadeau avec un sourire, ou prenez-le et quittez le magasin si vous n'avez besoin de rien. Achetez dans les magasins officiels de marque unique et les chaînes avec étiquettes de prix — et ayez votre passeport pour le shopping détaxé."
+        },
+        {
+          "icon": "🚕",
+          "name": "Le marchandage nocturne des 'taxis noirs'",
+          "description": "Certains chauffeurs attendant dans les zones de vie nocturne citent des chiffres ronds au lieu du compteur ; les touristes confondant un taxi de luxe avec un taxi standard paient le double.",
+          "instead": "Appelez un taxi avec Kakao T ou prenez un taxi orange et argenté avec compteur : le supplément de nuit est légal et modeste, et le marchandage est inutile. Rentrer avant la fermeture du métro est toujours une option — vérifiez le dernier train."
+        },
+        {
+          "icon": "👘",
+          "name": "Locations de hanbok de mauvaise qualité",
+          "description": "Certains magasins près des palais louent le tissu le moins cher au prix le plus élevé ; les 'extras obligatoires' comme les accessoires pour cheveux et les sacs gonflent la facture.",
+          "instead": "Demandez clairement à l'entrée ce qui est inclus : tarif horaire, accessoires, coiffure ? Choisissez un magasin bien noté à l'avance — un hanbok de qualité montre sa différence sur les photos et dans le palais."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "Se perdre à Séoul n'est pas dangereux, c'est juste du temps perdu — avec la bonne carte, une carte T-money et quelques mots coréens, la ville travaille pour vous. En cas de doute, demandez aux jeunes : la plupart prennent l'aide en anglais aussi sérieusement que leurs devoirs."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Du matin au palais à la nuit néon",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Gyeongbokgung et la cérémonie de la garde",
+              "description": "Visitez les cours du palais sous la lumière du matin et assistez à la relève de la garde. Louez un hanbok et l'entrée est gratuite — les photos dureront toute une vie."
+            },
+            {
+              "time": "11:00",
+              "title": "Bukchon et Ikseondong",
+              "description": "Les toits incurvés sur les pentes du village hanok, puis les ruelles de cafés d'Ikseondong : deux heures où tradition et modernité se rencontrent."
+            },
+            {
+              "time": "13:30",
+              "title": "Déjeuner au marché de Gwangjang",
+              "description": "Prenez un tabouret pour du bindaetteok et du mayak gimbap : la maîtrise des tantes derrière leurs étals est un spectacle en soi."
+            },
+            {
+              "time": "15:30",
+              "title": "Cheonggyecheon et Dongdaemun",
+              "description": "Marchez le long du ruisseau jusqu'à l'architecture spatiale du DDP : les courbes de Zaha Hadid sont à leur apogée au coucher du soleil."
+            },
+            {
+              "time": "18:00",
+              "title": "La promenade sur le mur de Naksan",
+              "description": "Montez aux murs depuis Hyehwa : à mesure que les lumières s'allument, la ville s'étend à vos pieds. L'heure gratuite la plus romantique de Séoul."
+            },
+            {
+              "time": "20:00",
+              "title": "Samgyeopsal et les rues nocturnes",
+              "description": "Le rituel de l'enveloppement autour des braises, puis les spectacles de rue de Hongdae ou un stand de pojangmacha : la nuit ne se termine pas tôt à Séoul."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Palais, une montagne et une rivière — Séoul dans son intégralité",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Séoul Classique",
+              "description": "Le parcours d'un jour ci-dessus : le palais, Bukchon, Gwangjang, Cheonggyecheon, Naksan, une nuit Samgyeopsal."
+            },
+            {
+              "time": "Day 2",
+              "title": "Montagne ou la rive moderne",
+              "description": "Selon votre énergie : la randonnée au sommet de Bukhansan le matin, ou le Jardin Secret de Changdeokgung (visite chronométrée) ; les cafés de Seongsu et la Forêt de Séoul l'après-midi ; dîner à Gangnam + la tour de livres de la bibliothèque COEX le soir."
+            },
+            {
+              "time": "Day 3",
+              "title": "Rivière et adieu",
+              "description": "Provisions pour pique-nique matinal du marché de Mangwon, puis vélos et herbe le long de la rivière Han ; shopping à Myeongdong ou une pause jjimjilbang l'après-midi ; chimaek d'adieu le soir — clôture avec la brise de la rivière et du poulet croustillant."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de Survie en 5 Mots",
+      "intro": "Le coréen est une langue courtoise, et vos efforts seront instantanément récompensés. Ces cinq phrases vous ouvriront des portes, que ce soit à table ou dans la rue.",
+      "items": [
+        {
+          "word": "Annyeonghaseyo",
+          "pronunciation": "ahn-nyong-ha-SEH-yo",
+          "meaning": "Bonjour — accompagné d'une légère inclinaison ; valable à toute heure de la journée"
+        },
+        {
+          "word": "Gamsahamnida",
+          "pronunciation": "kam-sah-ham-NEE-da",
+          "meaning": "Merci — de l'étal au métro, votre mot le plus utilisé"
+        },
+        {
+          "word": "Jal meokgesseumnida",
+          "pronunciation": "chal mok-keh-sum-NEE-da",
+          "meaning": "'Je vais bien manger' — dit avant le repas ; cela gagne le cœur de l'hôte"
+        },
+        {
+          "word": "Geonbae!",
+          "pronunciation": "gun-BAE",
+          "meaning": "Santé ! — au moment où le soju est levé ; il est de coutume de se détourner légèrement des aînés en buvant"
+        },
+        {
+          "word": "Juseyo",
+          "pronunciation": "joo-SEH-yo",
+          "meaning": "S'il vous plaît, donnez-moi — combiné avec un geste du doigt, la clé de l'art de commander sans menu"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Check-list Séoul",
+      "completion_message": "Geonbae ! Vous avez vécu la ville des palais et du néon comme elle le mérite !",
+      "items": [
+        {
+          "label": "Visiter Gyeongbokgung en hanbok",
+          "sub": "L'entrée au palais est gratuite si vous en louez un"
+        },
+        {
+          "label": "Assister à la relève de la garde",
+          "sub": "À la porte du palais — au son des tambours"
+        },
+        {
+          "label": "Griller du samgyeopsal et faire des wraps en une bouchée",
+          "sub": "N'oubliez pas le ssamjang"
+        },
+        {
+          "label": "Manger du bindaetteok à Gwangjang",
+          "sub": "Sur un tabouret, au stand des tantes"
+        },
+        {
+          "label": "Se promener le long des murs de Naksan la nuit",
+          "sub": "Remparts illuminés, la ville à vos pieds"
+        },
+        {
+          "label": "Prendre un chimaek au bord de la rivière Han",
+          "sub": "Poulet croustillant + bière — sur l'herbe"
+        },
+        {
+          "label": "Gravir le sommet granitique de Bukhansan",
+          "sub": "Jusqu'à la porte de la montagne en métro — en semaine"
+        },
+        {
+          "label": "Passer une soirée dans un jjimjilbang",
+          "sub": "Bains chauds, salle de sel, serviette en forme de tête de mouton"
+        },
+        {
+          "label": "S'asseoir dans les cafés hanok d'Ikseondong",
+          "sub": "Matin en semaine — les ruelles sont à vous"
+        },
+        {
+          "label": "Manger du tteokbokki dans un pojangmacha",
+          "sub": "Dans la vapeur de la tente — un classique hivernal"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Seattle",
+    "country": "USA",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#4D6B8A",
+    "color_light": "#EAEFF4",
+    "tagline": "La ville émeraude des volutes de café, des sirènes de ferry et des vues sur les montagnes."
+  },
+  "pills": [
+    "La capitale de la culture du café",
+    "Entre montagne et mer",
+    "Berceau du grunge et de la technologie"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Seattle",
+      "intro": "Seattle est une bande d'émeraude coincée entre deux eaux : les ferries de Puget Sound d'un côté, le lac Washington de l'autre, et à l'horizon le Mont Rainier apparaissant et disparaissant parmi les nuages. Cette ville a donné au monde la culture du café, le grunge et des géants du logiciel, pourtant sa vie quotidienne s'écoule toujours au marché, sur le pont du ferry et dans le café du quartier. La réputation de la pluie est exagérée — il bruine et ça passe ; les habitants ne portent même pas de parapluies. Et quand 'la Montagne est sortie', tout est bon dans la journée.",
+      "local_word": {
+        "word": "La Montagne est sortie",
+        "pronunciation": "thuh MOWN-tin iz owt",
+        "definition": "L'expression locale annonçant que le Rainier est sorti des nuages. Le volcan de 4 392 mètres se cache la plupart du temps ; le matin où il apparaît, la phrase circule dans les bureaux, les bus et les cafés. Quand vous l'entendez, courez à une fenêtre — les plus beaux jours de Seattle s'ouvrent avec ces mots."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Visitez Pike Place le matin, évitez la file d'attente du premier Starbucks",
+          "description": "À 09h00, le marché crépite d'énergie d'installation ; à midi, c'est épaule contre épaule : voyez le lancer de poisson, les étals de fleurs et les tables d'artisanat dans le calme matinal. La file d'attente du 'premier Starbucks' peut durer une heure — à l'intérieur, c'est un magasin ordinaire ; buvez votre café chez les torréfacteurs indépendants de la ville."
+        },
+        {
+          "number": 2,
+          "title": "Laissez le parapluie, portez des couches",
+          "description": "La pluie de Seattle est une bruine, pas une averse : les habitants portent des vestes à capuche, et un parapluie marque le touriste. Une couche imperméable et des chaussures de marche suffisent — la bruine n'annule pas les plans ; elle les transforme en pauses café."
+        },
+        {
+          "number": 3,
+          "title": "Montez à bord d'un ferry — la destination importe peu",
+          "description": "Les ferries de Puget Sound sont la plus belle 'visite' de la ville : la traversée de Bainbridge offre une vue sur la skyline, les montagnes et les mouettes en 35 minutes. Les billets piétons sont bon marché — traversez, buvez un café en ville, et admirez le coucher de soleil sur le pont au retour."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Sea-Tac (SEA)",
+          "sub": "~40 min de la ville par Link"
+        },
+        {
+          "icon": "⛰️",
+          "label": "Emblème",
+          "value": "Pike Place + Rainier",
+          "sub": "Échoppes de marché et skyline volcanique"
+        },
+        {
+          "icon": "💵",
+          "label": "Monnaie",
+          "value": "Dollar (USD)",
+          "sub": "Cartes partout, pourboire 18–20%"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "English",
+          "sub": "Poli mais réservé : le Seattle Freeze"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Seattle",
+        "text": "Cette ville ne vit pas grâce au temps, mais malgré lui : promenades sous la bruine, café sous les nuages, tout le monde dehors au soleil. Gardez vos plans flexibles et précipitez-vous dehors dès qu'un rayon de soleil apparaît — les journées de Seattle sont belles par fragments, et ces fragments ne doivent pas être manqués."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Seattle est une ville vallonnée apaisée par le rail : le train Link est l'épine dorsale, les ferries un régal, les quartiers des îles accessibles à pied.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arriver de l'aéroport",
+          "description": "Depuis Sea-Tac, le tramway Link atteint le centre-ville en 40 minutes : économique et sans embouteillages. Carte ORCA ou sans contact — une application de covoiturage prend 25 à 50 minutes selon le trafic ; le train est plus rapide la plupart du temps."
+        },
+        {
+          "icon": "🚈",
+          "title": "Tramway Link",
+          "description": "La ligne nord-sud relie l'université à l'aéroport : les arrêts Capitol Hill et Downtown couvrent les besoins d'un visiteur. Le réseau en expansion fait de la ville une priorité ferroviaire — choisissez votre hôtel près de la ligne."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Le réseau de ferries",
+          "description": "Les ferries partent du Colman Dock pour Bainbridge et Bremerton toute la journée : monter à pied est économique et sans effort. Le pont peut être froid — la vue récompense la veste avec intérêt."
+        },
+        {
+          "icon": "🚶",
+          "title": "Marcher en colline",
+          "description": "Le triangle Downtown–Pike Place–front de mer est praticable à pied mais vallonné : les escaliers du marché à la rive et la nouvelle promenade du front de mer constituent un itinéraire agréable. Capitol Hill et Fremont se parcourent bien à pied."
+        },
+        {
+          "icon": "🚲",
+          "title": "Le sentier Burke-Gilman",
+          "description": "L'ancienne voie ferrée offre des kilomètres de cyclisme au bord du lac : le tronçon Fremont-à-Gas Works est le classique. Les vélos et trottinettes partagés abondent — le meilleur itinéraire par temps sec."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil ferry",
+        "text": "Montez sur le ferry de Bainbridge quarante minutes avant le coucher du soleil : la ligne d'horizon devient dorée à l'aller et les lumières de la ville s'allument au retour. Tenez-vous sur le pont ouvert — si le Rainier est visible, la vue est triplée. Ce billet est le miracle le moins cher de la ville."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Seattle, le choix de l'hébergement est une question de rythme : Downtown près du marché, l'énergie nocturne de Capitol Hill, le charme excentrique de Fremont, l'âme scandinave de Ballard.",
+      "local_word": {
+        "word": "The Sound",
+        "pronunciation": "thuh SOWND",
+        "definition": "Le raccourci local pour le Puget Sound : la mer intérieure sculptée par les glaciers qui enveloppe l'ouest de la ville. Les ferries le traversent, les orques y nagent, le soleil s'y couche. Une 'chambre avec vue sur le Sound' est un symbole de statut à Seattle — les habitants donnent même des directions en disant 'côté Sound'."
+      },
+      "items": [
+        {
+          "name": "Downtown et autour de Pike Place",
+          "badge": "Près du marché",
+          "badge_type": "hot",
+          "description": "À distance de marche des étals, du front de mer et de la ligne Link : la base pratique pour une première visite. Observer l'installation du marché le matin est la récompense de cet emplacement.",
+          "tags": [
+            "À pied jusqu'au marché",
+            "Promenade au bord de l'eau",
+            "Sur la ligne Link"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pike+Place+Market+Downtown+Seattle"
+        },
+        {
+          "name": "Capitol Hill",
+          "badge": "Énergie nocturne",
+          "badge_type": "vibe",
+          "description": "Cafés, disquaires, bars et la scène nocturne la plus animée de la ville : le cœur du jeune Seattle. Deux arrêts Link depuis Downtown — pour les amateurs d'énergie et de caractère.",
+          "tags": [
+            "Scène café",
+            "Vie nocturne",
+            "Sur la ligne Link"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Capitol+Hill+Seattle"
+        },
+        {
+          "name": "Ballard",
+          "badge": "Âme scandinave",
+          "badge_type": "local",
+          "description": "Les brasseries de l'ancien quartier de pêcheurs, le marché de rue du dimanche et les écluses du canal : il vit à son propre rythme de petite ville. Excellents restaurants de fruits de mer — le côté calme et plein de caractère.",
+          "tags": [
+            "Brasseries",
+            "Marché du dimanche",
+            "Les écluses"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ballard+Seattle"
+        },
+        {
+          "name": "Fremont",
+          "badge": "Étrange et charmant",
+          "badge_type": "local",
+          "description": "Le 'centre de l'univers' autoproclamé : un troll sous le pont, un marché aux puces le dimanche, des promenades le long du canal. Le sens de l'humour de Seattle réside ici.",
+          "tags": [
+            "Près du troll",
+            "Promenades le long du canal",
+            "Puces du dimanche"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fremont+Seattle"
+        },
+        {
+          "name": "Queen Anne",
+          "badge": "Colline panoramique",
+          "badge_type": "value",
+          "description": "Le quartier sur la colline à côté de la Space Needle : le célèbre cadre de la skyline du Kerry Park s'y trouve. Rues calmes, petits déjeuners sur le porche — la base élégante pour le visiteur qui privilégie la vue.",
+          "tags": [
+            "Kerry Park",
+            "Près de la Space Needle",
+            "Rues calmes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Queen+Anne+Seattle"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Le secret de Seattle est dans le calendrier : de juillet à septembre, c'est un paradis presque sans pluie, et l'hiver est la saison du café et des musées.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Cerisiers en fleurs et éclaircies",
+          "months": "Mar – Mai",
+          "subtitle": "Printemps · Campus en fleurs, soleil perçant",
+          "description": "Fin mars, les cerisiers du campus universitaire se transforment en un dôme rose, et les champs de tulipes fleurissent au nord. Le temps est capricieux : bruine, soleil et arc-en-ciel partagent la même heure — la saison des couches et de la flexibilité.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'avril",
+            "text": "Début avril, visitez le UW Quad le matin : des salles gothiques sous les cerisiers en fleurs — la carte postale d'un printemps à Seattle. Combinez cela avec les champs de tulipes de Skagit, à une heure au nord, et la journée est complète."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Le miracle de la saison sèche",
+          "months": "Jun – Sep",
+          "subtitle": "Été · Ensoleillé 24°C, longues soirées, la Montagne toujours visible",
+          "description": "L'été de Seattle est le secret le mieux gardé de l'Amérique : juillet et août sont presque sans pluie, lumineux jusqu'à 22h00 et sans humidité. La Montagne est visible la plupart des jours, les lacs sont propices à la baignade, la ville devient festive — la fenêtre dorée du calendrier.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'août",
+            "text": "Un soir d'août, asseyez-vous au sommet de Gas Works Park : lac, skyline et coucher de soleil dans un même cadre. Pour une journée à Rainier, conduisez deux heures — la saison des fleurs sauvages sur les sentiers de Paradise tombe exactement pendant ces semaines."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Feuilles dorées et saumons",
+          "months": "Oct – Nov",
+          "subtitle": "Automne · Parcs cramoisis, saumons de retour, premières bruines",
+          "description": "Octobre peint la ville en or, les saumons rentrent chez eux par les écluses du canal, et les cafés passent en mode hiver. La bruine commence mais sans drame — une saison calme, brumeuse et photogénique.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'octobre",
+            "text": "Visitez l'échelle à poissons des Ballard Locks en octobre : observez les saumons monter derrière la vitre — gratuit et fascinant. Une bière de brasserie à Ballard après est la bonne conclusion de l'automne."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Saison du café et du brouillard",
+          "months": "Dec – Feb",
+          "subtitle": "Hiver · Jours courts, bruine, fenêtres embuées",
+          "description": "L'hiver à Seattle se passe à l'intérieur : les cafés se remplissent, les musées se calment, et l'obscurité précoce cède la place aux vitrines éclairées. La neige est rare et la bruine constante — le fameux 'gris' prend tout son sens pendant ces mois, et le café est si bon précisément à cause de cela.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de janvier",
+            "text": "Par un matin de bruine, dessinez une carte du café : trois torréfacteurs indépendants, trois méthodes d'infusion, des disquaires et des librairies entre les deux. C'est la bonne façon de vivre un hiver à Seattle — sans parapluie, encapuchonné, une tasse chaude à la main."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La table de Seattle est la générosité des eaux froides : saumon et huîtres, le bourdonnement frais des étals du marché, et la tasse de café la plus sérieuse du monde.",
+      "local_word": {
+        "word": "Teriyaki",
+        "pronunciation": "teh-ree-YAH-kee",
+        "definition": "La signature culinaire quotidienne de Seattle : la formule poulet grillé au soja sucré et riz, née dans les petites boutiques ouvertes par des maîtres immigrants japonais dans les années 1970. Des centaines de restaurants teriyaki indépendants parsèment la ville — bon marché, rapides et authentiques. Ce que la pizza est à New York, le teriyaki l'est à Seattle."
+      },
+      "items": [
+        {
+          "icon": "☕",
+          "name": "Le rituel du café",
+          "description": "Starbucks est né ici, mais le cœur de la ville bat dans les torréfacteurs indépendants : origines uniques, 'pour overs' et sérieux de l'art du latte. Demandez au barista 'qu'est-ce que vous préparez aujourd'hui ?' — à Seattle, cette question est une marque de respect.",
+          "tag": "Tournée des torréfacteurs · demandez au barista",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=coffee+roaster+Seattle"
+        },
+        {
+          "icon": "🐟",
+          "name": "Une virée aux étals de Pike Place",
+          "description": "Comptoirs où l'on jette le poisson, la boulangerie de piroshky, une tasse de chaudrée et des fruits frais : une visite debout à l'intérieur du marché est le meilleur déjeuner. Allez-y le matin — l'installation des étals est un spectacle en soi.",
+          "tag": "Tournée du marché · heures du matin",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pike+Place+Market+Seattle"
+        },
+        {
+          "icon": "🍗",
+          "name": "Le classique du restaurant teriyaki",
+          "description": "Poulet grillé au soja sucré, riz vapeur et salade de chou : le repas complet du restaurant teriyaki de quartier. Une devanture simple et des tables pleines — la démocratie quotidienne des saveurs de Seattle.",
+          "tag": "La signature de la ville · devanture simple",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=teriyaki+Seattle"
+        },
+        {
+          "icon": "🦪",
+          "name": "La table des huîtres et du saumon",
+          "description": "Huîtres du Puget Sound sur glace, saumon sockeye sur les braises : la générosité des eaux froides dans l'assiette. L'happy hour des bars à huîtres est le meilleur luxe abordable de la ville — on demande toujours le saumon de saison, on ne le refuse jamais.",
+          "tag": "Générosité des eaux froides · happy hour",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=oyster+bar+Seattle"
+        },
+        {
+          "icon": "🍜",
+          "name": "Pho et dim sum dans l'ID",
+          "description": "Les cuisines légendaires du Chinatown-International District : bols de pho fumants, chariots de dim sum et boulangeries philippines. La réponse la plus chaleureuse à une journée pluvieuse se trouve dans ce quartier.",
+          "tag": "Quartier fumant · remède contre la bruine",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=pho+International+District+Seattle"
+        },
+        {
+          "icon": "🍩",
+          "name": "La scène des beignets et des glaces",
+          "description": "Les boutiques de beignets artisanaux et les glaciers locaux prennent la compétition sucrée au sérieux : une boule de lavande ou de caramel salé à côté de votre café est la touche finale signature.",
+          "tag": "Rivalité sucrée · à côté du café",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=doughnut+Seattle"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle de table",
+        "text": "Ne faites pas la queue pour le 'premier Starbucks' : en même temps, vous pouvez visiter deux torréfacteurs indépendants, et les deux sont meilleurs. Avec les fruits de mer, la question de la saison gagne le respect — demandez 'quelles huîtres aujourd'hui ?' et la réponse vous mènera à la bonne assiette."
+      }
+    },
+    "hidden_gems": {
+      "title": "Coins Cachés",
+      "intro": "Tout le monde voit la Space Needle ; ces six lieux révèlent le visage caché de Seattle, marqué par les ferries et l'ombre des trolls.",
+      "items": [
+        {
+          "rarity": "Parc industriel au coucher du soleil",
+          "name": "Gas Works Park",
+          "description": "Les tours rouillées d'une ancienne usine de gazéification transformées en sculpture au bord du lac : depuis sa colline, vous observez la skyline, les voiliers et le coucher du soleil. La pelouse la plus appréciée de Seattle – partagée avec les amateurs de cerf-volant et les habitants en pique-nique.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gas+Works+Park+Seattle"
+        },
+        {
+          "rarity": "Le trône de la skyline",
+          "name": "Kerry Park",
+          "description": "La petite terrasse sur la colline de Queen Anne : la Space Needle, la skyline et, par temps clair, le mont Rainier dans un seul cadre. Les cartes postales sont prises d'ici – prenez votre place vingt minutes avant le coucher du soleil.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kerry+Park+Seattle"
+        },
+        {
+          "rarity": "La porte aux saumons",
+          "name": "The Ballard Locks",
+          "description": "Les écluses entre la mer et le lac, avec une échelle à poissons à côté : tandis que les bateaux montent, les saumons grimpent derrière la vitre. Gratuit, ingénierie et nature sur une même scène – avec un jardin botanique en prime.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ballard+Locks+Seattle"
+        },
+        {
+          "rarity": "Phare et sentier côtier",
+          "name": "Discovery Park",
+          "description": "Le plus grand parc de la ville : des sentiers forestiers descendent vers une côte bordée de falaises, et le Sound s'ouvre au phare de West Point. La boucle de deux heures offre une nature sauvage sans quitter la ville.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Discovery+Park+Seattle"
+        },
+        {
+          "rarity": "Un géant sous le pont",
+          "name": "The Fremont Troll",
+          "description": "Un géant de béton agrippant une vraie Volkswagen sous le pont Aurora : le monument de l'humour du quartier. À combiner avec le marché de Fremont et la statue de Lénine – la visite du 'centre de l'univers' prend une demi-journée.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fremont+Troll+Seattle"
+        },
+        {
+          "rarity": "Évasion insulaire en ferry",
+          "name": "Bainbridge Island",
+          "description": "Une ville insulaire à 35 minutes en ferry : une rue principale avec des librairies, des salles de dégustation de vin et des criques calmes. La vue sur la skyline depuis le pont de retour – la demi-journée la plus agréable de Seattle.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bainbridge+Island+ferry"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Stratégie de vue",
+        "text": "Les vues de Seattle sont rythmées par l'horloge : Kerry Park au coucher du soleil, Gas Works en fin d'après-midi, le pont du ferry à l'heure dorée. Et si la Montagne est visible, annulez tous vos plans et courez vers un point de vue – une photo avec le Rainier est le souvenir le plus précieux de Seattle."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Seattle est une ville honnête ; ses pièges sont petits mais dévoreurs de temps – connaissez ces quatre-là.",
+      "items": [
+        {
+          "icon": "☕",
+          "name": "La file d'attente du 'premier Starbucks'",
+          "description": "Une file d'une heure devant le magasin historique de Pike Place : à l'intérieur, un menu ordinaire et des tasses souvenirs – un arrêt photo, pas une expérience café.",
+          "instead": "Photographiez la façade et dirigez-vous vers un torréfacteur indépendant à deux pâtés de maisons : la vérité du café de Seattle s'y prépare. Les comptoirs historiques à l'intérieur du marché sont sans file d'attente et meilleurs aussi."
+        },
+        {
+          "icon": "🗼",
+          "name": "Prendre la Space Needle pour la seule vue",
+          "description": "Le billet pour la Space Needle est cher et sa vue ne montre pas la Needle elle-même ; la file s'allonge les jours d'été.",
+          "instead": "Kerry Park offre une vue gratuite sur la skyline AVEC la Space Needle ; l'observatoire historique de la Smith Tower est moins cher et plein de caractère. Si vous montez, réservez le créneau du coucher de soleil à l'avance."
+        },
+        {
+          "icon": "🌂",
+          "name": "Se promener avec un parapluie",
+          "description": "La bruine de Seattle rend les parapluies inutiles : le vent les retourne, les habitants vous regardent, et votre main reste occupée.",
+          "instead": "Une veste imperméable à capuche et des chaussures de marche : c'est l'uniforme local. La bruine ne gâche aucun plan – quand le soleil perce, le soleil est là de toute façon ; continuez à marcher."
+        },
+        {
+          "icon": "🅿️",
+          "name": "Conduire à Pike Place",
+          "description": "Les rues étroites du marché et les garages coûteux sont saturés à midi : la chasse au parking dévore la joie du marché.",
+          "instead": "Venez en Link ou à pied ; si une voiture est inévitable, utilisez les garages du front de mer. À 09h00, le marché offre à la fois un parking et le calme des étals – les retardataires voient la foule, les lève-tôt voient le marché."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "À Seattle, les meilleures choses sont soit gratuites, soit matinales : l'installation du marché, le pont du ferry, Kerry Park et l'échelle à poissons ne coûtent rien. Gardez votre budget pour le café, les huîtres et une journée Rainier – la ville offre le reste en bruine et en vues."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Du matin au marché au coucher de soleil en ferry",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Pike Place au moment de l'installation",
+              "description": "Entrez pendant que les étals s'installent : lancer de poissons, tours de fleurs et les premières piroshky. Prenez votre café chez un torréfacteur indépendant."
+            },
+            {
+              "time": "10:30",
+              "title": "Le front de mer et l'aquarium",
+              "description": "Descendez les escaliers du marché jusqu'au rivage : promenez-vous sur la nouvelle promenade et passez voir les loutres de mer si vous le souhaitez."
+            },
+            {
+              "time": "12:30",
+              "title": "Déjeuner Teriyaki ou chowder",
+              "description": "Un menu fixe dans un restaurant teriyaki de quartier ou une tasse de chowder au marché : la saveur quotidienne de Seattle."
+            },
+            {
+              "time": "14:00",
+              "title": "Seattle Center et le musée de la musique",
+              "description": "Monorail jusqu'au Seattle Center : la tour de guitares du MoPOP et la mémoire du grunge, ou le jardin de verre de Chihuly — votre choix."
+            },
+            {
+              "time": "16:30",
+              "title": "Le cadre de Kerry Park",
+              "description": "Montez à Queen Anne : l'Aiguille, la ligne d'horizon et, avec un peu de chance, le Rainier. La carte postale de la ville est prise depuis cette terrasse."
+            },
+            {
+              "time": "18:00",
+              "title": "Le coucher de soleil en ferry vers Bainbridge",
+              "description": "Montez à bord et sur le pont : une ligne d'horizon dorée au départ, les lumières de la ville au retour. Terminez par une happy hour huîtres à Downtown."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Marché, canaux et la Montagne — le Seattle complet",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Seattle Classique",
+              "description": "Le parcours d'un jour ci-dessus : matin au marché, le front de mer, Seattle Center, Kerry Park, le coucher de soleil en ferry."
+            },
+            {
+              "time": "Day 2",
+              "title": "Les quartiers nord",
+              "description": "Fremont le matin : le troll, une promenade le long du canal et un café ; l'échelle à saumons aux Ballard Locks à midi ; bière de brasserie et lèche-vitrine à Ballard ; coucher de soleil sur la colline de Gas Works + dîner à Wallingford."
+            },
+            {
+              "time": "Day 3",
+              "title": "Journée montagne ou île",
+              "description": "Si le ciel est dégagé, une journée complète au Rainier (sentiers de Paradise, fleurs sauvages ou vues enneigées) ; sinon, une tournée des cafés de Capitol Hill + dim sum dans le quartier ID + un après-midi au musée. Le repas d'adieu est un saumon grillé au charbon — la Montagne dans l'assiette même quand elle est cachée."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de survie en 5 mots",
+      "intro": "Le parler de Seattle est doux, ironique et intimement lié à la météo ; ces cinq expressions saisissent la fréquence de la ville.",
+      "items": [
+        {
+          "word": "The Mountain is out",
+          "pronunciation": "thuh MOWN-tin iz owt",
+          "meaning": "Le mont Rainier est visible et la journée vient de s'améliorer — courez à une fenêtre quand vous l'entendez."
+        },
+        {
+          "word": "Sunbreak",
+          "pronunciation": "SUN-brayk",
+          "meaning": "Une éclaircie entre les nuages — le mot officiel pour la météo de Seattle."
+        },
+        {
+          "word": "Seattle Freeze",
+          "pronunciation": "see-AT-ul freez",
+          "meaning": "Le nom de la sociabilité polie mais réservée de la ville — ne le prenez pas personnellement ; offrez un café."
+        },
+        {
+          "word": "The Sound",
+          "pronunciation": "thuh SOWND",
+          "meaning": "Abréviation de Puget Sound — la mer intérieure des ferries et des orques."
+        },
+        {
+          "word": "Drip",
+          "pronunciation": "drip",
+          "meaning": "Le nom local du café filtre — 'just a drip, please' est la commande la plus simple et la plus respectée."
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Liste de choses à faire à Seattle",
+      "completion_message": "La montagne est visible ! Vous avez vécu la ville émeraude comme elle le mérite !",
+      "items": [
+        {
+          "label": "Regardez le lancer de poisson à Pike Place",
+          "sub": "À l'heure de l'installation — sans la foule"
+        },
+        {
+          "label": "Buvez un café filtre chez un torréfacteur indépendant",
+          "sub": "Au lieu de faire la queue au premier Starbucks"
+        },
+        {
+          "label": "Prenez le pont du ferry de Bainbridge",
+          "sub": "La traversée au coucher du soleil — une skyline dorée"
+        },
+        {
+          "label": "Photographiez la skyline depuis Kerry Park",
+          "sub": "Space Needle + Rainier par temps clair"
+        },
+        {
+          "label": "Voyez l'échelle à saumons aux Ballard Locks",
+          "sub": "L'ascension derrière la vitre — gratuit"
+        },
+        {
+          "label": "Rencontrez le Troll de Fremont",
+          "sub": "Un géant agrippant une Volkswagen sous le pont"
+        },
+        {
+          "label": "Admirez le coucher du soleil depuis Gas Works Hill",
+          "sub": "Tours rouillées et la skyline du lac"
+        },
+        {
+          "label": "Mangez un plat teriyaki dans un restaurant de quartier",
+          "sub": "La signature culinaire quotidienne de la ville"
+        },
+        {
+          "label": "Profitez d'une happy hour aux huîtres",
+          "sub": "Demandez 'quelles huîtres aujourd'hui ?'"
+        },
+        {
+          "label": "Plongez dans la mémoire du grunge au MoPOP",
+          "sub": "La tour de guitares et les salles Nirvana"
+        }
+      ]
+    }
+  }
+}

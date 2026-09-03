@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "city": "Barcelona",
+    "country": "Spain",
+    "language": "de",
+    "version": "2.1",
+    "color_primary": "#B5121B",
+    "color_light": "#FBEAEA",
+    "tagline": "Gaudí, Sonne, Meer – und immer, immer Katalanisch zuerst.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Pass auf deine Taschen auf",
+    "Sag Bon dia",
+    "Abendessen nach 21 Uhr"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Barcelona",
+      "intro": "Beim Spaziergang durch Barcelona könnten Sie sich in einem Märchen, einer mittelalterlichen Burg oder auf einer riesigen Strandparty wiederfinden – manchmal alles drei am selben Nachmittag. Dies ist eine stolze Stadt, die sich nicht zuerst als spanisch, sondern als katalanisch identifiziert. Hier gibt es keine geraden Linien. Gaudí hat dafür gesorgt. Die Zeit vergeht anders. Das Abendessen beginnt um 21 Uhr. Die Party startet nach Mitternacht.",
+      "local_word": {
+        "word": "Bon dia",
+        "pronunciation": "bon DEE-ah",
+        "definition": "Guten Morgen auf Katalanisch – nicht Spanisch. Sagen Sie dies, wenn Sie ein Geschäft betreten, und beobachten Sie, wie sich die Türen öffnen. Dieses kleine Wort signalisiert, dass Sie Barcelona so sehen, wie es sich selbst sieht."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Bewachen Sie Ihre Wertsachen – immer",
+          "description": "Barcelona ist eine der Taschendiebstahl-Hauptstädte Europas. La Rambla und das Gotische Viertel sind die Hotspots. Tasche vorne, Handy in der Tasche. Das ist keine Paranoia – das ist die goldene Regel."
+        },
+        {
+          "number": 2,
+          "title": "Essen Sie niemals auf La Rambla",
+          "description": "Gefrorene Paellas und überteuerte Getränke. Zwei Straßen weiter in jedes Viertel hinein und das Essen verwandelt sich komplett. Gehen Sie immer weg vom Hauptboulevard, um zu essen."
+        },
+        {
+          "number": 3,
+          "title": "Buchen Sie Gaudí-Tickets Wochen im Voraus",
+          "description": "Sagrada Família und Park Güell sind ständig ausverkauft. Kein Ticket = Abweisung an der Tür. Kaufen Sie online, wählen Sie Ihr Zeitfenster. Keine Ausnahmen."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "El Prat (BCN)",
+          "sub": "Aerobús · ~35 Min. · direkt ins Zentrum"
+        },
+        {
+          "icon": "🚇",
+          "label": "Bestes Ticket",
+          "value": "T-Casual card",
+          "sub": "Metro, Bus & Bahn · nur zur persönlichen Nutzung"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Katalanisch + Spanisch",
+          "sub": "Sagen Sie Bon dia – nicht Buenos días"
+        },
+        {
+          "icon": "🌙",
+          "label": "Abendessenzeit",
+          "value": "9 PM minimum",
+          "sub": "Siesta schließt Geschäfte 14–17 Uhr"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Mañana-Kultur",
+        "text": "Geschäfte schließen mittags für die Siesta – 14–17 Uhr. Kämpfen Sie nicht dagegen an. Suchen Sie sich eine schattige Terrasse, bestellen Sie Cava und praktizieren Sie die katalanische Kunst, nichts auf schöne Weise zu tun."
+      }
+    },
+    "transport": {
+      "title": "Fortbewegung",
+      "intro": "Barcelonas Verkehrsmittel sind effizient – aber die Wahl des richtigen Tickets von Anfang an spart Ihnen bares Geld und echte Kopfschmerzen.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Flughafen → Stadtzentrum",
+          "description": "Der Aerobús ist der schnellste und einfachste Weg – er fährt häufig von beiden Terminals direkt zur Plaça de Catalunya und benötigt etwa 35 Minuten. Der Zug von Terminal 2 ist günstiger, aber selten und langsam. Die Metro L9 Sud erfordert ein spezielles Ticket und fährt nicht direkt ins Zentrum – kompliziert und nicht lohnenswert."
+        },
+        {
+          "icon": "🎫",
+          "title": "T-Casual Karte – Ihr täglicher Lebensretter",
+          "description": "Kaufen Sie sie an den roten Automaten in jeder Metrostation. 10 Fahrten in Zone 1, gültig für Metro, Bus und Zug. Wichtige Regel: nur zur persönlichen Nutzung. Zwei Personen können eine Karte nicht teilen – jede Person benötigt ihre eigene. Jeder Tourist lernt das auf die harte Tour."
+        },
+        {
+          "icon": "♾️",
+          "title": "Hola Barcelona Travel Card – unbegrenzte Fahrten",
+          "description": "Unbegrenzte Fahrten mit Metro, Bus, Tram und der Flughafen-Metro. Erhältlich für 2 bis 5 Tage. Kaufen Sie online für einen Rabatt. Wenn Sie mehr als vier Fahrten pro Tag machen, ist diese Karte besser als die T-Casual Karte."
+        },
+        {
+          "icon": "🌙",
+          "title": "Metro-Betriebszeiten & Nachtbusse",
+          "description": "Die Metro fährt wochentags bis Mitternacht, freitags bis 2 Uhr morgens und samstags die ganze Nacht. Wenn die Metro schließt, suchen Sie nach Nitbus-Nachtbussen, die mit N gekennzeichnet sind – Ihre Karte ist dort ebenfalls gültig. Nutzen Sie Citymapper oder die TMB-App für Live-Zeiten."
+        },
+        {
+          "icon": "🚲",
+          "title": "Zu Fuß & Radfahren",
+          "description": "Das Gotische Viertel und El Born erkundet man am besten zu Fuß – die Straßen sind zu eng für alles andere. Für längere Strecken oder den Strand mieten Sie ein Fahrrad. Fahren Sie niemals auf Gehwegen – es ist illegal und gefährlich."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Einzelticket-Falle",
+        "text": "Ein Einzelfahrschein für die Metro kostet deutlich mehr als eine Fahrt mit einer T-Casual Karte für die gleiche Strecke. Kaufen Sie die T-Casual Karte am ersten Tag – jede Fahrt danach kostet nur einen Bruchteil."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "Jeder Stadtteil Barcelonas hat seine eigene Seele. Wo Sie schlafen, bestimmt, in welcher Stadt Sie aufwachen.",
+      "local_word": {
+        "word": "Mañana",
+        "pronunciation": "man-YAH-na",
+        "definition": "Technisch gesehen 'morgen' – in Barcelona bedeutet es eigentlich 'nicht jetzt sofort'. Nehmen Sie es an. Die Stadt folgt ihrem eigenen schönen Zeitplan und bestraft jene, die es eilig haben."
+      },
+      "items": [
+        {
+          "name": "Barri Gòtic (Gotisches Viertel)",
+          "badge": "Am historischsten",
+          "badge_type": "vibe",
+          "description": "Das älteste Herz der Stadt. Labyrinthartige römische Mauern, mittelalterliche Architektur, eine überraschende Kirche um jede Ecke. Extrem zentral, aber eng, überfüllt und laut. Hier ist besondere Vorsicht vor Taschendieben geboten.",
+          "tags": [
+            "Unglaublich zentral",
+            "Nachts laut",
+            "Achten Sie auf Ihre Taschen"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Barri+Gotic+Barcelona"
+        },
+        {
+          "name": "Eixample",
+          "badge": "Am elegantesten",
+          "badge_type": "hot",
+          "description": "Der ikonische, nach einem Rasterplan angelegte Stadtteil. Sagrada Família, Casa Batlló und Passeig de Gràcia befinden sich alle hier. Modern, sicher, organisiert. Die besten Restaurants und Design-Boutiquen der Stadt sind hier konzentriert. Ideal für Erstbesucher.",
+          "tags": [
+            "Am besten für Erstbesucher",
+            "Luxusoptionen",
+            "Sicher & zentral"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Eixample+Barcelona"
+        },
+        {
+          "name": "El Born",
+          "badge": "Am künstlerischsten",
+          "badge_type": "vibe",
+          "description": "Direkt neben dem Gotischen Viertel, aber viel trendiger. Picasso-Museum, Boutiquen, stilvolle Bars. Eine großartige Balance zwischen Altstadt und Nachtleben. Nur wenige Gehminuten vom Strand Barceloneta und dem Ciutadella-Park entfernt.",
+          "tags": [
+            "Trendig & künstlerisch",
+            "Nahe am Strand",
+            "Tolles Nachtleben"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Born+Barcelona"
+        },
+        {
+          "name": "Gràcia",
+          "badge": "Am lokalsten",
+          "badge_type": "local",
+          "description": "Einst ein eigenes Dorf – fühlt sich immer noch so an. Die böhmischste, authentischste Ecke der Stadt. Kleine Plätze voller Einheimischer, keine Touristenmenüs, echtes Viertelleben. In der Nähe des Park Güell. Jeden Metro-Halt wert, um dorthin zu gelangen.",
+          "tags": [
+            "Am authentischsten",
+            "Böhmische Atmosphäre",
+            "Metro ins Zentrum"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gracia+Barcelona"
+        },
+        {
+          "name": "Poble-sec",
+          "badge": "Bestes Preis-Leistungs-Verhältnis",
+          "badge_type": "value",
+          "description": "Barcelonas aufstrebender gastronomischer Stern. Nah am Zentrum, aber vom Chaos entfernt. Die Carrer de Blai – die berühmte Pinchos-Straße – ist direkt hier. Erschwinglicher, zutiefst authentisch. Die Wahl der Einheimischen aus gutem Grund.",
+          "tags": [
+            "Bestes Preis-Leistungs-Verhältnis",
+            "Pinchos-Straße",
+            "Lokaler Favorit"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Poble-sec+Barcelona"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Beste Reisezeit",
+      "intro": "Jede Jahreszeit bietet ein völlig anderes Barcelona. Es hängt davon ab, wie viel Hitze und wie viele Menschenmassen Sie bereit sind zu ertragen.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Am poetischsten",
+          "months": "Mär – Mai",
+          "subtitle": "Frühling · Am poetischsten",
+          "description": "Perfektes Spazierwetter – nicht zu heiß, nicht zu kühl. Dann kommt der 23. April: Sant Jordi. Die ganze Stadt verwandelt sich in einen riesigen Blumenladen und eine Freiluftbibliothek. Paare tauschen an jeder Ecke Rosen und Bücher aus. Barcelonas schönster Tag. Wenn Sie nur einmal hier sein können, dann jetzt.",
+          "callout": {
+            "type": "tip",
+            "label": "Nicht verpassen",
+            "text": "Sant Jordi (23. April) – Rosen, Bücher, die ganze Stadt feiert die katalanische Kultur auf den Straßen. Weltweit einzigartig."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Strandsaison",
+          "months": "Jun – Aug",
+          "subtitle": "Sommer · Strandsaison",
+          "description": "Barceloneta quillt über. Die Stadt verwandelt sich in ein vollwertiges Urlaubsresort. Hitze und Feuchtigkeit können wirklich anstrengend sein – Einheimische fahren an die Costa Brava, während Touristen um ihre Strände kämpfen. Aber Primavera Sound und Sónar sind Weltklasse-Festivals, die die ganze Stadt in ihren Bann ziehen.",
+          "callout": {
+            "type": "warning",
+            "label": "Menschenmassen-Warnung",
+            "text": "August ist Hochsaison. Buchen Sie alles Monate im Voraus. Die Strände, um die Sie kämpfen, haben die Einheimischen bereits verlassen."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Goldene Mitte",
+          "months": "Sep – Okt",
+          "subtitle": "Herbst · Die goldene Mitte",
+          "description": "Das Meer ist noch warm genug zum Schwimmen, die Menschenmassen haben sich gelichtet, die Luft ist angenehm mild. Dann bringt Ende September La Mercè – Barcelonas größtes Straßenfest. Riesige Statuen (Gegants), Menschentürme (Castellers), Feuerläufe (Correfoc) und Feuerwerke. Katalanische Kultur in ihrer reinsten Form.",
+          "callout": {
+            "type": "tip",
+            "label": "Nicht verpassen",
+            "text": "La Mercè (Ende September) – kostenlos, stadtweit, außergewöhnlich. Allein die Castellers-Menschentürme sind die Reise wert."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Ohne Menschenmassen",
+          "months": "Nov – Feb",
+          "subtitle": "Winter · Ohne Menschenmassen & Unterschätzt",
+          "description": "Mild, sonnig und wirklich angenehm. Besuchen Sie die Sagrada Família und den Park Güell ohne Warteschlangen. Das lokale Leben verlangsamt sich zu seinem wahren Rhythmus – Café-Terrassen im Januar-Sonnenschein, Weihnachtsmärkte, Winterschlussverkauf. Die Stadt, die Touristen ignorieren, ist die Stadt, die Einheimische am meisten lieben.",
+          "callout": {
+            "type": "tip",
+            "label": "Geheimtipp",
+            "text": "Der Januar-Schlussverkauf (Rebaixes) ist außergewöhnlich. Der Weihnachtsmarkt vor der Kathedrale ist einer der ältesten und authentischsten in Spanien."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "April 23",
+          "text": "Sant Jordi Tag: der katalanische Valentinstag – die Stadt füllt sich mit Buch- und Rosenständen, Barcelonas elegantester Tag."
+        },
+        {
+          "month": "Juni 23–24",
+          "text": "Sant Joan: das Mittsommerfest – Lagerfeuer an den Stränden, Feuerwerk, Feiern bis zum Morgengrauen."
+        },
+        {
+          "month": "Mitte August",
+          "text": "Festa Major de Gràcia: die Straßen von Gràcia werden von den Anwohnern selbst von oben bis unten geschmückt, Konzerte Straße für Straße."
+        },
+        {
+          "month": "Ende September",
+          "text": "La Mercè: das größte Fest der Stadt – Menschentürme (castells), der Feuerlauf (correfoc), kostenlose Konzerte."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Essen in Barcelona ist ein soziales Ritual. Tische sind voll, Teller werden geteilt, und jede Mahlzeit wird zu einem Festmahl.",
+      "local_word": {
+        "word": "Pica-pica",
+        "pronunciation": "PEE-kah PEE-kah",
+        "definition": "Die katalanische Kunst des Snacking – kleine Teller probieren, alles teilen, bei Bedarf nachbestellen. Es ist nicht nur eine Art zu essen, sondern auch eine Art, zur Ruhe zu kommen, Kontakte zu knüpfen und drei Stunden am Tisch zu verweilen, ohne es zu merken."
+      },
+      "items": [
+        {
+          "icon": "🥖",
+          "name": "Pa amb Tomàquet — die katalanische Grundlage",
+          "description": "Geröstetes Brot, eingerieben mit frischem Knoblauch, reifer Tomate und hochwertigem Olivenöl. Wird zu fast jeder Mahlzeit serviert und sollte es auch. Bestellen Sie es überall, immer. Das einfachste Genie der katalanischen Küche.",
+          "tag": "Beginnen Sie jede Mahlzeit damit",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Can+Culleretes+Barcelona"
+        },
+        {
+          "icon": "🍢",
+          "name": "Pinchos an der Carrer de Blai",
+          "description": "Poble-secs legendäre Pinchos-Straße. Hüpfen Sie von Bar zu Bar, bestellen Sie Spießhäppchen und Wein. Ein ganzer Abend voller Essen und Trinken für sehr wenig Geld. Genau so essen die Barceloner abends.",
+          "tag": "Poble-sec · Abendritual",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Carrer+de+Blai+Barcelona"
+        },
+        {
+          "icon": "🥘",
+          "name": "Paella de Marisco — nur zum Mittagessen",
+          "description": "Barcelonas Meeresfrüchte-Paella ist legendär – wird aber nur zum Mittagessen gegessen, niemals zum Abendessen. Paella zum Abendessen zu essen, kennzeichnet Sie sofort als Tourist. Meiden Sie immer Orte mit Mikrowellen-Schildern. Authentische Paella wird frisch in einer Kupferpfanne zubereitet.",
+          "tag": "Nur mittags · Mikrowellen-Versionen meiden",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Can+Sole+Barcelona"
+        },
+        {
+          "icon": "🍮",
+          "name": "Crema Catalana",
+          "description": "Die ursprüngliche Crème brûlée – aromatischer, katalanischer, stolzer auf sich selbst. Die verbrannte Zuckerkruste mit dem Löffel zu zerbrechen, ist eine dieser kleinen Freuden, die Ihnen lange nach Ihrer Abreise in Erinnerung bleiben wird.",
+          "tag": "Das Original — nicht die Kopie",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Granja+Dulcinea+Barcelona"
+        },
+        {
+          "icon": "🥂",
+          "name": "Cava — nicht Sangria",
+          "description": "Sangria ist ein Touristengetränk. Katalanen trinken Cava – Spaniens Schaumwein, der direkt außerhalb der Stadt hergestellt wird. Cava statt Sangria zu bestellen, wird Ihnen von jedem Einheimischen ein echtes Nicken des Respekts einbringen.",
+          "tag": "Bestellen Sie dies, nicht Sangria",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Xampanyet+Barcelona"
+        },
+        {
+          "icon": "☕",
+          "name": "Menu del Día — das lokale Mittagsgeheimnis",
+          "description": "Montag bis Freitag servieren die meisten Restaurants drei Gänge inklusive Getränk zu einem sehr günstigen Preis. Vorspeise, Hauptgericht, Dessert, Wein – alles dabei. So essen Einheimische mittags gut, ohne viel auszugeben. Fast kein Tourist weiß davon.",
+          "tag": "Mo–Fr · bestes Preis-Leistungs-Verhältnis der Stadt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Menu+del+dia+Barcelona"
+        },
+        {
+          "icon": "🐷",
+          "name": "Jamón Ibérico — Pata Negra",
+          "description": "Der feinste Schinken der Welt, von Eicheln gefütterten Schwarzfußschweinen. Er schmilzt auf der Zunge. Finden Sie ihn auf dem Santa Caterina oder Sant Antoni Markt – nicht nur in La Boqueria. Fragen Sie gezielt nach Pata Negra.",
+          "tag": "Fragen Sie gezielt nach Pata Negra",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercat+de+la+Boqueria+Barcelona"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Das zweite Frühstück",
+        "text": "Katalanen frühstücken zweimal. Gegen 11 Uhr machen Arbeiter eine Pause für einen Kaffee und ein Käse- oder Jamón-Sandwich. Cafés füllen sich sofort. Setzen Sie sich, nehmen Sie am Ritual teil, beobachten Sie, wie die Stadt atmet."
+      }
+    },
+    "hidden_gems": {
+      "title": "Versteckte Juwelen",
+      "intro": "Das wahre Barcelona liegt zwei Straßen abseits der Touristenpfade. Hier ist, was die meisten Leute komplett verpassen.",
+      "items": [
+        {
+          "rarity": "Beste Aussicht der Stadt – kostenlos",
+          "name": "Bunkers del Carmel",
+          "description": "Ruinen einer Flugabwehrbatterie aus dem Spanischen Bürgerkrieg auf einem Hügel über der Stadt. 360-Grad-Blick auf Barcelona und das Mittelmeer – besser als jeder kostenpflichtige Aussichtspunkt. Einheimische kommen hierher mit Cava und Musik. Freier Eintritt, steiler Aufstieg, absolut lohnenswert. Hinweis: Ab 2025 schließt die Polizei den Ort wegen Überfüllung vor Sonnenuntergang – gehen Sie morgens oder am frühen Nachmittag für das beste Erlebnis.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bunkers+del+Carmel+Barcelona"
+        },
+        {
+          "rarity": "Versteckte Gartenbar",
+          "name": "El Jardí — Bar in einem gotischen Innenhof",
+          "description": "Versteckt im Innenhof eines alten gotischen Krankenhauses in El Raval. Treten Sie durch eine unscheinbare Tür und finden Sie eine Bar unter Orangenbäumen und mittelalterlichen Bögen. Günstig, ruhig und komplett von der Straße verborgen. Barcelonas friedlichste Ecke.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Jardi+cafe+Barcelona+Raval"
+        },
+        {
+          "rarity": "Gaudís übersehener Rivale",
+          "name": "Recinte Modernista de Sant Pau",
+          "description": "Ein paar Blocks von der Sagrada Família entfernt – der weltweit größte Jugendstilkomplex, entworfen von Gaudís großem Rivalen Domènech i Montaner. Farbenfrohe Mosaike, weitläufige Gärten, märchenhafte Pavillons. Weit weniger Menschenmassen als an jeder Gaudí-Stätte.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Recinte+Modernista+de+Sant+Pau+Barcelona"
+        },
+        {
+          "rarity": "Barcelonas ältester Garten",
+          "name": "Parc del Laberint d'Horta",
+          "description": "Ein neoklassizistischer Garten aus dem 18. Jahrhundert – Barcelonas älteste erhaltene Grünfläche. Enthält ein echtes Heckenlabyrinth aus Zypressen, in dem man sich wirklich verirren kann. Fast nie überfüllt. Geringe Eintrittsgebühr.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Parc+del+Laberint+d%27Horta+Barcelona"
+        },
+        {
+          "rarity": "Die echten lokalen Märkte",
+          "name": "Santa Caterina & Sant Antoni Markets",
+          "description": "La Boqueria ist überlaufen und überteuert. Der Mercat de Santa Caterina hat ein prächtiges, wellenförmiges, farbiges Dach und echte lokale Käufer. Sant Antoni beherbergt einen legendären Sonntagsmarkt für gebrauchte Bücher und Briefmarken. Hier kauft Barcelona wirklich ein.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercat+de+Santa+Caterina+Barcelona"
+        },
+        {
+          "rarity": "Stehplatz-Tapas-Tempel",
+          "name": "Quimet & Quimet — Poble-sec",
+          "description": "Eine Bar so groß wie ein Kleiderschrank. Wände vom Boden bis zur Decke mit Dosen und Flaschen gestapelt. Die Montaditos hier – kleine offene Sandwiches mit geräuchertem Fisch, Wurstwaren, eingelegtem allem – sind außergewöhnlich. Keine Reservierung, keine Speisekarte, keine Sitzplätze. Einfach zeigen und das Glas halten.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quimet+%26+Quimet+Barcelona"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sonntagsritual",
+        "text": "Die Wermut-Stunde (La Hora del Vermut) – vor dem Sonntagsessen gehen Einheimische in eine Vermuteria für hausgemachten Wermut mit Eis, Orange und Olive. Machen Sie mit. Es ist der erste Schritt, sich wie ein echter Barceloní zu fühlen."
+      }
+    },
+    "checklist": {
+      "title": "Barcelona-Checkliste",
+      "completion_message": "¡Perfekt! Du hast Barcelona richtig erlebt!",
+      "items": [
+        {
+          "label": "Besuche die Sagrada Família von innen",
+          "sub": "Wochen im Voraus buchen. Das Lichtspiel der Buntglasfenster im Inneren ist einzigartig auf der Welt."
+        },
+        {
+          "label": "Sage 'Bon dia', wenn du ein Geschäft betrittst",
+          "sub": "Katalanisch, nicht Spanisch. Achte auf das Lächeln, das du dafür bekommst."
+        },
+        {
+          "label": "Mache eine Pinchos-Tour auf der Carrer de Blai",
+          "sub": "Poble-sec — von Bar zu Bar, sehr günstig pro Snack, ein ganzer Abend voller Essen und Trinken"
+        },
+        {
+          "label": "Besuche die Bunkers del Carmel für den Panoramablick",
+          "sub": "Bringe Cava mit. Gehe morgens oder am frühen Nachmittag — die Polizei schließt den Ort seit 2025 vor Sonnenuntergang. Freier Eintritt."
+        },
+        {
+          "label": "Iss ein 'Menu del Día' in einem lokalen Restaurant",
+          "sub": "Mo–Fr — 3 Gänge + Wein, bemerkenswert gutes Preis-Leistungs-Verhältnis. Das bestgehütete Geheimnis der Stadt."
+        },
+        {
+          "label": "Verliere dich im Gotischen Viertel — ohne GPS",
+          "sub": "Schalte es aus. Am Ende jeder Gasse wartet ein überraschender Platz."
+        },
+        {
+          "label": "Nimm an der Sonntags-Wermut-Stunde teil",
+          "sub": "Finde vor dem Mittagessen eine Vermuteria. Wermut, Olive, Orangenscheibe. Setz dich. Bleib."
+        },
+        {
+          "label": "Besuche das Recinte Modernista de Sant Pau",
+          "sub": "Zwei Blocks von der Sagrada Família entfernt — fast keine Warteschlange, ebenso atemberaubend."
+        },
+        {
+          "label": "Bestelle Cava, nicht Sangria",
+          "sub": "Dieser eine Schritt verschafft dir sofortigen Respekt bei den Einheimischen in jeder Bar."
+        },
+        {
+          "label": "Erkunde den Santa Caterina oder Sant Antoni Markt",
+          "sub": "Überspringe La Boqueria — hier kaufen die Barcelonesen wirklich ein."
+        },
+        {
+          "label": "Iss Churros mit heißer Schokolade auf der Carrer de Petritxol",
+          "sub": "Die Schokoladenstraße des Gotischen Viertels. Deine süßeste Barcelona-Erinnerung."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Touristenfallen vermeiden",
+      "intro": "Barcelona liebt Touristen – und produziert Touristenfallen. Kennen Sie diese vier, und sowohl Ihr Geld als auch Ihr Stadterlebnis bleiben unversehrt.",
+      "items": [
+        {
+          "icon": "🥘",
+          "name": "'Paella + Sangria'-Menüs auf La Rambla",
+          "description": "Riesige Fotomenüs, Kellner, die Sie hereinwinken, gefrorene Paella aus der Mikrowelle. Das teuerste und schlechteste Essen der Stadt wird wahrscheinlich hier gegessen.",
+          "instead": "Für Paella gehen Sie mittags zu einem Klassiker am Meer in Barceloneta; für den Abend begeben Sie sich in die Carrer de Blai für Pinchos."
+        },
+        {
+          "icon": "🎟️",
+          "name": "Ohne Ticket an der Sagrada Família auftauchen",
+          "description": "Wer meint, er könne 'ein Ticket an der Tür regeln', wartet entweder stundenlang Schlange oder zahlt Wucherern das Doppelte. Im Sommer sind Tickets für denselben Tag nahezu unmöglich.",
+          "instead": "Kaufen Sie Wochen im Voraus auf der offiziellen Website; wählen Sie die ersten Morgenzeiten oder die Sitzungen kurz vor Sonnenuntergang."
+        },
+        {
+          "icon": "🍹",
+          "name": "Strand-Mojito-Verkäufer und Liegestuhl-Tricks",
+          "description": "Die von Hand zu Hand auf Barceloneta verkauften Mojitos sind unhygienisch und überteuert; einige 'kostenlos aussehende' Liegestühle beginnen zu berechnen, sobald Sie sich setzen.",
+          "instead": "Holen Sie Ihr Getränk in einem Chiringuito (Strandbar); fragen Sie den Liegestuhlpreis, bevor Sie sich setzen."
+        },
+        {
+          "icon": "💃",
+          "name": "Touristen-Flamenco-'Shows'",
+          "description": "Flamenco ist eine andalusische Kunst; die meisten Dinner-Paket-Shows rund um La Rambla sind seelenlose Produktionen, die für Bustouristen inszeniert werden.",
+          "instead": "Wenn Sie unbedingt Flamenco erleben möchten, wählen Sie ein etabliertes Tablao; widmen Sie diesen Abend ansonsten der katalanischen Rumba oder den Live-Musik-Bars."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die goldene Regel",
+        "text": "In Barcelona ist die Qualität eines Ortes umgekehrt proportional zur Anzahl der Menüfotos an seiner Tür. Keine Fotos, da gibt es Hoffnung."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Vorschlägen. Die Zeiten sind flexibel; behalten Sie den Geist bei, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Gaudí + Gotik + das Meer, in einem Atemzug",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Sagrada Família",
+              "description": "Nehmen Sie den ersten Zeitslot: Das Licht durch die Buntglasfenster ist morgens am schönsten, und die Menschenmassen sind noch nicht da. Tickets Wochen im Voraus buchen!"
+            },
+            {
+              "time": "11:00",
+              "title": "Modernisme-Spaziergang in Eixample",
+              "description": "Entlang des Passeig de Gràcia vorbei an Casa Batlló und La Pedrera; auch ohne hineinzugehen, sind die Fassaden ein kostenloses Fest für die Augen."
+            },
+            {
+              "time": "13:30",
+              "title": "Menu del Día",
+              "description": "Biegen Sie eine Straße abseits der Touristenpfade ab und genießen Sie das Tagesmenü: zwei Gänge + Getränk + Dessert, das beste Preis-Leistungs-Verhältnis der Stadt."
+            },
+            {
+              "time": "15:30",
+              "title": "Verlieren Sie sich im Barri Gòtic, ohne GPS",
+              "description": "Die Kathedrale, Plaça Sant Felip Neri, enge mittelalterliche Gassen. Karte aus, Augen auf."
+            },
+            {
+              "time": "18:00",
+              "title": "Meeresbrise in Barceloneta",
+              "description": "Spazieren Sie am Ufer entlang, tauchen Sie Ihre Füße ins Wasser, holen Sie sich ein Getränk von einem Chiringuito."
+            },
+            {
+              "time": "20:30",
+              "title": "Pinchos-Tour auf der Carrer de Blai",
+              "description": "Von Bar zu Bar, ein oder zwei Pinchos und ein Glas in jeder. Der katalanische Abschluss des Abends."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Erleben Sie die Stadt als Gast, nicht als Tourist",
+          "steps": [
+            {
+              "time": "Tag 1",
+              "title": "Gaudí und Modernisme",
+              "description": "Der oben beschriebene 1-Tages-Plan: Sagrada, Eixample, das Gotische Viertel, Blai."
+            },
+            {
+              "time": "Tag 2",
+              "title": "Hügel und verstecktes Barcelona",
+              "description": "Park Güell am Morgen (Zeitfenster-Ticket), Wermut auf den Plätzen von Gràcia am Nachmittag und Bunkers del Carmel bei Sonnenuntergang – die beste Aussicht der Stadt, kostenlos."
+            },
+            {
+              "time": "Tag 3",
+              "title": "Märkte, Born und das Meer",
+              "description": "Frühstück auf dem Markt Santa Caterina oder Sant Antoni, das Picasso-Museum und Boutiquen in El Born, Paella in Barceloneta zum Mittagessen und ein Cava-Abschied im El Xampanyet."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Das 5-Wörter-Survival-Kit",
+      "intro": "Spanisch öffnet jede Tür, aber ein einziges katalanisches Wort zaubert einem Barceloner ein Lächeln ins Gesicht.",
+      "items": [
+        {
+          "word": "Bon dia",
+          "pronunciation": "bon DEE-ah",
+          "meaning": "Guten Morgen / Guten Tag — es beim Betreten eines Geschäfts zu sagen, ist die Höflichkeitsregel der Stadt."
+        },
+        {
+          "word": "Gràcies",
+          "pronunciation": "GRAH-see-es",
+          "meaning": "Danke — das katalanische; 'gracias' funktioniert aber auch immer."
+        },
+        {
+          "word": "Si us plau",
+          "pronunciation": "see oos plow",
+          "meaning": "Bitte — fügen Sie es am Ende Ihrer Bestellung hinzu."
+        },
+        {
+          "word": "Salut!",
+          "pronunciation": "sah-LOOT",
+          "meaning": "Prost! — dazu erheben sich die Cava-Gläser."
+        },
+        {
+          "word": "Adéu",
+          "pronunciation": "ah-DEH-oo",
+          "meaning": "Auf Wiedersehen — mit einem Winken beim Hinausgehen: adéu!"
+        }
+      ]
+    }
+  }
+}

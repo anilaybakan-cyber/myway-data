@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Cairo",
+    "country": "Egypt",
+    "language": "de",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#B08A26",
+    "color_light": "#FAF3DF",
+    "tagline": "Eine Megastadt der tausend Minarette im Schatten der Pyramiden"
+  },
+  "pills": [
+    "Pyramiden am Stadttor",
+    "Stadt der tausend Minarette",
+    "Das Geschenk des Nils"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Kairo",
+      "intro": "Kairo kommt Ihnen nicht entgegen; es umarmt Sie, schüttelt Sie und lässt Sie nie ganz los. In dieser Zwanzig-Millionen-Megacity ruht die Hupensymphonie nie – doch in derselben Stadt gleitet eine Feluke lautlos auf dem Nil, tausendjährige Minarette leuchten entlang der El-Muizz-Straße, und am Horizont warten die Pyramiden seit viereinhalb Jahrtausenden am selben Ort. Der Basarhändler von Khan el-Khalili, der Minztee-Mann im Ahwa, der Meister am Koshary-Stand – sie alle sagen denselben Satz: 'Willkommen in Ägypten!' Ergeben Sie sich seinem Chaos, aber kennen Sie seine Regeln; für den vorbereiteten Reisenden ist Kairo eine der großzügigsten Städte der Welt.",
+      "local_word": {
+        "word": "Maalesh",
+        "pronunciation": "mah-AH-lesh",
+        "definition": "Ägyptens Zauberwort: 'schon gut, passiert, keine Sorge' alles in einem. Verkehrsstau? Maalesh. Pläne geändert? Maalesh. Es ist kein Achselzucken, sondern eine Lebensphilosophie – die Einheimischen fanden vor Tausenden von Jahren den Schlüssel, um in Kairos Chaos ruhig zu bleiben."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Besuchen Sie die Pyramiden zur ersten Stunde",
+          "description": "Seien Sie drinnen, sobald die Tore von Gizeh öffnen: Das Licht ist sanft, die Hitze gnädig, die Menschenmassen und Händler noch spärlich. Gegen Mittag vervielfachen sich sowohl die Sonne als auch das Treiben. Die Anlage ist riesig – bringen Sie Wasser mit, tragen Sie feste Schuhe, planen Sie drei bis vier Stunden ein."
+        },
+        {
+          "number": 2,
+          "title": "Nutzen Sie Fahrdienste-Apps in der Stadt",
+          "description": "In klassischen Taxis ist der Taxameter meist 'kaputt' und das Feilschen anstrengend: Uber und Careem sind in Kairo günstig, überall verfügbar und unkompliziert. Der Preis ist im Voraus festgelegt und Adresserklärungen sind nicht nötig – der Verkehr ist Abenteuer genug; die Bezahlung sollte es nicht sein."
+        },
+        {
+          "number": 3,
+          "title": "Lernen Sie, mit einem Lächeln Nein zu sagen",
+          "description": "'La shukran' (nein, danke) ist Ihr wertvollster Satz in Kairo: Alles, was wie ein Geschenk angeboten wird, ist ein Verkauf, jede Gefälligkeit erwartet möglicherweise Bakschisch. Werden Sie nicht wütend – lächeln Sie und gehen Sie weiter. Der Tourist, der die Grenze klar zieht, sieht Kairos beste Seite."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "Kairo (CAI)",
+          "sub": "45–60 Min. zum Zentrum, je nach Verkehr"
+        },
+        {
+          "icon": "🔺",
+          "label": "Wahrzeichen",
+          "value": "Pyramiden von Gizeh",
+          "sub": "Am Stadtrand – sogar die Metro kommt nah heran"
+        },
+        {
+          "icon": "💰",
+          "label": "Währung",
+          "value": "Ägyptisches Pfund (EGP)",
+          "sub": "Bargeld ist König; kleine Scheine bereithalten"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Arabisch (Ägyptisch)",
+          "sub": "Englisch funktioniert im Tourismus"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Die Kairo-Philosophie",
+        "text": "In dieser Stadt sollten der Plan flexibel, der Magen robust und der Humor bereit sein: ein 'Maalesh' und ein Lächeln schlagen hundert Frustrationen. Wählen Sie ein großes Ziel pro Tag und überlassen Sie den Rest Kairos Strömung – die Stadt wird ohnehin ihr eigenes Programm aufzwingen."
+      }
+    },
+    "transport": {
+      "title": "Fortbewegung",
+      "intro": "Der Verkehr in Kairo ist legendär; die Gegenmittel sind Fahrdienste-Apps, die Metro und der Nil selbst – kurze Strecken zu Fuß gehen, lange Strecken klug wählen.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Ankunft vom Flughafen",
+          "description": "Der Flughafen Kairo ist je nach Verkehr 45–60 Minuten vom Zentrum entfernt: Die sauberste Lösung ist Uber/Careem oder ein Hoteltransfer. Lächeln Sie einfach am 'Taxi, mein Freund'-Chor an der Tür vorbei – der App-Preis ist ein Drittel von dem, was sie verlangen."
+        },
+        {
+          "icon": "📱",
+          "title": "Uber und Careem",
+          "description": "Der eigentliche öffentliche Nahverkehr der Stadt: günstig, allgegenwärtig, ohne Feilschen. Nehmen Sie die Zeitangaben im Verkehr ernst, aber überlassen Sie die Route dem Fahrer – ein Kairoer Fahrer kennt Gassen, von denen die Navigation noch nie gehört hat."
+        },
+        {
+          "icon": "🚇",
+          "title": "Die Metro",
+          "description": "Drei Linien überwinden den Verkehr: Wichtige Haltestellen wie Sadat (Tahrir) und Mar Girgis (Koptisches Kairo) sind auch für Besucher Gold wert. Es gibt Waggons nur für Frauen – eine bequeme Option für reisende Frauen zur Hauptverkehrszeit."
+        },
+        {
+          "icon": "⛵",
+          "title": "Eine Feluke auf dem Nil",
+          "description": "Eine Stunde auf dem Nil unter Segeln: kein Motor, kein Hupen, nur Segeltuch im Wind. Mieten Sie vor Sonnenuntergang und klären Sie den Preis vor dem Einsteigen – die eleganteste Rache am Lärm der Stadt."
+        },
+        {
+          "icon": "🚶",
+          "title": "Spaziergänge innerhalb der Viertel",
+          "description": "Kairo als Ganzes kann nicht zu Fuß erkundet werden, aber seine Viertel schon: die El-Muizz-Straße, die Gassen von Zamalek, die Höfe des Koptischen Kairo. Die Straße zu überqueren ist eine Kunstform – schließen Sie sich einem Einheimischen an und überqueren Sie die Straße in seinem Windschatten."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Verkehrstipp",
+        "text": "Freitagmorgen ist der einzige Moment, in dem Kairo schläft: Straßen leer, Luft klar, die Pyramiden und El-Muizz ruhig. Planen Sie lange Strecken für Freitagmorgen und Museumsbesuche für Wochentage – nach den Freitagsgebeten am Mittag kocht die Stadt wieder."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "In Kairo bedeutet die Wahl eines Viertels die Wahl Ihres Komfortniveaus: das Grün der Nilinsel, die laute Pracht der Innenstadt oder Gizeh mit Pyramidenblick.",
+      "local_word": {
+        "word": "Bawab",
+        "pronunciation": "bah-WAB",
+        "definition": "Der Pförtner-Wächter-Bote, der am Eingang jedes Gebäudes wohnt: der unsichtbare Manager des sozialen Lebens Kairos. Er nimmt Pakete entgegen, beurteilt Besucher und kennt jede Neuigkeit aus der Nachbarschaft. Wenn Sie eine Wohnung mieten, grüßen Sie Ihren Bawab – er ist Ihr wertvollster Verbündeter in der Stadt."
+      },
+      "items": [
+        {
+          "name": "Zamalek",
+          "badge": "Am komfortabelsten",
+          "badge_type": "vibe",
+          "description": "Das Inselviertel mitten im Nil: von Bäumen gesäumte Straßen, Botschaften, Cafés und Galerien. Kairos Intensität um eine Stufe reduziert – die sanfteste Landung für einen ersten Besuch.",
+          "tags": [
+            "Inselruhe",
+            "Cafés und Galerien",
+            "Nilufer-Spaziergänge"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zamalek+Cairo"
+        },
+        {
+          "name": "Downtown (Wust el-Balad)",
+          "badge": "Das Herz der Stadt",
+          "badge_type": "hot",
+          "description": "Belle-Époque-Boulevards in Gehweite zum Tahrir-Platz und zum Museum: laut, anstrengend, unvergesslich. Historische Kaffeehäuser und Nachtleben direkt vor der Tür – für alle, die Kairo ungefiltert erleben möchten.",
+          "tags": [
+            "Nahe dem Museum",
+            "Historische Kaffeehäuser",
+            "Kairo ungefiltert"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Downtown+Cairo"
+        },
+        {
+          "name": "Garden City",
+          "badge": "Ruhiges Zentrum",
+          "badge_type": "value",
+          "description": "Das alte Diplomatenviertel mit geschwungenen Straßen südlich der Innenstadt: nah am Zentrum, aber eine Straße entfernt von der Hupen-Symphonie. Die Hotels am Nil säumen ebenfalls diesen Streifen.",
+          "tags": [
+            "Geschwungene ruhige Straßen",
+            "Nil-Hotels",
+            "Neben der Innenstadt"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Garden+City+Cairo"
+        },
+        {
+          "name": "Giza — pyramid view",
+          "badge": "Aussichtsseite",
+          "badge_type": "hot",
+          "description": "Hotels mit Terrassen und Pyramidenblick: Öffnen Sie die Vorhänge und Cheops grüßt Sie. Weit vom Zentrum entfernt – aber wenn Ihr Programm sich auf die Pyramiden und Sakkara konzentriert, eine legendäre Wahl für ein oder zwei Nächte.",
+          "tags": [
+            "Cheops am Fenster",
+            "Vorteil des frühen Eintritts",
+            "Terrassenfrühstück"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=pyramid+view+hotel+Giza"
+        },
+        {
+          "name": "Maadi",
+          "badge": "Grün und ruhig",
+          "badge_type": "local",
+          "description": "Das grüne südliche Viertel, beliebt bei Langzeit-Expats: Cafés, Nilspaziergänge, eine Metroanbindung. Um in Kairo zu wohnen, als ob Sie dort leben würden – das Zentrum ist zwanzig Minuten mit der Metro entfernt.",
+          "tags": [
+            "Grüne Straßen",
+            "An der Metro",
+            "Langzeitfreundlich"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maadi+Cairo"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Wann reisen",
+      "intro": "Kairos Kalender ist ein Tanz mit der Wüstensonne: Oktober bis April ist das goldene Zeitfenster; der Sommer ist eine Stadt der frühen Morgenstunden und späten Abende.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Wüstenfrühling",
+          "months": "Mär – Mai",
+          "subtitle": "Frühling · Milde Tage, gelegentlicher Sandwind",
+          "description": "März und April bringen milde Tage und kühle Nächte: eine angenehme Jahreszeit für die Pyramiden und Pläne im Freien. Der Sandwind namens Khamsin färbt gelegentlich den Himmel gelb – dieser Tag ist dann ein Museumstag, maalesh.",
+          "callout": {
+            "type": "tip",
+            "label": "April-Tipp",
+            "text": "An einem Aprilmorgen ist das Licht in Gizeh ein Freund des Fotografen und die Mittagshitze noch gnädig. Wenn Ihre Reise auf Sham el-Nessim, das Frühlingsfest, fällt, verwandeln sich die Parks in ein einziges großes Picknick – Sie werden die Kairener an ihrem fröhlichsten Tag erleben."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Handel mit der Hitze",
+          "months": "Jun – Sep",
+          "subtitle": "Sommer · Glühende Mittage, lebendige Nächte",
+          "description": "Die Tage erreichen 35–40°C: Das Programm teilt sich in 07:00–11:00 Uhr und nach 17:00 Uhr. Im Gegenzug werden Hotels günstiger und die Kairoer Nächte kehren zu ihrem wahren Charakter zurück – um Mitternacht steht die Stadt Schlange für Eiscreme.",
+          "callout": {
+            "type": "warning",
+            "label": "Mittags-Hinweis",
+            "text": "Auf Besichtigungen im Freien zur Mittagszeit im Sommer zu bestehen, zehrt am Körper: Widmen Sie die Zeit von 11:00–17:00 Uhr klimatisierten Museen, Ahwa-Pausen und dem Hotelpool. Wasserflasche und Hut sind unverzichtbar."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Das goldene Zeitfenster öffnet sich",
+          "months": "Okt – Nov",
+          "subtitle": "Herbst · Milder werdende Sonne, ideales Reisewetter",
+          "description": "Mit dem Oktober lässt die Hitze nach: Pyramidenmorgen sind kühl und Nilabende seidig. Die Hochsaison beginnt, aber die Menschenmassen vom Dezember sind noch fern – dies ist Kairos ausgewogenstes Reisefenster.",
+          "callout": {
+            "type": "tip",
+            "label": "November-Tipp",
+            "text": "Im November geht die Sonne früh unter: Buchen Sie Ihre Feluke für die Zeit von 16:00–17:00 Uhr und erleben Sie die goldene Stunde auf dem Wasser. Es ist auch der angenehmste Monat des Jahres für Sakkara und Dahschur – der Wüstenwind weht kühl."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Die Krone der Hochsaison",
+          "months": "Dez – Feb",
+          "subtitle": "Winter · Kühle Sonnentage, überfüllte Stätten",
+          "description": "Die Tage sind sonnig bei 18–22°C und die Nächte verlangen nach einer Strickjacke: perfektes Reisewetter. Das weiß auch die Welt – die Pyramiden und Museen sind am geschäftigsten des Jahres und die Preise erreichen ihren Höhepunkt. Frühzeitige Buchung und eine Morgenstrategie sind unerlässlich.",
+          "callout": {
+            "type": "tip",
+            "label": "Januar-Tipp",
+            "text": "Kehren Sie bei Wintermassen die übliche Reihenfolge um: Betreten Sie die Pyramiden bei Toröffnung und besuchen Sie das große Museum am Nachmittag – Reisegruppen strömen zuerst ins Museum, dann mittags zu den Pyramiden; gehen Sie den anderen Weg und Sie werden beides in Ruhe sehen."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Der ägyptische Tisch ist die Küche des Volkes: die Großzügigkeit des Eintopfs, die Herrschaft der Hülsenfrüchte und die Schnelligkeit des Straßenwagens – alles auf einmal.",
+      "local_word": {
+        "word": "Ahwa",
+        "pronunciation": "AH-wah",
+        "definition": "Es bedeutet sowohl Kaffee als auch Kaffeehaus: der Salon des Kairoer Gesellschaftslebens, mit blubbernder Shisha, klapperndem Backgammon und Minztee-Dampf. Niemand eilt in einem Ahwa; das Teeglas schrumpft, die Unterhaltung wächst. Bestellen Sie 'ahwa mazbut' und Sie erhalten mittel-süßen Kaffee, auf türkische Art gebrüht – er wird Ihnen vertraut schmecken."
+      },
+      "items": [
+        {
+          "icon": "🍝",
+          "name": "Koshary",
+          "description": "Reis, Nudeln, Linsen, Kichererbsen, Röstzwiebeln und würzige Tomatensauce in einer Schüssel: Ägyptens nationales Fast Food. Am Tresen zu einem Perkussionsklang von Löffeln serviert – mit Knoblauch-Essig (Dakka) und scharfer Sauce belegen, bis an die Grenze Ihres Mutes.",
+          "tag": "Die Nationalschüssel · Dakka nach Mut",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=koshary+Cairo"
+        },
+        {
+          "icon": "🧆",
+          "name": "Ful- und Ta'meya-Frühstück",
+          "description": "Ful, der langsam geschmorte Bohnenbrei, und Ta'meya, Ägyptens grünherzige Falafel aus Saubohnen: in Baladi-Brot gerollt, mit eingelegtem Gemüse gekrönt. Heiß vom Straßenwagen am Morgen – so beginnt Kairo seinen Tag.",
+          "tag": "Morgenklassiker · im Baladi-Brot",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=ful+ta%27meya+Cairo"
+        },
+        {
+          "icon": "🥬",
+          "name": "Molokhia",
+          "description": "Eine knoblauchige, nach Koriander duftende Suppen-Sauce aus fein gehackten Juteblättern: mit Huhn oder Kaninchen, über Reis. Die Textur spielt Neulingen Streiche, der Geschmack wird zur Sucht – probieren Sie es in einem Restaurant mit Hausmannskost.",
+          "tag": "Hausklassiker · über Reis",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=molokhia+restaurant+Cairo"
+        },
+        {
+          "icon": "🍢",
+          "name": "Der Grill- und Mahshi-Tisch",
+          "description": "Kofta, Hähnchenspieße und Holzkohlefleisch; dazu reisgefülltes Mahshi-Gemüse und Tahini. Der Kebab-Tisch ist mit einer Armee von Salaten und eingelegtem Gemüse gedeckt – das Baladi-Brot kommt immer heiß an.",
+          "tag": "Grillhaus-Tisch · mit Tahini",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=kebab+kofta+Cairo"
+        },
+        {
+          "icon": "🥧",
+          "name": "Feteer",
+          "description": "Ägyptens geschichtetes Buttergebäck: herzhaft mit Käse oder Fleisch, süß mit Honig und Sahne. Der Bäcker, der den Teig in die Luft wirft, ist die halbe Show – bestellen Sie es heiß aus dem Steinofen.",
+          "tag": "Geschichtet und buttrig · heiß aus dem Ofen",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=feteer+Cairo"
+        },
+        {
+          "icon": "🍮",
+          "name": "Om Ali und der Saftstand",
+          "description": "Om Ali, der gebackene Brotpudding mit Milch, Nüssen und Rosinen, wird heiß gegessen; dazu ein Straßen-Glas frisch gepresster Zuckerrohrsaft (Asab). Eine süße Sehnsucht bleibt in Kairo nie unbeantwortet.",
+          "tag": "Heißes Dessert + Asab · das Straßen-Duo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Om+Ali+dessert+Cairo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tischregel",
+        "text": "Gutes Essen in Kairo ist erstaunlich günstig: Wo immer Sie eine Touristenkarte sehen, hat sich der Preis verdreifacht. Ein Koshary-Stand mit Schlange, ein volles Hausmannskost-Restaurant und eine belebte Straßenbäckerei täuschen nie – und für Wasser immer versiegelte Flaschen, überall."
+      }
+    },
+    "hidden_gems": {
+      "title": "Versteckte Ecken",
+      "intro": "Jeder sieht die Pyramiden und das große Museum; diese sechs sind die versteckten Türen zu Kairos Schichten.",
+      "items": [
+        {
+          "rarity": "Grüne Terrasse über der Stadt",
+          "name": "Al-Azhar Park",
+          "description": "Ein Park, der aus einem alten Müllberg zurückgewonnen wurde und der Skyline des historischen Kairo mit tausend Minaretten gegenüberliegt: Bei Sonnenuntergang verwandelt sich die Muhammad-Ali-Moschee in Gold. Setzen Sie sich in den Teegarten und lauschen Sie der Symphonie des Gebetsrufs von oben – die friedlichste Stunde der Stadt.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Al-Azhar+Park+Cairo"
+        },
+        {
+          "rarity": "Tausendjähriges Freilichtmuseum",
+          "name": "El-Muizz Straße bei Nacht",
+          "description": "Die Hauptstraße des fatimidischen Kairo zeigt sich unter den Abendlichtern anders: Madrasas, Sabile und Karawansereien leuchten honigfarben. Die Menschenmassen lichten sich und das Mauerwerk tritt in den Vordergrund – selbst wenn Sie es tagsüber gesehen haben, kehren Sie nachts zurück.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Muizz+Street+Cairo"
+        },
+        {
+          "rarity": "Die Stadt von einem Minarett aus lesen",
+          "name": "Bab Zuweila",
+          "description": "Sie können die Minarette des Südtors der fatimidischen Mauern besteigen: Die Dächer, Wäscheleinen und der Minarettenwald des historischen Kairo liegen Ihnen zu Füßen. Bescheidener Eintritt, großzügige Aussicht – und der Basar der Zeltmacher befindet sich direkt am Tor.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bab+Zuweila+Cairo"
+        },
+        {
+          "rarity": "Höfe des christlichen Kairo",
+          "name": "Koptisches Kairo (Mar Girgis)",
+          "description": "Die Hängende Kirche, die Krypta des Heiligen Sergius und die Ben-Ezra-Synagoge in einem Labyrinth von Höfen: eine Insel der Stille, eingebaut in römische Türme. Mit der Metro erreichbar – Kairos ruhigster halber Tag ist hier.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Coptic+Cairo+Mar+Girgis"
+        },
+        {
+          "rarity": "Die Bühne der wirbelnden Derwische",
+          "name": "Tanoura in Wekalet El Ghouri",
+          "description": "An bestimmten Abenden findet im Hof einer Mameluken-Karawanserei die Tanoura- (Wirbel-) Aufführung statt: Regenbogenröcke drehen sich stundenlang und der Rhythmus wird zu einer Trance. Das Ticket ist bescheiden, die Atmosphäre bezaubernd – gehen Sie früh, der Hof ist klein.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wekalet+El+Ghouri+Cairo"
+        },
+        {
+          "rarity": "Palastgarten auf einer Nilinsel",
+          "name": "Manial Palast",
+          "description": "Ein Fürstenpalast auf der Insel Roda: osmanische, maurische und Jugendstil-Elemente unter einem Dach, umhüllt von einem tropischen Garten. Von den Menschenmassen übersehen, ist dieses Herrenhaus ein ruhiges Fenster in die letzte Ära der Kairoer Aristokratie.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Manial+Palace+Cairo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Schichten-Strategie",
+        "text": "Versuchen Sie nicht, Kairo in einem Durchgang 'abzuhaken': die pharaonische Schicht (Gizeh + Museum), die islamische Schicht (El-Muizz + die Zitadelle), die koptische Schicht (Mar Girgis) und die Nilschicht (Felucca + Zamalek) wollen jeweils einen halben Tag für sich. Planen Sie immer eine Ahwa-Pause dazwischen ein – die Stadt erschließt sich während der Pausen."
+      }
+    },
+    "traps": {
+      "title": "Touristenfallen",
+      "intro": "Kairos Spiele sind uralt und das Drehbuch ändert sich nie; der Tourist, der die Zeilen kennt, bleibt mit der Stadt befreundet.",
+      "items": [
+        {
+          "icon": "🐪",
+          "name": "Das Pyramiden-'Geschenk' und das Kamelspiel",
+          "description": "Das 'kostenlos' angebotene Kopftuch, der Freiwillige, der 'Ihr Foto macht', das Kamel, das 'kostenlos zu besteigen' ist: alles wird beim Abstieg in Rechnung gestellt. Ein Kamel zu besteigen ist einfach; abzusteigen ist eine Verhandlungssache.",
+          "instead": "Nehmen Sie nichts aus der Hand von jemandem – sagen Sie 'la shukran' und gehen Sie weiter. Wenn Sie ein Kamel oder Pferd möchten, legen Sie Preis, Dauer und Abstiegspunkt vor dem Aufsteigen fest; zahlen Sie niemandem außerhalb des offiziellen Ticketschalters."
+        },
+        {
+          "icon": "🚕",
+          "name": "Das Drehbuch 'Das Museum ist heute geschlossen'",
+          "description": "Ein 'hilfsbereiter' Fremder erscheint am Tor: 'Das ist bis Mittag geschlossen, lassen Sie mich Sie an einen schönen Ort bringen' – die Route endet immer im Parfüm- oder Papyrusladen eines Cousins.",
+          "instead": "Überprüfen Sie die Öffnungszeiten selbst und gehen Sie zum Ticketschalter: Es sei denn, die Person, die 'geschlossen' sagt, ist der Ticketverkäufer, lächeln Sie und gehen Sie vorbei. Offizielle Tickets erhalten Sie immer am Tor oder über den offiziellen Online-Kanal."
+        },
+        {
+          "icon": "🛍️",
+          "name": "Geschäfte, die sich als 'Regierungsgeschäfte' ausgeben",
+          "description": "Die meisten Parfüm-, Papyrus- und Gewürzläden, die als 'Regierungsgeschäft' oder 'Museumsladen mit Festpreisen' gekennzeichnet sind, sind private Unternehmen: Die Preise sind frei verhandelbar, die Geschichten reichhaltig. 'Papyrus', das auf Bananenblatt gedruckt ist, ist ein Bonus.",
+          "instead": "Akzeptieren Sie das Feilschen von Anfang an für Souvenirs: Beginnen Sie bei einem Drittel des ersten Preises und handeln Sie mit einem Lächeln. Echtes Papyrus bricht nicht, wenn es gefaltet wird – fragen Sie nach dem Test; für Qualitätsarbeit wählen Sie ein Geschäft, das Ihnen seine Werkstatt zeigt."
+        },
+        {
+          "icon": "💵",
+          "name": "Bakschisch-Unklarheit",
+          "description": "An der Toilettentür, vom Wächter, der anbietet, 'ein verstecktes Grab zu öffnen', für das ungefragt gemachte Foto: Die Handfläche ist immer offen und Ihr Wechselgeld kann 'verschwinden'.",
+          "instead": "Tragen Sie viele kleine Scheine bei sich: Ein kleines Trinkgeld für einen kleinen Dienst ist normal, und Sie bestimmen die Höhe. Lehnen Sie Angebote wie 'Lassen Sie mich Ihnen einen besonderen Ort zeigen' sofort ab – der Tourist, der einen verbotenen Bereich betritt, zahlt eine höhere Strafe als der Wächter."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Goldene Regel",
+        "text": "Wut funktioniert in Kairo nicht; Humor öffnet jede Tür: Betrachten Sie das Feilschen als Spiel, merken Sie sich 'la shukran', verweigern Sie niemals ein Lächeln. Der Reisende, der klare Grenzen zieht und dennoch freundlich bleibt, verlässt diese Stadt mit Geschichten und Freunden."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Reiserouten",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Vorschlägen. Die Zeiten sind flexibel; behalten Sie den Geist bei, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Vom Pharao zur Feluke – ein Tag in der Megacity",
+          "steps": [
+            {
+              "time": "07:30",
+              "title": "Morgen in Gizeh",
+              "description": "Seien Sie bei Toröffnung am Fuße der Pyramiden: Erleben Sie die Größe des Cheops und den Blick der Sphinx im Morgenlicht. Gehen Sie zum Panoramapunkt – Wasser in der Hand."
+            },
+            {
+              "time": "11:30",
+              "title": "Ful- und Ta'meya-Pause",
+              "description": "Ein spätes Frühstück vom Straßenstand auf dem Rückweg: Ta'meya im Baladi-Brot, dazu Tee. Günstig, heiß, authentisch."
+            },
+            {
+              "time": "13:00",
+              "title": "Große Museumszeit",
+              "description": "Planen Sie drei Stunden für Tutanchamuns Schatz und die pharaonischen Säle ein: Nachmittags lichten sich die Menschenmassen. Die Klimaanlage ist ein Bonus."
+            },
+            {
+              "time": "16:30",
+              "title": "Khan el-Khalili und El-Muizz",
+              "description": "Feilschen üben in den Seitengassen des Basars, dann die Steinmetzarbeiten von El-Muizz: Seien Sie dabei, wenn die Abendlichter angehen."
+            },
+            {
+              "time": "18:30",
+              "title": "Ahwa-Pause im El-Fishawy",
+              "description": "Minztee im jahrhundertealten, verspiegelten Kaffeehaus: Literaturnobelpreisträger Naguib Mahfouz hatte hier einen Stammplatz. Shisha blubbert im Hintergrund."
+            },
+            {
+              "time": "19:30",
+              "title": "Feluken-Finale auf dem Nil",
+              "description": "Segeln Sie nach Sonnenuntergang hinaus: die Lichter der Stadt auf dem Wasser, die Hörner weit entfernt. Eine Versöhnungssitzung mit Kairo – dann Abendessen in Zamalek."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Pyramiden, Minarette und der Nil – Kairo Schicht für Schicht",
+          "steps": [
+            {
+              "time": "Tag 1",
+              "title": "Klassisches Kairo",
+              "description": "Der oben beschriebene 1-Tages-Ablauf: Morgen in Gizeh, das Museum, Khan el-Khalili, El-Muizz, Ahwa, Feluke."
+            },
+            {
+              "time": "Tag 2",
+              "title": "Islamisches Kairo in der Tiefe",
+              "description": "Vormittags in der Zitadelle und der Muhammad-Ali-Moschee; mittags im kolossalen Hof der Sultan-Hassan-Madrasa; nachmittags auf das Minarett von Bab Zuweila und durch den Zeltmachermarkt; Sonnenuntergang im Al-Azhar-Park + die Tanoura-Show in Wekalet El Ghouri."
+            },
+            {
+              "time": "Tag 3",
+              "title": "Sakkara, Koptisches Kairo und Abschied",
+              "description": "Vormittags an der Stufenpyramide von Sakkara und der Roten Pyramide von Dahschur (gehen Sie hinein!); mittags in den Höfen des Koptischen Kairo bei Mar Girgis; nachmittags Cafés und Galerien in Zamalek; Abschiedsessen bei einem Koshary-Meister – extra Dakka."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Wörter-Überlebenskit",
+      "intro": "Ägyptisch-Arabisch ist herzlich und witzig; diese fünf Sätze öffnen Türen auf dem Basar, am Tisch und auf der Straße.",
+      "items": [
+        {
+          "word": "Salam aleykum",
+          "pronunciation": "sah-LAM ah-LAY-koom",
+          "meaning": "Die Grundlage der Begrüßung – sagen Sie es, wenn Sie einen Laden betreten; 'aleykum salam' ist die Antwort."
+        },
+        {
+          "word": "Shukran",
+          "pronunciation": "SHOOK-ran",
+          "meaning": "Danke – und 'la shukran' ist das höfliche Nein; Ihr meistgenutzter Satz."
+        },
+        {
+          "word": "Bikam?",
+          "pronunciation": "bee-KEM",
+          "meaning": "Wie viel? – der erste Schritt beim Feilschen; vergessen Sie nicht, bei der Antwort zu lächeln."
+        },
+        {
+          "word": "Maalesh",
+          "pronunciation": "mah-AH-lesh",
+          "meaning": "Macht nichts, keine Sorge – Kairos Lebensphilosophie in einem Wort."
+        },
+        {
+          "word": "Yalla!",
+          "pronunciation": "YAL-lah",
+          "meaning": "Los geht's! – Sie werden es in Kairo hundertmal am Tag hören."
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Kairo-Checkliste",
+      "completion_message": "Yalla! Du hast die Stadt der tausend Minarette gebührend erlebt!",
+      "items": [
+        {
+          "label": "Stehe in der ersten Stunde am Fuße der Pyramiden",
+          "sub": "Bei Toröffnung – mit Wasser und Hut"
+        },
+        {
+          "label": "Begegne dem Blick der Sphinx",
+          "sub": "Ein viereinhalb Jahrtausende alter Blick"
+        },
+        {
+          "label": "Stehe vor Tutanchamuns Maske",
+          "sub": "Plane drei Stunden für das Museum ein"
+        },
+        {
+          "label": "Iss Koshary mit Dakka",
+          "sub": "Von einem Tresen mit Schlange, löffelklappernd"
+        },
+        {
+          "label": "Segle auf einer Feluke den Nil entlang",
+          "sub": "Zur Sonnenuntergangsstunde – vor dem Einsteigen feilschen"
+        },
+        {
+          "label": "Spaziere unter den Nachtlichtern durch El-Muizz",
+          "sub": "Tausend Jahre Steinmetzkunst in honigfarbenem Licht"
+        },
+        {
+          "label": "Trinke Minztee im El-Fishawy",
+          "sub": "Im jahrhundertealten, verspiegelten Kaffeehaus"
+        },
+        {
+          "label": "Sieh die Minaretten-Skyline vom Al-Azhar Park aus",
+          "sub": "Bei Sonnenuntergang, vom Teegarten aus"
+        },
+        {
+          "label": "Feilsche im Khan el-Khalili",
+          "sub": "Beginne bei einem Drittel des Preises, lächelnd"
+        },
+        {
+          "label": "Finde die Stille der Höfe des Koptischen Kairo",
+          "sub": "Die Hängende Kirche und Ben Ezra – mit der Metro"
+        }
+      ]
+    }
+  }
+}

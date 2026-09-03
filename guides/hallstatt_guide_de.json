@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Hallstatt",
+    "country": "Austria",
+    "language": "de",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#3A7A6A",
+    "color_light": "#E9F3EF",
+    "tagline": "Eine Postkarte, eingebettet zwischen See und Bergen – und das echte Dorf dahinter."
+  },
+  "pills": [
+    "Ein Dorf mit 750 Einwohnern, Millionen Besucher",
+    "Das älteste Salzbergwerk der Welt",
+    "Wer über Nacht bleibt, lernt das Dorf kennen"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Hallstatt",
+      "intro": "Sie haben das Foto von Hallstatt gesehen; jeder hat es. Holzhäuser, die in den See ragen, der spitze Kirchturm, die Dachsteinwand dahinter. Was das Foto Ihnen nicht verrät: Es ist keine Kulisse, sondern ein echtes Dorf mit 750 Einwohnern, wo seit siebentausend Jahren Salz abgebaut wird. Wenn die Tagesbesucher ankommen, wird das Dorf zur Bühne; wenn die Boote in der Dämmerung ablegen, beruhigt sich der See, die Schornsteine rauchen, und Hallstatt kehrt zu sich selbst zurück. Welches Hallstatt Sie sehen, hängt von Ihrer Uhrzeit und Ihrer Höflichkeit ab.",
+      "local_word": {
+        "word": "Salzkammergut",
+        "pronunciation": "ZALTS-kah-mer-goot",
+        "definition": "'Das Gut der Salzkammer': der Name des Seengebiets, zu dem Hallstatt gehört. Dieses eine Wort erzählt die ganze Geschichte des Dorfes – alles hier wurde auf dem weißen Gold im Berg aufgebaut."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Verbringen Sie die Nacht",
+          "description": "Die Tagesausflügler strömen zwischen 10:00 und 16:00 Uhr; das Hallstatt um 8 Uhr morgens und 19 Uhr abends ist ein völlig anderer Ort. Eine Übernachtung ist der einzige Unterschied zwischen dem 'Sehen' dieses Dorfes und dem Erleben."
+        },
+        {
+          "number": 2,
+          "title": "Denken Sie daran, hier leben Menschen",
+          "description": "Die Hausgärten sind keine Fotokulissen; die Dorfbewohner sind Drohnen und Posen vor der Haustür überdrüssig. Respektieren Sie die Ruhezeiten, halten Sie Abstand zu Privathäusern – Sie schulden den Menschen in der Postkarte Höflichkeit."
+        },
+        {
+          "number": 3,
+          "title": "Versuchen Sie nicht, ins Dorf zu fahren",
+          "description": "Das Zentrum ist für den Verkehr gesperrt; wenn die Parkplätze P1-P2 voll sind, ist die Straße blockiert. Die eleganteste Anreise: Zug zum Bahnhof Hallstatt, dann die Fähre über den See – lassen Sie Ihren ersten Blick vom Wasser aus kommen."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚆",
+          "label": "Anreise",
+          "value": "Zug + Seefähre",
+          "sub": "Salzburg ≈2,5 Std. · Wien ≈3,5 Std."
+        },
+        {
+          "icon": "⛰️",
+          "label": "Region",
+          "value": "Salzkammergut",
+          "sub": "UNESCO-Kulturlandschaft"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Deutsch",
+          "sub": "Englisch im Tourismus mühelos"
+        },
+        {
+          "icon": "🧂",
+          "label": "Besonderheit",
+          "value": "7.000 Jahre Salz",
+          "sub": "Das älteste Salzbergwerk der Welt"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Die Hallstatt-Philosophie",
+        "text": "Die Liste der Sehenswürdigkeiten hier ist kurz; das eigentliche Thema ist das Licht. Morgennebel, mittägliche Klarheit, abendliches Gold – dieselbe Ansicht ändert sich dreimal am Tag. Wer eilt, sieht eine und verpasst die anderen drei."
+      }
+    },
+    "transport": {
+      "title": "Fortbewegung",
+      "intro": "Hallstatt lässt sich in zwanzig Minuten von einem Ende zum anderen durchqueren; die Kunst besteht darin, elegant anzukommen – und das Tal stilvoll zu erkunden.",
+      "items": [
+        {
+          "icon": "🚆",
+          "title": "Zug + Fähre — die klassische Anreise",
+          "description": "Von Salzburg oder Wien mit Umstieg zum Bahnhof Hallstatt; die kleine Fähre (Stefanie), auf die Züge abgestimmt, überquert den See in 10 Minuten. Die Annäherung an das Dorf über das Wasser ist das erste Geschenk der Reise."
+        },
+        {
+          "icon": "🚌",
+          "title": "Busverbindung über Bad Ischl",
+          "description": "Die Busverbindung mit Umstieg in Bad Ischl ist so bequem wie die Zugfahrt und manchmal sogar schneller; überprüfen Sie den Postbus-Fahrplan für Ihre abendliche Rückfahrt."
+        },
+        {
+          "icon": "🚗",
+          "title": "Wenn Sie mit dem Auto anreisen",
+          "description": "Der Parkplatz P1 ist vom Dorf aus zu Fuß erreichbar und kann an Sommermorgen schon vor 9 Uhr voll sein. Parken in Obertraun und Anreise mit Fähre oder Bus ist Ihr Plan B."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Boote auf dem See",
+          "description": "Panorama-Seerundfahrten und Überfahrten nach Obertraun finden im Sommer statt; ein Ruderboot oder Elektroboot zu mieten, bringt Sie zum ruhigsten Aussichtspunkt überhaupt – der Mitte des Sees."
+        },
+        {
+          "icon": "🚡",
+          "title": "Standseilbahn und Bergbahnen",
+          "description": "Die Salzbergbahn dient gleichzeitig als Lift zur Skywalk-Terrasse; die Dachstein-Seilbahn in Obertraun verdient einen eigenen Tag für die Eishöhle und die 5fingers Aussichtsplattform."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Fähr-Tipp",
+        "text": "Fotografieren Sie die letzte Fährzeit auf der Anzeigetafel am Pier; sie ist auf die Züge abgestimmt, aber wenn Sie sie verpassen, dauert der Spaziergang um den See weit über eine Stunde."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "Hallstatt ist winzig, hat nur wenige Betten und die Nachfrage ist riesig: Buchen Sie früh und Sie schlafen direkt im Postkartenmotiv; buchen Sie spät und Sie schlafen im Nachbardorf – was auch keine Strafe ist.",
+      "local_word": {
+        "word": "Gasthof",
+        "pronunciation": "GAST-hof",
+        "definition": "Österreichs traditionelles Gasthaus: Restaurant unten, Zimmer oben, meist von derselben Familie geführt. In einem Hallstätter Gasthof zu übernachten, verbindet Sie mit dem wahren Rhythmus des Dorfes – frühes Frühstück, frühe Ruhe."
+      },
+      "items": [
+        {
+          "name": "Hallstatt Markt — rund um den Platz",
+          "badge": "Am malerischsten",
+          "badge_type": "vibe",
+          "description": "Die historischen Häuser rund um den Platz und den Steg: Öffnen Sie Ihr Fenster zu See, Glocken und Schwänen. Sehr wenige Zimmer, hohe Preise, Monate im Voraus buchen – aber um 7 Uhr morgens gehört der Platz Ihnen.",
+          "tags": [
+            "Seeblick",
+            "Historische Häuser",
+            "Monate im Voraus buchen"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hallstatt+Marktplatz"
+        },
+        {
+          "name": "Lahn — das südliche Viertel",
+          "badge": "Ausgewogene Wahl",
+          "badge_type": "value",
+          "description": "Das flache südliche Ende des Dorfes: nahe dem Parkplatz, dem Strandbad und der Standseilbahn, zehn Minuten am Seeufer vom Platz entfernt. Gasthäuser sind geräumiger, Preise etwas freundlicher.",
+          "tags": [
+            "Nahe der Standseilbahn",
+            "Seespaziergang",
+            "Geräumigere Gasthäuser"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hallstatt+Lahn"
+        },
+        {
+          "name": "Obertraun — jenseits des Sees",
+          "badge": "Die kluge Basis",
+          "badge_type": "value",
+          "description": "Fünf Minuten mit Zug oder Boot zum gegenüberliegenden Ufer: ruhig, erschwinglich und am Fuße der Dachstein-Seilbahn. Es besitzt auch einen Luxus, den Hallstatt vermissen lässt – den Blick auf Hallstatt selbst.",
+          "tags": [
+            "Faire Preise",
+            "Tor zum Dachstein",
+            "Ruhige Nächte"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Obertraun"
+        },
+        {
+          "name": "Bad Goisern — die Stadt im Tal",
+          "badge": "Budgetfreundlich",
+          "badge_type": "local",
+          "description": "Eine echte Stadt zehn Minuten die Bahnlinie hinunter: Supermarkt, Bäckerei, lokales Leben. Ideal für die Formel, Hallstatt tagsüber zu erkunden und nachts in die Ruhe einer Kleinstadt zurückzukehren.",
+          "tags": [
+            "Eine echte Stadt",
+            "Zugverbindung",
+            "Lokale Preise"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bad+Goisern"
+        },
+        {
+          "name": "Gosau — das Bergdorf",
+          "badge": "Natur-Basis",
+          "badge_type": "hot",
+          "description": "Das Dorf des Gosausees und der Dachsteinblicke: Basislager für Wanderer und Skifahrer. Es erfordert ein Auto; im Gegenzug wachen Sie auf einer Almwiese auf.",
+          "tags": [
+            "Nahe Gosausee",
+            "Wanderrouten",
+            "Auto erforderlich"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gosau"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Beste Reisezeit",
+      "intro": "Hallstatts vier Jahreszeiten sind vier verschiedene Bilder; die Menschenmassen sind nur zur Mittagszeit ein Thema.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Wasserfallsaison",
+          "months": "Apr – Jun",
+          "subtitle": "Frühling · Schneeschmelze, donnernde Wasserfälle",
+          "description": "Die Schneeschmelze lässt die Wasserfälle des Echerntals anschwellen, der See färbt sich stahlblau, und die Menschenmassen bleiben unter dem Sommerniveau. Die luftigste Zeit für Wanderungen und Fotografie.",
+          "callout": {
+            "type": "tip",
+            "label": "Mai-Tipp",
+            "text": "Im Mai rauscht der Waldbachstrub-Wasserfall in voller Pracht; der Weg dorthin und zurück vom Marktplatz dauert eine Stunde."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Seesaison",
+          "months": "Jul – Aug",
+          "subtitle": "Sommer · Schwimmen, Boote und der Mittagsansturm",
+          "description": "Der See wird warm genug zum Schwimmen (für Mutige), das Strandbad Lahn und Bootsfahrten öffnen. Die Tagesbesucher erreichen ihren Höhepunkt – die Morgen- und Abendformel rettet den Tag.",
+          "callout": {
+            "type": "warning",
+            "label": "Mittagswarnung",
+            "text": "Zwischen 10:00 und 16:00 Uhr sind der Marktplatz und der Fotopunkt ein Menschenstrom; flüchten Sie in diesen Stunden ins Salzbergwerk, auf den Berg oder ans andere Ufer."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Nebel und Gold",
+          "months": "Sep – Nov",
+          "subtitle": "Herbst · Morgennebel, goldene Wälder",
+          "description": "Morgennebel gleitet über den See, die Wälder färben sich golden, und die Menschenmassen lichten sich: Das ist Hallstatt für Fotografen. Im November bereitet sich das Dorf auf den Winter vor, und viele Geschäfte schließen.",
+          "callout": {
+            "type": "tip",
+            "label": "Oktober-Tipp",
+            "text": "Überqueren Sie den See an einem nebligen Oktobermorgen mit der Fähre: Das Dorf materialisiert sich wie ein Geist aus dem Nebel – oft das beste Bild der ganzen Reise."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Das verschneite Märchen",
+          "months": "Dec – Mar",
+          "subtitle": "Winter · Verschneite Dächer, Krampusnächte",
+          "description": "Unter Schnee wird Hallstatt surreal; Anfang Dezember bringen die Krampusläufe ein schauriges Fest ins Dorf. Tagesausflügler kommen immer noch, aber die Abende gehören ganz den Einheimischen.",
+          "callout": {
+            "type": "warning",
+            "label": "Dezember-Hinweis",
+            "text": "Um den 5. und 6. Dezember laufen pelzbekleidete Monster in den Gassen bei den Krampusnächten; beängstigend für kleine Kinder, ein Fest für Fotografen – planen Sie entsprechend."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Die Hallstätter Tafel ist eine gemeinsame Speisekarte von See und Berg: Seefisch auf dem Teller, Alpenbutter daneben, ein kaiserliches Dessert zum Abschluss.",
+      "local_word": {
+        "word": "Reinanke",
+        "pronunciation": "RYE-nan-keh",
+        "definition": "Der weißfleischige Seefisch des Hallstättersees: morgens aus dem Netz, mittags aus der Pfanne. Hier ist 'Fang des Tages' keine Floskel, sondern der tägliche Bericht des Sees."
+      },
+      "items": [
+        {
+          "icon": "🐟",
+          "name": "Gegrillte Reinanke — vom See auf den Tisch",
+          "description": "Einfach mit Butter und Zitrone serviert; ihre Frische verlangt nach nichts anderem. Auf einer Seeterrasse eines Gasthofs gegessen, ist die Aussicht im Gericht inbegriffen.",
+          "tag": "Seefisch · auf der Gasthof-Terrasse",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hallstatt+lakeside+restaurant"
+        },
+        {
+          "icon": "🥞",
+          "name": "Kaiserschmarrn",
+          "description": "Der zerrissene Pfannkuchen des Kaisers: ein riesiges Dessert mit Puderzucker und Zwetschkenröster, die verdiente Belohnung einer Bergwanderung. Bestellen Sie ihn für zwei; er wird trotzdem verschwinden.",
+          "tag": "Die Belohnung nach der Bergwanderung · zum Teilen",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hallstatt+Marktplatz"
+        },
+        {
+          "icon": "🍖",
+          "name": "Schnitzel mit Seeblick",
+          "description": "Das tellerfüllende Kalbsschnitzel ist auch hier das Nationalgericht, mit Kartoffelsalat als klassischer Beilage. Essen Sie es in der Gaststube, nicht auf der Touristenterrasse — der Unterschied zeigt sich sowohl auf dem Teller als auch auf der Rechnung.",
+          "tag": "In der Gaststube · mit Kartoffelsalat",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gasthof+Zauner+Hallstatt"
+        },
+        {
+          "icon": "🧀",
+          "name": "Brettljause — die alpine Brotzeitplatte",
+          "description": "Bergkäse, geräucherter Schinken, Essiggurken und frisches Brot auf einem Holzbrett: das Abendessen des Salzkammergut-Hirten. Dazu Bier oder Most.",
+          "tag": "Alpenklassiker · mit Most",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hallstatt+Salzberg"
+        },
+        {
+          "icon": "🥨",
+          "name": "Der Bäckerstopp — Bad Goisern Stil",
+          "description": "Frische Brezeln und buttrige Backwaren von den Bäckereien im Tal sind die lokale Art, den Tag zu beginnen; in Hallstatt sind die Vorräte schnell vergriffen, die Talstadt hat mehr Auswahl.",
+          "tag": "Morgenbäckerei · früh hingehen",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bad+Goisern+bakery"
+        },
+        {
+          "icon": "🍺",
+          "name": "Lokales Bier und Schnaps",
+          "description": "Frisches Bier von den Brauern des Sees und Obstschnaps (Birne, Zwetschke) runden den Abend ab. Augenkontakt beim 'Prost' ist die österreichische Regel.",
+          "tag": "Abendausklang · Prost mit Augenkontakt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hallstatt+Marktbeisl"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die Terrassenregel",
+        "text": "Die Seeterrassen verlangen eine 'Aussichtssteuer'; die gleiche Reinanke eine Gasse weiter, in einer Gaststube, ist sowohl besser als auch schonender für die Rechnung. Sparen Sie sich die Aussicht für den Kaffee, nicht für das Abendessen."
+      }
+    },
+    "hidden_gems": {
+      "title": "Versteckte Juwelen",
+      "intro": "Jeder kennt die Postkartenmotive; diese sechs sind die tieferen Schichten von Dorf und Tal.",
+      "items": [
+        {
+          "rarity": "Bemalte Schädel",
+          "name": "Das Beinhaus",
+          "description": "Über 600 mit Blumengirlanden bemalte Schädel in der Friedhofskapelle: eine einzigartige Tradition, entstanden aus Platzmangel und mit Liebe gepflegt. Klein, berührend und Respekt fordernd.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hallstatt+Beinhaus"
+        },
+        {
+          "rarity": "7.000 Jahre im Berg",
+          "name": "Salzwelten — das Salzbergwerk",
+          "description": "Das älteste Salzbergwerk der Welt, erreichbar mit Standseilbahn und zu Fuß: hölzerne Bergmannsrutschen, ein unterirdischer Salzsee und eine Treppe aus der Bronzezeit. Die Skywalk-Terrasse ist im Ticket inbegriffen.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Salzwelten+Hallstatt"
+        },
+        {
+          "rarity": "Donner am Talende",
+          "name": "Waldbachstrub Wasserfall",
+          "description": "Der dreigliedrige Wasserfall am Ende des Echerntals: ein einfacher einstündiger Weg vom Marktplatz, mit Gletschertöpfen (der Gletschergarten) als Bonus unterwegs. Die Menschenmassen biegen fast nie hier ab.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Waldbachstrub+Wasserfall+Hallstatt"
+        },
+        {
+          "rarity": "Der Eispalast",
+          "name": "Dachstein Eishöhle + 5fingers",
+          "description": "Eine Eiskathedrale, erreichbar mit der Obertrauner Seilbahn, und die fünf-fingerförmige Plattform, die über den Abgrund ragt: eine ganztägige Belohnung für jeden, der Hallstatt von oben sehen möchte.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dachstein+Eishöhle+Obertraun"
+        },
+        {
+          "rarity": "Der Spiegelsee",
+          "name": "Gosausee",
+          "description": "Der Bergsee, der den Dachsteingletscher spiegelt: der Uferrundweg ist flach und dauert eine Stunde, die Aussicht ist ein alpines Kalenderblatt. Gehen Sie früh – bevor der Wind aufkommt, ist der See ein wahrer Spiegel.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gosausee"
+        },
+        {
+          "rarity": "Morgen mit den Schwänen",
+          "name": "Sonnenaufgang an den Seelände-Stegen",
+          "description": "Die Stege direkt hinter dem klassischen Fotopunkt gehören um 6 Uhr morgens den Schwänen und Ihnen: See, Glocken und Nebel, bevor das Dorf erwacht – Hallstatt in seiner ehrlichsten Form.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hallstatt+Seelände"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Skywalk-Tipp",
+        "text": "Nehmen Sie die erste Standseilbahn zum Skywalk, anstatt mittags Schlange zu stehen: leere Terrasse, weiches Licht, das Dorf unten noch still. Betreten Sie das Bergwerk auf dem Weg nach unten und lassen Sie die Steine 7.000 Jahre lang sprechen."
+      }
+    },
+    "traps": {
+      "title": "Touristenfallen umgehen",
+      "intro": "Die Falle Hallstatts ist nicht böswillig, sondern eine Frage der Dimension: ein winziges Dorf, eine riesige Menschenmenge. Wenn Sie diese vier Punkte beachten, bleiben beide Seiten entspannt.",
+      "items": [
+        {
+          "icon": "📸",
+          "name": "Die Mittagsschlange am 'Postkarten-Spot'",
+          "description": "Der klassische Blickwinkel wird zwischen 11:00 und 15:00 Uhr zur Selfie-Schlange; der Zauber stirbt, wenn vierzig Leute hinter Ihrem Foto warten.",
+          "instead": "Machen Sie dasselbe Foto vor 8 Uhr morgens oder am späten Nachmittag; an nebligen Morgen schlägt der Blick von der Fähre sowieso alles."
+        },
+        {
+          "icon": "🚌",
+          "name": "Die zweistündige 'Ich hab's gesehen'-Tour",
+          "description": "Das schnelle Abhaken des Platz-Foto-Magnet-Dreiecks von einem Reisebus aus reduziert das Dorf auf eine Kulisse; weder die Mine wird wirklich erkundet noch der See wahrgenommen.",
+          "instead": "Bleiben Sie eine Nacht, oder gönnen Sie sich mindestens einen ganzen Tag: Mine am Morgen, Echerntal am Mittag, der Platz in der Dämmerung – dann öffnet sich das Dorf wirklich."
+        },
+        {
+          "icon": "🏠",
+          "name": "Posieren in Hauseingängen und Drohnenflüge",
+          "description": "Das Betreten von Gärten für Fotos und das unaufgeforderte Fliegen von Drohnen hat die Dorfbewohner mürbe gemacht; Drohnen sind in Teilen des Dorfes ohnehin verboten.",
+          "instead": "Fotografieren Sie von öffentlichem Grund aus und halten Sie Abstand zu Türen und Gärten; der Tourist, der sich daran erinnert, Gast zu sein, bekommt durch Höflichkeit sowieso die besten Aufnahmen."
+        },
+        {
+          "icon": "🧂",
+          "name": "'Hallstätter Salz' an jedem Stand",
+          "description": "Einige der verzierten Flaschen an den Ständen auf dem Platz enthalten gewöhnliches Speisesalz in Verkleidung.",
+          "instead": "Kaufen Sie Ihr Salz im eigenen Geschäft der Salzwelten oder von Produkten, deren Etikett die Region nennt; lassen Sie sowohl Geschichte als auch Geschmack echt sein."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die goldene Regel",
+        "text": "In Hallstatt kämpfen Sie nicht gegen die Menschenmassen, Sie schließen einen Pakt mit der Uhr: Dorf vor 10 Uhr, Berg und See von 10 bis 16 Uhr, Dorf wieder nach 16 Uhr. Halten Sie diesen Rhythmus ein und Sie werden den Ansturm nie erleben."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Vorschlägen. Die Zeiten sind flexibel; behalten Sie den Geist bei, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Dorf im Morgengrauen, Berg am Mittag, See in der Abenddämmerung",
+          "steps": [
+            {
+              "time": "07:30",
+              "title": "Der Marktplatz und die Stege — leer",
+              "description": "Schwäne, Glocken und ein nebliger See: Erleben Sie das wahre Gesicht des Dorfes vor den Menschenmassen und machen Sie jetzt das klassische Foto."
+            },
+            {
+              "time": "09:00",
+              "title": "Erste Standseilbahn: Skywalk + Salzbergwerk",
+              "description": "Die Terrasse für sich allein, dann eine 7.000 Jahre alte Salzreise im Berg; das Rutschen auf der Bergmannsrutsche ist erlaubt."
+            },
+            {
+              "time": "12:30",
+              "title": "Reinanke in einem Gasthof",
+              "description": "Der Fisch des Sees in Butter, in der Ruhe der Stube; lassen Sie den Mittagsansturm draußen."
+            },
+            {
+              "time": "14:00",
+              "title": "Der Echerntal-Spaziergang",
+              "description": "Eine schöne Stunde von den Gletschertöpfen zu den Waldbachstrub-Fällen: das Hallstatt, das die Menschenmassen nicht kennen."
+            },
+            {
+              "time": "16:30",
+              "title": "Das Beinhaus und die oberen Gassen",
+              "description": "Die stille Kapelle der bemalten Schädel, dann gemütliches Schlendern in den engen Gassen oberhalb des Marktplatzes."
+            },
+            {
+              "time": "19:00",
+              "title": "Abend am Seeufer",
+              "description": "Die Boote sind weg, die Terrassen haben sich beruhigt: Beobachten Sie das letzte Licht des Tages bei einer Brettljause und einem Bier. Das ist das Hallstatt derer, die geblieben sind."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Erleben Sie das Dorf als Gast, nicht als Tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Dorf und Bergwerk",
+              "description": "Der 1-Tages-Ablauf von oben: Marktplatz im Morgengrauen, Skywalk, Bergwerk, Echerntal, See in der Abenddämmerung."
+            },
+            {
+              "time": "Day 2",
+              "title": "Dachstein-Tag",
+              "description": "Die Eishöhle und Mammuthöhle mit der Obertrauner Seilbahn, die 5fingers-Plattform über dem Abgrund am Nachmittag; ein mutiger Sprung in den See vom Obertrauner Strandbad bei der Rückkehr."
+            },
+            {
+              "time": "Day 3",
+              "title": "Gosausee und Abschied",
+              "description": "Die Gosausee-Uferrunde am Morgen (früh aufbrechen für die Spiegelstunde), ein Mittagessen im Dorfgasthof in Gosau; ein Bäckerstopp in Bad Goisern auf dem Rückweg und ein letzter Abendspaziergang durch Hallstatt zum Abschied."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Das 5-Wörter-Survival-Kit",
+      "intro": "Das österreichische Deutsch ist freundlicher als das Hochdeutsche; diese fünf sind im Tal mehr als genug.",
+      "items": [
+        {
+          "word": "Grüß Gott",
+          "pronunciation": "gruess got",
+          "meaning": "Die österreichische Begrüßung: 'Guten Tag' — obligatorisch beim Betreten eines Geschäfts"
+        },
+        {
+          "word": "Danke",
+          "pronunciation": "DAHN-keh",
+          "meaning": "Danke — noch schöner mit 'schön'"
+        },
+        {
+          "word": "Bitte",
+          "pronunciation": "BIT-teh",
+          "meaning": "Bitte / Gern geschehen / Hier, bitte — das Schweizer Taschenmesser der deutschen Sprache"
+        },
+        {
+          "word": "Prost!",
+          "pronunciation": "prohst",
+          "meaning": "Prost! — kein Glas erhebt sich ohne Augenkontakt"
+        },
+        {
+          "word": "Servus",
+          "pronunciation": "SEHR-voos",
+          "meaning": "Das herzliche Hallo und Auf Wiedersehen der Alpen — beides in einem Wort"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Hallstatt Checkliste",
+      "completion_message": "Servus! Sie haben Hallstatt richtig erlebt!",
+      "items": [
+        {
+          "label": "Das klassische Foto vor 8 Uhr morgens machen",
+          "sub": "Der Gopisberg-Winkel — ohne Warteschlange und nebelverhangen"
+        },
+        {
+          "label": "Mit der Fähre über den See anreisen",
+          "sub": "Zug + die Stefanie — die elegante Ankunft"
+        },
+        {
+          "label": "Das Salzbergwerk besuchen, die Rutsche hinunterfahren",
+          "sub": "Ein 7.000 Jahre altes Bergwerk + hölzerne Bergmannsrutschen"
+        },
+        {
+          "label": "Vom Skywalk hinunterblicken",
+          "sub": "Mit der ersten Standseilbahn, vor den Menschenmassen"
+        },
+        {
+          "label": "Die bemalten Schädel im Beinhaus besichtigen",
+          "sub": "Ruhig, bewegend, mit Respekt"
+        },
+        {
+          "label": "Reinanke in einem Gasthof essen",
+          "sub": "Der Fisch des Sees, in Butter, ganz einfach"
+        },
+        {
+          "label": "Das Echerntal zu den Wasserfällen wandern",
+          "sub": "Waldbachstrub — das Tal, das die Touristenmassen verpassen"
+        },
+        {
+          "label": "Ihren Kaiserschmarrn verdienen",
+          "sub": "Nach der Wanderung, mit Zwetschkenröster"
+        },
+        {
+          "label": "Am 5fingers über dem Abgrund stehen",
+          "sub": "Die Dachstein-Plattform — planen Sie einen ganzen Tag ein"
+        },
+        {
+          "label": "Dem Dorf am abendlichen See lauschen",
+          "sub": "Wenn die Boote ablegen, beginnt das Hallstatt der Übernachtungsgäste"
+        }
+      ]
+    }
+  }
+}

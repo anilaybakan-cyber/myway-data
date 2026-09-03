@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Naples",
+    "country": "Italy",
+    "language": "de",
+    "version": "2.1",
+    "color_primary": "#1A3A6B",
+    "color_light": "#E8EEF8",
+    "tagline": "Chaotisch, laut, voller Leben — die Stadt, die die beste Pizza der Welt für wenig Geld serviert, in Papier eingewickelt, im Stehen gegessen.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Pizza essen bei da Michele",
+    "Die Metro ist zu einer Kunstgalerie geworden",
+    "Sich in den Quartieri Spagnoli verlieren"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Neapel erschreckt Sie zuerst, lässt Sie dann aber nicht mehr los. Regelloser Verkehr, enge Gassen, lärmende Menschenmassen. Aber gleichzeitig finden Sie hier Italiens reinste Küche, die beste Pizza der Welt, Europas dichteste archäologische Erinnerung und den unvergleichlichen Blick auf die Bucht. Der Vesuv könnte jederzeit erwachen – und Neapel weiß das. Deshalb hält die Stadt am Heute fest: laut, schnell und mit ganzem Herzen. Stellen Sie sich mitten in Spaccanapoli und die Stadt zieht Sie in jede Richtung. Lassen Sie es zu.",
+      "local_word": {
+        "pronunciation": "o KA-feh",
+        "definition": "Neapels Espresso. Italiens stärkster, kleinster, günstigster Kaffee. An der Theke, in einem Schluck, 1-1,50 €. Die Tradition des Caffè sospeso stammt ebenfalls von hier: Wenn jemand einen Kaffee trinkt, bezahlt er einen weiteren für jemanden, der ihn sich nicht leisten kann – dieser bleibt an der Kasse vermerkt. Sie können fragen: 'Gibt es einen sospeso?' Neapel hat Kaffee als Form des Teilens erfunden.",
+        "word": "O' cafè"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Menschenmassen und Lärm sind normal – versuchen Sie nicht, sich davor zu schützen",
+          "description": "Neapel wirkt unorganisiert, weil es das ist. Autos fahren bei Rot über Ampeln, Roller fahren auf Gehwege, egal wie schmal sie sind, das Konzept einer Warteschlange existiert in Geschäften, wird aber nicht beachtet. Kein Grund zur Panik – die Stadt funktioniert innerhalb dieses Chaos. Seien Sie einfach etwas vorsichtiger, überprüfen Sie Ihre Taschen und lassen Sie sich auf den Rhythmus der Stadt ein."
+        },
+        {
+          "number": 2,
+          "title": "Pizza ist nirgendwo sonst so gut – und das wissen sie",
+          "description": "Neapolitanische Pizza steht auf der Liste des immateriellen Kulturerbes der UNESCO. Warum sie nirgendwo sonst so schmeckt: San-Marzano-Tomaten aus Kampanien, Mozzarella di Bufala, ein Holzofen bei 485 °C und Teig, der mindestens 8 Stunden geruht hat. Margherita oder Marinara – das ist alles. Keine zusätzlichen Saucen, keine Beläge, keine Füllungen. Die Kunst liegt in der Einfachheit; Extras hinzuzufügen ist der Fehler."
+        },
+        {
+          "number": 3,
+          "title": "Ein halber Tag reicht nicht für Pompeji – planen Sie einen ganzen Tag ein",
+          "description": "Pompeji ist 30-40 Minuten von Neapel entfernt, und die meisten Menschen erfassen seine wahre Größe erst vor Ort: 66 Hektar, 11.000 Einwohner, Forum, Theater, Bäder, Villen. Es in einem halben Tag zu sehen ist möglich, bleibt aber oberflächlich. Es öffnet um 9 Uhr und ist mittags am vollsten – der beste Ansatz ist, gleich zur Öffnung hineinzugehen. Herculaneum ist viel kleiner, aber weitaus besser erhalten; wenn Sie beides sehen, gehen Sie zuerst nach Herculaneum."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "NAP — Naples Capodichino",
+          "sub": "Alibus zur Piazza Garibaldi oder Piazza Municipio · 5 €"
+        },
+        {
+          "icon": "🚇",
+          "label": "Metro",
+          "value": "Line 1 (Art Metro) + Line 2",
+          "sub": "Einzelfahrt 1,50 € · 90 Minuten gültig · Standseilbahn inklusive"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Wetter",
+          "value": "Mediterranean — summer hot and humid",
+          "sub": "Apr–Mai und Sep–Okt ideal · Jun–Aug sehr heiß · Dez–Feb mild"
+        },
+        {
+          "icon": "🍕",
+          "label": "Pizza",
+          "value": "Margherita or Marinara",
+          "sub": "L'Antica Pizzeria da Michele · 5–8 € · Bargeld mitbringen"
+        }
+      ],
+      "tip": {
+        "label": "Bargeld mitnehmen – Karten werden nicht überall akzeptiert",
+        "text": "Neapels kleine Pizzerien, Straßenstände, Bars und einige Trattorien bevorzugen Bargeld. Geldautomaten sind in der ganzen Stadt verbreitet, aber in einigen kleineren Vierteln rar. Täglich 50-100 € Bargeld dabei zu haben, erleichtert die Dinge. Insbesondere in kleineren Lokalen in den Quartieri Spagnoli und Spaccanapoli gibt es möglicherweise kein Kartenlesegerät.",
+        "type": "tip"
+      },
+      "title": "Willkommen in Neapel"
+    },
+    "transport": {
+      "intro": "Die Metro ist zur Kunstgalerie geworden, Standseilbahnen erklimmen die Hügel, Busse sind chaotisch, funktionieren aber. Zu Fuß ist die beste Option für das Zentrum.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Flughafen → Stadt",
+          "description": "Der Alibus (ANM) fährt vom Flughafen zur Piazza Garibaldi (Hauptbahnhof Neapel Centrale) und zur Piazza Municipio. Ticket 5 €, Abfahrten alle 15-20 Minuten. Festpreistaxi ins Stadtzentrum: 25-35 €. Der Alibus ist die praktischste Option – günstiger als ein Taxi. Es gibt keine direkte Metroverbindung vom Flughafen; der Alibus bringt Sie zur Piazza Garibaldi, wo Sie zur Metro umsteigen können."
+        },
+        {
+          "icon": "🚇",
+          "title": "Linie 1 — Kunst-Metro",
+          "description": "Eines der besonderen Erlebnisse Neapels: Die Stationen Toledo, Università, Garibaldi und Municipio wurden von internationalen Künstlern gestaltet. Die Station Toledo wurde 2012 zur schönsten Metrostation Europas gewählt. Einzelfahrt 1,50 €, 90 Minuten gültig, Standseilbahnen inklusive. Fährt durch das gesamte historische Zentrum."
+        },
+        {
+          "icon": "🚡",
+          "title": "Standseilbahnen — der Aufstieg nach Vomero",
+          "description": "Vier Standseilbahnlinien erklimmen die Hügel Neapels: Funicolare Centrale von der Piazzetta Augusteo nach Vomero; Funicolare di Chiaia von der Via del Parco Margherita nach Vomero; Funicolare di Montesanto von der Piazza Montesanto nach San Martino; Funicolare di Mergellina von der Uferpromenade Mergellina zum Hügel Posillipo. Gleiches Ticketsystem, 1,50 €."
+        },
+        {
+          "icon": "🚌",
+          "title": "Bus — chaotisch, aber umfassend",
+          "description": "Stadtbusse nutzen dasselbe Ticketsystem. Notwendig, um Viertel zu erreichen, die Metro und Standseilbahnen nicht anfahren. Kann während der Stoßzeiten Verspätung haben. Kaufen Sie Tickets im Voraus – nicht im Bus erhältlich. Erhältlich an Haltestellen oder in Tabacchi-Läden."
+        },
+        {
+          "icon": "🚶",
+          "title": "Zu Fuß — und Vorsicht",
+          "description": "Spaccanapoli, Via dei Tribunali, die Quartieri Spagnoli und das historische Zentrum sind alle gut zu Fuß erreichbar. Die Gehwege sind schmal, Roller kommen von überall her – seien Sie vorsichtig. Nachts ist es sicher zu Fuß unterwegs zu sein, aber meiden Sie abgelegene Straßen und tragen Sie Wertsachen nicht sichtbar. Das Zentrum ist nicht groß: 15 Minuten von der Piazza del Gesù nach Toledo."
+        }
+      ],
+      "callout": {
+        "label": "Campania ArteCard — Museen und Transport kombiniert",
+        "text": "Die 3-Tages-Naples ArteCard (21 €) deckt alle öffentlichen Verkehrsmittel der Stadt (Metro, Bus, Standseilbahn) ab und bietet freien Eintritt zu den ersten beiden Museen sowie ermäßigten Eintritt zu weiteren. Dazu gehören das Archäologische Nationalmuseum Neapel, die Certosa di San Martino und Capodimonte. Eine Überlegung wert, wenn Sie eine museumsreiche Reiseroute planen. Die 3-Tages-Karte für ganz Kampanien kostet 32 € – Pompeji und Herculaneum inklusive.",
+        "type": "tip"
+      },
+      "title": "Fortbewegung"
+    },
+    "stay": {
+      "intro": "Die Viertel Neapels unterscheiden sich stark voneinander. Das historische Zentrum ist nah an allem, Vomero ist ruhig und bietet Panoramablicke, Chiaia ist modern und liegt direkt am Wasser.",
+      "local_word": {
+        "pronunciation": "spak-ka-NA-po-li",
+        "definition": "Die Straße, die Neapel in der Mitte teilt – ihr Name sagt genau das: 'Neapel-Teiler'. Es ist eigentlich eine Reihe miteinander verbundener Straßen; Via Benedetto Croce und Via San Biagio dei Librai sind die wichtigsten Abschnitte. Diese Route aus römischer Zeit ist voller Kathedralen, Kirchen, Geschäfte, Bars und Leben. Sie zu begehen, ist der kürzeste Weg, die Stadt zu verstehen.",
+        "word": "Spaccanapoli"
+      },
+      "items": [
+        {
+          "name": "Centro Storico — historisches Zentrum",
+          "badge": "Am zentralsten",
+          "badge_type": "hot",
+          "description": "Spaccanapoli, Via dei Tribunali, San Gregorio Armeno (die Straße der Weihnachtskrippenfiguren) befinden sich alle in diesem Viertel. Das Viertel selbst, Neapels historisches Zentrum (Centro Storico), ist seit 1995 UNESCO-Weltkulturerbe. Alles ist zu Fuß erreichbar, aber es ist belebt und laut. Das Nachtleben ist lebhaft, der frühe Morgen ist am ruhigsten. Budget-Hotels und kleine Familienpensionen (B&B) sind in dieser Gegend am häufigsten zu finden.",
+          "tags": [
+            "Spaccanapoli",
+            "UNESCO-Weltkulturerbe",
+            "Nah an allem"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Spaccanapoli+Napoli"
+        },
+        {
+          "name": "Quartieri Spagnoli",
+          "badge": "Am authentischsten",
+          "badge_type": "local",
+          "description": "Ein Gitter aus engen Gassen, im 16. Jahrhundert für spanische Soldaten gebaut. Wäsche hängt von Fenster zu Fenster, Kinder spielen in den Gassen, an jeder Ecke eine Bar. Diego Maradonas Wandgemälde ist hier – in der Via Emanuele De Deo. Touristisch, aber immer noch ein echtes Viertel. Zu Fuß zur Metro Toledo und Via Toledo.",
+          "tags": [
+            "Maradona-Wandgemälde",
+            "Enges Straßengitter",
+            "Lokales Viertelleben"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quartieri+Spagnoli+Napoli"
+        },
+        {
+          "name": "Chiaia",
+          "badge": "Am modernsten",
+          "badge_type": "hot",
+          "description": "Modernes Viertel an der Bucht, das sich entlang des Lungomare erstreckt. Hochwertige Restaurants, Bars und Geschäfte. Der Hafen von Mergellina ist in der Nähe. Ein Abendspaziergang entlang des Lungomare ist eine der schönsten Aktivitäten Neapels. Etwas weiter vom historischen Zentrum entfernt, aber leicht mit Taxi oder Metro erreichbar.",
+          "tags": [
+            "Lungomare-Promenade",
+            "Moderne Restaurants",
+            "Hafen von Mergellina"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiaia+Napoli"
+        },
+        {
+          "name": "Vomero",
+          "badge": "Am ruhigsten",
+          "badge_type": "local",
+          "description": "Das auf einem Hügel gelegene Viertel, das mit der Standseilbahn erreichbar ist. Castel Sant'Elmo und Certosa di San Martino sind hier – beides gehören zu den schönsten Aussichtspunkten der Stadt. Abseits der Menschenmassen des historischen Zentrums, ruhiger und lokaler. Zehn Minuten mit der Standseilbahn ins Zentrum. Gut für morgendliche lokale Cafés und Markteinkäufe.",
+          "tags": [
+            "Castel Sant'Elmo",
+            "Certosa di San Martino",
+            "Zugang per Standseilbahn"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vomero+Napoli"
+        },
+        {
+          "name": "In der Nähe der Piazza Garibaldi",
+          "badge": "Nah am Bahnhof",
+          "badge_type": "hot",
+          "description": "Zu Fuß zum Hauptbahnhof Neapel (Napoli Centrale). Der Circumvesuviana-Zug (Pompeji, Herculaneum, Sorrent) fährt von hier ab. Praktisch für Tagesausflüge. Das Viertel selbst ist sehr touristisch, aber der zentralste Punkt für den Transport. Die Preise sind relativ günstig.",
+          "tags": [
+            "Napoli Centrale",
+            "Circumvesuviana",
+            "Praktisch für Tagesausflüge"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazza+Garibaldi+Napoli"
+        }
+      ],
+      "title": "Wo übernachten"
+    },
+    "best_time": {
+      "intro": "Neapel kann das ganze Jahr über besucht werden, aber der Sommer bringt höhere Temperaturen und eine höhere Touristendichte mit sich.",
+      "items": [
+        {
+          "label": "Frühling",
+          "name": "Die beste Reisezeit",
+          "months": "Apr – Mai",
+          "description": "April und Mai sind Neapels ausgewogenste Zeit. Temperaturen um 18-24°C, die Bucht am lebendigsten, Touristen vorhanden, aber abseits der Hochsaison. Maggio dei Monumenti (Monat der Monumente im Mai): Normalerweise geschlossene historische Gebäude und private Räume öffnen für Besuche – folgen Sie diesem Programm. Die Semana Santa (Osterwoche) bringt religiöse Prozessionen und Zeremonien durch die Stadt.",
+          "callout": {
+            "label": "Maggio dei Monumenti — normalerweise geschlossene Türen öffnen sich",
+            "text": "Jeden Mai öffnet der Stadtrat von Neapel Hunderte von normalerweise geschlossenen historischen Gebäuden, privaten Sammlungen und versteckten Innenhöfen für Besucher. Kostenlos oder symbolisch bepreist. Paläste, unterirdische Kirchen, private Gärten. Das Programm ändert sich jedes Jahr; folgen Sie napolicultura.it. Der beste Grund, Neapel im Mai zu besuchen.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Frühling · Mildes Wetter, weniger Menschenmassen, Festivals"
+        },
+        {
+          "label": "Sommer",
+          "name": "Heiß, überfüllt und lebhaft",
+          "months": "Jun – Aug",
+          "description": "Juli und August sind die geschäftigsten und heißesten Monate. Die Amalfiküste und Capri sind auf ihrem Höhepunkt – ohne Reservierung kommen Sie nicht hinein. Aber Neapel selbst ist an Sommerabenden etwas Besonderes: Aperitivo am Lungomare, Fischrestaurants in Posillipo, Gelato in Mergellina. Die Stadt ist am lebendigsten und erträglichsten vor 10 Uhr morgens und nach 20 Uhr abends.",
+          "callout": {
+            "label": "Posillipo — der schönste Abend der Stadt",
+            "text": "Das auf einem Hügel gelegene Viertel westlich von Chiaia, mit Blick auf die Bucht. Der Blick auf den Vesuv und die Bucht von Posillipos Restaurants und Bars am späten Nachmittag ist außergewöhnlich. Nehmen Sie einen Bus oder ein Taxi von Mergellina. Wenn die Sonne untergeht, ändert sich die Farbe der Bucht – seien Sie bei Sonnenuntergang dort, um diesen Anblick zu erleben.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Sommer · Über 35°C, wunderschöne Bucht, Nachtleben auf dem Höhepunkt"
+        },
+        {
+          "label": "Herbst",
+          "name": "Zweitbeste Reisezeit",
+          "months": "Sep – Nov",
+          "description": "Im September und Oktober lichten sich die Menschenmassen, während das Wetter mild bleibt. Das Meer ist noch warm genug zum Schwimmen. Die Amalfiküste und Capri sind viel angenehmer zu besuchen. Trattorien öffnen mit neuen saisonalen Menüs – Walnusspasta, Zucchiniblüten, frischer Fisch. Im November nimmt der Regen zu, aber Museen und historische Stätten sind fast leer.",
+          "callout": {
+            "label": "Amalfiküste — die schönste Flucht im Herbst",
+            "text": "Von Neapel aus bringen Sie SITA-Busse oder Fähren nach Amalfi, Positano und Ravello. Im September-Oktober, abseits der Sommermassen, sinken die Preise, die Landschaft bleibt unverändert. Überprüfen Sie die Fährsaison von Positano zurück nach Neapel – einige Dienste enden Ende Oktober.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Herbst · Sommermassen verschwunden, Meer noch warm"
+        },
+        {
+          "label": "Winter",
+          "name": "Ruhig und erschwinglich",
+          "months": "Dec – Feb",
+          "description": "Die Weihnachtsvorbereitungen im Dezember erwecken die Stadt zum Leben – die Krippenfigurenstraße San Gregorio Armeno ist zu dieser Jahreszeit auf ihrem Höhepunkt. Januar und Februar sind Neapels ruhigste Zeit. Museen fast leer, keine Warteschlangen in Pompeji, Hotels günstig. Temperaturen 10-15°C, einige Regentage. Während des Karnevals (Februar) sind Struffoli und Sfogliatella in den Konditoreien in Saison.",
+          "callout": {
+            "label": "San Gregorio Armeno — die Krippenfigurenstraße",
+            "text": "Im Centro Storico, zwischen Via dei Tribunali und Spaccanapoli. Handgemachte Krippenfiguren (presepe) werden hier das ganze Jahr über verkauft, aber im Dezember erwacht die Straße vollständig zum Leben. Neben traditionellen Figuren werden auch satirische Abbildungen berühmter Persönlichkeiten angefertigt – Politiker, Fußballer, die Gesprächsthemen des Jahres. Der Spaziergang ist kostenlos; gehen Sie in die Eckwerkstätten und beobachten Sie die Handwerker bei der Arbeit.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Winter · Am wenigsten überfüllt, beste Preise"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "September 19",
+          "text": "Das Wunder des San Gennaro: Die Stadt wartet darauf, dass sich das Blut des Heiligen im Dom verflüssigt; wenn dies geschieht, feiert Neapel – der emotionalste Tag der Stadt."
+        },
+        {
+          "month": "Dezember",
+          "text": "San Gregorio Armeno: Die Straße der Krippenwerkstätten (presepe) wird vor Weihnachten zu einem Menschenstrom; die Figuren umfassen Politiker und Fußballer."
+        },
+        {
+          "month": "Juni",
+          "text": "Pizza Village: Ein riesiges Pizzafestival am Lungomare – Hunderte von Öfen, Konzerte, Guinness-Rekordversuche."
+        },
+        {
+          "month": "Ostern",
+          "text": "Pastiera-Saison: Die Weizentarte mit Orangenblüten verlässt nie die Bäckereien; zusammen mit Casatiello-Brot ist sie der Geschmack eines neapolitanischen Frühlings."
+        }
+      ],
+      "title": "Beste Reisezeit"
+    },
+    "eat": {
+      "intro": "Die neapolitanische Pizza, die 2017 in die UNESCO-Liste aufgenommen wurde – als König Umberto I. und Königin Margherita 1889 Neapel besuchten, bereitete Pizzaiolo Raffaele Esposito eine Pizza zu, die die Farben der italienischen Flagge trug: rote Tomate, weißer Mozzarella, grüner Basilikum. Die nach der Königin benannte Pizza ist heute überall auf der Welt bekannt, aber ihr wahrer Geschmack ist immer noch nur hier zu finden. Neapel hört hier nicht auf: Sfogliatella, Cuoppo, Pizza Fritta – diese Stadt isst auf der Straße, am Tresen, im Stehen.",
+      "local_word": {
+        "pronunciation": "PIT-tsa a por-ta-FOL-yo",
+        "definition": "Geldbörsenpizza. Eine kleine Margherita, in 90 Sekunden gebacken, direkt aus dem Ofen viermal gefaltet, in Papier gewickelt, heiß und in der Hand getragen. 2 €. An vielen Orten entlang der Via dei Tribunali erhältlich. Seien Sie vorsichtig beim ersten Bissen – der geschmolzene Käse und die Tomatensauce im Inneren können gefährlich heiß sein. Warten Sie eine Minute.",
+        "word": "Pizza a portafoglio"
+      },
+      "items": [
+        {
+          "icon": "🍕",
+          "name": "Neapolitanische Pizza – das Original",
+          "description": "Margherita (San Marzano Tomaten, Mozzarella di Bufala, Basilikum) oder Marinara (Tomaten, Knoblauch, Oregano – kein Käse). Keine anderen Optionen, keine anderen Optionen nötig. L'Antica Pizzeria da Michele in der Via Cesare Sersale 1 – seit 1870, nur diese beiden Sorten, Barzahlung, lange Schlange. Sorbillo in der Via dei Tribunali – kürzere Schlange, gleiche Qualität. Bestellen Sie eine weitere, bevor Sie die erste halb aufgegessen haben.",
+          "tag": "Da Michele oder Sorbillo · 5–8 € · Barzahlung",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Antica+Pizzeria+da+Michele+Napoli"
+        },
+        {
+          "icon": "🍕",
+          "name": "Pizza fritta",
+          "description": "Während des Zweiten Weltkriegs wurde Neapel bombardiert, die Holzöfen wurden zerstört, aber Frittieröl war noch verfügbar – so begann man, Pizza in heißem Öl statt im Ofen zu backen. Pizza fritta entstand aus diesen Schwierigkeiten. Der Teig wird mit Ricotta, Cicoli (gebratene Schweineschwarte) und Provolone-Käse gefüllt und bläht sich in heißem Öl auf. Sophia Loren frittierte diese Pizza in einer berühmten Filmszene. 3-5 €, eine vollwertige Mahlzeit für sich. Die Pizzeria namens 1947 Pizza Fritta befindet sich in der Via Pietro Colletta 29-31.",
+          "tag": "1947 Pizza Fritta, Via Pietro Colletta 29-31 · 3–5 €",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Antica+Pizza+Fritta+da+Zia+Esterina+Napoli"
+        },
+        {
+          "icon": "🥐",
+          "name": "Sfogliatella",
+          "description": "Ein muschelförmiges Ricotta-Gebäck – außen geschichtet und knusprig, innen mit Zimt-Ricotta und kandierten Früchten gefüllt. Zwei Versionen: Riccia (knusprig geschichtet) und Frolla (außen mit Mürbeteig bedeckt, weicher). Die frische Version kommt in den frühen Morgenstunden aus dem Ofen. La Sfogliatella Mary befindet sich in der Galleria Umberto I. Dazu ein Espresso – das ist der authentische neapolitanische Morgen.",
+          "tag": "La Sfogliatella Mary, Galleria Umberto I · morgens frisch · 1.50–2 €",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sfogliatella+Mary+Napoli"
+        },
+        {
+          "icon": "🍟",
+          "name": "Cuoppo",
+          "description": "Gemischtes Frittiertes in einer Papiertüte: Die Meeresfrüchte-Version (Cuoppo di Mare) enthält Garnelen, Tintenfisch, Muscheln; die Land-Version (Cuoppo di Terra) hat Zucchiniblüten, Auberginen, Kartoffelchips. Rund um den Pignasecca-Markt oder die Piazza Monteoliveto. 4-6 €. Im Gehen essen – keine Sitzgelegenheiten.",
+          "tag": "Rund um den Pignasecca-Markt · 4–6 € · im Gehen essen",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Il+Cuoppo+Napoli"
+        },
+        {
+          "icon": "🍝",
+          "name": "Ragù napoletano",
+          "description": "Schweinefleisch- und Tomatensauce, stundenlang – manchmal 5-6 Stunden – auf niedrigster Hitze gekocht. Montag und Donnerstag sind die traditionellen Tage; an diesen Tagen ist die Chance am größten, es in Trattorien zu finden. Serviert mit Spaghetti, Rigatoni oder Ziti. Dazu Crusco-Brot, das Gericht ist komplett. Trattoria da Nennella in Quartieri Spagnoli.",
+          "tag": "Trattoria da Nennella, Quartieri Spagnoli · Mo-Do · 10–14 €",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tandem+Ragù+Napoli"
+        },
+        {
+          "icon": "☕",
+          "name": "Espresso – und Caffè sospeso",
+          "description": "Neapolitanischer Espresso: stark, klein und 1-1.50 €. Am Tresen trinken, stehend, schnell – das ist die neapolitanische Kaffeekultur. Die Tradition des Caffè sospeso (aufgeschobener Kaffee): ein zusätzlicher Kaffee, der an der Kasse bezahlt wird, für jemanden ohne Mittel später. Um teilzunehmen, sagen Sie 'sospeso' und bezahlen Sie zwei Kaffees, wobei Sie einen zurücklassen. Eines der menschlichsten Rituale Neapels.",
+          "tag": "Jede Bar · 1–1.50 € am Tresen · nehmen Sie an der Sospeso-Tradition teil",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Caffè+Gambrinus+Napoli"
+        }
+      ],
+      "callout": {
+        "label": "Pignasecca Markt – 7 bis 13 Uhr",
+        "text": "Direkt neben den Quartieri Spagnoli, an der Via Pignasecca. Neapels lebhaftester Freiluft-Lebensmittelmarkt. Frischer Fisch, Gemüse, Obst, Käse, Street Food. Geöffnet 7-13 Uhr, sonntags geschlossen. Im Markt: Cuoppo-Stände, Mozzarella-Verkäufer und Frühstücksbars. Nicht touristisch, ein echter Nachbarschaftsmarkt. Preise niedrig, Qualität hoch.",
+        "type": "tip"
+      },
+      "title": "Was man essen sollte"
+    },
+    "hidden_gems": {
+      "intro": "Neapels interessanteste Ecken sind meist nur eine Straße von den Menschenmassen entfernt – einige im Untergrund der Stadt, andere auf ihren Hügeln.",
+      "items": [
+        {
+          "name": "Metrostation Toledo",
+          "description": "Die Station Toledo der Linie 1 wurde 2012 als schönste Metrostation Europas ausgezeichnet. Entworfen von Oscar Tusquets: blau-violette Mosaikflächen, die beim tieferen Abstieg ein höhlenartiges Gefühl vermitteln, Themen des Meeres und des Lichts. Kein Aufpreis für den Eintritt – in einem Standard-Metroticket enthalten. Fügen Sie die Stationen Municipio, Università und Garibaldi hinzu: Jede ist das Werk eines anderen Künstlers. Allein diese Metrolinie ist die Reise wert.",
+          "rarity": "Europas schönste Metrostation – und eine Kunstgalerie",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Toledo+Metro+Napoli"
+        },
+        {
+          "name": "Galleria Borbonica",
+          "description": "An der Via Morelli, nahe Chiaia. Im 19. Jahrhundert als Fluchttunnel für König Ferdinand II. erbaut. Später wurde es ein Krankenhaus, ein Polizeidepot und ein Luftschutzbunker im Zweiten Weltkrieg. Im Inneren befinden sich noch alte Autos und Motorräder aus den 1940er-50er Jahren. Anders als Napoli Sotterranea: Hier geht es nicht um das antike Rom, sondern um jüngere Geschichte. Mehrere verschiedene Touroptionen verfügbar. Vorabreservierung unbedingt erforderlich.",
+          "rarity": "WWII-Bunker, Bourbonen-Tunnel und verlassene Autos",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Galleria+Borbonica+Napoli"
+        },
+        {
+          "name": "Castel Sant'Elmo",
+          "description": "Eine sternförmige Burg auf dem Vomero-Hügel, erreichbar mit der Standseilbahn. Aus dem 14. Jahrhundert stammend. Von ihren Terrassen aus: Vesuv, die Bucht, Capri und die gesamte Stadt 360 Grad sichtbar. Die angrenzende Certosa di San Martino (ehemaliges Kartäuserkloster) wurde in ein Museum umgewandelt – das reichste Museum der Stadt in Bezug auf neapolitanische Kunst und Geschichte. Beide sind mit derselben Standseilbahn erreichbar.",
+          "rarity": "Blick auf Vesuv und Bucht – der schönste Aussichtspunkt der Stadt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Castel+Sant%27Elmo+Napoli"
+        },
+        {
+          "name": "Wandmalereien in den Quartieri Spagnoli",
+          "description": "Diego Maradonas riesiges Porträt an der Via Emanuele De Deo ist seit 1990 hier – gemalt, entfernt, wieder gemalt. Neapel, das Maradona 1987 und 1990 zu Meisterschaften führte, verehrt ihn wie einen Heiligen; es gibt Statuen und Schreine für ihn auf der Straße. Beim Spaziergang durch das Viertel sieht man nicht nur Maradona, sondern Dutzende anderer Wandmalereien: Bilder, die von Neapels Identität, Geschichte und Politik erzählen. Kostenlos, begehbar.",
+          "rarity": "Maradonas Heimat und die Erinnerung eines Viertels",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quartieri+Spagnoli+Napoli"
+        },
+        {
+          "name": "Teatro Greco-Romano di Neapolis",
+          "description": "In Spaccanapoli, an der Via Anticaglia. Ein römisches Theater aus dem 2. Jahrhundert, das heute unter Gebäuden begraben ist. Die alten Bögen des Theaters sind durch die engen Gassen zwischen ihnen sichtbar. Buchstäblich die Spuren einer Geschichte, die von der Stadt überbaut wurde. Einige Abschnitte können im Rahmen von Führungen besichtigt werden; erwägen Sie eine Kombination mit Napoli Sotterranea.",
+          "rarity": "Ein antikes römisches Theater unter einem Haus",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Napoli+Sotterranea"
+        },
+        {
+          "name": "Museo di Capodimonte",
+          "description": "Im Norden der Stadt, im Capodimonte-Park. Ehemaliger Bourbonenpalast, heute Museum. Caravaggio, Tizian, Raffael, Botticelli – und Andy Warhols berühmte Vesuv-Serie. Ein Bruchteil der Besucherzahlen des Nationalmuseums von Neapel. Der weitläufige Park ist auch kostenlos begehbar. 30-40 Minuten mit dem Bus vom Stadtzentrum entfernt, aber ein Ort, an dem man Stunden verbringen könnte.",
+          "rarity": "Neapels ruhigstes Museum – und seine umfassendste Sammlung",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Museo+di+Capodimonte+Napoli"
+        }
+      ],
+      "callout": {
+        "label": "Lungomare – Abendspaziergang und die Bucht",
+        "text": "Die Küstenstraße, die sich von Castel dell'Ovo bis Mergellina erstreckt. Zwischen 19 und 21 Uhr spazieren Neapolitaner hier, essen Eis, sitzen. Blick auf den Vesuv und die Bucht, Capris Silhouette über dem Wasser. Freier Eintritt, Gehstrecke etwa 3 Kilometer. Eine der schönsten Stunden Neapels – Sie sehen die schönsten Ausblicke der Stadt, ohne etwas dafür zu bezahlen.",
+        "type": "tip"
+      },
+      "title": "Versteckte Juwelen"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Pizza essen bei L'Antica Pizzeria da Michele",
+          "sub": "Via Cesare Sersale 1. Nur Margherita oder Marinara. Bargeld mitbringen. Seien Sie auf die Warteschlange vorbereitet – normalerweise 20-40 Minuten."
+        },
+        {
+          "label": "Besuchen Sie die Metrostation Toledo",
+          "sub": "Linie 1. Im Standard-Metroticket enthalten. Blau-violette Mosaike, die sich beim Abstieg verändern. Besuchen Sie auch Municipio und Università."
+        },
+        {
+          "label": "Spaccanapoli von Anfang bis Ende durchlaufen",
+          "sub": "Via Benedetto Croce und Via San Biagio dei Librai. Hier gibt es alles von Kathedralen bis Bars. Der frühe Morgen ist am ruhigsten."
+        },
+        {
+          "label": "Sfogliatella essen — morgens frisch",
+          "sub": "La Sfogliatella Mary, Galleria Umberto I. Frisch aus dem Ofen in den frühen Morgenstunden. 1,50-2 €. Bestellen Sie dazu einen Espresso."
+        },
+        {
+          "label": "Pizza fritta probieren",
+          "sub": "1947 Pizza Fritta, Via Pietro Colletta 29-31. Frittiert, gefüllt, leicht. 3-5 €. Sophia Lorens Pizza."
+        },
+        {
+          "label": "Nehmen Sie am Ritual des Caffè Sospeso teil",
+          "sub": "Bestellen Sie in einer beliebigen Bar einen Espresso, sagen Sie an der Kasse 'sospeso' und bezahlen Sie für zwei Kaffees. Einer bleibt bei Ihnen, einer ist für einen Fremden."
+        },
+        {
+          "label": "Gehen Sie morgens zum Pignasecca-Markt",
+          "sub": "Via Pignasecca. 7-13 Uhr. Frischer Fisch, Cuoppo, Mozzarella. Sonntags geschlossen."
+        },
+        {
+          "label": "Finden Sie das Maradona-Wandgemälde in den Quartieri Spagnoli",
+          "sub": "Via Emanuele De Deo. Seit 1990 hier. Erkunden Sie auch die anderen Wandgemälde in der Umgebung."
+        },
+        {
+          "label": "Fahren Sie mit der Standseilbahn zum Castel Sant'Elmo hinauf",
+          "sub": "Funicolare Centrale oder Chiaia. Hügel von Vomero. 360°-Aussicht: Vesuv, die Bucht, Capri. Certosa di San Martino nebenan."
+        },
+        {
+          "label": "Besuchen Sie die Galleria Borbonica",
+          "sub": "Via Morelli, in der Nähe von Chiaia. WWII-Bunker, alte Autos. Vorabreservierung unbedingt erforderlich."
+        },
+        {
+          "label": "Machen Sie einen Abendspaziergang entlang des Lungomare",
+          "sub": "Vom Castel dell'Ovo nach Mergellina. 19-21 Uhr. Blick auf den Vesuv. Kostenlos."
+        },
+        {
+          "label": "Planen Sie einen ganzen Tag für Pompeji oder Herculaneum ein",
+          "sub": "Circumvesuviana-Zug vom Piazza Garibaldi. Pompeji ~35 Min., Herculaneum ~20 Min. Beide öffnen um 9 Uhr – Ankunft zur Öffnung ist am besten."
+        }
+      ],
+      "title": "Neapel Checkliste",
+      "completion_message": "Neapel wird Sie beim nächsten Mal noch stärker in seinen Bann ziehen."
+    },
+    "traps": {
+      "title": "Fallen vermeiden",
+      "intro": "Neapel wirkt chaotisch, aber seine Regeln sind klar. Kenne diese vier, und die Stadt wird sich dir ohne Furcht öffnen.",
+      "items": [
+        {
+          "icon": "🍕",
+          "name": "Stunden in der Schlange einer Pizzeria vergraben",
+          "description": "Da Michele ist eine Legende, aber eine zweistündige Touristenschlange macht die Pizza nicht besser; jedes Viertel Neapels hat seinen eigenen Meister.",
+          "instead": "Wenn die Schlange überquillt, geh zwei Straßen weiter: Sorbillo, Di Matteo, Starita oder ein namenloser lokaler Ofen – alle spielen in derselben Liga."
+        },
+        {
+          "icon": "🎫",
+          "name": "Jäger von 'privaten Führern' am Garibaldi und in Pompeji",
+          "description": "Die 'offiziellen Führer', die am Bahnhof und am Tor der Ruinen ansprechen, verkaufen mittelmäßige Touren zu überhöhten Preisen; einige Tickets erweisen sich als Fälschungen.",
+          "instead": "Kaufe Pompeji-Tickets auf der offiziellen Website; wenn du einen Führer möchtest, engagiere einen lizenzierten vor Ort – niemals in der Circumvesuviana handeln."
+        },
+        {
+          "icon": "🚕",
+          "name": "Das 'defekte Taxameter'-Taxi",
+          "description": "Der Klassiker 'Taxameter ist kaputt' in Neapeler Taxis ist der Eröffnungszug für den Touristentarif.",
+          "instead": "Frage vor dem Einsteigen nach dem Taxameter oder zeige auf die Liste der Festpreise; falls das nicht klappt, rufe eine App – und die Metro ist sowieso die schönste Kunstgalerie der Stadt."
+        },
+        {
+          "icon": "📱",
+          "name": "Straßenschnäppchen für 'nagelneue' Telefone",
+          "description": "Von Hand verkaufte 'versiegelte' Telefone und Uhren sind das älteste Spiel der Stadt: ein Stein in der Schachtel, ein Loch in deiner Tasche.",
+          "instead": "Kaufe niemals Elektronik auf der Straße; als Geschenk nimm ein Corno (das rote Horn) – günstig, lokal, und die Stadt schwört, dass es Glück bringt."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die goldene Regel",
+        "text": "Sicherheit in Neapel hängt weniger von der Straße ab als vom Auftreten: Weniger mit dem Handy wedeln, die Tasche quer tragen, dem Chaos zulächeln. Die Stadt ist freundlich zu Gästen; Panik ist das, was den Touristen kennzeichnet."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie das Planen hassen, folgen Sie diesen Vorschlägen. Die Zeiten sind flexibel; bewahren Sie den Geist, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Von Spaccanapoli zum Vesuv-Blick",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Spaccanapoli erkunden",
+              "description": "Folgen Sie der Linie, die die Stadt teilt: Kirchen, Krippenwerkstätten, das Leben, das von Balkonen hängt. Morgenkaffee im Stehen bei Gambrinus."
+            },
+            {
+              "time": "11:00",
+              "title": "Cappella Sansevero",
+              "description": "Das Wunder des verhüllten Christus in Marmor; im Voraus buchen, drinnen den Atem anhalten."
+            },
+            {
+              "time": "13:00",
+              "title": "Pizza — die echte",
+              "description": "Margherita oder Marinara, 90 Sekunden im Holzofen. Am Rand halten, falten, mit Dankbarkeit essen."
+            },
+            {
+              "time": "15:00",
+              "title": "Metro Toledo + Quartieri Spagnoli",
+              "description": "Tauchen Sie aus Europas schönster Metrostation auf und stürzen Sie sich in die engen, vertikalen Gassen des Spanischen Viertels: Wandmalereien, der Maradona-Schrein, das echte Neapel."
+            },
+            {
+              "time": "17:30",
+              "title": "Sonnenuntergang am Castel Sant'Elmo",
+              "description": "Fahren Sie mit der Standseilbahn hinauf nach Vomero: Von den Burgmauern aus sehen Sie die Bucht, den Vesuv und die darunter brodelnde Stadt."
+            },
+            {
+              "time": "20:30",
+              "title": "Abend in Chiaia",
+              "description": "Aperitivo im Küstenviertel, dann Ragù oder Meeresfrüchte; zum Abschluss eine Sfogliatella."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Erleben Sie die Stadt als Gast, nicht als Tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Zentrum und Aussicht",
+              "description": "Der 1-Tages-Ablauf von oben: Spaccanapoli, Sansevero, Pizza, Sant'Elmo."
+            },
+            {
+              "time": "Day 2",
+              "title": "Pompeji-Tag",
+              "description": "Früh mit der Circumvesuviana nach Pompeji (planen Sie den ganzen Tag ein); als Belohnung eine Pizza Fritta am Garibaldi bei der Rückkehr. Noch Energie übrig? Spazieren Sie abends am Lungomare entlang."
+            },
+            {
+              "time": "Day 3",
+              "title": "Unterirdisch und Hügel",
+              "description": "Die Tunnel von Napoli Sotterranea oder die Galleria Borbonica am Morgen, ein Cuoppo in der Hand am Hafen mittags, Caravaggios Werke im Capodimonte am Nachmittag, ein Abschieds-Espresso am Abend — und lassen Sie einen sospeso."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Das 5-Wort-Überlebenskit",
+      "intro": "Italienisch öffnet Türen; Neapolitanisch gewinnt Herzen. Mit diesen fünf gehört dir die Straße.",
+      "items": [
+        {
+          "word": "Ciao",
+          "pronunciation": "chow",
+          "meaning": "Hallo / Tschüss — zu jeder Zeit, zu jedem"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Danke — kurz, klar, immer"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "Bitte — füge es am Ende deiner Bestellung hinzu"
+        },
+        {
+          "word": "Uè!",
+          "pronunciation": "weh",
+          "meaning": "Der neapolitanische Gruß — Überraschung, Freude und 'was geht ab' in einer Silbe"
+        },
+        {
+          "word": "Jamme!",
+          "pronunciation": "YAHM-meh",
+          "meaning": "Neapolitanisch für 'Los geht's!' — sag jamme jà und die Stadt nimmt dich auf"
+        }
+      ]
+    }
+  }
+}

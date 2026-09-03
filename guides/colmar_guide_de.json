@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Colmar",
+    "country": "France",
+    "language": "de",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#9C4A3C",
+    "color_light": "#F7EAE6",
+    "tagline": "Wenn die Märchenkulisse Wirklichkeit wird: Fachwerk, Kanäle und Riesling."
+  },
+  "pills": [
+    "Die Kanäle von Klein-Venedig",
+    "Hauptstadt der Elsässischen Weinstraße",
+    "In einem halben Tag erkundbar, in drei Tagen genießbar"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Colmar",
+      "intro": "Ihre ersten Schritte in Colmar fühlen sich an, als würden Sie ein Filmset betreten: bonbonfarbene Fachwerkhäuser, blumengeschmückte Kanäle, Straßennamen aus dem Mittelalter. Dann trifft Sie der Geruch einer Bäckerei, Gläser klirren in einer Winstub, und Sie verstehen – das ist kein Set, es ist eine lebendige elsässische Stadt. Französische Eleganz und deutsche Ordnung teilen sich hier einen Tisch; auf dem Tisch steht Riesling.",
+      "local_word": {
+        "word": "Winstub",
+        "pronunciation": "VIN-shtub",
+        "definition": "Elsässische Weinstube: Holzvertäfelung, karierte Tischdecken, Sauerkrautdampf und lokaler Wein im Krug. Wärmer als ein Restaurant, herzhafter als eine Bar; ein Tisch in einer Winstub ist der kürzeste Weg, Colmar zu verstehen."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Seien Sie vor 9 Uhr morgens auf den Straßen",
+          "description": "Colmar ist klein und sein Ruhm groß: Tagsüber füllen Reisegruppen Klein-Venedig. Das märchenhafte Selbst der Stadt lebt am frühen Morgen und frühen Abend – dann entstehen sowohl die Fotos als auch die Ruhe."
+        },
+        {
+          "number": 2,
+          "title": "Planen Sie die Weinstraße im Voraus",
+          "description": "Colmar liegt im Zentrum der Elsässischen Weinstraße; Eguisheim und Riquewihr sind eine halbe Stunde entfernt. Auto, Tour oder Fahrrad – entscheiden Sie am ersten Tag, nicht am letzten."
+        },
+        {
+          "number": 3,
+          "title": "Beachten Sie die Schließungen am Montag und Dienstag",
+          "description": "Museen und viele Restaurants schließen montags oder dienstags; prüfen Sie den Tag, damit Sie das Unterlinden nicht verpassen."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚄",
+          "label": "Anreise",
+          "value": "TGV von Paris ≈2.5 h",
+          "sub": "Straßburg 30 min · Basel 45 min"
+        },
+        {
+          "icon": "🚶",
+          "label": "In der Stadt",
+          "value": "Vollständig begehbar",
+          "sub": "Zentrum für Verkehr gesperrt"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Französisch",
+          "sub": "Deutsch weit verbreitet, Elsässisch noch lebendig"
+        },
+        {
+          "icon": "🍷",
+          "label": "Besonderheit",
+          "value": "Elsässer Riesling",
+          "sub": "Hauptstadt der Weinstraße"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Die Colmarer Philosophie",
+        "text": "In dieser Stadt ist die Liste der Sehenswürdigkeiten kurz und die Liste der Ecken zum Verweilen lang. Wenn Sie eine Bank am Kanal finden, stecken Sie die Liste ein; Colmar kommt Ihnen sowieso entgegen."
+      }
+    },
+    "transport": {
+      "title": "Unterwegs in Colmar",
+      "intro": "Das Fortbewegungsmittel in Colmar sind die Schuhe; alles andere dient dazu, die Stadt zu verlassen.",
+      "items": [
+        {
+          "icon": "🚄",
+          "title": "Anreise mit dem Zug",
+          "description": "Etwa 2,5 Stunden von Paris mit dem TGV, 30 Minuten von Straßburg, 45 Minuten von Basel. Der Bahnhof ist 10 Gehminuten vom Zentrum entfernt; kein Taxi nötig."
+        },
+        {
+          "icon": "🚶",
+          "title": "Überall zu Fuß",
+          "description": "Das historische Zentrum ist von Ende zu Ende in 20 Minuten zu durchqueren: Klein-Venedig, das Unterlinden-Museum, die alten Marktstraßen – alles ist bequem zu Fuß erreichbar. Kopfsteinpflaster-taugliche Schuhe sind die einzige Voraussetzung."
+        },
+        {
+          "icon": "🚲",
+          "title": "Die Weinstraße mit dem Fahrrad",
+          "description": "Colmar liegt in der Ebene; die Weindörfer sind 30–60 Minuten mit dem Fahrrad entfernt. Fahrradverleihe im Zentrum, Routen sind ausgeschildert – im Frühling und Herbst ist dies die schönste Art zu reisen."
+        },
+        {
+          "icon": "🚌",
+          "title": "Busse und Touren zu den Dörfern",
+          "description": "Regionalbusse fahren nach Eguisheim, Riquewihr und Kaysersberg, verkehren aber selten; Wein-Tour-Kleinbusse mit Verkostungen sind eine praktische Alternative."
+        },
+        {
+          "icon": "🚗",
+          "title": "Mietwagen – die freie Route",
+          "description": "Um die Weinstraße in Ihrem eigenen Tempo zu erkunden, mieten Sie ein Auto am Bahnhof; Parkplätze in den Dörfern sind knapp, nutzen Sie die Hauptparkplätze. Der Verkoster fährt nicht – Weinproben sind im Elsass eine ernste Angelegenheit."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Hinweis zum kleinen Zug",
+        "text": "Der touristische 'Petit Train' im Zentrum ist nett, aber Colmar ist eine Stadt, die zum Spazierengehen gemacht ist; geben Sie das Geld lieber für ein Glas Grand Cru aus."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "In Colmar sind die Entfernungen kurz und die atmosphärischen Unterschiede groß; Kanalblick oder Weinbergblick – Sie haben die Wahl.",
+      "local_word": {
+        "word": "Gîte",
+        "pronunciation": "zheet",
+        "definition": "Das französische Ferienhaus-Gästehaus: im Elsass meist ein historisches Fachwerkhaus mit blumengeschmücktem Innenhof. Freundlicher als ein Hotel, so gemütlich wie zu Hause – die klassische Art, in den Dörfern zu übernachten."
+      },
+      "items": [
+        {
+          "name": "Klein-Venedig (Petite Venise)",
+          "badge": "Am romantischsten",
+          "badge_type": "vibe",
+          "description": "In einem Haus am Kanal aufzuwachen, versetzt Sie ins Herz von Colmar: Geranien am Fenster, leere Gassen am Morgen. Hohe Preise, wenige Zimmer – früh buchen.",
+          "tags": [
+            "Kanalblick",
+            "Morgenruhe",
+            "Fotografentraum"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Petite+Venise+Colmar"
+        },
+        {
+          "name": "Altstadt – rund um die Kathedrale",
+          "badge": "Am praktischsten",
+          "badge_type": "value",
+          "description": "Rund um Saint-Martin und die Marktstraßen: Restaurants, Patisserien und Museen direkt vor der Haustür. Tagsüber steigt die Touristendichte, aber die Lage ist unschlagbar.",
+          "tags": [
+            "Alles zu Fuß erreichbar",
+            "Restaurantvielfalt",
+            "Historisches Ambiente"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Colmar+Cathedral"
+        },
+        {
+          "name": "Rund um den Bahnhof",
+          "badge": "Preisgünstig",
+          "badge_type": "value",
+          "description": "Ein ruhiges Viertel, 10 Gehminuten vom Zentrum entfernt: Kettenhotels und faire Preise. Eine sinnvolle Basis für Fahrer der Weinstraße und Zugreisende.",
+          "tags": [
+            "Gutes Preis-Leistungs-Verhältnis",
+            "Am Bahnhof",
+            "Ruhige Nächte"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gare+de+Colmar"
+        },
+        {
+          "name": "Eguisheim – Übernachten in einem Weindorf",
+          "badge": "Am elsässischsten",
+          "badge_type": "local",
+          "description": "Das kreisförmige mittelalterliche Dorf, 10 Minuten entfernt: Wenn die Touristen in der Dämmerung gehen, gehört das Dorf Ihnen, und Sie wachen zu Spaziergängen in den Weinbergen auf. Eine reizvolle Alternative zu Colmar für Autofahrer.",
+          "tags": [
+            "Weinbergblick",
+            "Stille Nächte",
+            "Winstub nebenan"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Eguisheim"
+        },
+        {
+          "name": "Richtung Riquewihr – Basen an der Weinstraße",
+          "badge": "Weinstraße",
+          "badge_type": "local",
+          "description": "Die Gîtes rund um Riquewihr und Kaysersberg eignen sich für ein verkostungsreiches Programm: Die Winzer werden zu Ihren Nachbarn. Colmar ist 20–30 Minuten entfernt; abends genügt das Märchen des eigenen Dorfes.",
+          "tags": [
+            "Winzer als Nachbarn",
+            "Märchenhafte Dörfer",
+            "Auto erforderlich"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Riquewihr"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Wann reisen",
+      "intro": "Colmar hat zwei Höhepunkte: Blumen im Sommer, Lichter im Winter. Die Zwischensaisons sind der Geheimtipp für Kenner.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Das Erwachen",
+          "months": "Apr – Jun",
+          "subtitle": "Frühling · Blühende Kanäle, ruhige Gassen",
+          "description": "Geranien schmücken die Fenster, das erste Grün zeigt sich in den Weinbergen, und die Menschenmassen haben noch nicht das Sommerniveau erreicht. Die beste Zeit, um die Weinstraße mit dem Fahrrad zu erkunden.",
+          "callout": {
+            "type": "tip",
+            "label": "Mai-Tipp",
+            "text": "Im Mai schalten die Weindörfer in den Festmodus; wenn ein Wochenendfest mit Ihrer Reise zusammenfällt, ändern Sie Ihre Pläne und besuchen Sie das Fest."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Blütenpracht",
+          "months": "Jul – Aug",
+          "subtitle": "Sommer · Bemalte Fassaden, volle Terrassen",
+          "description": "Die Stadt versinkt in Blumen, Kanalboote und Terrassen sind voll ausgelastet. Der Preis der Schönheit ist die Menschenmenge: Mittags geht man in Klein-Venedig Schulter an Schulter.",
+          "callout": {
+            "type": "warning",
+            "label": "Mittagswarnung",
+            "text": "Busreisen füllen die Stadt von 10:00 bis 16:00 Uhr; nutzen Sie diese Stunden für Museen oder die Dörfer und erleben Sie die Straßen morgens und abends."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Die Weinlese",
+          "months": "Sep – Nov",
+          "subtitle": "Herbst · Weinlese, goldene Reben, neuer Wein",
+          "description": "Die Weinberge färben sich golden, in den Dörfern beginnen die Erntedankfeste, die Luft duftet nach Trauben. Colmars fotogenste und köstlichste Jahreszeit – Kenner wählen sie immer.",
+          "callout": {
+            "type": "tip",
+            "label": "Oktober-Tipp",
+            "text": "Anfang Oktober, während der Weinlese, öffnen die Winzer ihre Türen; neuer Wein mit warmem Zwiebelkuchen ist ein Muss."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Das Weihnachtsmärchen",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Weihnachtsmärkte, Lichter, Glühwein",
+          "description": "Im Dezember verwandelt sich Colmar in einen der schönsten Weihnachtsmärkte Europas: fünf separate Plätze, Lichtshows, Glühweindampf. Januar und Februar sind die ruhigsten und lokalsten Monate der Stadt.",
+          "callout": {
+            "type": "warning",
+            "label": "Dezember-Hinweis",
+            "text": "Die Weihnachtsmarktsaison treibt die Hotelpreise über den Sommerhöhepunkt; eine Reise im Dezember erfordert eine Buchung zwei oder drei Monate im Voraus."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Die elsässische Küche ist die Verbindung von französischer Technik und deutschem Appetit; Colmar ist die Küche dieser Verbindung.",
+      "local_word": {
+        "word": "Choucroute",
+        "pronunciation": "shoo-KROOT",
+        "definition": "Der elsässische Klassiker aus fermentiertem Kohl, gekrönt mit Würsten und Fleischstücken: Er sieht schwer aus und wird mit Riesling leichter. Einmal richtig in einer Winstub essen – danach ist es eine Erinnerung."
+      },
+      "items": [
+        {
+          "icon": "🥧",
+          "name": "Tarte flambée (Flammkuchen)",
+          "description": "Sahne, Zwiebeln und Speck auf hauchdünnem Teig: Die elsässische 'Pizza' kommt in Sekundenschnelle aus dem Holzofen und wird von Hand geteilt. Bier passt, Riesling auch.",
+          "tag": "Winstub-Klassiker · muss geteilt werden",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wistub+Brenner+Colmar"
+        },
+        {
+          "icon": "🥨",
+          "name": "Brezel und Gugelhupf",
+          "description": "Die Ikonen des Bäckereifensters: die glänzende gesalzene Brezel und der süße Mandel-Aprikosen-Gugelhupf. Einer davon zu Ihrem Morgenkaffee – beide, wenn Sie unentschlossen sind.",
+          "tag": "Aus der Bäckerei · morgens frisch",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+Alsacienne+de+Biscuiterie+Colmar"
+        },
+        {
+          "icon": "🍖",
+          "name": "Choucroute garnie",
+          "description": "Fermentierter Kohl, drei Wurstsorten, geräuchertes Fleisch: das Denkmal der elsässischen Tafel. Die Portionen sind ernst; Teilen ist nicht schändlich, es ist weise.",
+          "tag": "In einer Winstub · mit Riesling",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wistub+de+la+Petite+Venise+Colmar"
+        },
+        {
+          "icon": "🧀",
+          "name": "Munsterkäse",
+          "description": "Der gewaschene Rindenkäse aus dem Tal: Sein Geruch erfordert Mut, sein Geschmack belohnt ihn. Serviert mit Kreuzkümmel; eine legendäre Kombination mit Gewürztraminer.",
+          "tag": "Für Mutige · mit Kreuzkümmel probieren",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fromagerie+Saint+Nicolas+Colmar"
+        },
+        {
+          "icon": "🍷",
+          "name": "Elsässer Weißweine — Riesling bis Gewürz",
+          "description": "Riesling, Grauburgunder, Gewürztraminer, Crémant: In der Hauptstadt der Weinstraße sind die Gläser in der Stadt und die Weinkeller in den Dörfern. Ohne eine Verkostung abzureisen, tut Colmar Unrecht.",
+          "tag": "Kellerverkostungen · nach Grand Cru fragen",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Domaine+Martin+Jund+Colmar"
+        },
+        {
+          "icon": "🍰",
+          "name": "Tarte aux quetsches — Zwetschgenkuchen",
+          "description": "Der elsässische Kuchen aus lila Zwetschgen in der Saison: wenig Zucker, viel Frucht, ein reiner Patisserie-Klassiker. Wenn Sie im Spätsommer gekommen sind, freuen Sie sich über Ihr Glück.",
+          "tag": "In den Konditoreien · saisonal",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pâtisserie+Gilg+Colmar"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die Winstub-Regel",
+        "text": "Die Merkmale einer guten Winstub: eine kurze Speisekarte, eine französisch-deutsche Sprachmischung, Wein, der im Krug serviert wird. Fragen Sie nach 'Edelzwicker' – einer ehrlichen elsässischen Mischung zu einem freundlichen Preis."
+      }
+    },
+    "hidden_gems": {
+      "title": "Versteckte Juwelen",
+      "intro": "Colmars Schaufenster gehört allen; diese sechs Ecken gehören Frühaufstehern und Entdeckern.",
+      "items": [
+        {
+          "rarity": "Ein stiller Riese der Weltkunst",
+          "name": "Unterlinden Museum — der Isenheimer Altar",
+          "description": "Im Herzen des Museums, in einem alten Kloster untergebracht, steht Grünewalds Isenheimer Altar: das erschütterndste Werk der Nordrenaissance. Keine Menschenmassen wie im Louvre, dafür ein vielfach größerer Eindruck.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Musée+Unterlinden+Colmar"
+        },
+        {
+          "rarity": "Das Haus des Bildhauers",
+          "name": "Bartholdi Museum",
+          "description": "Auguste Bartholdi, Schöpfer der Freiheitsstatue, war ein Colmarer; sein Geburtshaus ist heute ein Museum. Ein Hof voller Modelle von New Yorks Ikone – die süßeste Überraschung der Stadt.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Musée+Bartholdi+Colmar"
+        },
+        {
+          "rarity": "Kopf hoch!",
+          "name": "Maison des Têtes",
+          "description": "Ein Herrenhaus aus dem Jahr 1609, dessen Fassade mit 106 grotesken Köpfen bedeckt ist: Die meisten Besucher gehen achtlos vorbei. Zählen Sie sie langsam von der anderen Straßenseite – jeder ist anders.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+des+Têtes+Colmar"
+        },
+        {
+          "rarity": "Die köstliche Seite des überdachten Marktes",
+          "name": "Marché Couvert",
+          "description": "Die Markthalle aus Ziegeln von 1865: Käsehändler, Metzger, Kuchenstände. Ihre hintere Terrasse über dem Kanal ist die bestgehütete Adresse für das Mittagessen.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+Couvert+Colmar"
+        },
+        {
+          "rarity": "Drei Burgen auf einem Hügel",
+          "name": "Oberhalb von Eguisheim — die Drei Türme",
+          "description": "Etwas außerhalb von Colmar, drei verfallene mittelalterliche Bergfriede auf einem Hügel über den Weinreben: ein kurzer Spaziergang, eine endlose Aussicht auf die Weinberge und Einsamkeit bei Sonnenuntergang.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trois+Châteaux+Eguisheim"
+        },
+        {
+          "rarity": "Die verborgene Sprache der Fassaden",
+          "name": "Die Dächer des Gerberviertels",
+          "description": "Die steilgiebeligen Häuser des Gerberviertels wurden mit Trockenböden gebaut; für diejenigen, die wissen, dass die Fassadenfarben einst die alten Zünfte kodierten, liest sich die Stadt wie ein offenes Buch.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quartier+des+Tanneurs+Colmar"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Morgen-Bonus",
+        "text": "Der klassische Fotopunkt von Klein-Venedig, die Saint-Pierre-Brücke, ist um 8 Uhr morgens leer – und das Licht geht genau dort auf."
+      }
+    },
+    "traps": {
+      "title": "Touristenfallen umgehen",
+      "intro": "Colmar ist eine harmlose Stadt; ihre Fallen kosten eher Zeit als Vermögen. Kennen Sie diese vier und erleben Sie das Märchen effizient.",
+      "items": [
+        {
+          "icon": "🚣",
+          "name": "Die Warteschlange am Mittag für die Kanalboote",
+          "description": "Mittags 45 Minuten für eine sehr kurze Bootsfahrt zu warten, ist die schlechteste Art, Zeit in Colmar zu verbringen.",
+          "instead": "Nehmen Sie das erste Morgenboot oder lassen Sie es ganz aus: Der gleiche Kanal ist zu Fuß schöner und kostenlos."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Fotomenüs am Kai von Klein-Venedig",
+          "description": "Einige Terrassen mit Kanalblick verkaufen gefrorene Flammkuchen zu Touristenpreisen; das ist das Einzige, was dem guten Ruf der elsässischen Küche schadet.",
+          "instead": "Gehen Sie zwei Straßen weiter: In den Weinstuben der Einheimischen gibt es das gleiche Gericht zum halben Preis mit doppeltem Geschmack."
+        },
+        {
+          "icon": "🧸",
+          "name": "Souvenir 'Elsass-Puppen' und Storchenhaufen",
+          "description": "Massenproduzierte Störche und importierte Ornamente, die als 'handgemacht' bezeichnet werden, füllen jede Ecke der Altstadt; Platz im Koffer, ein Loch im Budget.",
+          "instead": "Wählen Sie als echtes Andenken Wein von einem Produzenten, lokale Töpferwaren (Soufflenheim) oder ein Glas Honig vom Markt."
+        },
+        {
+          "icon": "🚌",
+          "name": "Die Weinstraße an einem Tag durchquetschen",
+          "description": "Die 'Fünf-Dörfer-an-einem-Tag'-Tour bedeutet, sie alle durch ein Busfenster zu sehen; elsässische Dörfer sind schön im Verweilen, nicht im Hetzen.",
+          "instead": "Wählen Sie zwei Dörfer (Eguisheim + Riquewihr ist der Klassiker) und geben Sie jedem einen halben Tag; überstürzen Sie niemals eine Verkostung."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die goldene Regel",
+        "text": "In Colmar strömt die Menge in eine Richtung; gehen Sie zwei Straßen dagegen. Neunzig Prozent der Stadt warten ruhig direkt hinter den zehn Prozent im Schaufenster."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Abläufen. Die Zeiten sind flexibel; behalten Sie den Geist bei, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Kanal, Altarbild und ein Weindorf",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "Klein-Venedig — menschenleer",
+              "description": "Beginnen Sie an der Saint-Pierre-Brücke und spazieren Sie am Kanal entlang: Vor den Touristen gehört die Stadt Ihnen und den Bäckern."
+            },
+            {
+              "time": "09:30",
+              "title": "Bäckerfrühstück + Altstadt",
+              "description": "Kaffee mit einem Bretzel oder Gugelhupf; dann ein Spaziergang mit Blick nach oben vorbei an den Fassaden des Maison des Têtes und des Pfister-Hauses."
+            },
+            {
+              "time": "11:00",
+              "title": "Unterlinden-Museum",
+              "description": "Geben Sie dem Isenheimer Altar zwei Stunden; atmen Sie im Klosterhof durch. Dies ist Colmars einziges Weltklasse-'Muss'."
+            },
+            {
+              "time": "13:30",
+              "title": "Mittagessen im Marché Couvert",
+              "description": "Eine Käse- und Wurstplatte oder eine Tarte aus der Markthalle; essen Sie auf der hinteren Terrasse über dem Kanal."
+            },
+            {
+              "time": "15:30",
+              "title": "Eguisheim-Ausflug",
+              "description": "Ein 10-minütiger Sprung in das kreisförmige Dorf: Spazieren Sie durch seine konzentrischen Gassen, probieren Sie einen Riesling bei einem Winzer, steigen Sie zu den Drei Türmen hinauf."
+            },
+            {
+              "time": "19:30",
+              "title": "Winstub-Abend",
+              "description": "Zurück in Colmar: Choucroute oder Flammkuchen unter Holzvertäfelung, Edelzwicker krugweise. Santé!"
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Erleben Sie die Stadt als Gast, nicht als Tourist",
+          "steps": [
+            {
+              "time": "Tag 1",
+              "title": "Colmar selbst",
+              "description": "Der 1-Tages-Ablauf von oben: Kanäle im Morgengrauen, das Unterlinden, die Markthalle, eine Winstub am Abend."
+            },
+            {
+              "time": "Tag 2",
+              "title": "Die nördliche Weinstraße",
+              "description": "Riquewihrs ummauerte Gassen, Mittagessen in Ribeauvillé, der Aufstieg zum Schlossberg oberhalb von Kaysersberg; zwei Winzerproben, dann eine Dorfunterkunft oder die Rückfahrt nach Colmar."
+            },
+            {
+              "time": "Tag 3",
+              "title": "Ein langsamer Abschied",
+              "description": "Das Bartholdi-Museum und das Gerberviertel am Morgen, eine Tarte aux Quetsches-Pause am Mittag, ein Nachmittag mit dem Fahrrad durch die Weinberge — dann zum Zug oder auf die Straße, Flaschen Riesling an Bord."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Das 5-Wörter-Überlebenskit",
+      "intro": "Französische Höflichkeit ist auch hier der Schlüssel; eine Prise Elsässisch obendrauf garantiert ein Lächeln.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Hallo — das obligatorische erste Wort jeder Unterhaltung"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Danke — noch stärker mit „beaucoup“"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "Bitte — fügen Sie es am Ende Ihrer Bestellung hinzu"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "Prost! — Darauf erheben sich die Rieslinggläser"
+        },
+        {
+          "word": "Hopla!",
+          "pronunciation": "HOP-lah",
+          "meaning": "Der elsässische Allzweck-Ausruf: „Los geht's, okay, da sind wir“ — hören Sie es und Sie sind im Elsass"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Colmar Checkliste",
+      "completion_message": "Hopla! Colmar richtig erlebt!",
+      "items": [
+        {
+          "label": "Klein-Venedig vor 9 Uhr morgens erkunden",
+          "sub": "Beginnen Sie an der Saint-Pierre-Brücke, genießen Sie die leeren Gassen"
+        },
+        {
+          "label": "Vor dem Isenheimer Altar stehen",
+          "sub": "Unterlinden-Museum — das Meisterwerk der nordischen Renaissance"
+        },
+        {
+          "label": "Choucroute in einer Winstub essen",
+          "sub": "Mit Riesling; Teilen erlaubt"
+        },
+        {
+          "label": "Eine Tarte Flambée von Hand teilen",
+          "sub": "Aus dem Holzofen, Ränder leicht verkohlt"
+        },
+        {
+          "label": "Die Köpfe des Maison des Têtes zählen",
+          "sub": "106 davon — von der anderen Straßenseite aus betrachten"
+        },
+        {
+          "label": "Die Gassen von Eguisheim erkunden",
+          "sub": "Das Märchen-Dorf nur 10 Minuten entfernt"
+        },
+        {
+          "label": "Eine Weinprobe bei einem Winzer machen",
+          "sub": "Von Riesling bis Gewürztraminer — fragen Sie nach Grand Cru"
+        },
+        {
+          "label": "Auf der hinteren Terrasse des Marché Couvert sitzen",
+          "sub": "Stellen Sie sich einen Teller in der Markthalle zusammen, essen Sie über dem Kanal"
+        },
+        {
+          "label": "Bei Bartholdis Haus vorbeischauen",
+          "sub": "Sie sind am Geburtsort der Freiheitsstatue"
+        },
+        {
+          "label": "Mit einer Kugelhopf-Form abreisen",
+          "sub": "Oder zumindest einem Kugelhopf — frisch aus der Bäckerei"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Budapest",
+    "country": "Hungary",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#B23A2E",
+    "color_light": "#F9EAE8",
+    "tagline": "Les deux rives du Danube, la vapeur des thermes et la ville des bars de ruine"
+  },
+  "pills": [
+    "La capitale mondiale des spas",
+    "Une vue nocturne de l'UNESCO sur le Danube",
+    "Là où le ruin bar est né"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Budapest",
+      "intro": "Budapest est en réalité deux villes, et le Danube rend les deux jalouses : le côté Buda est majestueux avec ses collines, son château et ses ruelles tranquilles ; le côté Pest est sauvage avec ses boulevards, ses cafés et ses ruin bars. Sous tout cela bouillonnent plus d'une centaine de sources thermales – cette ville se soigne par l'eau et socialise dans la vapeur depuis des siècles. Quand le soir tombe, le Parlement s'illumine comme un bijou doré et le Pont des Chaînes relie les deux rives avec un collier de lumière. Budapest est une ville de dômes le jour et d'eau la nuit.",
+      "local_word": {
+        "word": "Romkocsma",
+        "pronunciation": "rom-kotch-ma",
+        "definition": "'Bar de ruine' : l'invention de Budapest de bars aménagés dans les cours d'immeubles abandonnés, remplis de vieux fauteuils et d'objets insolites. Le premier a ouvert au début des années 2000 – aujourd'hui, c'est l'identité nocturne de la ville elle-même."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Utiliser les bains correctement",
+          "description": "Les piscines thermales ne sont pas des piscines de natation : dans une eau à 38 degrés, on ne fait pas la course, on converse – certains jouent même aux échecs. Lisez les règles concernant les chaussons et les bonnets à l'entrée et commencez lentement le cycle chaud-froid-sauna. Restez au moins deux heures ; la hâte est l'ennemie de la vapeur."
+        },
+        {
+          "number": 2,
+          "title": "Ne jamais héler un taxi dans la rue",
+          "description": "À Budapest, un taxi fiable arrive lorsqu'il est appelé : par application ou par un répartiteur officiel. Une voiture hélée dans la rue pourrait appliquer le tarif touristique. Les transports en commun sont de toute façon excellents – la ligne de métro 1 est un monument historique à elle seule."
+        },
+        {
+          "number": 3,
+          "title": "Prévoir la vue nocturne",
+          "description": "Le panorama UNESCO de Budapest se révèle la nuit : Parlement, château et ponts se transforment en or dans l'obscurité. Consacrez une soirée à l'eau – une promenade en bateau, une balade le long du fleuve ou la colline de Gellért ; quoi qu'il en soit, attendez la nuit."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Liszt Ferenc (BUD)",
+          "sub": "Bus express 100E vers le centre ~40 min"
+        },
+        {
+          "icon": "🚇",
+          "label": "Se déplacer",
+          "value": "Métro + Tram",
+          "sub": "La M1 est le plus ancien métro d'Europe continentale"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Hongrois",
+          "sub": "L'anglais est courant dans les zones touristiques"
+        },
+        {
+          "icon": "♨️",
+          "label": "Caractéristique",
+          "value": "Les bains thermaux",
+          "sub": "Plus de 100 sources sous la ville"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Budapest",
+        "text": "Dans cette ville, la journée se divise en deux : l'histoire sur les collines de Buda le jour, la vie dans les cours de Pest la nuit. Traversez le Danube au moins deux fois par jour – chaque pont révèle une ville différente."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Les transports de Budapest sont à la fois efficaces et nostalgiques : un métro centenaire, des trams jaunes et, le long du Danube, l'une des lignes de tramway les plus pittoresques du monde.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "De l'aéroport au centre",
+          "description": "Le bus express 100E va directement au centre — achetez son ticket spécial à la machine. Les taxis sont sûrs depuis la station officielle avec un tarif fixe, et les applications de VTC fonctionnent aussi sans problème."
+        },
+        {
+          "icon": "🚇",
+          "title": "M1 — un petit morceau d'histoire jaune",
+          "description": "Le métro du Millénaire de 1896 circule sous l'avenue Andrássy avec ses minuscules stations carrelées de porcelaine : c'est une attraction en soi. Les lignes M2, M3 et M4 complètent le réseau moderne."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tram 2 — une loge sur le Danube",
+          "description": "La ligne 2, le long des quais de Pest, compte parmi les trajets en tramway les plus pittoresques du monde : le Parlement, les ponts et la silhouette de Buda défilent devant votre fenêtre. Un tour du monde avec un ticket standard."
+        },
+        {
+          "icon": "🚶",
+          "title": "À pied, rive par rive",
+          "description": "Le centre de Pest est plat et facile à parcourir à pied ; le côté de Buda est vallonné — pour le château, prenez le funiculaire depuis la place Clark Ádám ou le bus 16. Traverser les ponts à pied est une activité en soi."
+        },
+        {
+          "icon": "🚲",
+          "title": "MOL Bubi et les chemins des quais",
+          "description": "Les vélos verts en libre-service sont parfaits pour les petits trajets : les routes sans voitures de l'île Marguerite et les pistes cyclables le long de la rivière semblent avoir été conçues pour le vélo."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil tram",
+        "text": "Prenez le tram 2 après la tombée de la nuit : glisser le long des quais pendant que le Parlement s'illumine est la version à prix de ticket des croisières nocturnes payantes. Refaites la même ligne de jour — vous verrez deux villes différentes."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "Choisir une rive, c'est choisir une âme : à Pest, vous dormez au cœur de la vie, à Buda, au-dessus de la vue.",
+      "local_word": {
+        "word": "Kávéház",
+        "pronunciation": "kah-vay-haaz",
+        "definition": "Le café : ces salons dorés qui étaient les tables des écrivains et des révolutions dans le Budapest des années 1900. Ils sont toujours ouverts — avec un café et une part de tourte à une table de marbre, vous êtes transporté à cette époque."
+      },
+      "items": [
+        {
+          "name": "District V — Belváros",
+          "badge": "Le plus central",
+          "badge_type": "vibe",
+          "description": "Le centre élégant entre le Parlement, la basilique et les quais : tout est accessible à pied, un kávéház à chaque coin de rue. Les prix sont supérieurs à la moyenne de la ville, mais l'emplacement est impeccable — le classique pour une première visite.",
+          "tags": [
+            "Près du Parlement",
+            "Promenades sur les quais",
+            "Centre élégant"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Belváros+Budapest"
+        },
+        {
+          "name": "Arrondissement VII — le Quartier Juif",
+          "badge": "Le plus animé",
+          "badge_type": "hot",
+          "description": "Le quartier des ruin bars, des synagogues et de la street food : sans sommeil, aux murs peints, imprégné d'histoire. Les personnes au sommeil léger devraient demander une chambre côté cour — le côté rue est animé jusqu'à l'aube.",
+          "tags": [
+            "Ruin bars",
+            "Art de rue",
+            "Animé la nuit"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jewish+Quarter+Budapest"
+        },
+        {
+          "name": "Buda — le Château et Víziváros",
+          "badge": "Meilleures vues",
+          "badge_type": "local",
+          "description": "Les ruelles pavées de la Colline du Château et de Víziváros entre colline et fleuve : le château est à vous avant l'arrivée des touristes, et les lumières de Pest s'étendent à vos pieds la nuit. Calme et majestueux.",
+          "tags": [
+            "Ruelles du château",
+            "Vues sur Pest",
+            "Nuits calmes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Víziváros+Budapest"
+        },
+        {
+          "name": "Arrondissement IX — autour de la rue Ráday",
+          "badge": "Choix équilibré",
+          "badge_type": "value",
+          "description": "La rue des restaurants Ráday et le quartier de la halle du marché : deux arrêts du centre, des prix un peu plus abordables, des terrasses le soir. Là où la vie locale croise l'itinéraire touristique.",
+          "tags": [
+            "Rue des restaurants",
+            "Près du Grand Marché",
+            "Prix justes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ráday+utca+Budapest"
+        },
+        {
+          "name": "District XIII — Újlipótváros",
+          "badge": "Le plus local",
+          "badge_type": "value",
+          "description": "Un quartier calme d'immeubles Bauhaus à côté de l'île Marguerite : torréfacteurs, restaurants de quartier et pistes de course le long de la rivière. Peu de touristes, haute qualité de vie.",
+          "tags": [
+            "Île Marguerite",
+            "Rues Bauhaus",
+            "Cafés de quartier"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Újlipótváros+Budapest"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Budapest se savoure en toutes saisons : le printemps, c'est les terrasses ; l'été, les festivals ; l'automne, le vin nouveau ; l'hiver, les piscines fumantes et les lumières de Noël.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Saison des terrasses",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Débuts en plein air, le Festival de Printemps",
+          "description": "Les tables des kávéház s'installent sur les trottoirs, l'île Marguerite verdit et le Festival de Printemps emplit la ville de concerts. Dans les piscines extérieures des bains, l'équilibre entre l'air frais et l'eau chaude est parfait.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour mai",
+            "text": "En mai, montez la colline de Gellért avant le coucher du soleil : sous la lumière printanière, le Danube devient argenté, et à la tombée de la nuit, le Parlement se pare d'or. Une ascension, deux vues."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Festival et île",
+          "months": "Jul – Aug",
+          "subtitle": "Été · Festival Sziget, cinéma en plein air, journées chaudes",
+          "description": "En août, le Festival Sziget transforme l'île d'Óbuda en une république d'une semaine ; en ville, les bars en plein air et les soirées sur les quais s'étirent. Les jours de grande chaleur, le remède est tout trouvé : une piscine des bains ou les fontaines de l'île Marguerite.",
+          "callout": {
+            "type": "warning",
+            "label": "Note pour août",
+            "text": "Le 20 août, jour de la fête nationale, l'un des plus grands feux d'artifice d'Europe est tiré au-dessus du Danube : les quais se remplissent tôt et les ponts sont fermés. Réservez votre place en fin d'après-midi et prévoyez de rentrer à pied."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Le Boulevard Doré",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Avenues couleur châtaigne, vin nouveau",
+          "description": "Les arbres d'Andrássy se parent d'or, les festivals du vin s'installent dans la cour du château et la saison des kávéház se réchauffe. La foule se fait plus rare — c'est la saison des photographies et des musées.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour septembre",
+            "text": "Si vous êtes là pour le festival du vin au Château de Buda en septembre, ne le manquez pas : tous les vignobles de Hongrie réunis dans une seule cour, avec la vue sur le Danube en toile de fond. Commencez par un Tokaji, continuez avec un Kékfrankos."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Vapeur et Lumière",
+          "months": "Dec – Feb",
+          "subtitle": "Hiver · Marchés de Noël, piscines extérieures fumantes",
+          "description": "Le marché de Noël scintille devant la basilique et la place Vörösmarty se remplit de chalets ; la vraie magie réside dans les piscines thermales extérieures fumantes par des températures négatives. S'il neige, vos cheveux gèlent et vos épaules mijotent dans la piscine de Széchenyi — l'image emblématique d'un hiver à Budapest.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour décembre",
+            "text": "Par un matin d'hiver, arrivez à Széchenyi à l'ouverture : des colonnes de vapeur s'élèvent, la piscine est calme, la lumière dorée. Approchez-vous de l'échiquier des messieurs qui jouent aux échecs — regarder est permis, le respect est de mise."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Saveurs hongroises",
+      "intro": "La cuisine hongroise est généreuse et rouge : le paprika est l'âme de chaque plat, le goulash un trésor national, les desserts un héritage impérial.",
+      "local_word": {
+        "word": "Paprika",
+        "pronunciation": "pop-ri-ka",
+        "definition": "L'or rouge de la Hongrie : des dizaines de variétés, du doux au piquant, constituent la base de la cuisine. Le poivre moulu des régions de Kalocsa et Szeged est une fierté nationale — pour un cadeau, achetez-le à l'étage du marché, dans un sac en lin."
+      },
+      "items": [
+        {
+          "icon": "🍲",
+          "name": "Gulyás — le plat national",
+          "description": "Le goulash est ici une soupe, pas un ragoût : bœuf au paprika avec des pommes de terre et des quenelles csipetke. Si vous le trouvez cuit dans un chaudron, vous avez de la chance — tremper le pain est la coutume.",
+          "tag": "Classique national · cherchez le chaudron",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gettó+Gulyás+Budapest"
+        },
+        {
+          "icon": "🫓",
+          "name": "Lángos — la légende de la rue",
+          "description": "Pâte frite badigeonnée d'eau aillée, de crème aigre et de fromage râpé : le repas officiel des halles et des lidos. Se mange à la main ; une seule serviette ne suffira pas, et sans regrets.",
+          "tag": "Au stand du marché · le classique aillé",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Retró+Lángos+Budapest"
+        },
+        {
+          "icon": "🍗",
+          "name": "Paprikás csirke et főzelék",
+          "description": "Poulet en sauce crémeuse au paprika avec des quenelles galuska : le cœur de la table du dimanche. Le Főzelék (purée de légumes épaisse) est la modeste tradition du déjeuner à Budapest — essayez-le comme un local.",
+          "tag": "Cuisine maison · avec galuska",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Menza+Budapest"
+        },
+        {
+          "icon": "🍰",
+          "name": "Desserts de Kávéház — Dobos et Eszterházy",
+          "description": "La Dobos torte coiffée de caramel et l'Eszterházy aux noix : des classiques centenaires des vitrines des cafés dorés. À une table de marbre, dans de la porcelaine lourde — sans jamais se presser.",
+          "tag": "Dans un kávéház historique · à une table de marbre",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+Gerbeaud+Budapest"
+        },
+        {
+          "icon": "🌀",
+          "name": "Kürtőskalács — le gâteau cheminée",
+          "description": "Un cylindre de pâte sucrée rôti à la broche : croustillant et chaud, son parfum embaume toute la rue. La cannelle est le classique, la noix l'option généreuse — en hiver, il sert aussi de chauffe-mains.",
+          "tag": "Chaud dans la rue · classique à la cannelle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Molnár%27s+Kürtőskalács+Budapest"
+        },
+        {
+          "icon": "🍷",
+          "name": "Tokaji, Kékfrankos et Unicum",
+          "description": "Le Tokaji doux porte le titre de 'roi des vins' depuis des siècles ; le Kékfrankos est la fierté locale des vins rouges de table. Le test de courage est l'Unicum, la liqueur amère aux quarante herbes — la première gorgée est un choc, la seconde une habitude.",
+          "tag": "Après le dîner · avec le courage de l'Unicum",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tasting+Table+Budapest"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil du marché",
+        "text": "Dans la Grande Halle du Marché (Nagyvásárcsarnok), le rez-de-chaussée est dédié aux achats et l'étage supérieur aux stands de lángos et de goulash : allez-y avant la foule de midi, achetez paprika et salami en bas, mangez en haut. Toute la cuisine hongroise dans un seul bâtiment."
+      }
+    },
+    "hidden_gems": {
+      "title": "Coins Cachés",
+      "intro": "Tout le monde voit le Parlement ; ces six lieux sont les coulisses vaporeuses de Budapest.",
+      "items": [
+        {
+          "rarity": "Une baignade nocturne sous un dôme",
+          "name": "Rudas — la piscine sur le toit et le dôme ottoman",
+          "description": "Après avoir nagé sous un dôme ottoman vieux de 500 ans, montez à la piscine chaude sur le toit : le Danube et le pont Erzsébet à vos pieds. Les sessions nocturnes du vendredi et du samedi sont le programme le mieux gardé de la ville.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rudas+Baths+Budapest"
+        },
+        {
+          "rarity": "Le discret jumeau du château",
+          "name": "Le tombeau de Gül Baba",
+          "description": "Le tombeau d'un derviche ottoman sur la pente du Rózsadomb : une terrasse-roseraie avec vue sur le Danube, le sarcophage du saint à l'intérieur. L'un des sites de pèlerinage islamiques les plus septentrionaux d'Europe — et l'un des coins les plus calmes de la ville.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gül+Baba+Türbe+Budapest"
+        },
+        {
+          "rarity": "Une île dans l'île",
+          "name": "La pointe nord de l'île Marguerite",
+          "description": "Tout le monde reste près de la fontaine ; le jardin japonais, le petit parc animalier et le château d'eau au nord de l'île sont presque toujours calmes. Louez un vélo et parcourez l'île d'un bout à l'autre.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Margaret+Island+Japanese+Garden"
+        },
+        {
+          "rarity": "La cathédrale des cafés",
+          "name": "La galerie Párisi Udvar",
+          "description": "Le joyau de l'Art nouveau : l'ancienne galerie avec son dôme en vitrail a retrouvé sa splendeur. Un café dans son établissement est une excuse pour admirer le plafond — le 'toit' le plus orné de la ville.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Párisi+Udvar+Budapest"
+        },
+        {
+          "rarity": "Un tunnel temporel sous le boulevard",
+          "name": "Une visite d'Andrássy en métro M1",
+          "description": "Montez et descendez aux stations carrelées de porcelaine du métro de 1896 : Opéra, Oktogon, Hősök tere. Deux mètres sous terre, cent ans en arrière — une visite du boulevard pour le prix d'un ticket.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Millennium+Underground+Budapest"
+        },
+        {
+          "rarity": "Une terrasse tranquille sur le Danube",
+          "name": "Le Jardin des Philosophes — Pente du Gellért",
+          "description": "À cinq minutes des foules principales de la colline de Gellért, un jardin de sculptures silencieux s'ouvre : château, Parlement et ponts dans un seul cadre, presque aucun touriste. Le siège caché pour le coucher du soleil.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Philosophers+Garden+Gellért+Hill"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Choisir votre bain",
+        "text": "Choisissez votre bain selon votre tempérament : Széchenyi est un palais jaune et social, Gellért art nouveau et élégant, Rudas ottoman et mystique, Veli Bej local et calme. La règle est la même partout : enfermez votre téléphone dans le casier et abandonnez-vous à la vapeur."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Budapest est une ville accueillante, mais les pièges classiques se trouvent le long des zones touristiques ; connaissez ces quatre-là et explorez en toute tranquillité.",
+      "items": [
+        {
+          "icon": "🚕",
+          "name": "Le taxi hélé dans la rue",
+          "description": "Certains taxis hélés à la main fonctionnent avec un 'compteur en panne' et un taux de change touristique ; une courte course devient une longue facture.",
+          "instead": "Appelez un taxi via une application ou un central officiel ; à l'aéroport, prenez la station officielle. Les transports en commun + vos deux pieds résolvent déjà la plupart des itinéraires."
+        },
+        {
+          "icon": "💱",
+          "name": "Le jeu du 'sans commission' des bureaux de change de rue",
+          "description": "Certains bureaux de change dans les zones touristiques attirent avec le taux et prélèvent avec les petits caractères ; le panneau 'zéro commission' ne dit que la moitié de l'histoire.",
+          "instead": "Retirez des forints à un distributeur automatique (répondez à la question DCC par 'monnaie locale') ou payez par carte. Si vous devez absolument changer de l'argent, consultez une application de comparaison et choisissez des bureaux de change en dehors des axes principaux."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Le piège du menu de la Váci utca",
+          "description": "Certains restaurants de la rue piétonne sont réputés pour leurs 'plats du jour' hors de prix et leurs frais de service exorbitants ; l'addition arrive avec une surprise.",
+          "instead": "Ne commandez jamais un plat du jour sans un prix affiché, et vérifiez le pourcentage de service sur le menu. Deux rues plus loin, ou sur Ráday, la même cuisine coûte la moitié."
+        },
+        {
+          "icon": "🍸",
+          "name": "Le jeu de l''invitation amicale' nocturne",
+          "description": "Dans certains établissements accessibles via des invitations chaleureuses dans le quartier touristique, les prix des boissons s'avèrent astronomiques, et le litige sur l'addition se termine avec la sécurité à la porte.",
+          "instead": "Organisez votre soirée autour de ruin bars que vous avez choisis vous-même : prix affichés, une foule variée, une ambiance authentique. Gardez la règle de ne pas changer d'établissement sur invitation toute la nuit."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "À Budapest, ne dites oui à rien sans un prix écrit : taxi, change, 'plat du jour'. La culture du prix écrit est la norme dans cette ville — quiconque s'en écarte en apprend la raison à ses dépens."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Du château au bain, une journée complète sur les deux rives",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Matinée au château",
+              "description": "Prenez le funiculaire jusqu'au Château de Buda : admirez le Parlement depuis les tourelles du Bastion des Pêcheurs et les tuiles du toit de l'Église Matthias sous la lumière du matin — avant les groupes de touristes."
+            },
+            {
+              "time": "11:00",
+              "title": "Le Pont des Chaînes et la basilique",
+              "description": "Traversez le pont à pied vers Pest ; montez à la terrasse du dôme de la Basilique Saint-Étienne ou reprenez votre souffle dans un café de la place."
+            },
+            {
+              "time": "13:00",
+              "title": "Déjeuner à la halle du marché",
+              "description": "Lángos ou goulash à l'étage supérieur du Grand Marché ; shopping de paprika et de Tokaji en bas — la liste de cadeaux se termine dans un seul bâtiment."
+            },
+            {
+              "time": "15:00",
+              "title": "Vapeur à Széchenyi",
+              "description": "Le métro M1 via Hősök tere jusqu'aux bains : le cycle chaud-froid dans la piscine extérieure du palais jaune, observation des parties d'échecs autorisée."
+            },
+            {
+              "time": "18:30",
+              "title": "Andrássy et une pause kávéház",
+              "description": "Retour le long du boulevard : la façade de l'Opéra, les arcades, et une Dobos torte + café dans un café historique — un après-midi impérial."
+            },
+            {
+              "time": "20:30",
+              "title": "Nuit : lumières et un ruin bar",
+              "description": "Un tour du Parlement illuminé en tram 2, puis une nuit dans un ruin bar du 7e arrondissement : vieux fauteuils, objets insolites, longues conversations."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Buda, Pest et vapeur — trois actes",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Budapest classique",
+              "description": "Le parcours d'un jour ci-dessus : château, pont, marché, Széchenyi, ruin bar."
+            },
+            {
+              "time": "Day 2",
+              "title": "Le Parlement et le Quartier Juif",
+              "description": "La visite intérieure du Parlement le matin (réservez à l'avance) + une pause au mémorial des Chaussures sur le Danube ; la Grande Synagogue et une promenade dans le quartier l'après-midi ; dîner dans la cour Gozsdu, puis la piscine sur le toit de Rudas la nuit."
+            },
+            {
+              "time": "Day 3",
+              "title": "Île, colline et adieux",
+              "description": "Une matinée à vélo sur l'Île Marguerite ; la Colline de Gellért + le panorama du Jardin des Philosophes l'après-midi ; une croisière nocturne sur le Danube le soir — le Parlement doré depuis l'eau ; c'est ainsi que l'on dit au revoir."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de survie en 5 mots",
+      "intro": "Le hongrois est la langue la plus isolée d'Europe — elle ne ressemble à aucune de ses voisines ; ces cinq mots vous ouvriront néanmoins des portes avec un sourire.",
+      "items": [
+        {
+          "word": "Szia",
+          "pronunciation": "see-ya",
+          "meaning": "Bonjour / Au revoir — amical et polyvalent ; dites-le et souriez"
+        },
+        {
+          "word": "Köszönöm",
+          "pronunciation": "kuh-suh-nuhm",
+          "meaning": "Merci — 'köszi' fonctionne pour faire court"
+        },
+        {
+          "word": "Kérem",
+          "pronunciation": "kay-rem",
+          "meaning": "S'il vous plaît / De rien — le mot clé de la courtoisie"
+        },
+        {
+          "word": "Egészségedre!",
+          "pronunciation": "eg-ayss-shay-ged-reh",
+          "meaning": "Santé ! (et à vos souhaits !) — difficile à prononcer, mais très efficace ; parfait avec de la bière, mais selon la légende, jamais avec des verres de bière entrechoqués autrefois"
+        },
+        {
+          "word": "Finom",
+          "pronunciation": "fee-nom",
+          "meaning": "'Délicieux' — dit après une cuillerée de goulash, cela ouvre la porte de la cuisine"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Check-list Budapest",
+      "completion_message": "Egészségedre ! Vous avez vécu les deux rives du Danube !",
+      "items": [
+        {
+          "label": "S'abandonner à la vapeur dans un bain thermal",
+          "sub": "Széchenyi, Gellért ou Rudas — deux heures minimum"
+        },
+        {
+          "label": "Contempler le Parlement depuis le Bastion des Pêcheurs",
+          "sub": "Tôt le matin — quand les tourelles sont vides"
+        },
+        {
+          "label": "Traverser le Pont des Chaînes à pied",
+          "sub": "Une fois de jour, une fois de nuit"
+        },
+        {
+          "label": "Passer une nuit dans un ruin bar",
+          "sub": "District VII — vieux fauteuils, objets insolites"
+        },
+        {
+          "label": "Prendre le tram 2 le long des quais",
+          "sub": "La nuit — avec le Parlement illuminé"
+        },
+        {
+          "label": "Manger un lángos à la Grande Halle du Marché",
+          "sub": "Stands à l'étage, le classique à l'ail"
+        },
+        {
+          "label": "Commander une Dobos torte dans un kávéház",
+          "sub": "Table en marbre, porcelaine lourde, sans se presser"
+        },
+        {
+          "label": "Se tenir dans les stations en porcelaine du M1",
+          "sub": "Depuis 1896 — sous l'avenue Andrássy"
+        },
+        {
+          "label": "Réussir le test de courage de l'Unicum",
+          "sub": "Quarante herbes, une gorgée, un 'ouah'"
+        },
+        {
+          "label": "Se recueillir devant les Chaussures sur le Danube",
+          "sub": "Les quais — la mémoire de la ville"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "meta": {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "language": "de",
+    "version": "2.1",
+    "color_primary": "#1A6B5A",
+    "color_light": "#E8F5F1",
+    "tagline": "Freiheit, Grachten und mehr Fahrräder als Menschen.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Bargeldlose Stadt",
+    "Radwege freihalten",
+    "Gemütliche Atmosphäre"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Amsterdam",
+      "intro": "Sobald Sie aus dem Zug steigen, spüren Sie: Amsterdam ist anders. Die Häuser lehnen schief – ja, absichtlich, sie sind aus dem 17. Jahrhundert und stolz darauf. Die Grachten schlängeln sich wie ein Labyrinth durch die Stadt. Und irgendwie fühlt sich der ganze Ort einfach frei an.",
+      "local_word": {
+        "word": "Gezellig",
+        "pronunciation": "heh-ZEL-ikh",
+        "definition": "Dieses warme, gemütliche, kaum übersetzbare niederländische Gefühl – am Wasser sitzen mit einem Kaffee, Boote vorbeiziehen sehen. Dieses eine Wort erklärt die Seele Amsterdams. Sie werden es überall spüren."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Niemals auf den roten Radwegen gehen",
+          "description": "Radfahrer beherrschen diese Stadt und werden nicht für Sie anhalten. Betreten Sie einen Radweg = sofortige Gefahr. Der größte Touristenfehler in Amsterdam."
+        },
+        {
+          "number": 2,
+          "title": "Amsterdam läuft mit Karten, nicht mit Bargeld",
+          "description": "Von kleinen Bäckereien bis zu Straßenmärkten sind die meisten Orte nur mit Karte zu bezahlen. Lassen Sie sich vom Schild 'Nur Karte' nicht überraschen – einfach tippen und los."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "Schiphol (AMS)",
+          "sub": "Direktzug · 15–20 Min. · alle 10–15 Min."
+        },
+        {
+          "icon": "🚲",
+          "label": "Fortbewegung",
+          "value": "Fahrrad oder Straßenbahn",
+          "sub": "In Straßenbahnen ein- UND auschecken"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Niederländisch · Englisch überall",
+          "sub": "Praktisch jeder spricht Englisch"
+        },
+        {
+          "icon": "⛵",
+          "label": "Kostenlose Fähre",
+          "value": "Hinter dem Hauptbahnhof",
+          "sub": "Nach Noord — kostenlos, den ganzen Tag"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Lokaler Tipp",
+        "text": "Wenn Sie an einem regnerischen Nachmittag ein gemütliches braunes Café finden, bestellen Sie ein Bier und setzen Sie sich einfach hin – das ist Gezellig in Aktion. Keine Pläne. Keine Eile. Einfach Amsterdam."
+      }
+    },
+    "transport": {
+      "title": "Fortbewegung",
+      "intro": "In Amsterdam ist die Art, wie Sie sich fortbewegen, Teil des Erlebnisses. Wenn Sie das richtig machen, öffnet sich die Stadt Ihnen vollständig.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Flughafen → Stadtzentrum",
+          "description": "Die einfachste Option ist der Zug. Schiphol hat einen eigenen Bahnhof direkt unter dem Terminal – nehmen Sie die Rolltreppen mit Ihrem Gepäck hinunter und steigen Sie ein. Züge nach Amsterdam Centraal fahren alle 10–15 Minuten und benötigen 15–20 Minuten. Schnell, günstig und stressfrei. Taxis und Transferdienste kosten 4–5 Mal mehr und sind vom Verkehr abhängig."
+        },
+        {
+          "icon": "🚲",
+          "title": "Fahrrad – das wahre Lebenselixier der Stadt",
+          "description": "Mieten Sie eines, und Amsterdam ergibt plötzlich Sinn. Drei goldene Regeln: Gehen Sie niemals auf den roten Radwegen; verwenden Sie immer zwei Schlösser – Fahrraddiebstahl ist hier praktisch ein Volkssport; halten Sie niemals mitten auf einem Radweg an, um ein Foto zu machen. Andere Radfahrer werden Sie nicht warnen, sie fahren einfach vorbei."
+        },
+        {
+          "icon": "🚋",
+          "title": "Straßenbahnen, Busse & Metro",
+          "description": "Straßenbahnen sind das Rückgrat der Stadt, sie gleiten durch enge Gassen und erreichen überallhin. Tippen Sie Ihre OV-chipkaart oder Ihr Telefon beim Einsteigen UND beim Aussteigen. Wenn Sie das Aussteigen nicht tippen, wird dies vom System als Höchsttarif verarbeitet. Diesen Fehler macht am Anfang jeder."
+        },
+        {
+          "icon": "⛵",
+          "title": "Kostenlose Fähren nach Noord",
+          "description": "Kostenlose Fähren fahren kontinuierlich direkt hinter dem Hauptbahnhof nach Amsterdam Noord – kostenlos für Fußgänger, Radfahrer und Mopeds. Kurz, luftig und ein kleines Erlebnis für sich. Fährt den ganzen Tag und bis in die Nacht."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxi & Uber",
+          "description": "Beide Optionen existieren, kosten aber 4–5 Mal mehr als öffentliche Verkehrsmittel. Eine Überlegung wert für späte Nächte oder besondere Situationen – nicht als tägliches Transportmittel. Uber funktioniert in Amsterdam reibungslos."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Schuh-Tipp",
+        "text": "Tragen Sie bequeme, flache Schuhe. Die Steine am Kanalufer sind uneben und rutschig. Wenn Sie eine Straße überqueren – achten Sie zuerst auf Fahrräder, dann auf Autos. Die Fahrradarmee ist leise und schnell."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "Ihr Viertel prägt Ihre gesamte Reise. Das Zentrum ist überteuert und laut – verlassen Sie den ersten Ring, und Amsterdam wird authentisch.",
+      "local_word": {
+        "word": "Borrel",
+        "pronunciation": "bor-EL",
+        "definition": "Das heilige niederländische Feierabendritual – Bier, Bitterballen und ein Nachmittag, der nirgendwohin führt. Ein Viertel in Amsterdam zu wählen bedeutet, zu wählen, wo Ihr Borrel stattfindet. Finden Sie das richtige, und das passende Bruin Café ist gleich um die Ecke."
+      },
+      "items": [
+        {
+          "name": "Jordaan",
+          "badge": "Am romantischsten",
+          "badge_type": "vibe",
+          "description": "Das 'amsterdamischste' Viertel, das es gibt. Enge Gassen, efeubewachsene Grachtenhäuser, Boutique-Hotels direkt am Wasser. Die Gebäude sind 400 Jahre alt – rechnen Sie mit sehr steilen Treppen und winzigen Zimmern. Bringen Sie einen kleinen Koffer mit.",
+          "tags": [
+            "Ruhig & zentral",
+            "Steile Treppen",
+            "Kleiner Koffer unerlässlich"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jordaan+Amsterdam"
+        },
+        {
+          "name": "De Pijp",
+          "badge": "Bestes Nachtleben",
+          "badge_type": "hot",
+          "description": "Amsterdams 'Lateinviertel'. Heimat des Albert Cuypmarkts – des größten Freiluftmarktes der Stadt –, einer lebhaften Studentenszene und Restaurants aus aller Welt. Etwas günstiger als das Zentrum, viel lebendiger.",
+          "tags": [
+            "Nachtleben-freundlich",
+            "Tolle Gastronomieszene",
+            "Budgetfreundlich"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=De+Pijp+Amsterdam"
+        },
+        {
+          "name": "Grachtengordel (Canal Belt)",
+          "badge": "UNESCO-gelistet",
+          "badge_type": "vibe",
+          "description": "Wohnen in einem UNESCO-Weltkulturerbe. Prächtige Grachtenhäuser mit hohen Decken, die auf jeder Postkarte landen. Alles zu Fuß erreichbar, aber rechnen Sie am Wochenende mit Touristenmassen.",
+          "tags": [
+            "Am prestigeträchtigsten",
+            "Wochenendmassen",
+            "Postkartenmotiv"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grachtengordel+Amsterdam"
+        },
+        {
+          "name": "Oud-West",
+          "badge": "Lokaler Favorit",
+          "badge_type": "local",
+          "description": "Der Geheimtipp der Einheimischen. Heimat von De Hallen – einer wunderschönen Markthalle und Kino in einem umgebauten Straßenbahndepot – und fußläufig zum Vondelpark. Das Viertel mit dem besten Preis-Leistungs-Verhältnis in Amsterdam. 10 Minuten mit der Straßenbahn zum Zentrum.",
+          "tags": [
+            "Bestes Preis-Leistungs-Verhältnis",
+            "Nahe Vondelpark",
+            "Sicher & stilvoll"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Oud-West+Amsterdam"
+        },
+        {
+          "name": "Amsterdam Noord",
+          "badge": "Kostenlose Fähre",
+          "badge_type": "value",
+          "description": "Über die kostenlose Fähre hinter dem Hauptbahnhof erreichbar. Ehemalige Werften, die zu coolen Hotels, riesigen Street-Art-Wandgemälden und einem Digital-Nomaden-Hub wurden. Eine völlig andere Energie. Besuchen Sie am Wochenende den NDSM-Flohmarkt.",
+          "tags": [
+            "Kostenloser Fährzugang",
+            "Street Art",
+            "Wochenend-Flohmarkt"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Amsterdam+Noord"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Beste Reisezeit",
+      "intro": "Amsterdam ist keine Stadt, für die es 'die eine perfekte Reisezeit' gibt – es kommt ganz darauf an, was Sie suchen.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Tulpensaison",
+          "months": "Mar – May",
+          "subtitle": "Frühling · Am ikonischsten",
+          "description": "Der Keukenhof erblüht mit Millionen von Tulpen. Am 27. April – dem Königstag – färbt sich die ganze Stadt orange, jede Straße wird zur Partyzone und die Grachten füllen sich mit Booten. Eines der größten Straßenfeste Europas. Wenn Sie nur einmal reisen können, dann im Frühling.",
+          "callout": {
+            "type": "tip",
+            "label": "Nicht verpassen",
+            "text": "Königstag (27. April) – Unterkunft Monate im Voraus buchen. Straßen werden zu Flohmärkten und die ganze Stadt tanzt."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Lange Tage",
+          "months": "Jun – Aug",
+          "subtitle": "Sommer · Am geselligsten",
+          "description": "Die Sonne geht erst nach 22 Uhr unter. Einheimische picknicken auf Grachtenbooten. Der Vondelpark summt vor Live-Musik. Aber das Wetter ist unberechenbar – warmer Morgen? Nehmen Sie trotzdem eine Jacke mit. Regen kommt ohne Vorwarnung.",
+          "callout": {
+            "type": "warning",
+            "label": "Packtipp",
+            "text": "Tragen Sie immer eine kompakte Regenjacke bei sich, auch im Juli. Das Amsterdamer Wetter folgt keiner Logik."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Stimmungsvoll & Golden",
+          "months": "Sep – Nov",
+          "subtitle": "Herbst · Am atmosphärischsten",
+          "description": "Die Bäume an den Grachten färben sich bernsteinfarben und orange, die Stadt erhält ihre berühmte melancholische, stimmungsvolle Schönheit. Im Oktober findet das Amsterdam Dance Event (ADE) statt – die ganze Stadt wird zur Welthauptstadt der elektronischen Musik. Der 'Gezellig'-Geist erreicht seinen Höhepunkt: regnerische Abende, warme braune Cafés, Einheimische sind tatsächlich zu Hause.",
+          "callout": {
+            "type": "tip",
+            "label": "Lokales Wort",
+            "text": "'Bruin café' (braunes Café) – die dunklen, holzgetäfelten Kneipen, in denen 'Gezellig' wirklich lebt. Suchen Sie sich eines bei einem Regensturm."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Grachtenmagie",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Am magischsten",
+          "description": "Ruhiger, nebliger und ehrlich gesagt magisch. Das Amsterdam Light Festival verwandelt die Grachten in ein Freilichtmuseum. Und wenn Sie großes Glück haben – selten, aber es passiert – frieren die Grachten zu und Einheimische laufen Schlittschuh darauf.",
+          "callout": {
+            "type": "tip",
+            "label": "Insider-Tipp",
+            "text": "Zugefrorene Grachten gibt es vielleicht einmal im Jahrzehnt. Verfolgen Sie im Januar die lokalen Amsterdamer Nachrichten – wenn es passiert, lassen Sie alles stehen und fahren Sie hin."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "March–May",
+          "text": "Der Keukenhof ist geöffnet (Ende März–Mitte Mai) – das Herz der Tulpensaison, ein Halbtagesausflug von Amsterdam."
+        },
+        {
+          "month": "April 27",
+          "text": "Koningsdag (Königstag): Die ganze Stadt färbt sich orange und die Grachten werden zu einer einzigen großen Bootsparty. Entweder tauchen Sie voll ein, oder Sie sind an diesem Tag nicht in der Stadt."
+        },
+        {
+          "month": "August",
+          "text": "Grachtenfestival: klassische Musik auf den Grachten, viele Konzerte kostenlos. Pride-Grachtenparade in der ersten Woche."
+        },
+        {
+          "month": "December–January",
+          "text": "Amsterdam Light Festival: Die Grachten füllen sich mit Lichtinstallationen, am besten von einem Boot aus zu sehen."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Die holländische Küche ist besser als ihr Ruf. Einiges davon findet man nur hier.",
+      "local_word": {
+        "word": "Proost!",
+        "pronunciation": "prohst",
+        "definition": "Prost! Sagen Sie es, wenn Ihr Bier während eines Borrels ankommt – Amsterdams heiligem Feierabend-Trinkritual. Sofort gefolgt von Bitterballen."
+      },
+      "items": [
+        {
+          "icon": "🍟",
+          "name": "Vlaamse Frites + Patat Oorlog",
+          "description": "Dick geschnitten, doppelt frittiert, im Papiertütchen. Bestellen Sie Patat Oorlog (Kriegs-Pommes): Erdnusssauce, Mayo und rohe Zwiebeln. Klingt chaotisch. Schmeckt unglaublich.",
+          "tag": "Das zuerst probieren",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vleminckx+Sausmeesters+Amsterdam"
+        },
+        {
+          "icon": "🧇",
+          "name": "Stroopwafel — frisch, nicht verpackt",
+          "description": "Zwei dünne Waffelschichten mit Karamell in der Mitte. Holen Sie sich eine warme vom Albert Cuypmarkt. Die Supermarktversionen können da nicht mithalten.",
+          "tag": "Nur auf dem Albert Cuypmarkt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Albert+Cuypmarkt+Amsterdam"
+        },
+        {
+          "icon": "🧀",
+          "name": "Holländischer Käse (Kaas)",
+          "description": "Sie sind im Gouda-Land. Käsereien bieten kostenlose Verkostungen an – gereift, jung, geräuchert, mit Kräutern. Probieren Sie Henri Willig oder Old Amsterdam. Verkostungen sind immer kostenlos.",
+          "tag": "Kostenlose Verkostungen verfügbar",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Henri+Willig+Cheese+Amsterdam"
+        },
+        {
+          "icon": "🍺",
+          "name": "Bitterballen + Borrel",
+          "description": "Knusprig frittierte Bällchen, gefüllt mit cremigem Fleischragout, in Senf getaucht. Immer zusammen mit einem Nachmittagsbier gegessen – das ist der Borrel, Amsterdams Feierabendritual. In jedem braunen Café.",
+          "tag": "Das wahre lokale Ritual",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cafe+Hoppe+Amsterdam"
+        },
+        {
+          "icon": "🐟",
+          "name": "Haring (Roher Hering)",
+          "description": "Am Schwanz halten, Kopf zurücklehnen, hineingleiten lassen – das ist die traditionelle Art. Zu gewagt? Holen Sie sich ein Broodje Haring mit Essiggurken und Zwiebeln. So oder so, probieren Sie es einmal.",
+          "tag": "Initiationsritus",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Stubbe%27s+Haring+Amsterdam"
+        },
+        {
+          "icon": "🍛",
+          "name": "Rijsttafel — Indonesisches Festmahl",
+          "description": "15–20 kleine indonesische Gerichte zusammen serviert – reichhaltig, gewürzt, völlig anders als alles andere in Amsterdam. Das köstlichste Überbleibsel der niederländischen Kolonialgeschichte. Reservieren Sie einen Abend.",
+          "tag": "Im Voraus reservieren",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Blauw+Amsterdam"
+        },
+        {
+          "icon": "🥞",
+          "name": "Poffertjes",
+          "description": "Kleine, fluffige Mini-Pfannkuchen, bestäubt mit Puderzucker und Butter. Ein Kindheitsliebling in den Niederlanden. Finden Sie sie auf jedem Straßenmarkt.",
+          "tag": "Kinder & Erwachsene lieben sie",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=The+Pancake+Bakery+Amsterdam"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Spätabend-Geheimnis",
+        "text": "Finden Sie einen FEBO-Automaten – tippen Sie Ihre Karte an eine Wand kleiner Glasfenster und ziehen Sie eine heiße Kroket heraus. Amsterdams älteste Fast-Food-Tradition. Nach Mitternacht völlig einzigartig."
+      }
+    },
+    "hidden_gems": {
+      "title": "Versteckte Juwelen",
+      "intro": "Das wahre Amsterdam verbirgt sich hinter Türen, in Gassen und jenseits kostenloser Fähren. Die meisten Touristen gehen einfach daran vorbei.",
+      "items": [
+        {
+          "rarity": "Extrem seltener Fund",
+          "name": "Ons' Lieve Heer op Solder — Kirche auf dem Dachboden",
+          "description": "Von außen: ein normales Grachtenhaus. Innen, versteckt im obersten Stockwerk: eine vollständig erhaltene katholische Kirche aus dem 17. Jahrhundert. Heimlich gebaut, als der katholische Gottesdienst verboten war. Amsterdams mächtigstes Symbol der Toleranz – fast niemand weiß, dass es existiert.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ons+Lieve+Heer+op+Solder+Amsterdam"
+        },
+        {
+          "rarity": "Mittelalterliches Geheimnis",
+          "name": "Begijnhof — Der Versteckte Hof",
+          "description": "Ein mittelalterlicher Hof hinter einer unscheinbaren Tür am Spui-Platz. Treten Sie ein und der Lärm verschwindet vollständig. Im 14. Jahrhundert erbaut. Kein Schild an der Tür – suchen Sie nach einem kleinen Holztor in der Mauer.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Begijnhof+Amsterdam"
+        },
+        {
+          "rarity": "Art-déco-Meisterwerk",
+          "name": "Tuschinski Theater",
+          "description": "Eines der schönsten Art-déco-Gebäude der Welt. Auch wenn Sie keinen Film sehen, gehen Sie in die Lobby. Teppiche, Decke, Kronleuchter – eine Zeitmaschine ins Amsterdam von 1921. Die meisten Touristen gehen vorbei und betreten es nie.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pathe+Tuschinski+Amsterdam"
+        },
+        {
+          "rarity": "Noord-Geheimnis — nur am Wochenende",
+          "name": "NDSM Werf + Wochenend-Flohmarkt",
+          "description": "Alte Werft, die über die kostenlose Fähre zu einem Street-Art-Wunderland wurde. Riesige Schrottskulpturen, massive Wandgemälde. Am Wochenende: Der NDSM-Flohmarkt versammelt Künstler, Food Trucks und Vintage-Stände. Das Amsterdam der Zukunft.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=NDSM+Werf+Amsterdam"
+        },
+        {
+          "rarity": "Jordaans bestgehütetes Geheimnis",
+          "name": "Hofjes — Geheime Gartenhöfe",
+          "description": "Amsterdam hat Dutzende versteckter Gärten hinter unscheinbaren Holztüren. Der Begijnhof ist der berühmteste, aber der Jordaan hat mehrere andere – Karthuizerhofje, Sint Andrieshofje. Folgen Sie kleinen Schildern an den Wänden. Treten Sie ein und finden Sie einen Garten, der 400 Jahre von der Stadt draußen entfernt ist.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Karthuizerhofje+Amsterdam"
+        },
+        {
+          "rarity": "Debatte um den besten Apfelkuchen beigelegt",
+          "name": "Winkel 43 — Die Apfelkuchen-Pilgerreise",
+          "description": "Dick, zimtlastig, warm serviert mit einem Berg frischer Schlagsahne (slagroom). Die Warteschlange ist jede Minute wert. Gehen Sie an einem regnerischen Tag auf einen Nachmittagskaffee.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Winkel+43+Amsterdam"
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "De Wallen Regel",
+        "text": "Fotografieren Sie NICHT die Fenster im Rotlichtviertel. Illegal, zutiefst respektlos, feindselige Reaktion garantiert. Das Handy bleibt in der Tasche – keine Ausnahmen."
+      }
+    },
+    "checklist": {
+      "title": "Amsterdam Checkliste",
+      "completion_message": "Du hast Amsterdam perfekt erlebt!",
+      "items": [
+        {
+          "label": "Am Kanal den Sonnenuntergang genießen",
+          "sub": "Jordaan oder Prinsengracht – Füße über dem Rand, Bier in der Hand"
+        },
+        {
+          "label": "Das Anne-Frank-Haus besuchen",
+          "sub": "2–3 Monate im Voraus buchen. Keine spontanen Besuche. Jeden Schritt wert."
+        },
+        {
+          "label": "Sich in den 9 Straatjes verlieren",
+          "sub": "Neun Straßen – Vintage-Läden, Boutiquen, versteckte Juwelen. Planen Sie extra Zeit ein."
+        },
+        {
+          "label": "Einen Blick in die Cuypers-Bibliothek des Rijksmuseums werfen",
+          "sub": "Auch wenn Sie die Galerien überspringen – die Architektur wird Sie in ihren Bann ziehen"
+        },
+        {
+          "label": "Die kostenlose Fähre nach Amsterdam Noord nehmen",
+          "sub": "Hinter dem Hauptbahnhof – kostenlos, 5 Minuten, eine völlig andere Welt"
+        },
+        {
+          "label": "Den Bloemenmarkt durchstöbern",
+          "sub": "Der weltweit einzige schwimmende Blumenmarkt. Tulpenzwiebeln, die Sie wirklich mit nach Hause nehmen können."
+        },
+        {
+          "label": "Eine Grachtenfahrt zur goldenen Stunde machen",
+          "sub": "Das Licht auf den Grachtenhäusern eine Stunde vor Sonnenuntergang ist unvergleichlich"
+        },
+        {
+          "label": "Einen Borrel mit Bitterballen genießen",
+          "sub": "Jedes braune Café, jeden Nachmittag. Bitterballen + Bier. Sagen Sie Proost!"
+        },
+        {
+          "label": "Einen FEBO-Moment erleben",
+          "sub": "Spätabends an der Automatenwand – Kroket aus einem kleinen Glasfenster"
+        },
+        {
+          "label": "Durch den Begijnhof spazieren",
+          "sub": "Finden Sie die unmarkierte Tür am Spui-Platz. Treten Sie ein. Atmen Sie."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Fallen vermeiden",
+      "intro": "Amsterdam ist nicht gnadenlos, was Touristenfallen angeht, aber das Zentrum hat ein paar Klassiker. Kennen Sie sie, und verbringen Sie Ihr Geld und Ihre Zeit mit dem echten Amsterdam.",
+      "items": [
+        {
+          "icon": "🍽️",
+          "name": "Restaurants mit Fotomenüs am Damrak und Leidseplein",
+          "description": "Die neonbeleuchteten Lokale, die Sie direkt nach der Ankunft am Bahnhof begrüßen, mit einem Kellner an der Tür und einer Speisekarte in 12 Sprachen. Überteuert, mittelmäßig und wo kein Niederländer jemals sitzt.",
+          "instead": "Gehen Sie zwei Straßen weiter: im Jordaan oder in De Pijp bekommen Sie für das gleiche Geld eine doppelt so gute Mahlzeit."
+        },
+        {
+          "icon": "🚢",
+          "name": "Riesige, glasüberdachte Grachtenboote",
+          "description": "Die großen Boote, die 70 Personen mit einem aufgezeichneten Audioguide befördern, zeigen Ihnen die Grachten, ohne dass Sie sie wirklich erleben. Selbst Fotos sind durch das Glas schwierig.",
+          "instead": "Wählen Sie ein kleines offenes Boot mit einem Live-Skipper – und planen Sie es für den Sonnenuntergang ein."
+        },
+        {
+          "icon": "🧀",
+          "name": "Souvenir-Käse- und Tulpenläden am Damrak",
+          "description": "Vakuumverpackter 'Gouda' und Tulpenzwiebeln, die niemals blühen werden. Überhöhte Preise, geringe Qualität, und vieles davon wird nicht einmal lokal hergestellt.",
+          "instead": "Kaufen Sie Käse in einem echten Käsegeschäft nach einer Verkostung; erhalten Sie zertifizierte (zollzugelassene) Zwiebeln an den Ständen des Bloemenmarkts."
+        },
+        {
+          "icon": "🚕",
+          "name": "Taxi vom Flughafen Schiphol in die Stadt",
+          "description": "Sie zahlen 60–70 € und brauchen im Verkehr doppelt so lange wie mit dem Zug. Die Taxischlange am Flughafen ist Amsterdams teuerstes Wartezimmer.",
+          "instead": "Der Zug erreicht Centraal in 15–20 Minuten; die Bahnsteige befinden sich direkt unter dem Terminal."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die goldene Regel",
+        "text": "Wenn Sie jemand an der Tür hereinruft, kann sich der Ort nicht selbst verkaufen. Gute Orte in Amsterdam rufen Sie nie – Sie finden sie."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Vorschlägen. Die Zeiten sind flexibel; behalten Sie den Geist bei, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Die Klassiker + ein Vorgeschmack auf das echte Amsterdam",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Frühstück im Jordaan",
+              "description": "Beginnen Sie den Tag mit Apfelkuchen im Winkel 43 — ja, Kuchen zum Frühstück, Sie sind ja hier."
+            },
+            {
+              "time": "10:30",
+              "title": "Spaziergang durch die 9 Straatjes + Grachtengürtel",
+              "description": "Von den Neun Straßen südlich entlang der Prinsengracht; hetzen Sie nicht, halten Sie auf den Brücken an."
+            },
+            {
+              "time": "13:00",
+              "title": "Mittagessen auf dem Albert Cuypmarkt",
+              "description": "Eine warme Stroopwafel, frischer Hering oder was auch immer Sie anspricht. Im Stehen, Markt-Stil."
+            },
+            {
+              "time": "14:30",
+              "title": "Rijksmuseum oder Van Gogh",
+              "description": "Quetschen Sie nicht beides in einen Tag. Wählen Sie eines und nehmen Sie sich Zeit. Buchen Sie das Ticket im Voraus."
+            },
+            {
+              "time": "17:30",
+              "title": "Borrel in einem braunen Café",
+              "description": "Bitterballen + Bier. Die holländischste Stunde des Tages."
+            },
+            {
+              "time": "19:30",
+              "title": "Am Kanal bei Sonnenuntergang",
+              "description": "Holen Sie sich eine Flasche von einem Markt, setzen Sie sich an den Kanalrand, lassen Sie die Füße baumeln. Der ganze Tag war dafür."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Erleben Sie die Stadt als Gast, nicht als Tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Das Zentrum und die Klassiker",
+              "description": "Der oben genannte 1-Tages-Ablauf: Jordaan, Grachten, ein großes Museum, Borrel."
+            },
+            {
+              "time": "Day 2",
+              "title": "Noord und alternatives Amsterdam",
+              "description": "Nehmen Sie die kostenlose Fähre nach Noord: NDSM, Street Art, A'DAM-Turm. Am Nachmittag: Anne-Frank-Haus (Monate im Voraus buchen!) und Abendessen in De Pijp."
+            },
+            {
+              "time": "Day 3",
+              "title": "Verstecktes Amsterdam + ein letztes Gezellig",
+              "description": "Begijnhof, Ons' Lieve Heer op Solder, die Hofjes-Höfe. Eine Grachtenfahrt mit einem kleinen Boot am Nachmittag und ein Rijsttafel-Abschiedsfest am Abend."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Das 5-Wörter-Survival-Kit",
+      "intro": "Jeder spricht Englisch, aber schon ein einziges niederländisches Wort zaubert ein Lächeln ins Gesicht.",
+      "items": [
+        {
+          "word": "Dank je wel",
+          "pronunciation": "dank ye vel",
+          "meaning": "Danke — das Wort, das Sie am häufigsten benutzen werden"
+        },
+        {
+          "word": "Alsjeblieft",
+          "pronunciation": "als-ye-bleeft",
+          "meaning": "Bitte / hier, bitte schön — wird auch beim Überreichen von etwas gesagt"
+        },
+        {
+          "word": "Proost!",
+          "pronunciation": "prohst",
+          "meaning": "Prost! Vergessen Sie den Blickkontakt nicht."
+        },
+        {
+          "word": "Lekker",
+          "pronunciation": "leck-er",
+          "meaning": "Lecker / toll — funktioniert für Essen und für das Wetter"
+        },
+        {
+          "word": "Doei!",
+          "pronunciation": "doo-ee",
+          "meaning": "Tschüss — fröhlich, wird zweimal gesagt: doei doei!"
+        }
+      ]
+    }
+  }
+}

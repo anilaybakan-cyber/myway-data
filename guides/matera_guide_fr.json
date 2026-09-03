@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Matera",
+    "country": "Italy",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#8C6239",
+    "color_light": "#F5EEE4",
+    "tagline": "Une cité troglodyte vieille de neuf mille ans : une histoire de pierre, de pain et de renaissance."
+  },
+  "pills": [
+    "L'un des plus anciens sites habités du monde",
+    "Séjournez une nuit dans les Sassi – une excursion d'une journée ne suffit pas",
+    "Écoutez le croquant des peperoni cruschi"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Matera",
+      "intro": "Arriver à Matera, c'est brouiller le temps lui-même : les maisons troglodytes (sassi) creusées dans le ravin racontent l'histoire d'une ville habitée sans interruption depuis neuf mille ans. Vidées dans les années 1950 comme 'la honte de l'Italie', les grottes sont aujourd'hui classées au patrimoine mondial de l'UNESCO et renaissent avec des hôtels troglodytes, des ruelles en pierre et des terrasses surplombant le canyon. Mel Gibson y a tourné 'La Passion' ; vous comprendrez au premier coup d'œil – ces pierres sont assez vieilles pour jouer Jérusalem.",
+      "local_word": {
+        "word": "Vicinato",
+        "pronunciation": "vee-chee-NAH-to",
+        "definition": "L'ordre de voisinage construit autour d'une cour commune dans les Sassi : puits partagé, four partagé, vie partagée. Cette solidarité était le secret de la survie de Matera ; elle perdure aujourd'hui dans les conversations au coin de la rue."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Passez une nuit — Matera s'éveille au crépuscule",
+          "description": "Quand les excursionnistes partent, les pierres des Sassi s'illuminent et la ville devient un autre lieu. Une nuit dans un hôtel troglodyte fait toute la différence entre visiter Matera et la vivre."
+        },
+        {
+          "number": 2,
+          "title": "Ne conduisez pas dans les Sassi",
+          "description": "Le centre historique est une ZTL (zone à trafic limité) et la plupart des ruelles sont de toute façon des escaliers. Laissez la voiture dans les parkings de la ville haute ; utilisez le service de bagages de votre hôtel, ou venez avec un sac léger."
+        },
+        {
+          "number": 3,
+          "title": "Chaussures solides, une bouteille d'eau pleine",
+          "description": "Matera est une ville de montées et de descentes : pavés, marches et soleil d'été. Les talons et les tongs ne sont pas adaptés ici ; doublez la quantité d'eau si vous descendez dans le canyon."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚆",
+          "label": "Comment s'y rendre",
+          "value": "Train depuis Bari ≈1,5 h",
+          "sub": "Ligne Appulo Lucane · à côté de Bari Centrale"
+        },
+        {
+          "icon": "🥾",
+          "label": "En ville",
+          "value": "À pied uniquement",
+          "sub": "Les Sassi sont faits d'escaliers"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Italien",
+          "sub": "L'anglais se répand dans le tourisme"
+        },
+        {
+          "icon": "🏔️",
+          "label": "Caractéristique",
+          "value": "Les maisons troglodytes des Sassi",
+          "sub": "UNESCO — 9 000 ans d'habitation"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Matera",
+        "text": "Pas besoin de chercher les vues à Matera ; chaque ruelle débouche soit sur le canyon, soit sur un clocher. Se perdre vaut mieux que planifier — au pire, vous arriverez à l'odeur d'une boulangerie."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Atteindre Matera est facile et les véhicules y sont inutiles : cette ville se visite à pied.",
+      "items": [
+        {
+          "icon": "🚆",
+          "title": "Le train Appulo Lucane depuis Bari",
+          "description": "Le petit train de l'annexe de Bari Centrale atteint Matera Centrale en environ 1h30 ; le dimanche, un bus remplace le service réduit. Les billets sont bon marché, la vue est celle des plaines des Pouilles."
+        },
+        {
+          "icon": "🚌",
+          "title": "Bus interurbains",
+          "description": "Des bus directs partent de Rome, Naples et des villes du sud ; l'arrêt principal de Matera est à quelques pas du centre. Les bus de nuit sont économiques."
+        },
+        {
+          "icon": "🥾",
+          "title": "Explorer les Sassi à pied",
+          "description": "Ruelles pavées et escaliers de Barisano à Caveoso : le seul véritable moyen de transport. Des montées constantes entre la ville haute (Piano) et les Sassi — faites confiance à vos genoux, reposez-vous souvent."
+        },
+        {
+          "icon": "🚗",
+          "title": "Si vous venez en voiture",
+          "description": "Des parkings se trouvent dans la ville haute (Via Saragat et autres) ; la ZTL est contrôlée par caméra et l'amende trouvera votre boîte aux lettres. Si votre hôtel est dans les Sassi, renseignez-vous à l'avance sur les bagages et l'accès."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxi ou voiture pour le belvédère",
+          "description": "Le point de vue de Murgia Timone, de l'autre côté du ravin, est à 15 minutes en voiture ou 45 minutes à pied via le pont suspendu ; apportez une torche pour le retour au coucher du soleil."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil bagages",
+        "text": "Une valise à roulettes tambourine sur les pavés et devient une torture dans les escaliers ; le sac à dos est roi, et le service de navette de l'hôtel est son vizir."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "La question de Matera : voulez-vous dormir dans une grotte, ou en contempler une ?",
+      "local_word": {
+        "word": "Sassi",
+        "pronunciation": "SAH-see",
+        "definition": "'Les pierres' : le nom commun des deux quartiers historiques (Barisano et Caveoso) creusés dans le ravin. Dormir dans un sasso, c'est être le plus récent locataire d'une maison vieille de neuf mille ans."
+      },
+      "items": [
+        {
+          "name": "Sasso Barisano",
+          "badge": "Les sassi confortables",
+          "badge_type": "vibe",
+          "description": "Le plus restauré et le plus riche en hôtels des deux : hôtels-grottes de charme, restaurants et vues sur les clochers. La meilleure adresse équilibrée pour une première nuit à Matera.",
+          "tags": [
+            "Hôtels-grottes",
+            "Densité de restaurants",
+            "Ambiance restaurée"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sasso+Barisano+Matera"
+        },
+        {
+          "name": "Sasso Caveoso",
+          "badge": "Le brut",
+          "badge_type": "local",
+          "description": "Les sassi moins touchés, plus bruts : églises rupestres, grottes vides et ruelles au bord du canyon. Ambiance dense, confort variable — le sommeil le plus proche de la mémoire de Matera.",
+          "tags": [
+            "Églises rupestres",
+            "Bord du canyon",
+            "Atmosphère brute"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sasso+Caveoso+Matera"
+        },
+        {
+          "name": "Civita — la couronne du rocher",
+          "badge": "Le plus central",
+          "badge_type": "value",
+          "description": "L'éperon rocheux entre les deux sassi, le quartier de la cathédrale : à quelques minutes de tout, vues des deux côtés. Petit et très demandé — réservez tôt.",
+          "tags": [
+            "À côté de la cathédrale",
+            "Entre les sassi",
+            "Vues des deux côtés"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Civita+Matera"
+        },
+        {
+          "name": "Piano — la ville haute",
+          "badge": "Le choix pratique",
+          "badge_type": "value",
+          "description": "Églises baroques et rues plates — la Matera 'normale' : pas de drame de bagages, prix corrects, cinq minutes de descente vers les Sassi. Ami des personnes n'aimant pas les escaliers et des automobilistes.",
+          "tags": [
+            "Rues plates",
+            "Accès facile",
+            "Bon rapport qualité-prix"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Piano+Matera"
+        },
+        {
+          "name": "De l'autre côté du canyon — agriturismo",
+          "badge": "Le plus panoramique",
+          "badge_type": "hot",
+          "description": "Fermes sur le plateau de la Murgia face aux Sassi : au coucher du soleil, la ville tient dans votre main. Une voiture est essentielle ; la récompense est le silence et ce cadre.",
+          "tags": [
+            "La vue frontale",
+            "Silence campagnard",
+            "Voiture essentielle"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Murgia+Timone+Matera"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "La ville de pierre vit ses saisons intensément : un four en été, silencieuse en hiver, dorée au printemps et en automne.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "La pierre en fleur",
+          "months": "Avr – Juin",
+          "subtitle": "Printemps · Pierre chaude, canyon verdoyant",
+          "description": "Le ravin de la Gravina reverdit, les sentiers de randonnée s'ouvrent, les ruelles restent agréables même à midi. La foule augmente le week-end ; en semaine, Matera est presque à vous seul.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour mai",
+            "text": "En mai, la combinaison randonnée dans le canyon + églises rupestres est à son apogée ; en été, le même itinéraire ne peut pas être fait à midi."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Les mois du four",
+          "months": "Juil – Août",
+          "subtitle": "Été · Pierre chaude, grottes fraîches",
+          "description": "La pierre chauffe toute la journée et les ruelles se vident à midi ; la vie se déplace vers le matin, le soir et la fraîcheur des grottes. La Festa della Bruna le 2 juillet est le jour le plus animé de la ville.",
+          "callout": {
+            "type": "warning",
+            "label": "Avertissement pour midi",
+            "text": "En juillet et août, de midi à cinq heures, les Sassi ne sont pas visités mais 'survivent' : prenez un long déjeuner dans un restaurant troglodyte frais et gardez la marche pour l'heure dorée."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Lumière dorée",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Pierre miellée, ruelles calmes",
+          "description": "Septembre et octobre sont les mois où Matera est la plus photogénique : la pierre prend une teinte miel, les soirées sont fraîches, la foule se retire. Novembre crée sa propre ambiance de matins brumeux.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour octobre",
+            "text": "En octobre, admirez le coucher de soleil depuis Murgia Timone : la ville de pierre devient orange, et sur le chemin du retour, les lumières s'allument une par une."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Pierre silencieuse",
+          "months": "Déc – Mars",
+          "subtitle": "Hiver · Ruelles vides, grottes chaudes",
+          "description": "Les visiteurs se raréfient, les hôtels troglodytes allument des feux, et la tradition de la crèche vivante transforme les Sassi en scène. Si la neige tombe — rare, mais cela arrive — Matera devient une photographie de conte de fées.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour décembre",
+            "text": "En décembre, la crèche vivante est mise en scène dans le décor naturel des Sassi ; l'une des scènes de Noël les plus émouvantes d'Italie."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine lucanienne est le génie inventif de la pauvreté : le pain est sacré, le poivre croustillant, les pâtes faites à la main.",
+      "local_word": {
+        "word": "Cruschi",
+        "pronunciation": "KROO-skee",
+        "definition": "Des poivrons doux de Senise séchés au soleil et frits en quelques secondes : ils croquent comme des chips et ont un goût unique. À Matera, ils sont parsemés sur tout — vous comprendrez à la première bouchée."
+      },
+      "items": [
+        {
+          "icon": "🍞",
+          "name": "Pane di Matera",
+          "description": "Le légendaire pain en forme de corne avec une croûte épaisse et une mie jaune (protégé par l'IGP) : cuit dans des fours à bois, frais pendant une semaine. Le parfum de la ville s'échappe de ces boulangeries.",
+          "tag": "Produit IGP · du four à bois",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Panificio+Paoluccio+Matera"
+        },
+        {
+          "icon": "🌶️",
+          "name": "Peperoni cruschi",
+          "description": "Poivrons séchés frits et croustillants : un mezze à part entière, une couronne sur les œufs et les pâtes. Acheter un paquet pour la valise est tout à fait légitime.",
+          "tag": "Goût signature · achetez-en un paquet aussi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Via+del+Corso+Matera"
+        },
+        {
+          "icon": "🍝",
+          "name": "Cavatelli et orecchiette — avec mollica",
+          "description": "Pâtes faites à la main avec de la chapelure frite à l'ail (mollica) et des cruschi : le plat 'pauvre mais royal' de Matera.",
+          "tag": "Classique de trattoria · demandez des cruschi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria+Lucana+Matera"
+        },
+        {
+          "icon": "🥣",
+          "name": "Crapiata",
+          "description": "La soupe vicinato de blé, légumineuses et pommes de terre mijotée lentement : le plat de célébration des récoltes des voisins. Elle a même son propre festival début août.",
+          "tag": "Plat traditionnel · bon en toutes saisons",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sasso+Barisano+Matera"
+        },
+        {
+          "icon": "🥗",
+          "name": "Cialledda",
+          "description": "Pain de Matera rassis ressuscité avec tomate, concombre et huile d'olive : la 'salade pauvre' froide de l'été, une version chaude en hiver. Le respect du pain, transformé en plat.",
+          "tag": "Classique d'été · avec du pane di Matera",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Sedile+Matera"
+        },
+        {
+          "icon": "🍷",
+          "name": "Aglianico del Vulture",
+          "description": "Le rouge puissant des pentes volcaniques du Vulture : 'le Barolo du sud'. Servi au verre dans les enotecas troglodytes ; son accord avec les cruschi et le fromage est une leçon de maître.",
+          "tag": "Enoteca troglodyte · au verre",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Enoteca+Dai+Tosi+Matera"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle de la boulangerie",
+        "text": "Commencez la journée dans une boulangerie : une focaccia chaude, une poignée de taralli, et demandez quand le pain sort du four. 'Il pane è pronto ?' est un excellent moyen d'engager la conversation dans cette ville."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Même la surface de Matera est considérée comme cachée ; ces six-là descendent une couche plus profondément dans la pierre.",
+      "items": [
+        {
+          "rarity": "Une cathédrale sous la ville",
+          "name": "Palombaro Lungo",
+          "description": "Une citerne géante de cinq mille mètres cubes sous la place principale : 'la cathédrale de l'eau'. Dans ces voûtes souterraines, vous comprenez que les Sassi n'auraient jamais pu vivre sans elle ; visitée lors d'une courte visite.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palombaro+Lungo+Matera"
+        },
+        {
+          "rarity": "La grotte des fresques",
+          "name": "Cripta del Peccato Originale",
+          "description": "Fresques du VIIIe siècle dans une église rupestre en dehors de la ville : 'la Chapelle Sixtine des églises rupestres'. Visites sur réservation uniquement — cela vaut tous les efforts.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cripta+del+Peccato+Originale+Matera"
+        },
+        {
+          "rarity": "Une église au bord du canyon",
+          "name": "Madonna de Idris",
+          "description": "L'église fusionnée à la roche au-dessus de Caveoso : une chapelle rupestre fresquée à l'intérieur, l'une des meilleures vues sur le canyon à l'extérieur. Montez au coucher du soleil.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Madonna+de+Idris+Matera"
+        },
+        {
+          "rarity": "Le point de vue de l'autre rive",
+          "name": "Murgia Timone Belvedere",
+          "description": "Le point de vue sur la pente opposée, accessible par un pont suspendu : les Sassi de face, comme une image de film. 'La Passion' y a été tournée ; le coucher de soleil y est observé.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Belvedere+Murgia+Timone+Matera"
+        },
+        {
+          "rarity": "Sculpture en forme de grotte",
+          "name": "MUSMA",
+          "description": "Un musée de sculpture contemporaine installé dans les étages troglodytes d'un palais : des formes modernes dans des creux de pierre. La version la plus élégante de l'équation 'grotte + art' de Matera.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=MUSMA+Matera"
+        },
+        {
+          "rarity": "La porte de l'histoire",
+          "name": "Casa Noha",
+          "description": "Le musée du court-métrage du FAI : le voyage de Matera de la honte à la fierté en 25 minutes. Voyez-le AVANT de visiter les Sassi — vous regarderez les pierres avec de nouveaux yeux.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Noha+Matera"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil de séquence",
+        "text": "L'ordre idéal : Casa Noha d'abord (l'histoire), puis les Sassi (la vivre), Murgia Timone en dernier (voir l'ensemble). La pierre vue avec l'histoire connue parle différemment."
+      }
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Matera a peu de pièges — mais la précipitation d'une excursion d'une journée en est un. Connaissez ces quatre-là.",
+      "items": [
+        {
+          "icon": "🚗",
+          "name": "Entrer dans la ZTL 'juste une minute'",
+          "description": "L'offre du GPS de vous 'emmener à la porte de l'hôtel' se termine par une amende ZTL émise par caméra; faire marche arrière dans les ruelles étroites est un drame en soi.",
+          "instead": "Laissez la voiture dans un parking de la ville haute et marchez, ou demandez la prise en charge par l'hôtel; confirmez les heures de la ZTL avec votre hôtel."
+        },
+        {
+          "icon": "📸",
+          "name": "La visite de deux heures 'vu et c'est tout'",
+          "description": "Descendre d'un autocar, photographier le belvédère et repartir, ce n'est pas voir Matera; l'âme de la ville vit dans la lumière du soir et à l'intérieur des grottes.",
+          "instead": "Restez une nuit: le coucher de soleil, une promenade nocturne dans les ruelles de pierre et l'odeur de la boulangerie du matin — voilà le vrai billet pour Matera."
+        },
+        {
+          "icon": "🎫",
+          "name": "Négociation de 'guides officiels' sur la place",
+          "description": "Certains 'guides' qui vous abordent aux portes ne sont pas agréés; vous payez cher pour une boucle mémorisée.",
+          "instead": "Pour une visite guidée, réservez à l'avance un guide agréé ou la combinaison Casa Noha + églises rupestres."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Le 'menu typique' surgelé sur une terrasse panoramique",
+          "description": "Certaines terrasses panoramiques vendent des plats préparés comme 'menu tipico'; la vue est belle, les cavatelli fatigués.",
+          "instead": "Choisissez la trattoria qui parle de pâtes faites maison et du plat du jour; parmi les restaurants troglodytes, le petit est généralement le bon."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "Les foules à Matera n'aiment pas les escaliers: descendez deux volées d'escaliers de la via principale et la densité touristique chute de quatre-vingt-dix pour cent, vous laissant les pierres."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Histoire, pierre et coucher de soleil — dans le bon ordre",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Petit-déjeuner à la boulangerie — Piano",
+              "description": "Focaccia chaude et café pour commencer ; admirez les Sassi pour la première fois depuis la Piazza Vittorio Veneto."
+            },
+            {
+              "time": "09:30",
+              "title": "Casa Noha — découvrez l'histoire",
+              "description": "Regardez le parcours de Matera, de la honte à l'UNESCO, dans un film de 25 minutes ; calibrez vos yeux."
+            },
+            {
+              "time": "10:30",
+              "title": "Descendez le Sasso Barisano",
+              "description": "Descendez les ruelles de pierre : cours troglodytiques, clochers, bouches de citernes. Une brève incursion dans le Palombaro Lungo."
+            },
+            {
+              "time": "13:00",
+              "title": "Déjeuner dans une trattoria troglodytique",
+              "description": "Cavatelli con cruschi + un verre d'Aglianico ; sans hâte sous la fraîcheur de la pierre."
+            },
+            {
+              "time": "15:00",
+              "title": "Caveoso et les églises rupestres",
+              "description": "Montez à la Madonna de Idris, découvrez la vie des anciennes maisons-grottes à la Casa Grotta ; longez le bord du canyon."
+            },
+            {
+              "time": "18:30",
+              "title": "Coucher de soleil à Murgia Timone",
+              "description": "Traversez le pont suspendu vers le versant opposé : les Sassi rougissent de face. Retour à la lueur des torches, dîner dans une ruelle de pierre."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Les classiques des Sassi",
+              "description": "Le parcours d'un jour ci-dessus : Casa Noha, Barisano, Caveoso, le belvédère."
+            },
+            {
+              "time": "Day 2",
+              "title": "Canyon et fresques",
+              "description": "Une randonnée matinale dans le canyon de la Gravina et les églises rupestres de la Murgia, l'après-midi la Cripta del Peccato Originale sur réservation, le soir une longue table avec de l'Aglianico."
+            },
+            {
+              "time": "Day 3",
+              "title": "Matera au ralenti et adieu",
+              "description": "Le MUSMA et la cathédrale le matin, crapiata ou cialledda à midi, les rues baroques du Piano et une pause pâtisserie après ; adieu — avec un paquet de cruschi et un pain en forme de corne."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Le trio italien fonctionne aussi ici ; ajoutez-y une touche de chaleur du sud.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "bwon-JOR-noh",
+          "meaning": "Bonjour — obligatoire en entrant dans la boulangerie"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Merci — court, clair, toujours"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "S'il vous plaît — ajoutez-le à la fin de votre commande"
+        },
+        {
+          "word": "Salute!",
+          "pronunciation": "sah-LOO-teh",
+          "meaning": "Santé ! — Les verres d'Aglianico se lèvent à cela"
+        },
+        {
+          "word": "Che meraviglia!",
+          "pronunciation": "keh meh-rah-VEE-lyah",
+          "meaning": "Quelle merveille ! — cela vous échappe à chaque belvédère"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Check-list Matera",
+      "completion_message": "Salute ! Vous avez bien exploré Matera !",
+      "items": [
+        {
+          "label": "Regarder l'histoire à la Casa Noha",
+          "sub": "Avant de visiter les Sassi — une mise en contexte de 25 minutes"
+        },
+        {
+          "label": "Dormir une nuit dans un hôtel troglodyte",
+          "sub": "Pas un yposkafo mais un sasso — dormez à l'intérieur de la pierre"
+        },
+        {
+          "label": "Descendre dans le Palombaro Lungo",
+          "sub": "La cathédrale d'eau sous la place"
+        },
+        {
+          "label": "Manger des cavatelli con cruschi",
+          "sub": "Pâtes faites main + poivrons croustillants"
+        },
+        {
+          "label": "Monter à la Madonna de Idris",
+          "sub": "L'église rupestre, la vue sur le canyon"
+        },
+        {
+          "label": "Admirer le coucher de soleil depuis Murgia Timone",
+          "sub": "Traverser le pont suspendu — les Sassi s'embrasent de face"
+        },
+        {
+          "label": "Acheter du pane di Matera chaud, tout juste sorti du four",
+          "sub": "En forme de corne, protégé par l'IGP, légendaire"
+        },
+        {
+          "label": "Voir la Cripta del Peccato Originale",
+          "sub": "Sur réservation — la Sixtine rupestre"
+        },
+        {
+          "label": "Se promener dans les Sassi la nuit sous les lampes",
+          "sub": "Après le départ des excursionnistes"
+        },
+        {
+          "label": "Emporter des cruschi dans la valise",
+          "sub": "Et une bouteille d'Aglianico — le cadeau d'adieu de Matera"
+        }
+      ]
+    }
+  }
+}

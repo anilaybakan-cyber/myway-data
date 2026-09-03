@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "city": "Marseille",
+    "country": "France",
+    "language": "fr",
+    "version": "2.1",
+    "color_primary": "#1A4B8C",
+    "color_light": "#E8EEF8",
+    "tagline": "La plus ancienne ville de France – et la plus incomprise.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Allez au marché aux poissons avant 10h00",
+    "La terrasse du MuCEM est gratuite",
+    "Mangez une bouillabaisse une fois, comme il se doit"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Marseille a 2 600 ans, fondée par des marins grecs, et a passé la majeure partie de ce temps à être sous-estimée. Paris la méprise. Les touristes l'évitent. Les Marseillais s'en fichent. Le Vieux-Port est le cœur battant de la ville depuis l'arrivée des Grecs vers 600 av. J.-C. Les Calanques offrent l'une des côtes les plus spectaculaires d'Europe. Le marché aux poissons a lieu tous les matins, les pêcheurs vendant depuis les mêmes bateaux, de la même manière. Le MuCEM est l'un des musées les mieux conçus du continent. Rien de tout cela n'est un secret. Le secret, c'est que la ville fonctionne — bruyante, fière et entièrement elle-même.",
+      "local_word": {
+        "pronunciation": "la bon MAIR",
+        "definition": "C'est ainsi que chaque Marseillais appelle Notre-Dame de la Garde — la basilique qui veille sur la ville depuis la plus haute colline. Les navires quittant le port levaient les yeux vers elle. Les navires revenant levaient les yeux vers elle. Elle figure sur chaque ex-voto de marin accroché à l'intérieur. 'La Bonne Mère' signifie 'la bonne mère'. Ce nom dit tout sur la relation de cette ville avec la mer et la foi. Entrée gratuite. Allez-y au crépuscule.",
+        "word": "La Bonne Mère"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Le marché aux poissons est terminé à 10h00",
+          "description": "Chaque matin, les pêcheurs vendent la pêche de la nuit directement depuis leurs bateaux le long du Quai des Belges au Vieux-Port. C'est l'un des derniers marchés de ce type en Europe — pas d'intermédiaires, pas de grossistes. À 10h00, c'est terminé. À 11h00, le quai est vide. Allez-y à 08h00, avant que les restaurants n'arrivent pour acheter. Accès libre. Rien à acheter sauf si vous avez une cuisine."
+        },
+        {
+          "number": 2,
+          "title": "La bouillabaisse a une charte — et c'est important",
+          "description": "La vraie bouillabaisse utilise des poissons de roche méditerranéens spécifiques — rascasse, grondin, Saint-Pierre — et suit la Charte de la Bouillabaisse que les restaurants marseillais signent. Elle est chère, servie en deux plats, et prend des heures. La version à 20 € du menu touristique est un plat différent. Mangez-la une fois, dans un restaurant qui a signé la charte, et comprenez pourquoi elle fait tant parler d'elle. C'est ici qu'elle a été inventée."
+        },
+        {
+          "number": 3,
+          "title": "Marseille n'est pas une ville où l'on se presse",
+          "description": "Les Calanques nécessitent une planification — en été, l'accès à certaines criques est restreint en raison des risques d'incendie et doit être réservé en ligne. Le MuCEM a des files d'attente à midi ; allez-y tôt ou tard. Notre-Dame de la Garde est à 30 minutes de marche en montée depuis le port, ou en bus 60 depuis l'Hôtel de Ville. Le Panier est préférable avant 11h00, avant l'arrivée des excursionnistes. Prévoyez au moins trois jours."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "MRS — Aéroport Marseille Provence",
+          "sub": "Navette bus → gare Saint-Charles, ~25 min"
+        },
+        {
+          "icon": "🚌",
+          "label": "Transports",
+          "value": "Métro + bus + tram (RTM)",
+          "sub": "Ticket unitaire 1,70 € · Pass 24h 5,20 € · Le Vélo 30 premières min gratuites"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Météo",
+          "value": "300 jours de soleil par an",
+          "sub": "Mai–Juin idéal · Juil–Août chaud et animé · Sep–Oct parfait · hiver doux"
+        },
+        {
+          "icon": "🐟",
+          "label": "Marché aux poissons",
+          "value": "Tous les jours, Quai des Belges, Vieux-Port",
+          "sub": "Pêcheurs vendent directement des bateaux · terminé à 10h00 · visite gratuite"
+        }
+      ],
+      "tip": {
+        "label": "Accès gratuit — MuCEM sans billet",
+        "text": "Les galeries du MuCEM sont payantes, mais les passerelles extérieures, la terrasse sur le toit et le Fort Saint-Jean voisin sont entièrement gratuits. La passerelle reliant le MuCEM au Fort Saint-Jean ne coûte rien. Le Fort Saint-Jean lui-même — une forteresse du XVIIe siècle avec des jardins et des remparts surplombant le Vieux-Port — est gratuit. La terrasse du MuCEM offre certaines des meilleures vues sur le port et la mer de la ville. Premier dimanche de chaque mois : les galeries du musée sont également gratuites.",
+        "type": "tip"
+      },
+      "title": "Bienvenue à Marseille"
+    },
+    "transport": {
+      "intro": "Marseille est une grande ville vallonnée. Le centre est accessible à pied. Les Calanques, les plages et les quartiers extérieurs nécessitent des bus. Le réseau RTM couvre tout – utilisez-le !",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aéroport → Centre-ville",
+          "description": "La navette Marseille circule entre l'aéroport et la gare Saint-Charles toutes les 15 à 20 minutes, le trajet dure environ 25 minutes et se paie à bord. Depuis Saint-Charles, le métro et le tramway desservent le reste de la ville. Les taxis fonctionnent au compteur et sont nettement plus chers."
+        },
+        {
+          "icon": "🚇",
+          "title": "Métro — deux lignes, bien situées",
+          "description": "La ligne 1 traverse le centre d'est en ouest : Vieux-Port, Noailles, Castellane. La ligne 2 va du nord au sud : Saint-Charles, Joliette (pour le MuCEM), Rond-Point du Prado. Billet simple 1,70 €, valable 60 minutes sur tous les transports RTM. Pass 24h 5,20 €. À acheter aux distributeurs dans chaque station."
+        },
+        {
+          "icon": "🚌",
+          "title": "Bus — essentiel pour la côte",
+          "description": "Bus 60 vers Notre-Dame de la Garde depuis l'Hôtel de Ville. Bus 83 le long de la Corniche — Vallon des Auffes, plages du Prado, Malmousque. Bus B1 depuis le métro Castellane vers la calanque de Sormiou. Même ticket RTM que pour le métro. L'itinéraire côtier du bus 83 est l'un des meilleurs trajets en bus urbain de France."
+        },
+        {
+          "icon": "🚲",
+          "title": "Le Vélo — des vélos dans le centre",
+          "description": "Plus de 100 stations, 1 000 vélos. Les 30 premières minutes sont gratuites avec un abonnement. Assez plat dans le centre ; les collines commencent dès que vous quittez la zone portuaire. Utile pour aller du Vieux-Port au Panier, au Cours Julien, ou le long du front de mer jusqu'au MuCEM."
+        },
+        {
+          "icon": "🚶",
+          "title": "À pied — la seule façon de découvrir Le Panier",
+          "description": "Vieux-Port au MuCEM : 10 minutes. Vieux-Port au Panier : 15 minutes en montée. Notre-Dame de la Garde : 30 à 40 minutes de marche raide depuis le port, ou bus 60. Les ruelles du Panier ne peuvent être explorées autrement. Portez des chaussures confortables."
+        }
+      ],
+      "callout": {
+        "label": "Bus 83 — l'itinéraire de la Corniche",
+        "text": "Le bus 83 longe la Corniche Kennedy – la route côtière qui serpente autour de la baie au sud du Vieux-Port. À gauche : mer, rochers, baigneurs. À droite : villas Belle Époque, palmiers, la ville en hauteur. Le Vallon des Auffes apparaît sous un pont – vous le manquerez si vous ne faites pas attention. Les plages du Prado sont au bout. Même ticket RTM. Asseyez-vous sur le côté gauche du bus.",
+        "type": "tip"
+      },
+      "title": "Se déplacer"
+    },
+    "stay": {
+      "intro": "Les quartiers de Marseille sont distincts. La proximité du Vieux-Port est pratique mais ce n'est pas toujours là que la ville vit réellement.",
+      "local_word": {
+        "pronunciation": "luh pan-YAY",
+        "definition": "Le plus ancien quartier de Marseille — construit sur la colline au-dessus du Vieux-Port, sur le site de la colonie grecque originelle. Le nom signifie 'le panier'. Rues trop étroites pour les voitures, linge entre les fenêtres, chats sur les marches. Les artistes s'y installent depuis des décennies, ce qui signifie que galeries, fresques murales et gentrification coexistent. Toujours l'endroit le plus atmosphérique où séjourner en ville.",
+        "word": "Le Panier"
+      },
+      "items": [
+        {
+          "name": "Le Panier",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "local",
+          "description": "La partie la plus ancienne de la ville, au-dessus du Vieux-Port. Ruelles étroites, art de rue, la Vieille Charité — un ancien hospice du XVIIe siècle aujourd'hui utilisé comme musée et espace d'exposition. Les matins sont calmes ; vers 11h00, les excursionnistes arrivent. Le meilleur quartier où séjourner si vous voulez ressentir la ville plutôt que de simplement la voir.",
+          "tags": [
+            "Quartier le plus ancien",
+            "10 min du Vieux-Port",
+            "Art de rue & galeries"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Panier+Marseille"
+        },
+        {
+          "name": "Vieux-Port / 1er arrondissement",
+          "badge": "Le plus central",
+          "badge_type": "hot",
+          "description": "Autour du vieux port. Tout commence ici. Marché aux poissons le matin, terrasses d'apéritif au coucher du soleil, le ferry pour le Château d'If depuis le quai. Central, cher et bruyant la nuit. Proche du MuCEM, du Panier et du terminal des ferries. Idéal pour les courts séjours.",
+          "tags": [
+            "Ferry pour le Château d'If",
+            "Marché aux poissons à deux pas",
+            "Bruyant la nuit"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vieux-Port+Marseille"
+        },
+        {
+          "name": "Noailles / Notre-Dame du Mont",
+          "badge": "Le plus local",
+          "badge_type": "local",
+          "description": "Noailles est le quartier le plus multiculturel de Marseille — communautés algérienne, marocaine, comorienne, arménienne, toutes présentes depuis que la ville était un port d'arrivée majeur. Le marché déborde dans les rues : épices, olives, pain plat, produits bon marché. Notre-Dame du Mont, juste au-dessus, est l'endroit où les jeunes Marseillais sortent réellement. Le Cours Julien est à la lisière — art de rue, marché bio le mercredi.",
+          "tags": [
+            "Marché de Noailles",
+            "Cours Julien à proximité",
+            "Vie citadine authentique"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Noailles+Marseille"
+        },
+        {
+          "name": "Joliette / Euromed",
+          "badge": "Le plus moderne",
+          "badge_type": "hot",
+          "description": "Le quartier portuaire réaménagé autour du MuCEM. Nouveaux hôtels, les Docks (un entrepôt du XIXe siècle transformé en bureaux et restaurants), et accès direct au MuCEM et au Fort Saint-Jean. Pas encore un quartier au sens plein — plus une infrastructure qu'une communauté. Idéal si le MuCEM et la zone portuaire sont la priorité.",
+          "tags": [
+            "MuCEM & Fort Saint-Jean",
+            "Hôtels modernes",
+            "10 min du Vieux-Port"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Joliette+Marseille"
+        },
+        {
+          "name": "Prado / 8ème arrondissement",
+          "badge": "Option la plus calme",
+          "badge_type": "local",
+          "description": "Au sud du centre, le long de la côte. Accès aux plages du Prado, au Parc Borély et au début de la route des Calanques. Plus résidentiel, plus de Marseillais, moins de touristes. Métro ou bus pour le centre. Idéal si les Calanques sont la principale raison de votre séjour.",
+          "tags": [
+            "Plages du Prado",
+            "Parc Borély",
+            "Accès aux Calanques"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Prado+Marseille"
+        }
+      ],
+      "title": "Où séjourner"
+    },
+    "best_time": {
+      "intro": "Marseille bénéficie de 300 jours de soleil. La question n'est pas de savoir s'il faut y aller, mais quand pour éviter les foules.",
+      "items": [
+        {
+          "label": "Printemps",
+          "name": "La bonne saison",
+          "months": "Apr – Jun",
+          "description": "Mai et juin sont les meilleurs mois. Les températures avoisinent les 20–25°C, la mer se réchauffe, les Calanques sont entièrement accessibles sans les restrictions estivales liées aux incendies, et les foules de touristes ne sont pas encore arrivées. Le marché matinal du Vieux-Port est à son apogée. Les prix des hébergements sont 30–40% inférieurs à ceux d'août. Marseille en mai est la version que la ville préfère pour elle-même.",
+          "callout": {
+            "label": "Accès aux Calanques en été — vérifiez avant de partir",
+            "text": "De mi-juin à mi-septembre, l'accès à certaines calanques (notamment Sugiton, Morgiou et Marseilleveyre) est restreint certains jours en raison du risque d'incendie. La restriction est communiquée 48 heures à l'avance et varie quotidiennement en fonction de l'indice de risque incendie de Météo-France. Consultez le site web ou l'application du Parc National des Calanques la veille. L'accès est gratuit mais limité. Le bus B1 de la station de métro Castellane à Sormiou circule toute l'année.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Printemps · Chaud, peu fréquenté, Calanques entièrement ouvertes"
+        },
+        {
+          "label": "Été",
+          "name": "Chaud et bondé",
+          "months": "Jul – Aug",
+          "description": "Juillet et août : tout le sud de la France est là. L'accès aux Calanques est restreint les jours de fort risque d'incendie. Les restaurants du Vieux-Port doublent leurs prix. La ville elle-même reste Marseille — plages, pastis, dîners tardifs — mais cela demande de la patience. Si vous y allez en été, évitez le Vieux-Port pour le dîner et mangez à l'intérieur des terres. Les quartiers absorbent les touristes ; le port, non.",
+          "callout": {
+            "label": "L'Estaque — le village que les foules oublient",
+            "text": "L'Estaque est un ancien village de pêcheurs à 10 kilomètres au nord du centre, aujourd'hui absorbé par la ville mais conservant une atmosphère distincte. Cézanne et Braque y ont peint à plusieurs reprises — la lumière sur la baie était le point essentiel. Le village compte quelques restaurants, une petite plage et presque pas de touristes en été car aucun guide ne les y envoie. Bus 35 depuis Joliette. Le chichi frégi — une spécialité locale de pâte frite — est vendu sur des stands près du port.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Été · Haute saison, à gérer en conséquence"
+        },
+        {
+          "label": "Automne",
+          "name": "Le secret le mieux gardé",
+          "months": "Sep – Nov",
+          "description": "Septembre et octobre : la mer est à son plus chaud (22–24°C), les Calanques sont de nouveau entièrement ouvertes, les foules ont disparu et la ville retrouve son propre rythme. Les prix des restaurants baissent. La disponibilité des hôtels s'améliore. La lumière devient dorée et plus basse. Les Marseillais partis en août reviennent. C'est la version de la ville que les habitants préfèrent réellement — et presque aucun visiteur ne la connaît.",
+          "callout": {
+            "label": "Baignade en septembre dans les Calanques",
+            "text": "Après un été complet de réchauffement, la mer en septembre atteint sa température maximale. Les sentiers des Calanques sont calmes — les matins de semaine, vous pouvez avoir Sugiton ou En-Vau en grande partie pour vous. Le calcaire prend une couleur différente sous la lumière d'automne : plus chaude, plus ambrée. Apportez de l'eau (pas de sources sur les sentiers), partez tôt et vérifiez les restrictions d'incendie même en septembre — elles peuvent persister pendant les premières semaines du mois.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Automne · Mer chaude, calanques vides, prix plus bas"
+        },
+        {
+          "label": "Hiver",
+          "name": "Doux et sous-estimé",
+          "months": "Dec – Mar",
+          "description": "L'hiver à Marseille est doux — rarement en dessous de 10°C, souvent 15°C et ensoleillé. Le vent du Mistral peut être vif et soutenu pendant des jours, mais entre les Mistrals, la ville est d'une beauté tranquille. Les musées n'ont pas de files d'attente. Le marché aux poissons fonctionne. Les cafés de quartier se remplissent de locaux. Notre-Dame de la Garde par un matin d'hiver clair, avec les Alpes visibles au nord — ce n'est pas le Marseille que la plupart des touristes voient.",
+          "callout": {
+            "label": "Le Mistral — ce que c'est et comment le comprendre",
+            "text": "Le Mistral est un vent froid et sec venant du nord-ouest qui peut souffler à 70–90 km/h pendant trois jours d'affilée. Il rend le ciel exceptionnellement clair et la lumière vive, mais il rend les repas en extérieur et les promenades côtières désagréables. Les locaux le savent : quand le Mistral souffle, allez au Panier (abrité par la colline), mangez à l'intérieur et attendez. Il s'arrête aussi soudainement qu'il commence. Le lendemain d'un Mistral, Marseille semble avoir été nettoyée.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Hiver · 15°C, vide, entièrement local"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "June",
+          "text": "Fête du Panier : le plus ancien quartier célèbre pendant deux jours avec des concerts de rue et des ateliers ouverts."
+        },
+        {
+          "month": "July–August",
+          "text": "Haute saison des Calanques : l'accès aux criques peut être restreint — prévoyez des heures matinales ou un bateau ; les plages de la ville battent leur plein."
+        },
+        {
+          "month": "September–October",
+          "text": "La saison secrète : la mer est encore chaude, les foules ont disparu, la lumière est celle de Cézanne — Marseille à son meilleur."
+        },
+        {
+          "month": "December",
+          "text": "Foire aux Santons : les figurines de crèche en argile de Provence envahissent la ville lors d'une foire bicentenaire, avec le parfum des navettes en accompagnement."
+        }
+      ],
+      "title": "Quand partir"
+    },
+    "eat": {
+      "intro": "La cuisine marseillaise est méditerranéenne, directe et façonnée par le port. Les ingrédients proviennent de la mer et des communautés qui y sont arrivées.",
+      "local_word": {
+        "pronunciation": "pas-TEES",
+        "definition": "L'apéritif marseillais : anisé, dilué avec de l'eau froide, ce qui le rend trouble. Ricard et Pernod sont les marques ; les Marseillais ont des opinions sur laquelle est la meilleure. Servi dans un grand verre, avec une petite carafe d'eau froide à côté. Une part de pastis pour cinq parts d'eau est le ratio — bien que les Marseillais servent généreusement. Chaque terrasse de café, chaque partie de pétanque, chaque déjeuner du dimanche commence ici.",
+        "word": "Pastis (pas-TEES)"
+      },
+      "items": [
+        {
+          "icon": "🐟",
+          "name": "Bouillabaisse — l'originale",
+          "description": "Pas une soupe — une méthode. Des poissons de roche spécifiques (rascasse, grondin, Saint-Pierre, vive) mijotés dans un bouillon de safran, fenouil et huile d'olive, puis servis en deux temps : d'abord le bouillon avec de la rouille (aïoli à l'ail et au safran) étalée sur du pain grillé, puis le poisson séparément. La Charte de la Bouillabaisse définit les espèces requises. Correctement préparée, elle prend des heures et coûte en conséquence. Les versions bon marché sont des soupes de poisson. Ceci est de l'architecture.",
+          "tag": "Restaurants agréés uniquement · deux services · cher et ça vaut le coup",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chez+Fonfon+Marseille"
+        },
+        {
+          "icon": "🥜",
+          "name": "Panisse — la street food marseillaise",
+          "description": "Un gâteau épais à base de farine de pois chiche, frit jusqu'à être croustillant à l'extérieur et moelleux à l'intérieur, servi en bâtonnets ou en rondelles. Apporté à l'origine par des immigrants génois — Marseille l'a absorbé et l'a fait sien. On le trouve au Marché de Noailles et dans les stands de rue de toute la ville. Chaud, bon marché et meilleur que ça n'en a l'air. La version à L'Estaque avec une bière fraîche est la bonne commande.",
+          "tag": "Marché de Noailles · stands de rue · L'Estaque",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Estaque+Marseille"
+        },
+        {
+          "icon": "🧄",
+          "name": "Rouille — le condiment essentiel",
+          "description": "Une émulsion épaisse, intensément orange, d'ail, de safran et d'huile d'olive — plus puissante que l'aïoli, moins subtile que la mayonnaise. Étendue sur les croûtons qui accompagnent le bouillon de bouillabaisse. Également consommée avec du poisson grillé et des légumes frits. La couleur provient du safran et du poivre ; le piquant de l'ail. Chaque restaurant marseillais fait la sienne. La qualité varie considérablement.",
+          "tag": "Avec la bouillabaisse · poisson grillé · les meilleures sont rouge-orange",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Miramar+Marseille"
+        },
+        {
+          "icon": "🍪",
+          "name": "Navette — le biscuit de Saint-Victor",
+          "description": "Un biscuit sec en forme de barque, aromatisé à la fleur d'oranger, fabriqué depuis 1781 par la boulangerie Four des Navettes près de l'Abbaye Saint-Victor. La forme fait référence aux petites embarcations qui auraient transporté Marie-Madeleine et les premiers chrétiens en Provence. Vendu toute l'année à la boulangerie. Dur et sec — destiné à être trempé dans le café ou le pastis. Pas un en-cas ; une tradition.",
+          "tag": "Four des Navettes · depuis 1781 · près de Saint-Victor",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Four+des+Navettes+Marseille"
+        },
+        {
+          "icon": "🫒",
+          "name": "Tapenade et anchoïade — les bases provençales",
+          "description": "Tapenade : olives noires, câpres, anchois et huile d'olive mixés en une pâte — le nom vient du mot provençal pour câpre. Anchoïade : une pâte plus grossière et plus piquante d'anchois et d'ail. Les deux sont étalées sur du pain, servies avant les repas, consommées sur chaque terrasse. Marseille est à la lisière de la Provence ; ce sont les saveurs qui sont ici depuis le plus longtemps.",
+          "tag": "Chaque terrasse · avant les repas · avec du pain et du pastis",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+Noailles+Marseille"
+        },
+        {
+          "icon": "☕",
+          "name": "Café au bar — le vrai rythme marseillais",
+          "description": "Tenez-vous au bar. Commandez un petit café. Payez et partez en moins de dix minutes. Le supplément terrasse dans les cafés du Vieux-Port ajoute un coût visible — les locaux savent qu'il faut se tenir au zinc. Le matin au marché de Noailles, un café au comptoir, en regardant le quartier s'animer : c'est la version la plus authentique de la ville. Cela coûte moins d'un euro et rien d'autre à Marseille ne vous en dira plus.",
+          "tag": "Bar, pas terrasse · Noailles · avant 09h00",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cours+Julien+Marseille"
+        }
+      ],
+      "callout": {
+        "label": "Marché de Noailles — la vraie cuisine de la ville",
+        "text": "Noailles est l'endroit où Marseille fait ses vraies courses. Les rues autour de la Rue Longue-des-Capucins se remplissent d'étals chaque matin : épices nord-africaines, olives fraîches, merguez, herbes de Provence, citrons confits, pains plats sortis du four. Les odeurs sont à la fois celles de l'Afrique du Nord et de la Provence. Pas d'infrastructure touristique, pas de menus en anglais. Allez-y affamé, apportez de l'argent liquide, mangez debout. C'est là que la ville se nourrit.",
+        "type": "tip"
+      },
+      "title": "Que manger"
+    },
+    "hidden_gems": {
+      "intro": "Marseille est célèbre pour son port et sa basilique. Les deux valent le détour. Mais la ville possède une seconde couche que la plupart des visiteurs n'atteignent jamais.",
+      "items": [
+        {
+          "name": "Vallon des Auffes",
+          "description": "Une petite crique creusée dans la Corniche, accessible en passant sous le viaduc qui porte la route côtière. Une douzaine de bateaux de pêche colorés, un groupe de maisons construites dans la roche, deux ou trois restaurants servant la pêche du jour. Les pêcheurs sont toujours là – pas pour le spectacle. En été, les habitants s'assoient sur les rochers au coucher du soleil avec une bouteille. Le bus 83 passe directement au-dessus ; regardez par la fenêtre du bus et vous comprendrez pourquoi vous descendez. Gratuit, toujours ouvert.",
+          "rarity": "Un minuscule port de pêche caché sous un pont routier — à 15 minutes du Vieux-Port.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vallon+des+Auffes+Marseille"
+        },
+        {
+          "name": "L'Estaque",
+          "description": "À dix kilomètres au nord du centre, au bord de la baie. Cézanne y est venu à plusieurs reprises de 1870 à 1882 ; Braque, Dufy et Derain ont suivi. La baie et les cheminées d'usine sont apparues dans des dizaines d'œuvres qui sont devenues le fondement du cubisme. Le village possède aujourd'hui une petite plage, une poignée de restaurants de pêcheurs et presque aucun visiteur. Le bus 35 depuis le métro Joliette prend 25 minutes. Le chichi frégi – pâte frite vendue sur des stands près du port – est la collation locale. Allez-y en semaine.",
+          "rarity": "Un village de Cézanne et Braque qu'aucun guide ne mentionne.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=L%27Estaque+Marseille"
+        },
+        {
+          "name": "La Vieille Charité — Le Panier",
+          "description": "Construite entre 1671 et 1749 comme un hospice, conçue par Pierre Puget – l'architecte baroque le plus important de Marseille. Trois étages de galeries à arcades autour d'une cour, avec une petite chapelle à coupole au centre. Elle abrite aujourd'hui le Musée d'Archéologie Méditerranéenne et le Musée des Arts Africains, Océaniens et Amérindiens. L'architecture seule justifie la montée à travers Le Panier. L'accès à la cour est gratuit ; les musées sont payants.",
+          "rarity": "L'hospice du XVIIe siècle devenu le plus bel espace culturel de la ville.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Vieille+Charité+Marseille"
+        },
+        {
+          "name": "La Friche la Belle de Mai",
+          "description": "Une ancienne manufacture de tabac SEITA de 45 000 m² dans le quartier de la Belle de Mai, à 15 minutes à pied du centre. Convertie en complexe culturel : ateliers d'artistes, salles de spectacle, un cinéma, espaces d'exposition, jardins partagés et une terrasse sur le toit avec vue panoramique sur la ville. Le bar sur le toit est ouvert en été – boissons, vue sur la ville, aucune infrastructure touristique. Pas sur l'itinéraire standard car cela nécessite de quitter la zone portuaire. Prenez le bus 49 depuis Réformés-Canebière.",
+          "rarity": "Une ancienne manufacture de tabac avec un bar sur le toit que les touristes n'ont pas encore découvert.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Friche+la+Belle+de+Mai+Marseille"
+        },
+        {
+          "name": "Cathédrale de la Major",
+          "description": "L'une des plus grandes églises de France, construite dans la seconde moitié du XIXe siècle dans un style romano-byzantin rayé – alternance de pierres vertes et blanches, mosaïques dorées à l'intérieur, dômes imposants. Elle se trouve juste à côté du MuCEM et la plupart des visiteurs passent devant pour se rendre au musée. Entrée gratuite. L'intérieur est sombre, frais et presque complètement vide. Le contraste avec la foule juste à l'extérieur est absolu.",
+          "rarity": "La cathédrale plus grande que Notre-Dame de Paris — que personne n'entre.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cathédrale+de+la+Major+Marseille"
+        },
+        {
+          "name": "Calanque de Sormiou",
+          "description": "La calanque la plus proche de la ville et la plus accessible – le bus B1 depuis le métro Castellane mène directement au point de départ du sentier. Une marche de 30 minutes descend vers une baie turquoise entourée de falaises de calcaire blanc. En été, l'accès en voiture est restreint ; au printemps et en automne, le sentier est presque vide. Il y a un petit restaurant saisonnier en bas. L'eau est suffisamment claire pour voir le fond à cinq mètres de profondeur. Gratuit. Vérifiez les restrictions d'incendie avant de vous y rendre en été.",
+          "rarity": "La crique que les bateaux de tourisme des Calanques ignorent.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Calanque+de+Sormiou"
+        },
+        {
+          "name": "Cours Julien",
+          "description": "À 15 minutes à pied du Vieux-Port. Art de rue, cafés indépendants, disquaires, boutiques vintage et l'une des plus grandes zones d'art de rue en plein air de France. Le mercredi matin, un marché de producteurs bio s'installe sur la Place Jean Jaurès – une trentaine de producteurs locaux, produits provençaux frais. Le soir, les bars se remplissent d'une clientèle entièrement locale. Nourriture à moitié prix du Vieux-Port, deux fois plus d'ambiance. Libre de se promener, manger, s'asseoir.",
+          "rarity": "La place bohème où les habitants se retrouvent vraiment.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cours+Julien+Marseille"
+        },
+        {
+          "name": "Palais Longchamp",
+          "description": "Construit en 1869 pour célébrer le canal qui a finalement apporté l'eau à la ville – un palais érigé au-dessus d'un réservoir. Au centre, une grande cascade et un groupe sculptural ; dans les deux ailes, le Musée des Beaux-Arts et le Muséum d'Histoire Naturelle. Derrière, un vaste parc : pelouses de pique-nique, aires de jeux, chemins ombragés. Tram T2 jusqu'à l'arrêt Longchamp, 3 minutes à pied. Jardins et extérieur toujours gratuits ; musées payants, gratuits le premier dimanche de chaque mois.",
+          "rarity": "Deux musées, des jardins spectaculaires — presque aucun touriste.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palais+Longchamp+Marseille"
+        },
+        {
+          "name": "Notre-Dame de la Garde — La Bonne Mère",
+          "description": "À 162 mètres, le point culminant de Marseille. Une marche de 30 à 40 minutes en montée par le sentier, ou le bus 60 depuis l'Hôtel de Ville. Du sommet : toute la ville, le Vieux-Port, les îles et la mer ouverte. À l'intérieur : des centaines d'ex-voto – offrandes votives laissées par des marins, des mères, des survivants – couvrant les murs. La basilique elle-même est romano-byzantine du XIXe siècle. Entrée gratuite. Allez-y au crépuscule – la lumière à cette heure est différente.",
+          "rarity": "360 degrés sur la ville — ça vaut la montée.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Notre-Dame+de+la+Garde+Marseille"
+        }
+      ],
+      "callout": {
+        "label": "Les Calanques — comment s'y rendre vraiment",
+        "text": "Le conseil standard est de prendre un tour en bateau depuis le Vieux-Port – la meilleure option est d'y aller par vous-même. Le bus B1 depuis le métro Castellane (ligne 1) va jusqu'à Luminy ; de là, c'est une randonnée de 90 minutes jusqu'à la Calanque de Sugiton, pas d'installations, apportez tout. La même ligne va à Sormiou – 30 minutes de marche en descente, un restaurant saisonnier en bas, mieux pour la baignade. Les deux itinéraires sont gratuits. Commencez avant 09h00 en été. Les tours en bateau vous montrent les falaises de l'extérieur ; les sentiers vous y plongent.",
+        "type": "tip"
+      },
+      "title": "Trésors Cachés"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Allez au marché aux poissons du Vieux-Port avant 10h00",
+          "sub": "Les pêcheurs vendent directement depuis leurs bateaux. Tous les jours, Quai des Belges. Gratuit. Terminé à 10h00 — arrivez à 08h00."
+        },
+        {
+          "label": "Promenez-vous sur la terrasse du MuCEM et au Fort Saint-Jean",
+          "sub": "Les passerelles extérieures du MuCEM et le Fort Saint-Jean sont gratuits. Les galeries du musée sont payantes. Premier dimanche du mois : les galeries sont également gratuites."
+        },
+        {
+          "label": "Montez à Notre-Dame de la Garde (La Bonne Mère)",
+          "sub": "Entrée gratuite. Bus 60 depuis l'Hôtel de Ville ou 30–40 min de marche en montée. Idéal au crépuscule. Les vues couvrent toute la ville, les îles et les Calanques."
+        },
+        {
+          "label": "Promenez-vous dans Le Panier le matin",
+          "sub": "Gratuit. Allez-y avant 11h00 avant l'arrivée des excursionnistes. La cour de la Vieille Charité est en accès libre — les musées à l'intérieur sont payants."
+        },
+        {
+          "label": "Prenez le bus 83 le long de la Corniche",
+          "sub": "Ticket RTM. Asseyez-vous à gauche. Cherchez le Vallon des Auffes sous le pont — descendez et marchez."
+        },
+        {
+          "label": "Mangez une bouillabaisse une fois, dans un restaurant agréé",
+          "sub": "Cher et ça vaut le coup. Cherchez les restaurants signataires de la Charte de la Bouillabaisse. Deux plats. C'est ici que le plat a été inventé."
+        },
+        {
+          "label": "Buvez un pastis en terrasse de café",
+          "sub": "Apéritif anisé, dilué avec de l'eau froide. Ricard ou Pernod. Commandez une carafe d'eau avec. Dans tous les cafés de la ville."
+        },
+        {
+          "label": "Allez au Marché de Noailles",
+          "sub": "Gratuit. Tous les matins, Rue Longue-des-Capucins. Épices nord-africaines, olives, produits frais. Prévoyez de l'argent liquide. Mangez debout."
+        },
+        {
+          "label": "Randonnez jusqu'à une calanque",
+          "sub": "Gratuit. Bus B1 depuis le métro Castellane jusqu'à Sormiou (30 min de marche) ou Luminy pour Sugiton (90 min de randonnée). Vérifiez les restrictions d'incendie en ligne avant de partir."
+        },
+        {
+          "label": "Trouvez le Vallon des Auffes",
+          "sub": "Gratuit. Marchez depuis la Corniche sous le viaduc. Bateaux de pêche, maisons en pierre, coucher de soleil sur l'eau. Le bus 83 s'arrête au-dessus."
+        },
+        {
+          "label": "Entrez dans la Cathédrale de la Major",
+          "sub": "Gratuit. À côté du MuCEM. Extérieur en pierre rayée, mosaïques dorées à l'intérieur, presque jamais bondée. La plupart des visiteurs passent devant sans s'arrêter."
+        },
+        {
+          "label": "Visitez L'Estaque en semaine",
+          "sub": "Bus 35 depuis Joliette, 25 minutes. Le village où Cézanne et Braque ont peint. Petite plage, restaurants de pêcheurs, pas de touristes. Goûtez le chichi frégi."
+        }
+      ],
+      "title": "Check-list Marseille",
+      "completion_message": "Vous avez fait le vrai Marseille."
+    },
+    "traps": {
+      "title": "Éviter les pièges",
+      "intro": "Marseille est une ville sans prétention ; même ses pièges sont évidents. Connaissez ces quatre-là et faites confiance à la ville pour le reste.",
+      "items": [
+        {
+          "icon": "🍲",
+          "name": "La 'Bouillabaisse' à moins de 40 euros",
+          "description": "Une vraie bouillabaisse exige au moins quatre sortes de poissons de roche et deux services ; la soupe orange des menus bon marché est un fumet de poisson déguisé.",
+          "instead": "Allez chez l'un des classiques signataires de la charte — Fonfon, Miramar ; c'est cher, mais goûtez l'authentique une fois."
+        },
+        {
+          "icon": "⚓",
+          "name": "Les menus avec photos sur le quai du Vieux-Port",
+          "description": "Les rangées de terrasses avec vue sur le port vendent le poisson fatigué du jour à des prix touristiques.",
+          "instead": "Marchez deux rues à l'intérieur des terres, ou descendez dans une petite crique comme le Vallon des Auffes : même mer, cuisine honnête."
+        },
+        {
+          "icon": "🧼",
+          "name": "Le faux 'Savon de Marseille'",
+          "description": "Les cubes colorés et parfumés des boutiques de souvenirs sont souvent des imitations importées ; le vrai porte le tampon 72% d'huile et provient de seulement quatre savonneries.",
+          "instead": "Recherchez le tampon 72% ; achetez dans les boutiques des savonneries historiques ou chez un vendeur de confiance."
+        },
+        {
+          "icon": "⛵",
+          "name": "Aller aux Calanques sans préparation",
+          "description": "En été, l'accès routier ferme et les sentiers peuvent être interdits pour risque d'incendie ; les non-préparés rebroussent chemin sous un soleil accablant.",
+          "instead": "Partez tôt, emportez de l'eau, vérifiez l'accès la veille ; ou approchez par bateau depuis la mer — gagnez votre première vue de Sormiou."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "À Marseille, la beauté est brute : la meilleure crique n'a pas de transats, le meilleur bar pas d'enseigne, le meilleur poisson pas de chichis. Si vous voyez du clinquant, le prix est un prix de touriste."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, bousculez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Vous Avez 1 Jour",
+          "subtitle": "Le port, le Panier et la colline de la Bonne Mère",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Marché aux poissons du Vieux-Port",
+              "description": "Observez le poisson passer du bateau à l'étal sur le quai ; le marché se termine à 10h00, venez tôt."
+            },
+            {
+              "time": "10:00",
+              "title": "Les ruelles du Panier",
+              "description": "Perdez-vous dans le plus ancien quartier de la ville : street art, linge qui sèche, la cour paisible de la Vieille Charité."
+            },
+            {
+              "time": "13:00",
+              "title": "Déjeuner à Noailles",
+              "description": "Parmi les étals du 'ventre de Marseille' : panisse, kebab, saveurs nord-africaines. Le véritable assaisonnement de la ville."
+            },
+            {
+              "time": "15:00",
+              "title": "MuCEM + Cathédrale de la Major",
+              "description": "Du musée en dentelle de béton, traversez la mer par la passerelle ; la cathédrale rayée est magnifique en attendant le crépuscule."
+            },
+            {
+              "time": "18:00",
+              "title": "Notre-Dame de la Garde",
+              "description": "Montez la colline et admirez la ville et la mer depuis La Bonne Mère : la meilleure vue de Marseille, gratuite."
+            },
+            {
+              "time": "20:30",
+              "title": "Soirée au Cours Julien",
+              "description": "Un bar sur la place couverte de graffitis, musique live, pastis. La nuit s'étire longtemps ici."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Vous Avez 3 Jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Jour 1",
+              "title": "Port et collines",
+              "description": "Le parcours d'1 jour ci-dessus : marché, Panier, MuCEM, Bonne Mère."
+            },
+            {
+              "time": "Jour 2",
+              "title": "Journée Calanques",
+              "description": "Sormiou tôt le matin, ou les criques en bateau ; mer, sentier et repos. Dîner de poisson au Vallon des Auffes au retour."
+            },
+            {
+              "time": "Jour 3",
+              "title": "L'Estaque et l'art",
+              "description": "Panisse et chichi frégi dans le port de Cézanne à L'Estaque, La Friche la Belle de Mai l'après-midi, adieu autour du Palais Longchamp le soir."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Le français ouvre des portes ; l'argot marseillais gagne les cœurs. Avec ces cinq mots, vous êtes chez vous sur le quai.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Bonjour — le premier mot obligatoire de chaque échange"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Merci — plus fort avec beaucoup"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "S'il vous plaît — ajoutez-le à la fin de votre commande"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "Santé ! — les verres de pastis se lèvent à cela"
+        },
+        {
+          "word": "Dégun",
+          "pronunciation": "day-GUHN",
+          "meaning": "Argot marseillais pour 'personne' — 'craint dégun' : ne craint personne, la devise de la ville"
+        }
+      ]
+    }
+  }
+}

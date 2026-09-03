@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Amalfi Coast",
+    "country": "Italy",
+    "language": "de",
+    "version": "2.1",
+    "color_primary": "#1B6CA8",
+    "color_light": "#E8F2FB",
+    "tagline": "Zitronenhaine, türkisfarbenes Meer und Dörfer, die an den Klippen hängen – diese Aussicht ist in Wirklichkeit schöner als auf jedem Foto.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Juli und August meiden",
+    "Die Fähre ist immer besser als der Bus",
+    "Nicht in Positano starten"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Die Amalfiküste ist ein 50 Kilometer langer Küstenabschnitt – doch diese 50 Kilometer beherbergen Italiens steilste, engste und dramatischste Straße. Zitronenhaine, die über Klippen hängen, kleine Fischerdörfer, mittelalterliche Kathedralen, farbenfrohe Häuser. Das Beste an dieser Küste ist, dass alle Städte klein sind: Amalfi hat 5.000 Einwohner, Positano 4.000, Ravello 2.500. Nicht überlaufen – doch im Sommer ändert die Touristenwelle alles. Kommen Sie zur richtigen Jahreszeit, zur richtigen Stunde, wissen Sie, wann hohe Preise unvermeidlich sind, und Ausblicke, die Sie nirgendwo sonst finden werden, warten auf Sie.",
+      "local_word": {
+        "pronunciation": "sfoo-ZA-to a-mal-fi-TA-no",
+        "definition": "Die Zitronensorte, die einzigartig an der Amalfiküste ist. Größer, länger und aromatischer als normale Zitronen – dicke Schale, mild säuerlich. Seit Jahrhunderten auf Klippenterrassen angebaut. Diese Zitrone macht nicht nur Limoncello; Pasta al limone, Delizia al limone, frische Zitrone über Meeresfrüchten – diese Zitrone ist in jedem Gericht an der Küste. Die Zitronenbündel, die vor den Geschäften hängen, sind nicht nur Dekoration – sie sind ein Symbol dieses Landes.",
+        "word": "Sfusato Amalfitano"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Kommen Sie im Hochsommer nicht mit dem Auto – Sie werden es bereuen",
+          "description": "Die Küstenstraße SS163 ist sowohl eng als auch kurvenreich. Im Juli und August sind stundenlange Staus möglich. Wenn Sie ein Auto mieten und an die Küste fahren, kommen Sie Anfang Juni oder Mitte September. Wenn Sie im Hochsommer kommen: Lassen Sie das Auto in Neapel oder Salerno stehen und fahren Sie mit dem SITA-Bus oder der Küstenfähre weiter. Sie wollen nicht mit dem Auto im Stau stecken bleiben."
+        },
+        {
+          "number": 2,
+          "title": "Die Preise sind hoch – aber überschaubar",
+          "description": "Die Amalfiküste ist eine der teureren Regionen Italiens. Ein Hauptgericht in Positano kann bei 25-40 € beginnen. Aber an derselben Küste, in weniger bekannten Städten wie Cetara, Minori und Maiori, sind die Trattoria-Preise viel vernünftiger – 12-18 €. Restaurants mit Aussicht sind immer teurer; zwei Straßen weiter sinkt der Preis, aber die Qualität ändert sich nicht."
+        },
+        {
+          "number": 3,
+          "title": "Versuchen Sie nicht, jede Stadt am selben Tag zu sehen",
+          "description": "Positano, Amalfi, Ravello, Cetara, Atrani – alle sehr unterschiedlich und jede braucht mindestens einen halben Tag. Alles an einem Tag unterzubringen ist möglich, bedeutet aber, keine davon wirklich zu erleben. Wenn Sie drei Nächte bleiben, können Sie bequem drei Städte sehen. Wenn Sie einen Tagesausflug machen, wählen Sie eine Stadt und bleiben Sie dort."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚌",
+          "label": "Transport",
+          "value": "SITA Bus + Fähre",
+          "sub": "SITA Einzelfahrt 2–3 € · Tagespass 10 € · Fähre saisonal"
+        },
+        {
+          "icon": "🏖️",
+          "label": "Meer",
+          "value": "Kiesstrände, Buchten mit Blauer Flagge",
+          "sub": "Juni und September ideal · Juli–Aug sehr überlaufen"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Wetter",
+          "value": "Mittelmeer – ganzjährig mild",
+          "sub": "Apr–Jun und Sep–Okt ideal · Jul–Aug heiß und überlaufen"
+        },
+        {
+          "icon": "🍋",
+          "label": "Essen",
+          "value": "Scialatielli, Pasta al Limone, Colatura di Alici",
+          "sub": "Positano teuer · Cetara und Minori vernünftige Preise"
+        }
+      ],
+      "tip": {
+        "label": "Atrani – direkt neben Amalfi, fünfmal ruhiger",
+        "text": "Atrani liegt direkt östlich der Stadt Amalfi, 10 Minuten zu Fuß entfernt. Eine der kleinsten Städte Italiens – nur wenige hundert Einwohner. Dieselbe Küste, dieselben Ausblicke, aber ein Zehntel der Menschenmassen von Amalfi. Es hat einen kleinen Strand, enge Gassen und eine Kirche auf dem Platz. Hier zu übernachten oder zu essen ist sowohl billiger als auch viel friedlicher.",
+        "type": "tip"
+      },
+      "title": "Willkommen an der Amalfiküste"
+    },
+    "transport": {
+      "intro": "Zwei Optionen entlang der Küste: SITA-Bus oder Fähre. Die Fähre ist immer schöner, der Bus immer günstiger.",
+      "items": [
+        {
+          "icon": "🚂",
+          "title": "Anreise von Neapel oder Salerno",
+          "description": "Die nächstgelegenen Bahnhöfe zur Amalfiküste sind Neapel Centrale, Sorrent (via Circumvesuviana) und Salerno. Von Neapel: Circumvesuviana nach Sorrent, dann SITA-Bus nach Positano und Amalfi. Von Salerno: direkter SITA-Bus oder Fähre. Salerno wird oft übersehen, ist aber ein praktischer Ausgangspunkt."
+        },
+        {
+          "icon": "🚌",
+          "title": "SITA Bus — das Rückgrat der Küste",
+          "description": "Zwei Hauptrouten: Sorrent–Positano–Amalfi und Amalfi–Salerno. Einzelfahrt €2-3 je nach Strecke. Täglicher Costiera SITA Pass €10 — unbegrenzte Fahrten. Tickets in Tabakläden (Tabacchi), Cafés und an Automaten an Haltestellen. Entwerten Sie Ihr Ticket beim Einsteigen — Tickets können nicht im Bus gekauft werden. Im Sommer sind die Busse sehr voll; Reisen mit großem Gepäck ist fast unmöglich."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Fähre — malerisch und komfortabel",
+          "description": "Von April bis Oktober verkehren Fähren zwischen Neapel, Sorrent, Positano, Amalfi und Salerno. Im Winter können einige Routen wetterbedingt eingestellt werden. Preise €8-20 je nach Strecke. Travelmar, NLG und Positano Jet sind die Hauptanbieter. Im Sommer Tickets im Voraus buchen. Die Fährfahrt selbst ist die einzige Möglichkeit, die Küste vom Meer aus zu sehen."
+        },
+        {
+          "icon": "🚗",
+          "title": "Mietwagen — Vorsicht geboten",
+          "description": "Die Küstenstraße SS163 ist anspruchsvoll mit einspurigen Abschnitten, unübersichtlichen Kurven und langen Tunneln. Stau ist im Sommer unvermeidlich. Motorroller oder Scooter sind in Küstenstädten beliebt, können aber auf engen Straßen gefährlich sein. Wenn Sie mit dem Auto anreisen, nutzen Sie Parkplätze außerhalb der Städte — Parken innerhalb ist fast unmöglich und teuer."
+        },
+        {
+          "icon": "🚶",
+          "title": "Wanderwege",
+          "description": "Der Sentiero degli Dei (Götterweg) ist der bekannteste — von Bomerano nach Nocelle, die gesamte Bucht von oben sichtbar. Etwa 7 Kilometer, 2-3 Stunden, mittelschwer. Auch Wege zwischen den Orten existieren, sind aber steil und anstrengend. Bequeme Schuhe unerlässlich. Vermeiden Sie Wanderungen mittags im Hochsommer."
+        }
+      ],
+      "callout": {
+        "label": "Starten Sie früh am Morgen, um den Menschenmassen zu entgehen",
+        "text": "Positano und Amalfi füllen sich ab 10-11 Uhr. Wenn Sie um 8 Uhr mit der Fähre oder dem SITA-Bus aufbrechen, können Sie die ersten Stunden an fast leeren Orten verbringen. Nach 17 Uhr verlassen die meisten Tagesausflügler die Orte ebenfalls — die Städte erwachen wieder zum Leben, die Preise bleiben gleich, aber die Menschenmassen lichten sich.",
+        "type": "tip"
+      },
+      "title": "Fortbewegung"
+    },
+    "stay": {
+      "intro": "Jede Stadt hat ihren eigenen Charakter – Positano glamourös, Amalfi historisch, Ravello ruhig, Cetara lokal.",
+      "local_word": {
+        "pronunciation": "kos-TYE-ra a-mal-fi-TA-na",
+        "definition": "Der italienische Name für die Amalfiküste. 1997 in die UNESCO-Welterbeliste aufgenommen – sowohl als Natur- als auch als Kulturerbe. Nicht nur die Stadt Amalfi, sondern der gesamte Küstenstreifen mit 13 Städten steht unter diesem Schutz. 'Costiera' bedeutet Küste; jeder, der hierherkommt, genießt das Wort auf irgendeine Weise.",
+        "word": "Costiera Amalfitana"
+      },
+      "items": [
+        {
+          "name": "Positano",
+          "badge": "Am fotogensten",
+          "badge_type": "hot",
+          "description": "Die ikonischste Stadt der Küste mit farbenfrohen Häusern, die an den Klippen kleben, engen Treppenstraßen und dem Strand Spiaggia Grande. Und auch die teuerste. Das Abendessen beginnt bei 40-60 € pro Person; Hotelübernachtungen in der Hochsaison sind kaum unter 300 € zu finden. Aber die Aussicht ist unbestreitbar. An Hochsommertagen überfüllt; die frühen Morgenstunden und der späte Nachmittag sind die schönsten Momente.",
+          "tags": [
+            "Ikonischste Aussicht",
+            "Teuerste Stadt",
+            "Spiaggia Grande"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Positano"
+        },
+        {
+          "name": "Amalfi town",
+          "badge": "Am historischsten",
+          "badge_type": "hot",
+          "description": "Eine mächtige Seerepublik im 9. Jahrhundert; heute eine Kleinstadt mit 5.000 Einwohnern. Ihre Kathedrale an der Piazza Duomo, die engen Gassen und das Museo della Carta – das die Geschichte einer Stadt erzählt, die im 13. Jahrhundert die ersten Papiermühlen Italiens beherbergte – verleihen ihr einen völlig unverwechselbaren Charakter. Der wichtigste SITA-Busbahnhof. 10 Gehminuten nach Atrani.",
+          "tags": [
+            "Dom von Amalfi",
+            "SITA Busknotenpunkt",
+            "Atrani zu Fuß erreichbar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Amalfi"
+        },
+        {
+          "name": "Ravello",
+          "badge": "Am ruhigsten",
+          "badge_type": "local",
+          "description": "Oberhalb der Küste, auf 350 Metern Höhe. Hier befinden sich die Gärten der Villa Rufolo und Villa Cimbrone. Wagner komponierte hier, Virginia Woolf schrieb hier. Im Sommer findet das Ravello Festival statt – Open-Air-Konzerte, Theater. Die Stadt ist klein und ruhig – ideal, um dem Chaos der Küste zu entfliehen.",
+          "tags": [
+            "Gärten der Villa Cimbrone",
+            "Ravello Festival",
+            "Ruhe über der Küste"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ravello"
+        },
+        {
+          "name": "Cetara",
+          "badge": "Am lokalsten",
+          "badge_type": "local",
+          "description": "Im Osten der Küste, ein kleines Fischerdorf, das die meisten Touristen nicht besuchen. Die Heimat der Colatura di Alici. Cafés und Restaurants am Wasser sind sowohl erschwinglich als auch gut. Begrenzte, aber preiswerte Unterkünfte – 20 Minuten mit dem SITA-Bus nach Amalfi.",
+          "tags": [
+            "Colatura di alici",
+            "Fischerdorf",
+            "Erschwingliches lokales Essen"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cetara"
+        },
+        {
+          "name": "Praiano",
+          "badge": "Positano-Alternative",
+          "badge_type": "local",
+          "description": "Eine kleine Stadt zwischen Positano und Amalfi, auf den Klippen gelegen. Ähnliche Ausblicke wie Positano, aber deutlich niedrigere Preise und Menschenmassen. Der Terrassenblick vor der Kirche San Gennaro ist kostenlos und atemberaubend. Ihr Strand Marina di Praia – klein, geschützt, wunderschön.",
+          "tags": [
+            "Positano-Aussichten für weniger Geld",
+            "Strand Marina di Praia",
+            "Terrasse der Kirche San Gennaro"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Praiano"
+        }
+      ],
+      "title": "Wo übernachten"
+    },
+    "best_time": {
+      "intro": "Die Amalfiküste kann das ganze Jahr über besucht werden, doch jede Jahreszeit bietet ein ganz anderes Erlebnis.",
+      "items": [
+        {
+          "label": "Frühling",
+          "name": "Die beste Zeit",
+          "months": "Apr – Mai",
+          "description": "April und Mai sind die schönste Zeit an der Küste. Zitronenhaine in Blüte, Temperaturen von 18-22°C, Touristen sind zwar vorhanden, aber weit entfernt vom Sommerniveau. Die Preise liegen 30-40% unter denen des Hochsommers. Das Meer ist noch etwas kühl, aber Schwimmen ist möglich. Wanderwege sind in dieser Saison ideal – die Aussicht vom Sentiero degli Dei in Nebel und Wolken ist dramatisch.",
+          "callout": {
+            "label": "Sentiero degli Dei — Pfad der Götter",
+            "text": "Von Bomerano nach Nocelle, etwa 7 Kilometer und 2-3 Stunden. Von oben blickt man über die gesamte Amalfibucht – Küste, Inseln und Städte auf einmal. Nehmen Sie den SITA-Bus von Amalfi nach Bomerano. Beginnen Sie in den frühen Morgenstunden; die Mittagssonne kann sehr intensiv sein. Der Abstieg von Nocelle nach Positano erfolgt über einen Treppenweg.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Frühling · Zitronenblüte, kühles Wetter, weniger Menschenmassen"
+        },
+        {
+          "label": "Sommer",
+          "name": "Schön, aber überfüllt",
+          "months": "Jun – Aug",
+          "description": "Juni ist der ausgewogenste Sommermonat an der Küste; das Meer ist wunderschön und die Menschenmassen haben ihren Höhepunkt noch nicht erreicht. Juli und August sind die intensivste Zeit an der Küste. Positanos enge Gassen sind überfüllt, Busse bieten kaum Platz zum Atmen, einen Platz am Strand zu finden ist schwierig. Das Meer ist am schönsten, aber die Stadt ist am anstrengendsten. Vor 8 Uhr morgens und nach 18 Uhr sind die Stunden, in denen der Küstenstreifen etwas Luft bekommt.",
+          "callout": {
+            "label": "Ferragosto — die Woche des 15. August",
+            "text": "Italiens nationale Feiertagswoche. Die Woche um den 15. August ist die überfüllteste Zeit an der Küste. Die Preise erreichen ihren Höhepunkt, überall ist es voll. Wenn Sie diese Woche planen, buchen Sie weit im Voraus. Einige kleine Restaurants und Geschäfte machen in dieser Woche selbst Urlaub – informieren Sie sich vorher.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Sommer · Meer perfekt, Menschenmassen überwältigend"
+        },
+        {
+          "label": "Herbst",
+          "name": "Zweitbeste Zeit",
+          "months": "Sep – Nov",
+          "description": "September und Oktober sind die angenehmste Zeit an der Küste. Die Sommermassen sind verschwunden, das Wetter ist immer noch mild, das Meer ist noch warm genug zum Schwimmen. Die Preise sind gegenüber dem Hochsommer gesunken. Zu beachten ist: Im November kann der Regen zunehmen und einige Fährverbindungen werden eingestellt.",
+          "callout": {
+            "label": "Zitronenernte — ab September",
+            "text": "Die Haupternte der Sfusato Amalfitano Zitronen ist im September-Oktober. Straßenstände verkaufen frische Zitronen, hausgemachten Limoncello und Zitronenmarmelade. Der Kauf an Erzeugerständen statt in Supermärkten ist eine viel bessere Option – sowohl qualitativ hochwertiger als auch preiswerter.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Herbst · Sommermassen weg, Meer noch warm"
+        },
+        {
+          "label": "Winter",
+          "name": "Ruhig und authentisch",
+          "months": "Dez – Feb",
+          "description": "Von Dezember bis Februar wird es an der Küste ruhiger. Einige Hotels und Restaurants sind geschlossen, Fährverbindungen sind reduziert, aber die Städte zeigen ihr wahres Gesicht. Temperaturen 10-15°C, gelegentlich regnerisch. Ideal für Winterwanderungen – durch die Wolken auf dem Sentiero degli Dei zu wandern ist ein ganz anderes Gefühl.",
+          "callout": {
+            "label": "An der Küste im Winter bleiben",
+            "text": "Hotels und Pensionen, die im Winter geöffnet bleiben, verlangen etwa 40-60% der Sommerpreise. Prüfen Sie jedoch im Voraus, ob sie geöffnet sind. Amalfi und Ravello sind die aktivsten Städte den ganzen Winter über.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Winter · Lokales Leben, leere Städte"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "April–Mai",
+          "text": "Zitronenblütezeit: Die Terrassen werden weiß und der Duft erfüllt die Täler; die Küste von ihrer frischesten Seite, vor den Menschenmassen."
+        },
+        {
+          "month": "Juni–Anfang September",
+          "text": "Ravello Festival: Klassische Musik auf der Bühne der Villa Rufolo über dem Meer – ein Konzert in Wagners Garten."
+        },
+        {
+          "month": "August",
+          "text": "Höhepunkt der Menschenmassen: Fähren voll, Straßen verstopft, Preise am Limit; wenn Sie kommen, buchen Sie alles im Voraus."
+        },
+        {
+          "month": "September–Oktober",
+          "text": "Die geheime Saison: warmes Meer, sanftes Licht, Städte atmen wieder auf – die Küste von ihrer besten Seite."
+        }
+      ],
+      "title": "Wann reisen"
+    },
+    "eat": {
+      "intro": "Die Küche der Küste basiert auf Meeresfrüchten, Zitrone und Sardellen. Restaurants mit Aussicht sind teuer – zwei Straßen weiter finden Sie besseren Wert und ebenso köstliches Essen.",
+      "local_word": {
+        "pronunciation": "ko-la-TOO-ra dee a-LEE-chee",
+        "definition": "Cetares fermentierte Sardellensauce. Eine Fortsetzung des antiken römischen Garum – die bernsteinfarbene Flüssigkeit, die aus Sardellen gewonnen wird, die mit Salz in Eichen- oder Kastanienfässern gelagert wurden. Ein paar Tropfen über Spaghetti – mehr braucht es nicht. Beim Kauf: von echten Produzenten in Cetara €12-20, in Touristengeschäften über €30.",
+        "word": "Colatura di Alici"
+      },
+      "items": [
+        {
+          "icon": "🍝",
+          "name": "Scialatielli ai frutti di mare",
+          "description": "Amalfis unverwechselbare handgemachte Pasta. Dicker als Spaghetti, kürzer als Linguine. Der Teig wird jeden Morgen frisch zubereitet. Serviert mit einer gemischten Meeresfrüchtekombination aus Garnelen, Muscheln, Tintenfisch und Jakobsmuscheln. Mit frischem Basilikum, Tomaten und Olivenöl. Der Fang des Morgens aus dem Meer, noch am selben Tag auf Ihrem Teller. Diese Frische werden Sie vom ersten Bissen an verstehen.",
+          "tag": "Restaurants in Amalfi-Stadt · frisch und lokal · €18–25",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Da+Gemma+Amalfi"
+        },
+        {
+          "icon": "🍝",
+          "name": "Spaghetti con colatura di alici",
+          "description": "Spaghetti mit Knoblauch, Chili und Olivenöl, dann ein paar Tropfen Colatura di Alici (Cetares fermentierte Sardellensauce). Diese wenigen Tropfen verwandeln das ganze Gericht: salzig, umami und tief im Geschmack. Das Rezept sieht einfach aus, aber die Kraft der Colatura bringt es an einen völlig anderen Ort. Essen Sie dieses Gericht in Cetara – die frischeste und günstigste Version gibt es dort.",
+          "tag": "In Cetara essen · am besten und günstigsten · €12–18",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cetara"
+        },
+        {
+          "icon": "🍋",
+          "name": "Pasta al limone",
+          "description": "Frische Pasta, zubereitet mit der Schale und dem Saft von Sfusato Amalfitano Zitronen, Ricotta oder Sahne, Parmesan und Olivenöl. Das einfachste und lokalste Gericht der Küste. Eine gute Pasta al Limone gibt Ihnen den Duft von Zitrone, ohne Sie zu beschweren.",
+          "tag": "Alle Küstenrestaurants · €14–22",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ristorante+Marina+Grande+Amalfi"
+        },
+        {
+          "icon": "🍰",
+          "name": "Delizia al limone",
+          "description": "Ein kleiner, kuppelförmiger Biskuitkuchen – gefüllt mit Limoncello-Creme, überzogen mit Zitronenglasur. Das charakteristischste Dessert der Amalfiküste. Muss kalt serviert werden – der Geschmack lässt nach, wenn es warm gegessen wird. €3-5 in Konditoreien.",
+          "tag": "Konditoreien und Cafés · kalt serviert · €3–5",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sal+De+Riso+Minori"
+        },
+        {
+          "icon": "🍋",
+          "name": "Limoncello",
+          "description": "Sfusato Amalfitano Zitronenschale in Alkohol eingelegt, dann Zuckersirup hinzugefügt – ein gelber, intensiver, kalt servierter Likör. Wird normalerweise als kostenloser Digestif am Ende eines Restaurantessens serviert. Beim Kauf Produzentenstände bevorzugen.",
+          "tag": "Überall · kostenlos nach dem Abendessen · am Produzentenstand kaufen",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Valle+dei+Mulini+Amalfi"
+        },
+        {
+          "icon": "🧀",
+          "name": "Provolone del Monaco",
+          "description": "Ein halbharter Käse aus den Monti Lattari Bergen, hergestellt aus Kuhmilch. DOP (geschützte Ursprungsbezeichnung) zertifiziert – eine Garantie für die Herstellung in einem bestimmten Gebiet nach traditionellen Methoden. Die frische Version ist mild, die gereifte Version scharf und komplex. In Käsegeschäften und Feinkostläden entlang der Küste zu finden.",
+          "tag": "Käsegeschäfte · DOP-zertifiziert · probieren Sie die gereifte Version",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vico+Equense"
+        }
+      ],
+      "callout": {
+        "label": "Essen in Positano – wie man weniger ausgibt",
+        "text": "Restaurants mit Meerblick und Aussicht in Positano sind immer hochpreisig. Zwei Straßen weiter – das heißt, bergauf – sinken die Preise ohne Qualitätsverlust. Mittagessen ist immer günstiger als Abendessen. Ein Teller Essen in einer Bar ist günstiger als in einem Restaurant. Ein Panino oder ein Stück Pizza kaufen und am Strand essen ist sowohl günstig als auch der wahre Geschmack von Positano.",
+        "type": "tip"
+      },
+      "title": "Was man essen sollte"
+    },
+    "hidden_gems": {
+      "intro": "Die besten Orte an der Küste sind meist nur einen Katzensprung von der Fährroute oder gleich hinter einem Hügel entfernt.",
+      "items": [
+        {
+          "name": "Atrani",
+          "description": "Direkt östlich von Amalfi, 10 Minuten zu Fuß oder 5 Minuten durch den Tunnel. Eine der kleinsten Städte Italiens. Ein kleiner Strand, steile Gassen, eine Kirche am Platz und ein paar Restaurants. Ein Zehntel der Menschenmassen von Amalfi. Dieselbe Aussicht, dieselbe Küste, dasselbe Meer – aber weder Touristenmassen noch hohe Preise.",
+          "rarity": "Direkt neben Amalfi – eine Stadt, die fast niemand kennt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Atrani"
+        },
+        {
+          "name": "Cetara",
+          "description": "Östlich von Amalfi, 20 Minuten mit dem Bus. Eine der kleinsten und am wenigsten touristischen Städte der Küste. Das jährliche Thunfischfest am 16. August – die ganze Stadt feiert. Cafés und Trattorien am Wasser sind sowohl erschwinglich als auch köstlich. Hier zu essen kostet etwa die Hälfte dessen, was man in Positano bezahlt. Besuchen Sie die kleinen Geschäfte in der Stadt, um Colatura zu kaufen.",
+          "rarity": "Cetara – Geburtsort der Colatura di Alici und die ursprünglichste Stadt der Küste",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cetara"
+        },
+        {
+          "name": "Ravello — Villa Cimbrone",
+          "description": "In Ravello, 15 Minuten zu Fuß. Das Belvedere der Unendlichkeit – eine Klippenterrasse, vor der sich nichts befindet, nur die Bucht von Amalfi. Es war Gore Vidals Lieblingsplatz; Virginia Woolf schrieb hier ebenfalls. Der Eintritt zum Garten ist kostenpflichtig, aber die Aussicht von der Terrasse ist es wert.",
+          "rarity": "Die Unendlichkeits-Terrasse am Klippenrand der Villa Cimbrone",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Villa+Cimbrone+Ravello"
+        },
+        {
+          "name": "Praiano — Marina di Praia",
+          "description": "Unterhalb von Praiano, über steile Stufen erreichbar. Felsen auf beiden Seiten, offenes Meer voraus. Ein kleiner Strand, ein oder zwei Restaurants und eine Bar. Selbst im Hochsommer viel ruhiger als Positano oder Amalfi. Bereiten Sie Ihre Beine auf den Abstieg vor – viele Stufen.",
+          "rarity": "Marina di Praia – die geschützteste kleine Bucht der Küste",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marina+di+Praia+Praiano"
+        },
+        {
+          "name": "Furore — La Fiordo",
+          "description": "Ein kleiner Halt an der SS163 zwischen Positano und Amalfi. Das wahre Geheimnis hier ist die schmale, fjordähnliche Bucht, die sich zwischen den Felsen zum Meer öffnet. Man blickt von der Brücke am Straßenrand hinunter oder steigt über Stufen zum kleinen Strand hinab. Der Tuffo del Furore findet hier jedes Jahr statt: ein Tauchwettbewerb, bei dem von der Brücke gesprungen wird, mit Zuschauern von der gesamten Küste. Steigen Sie an der SITA-Bushaltestelle Furore aus.",
+          "rarity": "Furore Fjord – die atemberaubende Bucht, die man auf Fotos sieht",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fiordo+di+Furore"
+        },
+        {
+          "name": "Minori and Maiori",
+          "description": "Zwei Städte östlich von Amalfi, nahe beieinander. Minori ist klein und historisch mit Überresten einer antiken römischen Villa; Maiori hat den größten Sandstrand der Küste. Beide sind weit weniger touristisch und viel erschwinglicher als Positano und Amalfi. Donnerstags findet in Maiori ein Freiluftmarkt statt. Schlendern Sie zwischen den Ständen und genießen Sie das lokal produzierte Gemüse, Obst und den Käse.",
+          "rarity": "Minori und Maiori – die entspanntesten und erschwinglichsten Städte der Küste",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Minori"
+        }
+      ],
+      "callout": {
+        "label": "Limoncello von Produzentenständen – der Preisunterschied ist erheblich",
+        "text": "Entlang der Küste säumen kleine Stände die Straßen – Zitronenhainbesitzer verkaufen frische Zitronen, hausgemachten Limoncello und Zitronenmarmelade. Limoncello in Touristengeschäften kostet 15-25 €; an diesen Ständen kostet dieselbe Qualität 8-12 €. Sie können auch vor dem Kauf probieren – Produzenten bieten normalerweise kleine Verkostungen an.",
+        "type": "tip"
+      },
+      "title": "Versteckte Juwelen"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Nehmen Sie mindestens einmal eine Küstenfähre",
+          "sub": "Fährverbindungen entlang der Küste verkehren von April bis Oktober. Route Positano-Amalfi oder Neapel-Positano. Die Küste vom Meer aus zu sehen, ist ein völlig anderes Erlebnis."
+        },
+        {
+          "label": "Wandern Sie den Sentiero degli Dei",
+          "sub": "Von Bomerano nach Nocelle. ca. 7 km, 2-3 Stunden. SITA-Bus von Amalfi nach Bomerano. Beginnen Sie in den frühen Morgenstunden."
+        },
+        {
+          "label": "Gehen Sie nach Atrani",
+          "sub": "10 Minuten von Amalfi-Stadt oder 5 Minuten durch den Tunnel. Eine der kleinsten Städte Italiens. Keine Menschenmassen."
+        },
+        {
+          "label": "Essen Sie Spaghetti con Colatura in Cetara",
+          "sub": "20 Minuten von Amalfi mit dem SITA-Bus. Pasta mit fermentierter Sardellensauce. 12-18 €. Kaufen Sie eine Flasche Colatura."
+        },
+        {
+          "label": "Besuchen Sie die Villa Cimbrone in Ravello",
+          "sub": "30 Minuten mit dem Bus von Amalfi. Terrasse des Belvedere dell'Infinito. Der Garten ist kostenpflichtig, aber es lohnt sich. Gehen Sie früh."
+        },
+        {
+          "label": "Essen Sie Pasta al Limone",
+          "sub": "Überall erhältlich. Achten Sie darauf, dass sie mit Sfusato Amalfitano-Zitronen zubereitet wird. Sollte frisch und aromatisch sein."
+        },
+        {
+          "label": "Probieren Sie Delizia al Limone",
+          "sub": "Konditoreien, 3-5 €. Muss kalt serviert werden. Klein, kuppelförmig, mit Limoncello-Creme gefüllt."
+        },
+        {
+          "label": "Essen Sie Scialatielli ai Frutti di Mare",
+          "sub": "Amalfis handgemachte Pasta. Mit Meeresfrüchten. Frischer Teig, frische Meeresfrüchte. 18-25 €."
+        },
+        {
+          "label": "Kaufen Sie Limoncello an einem Produzentenstand",
+          "sub": "Straßenstände, keine Touristenläden. Sie können zuerst probieren. 8-12 €."
+        },
+        {
+          "label": "Steigen Sie hinab zur Bucht Marina di Praia in Praiano",
+          "sub": "Steile Treppenstufen. Felsen auf beiden Seiten. Ruhige Bucht. Von Positano mit der Fähre oder dem SITA-Bus."
+        },
+        {
+          "label": "Halten Sie am Fjord von Furore",
+          "sub": "An der SS163. SITA-Bushaltestelle Furore. Foto von der Brücke. Steigen Sie die Stufen zum kleinen Strand hinab."
+        },
+        {
+          "label": "Essen Sie im Ort – nicht in einem Restaurant mit Aussicht",
+          "sub": "Gehen Sie zwei Straßen weiter hinein. Der Preis halbiert sich. Die Qualität ändert sich nicht. Ein Teller in einer Bar ist die günstigste Option."
+        }
+      ],
+      "title": "Checkliste Amalfiküste",
+      "completion_message": "Die Küste wird Sie für eine ruhigere Jahreszeit wieder anlocken."
+    },
+    "traps": {
+      "title": "Fallen vermeiden",
+      "intro": "An der Amalfiküste ist die Aussicht kostenlos; der Rest erfordert Verhandlungsgeschick. Kenne diese vier Punkte und genieße das Paradies, ohne dein Budget zu sprengen.",
+      "items": [
+        {
+          "icon": "🏖️",
+          "name": "Die Liegestuhl-Überraschung in Positano",
+          "description": "Die vordersten Reihen am Hauptstrand verlangen viel Geld für einen Tagesliegestuhl und Sonnenschirm; es erst nach dem Hinsetzen herauszufinden, ist unangenehm.",
+          "instead": "Frage nach dem Preis, bevor du dich hinsetzt; oder gehe zum Strand von Fornillo – fünf Minuten, halber Preis, dasselbe Meer."
+        },
+        {
+          "icon": "🍋",
+          "name": "Gefälschte 'Amalfi-Zitronen'-Produkte",
+          "description": "Einige der Limoncello und Seifen an Touristenständen werden mit importierten Essenzen hergestellt; die echte Costa d'Amalfi-Zitrone ist IGP-geschützt.",
+          "instead": "Achte auf das IGP-Siegel und kaufe bei einem Produzenten, der dich probieren lässt; Zitronenhain-Touren wie Amalfis Valle dei Mulini erzählen dir die Geschichte und geben dir die Flasche."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Ein mittelmäßiger Teller zu Aussichtspreisen in Positano",
+          "description": "Einige Klippenterrassen setzen auf Fotomenüs: Die Aussicht ist himmlisch, die Pasta gefroren.",
+          "instead": "Iss in Praiano, Cetara oder Atrani: dasselbe Meer, halber Preis, doppelte Sorgfalt. Cetares Sardellen sind schon allein eine Reise wert."
+        },
+        {
+          "icon": "🚗",
+          "name": "Die Küstenstraße im August befahren",
+          "description": "Im Sommer ist die SS163 eine Warteschlange ohne Parkplatz am Ende; ein Urlaub, der am Steuer verbracht wird, ist kein Urlaub.",
+          "instead": "Mache die Fähre zu deinem Rückgrat (Salerno–Amalfi–Positano) und fülle die Lücken mit SITA-Bussen und Wanderwegen; vergiss es, an der Küste ein Auto zu mieten."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die goldene Regel",
+        "text": "Die Amalfiküsten-Regel dreht sich um die Höhe: Steige eine Stadt über dem Meeresspiegel (Ravello, Scala, Tramonti) hinauf, und die Preise fallen, die Stille nimmt zu und die Aussicht wird grandioser."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Abläufen. Die Zeiten sind flexibel; bewahren Sie den Geist, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Amalfi, Positano und Ravello — im Rhythmus der Fähre",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Stadt Amalfi + Dom",
+              "description": "Kaffee auf dem gestuften Domplatz, ein Blick in den arabisch-normannischen Kreuzgang; bevor die Touristenfähren ankommen, gehört die Stadt Ihnen."
+            },
+            {
+              "time": "10:30",
+              "title": "Fähre nach Positano",
+              "description": "Die Annäherung vom Meer aus ist die einzig richtige Art, Positano zu sehen: Die pastellfarbenen Häuser entfalten sich wie ein an die Klippe gehängtes Gemälde."
+            },
+            {
+              "time": "12:30",
+              "title": "Mittagessen + Strand Fornillo",
+              "description": "Spazieren Sie vom Trubel des Hauptstrandes zur Ruhe von Fornillo; Mittagessen am Wasser, Füße im Sand."
+            },
+            {
+              "time": "15:30",
+              "title": "Aufstieg nach Ravello",
+              "description": "Mit dem Bus in die Stadt in den Wolken: Von der Terrasse der Unendlichkeit der Villa Cimbrone liegt Ihnen die Welt zu Füßen."
+            },
+            {
+              "time": "18:30",
+              "title": "Sonnenuntergang in Atrani",
+              "description": "Der winzige Platz neben Amalfi ist ein vom Tourismus ausgenommenes Italien; finden Sie einen Tisch unter dem Bogen."
+            },
+            {
+              "time": "20:30",
+              "title": "Abendessen — mit Zitronen",
+              "description": "Pasta al limone oder Scialatielli ai frutti di mare, zum Abschluss Limoncello — direkt vom Erzeuger."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Erleben Sie die Küste als Gast, nicht als Tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Der Drei-Städte-Klassiker",
+              "description": "Der oben beschriebene 1-Tages-Ablauf: Amalfi, Positano, Ravello, Atrani."
+            },
+            {
+              "time": "Day 2",
+              "title": "Der Pfad der Götter",
+              "description": "Wandern Sie den Sentiero degli Dei in der kühlen Morgenluft (Bomerano nach Nocelle), belohnen Sie sich mit dem Meer in Positano und essen Sie abends Fisch in Praianos Marina di Praia."
+            },
+            {
+              "time": "Day 3",
+              "title": "Die Fischerküste und Abschied",
+              "description": "Sardellen und Colatura in Cetara am Morgen, der Fjord von Furore am Mittag und Delizia al limone von Sal De Riso in Minori — verabschieden Sie die Küste mit einem Dessert."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Das 5-Wörter-Survival-Kit",
+      "intro": "Drei italienische Höflichkeitswörter plus zwei Küstenklassiker; diese fünf bringen Sie durch jeden Hafen.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "bwon-JOR-noh",
+          "meaning": "Guten Morgen / Guten Tag — für jeden auf dem Stadtplatz"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Danke — kurz, klar, immer"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "Bitte — fügen Sie es am Ende Ihrer Bestellung hinzu"
+        },
+        {
+          "word": "Salute!",
+          "pronunciation": "sah-LOO-teh",
+          "meaning": "Prost! — Limoncello-Gläser erheben sich dazu"
+        },
+        {
+          "word": "Che meraviglia!",
+          "pronunciation": "keh meh-rah-VEE-lyah",
+          "meaning": "Wie wunderbar! — Sie werden es an jeder Biegung dieser Küste brauchen"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "city": "Berlin",
+    "country": "Germany",
+    "language": "de",
+    "version": "2.1",
+    "color_primary": "#1A1A2E",
+    "color_light": "#EAEAF5",
+    "tagline": "Ursprünglich, frei, für immer unvollendet — und stolz auf jede Narbe.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Ticket immer entwerten",
+    "Späti-Kultur",
+    "Bargeld bleibt König"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Berlin",
+      "intro": "Berlin versucht nicht, Sie zu beeindrucken. Das muss es auch nicht. Dies ist eine Stadt, die dem Erdboden gleichgemacht, in zwei Teile geteilt und wiedervereinigt wurde – und irgendwie zur kreativsten und freiesten Hauptstadt Europas wurde. Die Mauern zeigen immer noch Einschusslöcher. Die Lücken zwischen den Gebäuden erzählen immer noch die Geschichte. Aber Seite an Seite mit all dieser Schwere gibt es die beste Clubszene der Welt, legendäres Streetfood und eine Kultur radikaler Offenheit, die jedem Menschen das Gefühl gibt, zu Hause zu sein.",
+      "local_word": {
+        "word": "Kiez",
+        "pronunciation": "keets",
+        "definition": "Ihr Viertel – genauer gesagt, die paar Blocks um Sie herum, die sich wie Ihr Dorf innerhalb der Stadt anfühlen. Jeder Berliner hat einen Kiez. Ihren zu finden, ist der Weg, wie Sie aufhören, Tourist zu sein, und anfangen, hier tatsächlich zu leben."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Fahrschein immer entwerten",
+          "description": "Berlin funktioniert nach einem Vertrauenssystem – keine Schranken, keine Tore. Aber Kontrolleure führen Stichproben durch, und die Strafe ist erheblich, ohne Ausnahmen. Entwerten Sie Ihr Ticket vor jeder Fahrt an den gelben oder roten Automaten auf dem Bahnsteig. Keine Ausreden werden akzeptiert."
+        },
+        {
+          "number": 2,
+          "title": "Bargeld ist hier immer noch König",
+          "description": "Im Gegensatz zu Amsterdam oder Barcelona akzeptieren viele Berliner Restaurants, Bars und Märkte nur Bargeld. Haben Sie immer Euro dabei. 'Nur Barzahlung' ist ein Schild, das Sie ständig sehen werden."
+        },
+        {
+          "number": 3,
+          "title": "Der Flughafen ist Zone C – kaufen Sie das richtige Ticket",
+          "description": "Der Flughafen BER liegt außerhalb der Stadt in Zone C. Ein Standard-AB-Ticket bringt Sie nicht dorthin. Kaufen Sie ein ABC-Ticket am Flughafen. Wenn Sie bereits ein AB-Ticket für die Stadt haben, benötigen Sie ein Anschlussticket (Anschlussfahrausweis) für Zone C – das ist günstiger als ein volles ABC-Ticket."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "BER (Brandenburg)",
+          "sub": "FEX-Zug · ~30 Min. · Zone ABC"
+        },
+        {
+          "icon": "🚇",
+          "label": "Verkehrsmittel",
+          "value": "U-Bahn + S-Bahn",
+          "sub": "Einzelfahrt vom Stadtzentrum · Tageskarte erhältlich"
+        },
+        {
+          "icon": "💶",
+          "label": "Zahlung",
+          "value": "Bargeld bevorzugt",
+          "sub": "Viele Orte sind nur Barzahlung"
+        },
+        {
+          "icon": "🏪",
+          "label": "Nachtleben",
+          "value": "Späti 24/7 geöffnet",
+          "sub": "Ihr Spätkauf für die Nacht"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Berliner Philosophie",
+        "text": "Berlin ist 'arm aber sexy', wie der ehemalige Bürgermeister einmal sagte. Die Stadt trägt ihre Rauheit mit Stolz. Erwarten Sie keine Perfektion. Erwarten Sie Authentizität, Energie und ein Lebenstempo, das 6 Stunden hinter dem Rest Europas liegt."
+      }
+    },
+    "transport": {
+      "title": "Unterwegs in Berlin",
+      "intro": "Das BVG-Netz in Berlin ist eines der besten in Europa – U-Bahn, S-Bahn, Straßenbahnen, Busse und Fähren, alles mit einem Ticket. Achten Sie von Anfang an auf die richtigen Zonen.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Flughafen (BER) → Stadtzentrum",
+          "description": "Nehmen Sie den FEX (Airport Express) oder die S-Bahn S9/S45 vom BER direkt ins Stadtzentrum. Der FEX ist am schnellsten – fährt alle 30 Minuten zum Berliner Hauptbahnhof in etwa 30 Minuten. Der BER liegt in Zone C, kaufen Sie daher vor der Fahrt ein ABC-Ticket an den Automaten. Taxis gibt es, sind aber deutlich teurer."
+        },
+        {
+          "icon": "🎫",
+          "title": "Ticketarten – die richtige Wahl",
+          "description": "AB-Tickets decken alles innerhalb der Stadt ab – alle Stadtteile, alle Attraktionen. ABC-Tickets decken auch den Flughafen BER und Potsdam ab. Ein Einzelfahrschein ist 2 Stunden lang in eine Richtung mit Umsteigemöglichkeiten gültig. Eine Tageskarte ermöglicht unbegrenzte Fahrten für 24 Stunden – lohnt sich, wenn Sie drei oder mehr Fahrten unternehmen."
+        },
+        {
+          "icon": "⚠️",
+          "title": "Entwerten – jedes Mal",
+          "description": "Berlin hat keine Ticketsperren. Entwerten Sie Ihr Ticket an den gelben oder roten Automaten auf den Bahnsteigen oder in Bussen und Straßenbahnen, bevor Sie Ihre Fahrt antreten. Zivilfahnder führen Stichproben durch – wer ohne gültig gestempeltes Ticket erwischt wird, muss mit einer erheblichen Geldstrafe vor Ort rechnen. 'Ich habe es vergessen' wird nicht akzeptiert."
+        },
+        {
+          "icon": "📱",
+          "title": "BVG App – der klügste Schachzug",
+          "description": "Laden Sie die BVG App vor Ihrer Ankunft herunter. Kaufen und entwerten Sie Tickets digital, erhalten Sie Echtzeit-Abfahrtszeiten und planen Sie Routen für alle Verkehrsmittel. Die App bietet einen Rabatt auf digital gekaufte Tickets. Nutzen Sie BVG Fahrinfo für genauere Routenplanung als Google Maps."
+        },
+        {
+          "icon": "🚲",
+          "title": "Fahrradfahren",
+          "description": "Berlin ist flach und sehr fahrradfreundlich. Mieten Sie über die BVG Jelbi App oder Nextbike. Ausgezeichnete Radwege in der ganzen Stadt. Wenn Sie Ihr Fahrrad in der U-Bahn oder S-Bahn mitnehmen, benötigen Sie ein separates Fahrradticket (Fahrradkarte). Fahrräder sind in Bussen nicht erlaubt."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Nachtverkehr",
+        "text": "Die U-Bahn fährt am Wochenende 24 Stunden. An Wochentagen ersetzen Nachtbusse (gekennzeichnet mit N) die U-Bahn-Linien nach Mitternacht – gleiche Liniennummern mit N-Präfix. Ihr Ticket ist in Nachtbussen gültig. Straßenbahnen fahren in den östlichen Bezirken ebenfalls die ganze Nacht."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "Berlins Viertel könnten unterschiedlicher nicht sein. Ost gegen West, rau gegen poliert, lokal gegen touristisch – wo Sie landen, prägt alles.",
+      "local_word": {
+        "word": "Kneipe",
+        "pronunciation": "k-NYE-puh",
+        "definition": "Die traditionelle deutsche Eckkneipe – dunkles Holz, günstiges Bier, Einheimische, die schon da waren, bevor Sie geboren wurden. Ein Viertel in Berlin zu wählen, bedeutet, Ihre Kneipe zu wählen. Finden Sie die richtige, und Sie werden sich innerhalb eines Tages wie zu Hause fühlen."
+      },
+      "items": [
+        {
+          "name": "Mitte",
+          "badge": "Am ikonischsten",
+          "badge_type": "vibe",
+          "description": "Das historische Zentrum. Brandenburger Tor, Museumsinsel, Fernsehturm – alles hier. Poliert, zentral und im Vergleich zum Rest Berlins etwas steril. Am besten für Erstbesucher, die die Wahrzeichen effizient sehen möchten. Teurer als überall sonst.",
+          "tags": [
+            "Am zentralsten",
+            "Touristenreich",
+            "Am besten für Erstbesucher"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mitte+Berlin"
+        },
+        {
+          "name": "Kreuzberg",
+          "badge": "Am kreativsten",
+          "badge_type": "hot",
+          "description": "Das schlagende alternative Herz Berlins. Türkisches Streetfood, legendäre Clubs, Bars am Kanal, Street Art überall. SO36 und Berghain sind hier. Vielfältig, laut, um 4 Uhr morgens lebendig. Das berlinischste Viertel, das es gibt – chaotisch, magnetisch und ganz es selbst.",
+          "tags": [
+            "Bestes Nachtleben",
+            "Streetfood-Paradies",
+            "Am berlinischsten"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kreuzberg+Berlin"
+        },
+        {
+          "name": "Prenzlauer Berg",
+          "badge": "Am lokalsten",
+          "badge_type": "local",
+          "description": "Ehemaliges Ost-Berlin, heute der Ort, an dem sich nach der Wiedervereinigung junge Familien und Künstler niedergelassen haben. Schöne Vorkriegsgebäude, grüne Plätze, exzellenter Kaffee, Bauernmärkte. Weniger wild als Kreuzberg, aber zutiefst lebenswert. Der Samstagsmarkt am Kollwitzplatz ist ein Muss.",
+          "tags": [
+            "Grün & lebenswert",
+            "Toller Kaffee",
+            "Samstagsmarkt"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Prenzlauer+Berg+Berlin"
+        },
+        {
+          "name": "Neukölln",
+          "badge": "Am aufstrebendsten",
+          "badge_type": "vibe",
+          "description": "Berlins sich am schnellsten verändernder Bezirk. Arabische und türkische Bäckereien neben Naturweinbars. Vintage-Läden neben Galerieeröffnungen. Authentisch lokal und zunehmend cool, ohne schon zu Tode gentrifiziert zu sein. Die Sonnenallee ist die Seele des Viertels.",
+          "tags": [
+            "Aufstrebend",
+            "Beste Essensmischung",
+            "Budgetfreundlich"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Neukölln+Berlin"
+        },
+        {
+          "name": "Friedrichshain",
+          "badge": "Bestes Preis-Leistungs-Verhältnis",
+          "badge_type": "value",
+          "description": "Ost-Berlins junger, energiegeladener Bezirk. Die East Side Gallery ist hier – der längste erhaltene Mauerabschnitt, bedeckt mit Wandgemälden. Der Boxhagener Platz ('Boxi') ist der lokale Treffpunkt, wo sich alle mit Späti-Bieren versammeln. Erschwinglich, lebhaft, hervorragende Verkehrsanbindung.",
+          "tags": [
+            "East Side Gallery",
+            "Boxi-Platz",
+            "Erschwinglich"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Friedrichshain+Berlin"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Beste Reisezeit",
+      "intro": "Berlin ist eine Ganzjahresstadt, die sich jedoch mit den Jahreszeiten radikal verändert. Jede Version Berlins ist es wert, erlebt zu werden.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Erwachen",
+          "months": "Mär – Mai",
+          "subtitle": "Frühling · Die Stadt erwacht",
+          "description": "Nach einem langen grauen Winter erwacht Berlin zum Leben im Freien, sobald die Temperaturen zweistellig werden. Parks füllen sich über Nacht, Café-Terrassen erscheinen, und die Energie ist elektrisierend. Der kreative Veranstaltungskalender startet – Galerieeröffnungen, Flohmärkte, Freiluftkino. Das Tempelhofer Feld wird zu einem riesigen Picknick. Berlin in seiner hoffnungsvollsten Form.",
+          "callout": {
+            "type": "tip",
+            "label": "Nicht verpassen",
+            "text": "Flohmarkt im Mauerpark sonntags – Berlins berühmtester Open-Air-Markt kehrt im Frühling zu voller Energie zurück. Kommen Sie früh, bleiben Sie für das Karaoke."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Berlin auf Hochtouren",
+          "months": "Jun – Aug",
+          "subtitle": "Sommer · Berlin auf Hochtouren",
+          "description": "Die Stadt explodiert. Straßenfeste, Open-Air-Clubs, Schwimmen in Seen, lange Nächte, die nie ganz dunkel werden. Die Fête de la Musique (21. Juni) verwandelt jede Straßenecke in eine Bühne. Clubs verlagern sich nach draußen. Berliner schwimmen im Wannsee und Müggelsee. Die Übernachtungspreise steigen und die besten Clubs füllen sich mit Touristen.",
+          "callout": {
+            "type": "warning",
+            "label": "Club-Tipp",
+            "text": "Im Sommer gibt es im Berghain 2–3 Stunden Wartezeiten. Gehen Sie an einem Wochentag oder Sonntagmorgen. Kleiden Sie sich leger, wirken Sie entspannt – das ist die wahre Berliner Türsteherkultur."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Goldene Wochen",
+          "months": "Sep – Nov",
+          "subtitle": "Herbst · Die Goldenen Wochen",
+          "description": "September und Oktober sind Berlins beste Zeit. Die Menschenmassen lichten sich, die Blätter färben sich bernsteinfarben, und die Stadt taucht in ihre reichste Kultursaison ein. Berlin Art Week, Festival of Lights im Oktober – Berlin in seiner vielfältigsten und raffiniertesten Form. Kühlere Abende lassen die Indoor-Clubszene wieder natürlich wirken.",
+          "callout": {
+            "type": "tip",
+            "label": "Nicht verpassen",
+            "text": "Festival of Lights (Oktober) – ikonische Wahrzeichen werden mit Lichtkunstprojektionen verwandelt. Kostenlos, stadtweit, außergewöhnlich."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Dunkel & Magisch",
+          "months": "Dez – Feb",
+          "subtitle": "Winter · Dunkel, intim, magisch",
+          "description": "Berliner Winter sind kalt und grau – und irgendwie perfekt dafür. Die Weihnachtsmärkte gehören zu den besten in Europa. Die Clubszene erreicht ihren Höhepunkt: lange dunkle Nächte, keine Touristen, Berliner ganz bei sich. Das Berlinale Filmfestival im Februar ist Weltklasse und überraschend zugänglich.",
+          "callout": {
+            "type": "tip",
+            "label": "Insider-Tipp",
+            "text": "Der Weihnachtsmarkt am Gendarmenmarkt ist der schönste. Der RAW Gelände Markt ist der lokalste – keine Touristen-Souvenirs, nur Berliner und Glühwein."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "Februar",
+          "text": "Berlinale: das publikumsfreundlichste der großen Filmfestivals; Tickets können tatsächlich gekauft werden."
+        },
+        {
+          "month": "1. Mai",
+          "text": "MyFest / 1. Mai in Kreuzberg: Musik Straße für Straße, Tanz und Berlin in seiner intensivsten Form, mit seiner politischen Geschichte im Blick."
+        },
+        {
+          "month": "Anfang Oktober",
+          "text": "Festival of Lights: Denkmäler und Plätze verwandeln sich in Lichtinstallationen."
+        },
+        {
+          "month": "Dezember",
+          "text": "Weihnachtsmärkte: Gendarmenmarkt ist der eleganteste, Lucia in der Kulturbrauerei der gemütlichste; der Glühweinbecher hat Pfand – behalten Sie ihn als Souvenir."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Berlins Gastronomieszene ist eine der vielfältigsten und erschwinglichsten in Europa. Von legendärem Street Food bis hin zu Weltklasse-Restaurants – oft nur wenige Schritte voneinander entfernt.",
+      "local_word": {
+        "word": "Prost!",
+        "pronunciation": "prohst",
+        "definition": "Zum Wohl! – Aber immer Augenkontakt halten, wenn man die Gläser aneinanderstößt. Wegschauen gilt als unhöflich und bringt laut deutschem Aberglauben sieben Jahre Pech im Schlafzimmer. Sie wurden gewarnt."
+      },
+      "items": [
+        {
+          "icon": "🌭",
+          "name": "Currywurst — die Berliner Institution",
+          "description": "Geschnittene Schweinswurst, übergossen mit Curryketchup, bestreut mit Currypulver. Klingt einfach. Schmeckt nach Berlin. Holen Sie sich eine bei Curry 36 in Kreuzberg – nicht am Touristenfallen-Stand am Checkpoint Charlie.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Curry+36+Berlin",
+          "tag": "Curry 36 · Nur Kreuzberg"
+        },
+        {
+          "icon": "🥙",
+          "name": "Döner Kebab — Berlins wahres Markenzeichen",
+          "description": "Berlin hat die größte türkische Bevölkerung außerhalb der Türkei. Der Döner hier ist wirklich anders – dickeres Brot, mehr Fleisch, bessere Soße. Mustafa's Gemüse Kebap in Kreuzberg hat eine berühmte Warteschlange. Lokale Imbissbuden sind oft genauso gut.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mustafas+Gemüse+Kebap+Berlin",
+          "tag": "Mustafa's · oder Ihr lokaler Imbiss"
+        },
+        {
+          "icon": "🥨",
+          "name": "Vollkornbrot — echtes deutsches Brot",
+          "description": "Deutschland hat über 3.200 registrierte Brotsorten. Berlins Bäckereien nehmen das ernst. Dichtes, dunkles Roggenbrot mit Samen, Butter und Käse zum Frühstück – was Berliner tatsächlich essen. Finden Sie am ersten Tag eine gute Bäckerei in Ihrem Kiez.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zeit+für+Brot+Berlin",
+          "tag": "Finden Sie Ihre Kiez-Bäckerei am ersten Tag"
+        },
+        {
+          "icon": "🍺",
+          "name": "Berliner Weiße — das lokale Bier",
+          "description": "Ein saures Weizenbier, serviert mit einem Schuss Himbeer- (rot) oder Waldmeistersirup (grün). Sehr erfrischend, sehr Berlin. Bestellen Sie es in jeder traditionellen Kneipe – immer mit Schuss.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Brauhaus+Lemke+Berlin",
+          "tag": "Immer mit Schuss — mit Sirup"
+        },
+        {
+          "icon": "🏪",
+          "name": "Späti-Kultur — das Berliner Ritual",
+          "description": "Spätkauf – bis sehr spät oder die ganze Nacht geöffnet, verkauft kaltes Bier, Snacks, alles, was man um 2 Uhr morgens braucht. Kaufen Sie ein kaltes Pfandbier, setzen Sie sich draußen auf den Bürgersteig, sprechen Sie mit Fremden. Berlins authentischste soziale Institution. Jedes Viertel hat seinen Späti.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Späti+Berlin",
+          "tag": "Kaufen, draußen sitzen, mit Fremden sprechen"
+        },
+        {
+          "icon": "🥗",
+          "name": "Markthalle Neun — Street Food am Donnerstag",
+          "description": "Eine wunderschöne Markthalle aus dem 19. Jahrhundert in Kreuzberg. Jeden Donnerstagabend: Street Food Thursday, wo lokale Anbieter die Halle füllen. Vielfältig, erschwinglich, voller Einheimischer. Samstagmorgen ist der reguläre Bio-Markt. Eines der besten Essenserlebnisse Berlins.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Markthalle+Neun+Berlin",
+          "tag": "Donnerstags · Kreuzberg"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Kostenloses Mittagskonzert",
+        "text": "Jeden Mittwoch (September bis Juni) veranstaltet die Berliner Philharmonie um 13 Uhr ein kostenloses 45-minütiges Mittagskonzert. Weltklasse-Musiker, keine Eintrittskarte erforderlich – einfach vor 13 Uhr erscheinen. Eines der großen Geheimnisse Berlins, das fast kein Tourist kennt."
+      }
+    },
+    "hidden_gems": {
+      "title": "Versteckte Juwelen",
+      "intro": "Berlin belohnt Neugier mehr als jede andere Stadt in Europa. Die besten Dinge hier verstecken sich hinter unscheinbaren Türen, auf ehemaligen Flugfeldern und in Bunkern aus dem Zweiten Weltkrieg.",
+      "items": [
+        {
+          "rarity": "Der außergewöhnlichste Picknickplatz der Welt",
+          "name": "Tempelhofer Feld — der ehemalige Flughafen",
+          "description": "Hitlers monumentaler Flughafen aus den 1930er Jahren, 2008 stillgelegt und der Stadt übergeben. Heute die größte urbane Freifläche der Welt – Berliner radeln, grillen, lassen Drachen steigen und gärtnern auf den Landebahnen. Das brutalistische Terminal steht noch. Der Eintritt ist frei. So etwas gibt es nirgendwo sonst auf der Welt.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tempelhofer+Feld+Berlin"
+        },
+        {
+          "rarity": "Kunst in einem Bunker aus dem Zweiten Weltkrieg — im Voraus buchen",
+          "name": "Sammlung Boros",
+          "description": "Ein Luftschutzbunker aus dem Zweiten Weltkrieg im Zentrum Berlins, umgewandelt in eine der außergewöhnlichsten privaten Kunstsammlungen der Welt. Führungen müssen Wochen im Voraus online gebucht werden. Zeitgenössische Kunst in roher Betonarchitektur aus dem Zweiten Weltkrieg – einzigartig.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sammlung+Boros+Berlin"
+        },
+        {
+          "rarity": "Vollkommene Stille neben dem Brandenburger Tor",
+          "name": "Raum der Stille",
+          "description": "Hinter einer unscheinbaren Tür, nur wenige Schritte vom Brandenburger Tor entfernt – ein kleiner Raum der vollkommenen Ruhe, offen für alle, zur stillen Besinnung, unabhängig von Religion oder Glauben. Kaum ein Tourist weiß, dass es ihn gibt. Kostenlos, täglich geöffnet. Auf einem der meistfotografierten Plätze der Welt ist es außergewöhnlich, hier völlige Stille zu finden.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Raum+der+Stille+Brandenburger+Tor+Berlin"
+        },
+        {
+          "rarity": "Kostenloses Weltklasse-Konzert — jeden Mittwoch",
+          "name": "Mittagskonzert der Berliner Philharmonie",
+          "description": "Jeden Mittwoch von September bis Juni veranstaltet die Berliner Philharmonie um 13 Uhr ein kostenloses 45-minütiges Mittagskonzert. Keine Eintrittskarte, keine Kleiderordnung. Einfach vor 13 Uhr kommen und Platz nehmen. Eines der besten kostenlosen Kulturerlebnisse in jeder europäischen Stadt.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Berliner+Philharmonie"
+        },
+        {
+          "rarity": "Berlins lokalste Markthalle",
+          "name": "Arminiusmarkthalle — Moabit",
+          "description": "Während Touristen in der Markthalle Neun Schlange stehen, haben die Einheimischen in Moabit ihre eigene wunderschöne Markthalle aus dem 19. Jahrhundert – völlig unter dem Touristenradar. Frische Produkte, lokale Metzger, internationale Essensstände, Kaffee. Geöffnet von Montag bis Samstag. Das authentischste Markterlebnis in Berlin.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arminiusmarkthalle+Berlin"
+        },
+        {
+          "rarity": "Ein Dorf in der Stadt — klingeln Sie",
+          "name": "Insel Lindwerder — Grunewald",
+          "description": "Eine winzige Insel im Havelsee, nur mit einer kleinen privaten Fähre erreichbar – man klingelt am Ufer und der Fährmann kommt. Lindenbäume, Badestellen, ein Terrassenrestaurant, wenn geöffnet. Selbst den meisten Berlinern kaum bekannt. Dauert 30 Minuten vom Zentrum, aber fühlt sich an wie eine andere Welt.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lindwerder+Berlin"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Boxi-Ritual",
+        "text": "Der Boxhagener Platz in Friedrichshain – von Einheimischen 'Boxi' genannt – ist Berlins authentischster Kiezplatz. Samstagsmorgenmarkt, Sonntagsflohmarkt und jeden Abend: Einheimische mit Späti-Bieren auf den Bänken. Keine Agenda. Einfach die Stadt, wie sie ist."
+      }
+    },
+    "checklist": {
+      "title": "Berlin Checkliste",
+      "completion_message": "Prost! Du hast Berlin richtig erlebt!",
+      "items": [
+        {
+          "label": "Die East Side Gallery im Morgengrauen entlanglaufen",
+          "sub": "1,3 km Wandgemälde – bevor die Massen kommen. Kaffee mitbringen."
+        },
+        {
+          "label": "Currywurst bei Curry 36 essen",
+          "sub": "Nur in Kreuzberg. Überspringe die Touristenstände am Checkpoint Charlie."
+        },
+        {
+          "label": "Ein kaltes Bier vom Späti kaufen und draußen sitzen",
+          "sub": "Das ist das Berlinerischste, was du tun kannst. Jeder Kiez, jede Nacht."
+        },
+        {
+          "label": "Durch das Tempelhofer Feld spazieren",
+          "sub": "Ehemaliger Flughafen, jetzt die größte urbane Freifläche der Welt. Kostenlos."
+        },
+        {
+          "label": "Das Denkmal für die ermordeten Juden Europas besuchen",
+          "sub": "Geh langsam. Lies die Namen. Nimm dir so viel Zeit, wie du brauchst."
+        },
+        {
+          "label": "Deinen Kiez finden und zu Fuß erkunden",
+          "sub": "Wähle ein Viertel und tauche tief ein – nicht breit. So funktioniert Berlin."
+        },
+        {
+          "label": "Ein kostenloses Konzert in der Philharmonie erleben",
+          "sub": "Mittwochs 13 Uhr, Sep–Jun. Früh kommen. Keine Eintrittskarte nötig."
+        },
+        {
+          "label": "Die Museumsinsel erkunden – mindestens ein Museum",
+          "sub": "Fünf Weltklasse-Museen auf einer Insel. Allein der Pergamonaltar ist es wert."
+        },
+        {
+          "label": "Eine Berliner Weiße in einer Kneipe trinken",
+          "sub": "Bestell sie mit Schuss (mit Sirup). Himbeer oder Waldmeister – deine Wahl."
+        },
+        {
+          "label": "Den Raum der Stille am Brandenburger Tor besuchen",
+          "sub": "Unmarkierte Tür, absolute Ruhe, kostenlos. Fast niemand weiß, dass es ihn gibt."
+        },
+        {
+          "label": "An einem Sonntag am Kanal in Kreuzberg entlanglaufen",
+          "sub": "Paul-Lincke-Ufer. Einheimische, Musik, Essen. Berlin von seiner authentischsten Seite."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Vermeide die Fallen",
+      "intro": "Berlin wird dich nicht abzocken – aber es lässt dich dich selbst abzocken. Kenne diese vier Fallen und verbringe deine Zeit im echten Berlin.",
+      "items": [
+        {
+          "icon": "🪖",
+          "name": "Soldatenfotos am Checkpoint Charlie",
+          "description": "Kostümierte 'Soldaten', die gegen Geld posieren, umringt von Souvenirläden. Der dramatischste Ort des Kalten Krieges ist heute die künstlichste Ecke der Stadt.",
+          "instead": "Für die wahre Geschichte der Mauer gehe zur Gedenkstätte Berliner Mauer an der Bernauer Straße: kostenlos, erschütternd, authentisch."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Essen rund ums Brandenburger Tor",
+          "description": "Restaurants rund um Unter den Linden und den Pariser Platz verkaufen die Aussicht, nicht das Essen. Hohe Preise, mittelmäßige Küchen.",
+          "instead": "Für dasselbe Geld isst man in Kreuzberg oder Neukölln doppelt so gut; die Markthalle Neun am Donnerstag ist ein Reiseziel für sich."
+        },
+        {
+          "icon": "🧱",
+          "name": "Souvenir 'originale Mauerstücke'",
+          "description": "Es gibt keine Garantie, dass diese bemalten Betonbrocken jemals die Mauer gesehen haben; die meisten sind nachträglich eingefärbter Schutt.",
+          "instead": "Erlebe die Mauer zu Fuß, nicht mit dem Portemonnaie: Spaziere die East Side Gallery von Anfang bis Ende ab, kostenlos."
+        },
+        {
+          "icon": "⏳",
+          "name": "Stunden in Hype-Schlangen verbrennen",
+          "description": "Eine zweistündige Schlange vor einer Berliner Institution macht das Essen nicht zwei Stunden besser; jeder Kiez hat seine eigene Legende.",
+          "instead": "Wenn die Schlange länger als 20 Minuten ist, gehe zur nächsten Ecke; Berlins Zweitbestes schlägt das Beste der meisten Städte."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die goldene Regel",
+        "text": "Berlins bester Plan heißt kein Plan. Wähle einen Kiez, vertraue deinen Füßen mehr als der U-Bahn und lass dich vom Abend treiben."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Vorschlägen. Die Zeiten sind flexibel; bewahren Sie den Geist, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Geschichte + Kiezleben, an einem Tag",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Brandenburger Tor + Holocaust-Mahnmal",
+              "description": "Früh, vor den Menschenmassen. Gehen Sie zwischen den beiden Monumenten und spüren Sie zwei Jahrhunderte der Stadt."
+            },
+            {
+              "time": "10:30",
+              "title": "Reichstagskuppel oder Museumsinsel",
+              "description": "Registrieren Sie sich kostenlos im Voraus für den Reichstag; oder wählen Sie ein Museum auf der Museumsinsel – versuchen Sie niemals, alle zu besuchen."
+            },
+            {
+              "time": "13:00",
+              "title": "Currywurst- oder Döner-Pause",
+              "description": "Currywurst stehend bei Curry 36, oder der Gemüse-Kebap, wenn die Schlange es wert scheint. Das ist Berliner Streetfood."
+            },
+            {
+              "time": "15:00",
+              "title": "Gedenkstätte Berliner Mauer an der Bernauer Straße",
+              "description": "Die wahre Geschichte der Mauer: der Grenzstreifen, Fluchttunnel, der Todesstreifen. Checkpoint Charlie, aber echt."
+            },
+            {
+              "time": "17:30",
+              "title": "Sonnenuntergang am Tempelhofer Feld",
+              "description": "Spazieren Sie über die alte Startbahn, mieten Sie ein Fahrrad oder legen Sie sich ins Gras. Berliner Freiheit in ihrer physischsten Form."
+            },
+            {
+              "time": "20:00",
+              "title": "Kreuzberger Abend",
+              "description": "Eine Kneipe, dann eine Bar, ein Späti-Bier auf dem Weg dazwischen. Dann wohin auch immer die Nacht führt."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Erleben Sie die Stadt als Gast, nicht als Tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Geschichte und das Zentrum",
+              "description": "Der 1-Tages-Ablauf von oben: das Tor, die Mahnmale, die Mauer, Tempelhof."
+            },
+            {
+              "time": "Day 2",
+              "title": "Der Geist Ost-Berlins",
+              "description": "East Side Gallery am Morgen, um den Boxhagener Platz mittags, Kaffee in Prenzlauer Berg und Mauerpark am Nachmittag. Wenn Sonntag ist: Karaoke!"
+            },
+            {
+              "time": "Day 3",
+              "title": "Kunst, ein See und Abschied",
+              "description": "Boros Collection (Monate im Voraus buchen) oder Hamburger Bahnhof, ein Grunewalder Seeufer am Nachmittag, Abschied in den Bars Neuköllns am Abend."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Das 5-Wörter-Überlebenskit",
+      "intro": "In Berlin kommt man mit Englisch gut zurecht, aber ein paar deutsche Worte brechen das Eis.",
+      "items": [
+        {
+          "word": "Hallo",
+          "pronunciation": "HAH-loh",
+          "meaning": "Hallo — informell, funktioniert überall"
+        },
+        {
+          "word": "Danke",
+          "pronunciation": "DAHN-keh",
+          "meaning": "Danke — noch freundlicher mit schön: danke schön"
+        },
+        {
+          "word": "Bitte",
+          "pronunciation": "BIT-teh",
+          "meaning": "Bitte / Gern geschehen / Hier, bitte — Das Schweizer Taschenmesser der deutschen Sprache"
+        },
+        {
+          "word": "Na?",
+          "pronunciation": "nah",
+          "meaning": "Die Berliner Begrüßung: 'Na? Wie geht's?' — die richtige Antwort ist ein weiteres 'Na?'"
+        },
+        {
+          "word": "Tschüss!",
+          "pronunciation": "chuess",
+          "meaning": "Tschüss — wird beim Verlassen des Ladens zur Kasse gesagt"
+        }
+      ]
+    }
+  }
+}

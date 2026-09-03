@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "San Sebastián",
+    "country": "Spain",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#A6762E",
+    "color_light": "#F8F1E2",
+    "tagline": "Le sable doré de La Concha et la meilleure gastronomie de comptoir du monde."
+  },
+  "pills": [
+    "La capitale mondiale du pintxo",
+    "La Concha — La plage la plus élégante d'Europe",
+    "Parmi les plus d'étoiles Michelin par habitant"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à San Sebastián",
+      "intro": "San Sebastián — Donostia en basque — a brillé comme station balnéaire royale et a été couronnée empire culinaire. La baie en forme de coquille d'huître de La Concha s'incurve avec la grâce de la Belle Époque, tandis que la vieille ville derrière elle cache les mètres carrés les plus délicieux et les plus denses de la planète : des comptoirs de bar armés de pintxos, une spécialité différente derrière chaque porte. Ici, la nourriture n'est pas un hobby mais une identité — les sociétés gastronomiques ont un siècle, et les arguments se mènent en recettes. Une serviette de plage et un appétit : les deux billets d'entrée de cette ville.",
+      "local_word": {
+        "word": "Txikiteo",
+        "pronunciation": "chi-ki-teh-o",
+        "definition": "Le rituel de passer de bar en bar avec de petits verres et des pintxos : l'épine dorsale de la vie sociale basque. La règle est simple — un pintxo et une petite boisson par bar, puis on marche. Pas de sièges, pas de fidélité, seulement la découverte."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Ne vous installez jamais dans un seul bar à pintxos",
+          "description": "Chaque bar a son pintxo champion, et un local ne mange que celui-là dans chaque : tortilla dans l'un, txuleta dans l'autre, idiazabal dans un troisième. Quiconque se remplit l'estomac dans un seul bar échoue à l'examen de la ville — flânez, choisissez, avancez."
+        },
+        {
+          "number": 2,
+          "title": "Apprenez les règles du comptoir",
+          "description": "Les pintxos froids sont sur le comptoir, mais les vrais joyaux sont sur la liste chaude : commandez à partir du tableau au mur. Les serviettes sont jetées par terre — un sol jonché n'est pas impoli, c'est le signe d'un bon bar. L'addition fonctionne sur déclaration honnête à la sortie ; ne brisez pas le système de confiance."
+        },
+        {
+          "number": 3,
+          "title": "Versez le txakoli de haut, ne manquez pas la saison du cidre",
+          "description": "Le txakoli blanc légèrement pétillant est versé de haut pour l'aérer — pas du spectacle, mais de la technique. De janvier à avril, les cidreries (sagardotegi) ouvrent : du cidre du tonneau au cri de 'txotx', avec l'omelette rituelle et la txuleta en accompagnement."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "San Sebastián (EAS) / Bilbao (BIO)",
+          "sub": "Bus de Bilbao ~1h 15m"
+        },
+        {
+          "icon": "🚶",
+          "label": "Se déplacer",
+          "value": "Entièrement à pied",
+          "sub": "Promenade de la plage + vieille ville, tout plat"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Espagnol + Basque",
+          "sub": "Les deux sont officiels — les panneaux sont bilingues"
+        },
+        {
+          "icon": "🍢",
+          "label": "Signature",
+          "value": "Culture du Pintxo",
+          "sub": "Vieille ville : densité record de bars"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Donostia",
+        "text": "Dans cette ville, manger vite est aussi impoli que de s'asseoir à l'intérieur par une journée ensoleillée : une tournée de pintxos ne dure jamais moins de deux heures, et le paseo du soir se fait sur La Concha. Soyez généreux avec votre estomac et votre temps — la ville vous le rendra avec intérêt."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Donostia est compacte et plate : les plages, la vieille ville et Gros sont accessibles à pied ; un funiculaire pour les collines et un bus pour les environs suffisent.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Depuis les aéroports",
+          "description": "Le petit aéroport de la ville (EAS) est à 20 minutes ; la plupart des vols internationaux atterrissent à Bilbao (BIO) — de là, un bus direct rejoint la gare en une heure et quart. Biarritz (BIQ) est la troisième option."
+        },
+        {
+          "icon": "🚶",
+          "title": "À pied le long de la promenade",
+          "description": "Une promenade ininterrompue en bord de mer de Zurriola à La Concha et jusqu'à Ondarreta : le principal axe de transport de la ville est la balustrade de la plage. La promenade aux balustrades blanches est le chemin officiel du paseo du soir."
+        },
+        {
+          "icon": "🚌",
+          "title": "Les bus urbains (Dbus)",
+          "description": "Un réseau propre pour les quartiers des collines et le côté Miramón : montez avec une carte sans contact. Rarement nécessaire sur l'itinéraire touristique — c'est une ville où l'on marche beaucoup."
+        },
+        {
+          "icon": "🚠",
+          "title": "Le funiculaire d'Igueldo",
+          "description": "Des wagons en bois circulant depuis 1912 gravissent le Monte Igueldo : au sommet, une fête foraine nostalgique et la vue la plus célèbre de la ville — l'angle exact de carte postale de La Concha."
+        },
+        {
+          "icon": "🚄",
+          "title": "Escapades basques",
+          "description": "Hondarribia en bus en 40 minutes, la côte Getaria-Zarautz en une demi-heure, Bilbao et le Guggenheim en une heure et quart : Donostia est la base parfaite pour la côte basque. Le train Topo traverse même la frontière vers la France."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil vue",
+        "text": "Prenez le funiculaire pour monter à Igueldo mais grimpez l'Urgull à pied : deux collines, deux angles différents. L'Urgull est gratuit, et depuis les remparts sous la statue, la vue sur la vieille ville et la baie devient dorée au coucher du soleil."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Donostia, les distances sont courtes et les différences de caractère marquées : le cœur bruyant de la vieille ville, l'élégance du Centro, la décontraction des surfeurs de Gros.",
+      "local_word": {
+        "word": "Poteo",
+        "pronunciation": "po-teh-o",
+        "definition": "Le cousin du Txikiteo, axé sur le verre : flâner de bar en bar avec des amis autour de petits vins (potes). La raison officielle pour laquelle les rues se remplissent le vendredi soir – ce brouhaha n'est pas du bruit, c'est le pouls de la ville."
+      },
+      "items": [
+        {
+          "name": "Parte Vieja (la Vieille Ville)",
+          "badge": "Le cœur des pintxos",
+          "badge_type": "vibe",
+          "description": "Des rues avec une densité record de bars : sortez de votre porte, atterrissez à un comptoir. Le bruit nocturne fait partie du lot — venez avec des bouchons d'oreille et un bon appétit.",
+          "tags": [
+            "Comptoirs de bar",
+            "À deux pas de tout",
+            "Nuits animées"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Parte+Vieja+San+Sebastián"
+        },
+        {
+          "name": "Centro (Quartier Romantique)",
+          "badge": "Le plus élégant",
+          "badge_type": "hot",
+          "description": "Façades Belle Époque, le quartier de la cathédrale et à deux pas de La Concha : shopping, pâtisseries et nuits calmes. L'adresse du confort classique de Donostia.",
+          "tags": [
+            "Belle Époque",
+            "Près de La Concha",
+            "Nuits calmes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro+San+Sebastián"
+        },
+        {
+          "name": "Gros",
+          "badge": "Le plus décontracté",
+          "badge_type": "local",
+          "description": "Le quartier des surfeurs de la plage de Zurriola : cafés de troisième vague, jeunes bars à pintxos et un rythme de plage. À cinq minutes de la vieille ville par le pont — la dose la plus chaleureuse de vie locale.",
+          "tags": [
+            "Plage de surf",
+            "Jeunes bars",
+            "Pont vers le centre"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gros+San+Sebastián"
+        },
+        {
+          "name": "Antiguo et Ondarreta",
+          "badge": "Le plus calme",
+          "badge_type": "value",
+          "description": "Le quartier résidentiel derrière la plage d'Ondarreta : une plage familiale, le calme d'un club de tennis et le pied de l'Igueldo. Vingt minutes du centre le long de la promenade — pour ceux qui privilégient la tranquillité.",
+          "tags": [
+            "Plage familiale",
+            "Rues calmes",
+            "Promenade"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ondarreta+San+Sebastián"
+        },
+        {
+          "name": "Amara",
+          "badge": "Choix pratique",
+          "badge_type": "value",
+          "description": "Le quartier moderne à côté des gares ferroviaire et routière : des prix un peu plus abordables, le centre accessible à pied. Une base judicieuse pour une visite du Pays Basque.",
+          "tags": [
+            "Près des terminaux",
+            "Prix justes",
+            "Appartements modernes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Amara+San+Sebastián"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Sur la côte atlantique verdoyante, le temps est une loterie, mais la ville est délicieuse en toute saison : septembre rime avec cinéma, janvier avec tambours, l'été avec la plage.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "La saison verte",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Jours d'accalmies pluvieuses et de terrasses",
+          "description": "Les collines sont d'un vert luxuriant et les promenades sur la plage sont fraîches et animées ; la pluie peut survenir à tout moment. Les dernières gouttes de la saison du cidre s'étendent jusqu'en avril — les terrasses ouvrent en force en juin.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'avril",
+            "text": "Allez dans un sagardotegi avant la fin de la saison du cidre (janv-avr) : marchez jusqu'au tonneau au cri de 'txotx !', tenez votre verre en biais et accomplissez le rituel de l'omelette de morue et de la txuleta. Les villages à une demi-heure de la ville ont été construits exactement pour cela."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Plage et Festival",
+          "months": "Jul – Aug",
+          "subtitle": "Été · La Concha pleine, le ciel festif",
+          "description": "La ville passe en mode plage : La Concha fleurit de parasols, en juillet le festival de jazz transforme les plages en scènes, et la mi-août est couronnée par le concours de feux d'artifice de la Semana Grande. Les prix et l'occupation atteignent leur maximum.",
+          "callout": {
+            "type": "warning",
+            "label": "Note d'août",
+            "text": "Trouver un hôtel pendant la semaine de la Semana Grande (autour du 15 août) est une bataille — réservez des mois à l'avance. Votre récompense : des feux d'artifice qui rivalisent au-dessus de la baie chaque nuit, un spectacle de classe mondiale à admirer depuis la plage."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Cinéma et Récolte",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Tapis rouge du festival, une mer chaude",
+          "description": "Septembre est le mois star de la ville : le festival du film déroule le tapis rouge, la mer est encore baignable, la lumière est celle des photographes. Octobre et novembre sont calmes — la fenêtre idéale pour le voyageur gourmand et marcheur.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de septembre",
+            "text": "Pendant la semaine du festival du film, repérer les stars autour du Kursaal est de bonne guerre, mais le vrai plaisir est ailleurs : les billets de projection sont vendus au public à des prix étonnamment justes — assister à une première mondiale est une chance, à la mode de Donostia."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Tambours et Tempêtes",
+          "months": "Dec – Mar",
+          "subtitle": "Hiver · Tamborrada, spectacles de vagues, ouverture du cidre",
+          "description": "L'hiver est doux mais orageux : les vagues se produisent sur le Paseo Nuevo et les bars sont douillets. Le 20 janvier, la ville bat du tambour pendant 24 heures d'affilée — la Tamborrada est l'une des fêtes urbaines les plus bruyantes et les plus joyeuses du monde.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil du 20 janvier",
+            "text": "La nuit de la Tamborrada commence à minuit le 19 sur la Konstituzio Plaza : toute la ville bat du tambour jusqu'au matin. Ne prévoyez pas de dormir — préparez vos oreilles et la capacité de votre estomac au cidre."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "Dans cette ville, 'que manger' signifie 'par où commencer' : classiques de comptoir, plats en vogue et rituels centenaires – le tout à distance de marche.",
+      "local_word": {
+        "word": "Gilda",
+        "pronunciation": "heel-da",
+        "definition": "La légende considérée comme le premier pintxo : anchois, olive et piment guindilla sur un cure-dent. Nommé d'après le film de Rita Hayworth – décrit comme 'salé, vert et un peu épicé'. C'est le coup d'envoi de chaque tournée."
+      },
+      "items": [
+        {
+          "icon": "🍢",
+          "name": "Commencez par une gilda",
+          "description": "Le trio sur cure-dent : anchois, olive, guindilla. Un verre de txakoli en accompagnement – le coup de sifflet officiel de la tournée. L'équilibre salé-acide-piquant prépare le palais pour le voyage.",
+          "tag": "Au premier bar · avec du txakoli",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Vallés+San+Sebastián"
+        },
+        {
+          "icon": "🍳",
+          "name": "La surveillance de la tortilla",
+          "description": "L'omelette aux pommes de terre de certains bars arrive sur le comptoir deux fois par jour et disparaît en quelques minutes : centre coulant, oignon caramélisé. Demandez l'heure de 'sortie' et rejoignez la veillée – dans cette ville, la tortilla est une affaire sérieuse.",
+          "tag": "À l'heure de sortie · centre coulant",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar+Néstor+San+Sebastián"
+        },
+        {
+          "icon": "🥩",
+          "name": "Txuleta — le steak basque",
+          "description": "Issue de bétail mature, coupée épaisse, saisie sur les braises et rouge à l'intérieur : le sommet de la culture bovine basque. Disponible à toutes les échelles, du pintxo à la portion complète – si vous ne l'aimez pas saignante, précisez-le au début.",
+          "tag": "Sur les braises · saignant est la tradition",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Urola+San+Sebastián"
+        },
+        {
+          "icon": "🐟",
+          "name": "La maîtrise de l'anchois et de la morue",
+          "description": "Anchois de Cantabrie sur toast beurré, morue (bakalao) en sauce pil-pil : les deux fiertés de la côte. Poussez vers Getaria et la légende du turbot (rodaballo) grillé au charbon vous attend.",
+          "tag": "Classique côtier · en sauce pil-pil",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar+Txepetxa+San+Sebastián"
+        },
+        {
+          "icon": "🧀",
+          "name": "Le cheesecake façon La Viña",
+          "description": "Le cheesecake basque, brûlé à l'extérieur et crémeux à l'intérieur, est né dans le vieux quartier de cette ville et a conquis le monde : dégustez l'original là où tout a commencé, à température ambiante. Un xérès doux est l'accompagnement classique.",
+          "tag": "Là où il est né · à température ambiante",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Viña+San+Sebastián"
+        },
+        {
+          "icon": "🍎",
+          "name": "Le cidre et le rituel du txotx",
+          "description": "Au sagardotegi, le tonneau est ouvert, vous faites la queue au cri de 'txotx !', le verre tenu en biais : le cidre forme sa mousse en plein air. Pendant la saison de janvier à avril, le menu est fixe – omelette, morue, txuleta, noix.",
+          "tag": "Jan–Avr · dans un sagardotegi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sagardotegi+Astigarraga"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Stratégie de tournée de pintxos",
+        "text": "La tournée de pintxos a trois règles : une spécialité par bar, de petites boissons (un zurito de bière, un txikito de vin), un itinéraire d'au moins quatre bars. Ne vous contentez pas du comptoir froid – celui qui commande à la carte chaude joue dans la division supérieure."
+      }
+    },
+    "hidden_gems": {
+      "title": "Coins Cachés",
+      "intro": "Tout le monde voit La Concha ; ces six-là sont les coulisses de Donostia.",
+      "items": [
+        {
+          "rarity": "L'orgue du vent",
+          "name": "Peine del Viento",
+          "description": "Les sculptures 'Peigne du Vent' de Chillida sont ancrées dans les rochers à l'extrémité d'Ondarreta : par temps de tempête, les soufflards sous elles soufflent comme un orgue et les vagues éclatent sur la pierre. Le point où la ville a marié l'art à la nature.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Peine+del+Viento+San+Sebastián"
+        },
+        {
+          "rarity": "Une plage insulaire dans la baie",
+          "name": "Île Santa Clara",
+          "description": "Un service de bateau fonctionne en été vers la petite île au milieu de la baie : une mini-plage, un bar insulaire et un angle inversé sur La Concha. Si vous êtes ambitieux, nagez-y — le classique estival des habitants.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Isla+Santa+Clara+San+Sebastián"
+        },
+        {
+          "rarity": "Le balcon des vagues",
+          "name": "La boucle du Paseo Nuevo",
+          "description": "La corniche au niveau de la mer encerclant Urgull : méditation les jours calmes, théâtre des vagues par temps de tempête. Regarder de grosses vagues sans être trempé demande de l'habileté — commencez par le coin de l'aquarium.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Paseo+Nuevo+San+Sebastián"
+        },
+        {
+          "rarity": "Une capsule temporelle sur la colline",
+          "name": "Le parc d'attractions du Monte Igueldo",
+          "description": "Le parc d'attractions au sommet de la colline datant de 1912 : le chemin de fer en bois 'montagne suisse' serpente le long du bord de la falaise avec La Concha étendue en contrebas. L'une des associations les plus gracieuses au monde entre nostalgie et vue.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Monte+Igueldo+San+Sebastián"
+        },
+        {
+          "rarity": "L'étage inférieur du marché",
+          "name": "Les étals du marché de la Bretxa",
+          "description": "Dans le marché de la vieille ville, poissonniers et bouchers côtoient les chefs : filets d'anchois, fromage Idiazabal et champignons de saison. La matière première des pintxos est choisie ici.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercado+de+la+Bretxa+San+Sebastián"
+        },
+        {
+          "rarity": "Culture surf à l'embouchure de la rivière",
+          "name": "Zurriola au coucher du soleil",
+          "description": "La plage de Gros se remplit de silhouettes de surfeurs en fin d'après-midi : derrière les vagues, les cubes du Kursaal brillent. Venez sans serviette, appuyez-vous sur la balustrade — observez l'heure la plus jeune de la ville.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Playa+de+Zurriola+San+Sebastián"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "L'ordre des vues",
+        "text": "Ne regroupez pas les trois points de vue en une seule journée : gardez Urgull pour le coucher du soleil, Igueldo pour le matin et le Peine del Viento pour une heure de tempête ou de forte houle. La même baie révèle trois villes entièrement différentes."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Donostia est une ville de saveurs authentiques ; ses pièges sont rares, mais ils guettent le voyageur impréparé.",
+      "items": [
+        {
+          "icon": "🍢",
+          "name": "S'asseoir dans un seul bar et manger un menu",
+          "description": "Le visiteur voit le premier comptoir, prend une table et se rassasie : le vrai jeu de la ville – la chasse aux spécialités de bar en bar – ne commence jamais.",
+          "instead": "Restez debout : un pintxo + une petite boisson par bar, puis continuez. Un bar bondé avec des serviettes par terre est bon signe ; un bar vide avant 13h est normal, le soir c'est un avertissement."
+        },
+        {
+          "icon": "💶",
+          "name": "Prendre au comptoir sans compter",
+          "description": "Le comptoir ouvert fonctionne sur la confiance : à la sortie, on vous demande combien de pintxos vous avez pris. Celui qui oublie de compter – ou pense 'ils n'ont pas vu' – gâche le plaisir du système pour tout le monde.",
+          "instead": "Gardez le compte et déclarez honnêtement à la sortie ; en cas de doute, empilez vos assiettes. Les commandes chaudes sont de toute façon mises sur une note – pas de confusion là."
+        },
+        {
+          "icon": "⭐",
+          "name": "Le rêve Michelin sans réservation",
+          "description": "Les tables étoilées de la ville sont complètes des mois à l'avance ; le rêve d'y entrer sans réservation laisse votre soirée sans plan.",
+          "instead": "Si une étoile est l'objectif, réservez des mois à l'avance ; sinon, ne vous lamentez pas – la gastronomie de comptoir de cette ville surpasse les menus étoilés de la plupart des pays. Les menus du midi sont la porte dérobée à prix juste vers les cuisines étoilées."
+        },
+        {
+          "icon": "🏖️",
+          "name": "Arriver sans plan en août",
+          "description": "Semana Grande et la saison balnéaire se superposent : hôtels complets, prix au plus haut, La Concha serviette contre serviette.",
+          "instead": "Si août est inévitable, réservez votre logement tôt et devenez un lève-tôt de la plage ; si vous êtes flexible, choisissez septembre – la même mer, la moitié de la densité, l'ambiance festival en prime."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "À Donostia, pas besoin de chasser la bonne cuisine – trouver de la mauvaise est le plus difficile ; néanmoins, laissez votre boussole être : une foule locale, des serviettes par terre et une liste de 'coups de cœur' manuscrite au mur. Là où les trois se rencontrent, entrez les yeux fermés."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Une dose complète de Donostia, de la baie au comptoir",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Le Paseo de La Concha",
+              "description": "Une promenade matinale sur la balustrade blanche : la baie est calme, la lumière douce. Entrez dans la vieille ville après la mairie et prenez votre café sur la place."
+            },
+            {
+              "time": "10:30",
+              "title": "L'ascension de l'Urgull",
+              "description": "Montez le sentier sur la colline derrière la vieille ville : remparts, la statue et la baie vue d'en haut. Descendez par la corniche du Paseo Nuevo — les vagues vous tiennent compagnie."
+            },
+            {
+              "time": "13:00",
+              "title": "La première tournée de pintxos",
+              "description": "Commencez par une gilda, assistez à la préparation de la tortilla, commandez une perle de la carte chaude : trois bars, trois spécialités, un zurito et un txakoli en accompagnement."
+            },
+            {
+              "time": "16:00",
+              "title": "Ondarreta et le Peine del Viento",
+              "description": "Marchez le long de la promenade jusqu'à l'extrémité de la baie : observez le dialogue entre la vague et le fer au Peigne du Vent de Chillida. Une pause plage sur le chemin du retour est permise."
+            },
+            {
+              "time": "18:30",
+              "title": "Le funiculaire d'Igueldo",
+              "description": "Montez dans la cabine en bois : l'angle carte postale de La Concha et la fête foraine centenaire. Tandis que la lumière du coucher de soleil dore la baie, vous êtes au-dessus."
+            },
+            {
+              "time": "20:30",
+              "title": "La tournée du soir et un final au cheesecake",
+              "description": "Une deuxième tournée de pintxos : txuleta et anchois cette fois. Terminez dans le vieux quartier avec un cheesecake brûlé + un xérès doux — une journée à Donostia se scelle ainsi."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Ville, vagues et la côte basque",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Donostia Classique",
+              "description": "Le parcours d'un jour ci-dessus : promenade, Urgull, tournées de pintxos, Igueldo, cheesecake."
+            },
+            {
+              "time": "Day 2",
+              "title": "Gros et saveurs plus profondes",
+              "description": "Une leçon de surf ou une matinée plage à Zurriola ; des pintxos modernes dans les jeunes bars de Gros à midi ; le soir, soit une réservation étoilée, soit le rituel du sagardotegi (si c'est la saison) — les deux extrêmes sont légitimes."
+            },
+            {
+              "time": "Day 3",
+              "title": "Une escapade sur la côte basque",
+              "description": "Getaria le matin : le port de pêche et le turbot grillé au charbon ; la côte de Zarautz ou la vieille ville colorée de Hondarribia l'après-midi ; une dernière gilda au retour — l'adieu est une tradition."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de survie en 5 mots",
+      "intro": "L'espagnol fonctionne partout, mais trois mots de basque ouvrent des sourires de l'autre côté du comptoir.",
+      "items": [
+        {
+          "word": "Kaixo",
+          "pronunciation": "kai-sho",
+          "meaning": "Bonjour (Basque) — dites-le en entrant dans le bar ; ça fait toute la différence"
+        },
+        {
+          "word": "Eskerrik asko",
+          "pronunciation": "es-keh-rik as-ko",
+          "meaning": "Merci beaucoup (Basque) — long, mais l'effet est garanti"
+        },
+        {
+          "word": "Por favor / Mesedez",
+          "pronunciation": "por fah-vor / meh-seh-des",
+          "meaning": "S'il vous plaît — l'espagnol fonctionne partout, le basque est un geste"
+        },
+        {
+          "word": "Topa!",
+          "pronunciation": "toh-pa",
+          "meaning": "Santé ! (Basque) — au moment où le verre de txakoli se lève"
+        },
+        {
+          "word": "Agur",
+          "pronunciation": "ah-goor",
+          "meaning": "Au revoir (Basque) — dit en partant ; ça ferme la porte en beauté"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Checklist de Saint-Sébastien",
+      "completion_message": "Topa ! Vous avez exploré la capitale du pintxo comme il se doit !",
+      "items": [
+        {
+          "label": "Commencez la tournée avec une gilda",
+          "sub": "Anchois + olive + guindilla, accompagné de txakoli"
+        },
+        {
+          "label": "Faites une tournée d'au moins quatre bars",
+          "sub": "Une spécialité par bar — pas de place assise"
+        },
+        {
+          "label": "Attrapez une tortilla fraîchement sortie",
+          "sub": "Demandez l'heure ; elle disparaît en quelques minutes"
+        },
+        {
+          "label": "Promenez-vous sur le paseo de La Concha",
+          "sub": "Le long de la balustrade blanche, en fin d'après-midi"
+        },
+        {
+          "label": "Admirez la baie depuis l'Urgull",
+          "sub": "Une ascension gratuite, dorée au coucher du soleil"
+        },
+        {
+          "label": "Prenez le funiculaire en bois jusqu'à l'Igueldo",
+          "sub": "Depuis 1912 — l'angle de la carte postale"
+        },
+        {
+          "label": "Écoutez les vagues au Peine del Viento",
+          "sub": "Le Peigne du Vent de Chillida"
+        },
+        {
+          "label": "Mangez le cheesecake brûlé là où il est né",
+          "sub": "À température ambiante, avec du xérès"
+        },
+        {
+          "label": "Goûtez la txuleta cuite sur les braises",
+          "sub": "Saignant est la tradition — coupe épaisse"
+        },
+        {
+          "label": "Participez au rituel du txotx si c'est la saison",
+          "sub": "Janv.–Avril, dans une sagardotegi"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Giethoorn",
+    "country": "Netherlands",
+    "language": "de",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#4A7E3A",
+    "color_light": "#ECF4E7",
+    "tagline": "Das autofreie Dorf: Kanäle, Reetdächer und Flüsterboote"
+  },
+  "pills": [
+    "Das Venedig des Nordens",
+    "Keine Autostraßen im alten Dorf",
+    "Ein Kanalnetz aus 176 Holzbrücken"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Giethoorn",
+      "intro": "In Giethoorn ist die Hauptstraße ein Kanal, der Gehweg ein Fußpfad, die Garage ein Bootsschuppen: Boote, nicht Autos, legen an den Häusern des alten Dorfes an. Die reetgedeckten Bauernhäuser stehen seit Jahrhunderten auf ihren Garteninseln, und selbst die Post wurde einst mit einem Stocherkahn zugestellt. Die Touristenmassen verursachen mittags Kanalverkehr, aber am frühen Morgen ist das Dorf nichts als Entenrufe und das Plätschern von Rudern. Steigen Sie in ein Flüsterboot und senken Sie Ihre Stimme zusammen mit dem Gashebel – dieses Dorf ist ein Denkmal der Langsamkeit.",
+      "local_word": {
+        "word": "Fluisterboot",
+        "pronunciation": "flow-ster-boat",
+        "definition": "'Flüsterboot': die nahezu geräuschlosen elektrischen Mietboote. Das offizielle Fortbewegungsmittel auf Giethoorns Kanälen – der Name ist auch die Regel: flüstern, gleiten, nicht eilen."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Fahren Sie das Boot langsam und nach den Regeln",
+          "description": "Die Kanäle sind eng und der Mittagsverkehr reell: Halten Sie sich rechts, fahren Sie langsam unter den Brücken hindurch, halten Sie Abstand zu festgemachten Booten und Entenfamilien. Wenn Sie zum ersten Mal am Ruder sind, nehmen Sie die Kurzeinweisung ernst – die Kanaletikette ist die Verfassung des Dorfes."
+        },
+        {
+          "number": 2,
+          "title": "Dies ist ein lebendiges Dorf, kein Museum",
+          "description": "In den meisten reetgedeckten Häusern leben Menschen: Betreten Sie die Gärten nicht, drücken Sie keine Kameras an Fenster, picknicken Sie nicht auf den Rasenflächen. Schauen Sie vom Weg aus, machen Sie Ihr Foto, lassen Sie die Stille hinter sich."
+        },
+        {
+          "number": 3,
+          "title": "Bleiben Sie über Nacht und erleben Sie das wahre Dorf",
+          "description": "Die Tagesausflügler ziehen sich bis 16:30 Uhr zurück und Giethoorn kehrt zu sich selbst zurück: leere Kanäle im Abendlicht, Frühstück allein mit den Enten im Morgennebel. Eine Übernachtung ist das wahre Ticket für dieses Dorf."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚆",
+          "label": "Anreise",
+          "value": "~2 Std. von Amsterdam",
+          "sub": "Zug nach Steenwijk + Bus 70"
+        },
+        {
+          "icon": "🛶",
+          "label": "Im Dorf",
+          "value": "Boot + zu Fuß + Fahrrad",
+          "sub": "Keine Autostraßen im alten Dorf"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Niederländisch",
+          "sub": "Jeder spricht fließend Englisch"
+        },
+        {
+          "icon": "🌉",
+          "label": "Markenzeichen",
+          "value": "176 Holzbrücken",
+          "sub": "Jedes Haus besitzt seine Brücke"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Die Giethoorn-Philosophie",
+        "text": "In diesem Dorf lautet das Programm ein einziges Wort: gleiten. Gleiten Sie im Boot, gleiten Sie auf dem Pfad, gleiten Sie über Ihre Kaffeetasse. Wer eilt, verpasst Giethoorns einzige wahre Sehenswürdigkeit – die Stille."
+      }
+    },
+    "transport": {
+      "title": "Fortbewegung",
+      "intro": "Giethoorn erreichen Sie mit Zug und Bus; innerhalb des Dorfes sind drei Fortbewegungsmittel erlaubt: Boot, Fahrrad und die eigenen Füße.",
+      "items": [
+        {
+          "icon": "🚆",
+          "title": "Anreise von Amsterdam",
+          "description": "Mit dem Zug nach Steenwijk (ca. 1 Std. 40 Min. mit Umsteigen), dann bringt Sie der Bus 70 in 15 Minuten ins Dorf: Steigen Sie mit einer OV-chipkaart oder kontaktlosen Karte ein und an der Haltestelle 'Dominee Hylkemaweg' aus. Wenn Sie mit dem Auto anreisen, parken Sie es auf den Parkplätzen am Ortseingang."
+        },
+        {
+          "icon": "🛶",
+          "title": "Ein Flüsterboot mieten",
+          "description": "Die Elektroboote werden stundenweise vermietet und erfordern keinen Führerschein: eine kurze Einweisung + eine Karte + ein Lächeln genügen. Mieten Sie in der ersten Stunde – das Steuern auf leeren Kanälen ist ein Vergnügen; im Mittagsverkehr ist es ein Geduldsspiel."
+        },
+        {
+          "icon": "🛶",
+          "title": "Kanu und SUP – die Ruhe selbst",
+          "description": "Paddelboote sind die freieste Form auf den Kanälen: Sie erreichen die engen Seitenkanäle und das Seeufer, bevor es jedes Motorboot tut. Die Schilfkorridore des Weerribben-Wieden Parks mit dem Kanu zu erkunden, ist eine andere Welt."
+        },
+        {
+          "icon": "🚲",
+          "title": "Dorf und See mit dem Fahrrad",
+          "description": "Die Wege entlang der Kanäle und die Runde um den Bovenwijde See sind flach und herrlich: Radeln Sie zum Nachbardorf Dwarsgracht und entdecken Sie ein zweites, menschenleeres Giethoorn."
+        },
+        {
+          "icon": "🚶",
+          "title": "Zu Fuß – von Brücke zu Brücke",
+          "description": "Der Hauptweg (Binnenpad) führt in 45 Minuten von einem Ende des Dorfes zum anderen: Gehen Sie unter den 176 Brücken hindurch und blicken Sie von ihnen herab. Der Weg ist schmal – geben Sie Radfahrern Vorrang, betreten Sie die Gärten nicht."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bootstipp",
+        "text": "Mieten Sie Ihr Boot nicht im Dorfzentrum, sondern an den nördlichen oder südlichen Anlegestellen: kürzere Warteschlange, ruhigerer Start. Fahren Sie die Route rückwärts – während alle zum Dorf fahren, steuern Sie den See an und erkunden das Dorf auf dem Rückweg."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "Unterkünfte in Giethoorn sind rar und begehrt: ein Haus am Kanal, Seeblick oder die Ruhe des Nachbardorfes?",
+      "local_word": {
+        "word": "Punter",
+        "pronunciation": "pun-ter",
+        "definition": "Giethoorns traditionelles flachbodiges Holzboot: Jahrhundertelang transportierte es Heu, Milch und sogar Trauerzüge. Es wird mit einer Stange gestakt – einige Handwerker bauen sie noch, und das Gleiten im Punter zeigt das Dorf von seiner edelsten Seite."
+      },
+      "items": [
+        {
+          "name": "Binnenpad — das Zentrum am Kanal",
+          "badge": "Am ikonischsten",
+          "badge_type": "vibe",
+          "description": "Reetgedeckte Pensionen und Mini-Hotels am Hauptkanal: Boote gleiten an Ihrem Fenster vorbei, und das morgendliche Dorf gehört Ihnen. Tagsüber ist der Weg belebt – die abendliche Stille ist Ihre Belohnung.",
+          "tags": [
+            "Am Kanal",
+            "Reetdächer",
+            "Morgenstille"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Binnenpad+Giethoorn"
+        },
+        {
+          "name": "Das nördliche Ende — um den Noorderpad",
+          "badge": "Am ruhigsten",
+          "badge_type": "local",
+          "description": "Das Ende, wo der Touristenstrom dünner wird: Häuser mit großen Gärten, Miet-Kanalhäuser und ansässige Enten. Fünf Minuten mit dem Boot zum Zentrum, eine Viertelstunde zu Fuß.",
+          "tags": [
+            "Das ruhige Ende",
+            "Gartenhäuser",
+            "Boot zum Zentrum"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Noorderpad+Giethoorn"
+        },
+        {
+          "name": "Das Ufer des Bovenwijde-Sees",
+          "badge": "Beste Aussicht",
+          "badge_type": "hot",
+          "description": "Wasserhäuser und Ferienbungalows am See: Sonnenaufgang vom eigenen Steg, und die abendliche SUP-Tour beginnt direkt vor Ihrer Tür. Der Klassiker für Familien und Bootsliebhaber.",
+          "tags": [
+            "Seeblick",
+            "Eigener Steg",
+            "Sonnenaufgang"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bovenwijde+lake"
+        },
+        {
+          "name": "Dwarsgracht und Jonen",
+          "badge": "Am verstecktesten",
+          "badge_type": "local",
+          "description": "Die Mini-Dörfer nebenan entlang des Kanals: Giethoorns touristenfreie Zwillinge. Die Unterkünfte beschränken sich auf einige private Pensionen – für Ruhesuchende; ein Fahrrad ist unerlässlich.",
+          "tags": [
+            "Touristenfreier Zwilling",
+            "Absolute Stille",
+            "Mit dem Fahrrad verbunden"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dwarsgracht"
+        },
+        {
+          "name": "Steenwijk und die Bauernhofunterkünfte",
+          "badge": "Praktische Basis",
+          "badge_type": "value",
+          "description": "Die Bahnstadt Steenwijk und die Bauernhof-Pensionen dazwischen: freundliche Preise, das Dorf 15 Minuten mit dem Bus entfernt. Sinnvoll, um Giethoorn mit dem umliegenden Park zu verbinden.",
+          "tags": [
+            "Bahnanschluss",
+            "Faire Preise",
+            "Bauernhof-Frühstück"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Steenwijk"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Wann reisen",
+      "intro": "Giethoorn verändert sich mit den Jahreszeiten: blühende Grachten im Frühling, Bootsaison im Sommer und im Winter – mit etwas Glück – ein Märchen auf Schlittschuhen.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Blühende Grachten",
+          "months": "Apr – Jun",
+          "subtitle": "Frühling · Gärten blühen, Menschenmassen noch gering",
+          "description": "Die Garteninseln schmücken sich mit Tulpen und Iris, und die Grachtenränder erstrahlen im frischesten Grün. Die Bootsaison hat begonnen, aber der Mittagsverkehr bleibt unter dem Sommerniveau – die Saison des Gleichgewichts.",
+          "callout": {
+            "type": "tip",
+            "label": "Mai-Tipp",
+            "text": "Mieten Sie das erste Boot an einem Maimorgen: Gärten in voller Blüte, Grachten wie Spiegel, leere Brücken. Sie haben Ihre Tour beendet und sich auf einer Café-Terrasse niedergelassen, bevor die Mittagsmenge eintrifft."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Haupt-Bootsaison",
+          "months": "Jul – Aug",
+          "subtitle": "Sommer · Volle Grachten, lange Abende",
+          "description": "Der Sommer bringt Schönheit und Menschenmassen zusammen: Mittags wird die Hauptgracht zu einem Bootskonvoi. Die Formel ist einfach – Dorf am Morgen und Abend, See oder die Schilfkorridore des Parks am Mittag.",
+          "callout": {
+            "type": "warning",
+            "label": "August-Hinweis",
+            "text": "Bleiben Sie zwischen 11 und 16 Uhr von der Hauptgracht fern: Steuern Sie Ihr Boot zum See oder in Weerribben-Wieden – in den Schilflabyrinthen gibt es keine Menschenmassen. Heben Sie das Dorffoto für nach 17 Uhr auf."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Nebelige Spiegel",
+          "months": "Sep – Nov",
+          "subtitle": "Herbst · Kupferfarbene Blätter, stille Gewässer",
+          "description": "Die Bäume färben sich kupferfarben, der Morgennebel hüllt die Grachten ein, die Menschenmassen ziehen sich zurück. Dies ist die Saison der Fotografen – Boote können noch gemietet werden, und die Terrassen halten mit Decken durch.",
+          "callout": {
+            "type": "tip",
+            "label": "Oktober-Tipp",
+            "text": "Spazieren Sie den Binnenpad entlang, wenn sich der Oktobernebel lichtet: Die Reetdächer erscheinen eines nach dem anderen aus dem Weiß und die Gracht ist wie Glas. Das märchenhafteste Bild des Dorfes entsteht zu dieser Stunde."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Die Chance auf Eis",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Ein stilles Dorf, seltene Schlittschuhtage",
+          "description": "Im Winter bleibt das Dorf seinen Bewohnern überlassen: Einige Geschäfte schließen und die Grachten werden still. Wenn starker Frost kommt, geschieht ein seltenes Wunder – Schlittschuhlaufen auf den zugefrorenen Grachten, Hollands ältester Traum.",
+          "callout": {
+            "type": "tip",
+            "label": "Eis-Hinweis",
+            "text": "Wenn die Grachten zufrieren, sagen Sie alles ab und kommen Sie: Einheimische gleiten auf Schlittschuhen unter den Brücken hindurch und das Dorf wird zu einem Gemälde des 17. Jahrhunderts. Es ist selten, es schafft es in die Nachrichten – wenn es passiert, verpassen Sie es nicht."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Giethoorns Küche vereint klassische holländische Dorfspezialitäten mit dem Vergnügen von Kanalterrassen: Pfannkuchen, frischer Seefisch und Käseplatten.",
+      "local_word": {
+        "word": "Pannenkoek",
+        "pronunciation": "pah-nen-kook",
+        "definition": "Die riesige Form des holländischen Pfannkuchens: Hundert Sorten, von süß bis herzhaft, bedecken den Teller. Giethoorns Pfannkuchenhäuser am Kanal sind die offizielle Pause der Dorftour – einer reicht oft für zwei."
+      },
+      "items": [
+        {
+          "icon": "🥞",
+          "name": "Pannenkoek am Kanal",
+          "description": "Riesige Pfannkuchen von Schinken-Käse bis Apfel-Zimt: auf einer Terrasse sitzen und den Booten beim Gleiten zusehen. Die Stroop-Flasche (Sirup) gehört fest auf den Tisch – seien Sie großzügig.",
+          "tag": "Terrassenklassiker · mit Stroop",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pannenkoekenhuis+Giethoorn"
+        },
+        {
+          "icon": "🐟",
+          "name": "Seefisch und gebratener Zander",
+          "description": "Der Zander (Snoekbaars) aus dem Bovenwijde und den umliegenden Seen ist der lokale Stolz der Speisekarten: in Butter gebraten, dazu Kartoffeln. Kibbeling (frittierte Fischstücke) ist der Dauerklassiker.",
+          "tag": "Der lokale Fang · in Butter",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Giethoorn+lake+fish"
+        },
+        {
+          "icon": "🧀",
+          "name": "Käseplatten und Hofprodukte",
+          "description": "Bauernkäse von jungem Gouda bis gereiftem Boerenkaas, mit Senf und Essiggurken: auch in Dorfläden als Picknickproviant erhältlich. Ein Käsebrot für die Bootstour einzupacken, ist Tradition.",
+          "tag": "Vom Bauernhof · picknickfreundlich",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=cheese+shop+Giethoorn"
+        },
+        {
+          "icon": "🍟",
+          "name": "Patat und Bitterballen",
+          "description": "Eine knusprige Tüte Pommes und Bitterballen mit flüssigem Kern: die Konstanten des holländischen Snackens. Bitterballen zu einem Terrassenbier ist die ungeschriebene Regel.",
+          "tag": "Snack-Klassiker · mit Senf",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Giethoorn+snackbar"
+        },
+        {
+          "icon": "🍰",
+          "name": "Eine Apfelkuchen-Pause",
+          "description": "Zimtapfelkuchen gekrönt mit Schlagsahne: der Schaufensterklassiker der Cafés mit Kanalblick. Mit Kaffee – 'koffie met appeltaart' – ist es das offizielle Menü des holländischen Nachmittags.",
+          "tag": "Nachmittagsritual · mit Schlagsahne",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Giethoorn+canal+cafe"
+        },
+        {
+          "icon": "🍺",
+          "name": "Lokales Bier und Terrassenzeit",
+          "description": "Die Blonden und Tripels der Region treffen die Abendsonne auf den Kanalterrassen: Das erste Bier nach dem Anlegen gehört dem Kapitän. Niemals ohne ein 'Proost!' trinken.",
+          "tag": "Nach dem Anlegen · mit Proost",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grand+Café+Fanfare+Giethoorn"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die Terrassenregel",
+        "text": "Die Terrassen an den belebtesten Brückenköpfen werden mittags überfüllt und hektisch: Gehen Sie eine Brücke weiter oder wählen Sie die Cafés am Seeufer. Derselbe Pannenkoek, ruhigeres Wasser, längeres Vergnügen."
+      }
+    },
+    "hidden_gems": {
+      "title": "Verborgene Winkel",
+      "intro": "Jeder kennt den Hauptkanal; diese sechs zeigen das verborgene Gesicht von Dorf und Marsch.",
+      "items": [
+        {
+          "rarity": "Der touristenfreie Zwilling",
+          "name": "Dwarsgracht und Jonen",
+          "description": "Zwei Mini-Dörfer entlang des Nachbarkanals: dieselben Reetdächer, dieselben Brücken, null Menschenmassen. Mit dem Fahrrad oder Boot erreichbar – wer Giethoorn sehen möchte, wie es vor fünfzig Jahren war, kommt hierher.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jonen+Netherlands"
+        },
+        {
+          "rarity": "Ein Labyrinth aus Schilf",
+          "name": "Weerribben-Wieden National Park",
+          "description": "Europas größtes Tieflandmoor beginnt direkt hinter dem Dorf: Schilfkorridore, Seerosen und Reiherkolonien. Mit dem Kanu hinein – der Park beginnt dort, wo der Motorenlärm endet.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Weerribben-Wieden+National+Park"
+        },
+        {
+          "rarity": "Das Gedächtnishaus des Dorfes",
+          "name": "Museum 't Olde Maat Uus",
+          "description": "Das Leben Giethoorns vor einem Jahrhundert in einem alten Bauernhaus: Torfstechen, Punterbau und der Alltag im Kanaldorf. Die herzlichste Art zu verstehen, warum das Dorf so ist, wie es ist.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Museum+t+Olde+Maat+Uus+Giethoorn"
+        },
+        {
+          "rarity": "Der Sonnenaufgangssteg",
+          "name": "Bovenwijde's eastern shore",
+          "description": "Die nach Osten ausgerichteten Stege des Seeufers werden im Morgennebel golden: Nehmen Sie Ihren Kaffee mit, setzen Sie sich auf die Planken, grüßen Sie die Entenkolonne. Die beste halbe Stunde des Tages vergeht hier, bevor das Dorf erwacht.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bovenwijde+Giethoorn"
+        },
+        {
+          "rarity": "Die Handwerkerbank",
+          "name": "Die Punterwerft",
+          "description": "Die Werft, wo die traditionellen flachbödigen Punter noch von Hand gebaut werden: der Geruch von Holzspänen und eine jahrhundertealte Technik. Wenn die Tür offen steht, sagen Sie Hallo – die Bootsbauer lieben es, über ihr Handwerk zu sprechen.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=punter+werf+Giethoorn"
+        },
+        {
+          "rarity": "Eine Lektion im Staken",
+          "name": "Eine klassische Puntertour",
+          "description": "Das traditionelle Boot, das statt mit Motor mit einer Stange geschoben wird: Der Guide erzählt Dorfgeschichten, während Sie mit Geschwindigkeit des 19. Jahrhunderts gleiten. Noch leiser als das Flüsterboot – das edelste Transportmittel des Dorfes.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Giethoorn+punter+tour"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Kanu-Tipp",
+        "text": "Nehmen Sie sich einen halben Tag Zeit für eine Kanutour in Weerribben-Wieden: Die markierten Wasserwege öffnen sich von Schilftunneln zu spiegelglatten Seen, mit Reihern als Begleitung. Je belebter das Dorf wird, desto kostbarer wird die Stille des Parks."
+      }
+    },
+    "traps": {
+      "title": "Touristenfallen",
+      "intro": "Giethoorns Falle ist nicht böser Wille, sondern die falsche Uhrzeit und unerfahrene Bootsführung.",
+      "items": [
+        {
+          "icon": "🕚",
+          "name": "Kollision mit der Mittags-Touristenwelle",
+          "description": "Zwischen 11 und 16 Uhr füllen Reisebusse das Dorf: Der Hauptkanal wird zur Bootswarteschlange, der Binnenpad zum Selfie-Korridor.",
+          "instead": "Den Plan umkehren: Das Dorf vor 9 Uhr oder nach 16:30 Uhr, See und Park zur Mittagszeit. Wer über Nacht bleibt, begegnet dieser Falle überhaupt nicht."
+        },
+        {
+          "icon": "🚤",
+          "name": "Das Chaos der unerfahrenen Kapitäne",
+          "description": "Erstmalige Bootsfahrer verkeilen sich im Mittagsverkehr unter den Brücken; Stöße, Geschrei und Kratzer an Gartenmauern sind die klassische Szene.",
+          "instead": "Lernen Sie das Boot auf einem leeren Morgenkanal kennen und meiden Sie den Mittagsansturm; an engen Brücken geben Sie demjenigen Vorfahrt, der bereits drin ist. Unsicher? Nehmen Sie einen Stocherkahn oder eine geführte Tour – gleiche Freude, null Stress."
+        },
+        {
+          "icon": "🏡",
+          "name": "Die Gärten als Fotoset behandeln",
+          "description": "Das Posieren in den Gärten der Reetdachhäuser strapaziert die Geduld der Dorfbewohner jedes Jahr ein wenig mehr; einige Gärten sind jetzt mit Ketten und Schildern versehen.",
+          "instead": "Fotografieren Sie vom Weg und von der Brücke aus – die besten Winkel sind sowieso dort. Wenn der Besitzer im Garten ist, sagen Sie Hallo; ein erbetenes Foto ist immer schöner als ein einfach gemachtes."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Das überstürzte Menü auf der Brückenkopf-Terrasse",
+          "description": "Die Terrassen an den belebtesten Brücken schalten mittags auf 'schnellen Touristenservice' um: hohe Preise, abgelenkter Service, eine Warteschlange im Blickfeld.",
+          "instead": "Gehen Sie eine Brücke weiter oder wählen Sie die Cafés am Seeufer; essen Sie Ihren Pannenkoek auf einer ruhigen Terrasse und beobachten Sie den Entenverkehr statt den Bootsverkehr."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Goldene Regel",
+        "text": "In Giethoorn liegt das Beste von allem abseits der Menschenmassen: die frühe Stunde, der abgelegene Steg, das Nachbardorf, das Schilflabyrinth. Wo immer die Menge strömt, gleiten Sie den anderen Wasserarm hinauf."
+      }
+    },
+    "itinerary": {
+      "title": "Vorgefertigte Routen",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Abläufen. Die Zeiten sind flexibel; bewahren Sie den Geist, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Ein Kanaltag vom nebligen Morgen bis zur abendlichen Stille",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Der Morgenrundgang auf dem Binnenpad",
+              "description": "Gehen Sie den Hauptweg von Ende zu Ende, bevor das Dorf erwacht: Reetdächer, leere Brücken und ein spiegelnder Kanal – die Postkarten werden zu dieser Stunde gemacht."
+            },
+            {
+              "time": "10:00",
+              "title": "Eine Flüsterbootstour",
+              "description": "Mieten Sie ein Boot an einem entfernten Anleger und fahren Sie zuerst zum See: Gewöhnen Sie sich auf dem offenen Wasser des Bovenwijde an Ihre Kapitänsrolle, gleiten Sie dann auf dem Rückweg durch die Dorfkanäle."
+            },
+            {
+              "time": "13:00",
+              "title": "Eine Pfannkuchenpause",
+              "description": "Ein riesiger Pfannkuchen + Kaffee auf einer ruhigen Kanalterrasse: Seien Sie großzügig mit dem Sirup, beobachten Sie die Boote."
+            },
+            {
+              "time": "14:30",
+              "title": "'t Olde Maat Uus",
+              "description": "Hören Sie die Torf- und Punter-Geschichte des Dorfes im Museumshaus: Sobald Sie die Geschichte der Ansicht kennen, sehen die Brücken anders aus."
+            },
+            {
+              "time": "16:00",
+              "title": "Mit dem Rad nach Dwarsgracht",
+              "description": "Mit dem Fahrrad zum touristenfreien Zwillingsdorf: dieselbe Schönheit, keine Menschenmassen. Eine Pause am See auf dem Rückweg."
+            },
+            {
+              "time": "19:00",
+              "title": "Das Abenddorf und Abschied",
+              "description": "Die Tagesausflügler sind weg – das Dorf ist wieder ein Dorf: eine letzte Brückenschleife im Abendlicht, dann Fisch oder eine Käseplatte am Kanal. Proost!"
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Dorf, Marsch und Wasser – ein Rückzugsort der Langsamkeit",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Klassisches Giethoorn",
+              "description": "Der oben beschriebene Eintagesablauf: Morgenweg, Boot, Pfannkuchen, Museum, Zwillingsdorf."
+            },
+            {
+              "time": "Day 2",
+              "title": "Ein Weerribben-Wieden-Tag",
+              "description": "Morgens mit dem Kanu ins Schilflabyrinth: Wasserwege, Reiher und Seerosenfelder; ein Picknick-Mittagessen; ein Blick auf die Punter-Werft bei der Rückkehr und Sonnenuntergang von einem Seeanleger."
+            },
+            {
+              "time": "Day 3",
+              "title": "Die Umgebung und Abschied",
+              "description": "Mit dem Fahrrad zum alten Hafenplatz von Blokzijl oder zur Burgstadt Vollenhove; ein Fischteller zum Mittagessen; eine letzte Flüsterbootstour zurück im Dorf – der Abschied wird vom Ruderschlag begleitet."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Dein 5-Wörter-Überlebenskit",
+      "intro": "Man muss kein Niederländisch können, aber diese fünf Wörter zaubern garantiert ein Lächeln auf die Gesichter – ob auf der Brücke oder im Boot.",
+      "items": [
+        {
+          "word": "Hallo / Goedemorgen",
+          "pronunciation": "hah-lo / khoo-de-mor-khen",
+          "meaning": "Hallo / Guten Morgen — Grüßen auf dem Weg gehört zum guten Ton im Dorf."
+        },
+        {
+          "word": "Dank je wel",
+          "pronunciation": "dank yuh vel",
+          "meaning": "Danke — die formelle Version lautet 'dank u wel'."
+        },
+        {
+          "word": "Alsjeblieft",
+          "pronunciation": "ahl-shuh-bleeft",
+          "meaning": "Bitte / Hier, bitte schön — der Pfannkuchen-Teller kommt damit auf den Tisch."
+        },
+        {
+          "word": "Proost!",
+          "pronunciation": "prohst",
+          "meaning": "Prost! — Blickkontakt, wenn das Bier auf der Terrasse erhoben wird."
+        },
+        {
+          "word": "Rustig aan",
+          "pronunciation": "rus-tikh ahn",
+          "meaning": "'Immer mit der Ruhe, langsam' — das gemeinsame Motto für den Kanalverkehr und die Dorfphilosophie."
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Giethoorn Checkliste",
+      "completion_message": "Proost! Du hast das autofreie Dorf richtig erlebt!",
+      "items": [
+        {
+          "label": "Gleite in einem Flüsterboot durch die Grachten",
+          "sub": "In der ersten Stunde – wenn sie noch leer sind"
+        },
+        {
+          "label": "Spaziere im Morgennebel über den Binnenpad",
+          "sub": "Wenn die Reetdächer eins nach dem anderen auftauchen"
+        },
+        {
+          "label": "Halte auf mindestens einer der 176 Brücken an",
+          "sub": "Fahre darunter hindurch, schau von oben"
+        },
+        {
+          "label": "Iss einen Pannenkoek auf einer Grachtenterrasse",
+          "sub": "Großzügigkeit mit dem Stroop ist gefragt"
+        },
+        {
+          "label": "Paddel ins Schilflabyrinth",
+          "sub": "Weerribben-Wieden – die motorfreie Zone"
+        },
+        {
+          "label": "Erlebe die Stille von Dwarsgracht",
+          "sub": "Der touristenfreie Zwilling – mit dem Fahrrad"
+        },
+        {
+          "label": "Lerne das Dorf im 't Olde Maat Uus kennen",
+          "sub": "Torf, Punter und ein Jahrhundert zuvor"
+        },
+        {
+          "label": "Begrüße den Sonnenaufgang von einem Seeanleger aus",
+          "sub": "Kaffee + die Entenkolonne"
+        },
+        {
+          "label": "Sieh – oder besteige – einen Punter",
+          "sub": "Der mit der Stange geschobene Dorfklassiker"
+        },
+        {
+          "label": "Übernachte im abendlichen Dorf",
+          "sub": "Wenn die Tagesausflügler weg sind, gehört es dir"
+        }
+      ]
+    }
+  }
+}

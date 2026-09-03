@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Santorini",
+    "country": "Greece",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2456A6",
+    "color_light": "#E9F0FB",
+    "tagline": "Villages blancs sur la crête du volcan, vignes en contrebas, le coucher de soleil à l'horizon."
+  },
+  "pills": [
+    "La vue sur la caldeira pardonne tout",
+    "L'Assyrtiko est l'un des grands vins blancs du monde",
+    "Le coucher de soleil n'est pas le monopole d'Oia"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Santorin",
+      "intro": "Lorsque le ferry entre dans la caldeira, la vue vous prend au dépourvu : des villages blancs éparpillés comme de la neige sur le rebord de murs de lave de trois cents mètres. Santorin vit au bord d'un volcan explosé — son sol est noir, son vin vif, son coucher de soleil mondialement célèbre. Oui, c'est bondé ; oui, c'est cher. Mais au moment où vous vous asseyez pour la première fois au bord de la caldeira, toute objection s'éteint. L'art est de trouver la place du village aussi bien que la carte postale.",
+      "local_word": {
+        "word": "Meraki",
+        "pronunciation": "meh-RAH-kee",
+        "definition": "Faire quelque chose avec son âme : le mot grec intraduisible. De l'artisan qui blanchit à la chaux les maisons de la caldeira à la main à la tante qui mijote du fava pendant des heures — le meraki est le secret de survie de Santorin."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "N'emprisonnez pas le coucher de soleil à Oia",
+          "description": "Le château d'Oia est bondé au crépuscule. Le même soleil se couche depuis Imerovigli, depuis Pyrgos, depuis le phare d'Akrotiri — et là, vous trouverez de l'air à respirer et une pierre pour vous asseoir."
+        },
+        {
+          "number": 2,
+          "title": "Ne descendez pas la caldeira à dos d'âne",
+          "description": "Les promenades à dos d'âne sur les marches du vieux port sont une misère pour les animaux ; le débat éthique est clos. Il y a un téléphérique, et la marche est gratuite — photographiez les ânes, ne les surchargez pas."
+        },
+        {
+          "number": 3,
+          "title": "Vérifiez les mots 'vue sur la caldeira' avant de réserver",
+          "description": "La vue qui double le prix est parfois à peine aperçue derrière le toit d'un voisin. Demandez de vraies photos et l'orientation de la chambre avant de réserver ; le côté sans vue est moitié prix et étonnamment charmant."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Comment s'y rendre",
+          "value": "Vol ou ferry",
+          "sub": "45 min d'Athènes · ferry 5–8 h"
+        },
+        {
+          "icon": "🚌",
+          "label": "Sur l'île",
+          "value": "Bus centraux à Fira",
+          "sub": "Toutes les lignes rayonnent depuis Fira"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Grec",
+          "sub": "Anglais sans effort dans le tourisme"
+        },
+        {
+          "icon": "🌋",
+          "label": "Signature",
+          "value": "La caldeira",
+          "sub": "Héritage de l'éruption de 1600 av. J.-C."
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Santorin",
+        "text": "La chose la plus chère sur cette île est une table avec vue ; la plus précieuse est un mur de pierre avec une. La seconde est gratuite — avec un Assyrtiko de supermarché et du fromage, vous construisez vous-même le meilleur restaurant du monde."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "L'île est petite mais ses routes sont étroites et son mois de juillet est bondé ; le plan de transport décide du plaisir de la journée.",
+      "items": [
+        {
+          "icon": "⛴️",
+          "title": "Arrivée — port et aéroport",
+          "description": "Les ferries accostent à Athinios ; la montée est une route sinueuse nécessitant un bus ou un transfert. L'aéroport est à 15 minutes de Fira. Pour les deux, organisez les transferts estivaux à l'avance — les taxis sont rares."
+        },
+        {
+          "icon": "🚌",
+          "title": "Bus KTEL — hub à Fira",
+          "description": "Toutes les lignes rayonnent depuis le terminal de Fira : Oia, Perissa, Akrotiri, le port. Bon marché et fréquents mais bondés en été ; évitez les heures de pointe avec de gros bagages."
+        },
+        {
+          "icon": "🚗",
+          "title": "Louer une petite voiture",
+          "description": "Le moyen de se déplacer librement ; mais les routes sont étroites et se garer à Oia et Fira est un défi. Choisissez une petite voiture et respectez les virages éclairés la nuit."
+        },
+        {
+          "icon": "🚠",
+          "title": "Téléphérique et les marches de la caldeira",
+          "description": "Le téléphérique relie le vieux port et Fira en quelques minutes ; l'escalier de 587 marches est un entraînement pittoresque. Ne faites pas de balades à dos d'âne."
+        },
+        {
+          "icon": "🥾",
+          "title": "La randonnée Fira–Oia le long de la caldeira",
+          "description": "Le meilleur 'transport' de l'île : 10 km le long du bord de la caldeira, 3–4 heures. Il passe par Imerovigli et Skaros ; chronométré pour atteindre Oia au coucher du soleil, il devient une légende."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Avertissement Quad",
+        "text": "Les quads sont un classique de l'île avec une statistique d'accidents élevée sur les routes étroites ; si vous en louez un, le casque est non négociable et la conduite de nuit est votre zone interdite."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Santorin, la question de l'hébergement se résume à deux mots : la caldeira, ou pas ? Les deux peuvent être la bonne réponse.",
+      "local_word": {
+        "word": "Yposkafo",
+        "pronunciation": "ee-POS-kah-fo",
+        "definition": "Une maison troglodyte creusée dans la roche volcanique : l'essence de l'architecture de Santorin. Frais, silencieux et voûté — dormir dans un yposkafo, c'est vivre l'île de l'intérieur."
+      },
+      "items": [
+        {
+          "name": "Oia",
+          "badge": "Le plus emblématique",
+          "badge_type": "vibe",
+          "description": "Le village aux dômes bleus, aux moulins à vent et à ce fameux coucher de soleil : le classique de la lune de miel. Les prix sont à leur apogée, les ruelles sont bondées le jour ; mais posséder Oia à 7h du matin n'a pas de prix.",
+          "tags": [
+            "Dômes bleus",
+            "Le coucher de soleil",
+            "Classique lune de miel"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Oia+Santorini"
+        },
+        {
+          "name": "Imerovigli",
+          "badge": "Le plus équilibré",
+          "badge_type": "value",
+          "description": "Le village le plus haut de la caldeira : la vue d'Oia, la proximité de Fira, le silence de la nuit. Le rocher de Skaros à votre porte ; le budget caldeira est souvent dépensé le plus judicieusement ici.",
+          "tags": [
+            "Calme de la caldeira",
+            "Rocher de Skaros",
+            "Le choix intelligent"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Imerovigli+Santorini"
+        },
+        {
+          "name": "Fira",
+          "badge": "Le plus central",
+          "badge_type": "hot",
+          "description": "La capitale de l'île : gare routière, restaurants, vie nocturne et téléphérique. Facilement accessible partout au prix de la foule et du bruit ; une base judicieuse pour les courts séjours.",
+          "tags": [
+            "Pôle de transport",
+            "Vie nocturne",
+            "Tout à portée de main"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fira+Santorini"
+        },
+        {
+          "name": "Pyrgos",
+          "badge": "Le plus authentique",
+          "badge_type": "local",
+          "description": "Un village kastelli perché à l'intérieur des terres : ruelles étroites, portes bleues, vie réelle loin du tourisme de la caldeira. À côté de la région viticole ; prix justes, soirées étoilées.",
+          "tags": [
+            "Ruelles de Kastelli",
+            "Région viticole",
+            "Vie locale"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pyrgos+Santorini"
+        },
+        {
+          "name": "Perissa / Perivolos",
+          "badge": "Côté plage",
+          "badge_type": "value",
+          "description": "Le long rivage de sable noir : bars de plage, écoles de plongée et la moitié des prix de la caldeira. Idéal pour la formule vacances à la plage + excursion d'une journée à la caldeira.",
+          "tags": [
+            "Plage de sable noir",
+            "Bon rapport qualité-prix",
+            "Bars de plage"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Perissa+Santorini"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "À Santorin, la question n'est pas le soleil, mais le nombre de personnes par mètre carré.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "La Caldeira Calme",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Temps de marche, saison d'ouverture",
+          "description": "Température idéale pour le sentier Fira–Oia, les hôtels ouvrent, la foule est encore gérable. La mer se réchauffe en juin ; la lumière pour les photographes est pure.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de mai",
+            "text": "En mai, faites la promenade de la caldeira l'après-midi et entrez dans Oia au coucher du soleil : le plus beau final de la saison."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Haute Saison",
+          "months": "Jul – Aug",
+          "subtitle": "Été · Rues bondées, verres pleins",
+          "description": "L'île à pleine capacité : les places pour le coucher du soleil sont comme des spectacles payants, les restaurants sur réservation. Les amateurs de mers chaudes et de vie nocturne viennent maintenant — avec patience et un budget.",
+          "callout": {
+            "type": "warning",
+            "label": "Avertissement juillet–août",
+            "text": "Parcourir la rue principale d'Oia à l'heure du coucher du soleil est une entreprise de 20 minutes ; installez-vous deux heures à l'avance ou regardez d'un autre point."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Lumière des vendanges",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Mer chaude, foule moins dense",
+          "description": "Septembre est le pic secret de l'île : mer chaude, lumière dorée, vendanges dans les vignobles. Vers fin octobre, l'île reprend son souffle.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de septembre",
+            "text": "En septembre, les dégustations de vin s'ouvrent ; arrivez pendant les vendanges et vous dégusterez parmi les paniers de raisins."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "L'île elle-même",
+          "months": "Dec – Mar",
+          "subtitle": "Hiver · Caldeira vide, ciels dramatiques",
+          "description": "Certains hôtels ferment et l'île retrouve ses habitants : une caldeira orageuse, des chemins vides, des tavernes au coin du feu. Pas pour les amateurs de confort — mais pour ceux qui veulent l'île à nu.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'hiver",
+            "text": "Les nuages d'hiver ne gâchent pas le coucher du soleil, ils le dramatisent ; observer les tempêtes depuis Imerovigli est le luxe le moins connu de l'île."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "Le sol volcanique donne peu d'eau et beaucoup de caractère : la tomate de Santorin est petite, son vin est vif, sa fava est soyeuse.",
+      "local_word": {
+        "word": "Assyrtiko",
+        "pronunciation": "ah-SEER-tee-ko",
+        "definition": "Le cépage blanc du sol volcanique : minéral, acide, un culte mondial. Les vignes sont taillées en forme de panier (kouloura) pour résister au vent — voyez le vignoble avant le verre."
+      },
+      "items": [
+        {
+          "icon": "🍅",
+          "name": "Tomatokeftedes — beignets de tomate",
+          "description": "Les petites tomates intenses de cette terre sèche deviennent des beignets à la menthe et à l'oignon : croustillants à l'extérieur, ensoleillés à l'intérieur. Le mezzé signature de l'île.",
+          "tag": "Mezzé signature · toutes les tavernes",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Metaxi+Mas+Santorini"
+        },
+        {
+          "icon": "🫘",
+          "name": "Fava — à la Santorin",
+          "description": "Les pois cassés jaunes de l'île (protégés par l'AOP) deviennent une purée soyeuse, garnie de câpres, d'oignon et de citron. Simple en apparence, inoubliable au goût.",
+          "tag": "Produit AOP · demander des câpres",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pyrgos+Santorini"
+        },
+        {
+          "icon": "🍆",
+          "name": "L'aubergine blanche",
+          "description": "Douce, sans pépins et cultivée uniquement ici : grillée ou en salade, la star des menus d'été.",
+          "tag": "Exclusivité de l'île · en été",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Emporio+Santorini"
+        },
+        {
+          "icon": "🐟",
+          "name": "Poisson grillé à Ammoudi",
+          "description": "Dans le petit port sous Oia, les tavernes sont au bord de l'eau : le poisson du jour, nappes blanches, falaises rouges. Réservez avant l'heure du coucher du soleil.",
+          "tag": "Baie d'Ammoudi · sur réservation",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ammoudi+Bay+Santorini"
+        },
+        {
+          "icon": "🍷",
+          "name": "Une dégustation de vin",
+          "description": "Santo, Venetsanos, Sigalas : les terrasses de dégustation avec vue sur la caldeira sont les meilleurs 'musées' de l'île. Commencez par l'Assyrtiko, terminez par le doux Vinsanto.",
+          "tag": "Tour de dégustation · finir avec le Vinsanto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santo+Wines+Santorini"
+        },
+        {
+          "icon": "🍮",
+          "name": "Melitinia avec Vinsanto",
+          "description": "Les petites douceurs au fromage nées à Pâques et le vin de raisins séchés au soleil : le doux adieu de l'île.",
+          "tag": "Boulangerie + cave · le goût de l'adieu",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Megalochori+Santorini"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle de la 'taxe sur la vue'",
+        "text": "Une table avec vue sur la caldeira ajoute une 'taxe sur la vue' de cinquante pour cent au dîner. La formule : déjeunez sur une place de village, achetez la vue avec un verre au crépuscule — commandez le coucher de soleil, pas le dîner."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Derrière la carte postale se cache une autre île : calme, volcanique, invisible pour la plupart des visiteurs.",
+      "items": [
+        {
+          "rarity": "La Pompéi de la mer Égée",
+          "name": "Akrotiri Antique",
+          "description": "La ville minoenne ensevelie sous les cendres par l'éruption de 1600 av. J.-C. : maisons à trois étages, fresques, systèmes de drainage. Le site couvert reste frais même en été — la merveille la plus sous-estimée de l'île.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Akrotiri+Archaeological+Site+Santorini"
+        },
+        {
+          "rarity": "La salle du trône de la caldeira",
+          "name": "Rocher de Skaros",
+          "description": "L'ancien rocher de la forteresse accessible par un sentier depuis Imerovigli : 360 degrés de caldeira, un précipice sous les pieds, aucune trace de foule. L'alternative astucieuse à Oia au coucher du soleil.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Skaros+Rock+Santorini"
+        },
+        {
+          "rarity": "Une plage sur la lune",
+          "name": "Vlychada",
+          "description": "Une plage calme sous des falaises de tuf blanc sculptées par le vent : paysage lunaire, peu de monde, et juste à côté un musée industriel dans une ancienne usine de tomates.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vlychada+Beach+Santorini"
+        },
+        {
+          "rarity": "Le labyrinthe du kastelli",
+          "name": "Emporio",
+          "description": "Le cœur médiéval du plus grand village de l'île : passages blancs entrelacés, arches et maisons-forteresses. Densité touristique quasi nulle, valeur photographique infinie.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Emporio+Santorini"
+        },
+        {
+          "rarity": "Le silence de l'autre côté de l'eau",
+          "name": "Therasia",
+          "description": "La mini-île de l'autre côté de la caldeira : Santorin telle qu'elle était il y a cinquante ans. Traversez en bateau depuis Ammoudi, déjeunez dans le village de pierre de Manolas, sentez le temps s'arrêter.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Therasia"
+        },
+        {
+          "rarity": "Coucher de soleil au phare",
+          "name": "Le Phare d'Akrotiri",
+          "description": "Le phare du XIXe siècle à la pointe sud-ouest de l'île : des pierres face à toute la caldeira, le vent, et un coucher de soleil qui est l'exact opposé de la foule d'Oia.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Akrotiri+Lighthouse+Santorini"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil du matin",
+        "text": "Pour le célèbre cadre aux dômes bleus d'Oia, soyez dans le village à 7h du matin : lumière douce, ruelles vides, les dômes sont à vous. Le même cadre à midi est un point selfie avec une file d'attente."
+      }
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Santorin est honnête quant à son coût élevé ; les vrais pièges se situent entre l'attente et la réalité. Connaissez ces quatre-là.",
+      "items": [
+        {
+          "icon": "🌅",
+          "name": "La foule au coucher du soleil au château d'Oia",
+          "description": "Deux heures avant le coucher du soleil, la zone du château devient un lieu de festival ; vous regardez la vue entre les épaules, sur les écrans de téléphone des autres.",
+          "instead": "Skaros, le phare d'Akrotiri, la colline de Pyrgos ou le pont d'un catamaran : le même soleil, avec de l'espace pour respirer."
+        },
+        {
+          "icon": "🐴",
+          "name": "La balade à dos d'âne sur les marches du vieux port",
+          "description": "Les ânes transportant des charges sur des centaines de marches sous la chaleur sont le côté sombre de l'île ; les monter vous en fait partie.",
+          "instead": "Prenez le téléphérique ou montez les marches à pied ; un signe de la main aux ânes suffit."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Les jeux de menu 'Dîner romantique au coucher du soleil'",
+          "description": "Certains restaurants de la caldeira vendent un plat médiocre à des prix multipliés comme un 'menu coucher de soleil' fixe ; la nourriture n'est belle qu'en photo.",
+          "instead": "Lisez le menu et les prix à l'entrée ; ou appliquez la formule — dîner au village, le verre avec la vue."
+        },
+        {
+          "icon": "🏍️",
+          "name": "Le rêve de la visite de l'île en quad bon marché",
+          "description": "Les quads sont en tête des statistiques d'accidents estivaux ; les locations non assurées transforment les éraflures en factures qui assombrissent les vacances.",
+          "instead": "Louez une petite voiture ou combinez bus + taxi ; si un quad est indispensable, une assurance complète et un casque sont le prix d'entrée."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "Quatre-vingt-dix pour cent de la foule de Santorin se trouve à trois endroits : le château d'Oia, la rue principale de Fira, le front de mer de Kamari. Sortez de ce triangle sur la carte, et l'île est à vous."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces itinéraires. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Une journée complète sur le bord de la caldeira",
+          "steps": [
+            {
+              "time": "07:30",
+              "title": "Oia — avant la foule",
+              "description": "Dômes bleus, moulins à vent et ruelles vides : photographiez la carte postale de l'île sous la lumière dorée du matin."
+            },
+            {
+              "time": "09:30",
+              "title": "Descente vers Ammoudi",
+              "description": "Descendez les marches jusqu'au port aux falaises rouges ; bateaux de pêche et café matinal, et une baignade depuis les rochers si vous le souhaitez."
+            },
+            {
+              "time": "11:30",
+              "title": "Akrotiri antique",
+              "description": "Plongez en 1600 av. J.-C. dans la ville minoenne ensevelie sous les cendres ; découvrez la véritable histoire de l'île sous le toit frais."
+            },
+            {
+              "time": "13:30",
+              "title": "Déjeuner au vignoble + dégustation",
+              "description": "Un déjeuner léger dans la région viticole : fava, tomatokeftedes et deux verres d'Assyrtiko. Ne partez pas sans avoir vu les vignes kouloura."
+            },
+            {
+              "time": "16:00",
+              "title": "Pause village à Pyrgos",
+              "description": "Promenez-vous dans les ruelles du kastelli, admirez depuis le sommet de la colline les deux mers ; café sur la place du village."
+            },
+            {
+              "time": "19:00",
+              "title": "Coucher de soleil — en dehors d'Oia",
+              "description": "Asseyez-vous sur une pierre à Skaros ou au phare d'Akrotiri ; tandis que le soleil plonge dans la caldeira, gardez votre verre plein et votre environnement calme."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez l'île en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Jour 1",
+              "title": "Les classiques de la caldeira",
+              "description": "L'itinéraire d'une journée ci-dessus : Oia, Ammoudi, Akrotiri, Pyrgos, coucher de soleil."
+            },
+            {
+              "time": "Jour 2",
+              "title": "Sentier et mer",
+              "description": "La randonnée de la caldeira Fira–Imerovigli–Oia le matin (commencez tôt), le sable noir de Perivolos l'après-midi, des mezze à Fira le soir face à la mer Égée."
+            },
+            {
+              "time": "Jour 3",
+              "title": "L'autre visage du volcan",
+              "description": "Le labyrinthe d'Emporio et la plage lunaire de Vlychada le matin ; en bateau vers Therasia ou l'îlot volcanique l'après-midi ; adieu avec un verre de Vinsanto."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Trois mots de grec ajoutent un sourire à la vue sur la caldeira ; cinq vous transforment d'invité en ami.",
+      "items": [
+        {
+          "word": "Yassas",
+          "pronunciation": "YAH-sas",
+          "meaning": "Bonjour / Au revoir — la salutation formelle et sûre"
+        },
+        {
+          "word": "Efharistó",
+          "pronunciation": "ef-hah-ree-STOH",
+          "meaning": "Merci — semble difficile, mais ça vient au deuxième essai"
+        },
+        {
+          "word": "Parakaló",
+          "pronunciation": "pah-rah-kah-LOH",
+          "meaning": "S'il vous plaît / De rien — le joker grec"
+        },
+        {
+          "word": "Yamas!",
+          "pronunciation": "YAH-mas",
+          "meaning": "Santé ! — Les verres d'Assyrtiko se lèvent à cette occasion"
+        },
+        {
+          "word": "Ti omorfia!",
+          "pronunciation": "tee oh-mor-FYAH",
+          "meaning": "'Quelle beauté !' — cela vous échappera à chaque regard sur la caldeira"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Check-list Santorin",
+      "completion_message": "Yamas ! Vous avez découvert Santorin comme il se doit !",
+      "items": [
+        {
+          "label": "Se promener à Oia à 7h du matin",
+          "sub": "Dômes bleus sur des ruelles vides — la carte postale est à vous"
+        },
+        {
+          "label": "Randonner sur le sentier de la caldeira Fira–Oia",
+          "sub": "10 km, 3–4 heures — la meilleure balade panoramique de l'île"
+        },
+        {
+          "label": "Visiter la ville ensevelie sous les cendres à Akrotiri",
+          "sub": "La Pompéi de la mer Égée — fresques et maisons à trois étages"
+        },
+        {
+          "label": "Déguster de l'Assyrtiko sur une terrasse de vignoble",
+          "sub": "Avec vue sur la caldeira ; terminer avec un Vinsanto"
+        },
+        {
+          "label": "Goûter les meze tomatokeftedes + fava",
+          "sub": "Les deux classiques du sol volcanique"
+        },
+        {
+          "label": "Manger du poisson au bord de l'eau à Ammoudi",
+          "sub": "Sous les falaises rouges, sur réservation"
+        },
+        {
+          "label": "Marcher jusqu'au rocher de Skaros",
+          "sub": "Le chemin depuis Imerovigli — 360 degrés de caldeira"
+        },
+        {
+          "label": "Nager sur le sable noir",
+          "sub": "Perissa/Perivolos — la forme de plage du volcan"
+        },
+        {
+          "label": "Regarder le coucher de soleil depuis l'extérieur d'Oia",
+          "sub": "Phare, Pyrgos ou pont d'un bateau"
+        },
+        {
+          "label": "Se perdre dans le kastelli d'Emporio",
+          "sub": "Le coin médiéval le plus calme de l'île"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Rome",
+    "country": "Italy",
+    "language": "fr",
+    "version": "2.1",
+    "color_primary": "#8B1A1A",
+    "color_light": "#F5E8E8",
+    "tagline": "Trois mille ans d'histoire – et une ville qui appartient encore aux vivants.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Passez devant les pièges à touristes",
+    "Mangez là où il n'y a pas de menu en anglais",
+    "Sortez de la rue principale"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Rome",
+      "intro": "Rome est la ville la plus stratifiée de la planète. Un temple républicain se trouve sous une église médiévale, elle-même sous une place baroque. D'anciens aqueducs courent sous la circulation. Le Forum était un marché aux bestiaux avant de devenir un site archéologique. La plupart des visiteurs passent leur temps à se déplacer entre les monuments phares — le Colisée, le Vatican, la Fontaine de Trevi — et manquent la ville qui vit à l'intérieur et entre eux. La vraie Rome n'est pas un musée. C'est une ville fonctionnelle, chaotique et magnifique de trois millions d'habitants qui déjeunent à 13h30, boivent leur espresso debout et considèrent les ruines qui les entourent comme un décor. La question n'est pas de savoir s'il faut voir le Colisée. C'est ce que vous faites lorsque vous levez les yeux de la carte.",
+      "local_word": {
+        "word": "Aperitivo",
+        "pronunciation": "ah-peh-REE-tee-voh",
+        "definition": "Le rituel de début de soirée avant le dîner — une boisson (Aperol Spritz, Campari, Negroni) prise entre environ 18h00 et 20h00 dans un bar ou sur une place. Pas un repas. Pas une fête. Une décompression de la journée. À Rome, cela se passe en extérieur chaque fois que possible — sur des marches, sur les murs des places, à de petites tables débordant sur les pavés. C'est la meilleure heure de la journée romaine et cela coûte le prix d'une boisson."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Ne jamais manger dans la rue touristique principale",
+          "description": "Chaque quartier touristique de Rome possède une rue principale bordée de restaurants affichant des photos de pâtes et de serveurs vous interpellant depuis la porte. Passez devant tous. Tournez dans une rue latérale, trouvez un endroit sans menu en anglais et sans photo des plats, et mangez-y. Le prix sera plus bas et la nourriture meilleure. C'est l'une des règles les plus fiables à Rome."
+        },
+        {
+          "number": 2,
+          "title": "Espresso au bar, toujours debout",
+          "description": "Un espresso à Rome se boit debout au comptoir du bar, pas assis à une table. S'asseoir double ou triple le prix — vous payez pour la table, pas pour le café. Un espresso debout au bar coûte environ 1 à 1,50 €. Demandez un caffè. Buvez-le en deux gorgées. Partez. C'est ainsi que Rome fonctionne avant 10h du matin."
+        },
+        {
+          "number": 3,
+          "title": "Réservez les grandes attractions à l'avance",
+          "description": "Les Musées du Vatican, la Galerie Borghese et le Colisée nécessitent tous une réservation à l'avance — plusieurs semaines ou mois à l'avance en haute saison. Se présenter sans réservation aux Musées du Vatican en juillet signifie des heures d'attente. La Galerie Borghese n'autorise que des créneaux horaires de deux heures et refuse les visiteurs sans réservation. Réservez avant votre arrivée, pas la veille au soir."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroports",
+          "value": "Fiumicino (FCO) · Ciampino (CIA)",
+          "sub": "FCO : train Leonardo Express 32 min jusqu'à Termini · CIA : bus jusqu'à Termini"
+        },
+        {
+          "icon": "🚌",
+          "label": "Transports",
+          "value": "Bus + tram + métro (2 lignes)",
+          "sub": "Validez le ticket avant de monter · les contrôleurs vérifient régulièrement"
+        },
+        {
+          "icon": "🗺️",
+          "label": "Quartiers",
+          "value": "Trastevere · Testaccio · Monti · Prati",
+          "sub": "Chaque rione a son propre rythme — choisissez judicieusement"
+        },
+        {
+          "icon": "🍝",
+          "label": "Règle du déjeuner",
+          "value": "13:00–15:00 · dîner 20:00–22:00",
+          "sub": "Les restaurants ferment entre les services — n'arrivez pas à 17h00"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Roma Pass — vaut le coup pour deux visites de musée ou plus",
+        "text": "Le Roma Pass couvre le métro et les bus, ainsi que l'entrée gratuite ou à prix réduit dans des musées tels que les Musées du Capitole et le Château Saint-Ange. Versions 48 heures ou 72 heures disponibles. Il ne couvre pas les Musées du Vatican ni la Galerie Borghese — ceux-ci nécessitent une réservation séparée à l'avance. Il vaut la peine si vous prévoyez deux visites de musée ou plus lors d'un court séjour. Remarque : le premier dimanche de chaque mois, tous les musées d'État italiens et sites archéologiques (y compris le Colisée, le Forum et les Thermes de Caracalla) offrent une entrée gratuite dans le cadre du programme Domenica al Museo — mais il n'y a pas de réservation à l'avance, donc les files d'attente peuvent être très longues. Les Musées du Vatican offrent une entrée gratuite le dernier dimanche de chaque mois séparément — un programme différent, et encore plus fréquenté."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Le centre historique de Rome est compact et se découvre idéalement à pied. Les transports en commun comblent les lacunes. Le métro est limité mais utile ; les bus et les tramways couvrent tout le reste.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aéroport de Fiumicino → Centre-ville",
+          "description": "Le train Leonardo Express relie directement Fiumicino à Roma Termini toutes les 30 minutes, en 32 minutes. C'est l'option la plus fiable. Les trains régionaux (FL1) sont plus lents et moins chers, mais s'arrêtent à plusieurs gares. Les taxis de Fiumicino au centre-ville ont un tarif fixe – convenez-en avant de monter. Les applications de transfert privé (Uber Black opère à Rome) sont fiables mais plus chères que le train."
+        },
+        {
+          "icon": "🚇",
+          "title": "Métro — deux lignes, limité mais utile",
+          "description": "Rome ne compte que deux lignes de métro : A (orange) et B (bleue), qui se croisent à Termini. La ligne A dessert le Vatican (Ottaviano), le quartier de Trastevere (via un bus depuis Spagna) et la Place d'Espagne. La ligne B dessert le Colisée (arrêt Colosseo). Le centre historique – Panthéon, Piazza Navona, Campo de' Fiori, Trastevere – n'est pas desservi par le métro. Les billets simples coûtent 1,50 € et sont valables 100 minutes sur tous les transports. Validez avant de monter."
+        },
+        {
+          "icon": "🚌",
+          "title": "Bus et tramways — le véritable réseau",
+          "description": "Le réseau de bus de Rome est étendu mais lent dans la circulation. Les bus 40 et 64 relient Termini au Vatican. Le tram 8 relie Largo Argentina à Trastevere – le tramway le plus utile du centre historique. Le bus 23 longe le Tibre du Vatican vers le sud jusqu'à Testaccio. Le même billet à 1,50 € fonctionne sur tous les services. Téléchargez l'application Moovit ou Google Maps pour les itinéraires en temps réel – les horaires officiels sont plutôt des aspirations."
+        },
+        {
+          "icon": "🚶",
+          "title": "À pied — la seule façon de le voir",
+          "description": "Du Panthéon au Colisée, il faut 25 minutes à pied à travers le Forum. Du Campo de' Fiori à Trastevere, 10 minutes à travers le pont. De la Piazza Navona à la Place d'Espagne, 20 minutes. Le centre historique de Rome est fait pour la marche. Les rues qui comptent – les passages, les cours intérieures, les églises paléochrétiennes cachées derrière des portes discrètes – se trouvent toutes entre les monuments, et non pas directement à eux."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxis — blancs, avec compteur, depuis les stations officielles",
+          "description": "Les taxis officiels de Rome sont blancs et équipés d'un compteur. Prenez-les aux stations de taxis officielles (pas auprès de quiconque vous aborde). De Termini au centre historique, le coût est d'environ 12 à 18 €. Des tarifs fixes s'appliquent pour les trajets vers et depuis les aéroports. Uber Black opère à Rome mais est plus cher que les taxis officiels. N'acceptez jamais de trajets de voitures non marquées ou de chauffeurs qui vous abordent dans les aéroports ou les gares."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tram 8 — le trajet le plus utile de Rome",
+        "text": "Le tram 8 part de Largo Argentina – le site de l'assassinat de César – traverse le Ghetto juif, franchit le Tibre et entre dans Trastevere, pour se terminer à Casaletto. Pour 1,50 €, c'est le trajet simple le plus utile de Rome : du centre antique au quartier le plus atmosphérique de la ville, en moins de 15 minutes. Prenez-le en début de soirée, lorsque la lumière est la plus belle sur le fleuve."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "Les rioni de Rome (quartiers historiques) sont tous distincts. L'endroit où vous dormez définit votre version de la ville.",
+      "local_word": {
+        "word": "Rione",
+        "pronunciation": "ree-OH-neh",
+        "definition": "Une division historique des quartiers de Rome – la ville compte 22 rioni, chacun avec sa propre identité, son marché, son église et son caractère. Le mot vient du latin 'regio'. Trastevere, Testaccio, Monti, Prati et le Ghetto juif sont les rioni qu'il est le plus utile de comprendre avant de réserver. L'endroit où vous séjournez à Rome façonne tout : ce que vous mangez au petit-déjeuner, la distance que vous marchez, si vous vous sentez comme un visiteur ou un résident temporaire."
+      },
+      "items": [
+        {
+          "name": "Trastevere",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "hot",
+          "description": "Le quartier de l'autre côté du Tibre – rues médiévales, façades couvertes de lierre, la scène nocturne la plus connue de la ville, des trattorias présentes depuis des générations, et une véritable communauté résidentielle toujours intacte derrière les rues touristiques. Animé la nuit, calme le matin. Pas d'accès au métro – arrivez par le tram 8 ou le bus, ou traversez la rivière à pied.",
+          "tags": [
+            "Meilleure ambiance nocturne",
+            "Rues médiévales",
+            "Accès Tram 8"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trastevere+Roma"
+        },
+        {
+          "name": "Testaccio",
+          "badge": "Le plus local",
+          "badge_type": "local",
+          "description": "Le quartier gastronomique le plus authentique de Rome – populaire, sans prétention, abritant le meilleur marché de la ville, la meilleure cuisine d'abats d'Italie, et une place où les habitants s'assoient réellement le soir. Aucun sentier touristique ne le traverse. La Pyramide de Cestius se trouve au bout de la rue. Le Cimetière Protestant – où Keats est enterré – est à dix minutes à pied. Excellente connexion métro sur la Ligne B.",
+          "tags": [
+            "Meilleur marché alimentaire",
+            "Entièrement local",
+            "Métro Ligne B"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Testaccio+Roma"
+        },
+        {
+          "name": "Monti",
+          "badge": "Meilleure base",
+          "badge_type": "hot",
+          "description": "Le quartier entre le Colisée et Termini – le quartier central le plus agréable à vivre de Rome. Bars à vin indépendants, trattorias, boutiques vintage, rues pavées et une foule locale qui se mêle aux visiteurs sans être submergée. À distance de marche du Forum, du Colisée et des Thermes de Caracalla. Métro Ligne B à Cavour.",
+          "tags": [
+            "Le plus central",
+            "Meilleurs bars à vin",
+            "Métro Ligne B"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Monti+Roma"
+        },
+        {
+          "name": "Prati",
+          "badge": "Le plus confortable",
+          "badge_type": "local",
+          "description": "Le quartier résidentiel directement au nord du Vatican – rues larges, excellentes boulangeries, bars locaux sans prix touristiques, et un calme rare dans le centre de Rome. Pas atmosphérique au sens de Trastevere, mais extrêmement confortable et bien connecté. La bonne base si le Vatican est la priorité et que vous voulez dormir dans un endroit qui ne ressemble pas à un décor de film.",
+          "tags": [
+            "Près du Vatican",
+            "Calme résidentiel",
+            "Bon rapport qualité-prix"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Prati+Roma"
+        },
+        {
+          "name": "Centro Storico (Centre Historique)",
+          "badge": "Le plus central",
+          "badge_type": "local",
+          "description": "La zone autour du Panthéon, de la Piazza Navona et du Campo de' Fiori – tout est accessible à pied, extraordinaire à l'aube avant l'arrivée des foules, et de plus en plus difficile à recommander pour le prix. Cher, bruyant la nuit, et largement dédié au tourisme. Si vous séjournez ici, utilisez-le comme point de départ et mangez, buvez et passez vos soirées à Trastevere ou Testaccio.",
+          "tags": [
+            "Tout à distance de marche",
+            "Cher",
+            "L'aube est extraordinaire"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Centro+Storico+Roma"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Meilleure période pour visiter",
+      "intro": "Rome n'a pas de mauvaise saison – mais elle se révèle sous des facettes très différentes selon la période de votre arrivée.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "La meilleure saison",
+          "months": "Mar – Mai",
+          "subtitle": "Printemps · Rome à son apogée",
+          "description": "Avril et mai sont les mois où Rome est la plus belle. La glycine fleurit sur les terrasses de la Villa Borghese, la lumière est douce et chaude sans être écrasante, les marchés en plein air sont à leur apogée, et les foules de touristes – bien que présentes – n'ont pas encore atteint leur pic estival. Pâques paralyse la ville et la remplit de pèlerins ; planifiez délibérément autour de cette période ou évitez-la entièrement. Mai est l'un des meilleurs mois pour visiter Rome.",
+          "callout": {
+            "type": "tip",
+            "label": "Roseto Comunale – gratuit en mai",
+            "text": "Le Roseto Comunale, le jardin municipal des roses sur la colline de l'Aventin, n'ouvre au public qu'en mai, lorsque ses 1 100 variétés sont en fleurs. Entrée gratuite. Le jardin est construit sur l'emplacement de l'ancien cimetière juif. Les vues sur le Circus Maximus et le Palatin depuis les terrasses supérieures comptent parmi les meilleures de Rome. Presque personne n'y va."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Chaud et bondé",
+          "months": "Juin – Août",
+          "subtitle": "Été · Préparez-vous ou évitez",
+          "description": "Juin est encore gérable – longues soirées, apéritivo sur chaque piazza, cinéma en plein air à la Villa Borghese. Juillet et août sont vraiment difficiles : 38°C de chaleur, des files d'attente à chaque monument, et une expérience des Musées du Vatican mémorable pour de mauvaises raisons. Les Romains eux-mêmes partent en août – Ferragosto (15 août) vide la ville et ferme de nombreux restaurants. Si vous venez en été, réservez tout des semaines à l'avance, arrivez aux monuments à l'heure d'ouverture et retirez-vous à l'intérieur entre 13h00 et 17h00.",
+          "callout": {
+            "type": "tip",
+            "label": "Estate Romana – programme culturel estival",
+            "text": "De juin à septembre, Rome organise l'Estate Romana – cinémas en plein air, concerts, marchés et événements dans toute la ville, la plupart gratuits ou à faible coût. Le cinéma en plein air sur l'Isola Tiberina (Île Tibérine) est l'une des grandes soirées d'été en Italie – un écran flottant sur le fleuve, avec l'île médiévale en arrière-plan. Consultez le programme sur le site web de Roma Capitale."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Le secret le mieux gardé",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Quand Rome retrouve son âme",
+          "description": "Septembre et octobre sont les meilleurs mois pour visiter Rome pour les voyageurs expérimentés. Les touristes d'été sont partis, la chaleur diminue, la lumière prend une teinte ambrée et basse sur les toits en terre cuite, et la ville retrouve son propre rythme. Les marchés se remplissent de cèpes, d'artichauts et de premières truffes. L'heure de l'apéritivo s'allonge à mesure que les soirées se rafraîchissent. Octobre est peut-être le plus beau mois à Rome.",
+          "callout": {
+            "type": "tip",
+            "label": "Saison des Carciofi – à partir d'octobre",
+            "text": "L'artichaut romain (carciofo romanesco) est de saison à partir d'octobre, et avec lui l'un des grands plats de la ville : les carciofi alla giudia (artichaut frit à la juive), servis dans les restaurants du Ghetto juif qui les préparent depuis des siècles. Commandez-le chez Da Giggetto ou Sora Margherita. Il n'est disponible qu'en saison et vaut la peine de planifier un voyage autour de lui."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Vide et extraordinaire",
+          "months": "Déc – Fév",
+          "subtitle": "Hiver · Rome sans la file d'attente",
+          "description": "Décembre apporte les marchés de Noël sur la Piazza Navona – joyeux, légèrement kitsch, très appréciés. Janvier et février sont les mois les plus calmes de l'année. Les Musées du Vatican n'ont pas de file d'attente. La Galerie Borghese peut être réservée la veille. Le Forum par un matin froid et gris, avec la ville entièrement à vous, est l'une des grandes expériences de voyage disponibles en Europe. Les hôtels sont moins chers. Les restaurants sont réservables. La ville est entièrement elle-même.",
+          "callout": {
+            "type": "tip",
+            "label": "Janvier – le Vatican sans la foule",
+            "text": "En janvier, les Musées du Vatican – normalement l'une des institutions les plus fréquentées au monde – peuvent être visités avec une réservation le jour même ou le lendemain. La Chapelle Sixtine, vue sans 500 personnes pressées contre vous et un garde criant périodiquement au silence, est une expérience véritablement différente. C'est en janvier que les Chambres de Raphaël et la Galerie des Cartes peuvent réellement être appréciées. C'est le bon moment pour visiter le Vatican."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "21 avril",
+          "text": "Natale di Roma : l'anniversaire de la ville – défilés de légionnaires et célébrations en costumes antiques au Circus Maximus."
+        },
+        {
+          "month": "Juin–Septembre",
+          "text": "Estate Romana : cinémas en plein air, stands le long du Tibre et concerts pendant les longues nuits d'été."
+        },
+        {
+          "month": "Octobre",
+          "text": "Rome Film Fest + ottobrata romana : ces journées d'octobre dorées et chaudes que l'été laisse derrière lui – le meilleur temps pour les visites de l'année."
+        },
+        {
+          "month": "Décembre–6 janvier",
+          "text": "Noël et Befana : la Piazza Navona se transforme en marché festif ; le 6 janvier, la sorcière Befana apporte des bonbons aux enfants."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine romaine est la plus ancienne tradition culinaire urbaine en évolution continue du monde occidental – et aussi la plus spécifique. Les ingrédients, les techniques, les coupes de viande, les formes de pâtes et la séquence d'un repas romain sont tous définis par des siècles de tradition. L'objectif n'est pas la fusion. Ce n'est pas l'innovation. C'est un bol de cacio e pepe préparé correctement, dans un restaurant où la grand-mère du cuisinier préparait le même plat.",
+      "local_word": {
+        "word": "Cacio e pepe",
+        "pronunciation": "KAH-cho eh PEH-peh",
+        "definition": "Les pâtes les plus célèbres de Rome — tonnarelli (spaghetti épais) avec du fromage Pecorino Romano et du poivre noir. Trois ingrédients. Pas de crème, pas de beurre (au-delà d'une trace), pas de raccourcis. Un cacio e pepe correct est soyeux, émulsionné, intensément savoureux. Un mauvais est un fromage et des pâtes agglomérés. La différence réside entièrement dans la technique. Si un restaurant propose du cacio e pepe et cinquante autres plats de pâtes, passez votre chemin. Si c'est l'un des quatre plats au menu, asseyez-vous."
+      },
+      "items": [
+        {
+          "icon": "🍝",
+          "name": "Cacio e pepe — le standard romain",
+          "description": "Pecorino Romano, poivre noir, eau de cuisson des pâtes, tonnarelli. Rien d'autre. La version correcte est soyeuse, non agglomérée. Un excellent cacio e pepe est l'une des plus belles choses que l'Italie produit. Commandez-le chez Tonnarello à Trastevere, Da Enzo al 29, ou – si vous pouvez obtenir une réservation – chez Felice a Testaccio. Ne le commandez pas dans un restaurant avec un menu illustré.",
+          "tag": "Tonnarello · Da Enzo al 29 · Felice a Testaccio",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Felice+a+Testaccio+Roma"
+        },
+        {
+          "icon": "🍳",
+          "name": "Carbonara — pas ce que vous croyez",
+          "description": "La carbonara romaine a quatre ingrédients : du guanciale (joue de porc salée et séchée), du Pecorino Romano, du jaune d'œuf et du poivre noir. Pas de crème. Pas de pancetta. Pas de bacon. Pas de parmesan. La version à la crème servie dans les restaurants touristiques d'Europe n'est pas une carbonara ; c'est une approximation conçue pour les personnes qui n'ont jamais goûté la vraie. Une carbonara correcte est riche, onctueuse et légèrement collante. Demandez du guanciale si vous n'êtes pas sûr de ce qu'on vous sert.",
+          "tag": "Guanciale · sans crème · Pecorino Romano",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Roscioli+Roma"
+        },
+        {
+          "icon": "🥩",
+          "name": "Quinto quarto — le cinquième quartier",
+          "description": "La cuisine romaine s'est construite autour du quinto quarto — les abats restants après que les quatre coupes principales soient allées aux riches : tripes (trippa), queue de bœuf (coda alla vaccinara), ris de veau, pâtes aux abats. Ce n'est pas de l'aventurisme du nez à la queue ; c'est le régime alimentaire romain original. La Trippa alla romana (tripes en sauce tomate avec menthe et Pecorino) est servie le samedi dans les trattorias de quartier. La Coda alla vaccinara (queue de bœuf braisée avec tomate, céleri et chocolat noir) est l'un des grands plats mijotés d'Europe. Commandez-la à Testaccio.",
+          "tag": "Samedis · trattorias de Testaccio · trippa alla romana",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Checchino+dal+1887+Roma"
+        },
+        {
+          "icon": "🌸",
+          "name": "Carciofi alla giudia — Artichaut à la juive",
+          "description": "L'artichaut frit du Ghetto juif — ouvert comme une fleur, plongé deux fois dans l'huile chaude jusqu'à ce que les feuilles soient croustillantes et dorées et le cœur tendre. Un plat avec une histoire de près de 500 ans dans les mêmes rues. Servi uniquement en saison (d'octobre au printemps). Les meilleures versions se trouvent chez Da Giggetto et Sora Margherita dans le Ghetto. L'un des plats qui définissent Rome.",
+          "tag": "Ghetto juif · Octobre–printemps · Da Giggetto · Sora Margherita",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nonna+Betta+Roma"
+        },
+        {
+          "icon": "🍕",
+          "name": "Pizza al taglio — à la part",
+          "description": "La pizza romaine n'est pas napolitaine. Elle est fine, à base croustillante, coupée en rectangles, vendue au poids et mangée debout ou en marchant. Une matinée romaine inclut une part de pizza bianca (pain plat simple, huilé et salé) du forno du coin. Les meilleures pizzas al taglio de Rome se trouvent chez Roscioli, Bonci (Pizzarium) et Forno di Campo de' Fiori. C'est le petit-déjeuner, le déjeuner et le snack de fin de soirée parfaits.",
+          "tag": "Roscioli · Bonci Pizzarium · Forno di Campo de' Fiori · vendue au poids",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pizzarium+Bonci+Roma"
+        },
+        {
+          "icon": "☕",
+          "name": "Café — debout, au comptoir",
+          "description": "Un espresso à Rome coûte 1 à 1,50 € au comptoir. S'asseoir double le prix. Le cappuccino est une boisson du matin – en commander un après le déjeuner est compris mais légèrement remarqué. Un macchiato (espresso avec une goutte de lait) est le café local de midi. Sant'Eustachio il Caffè près du Panthéon sert ce que beaucoup considèrent comme le meilleur espresso de Rome. La file d'attente avance vite. Buvez-le debout.",
+          "tag": "Sant'Eustachio il Caffè · 1–1,50 € au comptoir · toujours debout",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sant%27Eustachio+Il+Caffè+Roma"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Mercato Testaccio — le vrai marché romain",
+        "text": "Le marché de Testaccio, dans son bâtiment couvert moderne sur la Via Beniamino Franklin, est le marché alimentaire le plus local du centre de Rome. Les étals vendent de la street food romaine, des fromages artisanaux, du bon vin et les coupes de viande qui définissent la cuisine du quartier. Allez-y un matin de semaine, achetez quelque chose à chaque stand qui vous intéresse et mangez debout au comptoir. C'est ainsi que les Romains ont fréquenté le marché depuis avant la construction du Colisée."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Rome cache ses trésors les plus extraordinaires à la vue de tous — derrière des portes discrètes, sous des églises ordinaires, au bout de rues que chaque touriste traverse sans lever les yeux.",
+      "items": [
+        {
+          "rarity": "La meilleure vue de Rome — à travers un trou de serrure",
+          "name": "Trou de Serrure de l'Aventin (Prieuré des Chevaliers de Malte)",
+          "description": "Sur la colline de l'Aventin, dans le portail du Prieuré des Chevaliers de Malte, se trouve un trou de serrure. Jetez-y un œil et le dôme parfaitement encadré de la Basilique Saint-Pierre apparaît au bout d'une allée de jardin soignée — trois pays visibles à la fois : l'Italie, le jardin de l'Ordre Souverain de Malte et le Vatican. Conçu au XVIIIe siècle par l'architecte et graveur Giovanni Battista Piranesi. L'alignement est peut-être intentionnel ou non — personne n'en a jamais été entièrement certain. Entrée gratuite, accessible à toute heure. File d'attente d'une personne à la fois.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Aventine+Keyhole+Roma"
+        },
+        {
+          "rarity": "Deux mille ans d'histoire empilés dans un seul bâtiment",
+          "name": "Basilique San Clemente — près du Colisée",
+          "description": "À trois minutes du Colisée, une église d'apparence anodine cache l'un des sites stratifiés les plus extraordinaires de Rome. La basilique du XIIe siècle au rez-de-chaussée est magnifique et l'entrée est gratuite. En dessous se trouve une basilique paléochrétienne du IVe siècle avec des fresques médiévales. Encore en dessous, une maison romaine du IIe siècle et un temple mithraïque fonctionnel — vous pouvez encore entendre un ancien ruisseau couler sous terre. L'expérience de descendre à travers vingt siècles dans un seul bâtiment est unique à Rome. Église supérieure gratuite. Fouilles souterraines payantes (10 €), réservation en ligne obligatoire.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Basilica+di+San+Clemente+Roma"
+        },
+        {
+          "rarity": "La collection d'art privée dont le Vatican ne vous parle pas",
+          "name": "Palazzo Doria Pamphilj — Via del Corso",
+          "description": "Sur la Via del Corso, la rue la plus centrale de Rome, une porte mène au plus grand palais privé de la ville — toujours occupé par la famille Doria Pamphilj, dont l'ancêtre a commandé le Portrait du pape Innocent X de Velázquez. La galerie abrite des œuvres de Caravage, Raphaël, Titien et Velázquez. L'audioguide est narré par le Prince Jonathan Doria Pamphilj lui-même. Contrairement au Vatican, il n'y a pas de foule. Contrairement à la Galerie Borghese, il est presque inconnu des visiteurs non italiens. Entrée payante (16 €), réservation à l'avance obligatoire.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palazzo+Doria+Pamphilj+Roma"
+        },
+        {
+          "rarity": "Un quartier de conte de fées construit en une décennie — et entièrement oublié",
+          "name": "Quartiere Coppedè — quartier Trieste",
+          "description": "Entre 1913 et 1926, l'architecte Gino Coppedè a construit un quartier de 26 petits palais et 17 villas dans le quartier de Trieste — une collision d'Art Nouveau, de Baroque, de Gothique et de néo-grec si extrême qu'il ressemble à un décor de film. Guirlandes de pierre drapées, araignées de bronze, arches de conte de fées, ferronneries élaborées. À un arrêt de tramway entier de tout itinéraire touristique. Presque personne n'y va. Entièrement gratuit à parcourir. Entrez par l'arche de la Via Tagliamento.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quartiere+Coppedè+Roma"
+        },
+        {
+          "rarity": "Le plus beau jardin d'orangers de Rome — et l'une de ses meilleures vues",
+          "name": "Giardino degli Aranci — Colline de l'Aventin",
+          "description": "Le Jardin des Orangers sur la colline de l'Aventin est un jardin formel d'orangers amers, de pins parasols et de rosiers, avec une terrasse à une extrémité qui offre l'une des plus belles vues panoramiques de Rome — le dôme de Saint-Pierre au-dessus des toits en terre cuite de la ville et le Tibre en contrebas. Presque entièrement inconnu des visiteurs non italiens. À deux minutes du Trou de Serrure de l'Aventin. Entrée gratuite. Ouvert du matin au coucher du soleil.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Giardino+degli+Aranci+Roma"
+        },
+        {
+          "rarity": "Le lieu de l'assassinat de Jules César — avec une centaine de chats",
+          "name": "Largo di Torre Argentina — Centre Historique",
+          "description": "Au milieu du centre de Rome, entourée par la circulation, une place en contrebas révèle quatre temples de l'époque républicaine des IIIe et IIe siècles av. J.-C. — parmi les plus anciennes ruines visibles de la ville. C'est le site où Jules César fut assassiné le 15 mars 44 av. J.-C. Un refuge pour chats, géré par des bénévoles, abrite plus d'une centaine de chats parmi les ruines. Les chats sont là depuis des générations. Le site archéologique est payant. Les chats peuvent être vus gratuitement depuis le niveau de la rue.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Largo+di+Torre+Argentina+Roma"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Cimetière Protestant — où Keats est enterré",
+        "text": "Le Cimetière Protestant, près de la Pyramide de Cestius à Testaccio, est l'un des plus beaux petits cimetières du monde — cyprès, marbre ancien, chats, et les tombes de John Keats ('Ici repose celui dont le nom fut écrit sur l'eau'), Percy Bysshe Shelley et Antonio Gramsci. Entrée gratuite avec une petite donation volontaire. Ouvert du mardi au dimanche. L'un des rares endroits vraiment calmes du centre de Rome."
+      }
+    },
+    "checklist": {
+      "title": "Checklist de Rome",
+      "completion_message": "Bene! Vous avez trouvé la vraie Rome.",
+      "items": [
+        {
+          "label": "Boire un espresso debout au bar",
+          "sub": "Pas assis. Pas de cappuccino après midi. Debout, 1–1,50 €, deux gorgées. C'est ainsi que Rome commence la journée."
+        },
+        {
+          "label": "Se promener dans le Forum à l'ouverture",
+          "sub": "Avant 9h, quand il n'y a presque personne. La ruine la plus extraordinaire du monde occidental. Payant – achetez vos billets en ligne à l'avance."
+        },
+        {
+          "label": "Regarder à travers le trou de la serrure de l'Aventin",
+          "sub": "Prieuré des Chevaliers de Malte, colline de l'Aventin. Une seule personne en file. Le dôme de Saint-Pierre à travers un trou de serrure. Gratuit, accessible à toute heure."
+        },
+        {
+          "label": "Visiter le Giardino degli Aranci au crépuscule",
+          "sub": "À deux minutes du trou de la serrure. La meilleure vue panoramique de Rome. Entrée gratuite. Ouvert jusqu'au coucher du soleil."
+        },
+        {
+          "label": "Manger un cacio e pepe à Trastevere ou Testaccio",
+          "sub": "Pas dans un restaurant avec un menu illustré. Trois ingrédients, une technique, pas de raccourcis."
+        },
+        {
+          "label": "Prendre le tram 8 du Largo Argentina à Trastevere",
+          "sub": "1,50 €. Validez avant de monter. Le trajet le plus utile du centre de Rome. Prenez-le au crépuscule."
+        },
+        {
+          "label": "Descendre dans la Basilique San Clemente",
+          "sub": "Près du Colisée. Église supérieure gratuite. Fouilles souterraines payantes (10 €) – réservez en ligne à l'avance."
+        },
+        {
+          "label": "Se promener dans le Quartiere Coppedè",
+          "sub": "Arche de la Via Tagliamento, quartier Trieste. 26 palais, 17 villas, zéro touriste. Accès libre."
+        },
+        {
+          "label": "Visiter le Palazzo Doria Pamphilj",
+          "sub": "Via del Corso. Caravage, Velázquez, Raphaël – toujours propriété de la famille. Payant (16 €), réservez à l'avance."
+        },
+        {
+          "label": "Aller au marché de Testaccio un matin de semaine",
+          "sub": "Via Beniamino Franklin. Le marché alimentaire le plus local du centre de Rome. Mangez debout au comptoir."
+        },
+        {
+          "label": "Trouver le Largo di Torre Argentina et observer les chats",
+          "sub": "Site de l'assassinat de Jules César. Chats visibles gratuitement depuis la rue. Le site archéologique est payant."
+        },
+        {
+          "label": "Prendre l'aperitivo sur une piazza à 19h00",
+          "sub": "Spritz ou Negroni. En extérieur si possible. Pas de menu, pas de réservation. La meilleure heure de la journée romaine."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Rome accueille des visiteurs depuis deux mille ans ; son répertoire de pièges est tout aussi ancien. Connaissez ces quatre-là et visitez comme un empereur.",
+      "items": [
+        {
+          "icon": "🛡️",
+          "name": "Photos de 'Gladiateurs' devant le Colisée",
+          "description": "Des gladiateurs costumés exigent un 'pourboire' exorbitant après la photo — et font une scène si vous refusez. La ville l'a interdit ; l'espèce survit.",
+          "instead": "Demandez à un ami de prendre votre photo ; la meilleure vue du Colisée est de toute façon depuis le parc sur la colline de l'Oppius."
+        },
+        {
+          "icon": "📋",
+          "name": "'Menu turistico' et le rabatteur à l'entrée",
+          "description": "Autour du Panthéon et de la Piazza Navona, le 'menu touristique' à prix fixe plus un serveur qui vous invite à entrer équivaut à des pâtes congelées et une addition salée.",
+          "instead": "Ne mangez jamais là où l'on vous invite à entrer ; choisissez des endroits avec un menu court et en italien dans les ruelles de Trastevere, Testaccio et Monti."
+        },
+        {
+          "icon": "🎟️",
+          "name": "Vendeurs de 'coupe-file' devant le Vatican",
+          "description": "Les vendeurs ambulants de 'visites coupe-file' facturent plusieurs fois le prix du billet officiel ; certains billets s'avèrent invalides.",
+          "instead": "Achetez les billets de musée uniquement sur le site officiel, datés et avec un créneau horaire ; pour éviter les files d'attente, prenez le premier créneau du matin ou l'ouverture du vendredi soir."
+        },
+        {
+          "icon": "🚕",
+          "name": "Personnes à Termini vous abordant avec 'taxi ?'",
+          "description": "Les taxis pirates qui vous abordent à la gare commencent par une bonne affaire et finissent par une arnaque.",
+          "instead": "Seuls les taxis officiels blancs et avec compteur ; le trajet aéroport-ville a un tarif fixe — confirmez-le en montant."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "À Rome, à deux pas de n'importe quel monument, c'est toujours moins cher, plus calme et souvent plus beau. Voyez-le sur la place, vivez-le dans la ruelle."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces itinéraires. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Deux mille ans, un jour, de bonnes chaussures",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "Colisée — premier créneau",
+              "description": "Réservez des semaines à l'avance, entrez dès l'ouverture des portes : l'arène sous la lumière du matin, sans la foule, est un autre endroit."
+            },
+            {
+              "time": "10:30",
+              "title": "Forum + Palatin",
+              "description": "Promenez-vous au cœur de l'empire. Pas de précipitation ; se perdre parmi les pierres est l'itinéraire."
+            },
+            {
+              "time": "13:00",
+              "title": "Déjeuner à Monti",
+              "description": "À deux rues du Colisée : cacio e pepe ou pizza al taglio. Un espresso au comptoir, debout."
+            },
+            {
+              "time": "15:00",
+              "title": "Panthéon + Navone",
+              "description": "Observez la lumière à travers l'oculus, puis faites un tour de la Piazza Navona ; pas de siège, une glace à la main."
+            },
+            {
+              "time": "17:30",
+              "title": "Fontaine de Trevi + Escaliers Espagnols au coucher du soleil",
+              "description": "Lancez une pièce par-dessus votre épaule à Trevi, puis l'heure dorée sur les Escaliers."
+            },
+            {
+              "time": "20:00",
+              "title": "Soirée à Trastevere",
+              "description": "Traversez le fleuve, trouvez une trattoria dans une ruelle : carbonara, vin de la maison, longue conversation. C'est ainsi que Rome se termine."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Rome Antique",
+              "description": "L'itinéraire d'un jour ci-dessus : Colisée, Forum, Panthéon, Trastevere."
+            },
+            {
+              "time": "Day 2",
+              "title": "Le Vatican et Prati",
+              "description": "Musées du Vatican et la Chapelle Sixtine au premier créneau du matin, Saint-Pierre à midi ; une pause pizza al taglio à Prati, coucher de soleil sur le pont du Castel Sant'Angelo."
+            },
+            {
+              "time": "Day 3",
+              "title": "Rome cachée et au revoir",
+              "description": "La serrure de l'Aventin + le Jardin des Orangers, le marché de Testaccio à midi, puis à travers les couches de San Clemente l'après-midi, un dîner d'adieu quinto quarto à Testaccio."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "L'italien commence par trois mots ; à Rome, la joie du dialecte local s'y ajoute.",
+      "items": [
+        {
+          "word": "Ciao",
+          "pronunciation": "chow",
+          "meaning": "Salut / Au revoir — à toute heure, à tout le monde"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Merci — court, clair, toujours"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "S'il vous plaît — ajoutez-le à la fin de votre commande"
+        },
+        {
+          "word": "Salute!",
+          "pronunciation": "sah-LOO-teh",
+          "meaning": "Santé ! — les verres se lèvent avec le vin de la maison"
+        },
+        {
+          "word": "Daje!",
+          "pronunciation": "DAH-yeh",
+          "meaning": "Dialecte romain pour 'Allez / C'est parti !' — dites-le une fois et vous êtes à moitié Romain"
+        }
+      ]
+    }
+  }
+}

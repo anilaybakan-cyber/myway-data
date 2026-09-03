@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Fes",
+    "country": "Morocco",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2853A4",
+    "color_light": "#E8EEF8",
+    "tagline": "Le plus grand labyrinthe sans voiture du monde : médina, tanneries et mille ans de savoir."
+  },
+  "pills": [
+    "Le plus grand centre-ville sans voiture du monde",
+    "Berceau de la plus ancienne université",
+    "Un labyrinthe médiéval de 9 400 ruelles"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Fès",
+      "intro": "Fès est la capitale spirituelle et artisanale du Maroc : à l'intérieur des murs de Fes el-Bali, plus de neuf mille ruelles, caravanes d'ânes, marteaux de chaudronniers et la plus ancienne université du monde ont conservé le même rythme pendant un millénaire. Ici, le GPS lève le drapeau blanc tôt – et ce n'est pas un défaut mais une invitation. Perdez-vous : chaque mauvaise bifurcation mène à la cour carrelée d'une médersa, aux cuves de couleur d'une tannerie, ou à une boutique offrant du thé à la mentre. Fès est brute, authentique et intense – si Marrakech est la scène, Fès est la bibliothèque.",
+      "local_word": {
+        "word": "Balak!",
+        "pronunciation": "bah-lak",
+        "definition": "'Attention, faites place !' : lorsque vous entendez ce cri derrière vous dans la médina, écartez-vous – un âne chargé ou une charrette arrive. L'alerte routière millénaire des ruelles étroites de Fès."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Mettez-vous à vous perdre au programme",
+          "description": "Dans les 9 400 ruelles de la médina, vous vous perdrez – ne le craignez pas, embrassez-le. Les artères principales (Talaa Kebira et Talaa Seghira) descendent toujours vers le souk ; marchez en montant et vous atteindrez les portes. Ces deux-là sont votre boussole."
+        },
+        {
+          "number": 2,
+          "title": "Ne croyez pas 'la route est fermée'",
+          "description": "L'accroche classique des guides autoproclamés est 'ce chemin est fermé, je vais vous y emmener' – la route n'est presque jamais fermée. Un 'la, shukran' poli mais ferme et continuez à marcher ; si vous voulez un vrai guide, demandez à votre riad un guide officiel."
+        },
+        {
+          "number": 3,
+          "title": "Le marchandage est un jeu – jouez-y sérieusement",
+          "description": "Au souk, le premier prix est une entrée en matière : commencez à un tiers, continuez avec un sourire, acceptez le thé. N'entamez pas une longue négociation pour quelque chose que vous n'achèterez pas – même le jeu a ses manières."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Fes-Saïss (FEZ)",
+          "sub": "~30 min de la médina en taxi"
+        },
+        {
+          "icon": "🚶",
+          "label": "Dans la médina",
+          "value": "À pied seulement",
+          "sub": "Pas de voitures – beaucoup de transport par âne"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Arabe (Darija) + Français",
+          "sub": "L'anglais de plus en plus courant sur les circuits touristiques"
+        },
+        {
+          "icon": "🕌",
+          "label": "Emblème",
+          "value": "La médina de Fes el-Bali",
+          "sub": "UNESCO – la plus grande du monde"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Fès",
+        "text": "À Fès, créez un rythme, pas un emploi du temps : médersas et souk dans la fraîcheur du matin, repos dans la cour du riad à midi, thé sur les terrasses en fin d'après-midi, dîner après l'appel à la prière. La ville fonctionne sur ce rythme depuis mille ans – celui qui s'adapte gagne."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "La médina se parcourt à pied — il n'y a pas d'autre moyen ; à l'extérieur, les petits taxis rouges et la gare vous attendent.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "De l'aéroport à la médina",
+          "description": "Une demi-heure en taxi : fixez le prix avant de monter ou demandez à votre riad d'organiser un transfert — il est normal que le chauffeur vous dépose à la porte la plus proche et vous décrive le chemin ; les voitures n'entrent pas dans la médina."
+        },
+        {
+          "icon": "🚶",
+          "title": "La médina — la plus grande zone piétonne du monde",
+          "description": "À Fès el-Bali, votre seul véhicule, ce sont vos pieds : ça monte, c'est pierreux et étroit. Des chaussures confortables, des bagages légers et le réflexe 'Balak !' — les trois sont essentiels. Cédez toujours le passage aux ânes de bât et aux charrettes à bras."
+        },
+        {
+          "icon": "🚕",
+          "title": "Petit taxi — les petits rouges",
+          "description": "Entre les portes de la médina, la Ville Nouvelle et les tombeaux mérinides, prenez les taxis rouges : demandez le compteur, et s'il 'ne fonctionne pas', fixez le prix d'abord. Économique et pratique pour les courtes distances."
+        },
+        {
+          "icon": "🚄",
+          "title": "Interurbain en train",
+          "description": "La gare de Fès se trouve dans la Ville Nouvelle : Meknès en une demi-heure, Rabat en trois, Tanger en quatre. Les trains marocains sont confortables et ponctuels — pour Chefchaouen, vous aurez besoin du bus CTM ou d'un grand taxi."
+        },
+        {
+          "icon": "🐴",
+          "title": "Les ânes de bât — les camions de la médina",
+          "description": "Tout, des bouteilles de gaz aux rouleaux de cuir, est transporté par âne et mulet : ce n'est pas du folklore mais un système logistique fonctionnel. Si vous voulez une photo, demandez au propriétaire — la plupart poseront avec le sourire."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil d'orientation",
+        "text": "Lorsque vous êtes perdu dans la médina, ne vous battez pas avec votre téléphone : descendez — toutes les ruelles principales mènent au cœur du souk autour de la Kairaouine. De là, trouver Talaa Kebira, c'est retrouver le chemin de la maison."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Fès, l'hébergement n'est pas une décision mais une expérience : une cour de riad à l'intérieur de la médina, ou le confort moderne à l'extérieur ?",
+      "local_word": {
+        "word": "Riad",
+        "pronunciation": "ree-ad",
+        "definition": "La maison marocaine traditionnelle construite autour d'une cour intérieure : un mur aveugle côté rue, et à l'intérieur, une cour carrelée, une fontaine et un oranger. Les riads de Fès sont le meilleur secret de la ville — franchissez la porte et le chaos de la ruelle prend fin, et le calme commence."
+      },
+      "items": [
+        {
+          "name": "Fès el-Bali — autour de la Talaa",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "vibe",
+          "description": "Chambres de riad au cœur de la médina : souk, médersas et terrasses à votre porte. Un porteur transporte votre valise depuis la porte — le classique pour ceux qui veulent se réveiller au cœur du labyrinthe.",
+          "tags": [
+            "Cours de riad",
+            "Souk à la porte",
+            "Service de porteur"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Talaa+Kebira+Fes"
+        },
+        {
+          "name": "Batha et autour de Bab Boujloud",
+          "badge": "Le plus pratique",
+          "badge_type": "value",
+          "description": "Juste à l'intérieur et à l'extérieur de la porte bleue : un pas vers la médina, deux vers un taxi. Riads et petits hôtels avec un accès facile — pour ceux qui veulent le labyrinthe à petites doses.",
+          "tags": [
+            "La porte bleue",
+            "Près des taxis",
+            "Accès facile"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bab+Boujloud+Fes"
+        },
+        {
+          "name": "Ziat et la médina sud",
+          "badge": "Le plus calme",
+          "badge_type": "local",
+          "description": "Le quartier des grands riads avec jardin, loin de la densité du souk : chant des oiseaux, terrasses tranquilles et odeur du four de quartier. Pour les amateurs de calme au sein de la médina.",
+          "tags": [
+            "Riads avec jardin",
+            "Ruelles calmes",
+            "Vie de quartier"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ziat+Fes+medina"
+        },
+        {
+          "name": "Fès el-Jdid",
+          "badge": "La deuxième histoire",
+          "badge_type": "value",
+          "description": "Le quartier du palais royal et de l'ancien quartier juif, la Mellah : entre les deux médinas, peu de touristes. Une base pour découvrir les couches de Fès une par une.",
+          "tags": [
+            "Portes du palais",
+            "Tissu de la Mellah",
+            "Peu de touristes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fes+el-Jdid"
+        },
+        {
+          "name": "Ville Nouvelle",
+          "badge": "Confort moderne",
+          "badge_type": "value",
+          "description": "La nouvelle ville de l'époque française avec ses boulevards : hôtels avec de grandes chambres, cafés et la gare. Pour ceux qui visitent la médina par doses diurnes et retrouvent le confort moderne la nuit.",
+          "tags": [
+            "Hôtels modernes",
+            "Près de la gare",
+            "Cafés de boulevard"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ville+Nouvelle+Fes"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Fès est une ville intérieure : le printemps et l'automne sont dorés, l'été est une épreuve de chaleur, l'hiver est frais et calme.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "L'équilibre doré",
+          "months": "Mar – May",
+          "subtitle": "Printemps · Jours doux, fleur d'oranger",
+          "description": "La meilleure saison pour la médina : des journées douces, des soirées fraîches, la fleur d'oranger dans les cours des riads. À la fin du printemps, le festival de musique sacrée transforme la ville en une scène mondiale.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de mai",
+            "text": "Si vous coïncidez avec le Festival de Fès des Musiques Sacrées du Monde (généralement mai-juin), organisez votre séjour autour de cet événement : concerts aux portes des palais et dans les jardins historiques — l'âme de la ville monte sur scène."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "L'épreuve de la chaleur",
+          "months": "Jun – Aug",
+          "subtitle": "Été · Midis approchant les 40 degrés",
+          "description": "La chaleur intérieure est intense : la médina ralentit à midi et la vie se déplace vers le matin et le soir. Choisissez un riad avec piscine, organisez le programme tôt — les prix bas sont la consolation.",
+          "callout": {
+            "type": "warning",
+            "label": "Note d'août",
+            "text": "En été, de 11h à 16h, c'est l'heure de l'ombre et des cours : visitez les médersas et la tannerie entre 8h et 10h, reposez-vous au riad à midi, vivez sur les terrasses le soir. Bouteille d'eau et chapeau ne sont pas négociables."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Récolte et lumière",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Soleil doux, saison des olives",
+          "description": "La chaleur diminue, la lumière devient celle des photographes, et la récolte des olives commence dans les villages environnants. Octobre est le mois le plus équilibré de Fès — foules raisonnables, temps agréable.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'octobre",
+            "text": "En octobre, montez aux tombeaux mérinides quarante minutes avant le coucher du soleil : toute la médina se pare d'or à vos pieds, et les appels à la prière résonnent des collines. C'est le meilleur cliché de Fès."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Frais et authentique",
+          "months": "Dec – Feb",
+          "subtitle": "Hiver · Nuits froides, ruelles sans touristes",
+          "description": "Ensoleillé et frais le jour, froid la nuit — les riads sont en pierre, alors renseignez-vous sur un bon chauffage. Les touristes se raréfient et la médina retrouve son quotidien : la saison la plus authentique pour observer les artisans.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de janvier",
+            "text": "L'hiver est le moment idéal pour le hammam : le rituel de gommage et de savon dans un bain public local vous réchauffe et vous plonge dans la vie quotidienne de Fès. Demandez à votre riad — tout le monde connaît les horaires du hammam du quartier."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "Fès est considérée comme la capitale de la cuisine marocaine : le raffinement issu des cuisines des palais côtoie la chaleur des fours de la médina.",
+      "local_word": {
+        "word": "Bissara",
+        "pronunciation": "bee-sah-ra",
+        "definition": "Soupe de fèves : huile d'olive et cumin par-dessus, pain à côté — le classique du petit-déjeuner de la médina qui vous remplit pour une poignée de dirhams. À boire épaule contre épaule avec les locaux au stand du matin."
+      },
+      "items": [
+        {
+          "icon": "🥧",
+          "name": "Pastilla — la couronne sucrée-salée",
+          "description": "Pigeon ou poulet aux amandes et à la cannelle entre de fines feuilles de pâte, sucre glace par-dessus : le chef-d'œuvre de la cuisine de palais de Fès. Le débat sucré-salé s'achève à la première bouchée — c'est les deux.",
+          "tag": "Le classique de Fès · à commander de préférence",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Dar+Hatim+Fes"
+        },
+        {
+          "icon": "🍲",
+          "name": "Tajine et le couscous aux sept légumes du vendredi",
+          "description": "Viandes mijotées sous le couvercle conique, et le couscous aux sept légumes du vendredi : chaque riad a sa propre recette. Trouvez du couscous un vendredi midi et la tradition sera honorée.",
+          "tag": "Couscous du vendredi · avec tradition",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+Clock+Fes"
+        },
+        {
+          "icon": "🍜",
+          "name": "Harira et le petit-déjeuner de la médina",
+          "description": "Soupe harira aux pois chiches et lentilles avec dattes et pâtisserie chebakia : la star du Ramadan, présente sur les étals toute l'année. Avec la bissara, elle forme le duo matinal de la médina.",
+          "tag": "Classique des étals · avec dattes",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bab+Boujloud+food+stalls+Fes"
+        },
+        {
+          "icon": "🫓",
+          "name": "Pain du four de quartier — khobz",
+          "description": "La pâte pétrie à la maison est cuite au four communautaire (ferran) : les enfants portant des plateaux de pain à travers les ruelles sont les coursiers de ce système. Acheter du khobz chaud à la porte du four est autorisé — demandez, souriez, prenez.",
+          "tag": "Chaud du ferran · le système de quartier",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fes+medina+bakery"
+        },
+        {
+          "icon": "🍬",
+          "name": "Thé à la menthe et crépuscule en terrasse",
+          "description": "Le 'whisky marocain' est versé de haut, et la mousse est un point d'honneur : la boisson officielle du marchandage, de l'hospitalité et des terrasses. Buvez-le au coucher du soleil sur la médina — indiquez votre niveau de sucre au début.",
+          "tag": "Sur une terrasse · versé de haut",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fes+medina+rooftop+cafe"
+        },
+        {
+          "icon": "🍢",
+          "name": "Grillades du souk et étals d'olives",
+          "description": "Fumée de brochettes de kefta, poivrons grillés et cent sortes d'olives : la cuisine de midi du souk est l'étal lui-même. L'étal bondé est l'étal frais — rejoignez la file d'attente des locaux.",
+          "tag": "Déjeuner au souk · de l'étal bondé",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Achabine+street+food+Fes"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle de la table",
+        "text": "Les meilleurs dîners de Fès ne sont pas préparés dans les restaurants mais dans les riads : commandez le dîner de ce soir à votre hôte le matin — un tajine fait maison surpasse toujours le menu du souk. Eau en bouteille plutôt que l'eau du robinet, et la règle 'cuit et chaud' pour la nourriture de rue."
+      }
+    },
+    "hidden_gems": {
+      "title": "Coins Cachés",
+      "intro": "Tout le monde connaît la tannerie ; ces six lieux révèlent les couches plus profondes de Fès.",
+      "items": [
+        {
+          "rarity": "Le meilleur balcon de la ville",
+          "name": "La colline des Tombeaux Mérinides",
+          "description": "Depuis les tombes en ruine sur la colline nord, toute la médina apparaît d'un seul coup d'œil : minarets, terrasses et l'écho de l'appel à la prière du soir. Montez avant le coucher du soleil et redescendez lorsque les lumières s'allument – le moyen le plus court de comprendre Fès.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Marinid+Tombs+Fes"
+        },
+        {
+          "rarity": "Le sommet du carrelage et du cèdre",
+          "name": "La Medersa Al-Attarine",
+          "description": "La médersa du XIVe siècle à la porte du souk aux épices : ses carreaux de zellij, son plâtre sculpté et son bois de cèdre sont le summum de l'artisanat. Plus petite que Bou Inania et généralement calme – attardez-vous longtemps dans sa cour.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Al-Attarine+Madrasa+Fes"
+        },
+        {
+          "rarity": "Du caravansérail au musée",
+          "name": "Le Fondouk Nejjarine",
+          "description": "L'ancien caravansérail est devenu un musée des arts du bois : sa cour de trois étages est une œuvre d'art en soi, et la terrasse sur le toit s'ouvre sur le souk. La fontaine carrelée à l'extérieur est l'un des coins les plus photogéniques de la médina.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nejjarine+Museum+Fes"
+        },
+        {
+          "rarity": "Une bouffée de verdure à l'intérieur des murs",
+          "name": "Les Jardins Jnan Sbil",
+          "description": "Le jardin centenaire entre les deux médinas : palmiers, bassins et ombre de bambou. Le remède à l'intensité de la médina – sortez vers Bab Boujloud et vous atteindrez la porte bleue par un couloir vert.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jnan+Sbil+Gardens+Fes"
+        },
+        {
+          "rarity": "Le quartier des potiers",
+          "name": "Les ateliers de poterie d'Ain Nokbi",
+          "description": "Dans le quartier des ateliers en dehors des murs, les céramiques bleu de Fès sont encore façonnées à la main et les maîtres du zellij cisèlent chaque tesselle une par une. Moins connu que la tannerie, il montre l'artisanat de plus près.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ain+Nokbi+pottery+Fes"
+        },
+        {
+          "rarity": "Une bibliothèque millénaire",
+          "name": "Autour de la Kairaouine et de ses portes",
+          "description": "Le cœur de la plus ancienne université du monde est fermé aux non-musulmans, mais à travers les portes qui l'entourent, vous apercevez des cours intérieures, des parties de la bibliothèque restaurée et l'atmosphère d'apprentissage qui imprègne le souk. À Fès, même une porte est une vue.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Al-Qarawiyyin+Fes"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil pour la tannerie",
+        "text": "La tannerie Chouara est visible depuis les terrasses des magasins de cuir : le brin de menthe que l'on vous tend fonctionne réellement contre l'odeur. La terrasse est 'gratuite' mais l'argumentaire de vente vient en sortant – regarder est autorisé, acheter n'est pas obligatoire ; un poli 'la, shukran' suffit."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Les pièges de Fès sont sociaux, pas physiques : quelques phrases mémorisées désamorcent tous les jeux.",
+      "items": [
+        {
+          "icon": "🧭",
+          "name": "Le faux guide et le jeu de la 'route fermée'",
+          "description": "La figure 'serviable' qui apparaît aux portes de la médina déclare le chemin fermé, vous fait tourner en rond et demande finalement un pourboire ou une commission de magasin.",
+          "instead": "Faites comme si vous connaissiez votre chemin, dites 'la, shukran' et continuez. Si vous voulez un guide, demandez à votre riad d'en réserver un officiellement accrédité — prix convenu à l'avance, périmètre clair."
+        },
+        {
+          "icon": "🐪",
+          "name": "La pression de vente sur la terrasse de la tannerie",
+          "description": "Sur la terrasse à 'vue gratuite', une veste vous est drapée, et en sortant, le marchandage intense commence.",
+          "instead": "Dites 'je regarde juste' dès le début, et donnez volontiers un petit pourboire pour la terrasse si vous le souhaitez. Si vous achetez du cuir, le marchandage est de toute façon votre jeu — sinon, descendez sans hésitation."
+        },
+        {
+          "icon": "🚕",
+          "name": "La course en taxi sans compteur",
+          "description": "Certains taxis attendant aux portes de la médina 'oublient' le compteur ; un court trajet se transforme en tarif touristique.",
+          "instead": "Dites 'compteur, afak' (le compteur, s'il vous plaît) ; s'il reste éteint, descendez et prenez le suivant. Demandez à votre riad les tarifs standard de porte à porte à l'avance."
+        },
+        {
+          "icon": "💰",
+          "name": "La spirale des pourboires pour photos et 'cadeaux'",
+          "description": "Le porteur à dos d'âne, le vendeur d'eau, la devanture de magasin — chaque photo peut être suivie d'une demande de pourboire ; le bracelet remis comme 'cadeau' est facturé plus tard.",
+          "instead": "Demandez avant de photographier et considérez le petit pourboire comme naturel — c'est un service. Rendez poliment le 'cadeau' glissé dans votre main ; un sourire + 'la, shukran' est la clé magique de cette ville."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "À Fès, dire 'la, shukran' (non, merci) avec un sourire tout en continuant à marcher est l'antidote à tous les jeux de touristes. Ce n'est pas impoli — cela fait partie des règles, et tout le monde comprend."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Un labyrinthe millénaire de la porte bleue à la tannerie",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Entrée par Bab Boujloud",
+              "description": "Un petit-déjeuner bissara avant la porte bleue, puis descendez Talaa Kebira dans la médina : à l'ouverture des boutiques, la ruelle est à son plus authentique."
+            },
+            {
+              "time": "10:00",
+              "title": "Le tour des médersas",
+              "description": "La cour de Bou Inania, puis le silence carrelé d'Al-Attarine : observez attentivement le zellij, le plâtre et le travail du cèdre."
+            },
+            {
+              "time": "12:00",
+              "title": "Nejjarine et le cœur du souk",
+              "description": "Montez les étages du musée du fondouk et photographiez la fontaine carrelée ; perdez-vous parmi les souks d'épices et de cuivre — tendez l'oreille aux appels Balak."
+            },
+            {
+              "time": "13:30",
+              "title": "Un déjeuner au souk",
+              "description": "Brochettes de kefta ou tajine d'un stand, thé à la menthe en plus : le stand bondé est le stand frais."
+            },
+            {
+              "time": "15:30",
+              "title": "La tannerie Chouara",
+              "description": "Observez les cuves de couleur depuis les terrasses des tanneries : prenez la branche de menthe, prenez votre photo, et ne vous lancez dans le marchandage que si votre cœur y est."
+            },
+            {
+              "time": "18:00",
+              "title": "Le coucher de soleil mérinide",
+              "description": "Montez la colline en taxi : la médina se pare d'or à vos pieds tandis que les appels à la prière résonnent. Dîner au riad — le tajine que vous avez commandé ce matin est prêt."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Ouvrez le labyrinthe couche par couche",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Fès Classique",
+              "description": "Le parcours d'une journée ci-dessus : porte bleue, médersas, souk, tannerie, Mérinides."
+            },
+            {
+              "time": "Day 2",
+              "title": "Palais et artisanat",
+              "description": "Fès el-Jdid le matin : les portes du palais royal et les ruelles à balcons de la Mellah ; une pause dans les jardins de Jnan Sbil à midi ; les ateliers de poterie d'Ain Nokbi l'après-midi ; un rituel hammam + dîner en terrasse le soir."
+            },
+            {
+              "time": "Day 3",
+              "title": "Une journée d'excursion et adieu",
+              "description": "Choisissez votre excursion d'une journée : Volubilis et ses mosaïques romaines + Meknès, ou la ville bleue de Chefchaouen ; derniers achats au souk au retour — une assiette en zellij, des babouches en cuir, un sachet d'épices. Thé d'adieu sur la terrasse."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de survie en 5 mots",
+      "intro": "Cinq mots de Darija adoucissent chaque porte de la médina ; le français est là partout en renfort.",
+      "items": [
+        {
+          "word": "Salam alikoum",
+          "pronunciation": "sah-lam ah-lay-koom",
+          "meaning": "Bonjour — on répond 'wa alikoum salam' ; la salutation qui ouvre les portes"
+        },
+        {
+          "word": "Shukran",
+          "pronunciation": "shook-ran",
+          "meaning": "Merci — 'shukran bezzef' signifie 'merci beaucoup'"
+        },
+        {
+          "word": "La, shukran",
+          "pronunciation": "lah shook-ran",
+          "meaning": "'Non, merci' — la phrase la plus précieuse de la médina ; avec un sourire, en passant"
+        },
+        {
+          "word": "Bshhal?",
+          "pronunciation": "bish-hal",
+          "meaning": "'Combien ?' — le premier pas de la négociation"
+        },
+        {
+          "word": "Bslama",
+          "pronunciation": "bis-lema",
+          "meaning": "Au revoir — quand le thé est fini, l'affaire conclue, la porte atteinte"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Check-list de Fès",
+      "completion_message": "Bslama ! Vous avez exploré le labyrinthe millénaire comme il se doit !",
+      "items": [
+        {
+          "label": "Perdez-vous volontairement dans la médina",
+          "sub": "Chaque ruelle en pente mène au souk"
+        },
+        {
+          "label": "Admirez les deux couleurs de Bab Boujloud",
+          "sub": "Bleu à l'extérieur, vert à l'intérieur – deux portes, un seul cadre"
+        },
+        {
+          "label": "Tenez-vous dans la cour de la Medersa Al-Attarine",
+          "sub": "Le summum du zellige et du travail du cèdre"
+        },
+        {
+          "label": "Observez la tannerie avec un brin de menthe",
+          "sub": "Les terrasses de Chouara – cuves de couleurs"
+        },
+        {
+          "label": "Regardez le coucher de soleil depuis la colline des Mérinides",
+          "sub": "La médina se dore, les appels résonnent"
+        },
+        {
+          "label": "Résolvez l'énigme sucrée-salée de la pastilla",
+          "sub": "Le chef-d'œuvre de la cuisine palatiale de Fès"
+        },
+        {
+          "label": "Faites-vous servir le thé à la menthe versé de haut",
+          "sub": "La mousse est un honneur – mettez le sucre en premier"
+        },
+        {
+          "label": "Achetez du khobz chaud dans un four de quartier",
+          "sub": "Le système ferran – demandez, souriez, prenez"
+        },
+        {
+          "label": "Concluez une négociation autour d'un thé",
+          "sub": "Commencez à un tiers, aimez le jeu"
+        },
+        {
+          "label": "Prenez le rituel du gommage au hammam",
+          "sub": "La porte la plus chaleureuse vers la vie quotidienne de Fès"
+        }
+      ]
+    }
+  }
+}

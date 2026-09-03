@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Sardinia",
+    "country": "Italy",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#0F7E8A",
+    "color_light": "#E5F4F5",
+    "tagline": "Mer d'un bleu caraïbe, montagnes de granit et une île au langage unique."
+  },
+  "pills": [
+    "La Sardaigne sans voiture est une demi-île",
+    "Mer des Caraïbes, âme de berger",
+    "Ajò! — Allons-y"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue en Sardaigne",
+      "intro": "La Sardaigne n'est pas une île, mais un petit continent : des criques bleu caraïbe sur la côte, des montagnes de granit à l'intérieur des terres, des tours de pierre millénaires appelées nuraghi, et une langue distincte de l'italien. Les yachts de la Costa Smeralda sont la vitrine ; la vraie Sardaigne vit dans les villages de bergers, dans le craquement du pain et dans la décontraction des gens qui disent 'ajò' et prennent la route. Ne sous-estimez pas les distances, ne précipitez pas la mer — cette île appartient aux voyageurs lents.",
+      "local_word": {
+        "word": "Ajò",
+        "pronunciation": "ah-YO",
+        "definition": "Sarde pour 'allez, on y va' : l'humeur de l'île en un mot. Vers la mer, vers les montagnes, à table — peu importe ; dites ajò et un Sarde vous considérera comme l'un des siens."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Louez une voiture — sans négociation",
+          "description": "Les transports en commun sont faibles entre les villes côtières ; les criques, nuraghi et villages de montagne ne sont accessibles qu'en voiture. En été, réservez des mois à l'avance ; les voitures automatiques sont vite épuisées."
+        },
+        {
+          "number": 2,
+          "title": "Ne visitez pas l'île depuis une seule base",
+          "description": "Cagliari à Alghero, c'est quatre heures. Établissez des bases séparées pour le nord, l'est et le sud, ou consacrez le voyage à une seule région ; l'ambition de 'tout voir' transforme des vacances en autoroute."
+        },
+        {
+          "number": 3,
+          "title": "Laissez le sable et les coquillages là où ils sont",
+          "description": "Prendre du sable, des galets ou des coquillages sur les plages est illégal et sévèrement amendé ; les valises sont scannées aux aéroports. Pour un souvenir, une photo et une bouteille de mirto suffisent."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Comment s'y rendre",
+          "value": "Vol ou ferry",
+          "sub": "Aéroports de Cagliari, Olbia, Alghero"
+        },
+        {
+          "icon": "🚗",
+          "label": "Sur l'île",
+          "value": "Voiture de location indispensable",
+          "sub": "Longues distances, bus rares"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Italien + Sarde",
+          "sub": "À Alghero, on parle même le catalan"
+        },
+        {
+          "icon": "🏖️",
+          "label": "Caractéristique",
+          "value": "Criques turquoise",
+          "sub": "Les eaux les plus claires d'Europe"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie sarde",
+        "text": "Les Sardes comptent parmi les peuples les plus longévifs de la planète et le secret est simple : peu de hâte, de longues tables, un air marin constant. Considérez chaque journée lente sur l'île comme une dose de cette recette."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "En Sardaigne, le plan commence par une voiture ; le reste consiste à choisir des criques.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arrivée — trois aéroports",
+          "description": "Cagliari est la porte du sud, Olbia du nord-est (Costa Smeralda), Alghero du nord-ouest. Volez vers la région sur laquelle votre itinéraire est basé ; les transferts à travers l'île prennent des heures."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Ferry — amenez votre propre voiture",
+          "description": "Les ferries de nuit depuis Civitavecchia, Livourne et Gênes accostent à Olbia et Cagliari ; amener votre propre voiture peut être plus avantageux que les prix de location estivaux. Réservez la cabine tôt."
+        },
+        {
+          "icon": "🚗",
+          "title": "Voiture de location — la clé de l'île",
+          "description": "Les routes côtières sont pittoresques mais sinueuses, les routes intérieures sont étroites. Faites le plein entre les villages, gardez de la monnaie pour les parkings de plage. Une petite voiture est préférable sur les chemins étroits des criques."
+        },
+        {
+          "icon": "🚆",
+          "title": "Le Trenino Verde et la ligne principale",
+          "description": "La ligne de chemin de fer principale suit l'axe Cagliari–Sassari, lente mais pittoresque ; le 'Trenino Verde' historique à voie étroite n'est pas un moyen de transport mais une excursion en soi."
+        },
+        {
+          "icon": "⛵",
+          "title": "Bateaux vers les criques",
+          "description": "Cala Goloritzé, l'archipel de La Maddalena et la plupart des criques cachées sont mieux accessibles par la mer : des excursions en bateau quotidiennes et la location de gommone (canot pneumatique) sont disponibles partout. Renseignez-vous sur la limite de puissance moteur pour les bateaux sans permis."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Avertissement quota de plage",
+        "text": "Certaines plages célèbres (La Pelosa, Tuerredda, le sentier de Goloritzé) appliquent des quotas de visiteurs en été avec réservation en ligne ; vérifiez la veille et allez-y tôt le matin."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "En Sardaigne, 'où séjourner' signifie en réalité 'quelle Sardaigne' : cinq régions, cinq types de vacances différents.",
+      "local_word": {
+        "word": "Stazzu",
+        "pronunciation": "STAH-tsoo",
+        "definition": "La ferme en pierre de la région de la Gallura : la plupart sont aujourd'hui des agritourismes. Séjourner dans un stazzu, c'est dormir dans la Sardaigne pastorale, à dix minutes de la mer."
+      },
+      "items": [
+        {
+          "name": "Cagliari — capitale du sud",
+          "badge": "La plus urbaine",
+          "badge_type": "value",
+          "description": "Le quartier de la citadelle de Castello, la longue plage du Poetto et une vraie vie citadine : les vols sont faciles, les restaurants pleins, et les criques du sud (Chia, Villasimius) sont accessibles en excursion d'une journée. Le point de départ le plus judicieux pour une visite de l'île.",
+          "tags": [
+            "Quartier de Castello",
+            "Plage du Poetto",
+            "Base pour le sud"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cagliari"
+        },
+        {
+          "name": "Alghero — le balcon catalan",
+          "badge": "La plus pittoresque",
+          "badge_type": "vibe",
+          "description": "Une vieille ville fortifiée avec un passé catalan et une tradition de l'artisanat du corail : coucher de soleil sur les remparts au crépuscule, une excursion en bateau vers la Grotte de Neptune à l'aube. La base la plus charmante du nord-ouest.",
+          "tags": [
+            "Ruelles fortifiées",
+            "Héritage catalan",
+            "Grotte de Neptune"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Alghero"
+        },
+        {
+          "name": "Costa Smeralda / San Teodoro",
+          "badge": "La plus glamour",
+          "badge_type": "hot",
+          "description": "La côte des criques émeraude et des ports de plaisance : Porto Cervo est la vitrine, San Teodoro et Palau sont des alternatives plus terre-à-terre. Les excursions en bateau vers La Maddalena partent d'ici.",
+          "tags": [
+            "Criques émeraude",
+            "La Maddalena",
+            "Ambiance estivale"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Teodoro+Sardinia"
+        },
+        {
+          "name": "Ogliastra — Cala Gonone et l'est",
+          "badge": "La plus sauvage",
+          "badge_type": "local",
+          "description": "La côte des criques légendaires — Goloritzé, Mariolu, Luna : bateaux, sentiers de randonnée et l'endroit où la montagne plonge dans la mer. La région pour les amoureux de la nature et les collectionneurs de criques ; voiture et chaussures solides requises.",
+          "tags": [
+            "Criques légendaires",
+            "Sentiers de randonnée",
+            "Montagne et mer"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Gonone"
+        },
+        {
+          "name": "La côte sud — Chia/Pula",
+          "badge": "Idéal pour les familles",
+          "badge_type": "value",
+          "description": "De longues plages de sable, des eaux turquoise peu profondes et des lagunes de flamants roses : la côte généreuse du sud pour les familles et les vacances paisibles. La proximité de l'aéroport de Cagliari est un atout.",
+          "tags": [
+            "Plages de sable peu profondes",
+            "Lagune de flamants roses",
+            "Près de l'aéroport"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chia+Sardinia"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "La mer de Sardaigne est chaude même en septembre ; la vraie question est l'équilibre entre la foule et les prix.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "L'île Verte",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Maquis fleuri, criques désertes",
+          "description": "L'île verdit sous le parfum du maquis, les sentiers s'ouvrent, la mer se réchauffe en juin. Les quotas ne sont pas encore en vigueur, les prix sont justes — la meilleure période pour le trekking et la chasse aux criques.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de juin",
+            "text": "Mi-juin est le pic secret de la Sardaigne : la mer de juillet, le calme de mai, le plein soleil."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Pleine Mer",
+          "months": "Jul – Aug",
+          "subtitle": "Été · Criques chaudes, plages bondées",
+          "description": "La mer est un bain, les soirées sont des fêtes, les plages célèbres appliquent des quotas. En août, la moitié de l'Italie est sur l'île : réservez tout à l'avance et arrivez sur les plages avant 9h du matin.",
+          "callout": {
+            "type": "warning",
+            "label": "Avertissement d'août",
+            "text": "Pendant la semaine de Ferragosto (15 août), les ferries et les routes débordent ; concentrez votre itinéraire sur une seule région cette semaine-là et évitez les longs trajets."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Mer chaude, criques vides",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Septembre est le mois d'or",
+          "description": "En septembre, la mer conserve la chaleur d'août et les plages sont à moitié vides ; octobre apporte les récoltes et les fêtes de village (sagre). La saison la plus astucieuse de l'île.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de septembre",
+            "text": "À la mi-septembre, le quota pour le sentier de Goloritzé n'est plus une préoccupation ; la randonnée matinale classique + la baignade de midi se déroulent pleinement."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Le visage intérieur de l'île",
+          "months": "Dec – Mar",
+          "subtitle": "Hiver · Sardaigne des bergers, carnaval",
+          "description": "Les stations balnéaires côtières ferment en partie, mais l'intérieur vit : les événements 'Cortes Apertas' dans les villages de la Barbagia, et en janvier-février le mystérieux carnaval des Mamuthones de Mamoiada. Pas de mer, mais une île pleine de vie.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil carnaval",
+            "text": "Voir la procession des Mamuthones à Mamoiada en février, c'est plonger dans le visage millénaire de la Sardaigne ; vous n'y allez pas en tant que touriste mais en tant que témoin."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La table sarde est faite de deux mondes : la récolte de la mer sur la côte, la cuisine du berger à l'intérieur des terres — et sur les deux, une feuille croustillante de carasau.",
+      "local_word": {
+        "word": "Porceddu",
+        "pronunciation": "por-CHED-doo",
+        "definition": "Cochon de lait tourné pendant des heures sur du bois de myrte : le festin de la cuisine du berger. Le vrai se mange dans un agriturismo, commandé à l'avance — le crépitement de sa peau est le son de l'île."
+      },
+      "items": [
+        {
+          "icon": "🥟",
+          "name": "Culurgiones",
+          "description": "Raviolis faits main, farcis de pommes de terre, de pecorino et de menthe, scellés comme un épi de blé : la fierté de l'Ogliastra. Avec du beurre et de la sauge ou de la sauce tomate — de la poésie dans les deux cas.",
+          "tag": "Classique d'Ogliastra · plié à la main",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ogliastra+Sardinia"
+        },
+        {
+          "icon": "🍖",
+          "name": "Porceddu — agriturismo style",
+          "description": "Cochon de lait lentement tourné sur les braises, parfumé au myrte : le sommet de la table du berger. Il arrive après une armée d'antipasti au menu de l'agriturismo — venez affamé.",
+          "tag": "Dans un agriturismo · commander à l'avance",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Oliena+Sardinia"
+        },
+        {
+          "icon": "🫓",
+          "name": "Pane carasau and guttiau",
+          "description": "Le pain de berger fin comme du papier qui se conserve des mois. Cuit avec de l'huile d'olive et du sel, il devient guttiau — le premier crépitement à atteindre la table.",
+          "tag": "Sur chaque table · en guttiau",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercato+di+San+Benedetto+Cagliari"
+        },
+        {
+          "icon": "🐟",
+          "name": "Bottarga and the seafood course",
+          "description": "La poutargue de mulet salée de la lagune de Cabras est une poussière d'or sur les spaghettis ; sur la côte, le plat de la mer s'étend à travers les crevettes, le poulpe et la fregola.",
+          "tag": "Bottarga de Cabras · avec fregola",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cabras+Sardinia"
+        },
+        {
+          "icon": "🧀",
+          "name": "Pecorino sardo and honey",
+          "description": "Le jeune fromage de brebis est doux, l'affiné est piquant ; son mariage avec le miel amer de corbezzolo est un classique de l'île. L'âme des seadas est ce même duo.",
+          "tag": "Fromage + miel · demander du corbezzolo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gavoi+Sardinia"
+        },
+        {
+          "icon": "🍷",
+          "name": "Cannonau, Vermentino and mirto",
+          "description": "La force du Cannonau dans le rouge, le sel du Vermentino dans le blanc ; le dîner est scellé par la liqueur de myrte, le mirto. Testez la légende du 'vin de longue vie' à la source.",
+          "tag": "La séquence des verres · finir avec du mirto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jerzu+Sardinia"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle de l'agriturismo",
+        "text": "Une fois dans votre vie, vivez une soirée agriturismo sarde : prix fixe, innombrables plats, vin maison en carafe. Mangez léger à midi, et ne capitulez pas avant l'arrivée des culurgiones."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Derrière les criques de carte postale se cache une île vieille de trois mille ans ; ces six lieux allient mer et histoire en une seule journée.",
+      "items": [
+        {
+          "rarity": "Capitale de l'Âge du Bronze",
+          "name": "Su Nuraxi — Barumini",
+          "description": "Le plus grand complexe nuragique, classé à l'UNESCO : une tour de pierre et un tissu villageois datant de 1500 av. J.-C. Les visites guidées pénètrent à l'intérieur de la tour — la leçon d'introduction à la civilisation mystérieuse de l'île.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Su+Nuraxi+Barumini"
+        },
+        {
+          "rarity": "Une crique comme une cathédrale",
+          "name": "Cala Goloritzé",
+          "description": "Le joyau de l'Ogliastra avec son arche de granit et sa flèche en aiguille : accessible uniquement par un sentier (à quota contrôlé) ou en nageant depuis un bateau. La récompense est la crique la plus pure de la Méditerranée.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Goloritzé"
+        },
+        {
+          "rarity": "Une ville pastel au bord d'une rivière",
+          "name": "Bosa",
+          "description": "Des maisons colorées empilées le long de la rivière Temo sous le château de Malaspina : la ville la plus photogénique de l'île, laissée dans l'ombre d'Alghero. C'est aussi le berceau du vin Malvasia.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bosa"
+        },
+        {
+          "rarity": "Le village dont les murs parlent",
+          "name": "Orgosolo",
+          "description": "Le village rebelle de la Barbagia, une galerie à ciel ouvert de plus de 150 fresques politico-poétiques : la voix de la Sardaigne pastorale sur les murs. Un déjeuner de berger à proximité complète le classique.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Orgosolo+murals"
+        },
+        {
+          "rarity": "Un palais accessible par la mer",
+          "name": "Grotte de Neptune",
+          "description": "La grande grotte de stalactites dans les falaises du Capo Caccia à Alghero : par l'escalier de 654 marches (Escala del Cabirol) ou en bateau. Les deux font partie du spectacle.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grotta+di+Nettuno+Alghero"
+        },
+        {
+          "rarity": "Une ville antique dans la lagune",
+          "name": "Tharros",
+          "description": "La ville phénicienne-romaine située en bord de mer sur la péninsule du Sinis : le bleu derrière chaque colonne. Avec l'église San Giovanni di Sinis et les cabanes de mulets à proximité, une demi-journée parfaite.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tharros"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil de combinaison",
+        "text": "La formule sarde est 'pierre le matin, mer à midi' : visitez d'abord le nuraghe ou la ville antique, puis nagez dans la crique la plus proche — histoire et vacances tiennent dans la même journée."
+      }
+    },
+    "traps": {
+      "title": "Éviter les pièges",
+      "intro": "La Sardaigne est une île honnête ; la plupart des pièges proviennent de fausses attentes. Connaissez ces quatre-là.",
+      "items": [
+        {
+          "icon": "🛥️",
+          "name": "Confondre la Costa Smeralda avec la Sardaigne",
+          "description": "La vitrine des yachts de Porto Cervo représente un pour cent de l'île ; juger l'île par ces prix — ou la limiter à eux — sont deux erreurs.",
+          "instead": "Visitez la vitrine pour un café, puis retournez à la vraie île : les criques de San Teodoro, les villages de la Gallura, les tables de l'intérieur des terres."
+        },
+        {
+          "icon": "🏖️",
+          "name": "Arriver sans plan à une plage à quota",
+          "description": "Atteignez La Pelosa à midi et vous regarderez la mer derrière une corde ; en été, les criques célèbres exigent une réservation.",
+          "instead": "Réservez les plages à quota en ligne un jour à l'avance et arrivez à 8h ; ou choisissez la crique voisine tout aussi charmante — cette île en a toujours une."
+        },
+        {
+          "icon": "🦞",
+          "name": "Le 'homard catalan' sans demander le prix",
+          "description": "Le célèbre homard d'Alghero se vend à l'etto (100 g) ; commandez sans demander et l'addition fera vaciller le budget des vacances.",
+          "instead": "Convenez du poids et du prix à l'etto à l'avance ; ou prenez le même plaisir à un prix juste avec des fregola et des crevettes."
+        },
+        {
+          "icon": "⏱️",
+          "name": "Faire confiance aux distances de la carte",
+          "description": "Une route côtière de 80 km peut prendre deux heures ; les plans 'nous arriverons pour le dîner' fondent dans les virages.",
+          "instead": "Ajoutez trente pour cent à l'estimation de l'application et faites un grand trajet par jour ; en Sardaigne, moins de routes et plus de criques est toujours la bonne équation."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "La couleur de la mer de Sardaigne n'est pas proportionnelle à votre argent mais à l'heure à laquelle vous vous levez : aucun club de plage ne surpasse une crique vide à 8h du matin."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces itinéraires. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Le classique du sud depuis Cagliari",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Matinée au Castello",
+              "description": "Admirez le golfe depuis les remparts de la citadelle de Cagliari ; café autour de la Piazza Yenne, une pause pâtisserie est permise."
+            },
+            {
+              "time": "10:00",
+              "title": "Marché de San Benedetto",
+              "description": "Descendez à l'étage des poissons de l'un des plus grands marchés couverts d'Italie : bottarga, fromage et provisions pour le déjeuner."
+            },
+            {
+              "time": "11:30",
+              "title": "Cap au sud vers les criques de Chia",
+              "description": "Prenez la route côtière jusqu'à Chia : eau turquoise, dunes blanches, une lagune de flamants roses. Baignade à Su Giudeu."
+            },
+            {
+              "time": "14:00",
+              "title": "Déjeuner derrière la plage",
+              "description": "Fregola ou un panino dans un chiringuito au sol sablonneux ; puis une autre crique — Tuerredda si vous osez, vérifiez son quota."
+            },
+            {
+              "time": "17:30",
+              "title": "Nora l'Antique",
+              "description": "Arrêtez-vous en chemin à la cité phénicienne-romaine en bord de mer : mosaïques, théâtre et le soleil couchant dans un même cadre."
+            },
+            {
+              "time": "20:30",
+              "title": "Soirée à Cagliari",
+              "description": "Un repas de fruits de mer dans le quartier de la Marina, terminé par un mirto. Ajò — une autre crique demain !"
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez l'île en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Le classique du sud",
+              "description": "L'itinéraire d'une journée ci-dessus : Castello, marché, Chia, Nora."
+            },
+            {
+              "time": "Day 2",
+              "title": "La pierre et l'intérieur des terres",
+              "description": "Su Nuraxi (Barumini) le matin, la route vers la Barbagia à midi, les fresques d'Orgosolo ensuite ; un festin d'agriturismo le soir — porceddu et Cannonau."
+            },
+            {
+              "time": "Day 3",
+              "title": "Les criques de l'est",
+              "description": "Levez-vous tôt pour prendre le bateau de Cala Gonone le long de la ligne Goloritzé–Mariolu : nagez, reposez-vous, nagez encore. Apéritif au coucher du soleil à Santa Maria Navarrese ; adieu avec pecorino et miel."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "L'italien est suffisant, mais un mot de sarde ouvre grand les portes.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "bwon-JOR-noh",
+          "meaning": "Bonjour — obligatoire en entrant dans le bar du village"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Merci — court, clair, toujours"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "S'il vous plaît — ajoutez-le à la fin de votre commande"
+        },
+        {
+          "word": "Salute!",
+          "pronunciation": "sah-LOO-teh",
+          "meaning": "Santé ! — Les verres de Cannonau se lèvent pour cela"
+        },
+        {
+          "word": "Ajò!",
+          "pronunciation": "ah-YO",
+          "meaning": "Sarde pour 'allons-y !' — dites-le une fois et vous serez considéré comme un insulaire"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Checklist Sardaigne",
+      "completion_message": "Ajò ! Vous avez bien exploré la Sardaigne !",
+      "items": [
+        {
+          "label": "Nager dans une crique turquoise à 8h du matin",
+          "sub": "La crique rien que pour vous, les couleurs dans leur éclat le plus pur"
+        },
+        {
+          "label": "Entrer dans la tour nuragique de Su Nuraxi",
+          "sub": "Barumini — une civilisation de pierre vieille de trois mille ans"
+        },
+        {
+          "label": "Assister à un festin de porceddu dans un agriturismo",
+          "sub": "Prix fixe, plats à volonté, vin de la maison"
+        },
+        {
+          "label": "Voir le sceau en épi de blé sur les culurgiones",
+          "sub": "Le ravioli de l'Ogliastra — fait main uniquement"
+        },
+        {
+          "label": "Nager jusqu'à Goloritzé depuis un bateau",
+          "sub": "Arche de granit et aiguille rocheuse — la Méditerranée la plus pure"
+        },
+        {
+          "label": "Lire les murs d'Orgosolo",
+          "sub": "Plus de 150 fresques murales — la voix de la Sardaigne pastorale"
+        },
+        {
+          "label": "Emprunter l'escalier à flanc de falaise jusqu'à la Grotte de Neptune",
+          "sub": "654 marches — le prix de la vue"
+        },
+        {
+          "label": "Se promener dans les ruelles pastel de Bosa",
+          "sub": "Les rives du Temo + un verre de Malvasia"
+        },
+        {
+          "label": "Manger des spaghettis à la bottarga",
+          "sub": "La poussière d'or de Cabras — la fregola fonctionne aussi"
+        },
+        {
+          "label": "Terminer avec un mirto",
+          "sub": "La liqueur de myrte — et une bouteille pour la valise"
+        }
+      ]
+    }
+  }
+}

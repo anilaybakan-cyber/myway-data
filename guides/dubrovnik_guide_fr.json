@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#C14B2A",
+    "color_light": "#F9E9E2",
+    "tagline": "Rues de marbre, enserrées par les murs, l'Adriatique à leurs pieds"
+  },
+  "pills": [
+    "La Perle de l'Adriatique",
+    "Une ville fortifiée de l'UNESCO",
+    "La véritable adresse de Port-Réal"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Dubrovnik",
+      "intro": "Dubrovnik est moins une ville qu'un navire de pierre ancré dans la mer : à l'intérieur de deux kilomètres de remparts, la rue principale en marbre, le Stradun, scintille, et les tuiles orange rivalisent avec le bleu Adriatique. La République de Raguse a défié Venise pendant des siècles et a porté sa liberté sous la bannière de 'Libertas' — cette fierté se ressent aujourd'hui dans chaque pierre. Game of Thrones lui a apporté une nouvelle renommée en tant que Port-Réal, mais la véritable histoire est plus ancienne : tremblements de terre, sièges et marbre repoli à chaque fois. Apprenez l'emploi du temps de la foule, et ce navire de pierre naviguera très différemment pour vous.",
+      "local_word": {
+        "word": "Fjaka",
+        "pronunciation": "FYAH-kah",
+        "definition": "L'état intraduisible de la Dalmatie : la douce langueur de ne rien faire et de ne s'inquiéter de rien sous la chaleur de midi. Ni paresse ni sommeil — quelque part entre les deux, à la dérive en contemplant la mer. Les Dalmatiens considèrent la fjaka comme un droit ; trouvez une pierre à l'ombre des remparts et revendiquez la vôtre."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Parcourez les remparts à la première ou à la dernière heure",
+          "description": "La promenade sur les remparts est la couronne de Dubrovnik, mais midi est à la fois chaud et bondé : allez-y à l'ouverture ou deux heures avant la fermeture. Le circuit de deux kilomètres prend une à deux heures — apportez de l'eau et un chapeau ; les marches en marbre se transforment en poêle à midi."
+        },
+        {
+          "number": 2,
+          "title": "Allez à contre-courant des heures des bateaux de croisière",
+          "description": "Les navires déversent des milliers de personnes par la Porte Pile entre 09h00 et 10h00 et les récupèrent vers 16h00 : pendant cette fenêtre, soyez sur Lokrum ou dans les criques de Lapad. Les vraies heures de la vieille ville sont de 07h00 à 09h00 et après 18h00 — c'est à ce moment-là que le marbre vous appartient."
+        },
+        {
+          "number": 3,
+          "title": "Si vous logez à l'intérieur des remparts, faites la paix avec les escaliers",
+          "description": "La ville fortifiée est sans voiture et ses rues latérales sont des escaliers raides : vous aurez besoin d'épaules pour votre valise et de chaussures appropriées. La récompense est inestimable — marcher seul sur le Stradun à minuit est un privilège réservé à ceux qui dorment à l'intérieur."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Dubrovnik (DBV)",
+          "sub": "~30 min de la ville, navette disponible"
+        },
+        {
+          "icon": "🏰",
+          "label": "Incontournable",
+          "value": "The wall walk",
+          "sub": "~2 km de vues imprenables sur la mer"
+        },
+        {
+          "icon": "💶",
+          "label": "Monnaie",
+          "value": "Euro",
+          "sub": "Cartes acceptées partout"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Croate",
+          "sub": "Anglais courant dans le tourisme"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Dubrovnik",
+        "text": "Cette ville vit en deux temps : la journée est la vitrine, le matin et le soir sont la scène. Levez-vous tôt, prenez votre fjaka à midi, nagez sous les remparts au crépuscule — partagez votre emploi du temps avec la lumière, pas avec la foule."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "La vieille ville est entièrement piétonne ; les bus relient Lapad et le port, les bateaux desservent Lokrum et les îles, et le téléphérique mène au mont Srđ.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arriver de l'aéroport",
+          "description": "L'aéroport de Dubrovnik est à 30 minutes : la navette, synchronisée avec les vols, vous dépose près de la porte Pile. Les taxis et applications de VTC ont des tarifs fixes — vérifiez les horaires de retour de la navette à l'avance."
+        },
+        {
+          "icon": "🚶",
+          "title": "La vieille ville piétonne",
+          "description": "Aucun véhicule n'entre dans les murs : le Stradun est plat, les rues latérales sont des escaliers. Pile et Ploče sont les deux portes principales — la vieille ville se traverse d'un bout à l'autre en dix minutes, pourtant personne ne la traverse jamais en dix minutes ; chaque coin vous arrête."
+        },
+        {
+          "icon": "🚌",
+          "title": "Bus de ville",
+          "description": "Les bus depuis l'extérieur de la porte Pile relient Lapad, le port de Gruž et les zones hôtelières : billets auprès du chauffeur ou d'un kiosque. Si vous séjournez en dehors des murs, votre rythme quotidien dépendra de ces lignes."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Bateaux pour Lokrum et les îles",
+          "description": "Le bateau pour Lokrum traverse du vieux port à l'île verte en quinze minutes ; les ferries de Gruž naviguent vers les îles Élaphites. Vérifiez le dernier bateau de retour à l'embarcadère — personne ne passe la nuit sur Lokrum."
+        },
+        {
+          "icon": "🚡",
+          "title": "Le téléphérique du Srđ",
+          "description": "Quatre minutes jusqu'au sommet du mont Srđ : les murs, Lokrum et la mer ouverte dans un seul cadre. Montez une heure avant le coucher du soleil — et si vous préférez éviter la file d'attente pour la descente, le chemin à pied est un régal de vues d'une demi-heure."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Astuce Pass",
+        "text": "Le Dubrovnik Pass couvre l'entrée aux remparts, Lovrijenac et les musées, avec les bus de ville inclus : même le pass d'une journée coûte presque autant que le billet pour les remparts seul — si vous montez de toute façon sur les remparts, le pass est presque toujours rentable."
+      }
+    },
+    "stay": {
+      "title": "Où loger",
+      "intro": "Le choix est une question d'échelle et d'escaliers : chambres en pierre à l'intérieur des murs, vues sur les remparts à Ploče, facilité d'accès à la plage à Lapad.",
+      "local_word": {
+        "word": "Libertas",
+        "pronunciation": "lee-BER-tahs",
+        "definition": "Latin pour 'liberté' : la constitution en un mot de la République de Raguse. Elle était inscrite sur le drapeau et flottait au-dessus de la tour Minčeta ; les navires marchands de la cité-état étaient connus sous ce nom à travers les mers. Aujourd'hui, elle donne son nom au festival et porte la fierté de la ville — comprendre Dubrovnik commence par comprendre Libertas."
+      },
+      "items": [
+        {
+          "name": "Vieille ville (intra-muros)",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "vibe",
+          "description": "Chambres et petits hôtels dans des maisons en pierre : le Stradun de minuit et les places vides du matin sont à vous. Escaliers et transport de valises inclus — la récompense est de vivre la ville à des heures que personne d'autre ne voit.",
+          "tags": [
+            "Stradun de nuit",
+            "Chambres en pierre",
+            "Ruelles en escalier"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Old+Town+Dubrovnik"
+        },
+        {
+          "name": "Ploče",
+          "badge": "Vues sur les remparts",
+          "badge_type": "hot",
+          "description": "Hôtels à l'extérieur de la porte est, avec vue sur les remparts et Lokrum : la plage de Banje à vos pieds. Cinq minutes de la vieille ville, vues de carte postale — c'est le côté lune de miel.",
+          "tags": [
+            "Vues sur les remparts",
+            "Plage de Banje",
+            "Petits déjeuners sur balcon"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ploče+Dubrovnik"
+        },
+        {
+          "name": "Autour de Pile",
+          "badge": "Le plus pratique",
+          "badge_type": "value",
+          "description": "Juste à l'extérieur de la porte ouest : bus, taxis et la vieille ville à deux pas. Moins d'escaliers, transport le plus facile — la base intelligente pour un court séjour.",
+          "tags": [
+            "À côté de la porte",
+            "Nœud de transport",
+            "Moins d'escaliers"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pile+Dubrovnik"
+        },
+        {
+          "name": "Lapad",
+          "badge": "Plage et famille",
+          "badge_type": "value",
+          "description": "Les criques de la péninsule, une promenade en bord de mer et un large éventail d'hôtels : des prix plus doux que dans la vieille ville. Pour ceux qui veulent des vacances baignade — dix minutes du centre en bus.",
+          "tags": [
+            "Plages en crique",
+            "Promenade",
+            "Adapté aux familles"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lapad+Dubrovnik"
+        },
+        {
+          "name": "Cavtat",
+          "badge": "Alternative calme",
+          "badge_type": "local",
+          "description": "Une ville portuaire calme bordée de palmiers à une demi-heure : la promenade en bateau jusqu'à Dubrovnik est un plaisir en soi. Pour ceux qui préfèrent dormir loin des foules et visiter la ville en tant qu'invité.",
+          "tags": [
+            "Quai bordé de palmiers",
+            "Arrivée en bateau",
+            "Nuits calmes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cavtat"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "La clé de Dubrovnik réside plus dans la gestion des heures que des saisons ; cependant, mai-juin et septembre-octobre offrent la ville sous son meilleur jour.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Le marbre dans sa plus grande fraîcheur",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Douces promenades sur les remparts, une mer qui se réchauffe",
+          "description": "Des températures idéales pour la promenade sur les remparts, Lokrum en fleurs, et une mer propice à la baignade dès juin : le trafic de croisière est plus léger qu'en été et la lumière est douce pour les photographies. C'est la période la plus équilibrée pour visiter la ville.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de mai",
+            "text": "En mai, vous pouvez parcourir les remparts même à midi — la chaleur est encore clémente. Les paons et les sentiers botaniques de Lokrum sont les plus verts ce mois-ci : préparez un sandwich et profitez de votre fjaka sur l'île."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Lumières de la scène",
+          "months": "Jul – Aug",
+          "subtitle": "Été · Festival d'été, Stradun animé, nuits chaudes",
+          "description": "Le Festival d'été de Dubrovnik transforme les forts et les cours en scènes, la mer est cristalline, les nuits sont longues. La foule et les prix atteignent leur apogée — la stratégie du petit matin et de la fin de soirée est salvatrice durant cette saison.",
+          "callout": {
+            "type": "warning",
+            "label": "Note de midi",
+            "text": "En juillet-août, la vieille ville est à la fois torride et bondée de 10h00 à 16h00 : consacrez ces heures à Lokrum, aux criques de Lapad ou à la fjaka. Prévoyez la promenade sur les remparts à l'ouverture et votre balade sur le Stradun après 19h00."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "La sagesse de septembre",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Mer chaude, foule moins dense",
+          "description": "La mer conserve sa chaleur estivale, le trafic maritime diminue, et le marbre prend une teinte miel sous la lumière du soir. La baignade dure jusqu'à fin octobre — c'est la saison pour ceux qui désirent Dubrovnik à la fois salée et sereine.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de septembre",
+            "text": "Mi-septembre, baignez-vous au large de Banje et montez sur les remparts en fin d'après-midi : la pierre restitue la lumière qu'elle a emmagasinée toute la journée. Les tables de restaurant ne nécessitent pas de négociation, le téléphérique n'a pas de file d'attente — les deux semaines les plus intelligentes de l'année."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "La ville des habitants",
+          "months": "Dec – Mar",
+          "subtitle": "Hiver · Stradun vide, observation des tempêtes, la fête de Saint-Blaise",
+          "description": "En hiver, Dubrovnik retire son masque : le Stradun retrouve ses habitants, les vagues de tempête s'écrasent contre les remparts, les cafés se transforment en lieux de conversation. La fête de Saint-Blaise (Sveti Vlaho) début février est le jour le plus authentique de la ville. Certains restaurants ferment pour la saison — ceux qui restent ouverts sont sincères.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de février",
+            "text": "Le 3 février, jour de la Saint-Blaise, la ville célèbre : processions, bannières et prières à son saint patron. En ce jour presque sans touristes, vous voyez ce qui fait de Dubrovnik une ville — la fierté de sa communauté."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine dalmate est une collaboration de la mer et du four en pierre : risotto noir, huîtres de Ston et peka mijotée sous une cloche en fer.",
+      "local_word": {
+        "word": "Peka",
+        "pronunciation": "PEH-kah",
+        "definition": "Viande ou poulpe mijotés pendant des heures sous une cloche en fer recouverte de braises : le rituel du four de terre de Dalmatie. Une bonne konoba prépare la peka sur commande — vous devez appeler quelques heures à l'avance. La vapeur qui s'échappe lorsque la cloche est soulevée est le lever de rideau de la cuisine adriatique."
+      },
+      "items": [
+        {
+          "icon": "🦑",
+          "name": "Crni rižot (risotto noir)",
+          "description": "Risotto noir de jais cuit à l'encre de seiche : le parfum de la mer concentré dans une assiette. Vos lèvres noirciront — souriez ; en Dalmatie, cela compte comme une médaille. Demandez du fromage à pâte dure râpé par-dessus.",
+          "tag": "Classique dalmate · une médaille noire",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=crni+rižot+Dubrovnik"
+        },
+        {
+          "icon": "🦪",
+          "name": "Huîtres de Ston",
+          "description": "Huîtres plates européennes élevées dans les canaux de Ston à une heure de là : avec du citron, sur glace, fraîchement pêchées. La saison des festivals a lieu vers mars — elles arrivent aussi sur les étals de Dubrovnik ; demandez l'étiquette 'Ston'.",
+          "tag": "Fraîches de Ston · avec du citron",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ston+oysters"
+        },
+        {
+          "icon": "🍲",
+          "name": "Peka",
+          "description": "Agneau ou poulpe passent des heures sous la cloche en fer avec des pommes de terre : la viande devient soyeuse, les pommes de terre fumées. Cuit sur commande — appelez la konoba à midi, regardez la cloche se lever au dîner.",
+          "tag": "Sur commande · des heures sous la cloche",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=peka+konoba+Dubrovnik"
+        },
+        {
+          "icon": "🐟",
+          "name": "Pêche du jour dans une konoba",
+          "description": "Loup de mer, dorade ou denti grillé : avec de l'huile d'olive, de l'ail et du blitva (bette et pomme de terre). Vendu au kilo — choisissez dans la vitrine et fixez le prix avant la pesée.",
+          "tag": "Au kilo · avec blitva",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=konoba+Dubrovnik"
+        },
+        {
+          "icon": "🍮",
+          "name": "Rozata",
+          "description": "Crème caramel de Dubrovnik parfumée à la liqueur de rose : la cousine locale et élégante de la crème caramel. Une tranche froide pour finir le repas — le seul dessert qui porte le nom de la ville ; ne le manquez pas.",
+          "tag": "Le dessert de la ville · liqueur de rose",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=rozata+Dubrovnik"
+        },
+        {
+          "icon": "🍷",
+          "name": "Vins de Pelješac",
+          "description": "Rouge Plavac Mali des pentes ensoleillées de la péninsule et blanc Pošip de Korčula : à la carafe dans une konoba ou dans un bar à vin. Si vous voyez l'étiquette Dingač, n'hésitez pas — c'est le rouge le plus ambitieux de l'Adriatique.",
+          "tag": "Plavac Mali + Pošip · à la carafe",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=wine+bar+Dubrovnik"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle de table",
+        "text": "Sur le Stradun et les terrasses avec vue sur les remparts, le menu inclut une taxe sur la vue : deux rues plus loin, le même crni rižot est proposé à un prix plus abordable. Partout où une question sur la 'pêche du jour' n'est pas répondue avec le poids et le prix, ne commandez pas avant d'avoir vu la balance."
+      }
+    },
+    "hidden_gems": {
+      "title": "Coins Cachés",
+      "intro": "Tout le monde parcourt le Stradun et les remparts ; ces six-là sont les ponts moins connus du navire de pierre.",
+      "items": [
+        {
+          "rarity": "Bar trou dans le mur",
+          "name": "Buža",
+          "description": "Un bar accessible par un trou dans le mur de la ville, installé sur les rochers : des tables sur la falaise, les pieds au-dessus de l'Adriatique. La signalisation est si discrète qu'elle en est presque invisible – cherchez le panneau 'Cold drinks', passez par le trou, asseyez-vous pour le coucher du soleil.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Buža+Bar+Dubrovnik"
+        },
+        {
+          "rarity": "Île aux paons",
+          "name": "Lokrum",
+          "description": "Quinze minutes en bateau pour un autre monde, plus vert : un monastère bénédictin, des paons, la lagune salée de la 'Mer Morte' et les jardins de Qarth de GoT. L'antidote aux heures de croisière – préparez un sandwich et consacrez la journée à l'île.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lokrum"
+        },
+        {
+          "rarity": "Forteresse-scène",
+          "name": "Lovrijenac",
+          "description": "Le fort sur un rocher de 37 mètres en dehors des murs : on l'appelle le 'Gibraltar de l'Ouest'. Hamlet y est mis en scène pendant le Festival d'été – et les scènes du Donjon Rouge de Port-Réal y ont également été tournées. L'entrée est généralement incluse avec le billet pour les remparts.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fort+Lovrijenac"
+        },
+        {
+          "rarity": "Galerie honnête de la guerre",
+          "name": "War Photo Limited",
+          "description": "Une galerie de photographie dans la vieille ville racontant la guerre des années 1990 et les conflits mondiaux sans censure : petite, dense, bouleversante. Accordez-lui une heure pour comprendre l'histoire récente derrière le visage de carte postale de Dubrovnik.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=War+Photo+Limited+Dubrovnik"
+        },
+        {
+          "rarity": "Jardin Renaissance",
+          "name": "Trsteno Arboretum",
+          "description": "Un jardin de villa du XVe siècle à une demi-heure au nord : de gigantesques platanes, une piscine avec une fontaine de Neptune et des terrasses descendant vers la mer. Les jardins du Donjon Rouge de GoT y ont été filmés – prenez le bus du matin, soyez de retour avant midi.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trsteno+Arboretum"
+        },
+        {
+          "rarity": "Le vrai port de la ville",
+          "name": "Gruž market and quay",
+          "description": "La vie quotidienne de Dubrovnik entre les étals de poisson du matin, les stands de fruits et le trafic des ferries : loin de la vitrine de la vieille ville, les prix sont à l'échelle locale. Les petits-déjeuners du marché et le ferry pour les îles Élaphites partent tous deux d'ici.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gruž+market+Dubrovnik"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Stratégie horaire",
+        "text": "À Dubrovnik, le 'quand' compte autant que le 'où' : 7h00 pour le Stradun, midi pour Lokrum, fin d'après-midi pour Lovrijenac, coucher de soleil pour Buža. Les mêmes lieux sont une vitrine à la mauvaise heure et un miracle à la bonne."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "La Perle de l'Adriatique a également peaufiné ses jeux de vitrine ; connaissez ces quatre astuces et naviguez confortablement sur le navire de pierre.",
+      "items": [
+        {
+          "icon": "🚢",
+          "name": "La vieille ville à l'heure des croisières",
+          "description": "Les jours de navire, le Stradun devient une rivière humaine de 10h00 à 16h00 : la file d'attente pour les billets des remparts s'allonge et chaque cadre photo se remplit de foules.",
+          "instead": "Consultez le calendrier des croisières, ou vivez simplement à contre-courant : de 07h00 à 09h00 et après 18h00, la ville est à vous. Laissez les heures de pointe à Lokrum et Lapad."
+        },
+        {
+          "icon": "💶",
+          "name": "Prix des terrasses du Stradun",
+          "description": "Dans la rue principale et sur certaines terrasses avec vue sur les remparts, le café et la pizza voient leurs prix multipliés par une taxe de localisation ; une surprise de service peut s'ajouter à l'addition.",
+          "instead": "Les Konobas deux rues plus loin servent la même cuisine à des prix abordables ; buvez votre café du côté de Gruž. Ne commandez jamais sans avoir vu les prix du menu au préalable."
+        },
+        {
+          "icon": "🐉",
+          "name": "Inflation des tours GoT",
+          "description": "Certaines promenades vendues sous l'étiquette 'Tour du Port-Réal' proposent des places librement accessibles à des prix exorbitants.",
+          "instead": "La plupart des lieux de tournage – les escaliers des Jésuites, Lovrijenac, le Stradun – peuvent être visités par vous-même ; si vous souhaitez une visite guidée, choisissez un petit groupe avec un itinéraire clair. Préférez celles qui incluent Trsteno."
+        },
+        {
+          "icon": "🎫",
+          "name": "Acheter le billet pour les remparts à midi",
+          "description": "Utiliser l'un des billets les plus chers d'Europe à l'heure la plus chaude et la plus fréquentée de la journée : le marbre sans ombre transforme la promenade en calvaire.",
+          "instead": "Allez-y à l'ouverture ou deux heures avant la fermeture ; couvrez également les musées avec le Dubrovnik Pass. Emportez de l'eau – les kiosques sur les remparts sont rares et chers."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "Dubrovnik peut être chère, mais elle n'est pas malhonnête : payez pour la qualité, pas pour la vue. Montez sur les remparts à la bonne heure, choisissez votre konoba dans une rue arrière, et vivez le reste à pied et dans l'eau – les meilleurs moments sont de toute façon gratuits."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "De la muraille à l'eau — une journée de bateau de pierre",
+          "steps": [
+            {
+              "time": "07:30",
+              "title": "Le Stradun vide",
+              "description": "Marchez dans la rue de marbre tant qu'elle n'appartient à personne : la fontaine d'Onofrio, la tour de l'horloge, les pigeons. C'est la demi-heure la plus authentique de la ville."
+            },
+            {
+              "time": "08:30",
+              "title": "La promenade sur les remparts",
+              "description": "Allez-y à l'ouverture : de Minčeta sur la mer de toits, du côté mer vers Lokrum. De l'eau et un chapeau avec vous — prévoyez deux heures."
+            },
+            {
+              "time": "11:00",
+              "title": "Évasion à Lokrum",
+              "description": "Bateau de l'ancien port à l'île : jardins du monastère, paons et baignade dans la lagune de la Mer Morte. Attendez que les heures de pointe passent sur l'île."
+            },
+            {
+              "time": "15:00",
+              "title": "Déjeuner-dîner Konoba",
+              "description": "De retour en ville, crni rižot ou le poisson du jour dans une konoba de ruelle : Pošip en accompagnement. Revendiquez votre fjaka ici aussi."
+            },
+            {
+              "time": "17:30",
+              "title": "Lovrijenac et la crique de Pile",
+              "description": "Montez à la forteresse et voyez les remparts d'en face ; en descendant, baignez-vous depuis les rochers de la crique de Pile — nager sous les remparts est une expérience unique."
+            },
+            {
+              "time": "19:30",
+              "title": "Coucher de soleil à Buža",
+              "description": "Passez par le trou dans le mur, prenez une table sur les rochers : le soleil plonge dans l'Adriatique. Terminez avec une rozata sous la lumière du soir du Stradun."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Bateau de pierre, îles et huîtres — l'Adriatique complète",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Dubrovnik Classique",
+              "description": "Le parcours d'un jour ci-dessus : Stradun vide, les remparts, Lokrum, une konoba, Lovrijenac, coucher de soleil à Buža."
+            },
+            {
+              "time": "Day 2",
+              "title": "Sommet, mémoire et le port",
+              "description": "Matin : téléphérique jusqu'au Srđ et musée de la Guerre de la Patrie ; midi : marché de Gruž et café au bord du quai ; après-midi : War Photo Limited et le Palais du Recteur ; soir : baignade au large de Banje avec vue sur les remparts + dîner côté Ploče."
+            },
+            {
+              "time": "Day 3",
+              "title": "Évasion à Ston et Trsteno",
+              "description": "Matin : bus ou excursion à Ston : les plus longues murailles défensives d'Europe et les salines, déjeuner dans un bar à huîtres ; les jardins Renaissance de l'Arboretum de Trsteno sur le chemin du retour ; dîner d'adieu dans la vieille ville — commandez votre peka le matin."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de survie en 5 mots",
+      "intro": "Le croate est plus facile à prononcer qu'il n'y paraît ; ces cinq phrases vous ouvriront les portes, de la table de la konoba à l'étal du marché.",
+      "items": [
+        {
+          "word": "Dobar dan",
+          "pronunciation": "DOH-bar dahn",
+          "meaning": "Bonjour — la base de toute salutation en entrant dans un magasin ou une konoba"
+        },
+        {
+          "word": "Hvala lijepa",
+          "pronunciation": "HVAH-lah LYEH-pah",
+          "meaning": "Merci beaucoup — la version sincère de 'hvala', prononcée avec un sourire"
+        },
+        {
+          "word": "Molim",
+          "pronunciation": "MOH-leem",
+          "meaning": "S'il vous plaît / De rien — lors de la commande, et en réponse à des remerciements"
+        },
+        {
+          "word": "Dobar tek",
+          "pronunciation": "DOH-bar tek",
+          "meaning": "Bon appétit — le serveur le dit en posant votre assiette ; dites-le aussi à votre table"
+        },
+        {
+          "word": "Živjeli!",
+          "pronunciation": "ZHEE-vye-lee",
+          "meaning": "Santé ! — lorsque les verres de Plavac Mali se lèvent ; le contact visuel est de coutume"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Check-list de Dubrovnik",
+      "completion_message": "Libertas ! Vous avez vécu la Perle de l'Adriatique comme elle le mérite !",
+      "items": [
+        {
+          "label": "Parcourir les remparts d'un bout à l'autre",
+          "sub": "À l'ouverture — avec de l'eau et un chapeau"
+        },
+        {
+          "label": "Fouler le Stradun vide à 07h30",
+          "sub": "Le marbre encore frais, les places à vous"
+        },
+        {
+          "label": "Boire un verre sur les rochers à Buža",
+          "sub": "Traverser le mur, s'asseoir pour le coucher de soleil"
+        },
+        {
+          "label": "Se promener avec les paons sur Lokrum",
+          "sub": "Ne manquez pas une baignade dans la lagune de la Mer Morte"
+        },
+        {
+          "label": "Manger du crni rižot jusqu'à ce que vos lèvres noircissent",
+          "sub": "Dans une konoba de ruelle, avec du Pošip"
+        },
+        {
+          "label": "Voir les remparts depuis Lovrijenac",
+          "sub": "Le 'Gibraltar de l'Ouest' — la scène d'Hamlet"
+        },
+        {
+          "label": "Nager sous les remparts de la ville",
+          "sub": "Crique de Pile ou Banje — pierre + turquoise"
+        },
+        {
+          "label": "Voir la mer de toits depuis le Mont Srđ",
+          "sub": "Téléphérique pour monter, sentier pour descendre"
+        },
+        {
+          "label": "Goûter les huîtres de Ston avec du citron",
+          "sub": "Fraîches du bateau, sur glace"
+        },
+        {
+          "label": "Terminer la journée avec une rozata",
+          "sub": "Liqueur de rose — le dessert qui porte le nom de la ville"
+        }
+      ]
+    }
+  }
+}

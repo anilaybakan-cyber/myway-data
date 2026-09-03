@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Rhodes",
+    "country": "Greece",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#1F6E8C",
+    "color_light": "#E7F2F6",
+    "tagline": "Remparts des chevaliers, trois cents jours de soleil et une île où deux mers se rencontrent"
+  },
+  "pills": [
+    "À 1 heure de Marmaris",
+    "Une ville médiévale UNESCO",
+    "300 jours d'ensoleillement par an"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Rhodes",
+      "intro": "Alors que le ferry approche du port de Mandraki, les murs vous saluent depuis le Moyen Âge : Rhodes est une île méditerranéenne abritant l'une des villes médiévales les mieux conservées d'Europe. À l'intérieur des murs, des ruelles de chevaliers ; à l'extérieur, des boulevards italiens bordés de palmiers ; et au sud s'étend une île de vent et de mer. À une heure de la côte turque se trouve un autre monde — ne soyez cependant pas surpris si le thé et la conversation vous semblent familiers.",
+      "local_word": {
+        "word": "Filoxenia",
+        "pronunciation": "fee-lo-kse-NEE-ah",
+        "definition": "Grec pour 'amour de l'étranger' : l'ancien nom de l'hospitalité. Le dessert gratuit à table, le commerçant qui vous accompagne jusqu'à votre tour, le propriétaire de la pension qui dit 'asseyez-vous, prenez un café' — toutes des formes quotidiennes de filoxenia."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Vivez la Vieille Ville le matin ou le soir",
+          "description": "À midi, la ville fortifiée se rend aux foules de croisiéristes. Avant 9h et après 18h, les ruelles appartiennent aux habitants et à vous ; la pierre brille différemment à la lumière du soir."
+        },
+        {
+          "number": 2,
+          "title": "Ne planifiez pas l'île depuis un seul point",
+          "description": "Rhodes est grande : Lindos est à 55 km, Prasonisi à 90 km au sud. Louez une voiture ou planifiez en fonction des horaires de bus ; l'illusion 'tout est proche' se termine sur la route."
+        },
+        {
+          "number": 3,
+          "title": "Réglez les formalités du ferry tôt",
+          "description": "Pour les lignes de Marmaris et Fethiye, réservez à l'avance et arrivez tôt pour le contrôle des passeports ; confirmez votre retour le premier jour. Le vent d'été (meltemi) modifie parfois les horaires."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "⛴️",
+          "label": "Comment s'y rendre",
+          "value": "Ferry depuis Marmaris",
+          "sub": "≈1 heure · quotidien en été"
+        },
+        {
+          "icon": "🏰",
+          "label": "Centre",
+          "value": "La Vieille Ville médiévale",
+          "sub": "UNESCO — la plus grande d'Europe"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Grec",
+          "sub": "Anglais dans le tourisme, parfois turc"
+        },
+        {
+          "icon": "☀️",
+          "label": "Climat",
+          "value": "300 jours de soleil",
+          "sub": "Saison de baignade mai–octobre"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Rhodes",
+        "text": "Rhodes, ce sont deux îles : le mouvement du nord et la solitude du sud. Ne partez pas sans avoir expérimenté les deux — le jour qui commence dans une ruelle de chevaliers et se termine dans une crique du sud est le jour où vous comprendrez l'île."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "À la pointe nord, tout est à portée de main ; pour le reste de l'île, il vous faudra des roues ou de la patience.",
+      "items": [
+        {
+          "icon": "⛴️",
+          "title": "Ferries — Marmaris et les îles",
+          "description": "À environ une heure de Marmaris en catamaran, quotidiennement en été. Les grands ferries depuis le Pirée et les bateaux d'excursion vers les îles voisines (Symi, Halki) partent de Mandraki."
+        },
+        {
+          "icon": "🚌",
+          "title": "Bus KTEL — deux côtes",
+          "description": "La ligne est (vers Lindos) et la ligne ouest partent de terminaux séparés ; la ligne de Lindos circule fréquemment. Économique et climatisé — mais vérifiez toujours le dernier retour."
+        },
+        {
+          "icon": "🚗",
+          "title": "Voiture de location — la clé du sud",
+          "description": "La seule véritable option pour Prasonisi, Monolithos et la côte ouest. Les routes sont bonnes, le trafic calme ; les stations-service se raréfient dans le sud. Réservez à l'avance en été."
+        },
+        {
+          "icon": "🛵",
+          "title": "Scooters et quads",
+          "description": "Pratique en ville ; mais le meltemi souffle fort sur la côte ouest. Voiture pour les longs trajets, scooter pour les petites explorations — c'est la bonne formule."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxis",
+          "description": "Les trajets courts en ville sont raisonnables ; pour les longs trajets comme Lindos, fixez le prix avant de monter. La liste des tarifs aéroport-ville est affichée à la station."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil pour Symi",
+        "text": "Consacrez une journée à Symi : 50 minutes en bateau le matin depuis Mandraki, et un port en amphithéâtre néoclassique aux couleurs pastel vous attend. C'est là que l'on déguste les crevettes de Symi — et le bateau de retour n'est jamais manqué."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À l'intérieur des murs au cœur de l'histoire, dans une ville balnéaire, ou dans le sud désert – à Rhodes, les trois sont possibles.",
+      "local_word": {
+        "word": "Kastro",
+        "pronunciation": "KAS-tro",
+        "definition": "Le château : le quartier ancien fortifié d'une île grecque. Des milliers de personnes vivent encore à l'intérieur du kastro de Rhodes – le mur en pierre de votre hôtel pourrait avoir six cents ans."
+      },
+      "items": [
+        {
+          "name": "Vieille Ville (intra-muros)",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "vibe",
+          "description": "Des maisons d'hôtes en pierre dans les ruelles médiévales : la ville est à vous avant l'arrivée des foules, et la nuit, les rues éclairées aux lanternes sont un décor de film. L'accès en voiture est limité – les bagages doivent être portés – mais cela en vaut la peine.",
+          "tags": [
+            "Ambiance médiévale",
+            "Magie nocturne",
+            "Bagages à pied"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rhodes+Old+Town"
+        },
+        {
+          "name": "Nouvelle Ville / Mandraki",
+          "badge": "Le plus pratique",
+          "badge_type": "value",
+          "description": "Port, marché, cafés et la plage de la ville à distance de marche ; la base idéale si vous arrivez en ferry. L'architecture de l'époque italienne et la promenade du soir sont un plaisir surprenant.",
+          "tags": [
+            "Près du ferry",
+            "Plage de la ville",
+            "Soirées promenade"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mandraki+Rhodes"
+        },
+        {
+          "name": "Lindos",
+          "badge": "Le plus pittoresque",
+          "badge_type": "hot",
+          "description": "Un village blanchi à la chaux sous une acropole, avec deux baies : la vue la plus célèbre de Rhodes. Très fréquenté les jours d'été, mais le village se calme au crépuscule ; pour les jeunes mariés et les chasseurs de vues.",
+          "tags": [
+            "Vues sur l'Acropole",
+            "Baie de Saint-Paul",
+            "Soirées calmes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lindos+Rhodes"
+        },
+        {
+          "name": "Ialysos / Ixia – le côté au vent",
+          "badge": "Idéal pour les surfeurs",
+          "badge_type": "local",
+          "description": "Les plages venteuses de la côte ouest comptent parmi les spots de planche à voile et de kitesurf préférés d'Europe ; les hôtels sont grands, les couchers de soleil longs. Pour ceux qui aiment la mer avec des vagues.",
+          "tags": [
+            "Planche à voile",
+            "Couchers de soleil",
+            "Grands complexes hôteliers"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ialysos+Rhodes"
+        },
+        {
+          "name": "Le sud – vers Gennadi/Monolithos",
+          "badge": "Le plus calme",
+          "badge_type": "local",
+          "description": "Là où les foules s'arrêtent : plages désertes, tavernes de village et un ciel étoilé. Une voiture est essentielle ; la récompense est l'île dans sa forme la plus pure.",
+          "tags": [
+            "Plages désertes",
+            "Tavernes de village",
+            "Voiture essentielle"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gennadi+Rhodes"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Rhodes est l'île du soleil ; la question n'est jamais 'brillera-t-il' mais 'combien d'autres seront là'.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Rhodes Verte",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Murs fleuris, la mer se réchauffe",
+          "description": "L'île est à son plus vert, la Vallée des Papillons encore calme, la Vieille Ville à température de promenade. En juin, la mer se réchauffe tandis que la foule reste inférieure aux niveaux de juillet.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de mai",
+            "text": "En mai, vous pouvez monter à l'acropole de Lindos même à midi ; en juillet, le même escalier est un four. Appréciez la basse saison."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Pleine Saison",
+          "months": "Jul – Aug",
+          "subtitle": "Été · Chaleur, vent et plages bondées",
+          "description": "Les baies de l'est sont chaudes et calmes, le côté ouest se rafraîchit avec le meltemi ; la vie nocturne et les excursions en bateau battent leur plein. Les jours de croisière, la Vieille Ville déborde à midi — la règle matin/soir sauve des vies.",
+          "callout": {
+            "type": "warning",
+            "label": "Avertissement chaleur",
+            "text": "L'acropole de Lindos et Filerimos sont sans ombre à midi ; ne montez pas sans eau, un chapeau et une heure matinale."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "La Mer Dorée",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Mer chaude, rues calmes",
+          "description": "Septembre et octobre sont la couronne de l'île : la mer comme un bain, la foule s'est retirée, les prix ont baissé. Même en novembre, des déjeuners ensoleillés ont lieu au bord de l'eau.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'octobre",
+            "text": "En octobre, les plages du sud (Gennadi, Prasonisi) sont presque privées ; prenez la voiture et explorez crique par crique."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "L'Île des Locaux",
+          "months": "Dec – Mar",
+          "subtitle": "Hiver · Murs silencieux, cafés ouverts",
+          "description": "Les installations touristiques ferment en partie mais la ville continue de vivre ; vous vous promenez presque seul dans la Vieille Ville. Temps de marche entre les averses – et les prix les plus honnêtes de l'année.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'hiver",
+            "text": "Parcourir la Rue des Chevaliers seul en hiver est une expérience que l'été de Rhodes ne montre jamais ; les musées restent ouverts, le café reste chaud."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine de Rhodes est la plus copieuse des cuisines insulaires grecques : mézès frits, poisson frais et vin des villages de montagne.",
+      "local_word": {
+        "word": "Ouzeri",
+        "pronunciation": "oo-zeh-REE",
+        "definition": "La maison de l'ouzo et des mézès : de petites assiettes s'alignent sur la table et les heures passent d'elles-mêmes. Trouvez une bonne ouzeri à Rhodes et annulez vos autres projets pour la soirée."
+      },
+      "items": [
+        {
+          "icon": "🧆",
+          "name": "Pitaroudia — beignets de pois chiches",
+          "description": "Le mézè signature de Rhodes : des pois chiches pétris avec de la tomate et de la menthe, puis frits ; croustillants à l'extérieur, moelleux à l'intérieur. L'un des meilleurs amis de l'ouzo.",
+          "tag": "Classique d'Ouzeri · à déguster chaud",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rhodes+Old+Town"
+        },
+        {
+          "icon": "🐟",
+          "name": "Le poisson du jour — grillé",
+          "description": "Dorade, rouget ou tout ce que le meltemi a apporté : grillé au charbon de bois, avec du citron, au bord de l'eau. Choisir son poisson à l'étalage au poids est normal ici.",
+          "tag": "Tavernes du port · choisir au poids",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mandraki+Rhodes"
+        },
+        {
+          "icon": "🦐",
+          "name": "Crevettes de Symi",
+          "description": "Les minuscules crevettes de l'île voisine sont frites entières et mangées avec leur carapace : croustillantes, salées, addictives. On les trouve aussi dans les tavernes de Rhodes — demandez celles du jour.",
+          "tag": "Manger avec la carapace · à la Symi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Symi"
+        },
+        {
+          "icon": "🫓",
+          "name": "Agneau au four des villages de montagne",
+          "description": "Le plat des hauts plateaux (vers Embonas) : agneau ou chèvre, des heures au four, accompagné de pâtes de l'île. Le festin des dimanches après-midi.",
+          "tag": "Tavernes de montagne · déjeuner du dimanche",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Embonas+Rhodes"
+        },
+        {
+          "icon": "🍷",
+          "name": "Les vins d'Embonas",
+          "description": "Embonas, le village viticole sous le mont Attavyros, est la capitale viticole de l'île : des blancs Athiri et des rouges Amorgiano. Les dégustations dans les caves villageoises sont chaleureuses et généreuses.",
+          "tag": "Dégustation au village · demander l'Athiri",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Emery+Winery+Embonas"
+        },
+        {
+          "icon": "🍯",
+          "name": "Melekouni et Talagoutes",
+          "description": "La douceur de mariage au sésame et au miel, le melekouni, et les crêpes villageoises arrosées de miel, les talagoutes : la douce mémoire de l'île. Frais sur les marchés et lors des fêtes de village.",
+          "tag": "Échoppes de marché · aussi pour des cadeaux",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=New+Market+Rhodes"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle de la taverne",
+        "text": "Dans la vieille ville, évitez l'association 'rabatteur à l'entrée + menu photo multilingue' ; une ruelle plus loin, l'endroit qui écrit son menu à la craie vous nourrira deux fois mieux pour le même prix."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Les célébrités de Rhodes vivent sur les cartes postales ; ces six-là sont la récompense de quiconque prend les clés de la voiture.",
+      "items": [
+        {
+          "rarity": "Un château au bord de la falaise",
+          "name": "Château de Monolithos",
+          "description": "Un château de chevaliers perché sur un rocher de 236 mètres sur la côte ouest : quelques murs, une chapelle et une mer infinie. Au coucher du soleil, la scène la plus dramatique de l'île.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Monolithos+Castle+Rhodes"
+        },
+        {
+          "rarity": "Là où deux mers se rencontrent",
+          "name": "Prasonisi",
+          "description": "À la pointe sud de l'île, les deux côtés d'un banc de sable : une mer calme, l'autre au gré du vent. La Mecque des kitesurfeurs ; même regarder est un spectacle.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Prasonisi"
+        },
+        {
+          "rarity": "Une oasis à l'ombre des platanes",
+          "name": "Sept Sources (Epta Piges)",
+          "description": "Ruisseaux, paons et un tunnel d'eau sombre au cœur d'une forêt de pins : traverser le tunnel jusqu'au lac est le défi classique de l'île.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Seven+Springs+Rhodes"
+        },
+        {
+          "rarity": "Une ruine avec vue",
+          "name": "Château de Kritinia",
+          "description": "Un château de chevaliers en ruine surplombant la côte ouest et l'île de Halki : entrée gratuite, pas de foule, un coucher de soleil gratuit. Une taverne de village à proximité est le bonus.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kritinia+Castle+Rhodes"
+        },
+        {
+          "rarity": "Une baie de cinéma",
+          "name": "Baie d'Anthony Quinn",
+          "description": "La crique turquoise nommée d'après 'Les Canons de Navarone' : un paradis pour la plongée avec tuba parmi les rochers. Allez-y tôt — les bateaux arrivent à midi.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Anthony+Quinn+Bay+Rhodes"
+        },
+        {
+          "rarity": "Traces italiennes sur une colline",
+          "name": "Filerimos et le chemin du Golgotha",
+          "description": "Au-dessus de l'ancienne Ialysos : un monastère, un chemin du 'Golgotha' bordé de cyprès et une croix géante ; des paons vous accompagnent, et les deux côtes se dévoilent en contrebas.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Filerimos+Rhodes"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Pointe sud",
+        "text": "Lors de votre journée dans le sud, déjeunez dans une taverne de village à Gennadi ou Lachania ; le menu est court, le poisson frais, l'addition moitié prix."
+      }
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Rhodes est une île honnête ; les pièges sont concentrés le long de la route des croisières. Connaissez ces quatre-là — le reste est filoxenia.",
+      "items": [
+        {
+          "icon": "🍽️",
+          "name": "Le menu touristique racolé à l'intérieur des murs",
+          "description": "Autour de la rue Socratous, les endroits qui vous attirent avec des menus photo vendent de la moussaka congelée à des prix de château.",
+          "instead": "Allez une ou deux ruelles plus loin, ou sortez des murs : dans les ouzeris avec des menus à la craie, le même argent vous achète la vraie chose."
+        },
+        {
+          "icon": "🏖️",
+          "name": "Confondre Faliraki avec toute l'île",
+          "description": "Les bars et le bruit des jet-skis de la plage de fête ne sont pas la vitrine de Rhodes ; terminer l'île là la laisse à moitié vue.",
+          "instead": "Consacrez une journée au sud : le vide de Gennadi, le vent de Prasonisi, la falaise de Monolithos — le vrai visage de l'île est là."
+        },
+        {
+          "icon": "🛵",
+          "name": "Louer un quad non assuré",
+          "description": "Les quads d'apparence bon marché sont dangereux sur les routes sinueuses et ruineux en cas d'accrochage ; les vérifications de permis et d'assurance sont souvent ignorées.",
+          "instead": "Louez une voiture ou un scooter entièrement assuré ; ne signez jamais sans lire la franchise en cas de dommages."
+        },
+        {
+          "icon": "⛵",
+          "name": "Négocier une 'excursion en bateau tout compris' au port",
+          "description": "Certaines excursions facturent à bord ce qui était 'inclus', et sur un pont bondé, la crique perd de son charme.",
+          "instead": "Demandez par écrit ce qui est inclus (nourriture, boissons, arrêts) ; les bateaux réguliers pour Symi ou Halki sont généralement une meilleure affaire."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "Quand un bateau de croisière est au port, quittez la vieille ville pour le sud ou la plage ; quand il appareille au crépuscule, les murs sont à nouveau à vous."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Chevaliers + Lindos : les deux sommets de l'île",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Vieille Ville — avant la foule",
+              "description": "Remontez la Rue des Chevaliers jusqu'au Palais des Grands Maîtres ; la pierre est fraîche, les ruelles vides."
+            },
+            {
+              "time": "10:00",
+              "title": "Palais et remparts",
+              "description": "La cour du palais et ses mosaïques, puis la promenade sur les remparts (les jours d'ouverture) : toits de tuiles et deux ports vus d'en haut."
+            },
+            {
+              "time": "12:00",
+              "title": "Route vers Lindos",
+              "description": "50 minutes en bus ou en voiture ; un rapide coup d'œil à la crique thermale de Kallithea en chemin est permis."
+            },
+            {
+              "time": "13:00",
+              "title": "Déjeuner à Lindos + acropole",
+              "description": "Un déjeuner léger dans le village, puis l'ascension : la Baie de Saint-Paul à travers les colonnes — le cadre le plus célèbre de l'île."
+            },
+            {
+              "time": "16:30",
+              "title": "Pause baignade",
+              "description": "Baignade à la plage principale de Lindos ou à la Baie de Saint-Paul ; la lumière de l'après-midi rend la baie d'un vert profond."
+            },
+            {
+              "time": "19:30",
+              "title": "Soirée à Mandraki",
+              "description": "De retour en ville, promenez-vous sur la promenade entre les statues de cerfs ; dîner décontracté dans un ouzeri avec des pitaroudia."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez l'île en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Chevaliers et Lindos",
+              "description": "Le parcours d'une journée ci-dessus : Vieille Ville, palais, Lindos, Mandraki."
+            },
+            {
+              "time": "Day 2",
+              "title": "Évasion à Symi",
+              "description": "Bateau matinal pour Symi : le port pastel, le monastère de Panormitis, crevettes de Symi à midi ; retour pour une promenade nocturne dans la Vieille Ville — les remparts sous les lanternes."
+            },
+            {
+              "time": "Day 3",
+              "title": "L'ouest et le sud sauvages",
+              "description": "En voiture le long de la côte ouest : Filerimos, le château de Kritinia, un déjeuner dégustation de vin à Embonas, le coucher de soleil de Monolithos ; une dernière baignade dans une crique du sud sur le chemin du retour."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Trois mots de grec ouvrent les portes ; arriver de la côte voisine garantit un sourire en prime.",
+      "items": [
+        {
+          "word": "Yassas",
+          "pronunciation": "YAH-sas",
+          "meaning": "Bonjour / Au revoir — la salutation formelle et sûre"
+        },
+        {
+          "word": "Efharistó",
+          "pronunciation": "ef-hah-ree-STOH",
+          "meaning": "Merci — semble difficile, mais ça vient au deuxième essai"
+        },
+        {
+          "word": "Parakaló",
+          "pronunciation": "pah-rah-kah-LOH",
+          "meaning": "S'il vous plaît / De rien — le joker grec"
+        },
+        {
+          "word": "Yamas!",
+          "pronunciation": "YAH-mas",
+          "meaning": "Santé ! — les verres d'ouzo se lèvent à ce mot"
+        },
+        {
+          "word": "Kalimera",
+          "pronunciation": "kah-lee-MEH-rah",
+          "meaning": "Bonjour — le mot qui illumine les visages au marché du matin"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Checklist Rhodes",
+      "completion_message": "Yamas ! Vous avez découvert Rhodes comme il se doit !",
+      "items": [
+        {
+          "label": "Parcourir la Rue des Chevaliers à l'aube",
+          "sub": "Avant la foule, au son des pierres"
+        },
+        {
+          "label": "Visiter le Palais des Grands Maîtres",
+          "sub": "Cour, mosaïques et salles des chevaliers"
+        },
+        {
+          "label": "Grimper à l'acropole de Lindos",
+          "sub": "La vue sur la baie de Saint-Paul — à l'heure matinale"
+        },
+        {
+          "label": "Déguster pitaroudia + ouzo dans un ouzeri",
+          "sub": "Beignets de pois chiche, un verre glacé, de longues discussions"
+        },
+        {
+          "label": "Traverser à Symi pour la journée",
+          "sub": "Le port pastel + les crevettes de Symi"
+        },
+        {
+          "label": "Admirer le coucher de soleil à Monolithos",
+          "sub": "Le château sur la falaise — le drame de l'île"
+        },
+        {
+          "label": "Déguster du vin à Embonas",
+          "sub": "Vin blanc Athiri, dans une cave villageoise"
+        },
+        {
+          "label": "Traverser le tunnel des Sept Sources",
+          "sub": "Le tunnel d'eau sombre — le défi classique"
+        },
+        {
+          "label": "Voir deux mers à la fois à Prasonisi",
+          "sub": "À gauche, le calme ; à droite, le vent"
+        },
+        {
+          "label": "Se promener sous les remparts la nuit",
+          "sub": "Quand les lanternes s'allument, le Moyen Âge revient"
+        }
+      ]
+    }
+  }
+}

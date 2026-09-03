@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Geneva",
+    "country": "Switzerland",
+    "language": "fr",
+    "version": "2.1",
+    "color_primary": "#1A4B8C",
+    "color_light": "#E8EEF8",
+    "tagline": "L'une des villes les plus chères du monde – la plupart des meilleures choses sont gratuites.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Demandez la carte de transport à l'enregistrement",
+    "Mangez de la fondue au bon endroit",
+    "Marchez jusqu'à Jonction"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Genève est une petite ville – mais elle abrite le siège européen des Nations Unies, plus de 40 organisations internationales et la plus forte concentration de missions diplomatiques au monde. On le remarque dès l'arrivée : tout est trop ordonné, trop propre, trop calme. Après 22h, les rues se vident. Puis vous vous asseyez au bord du Lac Léman, les Alpes de l'autre côté de l'eau, le Jet d'Eau au-dessus, un café à vos côtés – et vous comprenez pourquoi la ville a été construite ici. À la Jonction, deux rivières se rencontrent avec des couleurs différentes. À Carouge, un esprit de quartier italien commence à respirer. Genève est petite mais riche en couches.",
+      "local_word": {
+        "pronunciation": "mwa-tYEY mwa-tYEY",
+        "definition": "Moitié-moitié. À Genève, quand on parle de fondue, c'est ce que l'on entend : moitié Gruyère, moitié Vacherin Fribourgeois. C'est le mélange standard. Au restaurant, ne dites pas simplement 'fondue' – demandez une 'moitié-moitié' et vous remarquerez la différence. Un plat d'hiver ; de novembre à mars.",
+        "word": "Moitié-Moitié"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Si vous séjournez dans un hôtel, tous les transports sont gratuits – renseignez-vous à l'arrivée",
+          "description": "Si vous séjournez dans un hôtel, une auberge de jeunesse ou un camping à Genève, vous avez droit à une Geneva Transport Card. Pendant toute la durée de votre séjour, le tram, le bus, le train et le bateau jaune (Mouettes Genevoises) sont tous gratuits. Cela inclut également le transfert depuis l'aéroport. Parfois, elle n'est pas remise automatiquement – demandez-la à l'arrivée."
+        },
+        {
+          "number": 2,
+          "title": "Une ville chère – mais les activités gratuites sont vraiment bien",
+          "description": "Les prix des restaurants sont parmi les plus élevés d'Europe ; planifiez en conséquence. Mais n'oubliez pas : le Jet d'Eau, le Mur des Réformateurs, les promenades dans les rues de la Vieille Ville, la marche jusqu'à la Jonction et le bord du lac sont tous gratuits. De nombreux musées sont gratuits le dimanche. Les menus du midi sont souvent à moitié prix par rapport au dîner dans le même restaurant – avec la même qualité."
+        },
+        {
+          "number": 3,
+          "title": "La fondue et la raclette sont des plats d'hiver – ne les commandez pas en été",
+          "description": "De novembre à mars est la bonne saison pour la fondue et la raclette. En été, elles sont servies dans les restaurants touristiques, mais ces plats appartiennent au froid. La bonne question en été est : 'Avez-vous des Filets de perches du Léman ?' Des perches fraîches du Lac Léman – si le menu ne mentionne pas 'du Léman', le poisson pourrait être congelé et importé d'Europe de l'Est."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "GVA — Geneva Cointrin",
+          "sub": "7 min en train jusqu'à la Gare Cornavin · ticket gratuit de 80 min à la sortie"
+        },
+        {
+          "icon": "🚋",
+          "label": "Transports",
+          "value": "TPG — tram, bus, train, Mouettes",
+          "sub": "Gratuit pour tout le séjour si vous êtes à l'hôtel"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Météo",
+          "value": "Quatre saisons, effet lac et montagne",
+          "sub": "Avr–Juin et Sep idéaux · Déc–Mars froid · attention au vent de Bise"
+        },
+        {
+          "icon": "💰",
+          "label": "Monnaie",
+          "value": "Swiss Franc (CHF)",
+          "sub": "Une des villes les plus chères d'Europe · menus du midi bien moins chers que le dîner"
+        }
+      ],
+      "tip": {
+        "label": "Geneveroule — location de vélos gratuite",
+        "text": "Le bureau de Geneveroule se trouve juste en face de la Gare Cornavin. Laissez votre pièce d'identité et une caution de 20 CHF, prenez un vélo pour la journée. La caution est restituée en fin de journée ; le vélo est gratuit. Genève est la taille idéale pour le vélo. Le bord du lac, Carouge et Plainpalais sont tous plats et adaptés aux vélos. La saison s'étend de mai à octobre.",
+        "type": "tip"
+      },
+      "title": "Bienvenue à Genève"
+    },
+    "transport": {
+      "intro": "Genève est petite et bien desservie. Tram, bus, train et les navettes jaunes fonctionnent tous avec le même billet — et si vous séjournez dans un hôtel, tout est gratuit.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aéroport → Centre-ville",
+          "description": "De la gare située au sous-sol de l'aéroport à la Gare Cornavin : 7 minutes, toutes les 10-15 minutes. Après avoir récupéré vos bagages, présentez votre carte d'embarquement aux distributeurs de billets pour obtenir un billet gratuit de 80 minutes. Si vous avez la Geneva Transport Card, vous n'en avez pas besoin — c'est déjà gratuit."
+        },
+        {
+          "icon": "🚋",
+          "title": "TPG — tram et bus",
+          "description": "6 lignes de tram (numérotées de 12 à 17) et un réseau de bus complet couvrent tous les recoins de la ville. Un billet simple est valable 60 minutes ; les correspondances sont gratuites entre tram, bus, train et Mouettes. Les billets s'achètent aux distributeurs aux arrêts — les bus urbains n'ont pas de distributeurs à bord, achetez donc avant de monter."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Mouettes Genevoises — navettes jaunes",
+          "description": "Petits bateaux jaunes reliant les deux rives du lac, avec le même billet TPG. La ligne M1 va de Pâquis aux Eaux-Vives, la ligne M2 de près du Pont du Mont-Blanc à Genève-Plage. Une courte traversée, mais sur le Lac Léman — la manière la plus simple de voir la ville sous un angle différent."
+        },
+        {
+          "icon": "🚲",
+          "title": "Vélo — Geneveroule",
+          "description": "Directement en face de la Gare Cornavin. Laissez votre pièce d'identité et une caution de 20 CHF pour un vélo gratuit à la journée. Itinéraires plats et sûrs le long du lac jusqu'à Carouge et Plainpalais. Saison de mai à octobre."
+        },
+        {
+          "icon": "🚶",
+          "title": "À pied — idéal pour le centre-ville",
+          "description": "La Vieille Ville, Pâquis et les rives du lac sont toutes accessibles à pied. Gare Cornavin au Jet d'Eau : 20 minutes. Carouge : 15 minutes en tram ou 35 minutes à pied. Jonction : 25 minutes de marche depuis le centre."
+        }
+      ],
+      "callout": {
+        "label": "Geneva Transport Card — demandez-la à l'arrivée",
+        "text": "Si vous séjournez dans un hôtel, une auberge de jeunesse ou un camping à Genève, vous avez droit à cette carte. Elle couvre tous les véhicules TPG, les trains et les Mouettes dans la Zone 10 pendant toute la durée de votre séjour. Elle n'est parfois pas envoyée automatiquement — si vous ne la demandez pas à l'arrivée, vous pourriez la manquer. Elle couvre également le transfert depuis l'aéroport. Les transports publics à Genève ne sont pas bon marché ; cette carte représente une réelle économie.",
+        "type": "tip"
+      },
+      "title": "Se déplacer"
+    },
+    "stay": {
+      "intro": "Genève est petite, mais ses quartiers sont très différents. L'endroit où vous séjournez façonne directement votre expérience de la ville.",
+      "local_word": {
+        "pronunciation": "ka-RUJE",
+        "definition": "Conçue par des architectes sardes au XVIIIe siècle, Carouge fait techniquement partie de Genève mais est indépendante d'esprit. L'influence italienne est forte : de larges cours, des bâtiments bas, des cafés en terrasse. Complètement différente de l'atmosphère froide et protocolaire de la ville. Avec son marché du week-end, ses restaurants locaux et son ambiance nocturne, c'est le coin le plus vivant de Genève.",
+        "word": "Carouge"
+      },
+      "items": [
+        {
+          "name": "Rive / Eaux-Vives",
+          "badge": "Le plus central",
+          "badge_type": "hot",
+          "description": "Sur la rive gauche du lac, à distance de marche du Jet d'Eau. Le Jardin Anglais, les rues commerçantes et le marché alimentaire des Halles de Rive s'y trouvent. Connexions faciles en tramway partout. Le bon choix si c'est votre première fois et que vous voulez un accès facile à tout.",
+          "tags": [
+            "À distance de marche du Jet d'Eau",
+            "Halles de Rive",
+            "Accès facile à tout"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Eaux-Vives+Geneva"
+        },
+        {
+          "name": "Pâquis",
+          "badge": "Le plus animé",
+          "badge_type": "local",
+          "description": "Juste à côté de la Gare Cornavin, sur la rive droite du lac. Le quartier le plus multiculturel de Genève ; des communautés asiatiques, africaines et arabes y vivent. Les Bains des Pâquis sont le point de rassemblement estival au bord du lac. Les restaurants et les bars restent ouverts tard — la partie la moins calme de la ville.",
+          "tags": [
+            "Bains des Pâquis",
+            "À côté de la Gare Cornavin",
+            "Multiculturel, animé"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Paquis+Geneva"
+        },
+        {
+          "name": "Vieille Ville / Old Town",
+          "badge": "Le plus historique",
+          "badge_type": "hot",
+          "description": "Au sommet de la colline, avec la Cathédrale Saint-Pierre et le Mur des Réformateurs. Rues pavées étroites, bâtiments historiques, petits cafés. La partie la plus touristique de Genève, mais véritablement belle aux heures calmes — tôt le matin ou en fin d'après-midi. La montée est fatigante mais les vues en valent la peine.",
+          "tags": [
+            "Cathédrale Saint-Pierre",
+            "Mur des Réformateurs",
+            "Vues panoramiques"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vieille+Ville+Geneva"
+        },
+        {
+          "name": "Carouge",
+          "badge": "Le plus typique",
+          "badge_type": "local",
+          "description": "Techniquement une commune distincte rattachée à Genève. À 15 minutes en tram. Architecture de cour italienne, un marché du week-end, des restaurants locaux. Complètement différent de l'atmosphère froide et ordonnée du reste de la ville. Allez dîner à Carouge ; restez-y.",
+          "tags": [
+            "15 min en tram",
+            "Marché du week-end",
+            "Quartier le plus authentique"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Carouge+Geneva"
+        },
+        {
+          "name": "Plainpalais / Jonction",
+          "badge": "Le plus local",
+          "badge_type": "local",
+          "description": "Quartier étudiant et artistique autour de l'Université de Genève. La place de Plainpalais se transforme en le meilleur marché aux puces de la ville les mercredis et samedis. La Jonction est l'endroit où le Rhône et l'Arve se rencontrent — où les habitants se baignent en été. Le plus éloigné de toute atmosphère touristique.",
+          "tags": [
+            "Marché aux puces de Plainpalais",
+            "Confluence de la Jonction",
+            "Quartier étudiant"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Plainpalais+Geneva"
+        }
+      ],
+      "title": "Où séjourner"
+    },
+    "best_time": {
+      "intro": "Genève vit chaque saison différemment. En été, c'est le lac ; en hiver, ce sont les Alpes et le silence.",
+      "items": [
+        {
+          "label": "Printemps",
+          "name": "La période la plus équilibrée",
+          "months": "Apr – Jun",
+          "description": "De fin avril à juin, c'est la période la plus équilibrée à Genève. Le lac est encore froid mais les rives sont magnifiques. Le Jardin Anglais et le Parc La Grange sont en fleurs. Les foules ne se sont pas encore formées, les vols sont moins chers qu'en haute saison estivale. La saison du vélo s'ouvre. Mai est le moment où la ville est à son meilleur : pas trop froid, pas trop de monde.",
+          "callout": {
+            "label": "Parc La Grange — roseraie et vues sur le lac",
+            "text": "Sur la rive gauche aux Eaux-Vives. La plus grande roseraie de Genève, en pleine floraison de fin mai à début juin. Ancienne villa, aires de pique-nique, vues sur le lac. Gratuit, toujours ouvert. Souvent ignoré par la plupart des cartes touristiques.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Printemps · Avant la foule, quand la ville s'éveille"
+        },
+        {
+          "label": "Été",
+          "name": "Saison du lac",
+          "months": "Jul – Aug",
+          "description": "Juillet et août sont les mois les plus animés mais la ville ne semble jamais accablante. Le lac est prêt pour la baignade. Les Fêtes de Genève début août — un grand feu d'artifice. De la perche fraîche du Léman au lieu de la fondue ; le bon choix en été.",
+          "callout": {
+            "label": "Baignade dans le fleuve à la Jonction",
+            "text": "Là où le Rhône et l'Arve se rencontrent à la Jonction, les habitants se baignent dans le fleuve en été. Le courant est fort ; il y a des zones sûres. L'entrée est gratuite. Foule locale, soleil — pas une activité touristique, un rituel estival de la ville.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Été · Lac, fleuve, plein air"
+        },
+        {
+          "label": "Automne",
+          "name": "La saison la plus sous-estimée",
+          "months": "Sep – Nov",
+          "description": "Septembre et octobre : la foule est partie, le temps est encore doux, le lac est calme et bleu. La saison de la fondue s'ouvre. Fin octobre, les marmites en chocolat annuelles de Favarger apparaissent dans les vitrines des confiseurs — le premier signe de L'Escalade.",
+          "callout": {
+            "label": "Une soirée d'automne à Carouge",
+            "text": "En septembre et octobre, les terrasses des cafés et restaurants de Carouge sont encore ouvertes ; la foule estivale est partie. Le marché du mercredi et du samedi propose des produits d'automne : champignons, courges, fromages locaux. Allez-y en fin d'après-midi, flânez parmi les étals, asseyez-vous quelque part. Les heures les plus détendues de la ville.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Automne · Lac calme, la fondue est de retour"
+        },
+        {
+          "label": "Hiver",
+          "name": "Silence et les Alpes",
+          "months": "Dec – Mar",
+          "description": "Décembre s'anime brièvement avec le marché de Noël et les célébrations de L'Escalade. Janvier et février sont les mois où la ville se vide de ses touristes. La bise — vent froid et vif du nord — peut souffler pendant des jours ; soyez-y préparé. Les Alpes sont proches pour le ski : Chamonix est à une heure, Les Gets à une heure et demie. Genève en hiver est très calme — le meilleur moment pour ceux qui aiment cela.",
+          "callout": {
+            "label": "L'Escalade — le moment de décembre le plus genevois",
+            "text": "Chaque année, la deuxième semaine de décembre, un festival commémorant la victoire de 1602 sur la Savoie. Une procession historique en costumes à travers la Vieille Ville. La marmite en chocolat de Favarger — Marmite de l'Escalade — fabriquée spécialement pour l'année, est mise en vente chez les confiseurs à partir de mi-novembre. Tradition : casser la marmite et partager les douceurs à l'intérieur.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Hiver · La ville s'apaise, les Alpes sont proches"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "August",
+          "text": "Fêtes de Genève : l'un des plus grands feux d'artifice d'Europe sur le lac ; les rives se transforment en une fête foraine d'une semaine."
+        },
+        {
+          "month": "December",
+          "text": "L'Escalade : la célébration de la victoire de 1602 — défilés costumés, histoire à cheval et le rituel de casser la marmite en chocolat."
+        },
+        {
+          "month": "June–September",
+          "text": "Saison du lac : baignade aux Bains des Pâquis, pique-niques sur les rives ; en été, la ville vit avec son lac."
+        },
+        {
+          "month": "January–February",
+          "text": "Évasion ski : Chamonix et les Portes du Soleil sont à une heure ; pistes le matin, fondue en ville le soir."
+        }
+      ],
+      "title": "Quand partir"
+    },
+    "eat": {
+      "intro": "Une ville au cœur de la cuisine franco-suisse. Fromage, poisson d'eau douce, saucisse locale – tout est différent quand on le déguste au bon endroit.",
+      "local_word": {
+        "pronunciation": "fi-LAY duh PERSH duh lay-MAN",
+        "definition": "Filets de perches frais du Lac Léman. Le plat d'été de Genève. Si le menu ne mentionne pas 'du Léman', il se peut que le poisson ne soit pas frais – recherchez cette indication. Légèrement farinés et frits au beurre, servis avec du citron et du riz. De mai à septembre.",
+        "word": "Filets de perches du Léman"
+      },
+      "items": [
+        {
+          "icon": "🧀",
+          "name": "Fondue moitié-moitié",
+          "description": "La fondue classique de Genève : moitié Gruyère, moitié Vacherin Fribourgeois. Des morceaux de pain trempés dans le fromage fondu avec une longue fourchette. La bonne saison pour la fondue s'étend de novembre à mars. Évitez les restaurants autour de la Gare Cornavin – ils utilisent des mélanges de fromages bon marché et la différence est notable. Les Bains des Pâquis ou les restaurants de Carouge sont des adresses fiables.",
+          "tag": "Nov–Mar · Bains des Pâquis ou Carouge · réservation nécessaire",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+du+Soleil+Geneva"
+        },
+        {
+          "icon": "🧀",
+          "name": "Raclette",
+          "description": "Une demi-meule de fromage chauffée près du feu, la partie fondue étant raclée directement sur l'assiette. Servie avec des pommes de terre bouillies, des cornichons et des oignons. La version électrique de table est un raccourci – la vraie raclette est faite avec une demi-meule de fromage.",
+          "tag": "Hiver · doit être d'une demi-meule · la version de table n'est pas l'authentique",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Armures+Geneva"
+        },
+        {
+          "icon": "🌭",
+          "name": "Longeole",
+          "description": "Une saucisse locale unique à Genève, avec une indication géographique protégée (IGP). Faite de porc, de graines de fenouil et d'épices ; produite nulle part ailleurs. L'un des plats officiels de la ville. Servie avec des lentilles ou des haricots secs. On la trouve dans les restaurants locaux de Carouge et aux Halles de Rive.",
+          "tag": "IGP genevoise · Carouge et Halles de Rive",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Auberge+de+Savièse+Geneva"
+        },
+        {
+          "icon": "🐟",
+          "name": "Filets de perches du Léman",
+          "description": "Filets de perches frais du Lac Léman – le plat principal des restaurants au bord du lac en été. Si le menu ne mentionne pas 'du Léman', le poisson n'est pas frais – recherchez cette indication. Légèrement farinés et frits au beurre. De mai à septembre.",
+          "tag": "Mai–Sep · l'indication 'du Léman' est essentielle · restaurants au bord du lac",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Buvette+des+Bains+Geneva"
+        },
+        {
+          "icon": "🍫",
+          "name": "Marmite de l'Escalade",
+          "description": "Une marmite en chocolat produite par Favarger chaque année de mi-novembre à mi-décembre. Commémore la victoire de 1602. Remplie de petites douceurs ; la tradition est de la briser et de partager son contenu. L'expérience chocolat la plus locale de Genève – indisponible le reste de l'année.",
+          "tag": "Mi-nov à mi-déc · Favarger · production annuelle",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Auer+Chocolatier+Geneva"
+        },
+        {
+          "icon": "🛒",
+          "name": "Halles de Rive",
+          "description": "À Rive, juste à côté du lac. Le meilleur marché couvert de Genève. Fromagers, bouchers, poissonniers et boulangers locaux réunis. Longeole, Gruyère et perches fraîches s'y trouvent. Ce n'est pas une destination touristique ; c'est là que les Genevois font leurs courses. Ouvert tous les jours, le plus animé le matin.",
+          "tag": "Rive · ouvert tous les jours · le plus animé le matin",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Halles+de+Rive+Geneva"
+        }
+      ],
+      "callout": {
+        "label": "Évitez la zone autour de la Gare Cornavin",
+        "text": "Le tronçon de la Rue du Mont-Blanc autour de la gare compte des dizaines d'endroits servant fondue et raclette. Fromage bon marché, fondue liquide et insipide, poisson congelé. Évitez ces restaurants. Marchez un peu plus loin : Carouge, les Bains des Pâquis, ou Les Armures et le Café Papon dans la Vieille Ville sont tous de bien meilleures options.",
+        "type": "tip"
+      },
+      "title": "Gastronomie"
+    },
+    "hidden_gems": {
+      "intro": "Juste derrière la façade diplomatique de Genève, une ville complètement différente vous attend.",
+      "items": [
+        {
+          "name": "La Pointe de la Jonction",
+          "description": "À l'extrémité ouest de la ville, le Rhône et l'Arve se rencontrent. L'un est vert turquoise, l'autre brun boueux — les deux couleurs coulent côte à côte sur une longue distance sans se mélanger. Clairement visible à l'œil nu. En été, vous pouvez vous baigner dans des zones sécurisées. Facilement accessible à pied ou à vélo. Gratuit, toujours ouvert.",
+          "rarity": "Deux rivières, deux couleurs — coulant côte à côte sans se mélanger",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pointe+de+la+Jonction+Geneva"
+        },
+        {
+          "name": "Quartier des Grottes",
+          "description": "À quelques minutes à pied au nord-ouest de la Gare Cornavin. Dans les années 1980, les habitants d'un quartier menacé de démolition ont occupé leurs bâtiments ; des architectes ont conçu des façades organiques, ondulées et multicolores. Aujourd'hui connues sous le nom de 'bâtiments Schtroumpfs'. L'exact opposé du caractère ordonné et stérile de Genève. Ateliers d'artistes et cafés alternatifs dans les cours intérieures. Gratuit, toujours ouvert.",
+          "rarity": "Les bâtiments les plus étranges de Suisse — le quartier des Schtroumpfs",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Les+Grottes+Geneva"
+        },
+        {
+          "name": "Promenade de la Treille",
+          "description": "Juste au-dessus de la Vieille Ville, le long du Parc des Bastions. Le banc en bois ici, long de 120 mètres, est parmi les plus longs du monde. Chaque année, l'arrivée du printemps est officiellement annoncée par le premier bourgeon du marronnier situé le long de ce chemin. Vues panoramiques sur la ville, à quelques pas du Mur des Réformateurs.",
+          "rarity": "Un banc en bois de 120 mètres et l'annonce officielle du printemps",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Promenade+de+la+Treille+Geneva"
+        },
+        {
+          "name": "CERN",
+          "description": "À l'extrémité ouest de la ville, à la frontière franco-suisse. Le plus grand laboratoire de physique des particules au monde et le lieu de naissance du World Wide Web. L'entrée au Science Gateway, ouvert en 2023, est gratuite — mais une inscription est requise. L'inscription en ligne peut être effectuée jusqu'à un mois à l'avance et garantit l'entrée ; l'inscription sur place est également possible mais sous réserve de disponibilité. Les visites guidées sont également gratuites mais ne peuvent être réservées sur place que deux heures avant le début de la visite — elles se remplissent très rapidement. Environ 30 minutes en tram.",
+          "rarity": "Là où le World Wide Web est né — et le Grand collisionneur de hadrons",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=CERN+Geneva"
+        },
+        {
+          "name": "Place des Nations — Broken Chair",
+          "description": "Devant le bâtiment des Nations Unies, une chaise géante en bois à trois pieds. Le quatrième pied est cassé — représentant les mines terrestres et les munitions non explosées. Érigée temporairement en 1997 pour encourager la signature du Traité d'Ottawa interdisant les mines antipersonnel. Genève ne l'a jamais retirée. Une visite guidée du Palais des Nations est payante, mais l'accès à la place est gratuit.",
+          "rarity": "Une sculpture, un traité — et Genève ne l'a jamais laissée partir",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Broken+Chair+Geneva"
+        },
+        {
+          "name": "Bains des Pâquis",
+          "description": "Une jetée en bois s'avançant dans le lac sur la rive des Pâquis. En été, une piscine en plein air et un hammam : baignade, bronzage, sauna, petite restauration. Ne ferme pas en hiver — l'un des endroits les plus populaires pour la fondue hivernale. Payant mais à un prix raisonnable. En hiver, les réservations pour la fondue sont essentielles ; les week-ends se remplissent vite.",
+          "rarity": "Baignade, sauna et fondue au bord du lac — ouvert toute l'année",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bains+des+Paquis+Geneva"
+        }
+      ],
+      "callout": {
+        "label": "Plainpalais — le meilleur marché aux puces de la ville",
+        "text": "Tous les mercredis et samedis matin sur la place de Plainpalais. Livres, disques, vêtements vintage, antiquités, électronique. Le marché en plein air le plus coloré et varié de Genève. Idéal tôt le matin. Entrée gratuite.",
+        "type": "tip"
+      },
+      "title": "Trésors cachés"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Obtenez la Geneva Transport Card à l'arrivée",
+          "sub": "Si vous séjournez dans un hôtel, une auberge de jeunesse ou un camping, vous y avez droit. Tous les transports publics sont gratuits pendant votre séjour. Parfois, elle n'est pas envoyée automatiquement – demandez toujours."
+        },
+        {
+          "label": "Voir le Jet d'Eau",
+          "sub": "140 mètres de haut, visible de partout sur le lac. Vous pouvez vous en approcher. Gratuit."
+        },
+        {
+          "label": "Marcher jusqu'à la Jonction",
+          "sub": "Où le Rhône et l'Arve se rencontrent avec des couleurs différentes. 25 minutes à pied ou à vélo. Gratuit."
+        },
+        {
+          "label": "Dîner à Carouge",
+          "sub": "15 minutes en tram. Une Genève complètement différente. Restaurants locaux, cours intérieures, vestiges de marché."
+        },
+        {
+          "label": "Louer un vélo chez Geneveroule",
+          "sub": "En face de la Gare Cornavin. Pièce d'identité + 20 CHF de caution. Le vélo est gratuit. Saison de mai à octobre."
+        },
+        {
+          "label": "Aller aux Bains des Pâquis",
+          "sub": "Baignade et bronzage en été, sauna en hiver. Au bord du lac, un lieu prisé des locaux. Payant mais abordable."
+        },
+        {
+          "label": "Voir le Mur des Réformateurs",
+          "sub": "Dans le Parc des Bastions. Statues géantes de Calvin et des autres réformateurs. Gratuit."
+        },
+        {
+          "label": "Visiter les Halles de Rive",
+          "sub": "Tôt le matin. Fromagers locaux, poissonniers, boulangeries. La vraie cuisine de Genève."
+        },
+        {
+          "label": "Visiter le CERN",
+          "sub": "L'entrée au Science Gateway est gratuite, inscription en ligne requise. Visites guidées : réservation sur place uniquement, ouvre 2 heures avant, les places partent vite. Environ 30 min en tram."
+        },
+        {
+          "label": "Trouver la Chaise Cassée",
+          "sub": "Devant le bâtiment de l'ONU. La quatrième patte est cassée, représentant les mines antipersonnel. L'accès à la place est gratuit."
+        },
+        {
+          "label": "Prendre les Mouettes",
+          "sub": "Ferry jaune, avec votre ticket TPG. Traversée du lac."
+        },
+        {
+          "label": "Manger au bon endroit",
+          "sub": "Pour la fondue : Carouge ou Bains des Pâquis. Pour la perche fraîche : restaurants au bord du lac. Évitez le quartier de la Gare Cornavin."
+        }
+      ],
+      "title": "Liste de contrôle pour Genève",
+      "completion_message": "Vous avez découvert Genève comme il se doit – pas seulement en surface."
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Genève a peu de pièges – mais les prix eux-mêmes peuvent en être un. Connaissez ces quatre points et protégez votre budget suisse.",
+      "items": [
+        {
+          "icon": "🚕",
+          "name": "Prendre un taxi depuis l'aéroport",
+          "description": "Payer 40 francs pour un taxi alors qu'un train de 7 minutes existe est l'erreur touristique classique de la ville – et le billet de train est gratuit dans la zone de récupération des bagages.",
+          "instead": "Prenez le billet gratuit de 80 minutes à la machine près des tapis à bagages ; à votre hôtel, demandez la carte de transport genevoise gratuite."
+        },
+        {
+          "icon": "⌚",
+          "name": "Une 'montre suisse' d'une boutique de souvenirs",
+          "description": "Certaines des montres et couteaux bon marché 'Swiss made' dans les vitrines de la Rue du Mont-Blanc sont des imitations importées.",
+          "instead": "Pour l'authentique, rendez-vous chez un revendeur agréé ; pour un cadeau économique, le chocolat suisse est toujours la bonne réponse."
+        },
+        {
+          "icon": "🫕",
+          "name": "Insister sur la fondue en été",
+          "description": "Elle figure sur les menus toute l'année, mais la fondue est un plat d'hiver ; servie aux touristes en août, elle perd à la fois son goût et son cadre.",
+          "instead": "En été, mangez des filets de perche du lac ; gardez la fondue pour une soirée froide et une brasserie aux murs de pierre."
+        },
+        {
+          "icon": "💸",
+          "name": "Transformer le lac en forfait payant",
+          "description": "Les forfaits 'visite de la ville' coûteux vendent un itinéraire déjà gratuit : la vue sur le Jet d'Eau, les rives du lac, la Vieille Ville.",
+          "instead": "Les 'Mouettes' jaunes (taxis lacustres) traversent le lac gratuitement avec votre carte de transport ; vos pieds feront le reste."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "Vous êtes dans l'une des villes les plus chères du monde, mais ses meilleures attractions sont gratuites : le lac, les vues sur les montagnes, la Vieille Ville, un coucher de soleil aux Bains des Pâquis. Gardez votre argent pour la nourriture et le chocolat."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces itinéraires. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Le lac, la Vieille Ville et la rencontre de deux fleuves",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Bord du lac + Jet d'Eau",
+              "description": "Du Jardin Anglais, passez devant l'horloge fleurie jusqu'à la fontaine de 140 mètres ; à la lumière du matin, le lac est un miroir."
+            },
+            {
+              "time": "10:30",
+              "title": "Vieille Ville + St-Pierre",
+              "description": "Ruelles pavées, la vue sur le lac depuis la tour de la cathédrale, et le plus long banc en bois du monde sur la Treille."
+            },
+            {
+              "time": "13:00",
+              "title": "Déjeuner aux Halles de Rive",
+              "description": "Fromages, charcuteries et pâtes fraîches aux étals du marché couvert ; là où les locaux déjeunent vraiment."
+            },
+            {
+              "time": "15:00",
+              "title": "Les rues de Carouge",
+              "description": "Le Greenwich Village de Genève : cours de style sarde, boutiques d'artisans, cafés tranquilles."
+            },
+            {
+              "time": "17:30",
+              "title": "Bains des Pâquis",
+              "description": "Nagez depuis la jetée au milieu du lac, ou asseyez-vous simplement ; le coucher de soleil ici est démocratique — la même vue pour tous."
+            },
+            {
+              "time": "20:00",
+              "title": "Soirée aux Pâquis",
+              "description": "Cuisines du monde dans le quartier le plus coloré de la ville — ou, si c'est l'hiver, fondue près d'un mur en pierre."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Lac et Vieille Ville",
+              "description": "L'itinéraire d'un jour ci-dessus : le rivage, la cathédrale, Carouge, les Pâquis."
+            },
+            {
+              "time": "Day 2",
+              "title": "Science et diplomatie",
+              "description": "Le CERN le matin (gratuit, sur réservation), la Place des Nations et la Chaise Cassée l'après-midi, les maisons gaudiesques des Grottes sur le chemin du retour."
+            },
+            {
+              "time": "Day 3",
+              "title": "La Jonction et au revoir",
+              "description": "Marchez jusqu'à la rencontre bicolore du Rhône et de l'Arve, le marché aux puces de Plainpalais à midi (mer/sam), une dernière traversée en Mouettes au crépuscule + shopping de chocolat."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Genève parle français, mais à la manière suisse : calme, poli et avec ses propres expressions.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Bonjour — le premier mot obligatoire de chaque échange"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Merci — vous l'entendrez constamment en Suisse"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "S'il vous plaît — ajoutez-le à la fin de votre commande"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "Santé ! — les verres de vin blanc se lèvent à cela"
+        },
+        {
+          "word": "Adieu!",
+          "pronunciation": "ah-DYUH",
+          "meaning": "Le salut amical de la Suisse romande — à la fois bonjour et au revoir"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Vienna",
+    "country": "Austria",
+    "language": "de",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#8A2A44",
+    "color_light": "#F7E9ED",
+    "tagline": "Kaiserliche Eleganz, Kaffeehausphilosophie und ein Stück Sachertorte"
+  },
+  "pills": [
+    "Keine Eile in Kaffeehäusern",
+    "Eine der lebenswertesten Städte der Welt",
+    "Schnitzel größer als der Teller"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Wien",
+      "intro": "Wien hat seinen alten Glanz weder in einem Museum eingeschlossen noch zum Verkauf angeboten; es lebt einfach darin weiter. Straßenbahnen gleiten an Palästen vorbei, Studenten ergattern Stehplätze in der Oper, und ein Rentner, der in einem Marmorkaffeehaus Zeitung liest, sitzt stundenlang, ohne dass ihm jemand die Rechnung bringt. Diese Stadt lächelt der Eile höflich zu: 'Setz dich, trink eine Melange, die Welt kann warten.' Tu dasselbe – Wien öffnet sich erst, wenn du langsamer wirst.",
+      "local_word": {
+        "word": "Schmäh",
+        "pronunciation": "shmay",
+        "definition": "Wiens unübersetzbarer Humor: halb spöttisch, halb liebevoll, immer eine elegante Kunst des wohlplatzierten Seitenhiebs. Der trockene Witz des Kellners ist Schmäh; an dem Tag, an dem du ihn verstehst, bist du Wiener geworden."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Im Kaffeehaus gehört der Tisch dir",
+          "description": "Bestell einen Kaffee und sitz stundenlang: Zeitungen, Gespräche, einfach nichts tun – alles völlig legitim. Der Kellner (Herr Ober) mag distanziert wirken; das ist keine Unhöflichkeit, sondern eine jahrhundertealte Rolle. Die Rechnung kommt nie, es sei denn, du fragst danach."
+        },
+        {
+          "number": 2,
+          "title": "Stehplätze in der Oper sind günstig",
+          "description": "Die Staatsoper verkauft Stehplätze für ein paar Euro, an der Abendkasse kurz vor der Vorstellung. Das ist die Wiener Art, die beste Bühne der Welt mit Studentenbudget zu betreten."
+        },
+        {
+          "number": 3,
+          "title": "Such keine Ticketschranke – aber fahr nicht ohne Ticket",
+          "description": "Die U-Bahn hat keine Drehkreuze; das System basiert auf Vertrauen, aber Kontrolleure sind zivil gekleidet und unerbittlich. Kauf am ersten Tag eine Wochen- oder 72-Stunden-Karte und erkunde die Stadt unbesorgt."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "Schwechat (VIE)",
+          "sub": "CAT-Zug 16 Min. · S7 günstiger"
+        },
+        {
+          "icon": "🚇",
+          "label": "Fortbewegung",
+          "value": "U-Bahn + Tram",
+          "sub": "Vertrauensbasiert, keine Drehkreuze"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Deutsch",
+          "sub": "Englisch funktioniert überall"
+        },
+        {
+          "icon": "🎼",
+          "label": "Markenzeichen",
+          "value": "Hauptstadt der Musik",
+          "sub": "Stadt von Mozart, Beethoven, Strauss"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Die Wiener Philosophie",
+        "text": "Die Wiener kennen zwei Geschwindigkeiten: langsam und langsamer. Im Kaffeehaus nach der Uhrzeit fragen, bei einem Konzert zu früh klatschen und auf der linken Seite einer Rolltreppe stehen – das sind die drei lokalen Sünden. Alles andere wird verziehen."
+      }
+    },
+    "transport": {
+      "title": "Fortbewegung",
+      "intro": "Wiens öffentlicher Nahverkehr ist der Stolz der Stadt: pünktlich, sauber und die ganze Nacht in Betrieb. Ein Auto ist hier völlig überflüssig.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Vom Flughafen ins Zentrum",
+          "description": "Der CAT-Express erreicht Wien Mitte in 16 Minuten; die S7-S-Bahn ist etwas langsamer, kostet aber nur die Hälfte. Taxis haben einen Festpreis, sind aber bei so komfortablen Zügen unnötig."
+        },
+        {
+          "icon": "🚇",
+          "title": "U-Bahn — das fünf-farbige Rückgrat",
+          "description": "Fünf Linien verbinden die Stadt und verkehren an Wochenendnächten 24 Stunden lang. Die 24-/48-/72-Stunden-Pässe und die Wochenkarte sind touristenfreundlich; entwerten Sie Ihr Ticket bei der ersten Fahrt."
+        },
+        {
+          "icon": "🚋",
+          "title": "Ring-Tour mit der Straßenbahn",
+          "description": "Die Straßenbahnlinien 1 und 2 fahren Sie zum Preis eines normalen Tickets an den Prachtbauten der Ringstraße vorbei: Sparen Sie sich den Touristenbus und nehmen Sie einen Fensterplatz."
+        },
+        {
+          "icon": "🚲",
+          "title": "WienMobil Fahrräder",
+          "description": "Leihfahrräder sind eine Freude entlang des Kanals und hinaus zum Prater; die Radwege sind breit und die Autofahrer rücksichtsvoll. Eine Radtour auf der Donauinsel ist die beste Sommerflucht der Stadt."
+        },
+        {
+          "icon": "🚶",
+          "title": "Der 1. Bezirk zu Fuß",
+          "description": "Alles innerhalb des Rings ist von Ende zu Ende zu Fuß erreichbar: Dom, Palast und Kaffeehäuser sind immer nur zehn Minuten voneinander entfernt. Bequeme Schuhe sind alles, was die Kopfsteinpflaster verlangen."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Straßenbahn-Tipp",
+        "text": "Machen Sie die Ring-Tour am späten Nachmittag: Wenn Oper, Parlament und Rathaus zur goldenen Stunde beleuchtet werden, wird das Fenster der Straßenbahnlinie 2 zur günstigsten Loge der Stadt."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "In Wien ist die Bezirksnummer ebenso Identität wie Adresse: Der 1. Bezirk steht für Pracht, der 7. für Coolness, der 2. für Grün.",
+      "local_word": {
+        "word": "Bezirk",
+        "pronunciation": "beh-tseerk",
+        "definition": "Jeder der 23 Wiener Verwaltungsbezirke; Adressen werden nach Nummern gesprochen. Wenn man sagt 'Ich wohne im Siebten', erzählt man einem Wiener einen ganzen Absatz über sich."
+      },
+      "items": [
+        {
+          "name": "Innere Stadt (1. Bezirk)",
+          "badge": "Am prächtigsten",
+          "badge_type": "vibe",
+          "description": "Die Museumsstadt innerhalb des Rings: Dom, Palast und Kaffeehäuser direkt vor Ihrer Tür. Die Preise sind auf kaiserlichem Niveau, die Straßen nachts überraschend ruhig – der Klassiker für einen ersten Besuch.",
+          "tags": [
+            "Alles zu Fuß erreichbar",
+            "Historische Kaffeehäuser",
+            "Kaiserliche Preise"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Innere+Stadt+Vienna"
+        },
+        {
+          "name": "Neubau (7. Bezirk)",
+          "badge": "Am coolsten",
+          "badge_type": "hot",
+          "description": "Das Design- und Caféviertel hinter dem MuseumsQuartier: unabhängige Boutiquen, Third-Wave-Kaffee, junges Wien. Zu Fuß ins Zentrum, die Seele eines Viertels.",
+          "tags": [
+            "Design-Läden",
+            "Café-Kultur",
+            "MuseumsQuartier"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Neubau+Vienna"
+        },
+        {
+          "name": "Leopoldstadt (2. Bezirk)",
+          "badge": "Am grünsten",
+          "badge_type": "value",
+          "description": "Der Bezirk des Praters und des Donaukanals: ein riesiger Park, das Riesenrad, Bars am Wasser. Die Gegend um den Karmelitermarkt ist jung und lebendig; die Preise freundlicher als im Zentrum.",
+          "tags": [
+            "Praterpark",
+            "Kanalbars",
+            "Marktviertel"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Leopoldstadt+Vienna"
+        },
+        {
+          "name": "Josefstadt (8. Bezirk)",
+          "badge": "Am anmutigsten",
+          "badge_type": "local",
+          "description": "Wiens kleinster Bezirk: Theater, Antiquitätenhändler, ruhige Biedermeierstraßen. Wenig Touristen, viele Kaffeehäuser – für alle, die ruhige Eleganz suchen.",
+          "tags": [
+            "Biedermeierstraßen",
+            "Theaterviertel",
+            "Ruhige Nächte"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Josefstadt+Vienna"
+        },
+        {
+          "name": "Wieden (4. Bezirk)",
+          "badge": "Ausgewogene Wahl",
+          "badge_type": "value",
+          "description": "Nachbar des Naschmarkts und Karlsplatzes: zum Markt spazieren, zur Oper spazieren, abends in einer Heurigen-Taverne speisen. Die Adresse, wo zentraler Komfort auf Viertelpreise trifft.",
+          "tags": [
+            "Naschmarkt nebenan",
+            "Karlskirche",
+            "Viertel-Tavernen"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wieden+Vienna"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Beste Reisezeit",
+      "intro": "Wien ist zu jeder Jahreszeit eine Bühne: Der Frühling ist ein Garten, der Sommer ein Film, der Herbst ein Wein, der Winter ein Ball.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Gartensaison",
+          "months": "Apr – Jun",
+          "subtitle": "Frühling · Blühende Parks, volle Cafés",
+          "description": "Die Gärten von Schönbrunn und Belvedere stehen in voller Blüte, die Stände am Naschmarkt quellen über, und die Tische der Kaffeehäuser erobern die Gehsteige. Die Stadt zeigt sich von ihrer fotogensten und ausgewogensten Seite.",
+          "callout": {
+            "type": "tip",
+            "label": "Mai-Tipp",
+            "text": "Ende Mai beginnen die Wiener Festwochen: Die Stadt wird zur Bühne, und das Eröffnungskonzert am Rathausplatz ist kostenlos."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Open-Air-Saison",
+          "months": "Jul – Aug",
+          "subtitle": "Sommer · Filmfestival, Kanalstrände",
+          "description": "Kostenlose Konzertfilme auf einer Großleinwand am Rathausplatz mit internationalen Essensständen davor; die Donauinsel und die 'Strände' am Kanal sind das Sommerresort der Stadt. Hotels sind relativ ruhig; einige Institutionen machen Betriebsferien.",
+          "callout": {
+            "type": "tip",
+            "label": "Juli-Tipp",
+            "text": "Die Filmfestival-Abendformel: Snacks vom Naschmarkt, eine Decke am Rathausplatz, Oper auf der Großleinwand – Gesamtkosten nahe null."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Ernte und Sturm",
+          "months": "Sep – Nov",
+          "subtitle": "Herbst · Heurigenzeit, goldene Parks",
+          "description": "Die Ernte beginnt in den stadteigenen Weinbergen; halbgäriger Sturm wird bei den Heurigen ausgeschenkt, und der Duft von gebratenen Maroni zieht durch die Straßen. Mitte November schalten die Weihnachtsmärkte bereits ihre Lichter ein.",
+          "callout": {
+            "type": "tip",
+            "label": "September-Tipp",
+            "text": "Wandern Sie vom Kahlenberg durch die Weinberge hinunter nach Nussdorf und kehren Sie unterwegs bei einem Heurigen ein: Sturm + Hausmannskost + Stadtblick. Das ist der Wiener Herbst an einem Nachmittag."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Bälle und Märkte",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Weihnachtsmärkte, Ballsaison, der Neujahrswalzer",
+          "description": "Im Dezember verwandelt sich der Platz vor dem Rathaus in ein Lichtermeer; im Januar und Februar finden Hunderte von Bällen statt – einige verkaufen Tickets an Besucher. Am 1. Januar verfolgt die ganze Stadt das Neujahrskonzert auf Bildschirmen.",
+          "callout": {
+            "type": "warning",
+            "label": "Dezember-Hinweis",
+            "text": "Weihnachtsmärkte sind an Wochenenden überfüllt; trinken Sie Ihren Punsch an einem Wochentagabend, und Sie können das Becherpfand als Souvenir behalten."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Die Wiener Küche ist das Erbe des Reiches: Ungarisches Gulasch, böhmische Knödel, italienischer Kaffee – alles in dieser Stadt veredelt.",
+      "local_word": {
+        "word": "Melange",
+        "pronunciation": "meh-lahnzh",
+        "definition": "Wiens Nationalkaffee: halb Espresso, halb Milchschaum – der elegante Cousin des Cappuccinos. Er wird auf einem Tablett mit einem Glas Wasser serviert; dieses Wasser ist die Kaffehaus-Sprache für 'bleiben Sie, so lange Sie möchten'."
+      },
+      "items": [
+        {
+          "icon": "🍖",
+          "name": "Wiener Schnitzel — das echte ist vom Kalb",
+          "description": "Ein Schnitzel, das über den Teller ragt, hauchdünn, in Butter gebraten: Kartoffelsalat dazu, Zitrone obendrauf. Gehen Sie dorthin, wo 'vom Kalb' steht; alles andere ist Nachahmung.",
+          "tag": "In einem klassischen Gasthaus · unbedingt vom Kalb",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Figlmüller+Vienna"
+        },
+        {
+          "icon": "☕",
+          "name": "Das Kaffeehaus-Ritual — Melange + Sachertorte",
+          "description": "Marmortische, Zeitungen, ein Kellner ohne Eile: Das Kaffeehaus ist kein Ort, sondern eine Lebensart. Bestellen Sie Ihre Sachertorte nicht ohne Schlag – die Sahne ist Teil der Balance.",
+          "tag": "In einem historischen Kaffeehaus · niemals gehetzt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Café+Central+Vienna"
+        },
+        {
+          "icon": "🌭",
+          "name": "Der Würstelstand-Klassiker für die späte Nacht",
+          "description": "Würstelstände sind Wiens Mitternachtsküche: Bestellen Sie die Käsekrainer mit Brot und süßem Senf. Opernbesucher im Smoking und Nachtschichtarbeiter teilen sich denselben Tresen – der demokratischste Tisch der Stadt.",
+          "tag": "Nach Mitternacht · Käsekrainer",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bitzinger+Würstelstand+Albertina+Vienna"
+        },
+        {
+          "icon": "🥩",
+          "name": "Tafelspitz — der Topf des Kaisers",
+          "description": "Gekochtes Rindfleisch mit Knochenmark, Apfelkren und Schnittlauchsauce: das Gericht, das Kaiser Franz Joseph jeden Tag aß. Es sieht schwer aus, isst sich aber elegant.",
+          "tag": "Kaiserlicher Klassiker · Saucen inklusive",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Plachutta+Wollzeile+Vienna"
+        },
+        {
+          "icon": "🍷",
+          "name": "Ein Heuriger-Abend",
+          "description": "Weinschenken in den stadteigenen Weinbergen: junger Wein, kalte Platten vom Buffet, lange Holztische. Ein Föhrenbuschen über der Tür bedeutet, dass geöffnet ist – Wien in seinen Dorfgewändern.",
+          "tag": "In einer Weinberg-Taverne · geöffnet, wenn der Föhrenbuschen hängt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mayer+am+Pfarrplatz+Vienna"
+        },
+        {
+          "icon": "🥟",
+          "name": "Ein Naschmarkt-Bummel",
+          "description": "Der jahrhundertealte Markt der Stadt: Gurkenverkäufer, Mezze-Stände und Weltküchen Seite an Seite. Samstags gesellt sich ein Flohmarkt dazu; sich durchzuschlemmen ist absolut erlaubt.",
+          "tag": "Samstagmorgen · schlemmen Sie sich durch",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Naschmarkt+Vienna"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die Kaffeehaus-Regel",
+        "text": "Überspringen Sie das berühmte Kaffeehaus mit der Schlange und wählen Sie das ruhige um die Ecke: gleiche Melange, gleicher Marmor, mehr Schmäh. In Wien ist das beste Kaffeehaus das, in dem Sie einen Platz bekommen."
+      }
+    },
+    "hidden_gems": {
+      "title": "Verborgene Winkel",
+      "intro": "Jeder kennt die Paläste; diese sechs zeigen Wien hinter den Kulissen.",
+      "items": [
+        {
+          "rarity": "Die schönste Bibliothek der Welt",
+          "name": "Prunksaal — Österreichische Nationalbibliothek",
+          "description": "Der barocke Bibliothekssaal in der Hofburg: 200.000 ledergebundene Bände, eine freskengeschmückte Kuppel, kaiserliche Globen. Weniger bekannt als die Oper, mit kürzerer Warteschlange – Wiener Pracht in Reinform.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Prunksaal+Österreichische+Nationalbibliothek"
+        },
+        {
+          "rarity": "Der Höhepunkt des Jugendstils",
+          "name": "Kirche am Steinhof",
+          "description": "Otto Wagners goldgekuppelte Kirche auf einem Hügel, auf dem Gelände eines Krankenhauses – das unbekannteste Meisterwerk der Stadt. Sie ist sonntagnachmittags geöffnet; planen Sie Ihren Besuch entsprechend.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kirche+am+Steinhof+Vienna"
+        },
+        {
+          "rarity": "Eine Stadt der Toten, ein Park für die Lebenden",
+          "name": "Zentralfriedhof",
+          "description": "Der riesige Friedhof, auf dem Beethoven, Schubert und die Strauß-Familie ruhen, ist auch ein Park, in dem Rehe umherstreifen: Fahren Sie mit der Straßenbahnlinie 71 hinaus und spazieren Sie stundenlang darin. Nicht traurig – sondern friedlich.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zentralfriedhof+Vienna"
+        },
+        {
+          "rarity": "Durch die Weinberge in die Stadt",
+          "name": "Wanderung vom Kahlenberg nach Nussdorf",
+          "description": "Fahren Sie mit dem Bus auf den Gipfel und steigen Sie dann durch die Weinreben hinab in Richtung Stadt: Donau, Kuppeln und Weinberge in einem Bild. Die Wanderung endet vor der Tür eines Heurigen – kein Zufall, sondern Tradition.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kahlenberg+Vienna"
+        },
+        {
+          "rarity": "Ein kaiserliches Gewächshaus mit Schmetterlingen",
+          "name": "Palmenhaus und Schmetterlinghaus",
+          "description": "Der Glaspalast am Rande des Burggartens: ein Flügel ein tropisches Schmetterlingshaus, der andere eine Brasserie unter Palmen. Die grünste Art, Kaffee in einem Schlossgarten zu trinken.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palmenhaus+Burggarten+Vienna"
+        },
+        {
+          "rarity": "Ein kleines Stück Paris",
+          "name": "Servitenviertel",
+          "description": "Bistros und Buchhandlungen rund um einen Kirchplatz im 9. Bezirk: neben dem Freud Museum, fernab der Touristen. Der schönste Umweg der Stadt für einen Nachmittagskaffee.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Servitenviertel+Vienna"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Museums-Tipp",
+        "text": "Donnerstagabends können Sie im Café unter der Kuppel des Kunsthistorischen Museums Live-Musik genießen: zwei Stockwerke über den Bruegels, eine Melange inmitten des Marmors – ein Museumsticket ist der günstigste Ball der Stadt."
+      }
+    },
+    "traps": {
+      "title": "Touristenfallen",
+      "intro": "Wien ist eine ehrliche Stadt; seine Fallen tragen Perücken und Kostüme, was sie leicht erkennbar macht.",
+      "items": [
+        {
+          "icon": "🎻",
+          "name": "Kostümierte 'Mozart-Konzert'-Verkäufer",
+          "description": "Die Konzerte, die von perückenbewehrten Verkäufern rund um den Stephansdom angepriesen werden, folgen einer Formel: mittelmäßiges Orchester plus überhöhter Preis. Mozart hätte über das ganze Geschäft gelacht.",
+          "instead": "Bekommen Sie das Echte für dasselbe Geld: Studenten- oder Stehplätze im Musikverein oder Konzerthaus, oder den wenige Euro teuren Stehplatz der Staatsoper."
+        },
+        {
+          "icon": "🐴",
+          "name": "Eine Fiakerfahrt ohne vorherige Absprache",
+          "description": "Kutschenfahrten haben offizielle Tarife, aber wenn Dauer und Route nicht vereinbart werden, kann eine kurze Fahrt mit einer langen Rechnung enden.",
+          "instead": "Bestätigen Sie den Tarif und die Dauer vor dem Einsteigen; oder fahren Sie dieselbe Route mit der Straßenbahnlinie 2, die an denselben Palästen vorbeifährt."
+        },
+        {
+          "icon": "☕",
+          "name": "Eine Stunde in einer Kaffeehaus-Warteschlange verlieren",
+          "description": "45 Minuten vor den ein oder zwei Kaffeehäusern zu warten, die die sozialen Medien aufpoliert haben, ist eine Ungerechtigkeit gegenüber den zweihundert anderen der Stadt.",
+          "instead": "Wenn Sie eine Warteschlange sehen, gehen Sie zwei Straßen weiter: In Wien hat jedes Viertel sein eigenes ruhiges Kaffeehaus mit Marmortischen und Kronleuchtern."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Das 'Wiener Menü' zu Füßen des Doms",
+          "description": "Die Bildmenüs rund um den Stephansplatz verkaufen lauwarmes Schnitzel zu Touristenpreisen.",
+          "instead": "Gehen Sie zwei Straßen weiter, oder wählen Sie die Beisln (Nachbarschaftstavernen) des 4. und 7. Bezirks: dasselbe Schnitzel, zum halben Preis, das Original."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Goldene Regel",
+        "text": "Halten Sie sich von jedem fern, der sich in Wien verkleidet, um Ihnen etwas zu verkaufen; in dieser Stadt trägt wahre Größe keine Uniform – sie sitzt in einem Kaffeehaus und liest Zeitung."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Abläufen. Die Zeiten sind flexibel; bewahren Sie den Geist, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Wien in Kürze, vom Kaiserreich zum Kaffeehaus",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Der Dom und die Morgenstraßen",
+              "description": "Sehen Sie das Ziegeldach des Stephansdoms im Morgenlicht; spazieren Sie durch die kaiserlichen Ladenfronten von Graben und Kohlmarkt, solange sie noch leer sind."
+            },
+            {
+              "time": "10:00",
+              "title": "Hofburg + Prunksaal",
+              "description": "Gehen Sie durch die Palasthöfe und stehen Sie dann still unter der Kuppel der barocken Bibliothek: Wiens konzentrierteste Dosis Schönheit."
+            },
+            {
+              "time": "12:30",
+              "title": "Mittagessen am Naschmarkt",
+              "description": "Schlendern Sie von Stand zu Stand, dann eine Pause in einer Marktwirtschaft; wenn es Samstag ist, ist der Flohmarkt ein Bonus."
+            },
+            {
+              "time": "14:30",
+              "title": "Belvedere — Klimts Kuss",
+              "description": "Stehen Sie vor 'Der Kuss' im Oberen Belvedere, dann blicken Sie von den Gärten über die Stadt; Ihr Kunstkontingent für den Tag ist erfüllt."
+            },
+            {
+              "time": "17:00",
+              "title": "Die Ringtour mit der Straßenbahn",
+              "description": "Vom Fenster der Straßenbahn 2 aus die Parade von Oper, Parlament und Rathaus: zur goldenen Stunde verwandeln sich die Paläste in Licht."
+            },
+            {
+              "time": "19:30",
+              "title": "Kaffeehaus + ein spätabendlicher Abschluss",
+              "description": "Ein langer Kaffeehausbesuch mit Melange und Sachertorte; eine Käsekrainer vom Würstelstand auf dem Heimweg — ein kaiserlicher Tag endet mit einer Wurst."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Erleben Sie die Stadt als Gast, nicht als Tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Die imperialen Klassiker",
+              "description": "Der oben genannte Ein-Tages-Ablauf: Dom, Hofburg, Naschmarkt, Belvedere, der Ring."
+            },
+            {
+              "time": "Day 2",
+              "title": "Schönbrunn und die Museen",
+              "description": "Frühmorgens in Schönbrunn (Aufstieg zur Gloriette, im Irrgarten verlieren), nachmittags im Kunsthistorischen oder im MuseumsQuartier; abends im 7. Bezirk für ein Beisl-Abendessen und eine Kneipentour."
+            },
+            {
+              "time": "Day 3",
+              "title": "Weinberge und Abschied",
+              "description": "Der Weinbergspaziergang vom Kahlenberg, ein Heurigen-Mittagessen; auf dem Rückweg Beethoven am Zentralfriedhof besuchen, und abends ein Stehplatz in der Staatsoper oder im Musikverein — Abschiedsmusik ist Pflicht."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Wörter-Überlebenskit",
+      "intro": "Das Wiener Deutsch ist höflich und musikalisch; diese fünf Wörter begleiten Sie von der Kaffeehaustür bis in den Ballsaal.",
+      "items": [
+        {
+          "word": "Grüß Gott",
+          "pronunciation": "gruess got",
+          "meaning": "Die österreichische Begrüßung: 'Guten Tag' — formell und überall gültig"
+        },
+        {
+          "word": "Danke",
+          "pronunciation": "dahn-keh",
+          "meaning": "Danke — wird durch 'vielen Dank' aufgewertet"
+        },
+        {
+          "word": "Bitte",
+          "pronunciation": "bit-teh",
+          "meaning": "Bitte / Gern geschehen / Hier, bitte — Sie werden es fünfzig Mal am Tag hören"
+        },
+        {
+          "word": "Prost!",
+          "pronunciation": "prohst",
+          "meaning": "Prost! — kein Glas wird ohne Augenkontakt erhoben"
+        },
+        {
+          "word": "Passt schon",
+          "pronunciation": "pahst shohn",
+          "meaning": "'Passt schon' (Es ist in Ordnung, kein Problem) — der offizielle Ausdruck Wiener Gelassenheit; auch so sagt man 'stimmt so' (beim Trinkgeld)"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Wien-Checkliste",
+      "completion_message": "Prost! Du hast Wien richtig erlebt!",
+      "items": [
+        {
+          "label": "Eine Stunde im Kaffeehaus 'nichts tun'",
+          "sub": "Melange, eine Zeitung und ein Marmortisch – Hektik verboten"
+        },
+        {
+          "label": "Ein echtes Wiener Schnitzel essen",
+          "sub": "Vom Kalb – so groß, dass es über den Teller ragt"
+        },
+        {
+          "label": "Unter der Kuppel des Prunksaals stehen",
+          "sub": "Der barocke Saal der Nationalbibliothek"
+        },
+        {
+          "label": "Klimts Kuss sehen",
+          "sub": "Oberes Belvedere – in den Morgenstunden"
+        },
+        {
+          "label": "Den Ring mit der Tramlinie 2 umrunden",
+          "sub": "Zur goldenen Stunde, am Fensterplatz"
+        },
+        {
+          "label": "Eine Stehplatzkarte für die Oper ergattern",
+          "sub": "Für ein paar Euro – die beste Bühne der Welt"
+        },
+        {
+          "label": "Sturm oder jungen Wein beim Heurigen trinken",
+          "sub": "In einer Buschenschank mit ausgestecktem Föhrenbuschen"
+        },
+        {
+          "label": "Eine Käsekrainer am Würstelstand in der Nacht essen",
+          "sub": "Die Theke mit Abendgarderobe teilen"
+        },
+        {
+          "label": "Beethoven am Zentralfriedhof besuchen",
+          "sub": "Tramlinie 71 – die Musiker-Ehrengräber"
+        },
+        {
+          "label": "Auf die Gloriette in Schönbrunn steigen",
+          "sub": "Frühmorgens – das Schloss zu deinen Füßen"
+        }
+      ]
+    }
+  }
+}

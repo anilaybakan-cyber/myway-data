@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Paris",
+    "country": "France",
+    "language": "fr",
+    "version": "2.1",
+    "color_primary": "#8B1538",
+    "color_light": "#F5E8EC",
+    "tagline": "La ville que tout le monde croit connaître – et que presque personne ne connaît vraiment.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Les files d'attente au musée sont facultatives",
+    "Mangez là où il n'y a pas de carte en anglais",
+    "Marchez plus loin que prévu"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Paris",
+      "intro": "Paris est la ville la plus visitée au monde, ce qui signifie qu'elle a passé des décennies à apprendre à se produire pour les touristes. Le Paris que la plupart des visiteurs voient — les spots à selfies, les cafés hors de prix près des monuments, les files d'attente de la Tour Eiffel — est une ville construite pour la consommation, pas pour la vie. Le vrai Paris lui est parallèle : dans les boulangeries de quartier, les passages couverts de 1820, les parcs où les habitants jouent à la pétanque (un jeu de boules français) les mercredis après-midi, les bars à vin sans enseigne et sans menu en anglais. Cette ville récompense les curieux et ignore les passifs. Les monuments sont véritablement extraordinaires — le Louvre, Notre-Dame, Versailles — mais ils sont le début de Paris, pas la fin. La question n'est pas de savoir s'il faut voir la Tour Eiffel. La question est ce que vous faites après.",
+      "local_word": {
+        "word": "Arrondissement",
+        "pronunciation": "ah-ron-dees-MOHN",
+        "definition": "Paris est divisée en 20 arrondissements — numérotés de 1 à 20 dans une spirale horaire depuis le centre-ville. Chacun a son propre caractère, ses propres marchés, son propre rythme. Le 1er est le cœur historique ; le 11ème est l'endroit où les Parisiens sortent ; le 18ème est Montmartre ; le 20ème est Belleville. Savoir dans quel arrondissement vous vous dirigez vous en dira plus sur votre soirée que n'importe quelle critique de restaurant."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Dites bonjour — à chaque fois",
+          "description": "À Paris, entrer dans un magasin, un café ou une boulangerie sans dire bonjour est considéré comme impoli. Pas agressif, pas anti-touriste — juste vraiment impoli. Dites bonjour en entrant, merci et au revoir en partant. Cette simple habitude changera la façon dont chaque interaction se déroule. Les Parisiens ne sont pas froids ; ils sont formels avec les étrangers. La formalité est la porte."
+        },
+        {
+          "number": 2,
+          "title": "Le métro est la sève de la ville",
+          "description": "Paris compte 16 lignes de métro, 302 stations et couvre presque tous les recoins de la ville. La carte Navigo Easy — l'équivalent parisien de l'Oyster Card de Londres — est l'option la plus pratique pour les courts séjours : achetez-la dans n'importe quelle station, chargez-y des tickets t+, et validez-la à chaque embarquement en métro, RER, bus ou tram. Les lignes 1 et 14 sont automatiques et fonctionnent 24h/24 le week-end. Le métro circule jusqu'à environ 1h du matin en semaine et 2h du matin le week-end."
+        },
+        {
+          "number": 3,
+          "title": "Le déjeuner est le repas principal — pas le dîner",
+          "description": "Le meilleur rapport qualité-prix pour manger à Paris est le déjeuner en semaine. La plupart des bistrots et brasseries proposent une formule — un menu fixe de deux ou trois plats à une fraction du prix du soir. La même cuisine, la même nourriture, la moitié du coût. Les habitants déjeunent entre 12h30 et 14h00. Arrivez avant 12h30 ou après 13h30 pour éviter d'attendre. Les réservations pour le dîner dans de bons restaurants sont essentielles, souvent des semaines à l'avance."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroports",
+          "value": "CDG · Orly · Beauvais",
+          "sub": "CDG: RER B 35 min · Orly: Orlyval+RER 35 min"
+        },
+        {
+          "icon": "🚇",
+          "label": "Transport",
+          "value": "Métro + RER + bus",
+          "sub": "16 lines · 302 stations · runs until 1–2am"
+        },
+        {
+          "icon": "🗺️",
+          "label": "Arrondissements",
+          "value": "20 quartiers",
+          "sub": "En spirale depuis le centre-ville · chacun avec son propre caractère"
+        },
+        {
+          "icon": "🥐",
+          "label": "Règle du petit-déjeuner",
+          "value": "Café crème + croissant",
+          "sub": "Au comptoir · debout · avant 10h"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Le pass musée à connaître",
+        "text": "Le Paris Museum Pass couvre plus de 50 musées et monuments sans file d'attente à la billetterie — y compris le Louvre, le Musée d'Orsay, la Sainte-Chapelle, Versailles et le Centre Pompidou. Il est rentabilisé en deux ou trois visites et fait gagner des heures d'attente. Achetez-le en ligne avant votre arrivée. Versions deux, quatre et six jours disponibles."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Paris est faite pour la marche, et le métro s'occupe du reste. La ville est plus compacte qu'il n'y paraît – de nombreux monuments célèbres sont plus proches les uns des autres que les visiteurs ne l'imaginent.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aéroport CDG → Centre-ville",
+          "description": "Le RER B relie directement CDG au centre-ville en environ 35 minutes, s'arrêtant à Gare du Nord, Châtelet-Les Halles, Saint-Michel et Luxembourg. Il circule fréquemment et est de loin l'option la plus fiable. Les taxis sont chers et dépendent du trafic. Le Roissybus est plus lent mais dépose à l'Opéra. Prenez toujours le RER B."
+        },
+        {
+          "icon": "🚇",
+          "title": "Métro — l'option par défaut",
+          "description": "16 lignes couvrent toute la ville. La carte Navigo Easy est l'équivalent parisien de l'Oyster Card de Londres – achetez-la dans n'importe quelle station, chargez-y des tickets t+, et validez-la aux portiques du métro et du RER ou en montant dans les bus et les trams. Les lignes 1 et 14 sont automatiques et fonctionnent 24h/24 le week-end. Sur les lignes très fréquentées, avancez vers les portes avant votre arrêt ; elles se ferment rapidement."
+        },
+        {
+          "icon": "🚌",
+          "title": "Bus — l'option panoramique",
+          "description": "Les bus parisiens utilisent le même ticket t+ que le métro et offrent quelque chose que le métro ne peut pas : la ville en surface. La ligne 69 va de la Tour Eiffel au Père Lachaise en traversant le cœur de la ville. La ligne 29 relie l'Opéra, le Marais et la Bastille. N'importe quel bus le long de la Seine est une visite gratuite du centre de Paris. Cela vaut la peine de le prendre au moins une fois – surtout la nuit, lorsque les monuments sont illuminés."
+        },
+        {
+          "icon": "🚲",
+          "title": "Vélib' — vélos de ville",
+          "description": "Le système de vélos en libre-service de Paris compte des milliers de stations dans toute la ville. Un abonnement de courte durée couvre 30 ou 45 minutes par trajet (classique ou électrique). Les berges de la Seine, le Canal Saint-Martin et le Bois de Boulogne sont tous bien desservis par les vélos. Le centre de Paris est en grande partie plat. Le meilleur cyclisme urbain de France."
+        },
+        {
+          "icon": "🚶",
+          "title": "À pied — la meilleure façon",
+          "description": "Paris récompense la marche plus que presque tout autre mode de transport. La distance du Louvre à Notre-Dame est de 20 minutes à pied. De Montmartre à l'Opéra, c'est 30 minutes. La Seine vous emmène de la Tour Eiffel à l'Île de la Cité en 45 minutes. La marche relie les choses entre les choses – les passages, les cours intérieures, les boulangeries que vous manqueriez sous terre."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Versailles en RER",
+        "text": "Versailles est à 40 minutes du centre de Paris en RER C – pas besoin de voiture ni de bus touristique. Prenez le train jusqu'à Versailles-Château-Rive Gauche, marchez 10 minutes jusqu'au château. Allez-y un mardi ou un mercredi, lorsque les groupes scolaires français sont moins susceptibles d'être présents. Arrivez à 9h à l'ouverture des portes."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "Les 20 arrondissements de Paris sont radicalement différents les uns des autres. Choisir le bon quartier façonne l'ensemble du voyage.",
+      "local_word": {
+        "word": "Rive Gauche / Rive Droite",
+        "pronunciation": "reev GOHSH / reev DWAT",
+        "definition": "Rive Gauche et Rive Droite — la Seine divise Paris en deux. La Rive Gauche (sud) regroupe Saint-Germain, le Quartier Latin, Montparnasse — le Paris intellectuel, littéraire, des cafés. La Rive Droite (nord) comprend le Louvre, le Marais, Montmartre, Bastille — le Paris commercial, branché, diversifié. La plupart des visiteurs séjournent Rive Droite ; la Rive Gauche est plus calme, plus résidentielle et mérite d'être envisagée."
+      },
+      "items": [
+        {
+          "name": "Le Marais (3e et 4e arr.)",
+          "badge": "Le plus vibrant",
+          "badge_type": "hot",
+          "description": "Le Marais, c'est Paris à son apogée d'énergie et de vie — rues médiévales, la Place des Vosges, le quartier juif, un quartier ouvertement LGBTQ+, les meilleurs falafels de la ville et des galeries partout. Central, propice à la marche et véritablement animé à toute heure. Cher mais en vaut la peine pour une première visite.",
+          "tags": [
+            "Le plus central",
+            "Meilleures rues gourmandes",
+            "Toujours animé"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Marais+Paris"
+        },
+        {
+          "name": "Saint-Germain-des-Prés (6e arr.)",
+          "badge": "Le plus élégant",
+          "badge_type": "hot",
+          "description": "Le quartier le plus célèbre de la Rive Gauche — Café de Flore, Les Deux Magots, les Jardins du Luxembourg à deux pas. Cher, magnifique et plus calme que le Marais. Là où Sartre et Beauvoir écrivaient ; là où vivent les Parisiens qui en ont les moyens. Excellente base pour le Musée d'Orsay et le Quartier Latin.",
+          "tags": [
+            "Ambiance Rive Gauche",
+            "Jardins du Luxembourg",
+            "Histoire littéraire"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Saint-Germain-des-Pres+Paris"
+        },
+        {
+          "name": "Bastille & Oberkampf (11e arr.)",
+          "badge": "Le plus local",
+          "badge_type": "local",
+          "description": "Là où les Parisiens sortent vraiment. Le 11e arrondissement abrite les meilleurs bars à vins naturels, les meilleurs bistros, la meilleure ambiance nocturne de la ville. Ce n'est pas un quartier touristique — c'est un quartier vivant. Un peu plus éloigné des monuments mais bien desservi par le métro. Le meilleur arrondissement de Paris pour manger et boire.",
+          "tags": [
+            "Meilleurs restaurants",
+            "Meilleurs bars",
+            "Où les locaux sortent"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bastille+Paris"
+        },
+        {
+          "name": "Montmartre (18e arr.)",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "local",
+          "description": "Le village sur la colline — rues pavées, un vignoble, le Sacré-Cœur, des ateliers d'artistes et des vues sur toute la ville. Très touristique autour du Sacré-Cœur, mais à quelques rues de là, il devient véritablement local. Le meilleur quartier pour le petit-déjeuner à Paris. Vaut la montée.",
+          "tags": [
+            "Ambiance village",
+            "Meilleures vues",
+            "Rues pavées"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Montmartre+Paris"
+        },
+        {
+          "name": "Canal Saint-Martin (10e arr.)",
+          "badge": "Le plus créatif",
+          "badge_type": "local",
+          "description": "Le quartier du canal — passerelles en fer, platanes, boutiques indépendantes, le meilleur café de Paris, bars à vins naturels et une clientèle locale vraiment jeune. Pas du tout une zone touristique. Le quartier dont les Parisiens de moins de 35 ans parlent le plus. Excellentes connexions de métro.",
+          "tags": [
+            "Jeune et créatif",
+            "Meilleur café",
+            "Promenades le long du canal"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Canal+Saint-Martin+Paris"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Meilleure période pour visiter",
+      "intro": "Paris est magnifique en toute saison, mais chaque saison révèle une ville différente. La question est de savoir quelle version vous souhaitez découvrir.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "La saison classique",
+          "months": "Mar – Mai",
+          "subtitle": "Printemps · Paris à son apogée",
+          "description": "Avril et mai sont les mois où Paris mérite sa réputation. Cerisiers en fleurs aux Tuileries, marronniers le long de chaque boulevard, les Jardins du Luxembourg qui se remplissent à midi, la culture des terrasses qui renaît après l'hiver. La lumière est extraordinaire — dorée, longue et propre à cette ville. Les foules n'ont pas encore atteint leur pic, le temps est doux, et la ville est véritablement à son plus beau. Le meilleur Paris est un Paris printanier.",
+          "callout": {
+            "type": "tip",
+            "label": "Roland-Garros (fin mai)",
+            "text": "Les Internationaux de France à Roland-Garros se déroulent de fin mai à juin. Les billets d'accès aux courts annexes — qui donnent accès aux courts extérieurs sans siège attribué — sont vendus quotidiennement à l'entrée et offrent la possibilité de voir du tennis de classe mondiale de près pour une fraction du prix du billet. Cela vaut la peine d'y consacrer une matinée."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Animé mais brillant",
+          "months": "Jun – Aug",
+          "subtitle": "Été · Bondé et festif",
+          "description": "Juin est le meilleur mois d'été — longues soirées, Paris Plages pas encore commencé, foules pas encore à leur maximum. Juillet apporte le 14 Juillet avec le défilé militaire sur les Champs-Élysées et les feux d'artifice sur la Tour Eiffel — l'un des plus grands spectacles gratuits d'Europe. Août est le mois où les Parisiens partent et les touristes arrivent ; la ville se vide de ses habitants et se remplit de visiteurs. Certains restaurants et magasins ferment en août.",
+          "callout": {
+            "type": "tip",
+            "label": "14 Juillet — Fête Nationale",
+            "text": "Les feux d'artifice sur la Tour Eiffel le 14 Juillet sont parmi les plus spectaculaires au monde. Les meilleurs points de vue se remplissent des heures avant — Trocadéro, Champ de Mars et les quais de Seine. Le défilé militaire sur les Champs-Élysées commence à 10h et est gratuit à regarder depuis les côtés."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "La saison des Parisiens",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Quand Paris appartient aux Parisiens",
+          "description": "Septembre est le mois où Paris se réveille. La saison culturelle commence — théâtre, opéra, vernissages, semaine de la mode. Les touristes d'été sont partis, les habitants sont revenus d'août, et la ville retrouve son rythme. Octobre apporte la plus belle lumière de l'année : ambrée, basse et entièrement parisienne. La Nuit Blanche (premier samedi d'octobre) transforme toute la ville en une installation artistique à ciel ouvert pour une nuit — gratuite, extraordinaire et très locale.",
+          "callout": {
+            "type": "tip",
+            "label": "Nuit Blanche (Octobre)",
+            "text": "Le premier samedi d'octobre, la Nuit Blanche de Paris maintient musées, galeries et espaces publics ouverts toute la nuit avec des installations artistiques gratuites dans toute la ville. Pas de billets, pas de files d'attente — juste la ville transformée. L'une des meilleures nuits que Paris offre, et presque inconnue en dehors de la France."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Calme et sous-estimé",
+          "months": "Dec – Feb",
+          "subtitle": "Hiver · Le plus calme et le plus parisien",
+          "description": "Décembre apporte les marchés de Noël le long des Champs-Élysées et à La Défense, les patinoires à l'Hôtel de Ville, et la ville illuminée de bout en bout. Janvier et février sont les mois les plus calmes — musées presque vides, restaurants réservables sans des semaines de planification, prix au plus bas. La lumière grise de Paris en hiver a sa propre beauté. C'est à ce moment que la ville appartient entièrement à ceux qui y vivent.",
+          "callout": {
+            "type": "tip",
+            "label": "Janvier — le meilleur mois pour les musées",
+            "text": "En janvier, les musées de Paris sont les plus vides. Le Louvre, le Musée d'Orsay et le Centre Pompidou peuvent être visités sans les foules estivales — allez directement aux œuvres que vous êtes venu voir. De nombreux musées offrent une entrée à tarif réduit le premier dimanche de chaque mois. Le meilleur moment pour découvrir les collections de Paris."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "June 21",
+          "text": "Fête de la Musique : toute la ville devient une scène d'un soir ; concerts gratuits à chaque coin de rue, musique jusqu'à l'aube."
+        },
+        {
+          "month": "July 14",
+          "text": "Fête Nationale (14 Juillet) : le défilé le matin, et le soir le plus grand feu d'artifice de France sur la Tour Eiffel."
+        },
+        {
+          "month": "July–August",
+          "text": "Paris Plages : les rives de la Seine se transforment en plages ; transats, glaces et été au bord de l'eau."
+        },
+        {
+          "month": "Early October",
+          "text": "Nuit Blanche : une nuit d'art non-stop — musées, églises et rues ouverts et gratuits jusqu'au matin."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine française est la tradition culinaire la plus influente au monde, et Paris en est la capitale. Mais le Paris où il fait bon manger n'est pas celui avec des menus en anglais à l'extérieur et des photos de touristes aux murs. C'est le bistrot de quartier un mardi, la boulangerie à 8h du matin, le bar à vin avec trois tables et une carte manuscrite.",
+      "local_word": {
+        "word": "Bistrot",
+        "pronunciation": "bees-TROH",
+        "definition": "Un petit restaurant informel servant des plats français simples — steak frites, confit de canard, soupe à l'oignon, crème brûlée. L'épine dorsale de la gastronomie parisienne. Un bon bistrot a une carte courte qui change tous les jours, utilise des ingrédients de saison et traite les habitués différemment des étrangers. Les meilleurs se trouvent dans les 11e et 10e arrondissements. S'il y a un menu plastifié avec des photos, passez votre chemin."
+      },
+      "items": [
+        {
+          "icon": "🥐",
+          "name": "Croissant — la qualité varie selon la boulangerie",
+          "description": "Un excellent croissant est feuilleté : des couches de pâte enrichie au beurre sont visibles en coupe, croustillantes à l'extérieur, fondantes à l'intérieur. Un croissant médiocre est mou, uniforme et oubliable. Paris a les deux. La différence, c'est le boulanger. Maison Landemaine, Du Pain et des Idées et Sébastien Gaudard comptent parmi les meilleurs. Achetez dans une boulangerie avec une file d'attente — les files d'attente ne mentent pas.",
+          "tag": "Avant 10h · debout au comptoir · avec un café crème",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Du+Pain+et+des+Idées+Paris"
+        },
+        {
+          "icon": "🥩",
+          "name": "Steak frites — le standard parisien",
+          "description": "La mesure d'un bistrot. Un vrai steak frites utilise de l'onglet ou de l'entrecôte, servi avec des frites coupées à la main et une sauce béarnaise ou à l'échalote. Toujours commandé à point (medium) ou saignant (rare) — bien cuit (bien cuit) est considéré comme un gaspillage de bonne viande. Le Relais de l'Entrecôte à Saint-Germain ne sert rien d'autre et a une file d'attente permanente. Ça vaut chaque minute d'attente.",
+          "tag": "Saignant ou à point · avec béarnaise · avec une carafe de Bordeaux",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Relais+de+l%27Entrecôte+Paris"
+        },
+        {
+          "icon": "🧀",
+          "name": "Fromage — le rituel",
+          "description": "Dans un restaurant français, le fromage vient avant le dessert, pas à sa place. Un plateau de fromages est composé de trois à cinq fromages servis avec du pain — pas de crackers, pas de chutney. Demandez au serveur ce qui est le meilleur aujourd'hui. Comté, Époisses, Brie de Meaux, Roquefort, Camembert. La règle : laissez-le atteindre la température ambiante. Le fromage froid est une insulte au fromager.",
+          "tag": "Avant le dessert · demandez ce qui est le meilleur · avec le reste du vin",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fromagerie+Laurent+Dubois+Paris"
+        },
+        {
+          "icon": "🥂",
+          "name": "Vin nature — l'obsession de Paris",
+          "description": "Paris est le leader mondial du vin nature — faible intervention, sulfites minimaux, souvent orange ou pét-nat. Le 11e arrondissement à lui seul compte plus de bons bars à vin nature que la plupart des villes n'ont de bars à vin au total. Le Servan, Septime Cave, Clown Bar, Le Verre Volé sur le Canal Saint-Martin. Commandez un verre et demandez ce que le vigneron en fait. C'est la scène viticole la plus intéressante d'Europe.",
+          "tag": "Le Verre Volé · Septime Cave · Le Clown Bar",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Verre+Volé+Paris"
+        },
+        {
+          "icon": "☕",
+          "name": "Café — la bonne façon",
+          "description": "Un café à Paris signifie un espresso. Un café crème est un espresso avec du lait vapeur. Une noisette est un espresso avec une touche de crème. Le cappuccino est compris mais légèrement regardé avec suspicion après 11h. Buvez-le au bar — c'est plus rapide, moins cher et plus parisien. La scène du café de spécialité de la troisième vague (Ten Belles, Café Lomi, Coutume) a transformé Paris en une décennie. Les deux traditions coexistent.",
+          "tag": "Au bar · café ou café crème · avant midi pour tout ce qui contient du lait",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ten+Belles+Paris"
+        },
+        {
+          "icon": "🥖",
+          "name": "La baguette — le rituel quotidien",
+          "description": "Les Parisiens achètent leur pain tous les jours. Une baguette de tradition a une croûte craquante, une mie alvéolée et une légère acidité due à une longue fermentation. Elle devient rassie le soir — c'est normal. Les meilleures proviennent des boulangeries qui laissent leur pâte lever lentement. Chaque arrondissement a les siennes ; demandez à un voisin. La ville organise un concours annuel pour la meilleure baguette de Paris — le gagnant fournit le Palais de l'Élysée pendant un an.",
+          "tag": "Baguette de tradition · d'une boulangerie avec une file d'attente · le jour même",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Boulangerie+Utopie+Paris"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Marché d'Aligre — le vrai marché",
+        "text": "Le Marché d'Aligre dans le 12e arrondissement est le marché le plus local de Paris — une halle couverte et un marché aux puces en plein air se déroulant simultanément, du mardi au dimanche matin. Moins cher que tout autre marché parisien, bondé de vrais Parisiens, pas de signalisation en anglais. Allez-y un samedi matin, achetez du fromage et de la charcuterie, emportez-les à la Promenade Plantée toute proche. Le samedi le plus parisien possible."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Paris cache ses plus belles choses à l'intérieur d'autres choses — des chapelles dans des palais, des parcs dans des voies ferrées, des jardins dans des ministères. Le Paris le plus intéressant est toujours une porte plus loin.",
+      "items": [
+        {
+          "rarity": "L'intérieur le plus magnifique de Paris — et qui vaut chaque centime du billet",
+          "name": "Sainte-Chapelle — Île de la Cité",
+          "description": "À dix minutes de Notre-Dame, cachée derrière les murs du Palais de Justice, la Sainte-Chapelle est sans doute l'intérieur le plus extraordinaire de Paris. Construite en six ans entre 1242 et 1248 par Louis IX pour abriter la Couronne d'Épines, sa chapelle haute est presque entièrement constituée de vitraux — 1 113 scènes bibliques sur 600 mètres carrés. Par une journée ensoleillée, la lumière est presque surnaturelle. Deux tiers des vitraux sont des œuvres originales du XIIIe siècle. Entrée payante ; réservez à l'avance en ligne. Visitez-la un matin ensoleillé lorsque la lumière frappe les vitraux.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sainte-Chapelle+Paris"
+        },
+        {
+          "rarity": "Le premier parc surélevé du monde — New York l'a copié",
+          "name": "Coulée Verte René-Dumont — 12th arrondissement",
+          "description": "Construite sur un viaduc ferroviaire désaffecté du XIXe siècle, la Coulée Verte est une promenade-jardin surélevée s'étendant sur 4,5 km à travers le 12e arrondissement. Elle a ouvert en 1993 — dix-sept ans avant la High Line de New York, qui en a été directement inspirée. Sous les arches du viaduc : galeries, studios de design et ateliers. Au-dessus : glycines, rosiers, bambous et un Paris qu'aucun touriste ne visite. Entrée gratuite. Commencez du côté de la Bastille et marchez vers l'est.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Coulée+Verte+René-Dumont+Paris"
+        },
+        {
+          "rarity": "Un amphithéâtre romain — au cœur de Paris",
+          "name": "Arènes de Lutèce — 5th arrondissement",
+          "description": "Dans le Quartier Latin, niché derrière un immeuble d'appartements ordinaire de la Rue Monge, un amphithéâtre gallo-romain du 1er siècle après J.-C. est largement oublié. Il pouvait autrefois accueillir 15 000 spectateurs. Aujourd'hui, il accueille des habitants jouant à la pétanque les après-midi en semaine, des enfants sur l'herbe et des pigeons. Pas de frais d'entrée, pas de guichet, pas de groupes de touristes. L'une des plus anciennes structures encore existantes à Paris. Presque personne ne le visite.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arènes+de+Lutèce+Paris"
+        },
+        {
+          "rarity": "La plus belle des passages couverts de Paris",
+          "name": "Galerie Vivienne — 2nd arrondissement",
+          "description": "Paris compte 20 passages couverts encore existants — des galeries marchandes à verrière des années 1820 et 1830, précurseurs des centres commerciaux modernes. La Galerie Vivienne est la plus belle : sols en mosaïque, reliefs néoclassiques, un marchand de vin présent depuis des décennies, un salon de thé, une librairie spécialisée dans les éditions anciennes et rares. Entrée gratuite. Marchez lentement. C'est à cela que ressemblait Paris avant qu'Haussmann ne le défigure.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Galerie+Vivienne+Paris"
+        },
+        {
+          "rarity": "Un jardin secret appartenant à un ministère",
+          "name": "Palais Royal Gardens — 1st arrondissement",
+          "description": "À quelques pas du Louvre, les jardins du Palais Royal sont entourés d'arcades à colonnades sur trois côtés — un rectangle paisible de chemins de gravier, de fontaines et de tilleuls, entouré d'antiquaires, d'un restaurant et des colonnes rayées de Daniel Buren dans la cour. Bien qu'il se trouve dans le kilomètre carré le plus visité du monde, il reste largement paisible. Les cardinaux Richelieu et Mazarin y ont vécu. Victor Hugo s'y promenait. Entrée gratuite. Par un après-midi chaud, vous devriez en faire autant.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Jardin+du+Palais+Royal+Paris"
+        },
+        {
+          "rarity": "Une voie ferrée abandonnée reprise par la nature",
+          "name": "La Petite Ceinture — 15th/16th arrondissement",
+          "description": "La Petite Ceinture était une voie ferrée circulaire qui encerclait Paris de 1862 à 1934. Abandonnée pendant près d'un siècle, elle a été partiellement reconquise par les fleurs sauvages, les bouleaux, les renards et, occasionnellement, des agriculteurs urbains. Plusieurs sections sont accessibles au public — les sections des 15e et 16e arrondissements sont les plus intéressantes. Gratuit, ouvert au public. Marcher sur les voies envahies par la végétation est l'une des choses les plus étranges et les plus belles que Paris offre.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Petite+Ceinture+Paris"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Palais Garnier — gratuit de l'extérieur, payant à l'intérieur",
+        "text": "Le Palais Garnier (Opéra Garnier) est l'un des bâtiments les plus extravagants du monde — le modèle du Fantôme de l'Opéra, avec un grand escalier, un plafond de Marc Chagall dans l'auditorium et un lac caché en dessous. La visite de l'intérieur nécessite un billet et une réservation à l'avance. Se tenir sur la Place de l'Opéra pour admirer l'extraordinaire façade, cependant, ne coûte rien — et le bâtiment est extraordinaire même de l'extérieur."
+      }
+    },
+    "checklist": {
+      "title": "Liste de contrôle Paris",
+      "completion_message": "Voilà ! Vous avez trouvé le vrai Paris.",
+      "items": [
+        {
+          "label": "Dites 'Bonjour' chaque fois que vous entrez quelque part",
+          "sub": "Magasin, café, boulangerie. À chaque fois. Cela change tout."
+        },
+        {
+          "label": "Achetez un croissant dans une boulangerie avec une file d'attente",
+          "sub": "Avant 10h. Au comptoir. Les files d'attente ne mentent pas."
+        },
+        {
+          "label": "Allez à la Sainte-Chapelle un matin ensoleillé",
+          "sub": "Derrière le Palais de Justice. Entrée payante — réservez en ligne à l'avance. Allez-y quand le soleil éclaire les vitraux."
+        },
+        {
+          "label": "Parcourez la Coulée Verte de la Bastille vers l'est",
+          "sub": "Jardin surélevé sur un viaduc. Gratuit. L'inspiration oubliée de la High Line."
+        },
+        {
+          "label": "Trouvez les Arènes de Lutèce dans le Quartier Latin",
+          "sub": "Amphithéâtre romain. Derrière la Rue Monge. Des locaux jouent à la pétanque. Gratuit."
+        },
+        {
+          "label": "Traversez la Galerie Vivienne",
+          "sub": "Le plus beau passage couvert de Paris. Entrée Rue Vivienne. Entrée gratuite. Marchez lentement."
+        },
+        {
+          "label": "Mangez une formule déjeuner en semaine dans un bistrot de quartier",
+          "sub": "Deux plats, une carafe de vin. Le meilleur rapport qualité-prix de la cuisine française."
+        },
+        {
+          "label": "Asseyez-vous dans les jardins du Palais Royal pendant une heure",
+          "sub": "À quelques pas du Louvre. Calme, magnifique, entrée gratuite, presque sans touristes."
+        },
+        {
+          "label": "Allez au Marché d'Aligre un samedi matin",
+          "sub": "12e arrondissement. Le marché le plus local de Paris. Allez-y tôt."
+        },
+        {
+          "label": "Prenez le bus 69 à travers le centre de Paris",
+          "sub": "Tour Eiffel au Père Lachaise. Une visite gratuite de la ville en surface."
+        },
+        {
+          "label": "Tenez-vous sur la Place de l'Opéra et admirez la façade du Palais Garnier",
+          "sub": "L'intérieur nécessite un billet. La façade est gratuite et extraordinaire. L'un des plus grands bâtiments du monde."
+        },
+        {
+          "label": "Trouvez un bar à vin nature dans le 11e sans menu en anglais",
+          "sub": "Demandez une recommandation. Buvez ce qu'ils suggèrent. C'est le but."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Paris a maîtrisé l'art du piège à touristes — mais les voies d'évasion sont tout aussi connues. Mémorisez ces quatre-là.",
+      "items": [
+        {
+          "icon": "💍",
+          "name": "Les jeux de la 'bague en or' et des pétitions",
+          "description": "Des groupes qui 'trouvent' une bague en or à vos pieds, ou qui recueillent des signatures puis exigent de l'argent, sont un classique des grandes places.",
+          "instead": "Ne vous arrêtez pas, souriez, dites 'non merci' et continuez votre chemin. Sac devant, fermeture éclair fermée — la règle du métro parisien."
+        },
+        {
+          "icon": "🥐",
+          "name": "Manger et boire sur les Champs-Élysées",
+          "description": "La plus célèbre avenue du monde est le point faible de la ville pour la nourriture : des cuisines médiocres à des prix touristiques.",
+          "instead": "Éloignez-vous d'une rue de l'avenue, ou dirigez-vous vers le Marais ou le Canal Saint-Martin : même budget, le vrai Paris."
+        },
+        {
+          "icon": "🎨",
+          "name": "La pression du 'portrait instantané' sur la Place du Tertre",
+          "description": "Sur la place des peintres de Montmartre, les portraits commencés sans invitation se terminent par du marchandage ; les prix ne sont jamais annoncés à l'avance.",
+          "instead": "Demandez le prix d'abord, ou contentez-vous de regarder. La vraie beauté de Montmartre se trouve à deux rues de là, sur les escaliers tranquilles."
+        },
+        {
+          "icon": "🎟️",
+          "name": "Vendeurs de rue de billets 'coupe-file'",
+          "description": "La plupart des billets 'coupe-file' vendus autour de la Tour Eiffel et du Louvre sont faux ou fortement majorés.",
+          "instead": "Achetez uniquement sur les sites officiels, avec date et heure ; si la Tour Eiffel est pleine, admirez-la depuis le Trocadéro — si le Louvre est plein, le musée d'Orsay est toujours plus calme."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "Une question vous dira si un endroit est un piège à touristes : le serveur vous aborde-t-il en français ? Si oui, vous êtes au bon endroit."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si la planification vous rebute, suivez ces suggestions. Les horaires sont flexibles ; gardez l'esprit, mais n'hésitez pas à modifier l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Un aperçu de Paris le long de la Seine",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Petit-déjeuner à la boulangerie",
+              "description": "Un croissant et le bout d'une baguette d'une boulangerie de quartier ; un café au comptoir. Commencez la journée à la parisienne."
+            },
+            {
+              "time": "10:00",
+              "title": "Île de la Cité + Sainte-Chapelle",
+              "description": "Le parvis de Notre-Dame, puis le miracle des vitraux de la Sainte-Chapelle. Réservez à l'avance, entrez à la lumière du matin."
+            },
+            {
+              "time": "12:30",
+              "title": "Déjeuner dans le Marais",
+              "description": "Falafel ou bistrot ? Les deux sont des classiques du Marais. Ensuite, les boutiques et la Place des Vosges."
+            },
+            {
+              "time": "15:00",
+              "title": "Louvre ou Orsay — choisissez-en un",
+              "description": "Tenter de faire les deux en une journée gâche l'expérience. Choisissez-en un, consacrez-y deux heures, puis partez."
+            },
+            {
+              "time": "17:30",
+              "title": "Palais Royal + pause-café",
+              "description": "Respirez dans le jardin à colonnades, traversez la Galerie Vivienne, prenez une place près de la fenêtre dans un café."
+            },
+            {
+              "time": "19:30",
+              "title": "Coucher de soleil sur la Seine + soirée",
+              "description": "Un pique-nique vin-fromage sur le quai, ou un steak frites dans un bistrot. Final : admirez la Tour Eiffel scintiller à chaque heure."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Le centre et les classiques",
+              "description": "Le parcours d'un jour ci-dessus : la Cité, le Marais, un grand musée, la Seine."
+            },
+            {
+              "time": "Day 2",
+              "title": "Rive Gauche + Tour Eiffel",
+              "description": "Saint-Germain et les Jardins du Luxembourg le matin, la Rue Mouffetard à midi, le jardin du Musée Rodin l'après-midi, la Tour Eiffel la nuit — coucher de soleil depuis le Trocadéro."
+            },
+            {
+              "time": "Day 3",
+              "title": "Montmartre et le canal",
+              "description": "Le Sacré-Cœur et les ruelles tôt le matin, une promenade le long du Canal Saint-Martin et un bar à vins naturels l'après-midi, un dîner d'adieu dans un bistrot de quartier."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "À Paris, ce n'est pas la fluidité qui compte, c'est la courtoisie ; ces cinq mots suffisent.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Bonjour — le mot de passe pour tout ; ne demandez rien avant de l'avoir dit"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Merci — aussi en partant : merci, au revoir !"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "S'il vous plaît — un café, s'il vous plaît : votre phrase la plus utilisée"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "Santé ! — le contact visuel en trinquant est une règle française"
+        },
+        {
+          "word": "Au revoir",
+          "pronunciation": "oh ruh-VWAHR",
+          "meaning": "Au revoir — quitter un magasin en silence est impoli ; dites ceci"
+        }
+      ]
+    }
+  }
+}

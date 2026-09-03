@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "city": "Berlin",
+    "country": "Germany",
+    "language": "fr",
+    "version": "2.1",
+    "color_primary": "#1A1A2E",
+    "color_light": "#EAEAF5",
+    "tagline": "Brut, libre, éternellement inachevé — et fier de chaque cicatrice.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Toujours valider votre billet",
+    "Culture des Späti",
+    "Le liquide reste roi"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Berlin",
+      "intro": "Berlin n'essaie pas de vous impressionner. Elle n'en a pas besoin. C'est une ville qui a été bombardée, divisée en deux et réunifiée — et qui est pourtant devenue la capitale la plus créative et libre d'Europe. Les murs portent encore des impacts de balles. Les espaces entre les bâtiments racontent encore l'histoire. Mais à côté de tout ce poids, il y a la meilleure scène de club du monde, une cuisine de rue légendaire et une culture d'ouverture radicale qui fait que chaque personne se sent chez elle.",
+      "local_word": {
+        "word": "Kiez",
+        "pronunciation": "keets",
+        "definition": "Votre quartier — plus précisément, les quelques pâtés de maisons autour de vous qui ressemblent à votre village dans la ville. Chaque Berlinois a un Kiez. Trouver le vôtre, c'est arrêter d'être un touriste et commencer à y vivre réellement."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Validez toujours votre billet",
+          "description": "Berlin fonctionne sur un système d'honneur — pas de barrières, pas de portiques. Mais les contrôleurs effectuent des vérifications aléatoires et l'amende est significative, sans exception. Validez votre billet aux machines jaunes ou rouges sur le quai avant chaque trajet. Aucune excuse n'est acceptée."
+        },
+        {
+          "number": 2,
+          "title": "L'argent liquide est toujours roi ici",
+          "description": "Contrairement à Amsterdam ou Barcelone, de nombreux restaurants, bars et marchés berlinois n'acceptent que les espèces. Ayez toujours des euros sur vous. 'Nur Barzahlung' (paiement en espèces uniquement) est un panneau que vous verrez constamment."
+        },
+        {
+          "number": 3,
+          "title": "L'aéroport est en Zone C — achetez le bon billet",
+          "description": "L'aéroport BER est situé en dehors de la ville, en Zone C. Un billet AB standard ne vous y mènera pas. Achetez un billet ABC à l'aéroport. Si vous avez déjà un billet AB pour la ville, vous avez besoin d'un billet d'extension (Anschlussfahrausweis) pour la Zone C — c'est moins cher qu'un billet ABC complet."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "BER (Brandebourg)",
+          "sub": "Train FEX · ~30 min · Zone ABC"
+        },
+        {
+          "icon": "🚇",
+          "label": "Transports",
+          "value": "U-Bahn + S-Bahn",
+          "sub": "Trajet simple depuis le centre-ville · Pass journalier disponible"
+        },
+        {
+          "icon": "💶",
+          "label": "Paiement",
+          "value": "Espèces préférées",
+          "sub": "De nombreux endroits n'acceptent que les espèces"
+        },
+        {
+          "icon": "🏪",
+          "label": "Vie nocturne",
+          "value": "Späti ouvert 24/7",
+          "sub": "Votre épicerie de nuit"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Philosophie berlinoise",
+        "text": "Berlin est 'arm aber sexy' — pauvre mais sexy, comme l'a dit un ancien maire. La ville porte fièrement sa rudesse. Ne vous attendez pas à du poli. Attendez-vous à de l'authenticité, de l'énergie et un rythme de vie qui a 6 heures de retard sur le reste de l'Europe."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Le réseau BVG de Berlin est l'un des meilleurs d'Europe — U-Bahn, S-Bahn, trams, bus et ferries, le tout avec un seul billet. Comprenez bien les zones dès le premier jour.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aéroport (BER) → Centre-ville",
+          "description": "Prenez le FEX (Airport Express) ou le S-Bahn S9/S45 depuis le BER directement vers le centre-ville. Le FEX est le plus rapide — il circule toutes les 30 minutes vers Berlin Hauptbahnhof en environ 30 minutes. Le BER est en Zone C, achetez donc un billet ABC aux distributeurs avant de monter. Les taxis existent mais sont nettement plus chers."
+        },
+        {
+          "icon": "🎫",
+          "title": "Types de billets — choisissez bien",
+          "description": "Les billets AB couvrent tout à l'intérieur de la ville — tous les quartiers, toutes les attractions. Les billets ABC couvrent également l'aéroport BER et Potsdam. Un billet simple est valable 2 heures dans une direction avec des correspondances gratuites. Un pass journalier offre des trajets illimités pendant 24 heures — cela vaut le coup si vous faites trois trajets ou plus."
+        },
+        {
+          "icon": "⚠️",
+          "title": "Validez — à chaque fois",
+          "description": "Berlin n'a pas de portiques de validation. Validez votre billet aux machines jaunes ou rouges sur les quais ou à l'intérieur des bus et trams avant de voyager. Des contrôleurs en civil effectuent des contrôles aléatoires — être pris sans un billet valide et composté signifie une amende salée sur-le-champ. 'J'ai oublié' n'est pas accepté."
+        },
+        {
+          "icon": "📱",
+          "title": "Application BVG — le geste le plus intelligent",
+          "description": "Téléchargez l'application BVG avant d'arriver. Achetez et validez vos billets numériquement, obtenez les heures de départ en direct et planifiez vos itinéraires pour tous les types de transport. L'application offre une réduction sur les billets achetés numériquement. Utilisez BVG Fahrinfo pour un itinéraire plus précis que Google Maps."
+        },
+        {
+          "icon": "🚲",
+          "title": "Faire du vélo",
+          "description": "Berlin est plate et très favorable au vélo. Louez via l'application BVG Jelbi ou Nextbike. D'excellentes pistes cyclables dans toute la ville. Si vous emportez votre vélo dans l'U-Bahn ou le S-Bahn, vous avez besoin d'un billet vélo séparé (Fahrradkarte). Les vélos ne sont pas autorisés dans les bus."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Transports de nuit",
+        "text": "L'U-Bahn fonctionne 24h/24 le week-end. Les soirs de semaine, des bus de nuit (marqués N) remplacent les lignes d'U-Bahn après minuit — mêmes numéros de ligne avec le préfixe N. Votre billet est valable dans les bus de nuit. Les trams circulent également toute la nuit dans les quartiers de l'est."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "Les quartiers de Berlin ne pourraient pas être plus différents les uns des autres. Est contre Ouest, brut contre raffiné, local contre touristique — l'endroit où vous atterrissez façonne tout.",
+      "local_word": {
+        "word": "Kneipe",
+        "pronunciation": "k-NYE-puh",
+        "definition": "Le pub de quartier allemand traditionnel — bois sombre, bière bon marché, habitants qui viennent depuis avant votre naissance. Choisir un quartier à Berlin, c'est choisir votre Kneipe. Trouvez la bonne et vous vous sentirez chez vous en une journée."
+      },
+      "items": [
+        {
+          "name": "Mitte",
+          "badge": "Le plus emblématique",
+          "badge_type": "vibe",
+          "description": "Le centre historique. La Porte de Brandebourg, l'Île aux Musées, la Tour de la Télévision — tout est ici. Raffiné, central et un peu stérile comparé au reste de Berlin. Idéal pour les primo-visiteurs qui veulent voir les monuments efficacement. Plus cher qu'ailleurs.",
+          "tags": [
+            "Le plus central",
+            "Très touristique",
+            "Idéal pour les primo-visiteurs"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mitte+Berlin"
+        },
+        {
+          "name": "Kreuzberg",
+          "badge": "Le plus créatif",
+          "badge_type": "hot",
+          "description": "Le cœur alternatif battant de Berlin. Cuisine de rue turque, clubs légendaires, bars au bord du canal, street art partout. Le SO36 et le Berghain sont ici. Divers, bruyant, vivant à 4h du matin. Le quartier le plus berlinois qui existe — désordonné, magnétique et entièrement lui-même.",
+          "tags": [
+            "Meilleure vie nocturne",
+            "Paradis de la street food",
+            "Le plus berlinois"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kreuzberg+Berlin"
+        },
+        {
+          "name": "Prenzlauer Berg",
+          "badge": "Le plus local",
+          "badge_type": "local",
+          "description": "Ancien Berlin-Est, c'est maintenant là que de jeunes familles et artistes se sont installés après la réunification. Beaux immeubles d'avant-guerre, places verdoyantes, excellent café, marchés de producteurs. Moins sauvage que Kreuzberg mais profondément agréable à vivre. Le marché du samedi de la Kollwitzplatz est incontournable.",
+          "tags": [
+            "Verdoyant et agréable à vivre",
+            "Excellent café",
+            "Marché du samedi"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Prenzlauer+Berg+Berlin"
+        },
+        {
+          "name": "Neukölln",
+          "badge": "Le plus prometteur",
+          "badge_type": "vibe",
+          "description": "Le quartier de Berlin qui change le plus rapidement. Boulangeries arabes et turques à côté de bars à vin nature. Boutiques vintage à côté d'ouvertures de galeries. Genuinement local et de plus en plus cool sans être encore complètement gentrifié. La Sonnenallee est l'âme du quartier.",
+          "tags": [
+            "En plein essor",
+            "Meilleur mélange culinaire",
+            "Abordable"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Neukölln+Berlin"
+        },
+        {
+          "name": "Friedrichshain",
+          "badge": "Meilleur rapport qualité-prix",
+          "badge_type": "value",
+          "description": "Le quartier jeune et énergique de Berlin-Est. L'East Side Gallery est ici — le plus long tronçon du Mur encore debout, couvert de fresques murales. La Boxhagener Platz ('Boxi') est la place locale où tout le monde se rassemble avec des bières de Späti. Abordable, animé, excellentes liaisons de transport.",
+          "tags": [
+            "East Side Gallery",
+            "Place Boxi",
+            "Abordable"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Friedrichshain+Berlin"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Meilleure période pour visiter",
+      "intro": "Berlin est une ville qui se visite toute l'année, mais elle est radicalement différente selon les saisons. Chaque version de Berlin mérite d'être vécue.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "L'Éveil",
+          "months": "Mar – Mai",
+          "subtitle": "Printemps · La ville s'éveille",
+          "description": "Après un long hiver gris, Berlin explose de vie en plein air dès que les températures atteignent les deux chiffres. Les parcs se remplissent du jour au lendemain, les terrasses de café apparaissent, et l'énergie est électrique. Le calendrier des événements créatifs démarre — vernissages, marchés aux puces, cinéma en plein air. Tempelhofer Feld devient un pique-nique géant. Berlin à son plus optimiste.",
+          "callout": {
+            "type": "tip",
+            "label": "À ne pas manquer",
+            "text": "Le marché aux puces du Mauerpark le dimanche — le marché en plein air le plus célèbre de Berlin retrouve toute son énergie au printemps. Arrivez tôt, restez pour le karaoké."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Berlin à son apogée",
+          "months": "Juin – Août",
+          "subtitle": "Été · Berlin à plein régime",
+          "description": "La ville explose. Festivals de rue, clubs en plein air, baignade dans les lacs, longues nuits qui ne deviennent jamais vraiment sombres. La Fête de la Musique (21 juin) transforme chaque coin de rue en scène. Les clubs se déplacent à l'extérieur. Les Berlinois nagent dans le Wannsee et le Müggelsee. Les prix des hébergements grimpent et les meilleurs clubs se remplissent de touristes.",
+          "callout": {
+            "type": "warning",
+            "label": "Conseil club",
+            "text": "Le Berghain a des files d'attente de 2 à 3 heures en été. Allez-y un soir de semaine ou un dimanche matin. Habillez-vous simplement, ayez l'air détendu — c'est la vraie culture de la porte berlinoise."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Semaines dorées",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Les Semaines Dorées",
+          "description": "Septembre et octobre sont la période idéale pour Berlin. Les foules se raréfient, les feuilles prennent des teintes ambrées, et la ville s'installe dans sa saison culturelle la plus riche. Berlin Art Week, Festival of Lights en octobre — Berlin à son plus diversifié et sophistiqué. Les soirées plus fraîches rendent la scène des clubs intérieurs à nouveau naturelle.",
+          "callout": {
+            "type": "tip",
+            "label": "À ne pas manquer",
+            "text": "Festival of Lights (octobre) — des monuments emblématiques transformés par des projections d'art lumineux. Gratuit, dans toute la ville, extraordinaire."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Sombre et Magique",
+          "months": "Déc – Fév",
+          "subtitle": "Hiver · Sombre, intime, magique",
+          "description": "Les hivers berlinois sont froids et gris — et d'une certaine manière, parfaits pour cela. Les marchés de Noël sont parmi les meilleurs d'Europe. La scène des clubs atteint son apogée : de longues nuits sombres, pas de touristes, les Berlinois à leur meilleur. Le festival du film de la Berlinale en février est de classe mondiale et étonnamment accessible.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'initié",
+            "text": "Le marché de Noël du Gendarmenmarkt est le plus beau. Le marché du RAW Gelände est le plus local — pas de bibelots touristiques, juste des Berlinois et du vin chaud."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "Février",
+          "text": "Berlinale : le plus accessible au public des grands festivals de cinéma ; les billets peuvent réellement être achetés."
+        },
+        {
+          "month": "1er Mai",
+          "text": "MyFest / 1er Mai à Kreuzberg : musique rue par rue, danse, et Berlin à son plus intense, avec son histoire politique exposée."
+        },
+        {
+          "month": "Début octobre",
+          "text": "Festival of Lights : les monuments et les places se transforment en installations lumineuses."
+        },
+        {
+          "month": "Décembre",
+          "text": "Marchés de Noël : Gendarmenmarkt est le plus élégant, Lucia à la Kulturbrauerei le plus chaleureux ; la tasse de Glühwein a une consigne — gardez-la comme souvenir."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La scène culinaire de Berlin est l'une des plus diverses et abordables d'Europe. De la street food légendaire aux restaurants de classe mondiale — souvent à quelques pas les uns des autres.",
+      "local_word": {
+        "word": "Prost!",
+        "pronunciation": "prohst",
+        "definition": "À votre santé ! — mais toujours maintenir un contact visuel lorsque vous trinquez. Détourner le regard est considéré comme impoli et, selon la superstition allemande, apporte sept ans de malchance dans la chambre à coucher. Vous êtes prévenu."
+      },
+      "items": [
+        {
+          "icon": "🌭",
+          "name": "Currywurst — l'institution berlinoise",
+          "description": "Saucisse de porc coupée en tranches, nappée de ketchup au curry, saupoudrée de poudre de curry. Ça a l'air simple. Ça a le goût de Berlin. Prenez-en une chez Curry 36 à Kreuzberg — pas au stand attrape-touristes de Checkpoint Charlie.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Curry+36+Berlin",
+          "tag": "Curry 36 · Kreuzberg seulement"
+        },
+        {
+          "icon": "🥙",
+          "name": "Döner Kebab — la véritable signature de Berlin",
+          "description": "Berlin possède la plus grande population turque en dehors de la Turquie. Le döner ici est vraiment différent — pain plus épais, plus de viande, meilleure sauce. Mustafa's Gemüse Kebap à Kreuzberg a une file d'attente célèbre. Les Imbiss locaux sont souvent tout aussi bons.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mustafas+Gemüse+Kebap+Berlin",
+          "tag": "Mustafa's · ou votre Imbiss local"
+        },
+        {
+          "icon": "🥨",
+          "name": "Vollkornbrot — le vrai pain allemand",
+          "description": "L'Allemagne compte plus de 3 200 variétés de pain enregistrées. Les boulangeries berlinoises prennent cela au sérieux. Du pain de seigle dense, foncé et aux graines avec du beurre et du fromage pour le petit-déjeuner — ce que les Berlinois mangent réellement. Trouvez une bonne Bäckerei dans votre Kiez dès le premier jour.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zeit+für+Brot+Berlin",
+          "tag": "Trouvez votre Bäckerei de Kiez dès le premier jour"
+        },
+        {
+          "icon": "🍺",
+          "name": "Berliner Weiße — la bière locale",
+          "description": "Une bière de blé aigre servie avec un trait de sirop de framboise (rot) ou d'aspérule (grün). Très rafraîchissante, très berlinoise. Commandez-la dans n'importe quelle Kneipe traditionnelle — toujours mit Schuss (avec du sirop).",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Brauhaus+Lemke+Berlin",
+          "tag": "Toujours mit Schuss — avec du sirop"
+        },
+        {
+          "icon": "🏪",
+          "name": "La culture Späti — le rituel berlinois",
+          "description": "Spätkauf — ouvert très tard ou toute la nuit, vendant de la bière fraîche, des snacks, tout ce dont vous avez besoin à 2h du matin. Achetez une bière Pfand froide, asseyez-vous sur le trottoir, parlez à des inconnus. L'institution sociale la plus authentique de Berlin. Chaque quartier a son Späti.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Späti+Berlin",
+          "tag": "Achetez, asseyez-vous dehors, parlez à des inconnus"
+        },
+        {
+          "icon": "🥗",
+          "name": "Markthalle Neun — Street Food du jeudi",
+          "description": "Une magnifique halle de marché du XIXe siècle à Kreuzberg. Chaque jeudi soir : Street Food Thursday, où les vendeurs locaux remplissent la halle. Diversifié, abordable, rempli de locaux. Le samedi matin, c'est le marché bio régulier. L'une des meilleures expériences culinaires de Berlin.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Markthalle+Neun+Berlin",
+          "tag": "Jeudis · Kreuzberg"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Concert gratuit à l'heure du déjeuner",
+        "text": "Chaque mercredi (de septembre à juin), la Philharmonie de Berlin organise un concert gratuit de 45 minutes à 13h. Musiciens de renommée mondiale, pas besoin de billet — arrivez simplement avant 13h. L'un des grands secrets de Berlin que presque aucun touriste ne connaît."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Berlin récompense la curiosité plus que toute autre ville d'Europe. Les meilleures choses ici se trouvent derrière des portes anonymes, sur d'anciens aérodromes et à l'intérieur de bunkers de la Seconde Guerre mondiale.",
+      "items": [
+        {
+          "rarity": "Le lieu de pique-nique le plus extraordinaire du monde",
+          "name": "Tempelhofer Feld — l'ancien aéroport",
+          "description": "L'aéroport monumental d'Hitler des années 1930, désaffecté en 2008 et remis à la ville. C'est aujourd'hui le plus grand espace ouvert urbain du monde — les Berlinois y font du vélo, des barbecues, volent des cerfs-volants et jardinent sur les pistes. Le terminal brutaliste est toujours debout. L'entrée est gratuite. Il n'existe rien de tel ailleurs sur terre.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tempelhofer+Feld+Berlin"
+        },
+        {
+          "rarity": "De l'art dans un bunker de la Seconde Guerre mondiale — réservez à l'avance",
+          "name": "Collection Boros",
+          "description": "Un bunker anti-aérien de la Seconde Guerre mondiale au centre de Berlin, converti en l'une des collections d'art privées les plus extraordinaires du monde. Les visites doivent être réservées des semaines à l'avance en ligne. De l'art contemporain à l'intérieur d'une architecture brute en béton de la Seconde Guerre mondiale — unique en son genre.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sammlung+Boros+Berlin"
+        },
+        {
+          "rarity": "Silence complet à côté de la Porte de Brandebourg",
+          "name": "Chambre du Silence (Raum der Stille)",
+          "description": "Derrière une porte anonyme à quelques pas de la Porte de Brandebourg — une petite pièce de tranquillité absolue ouverte à tous, pour une réflexion silencieuse quelle que soit la religion ou la croyance. Presque aucun touriste ne sait qu'elle existe. Gratuit, ouvert tous les jours. Sur l'une des places les plus photographiées du monde, trouver un silence total ici est extraordinaire.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Raum+der+Stille+Brandenburger+Tor+Berlin"
+        },
+        {
+          "rarity": "Concert gratuit de classe mondiale — tous les mercredis",
+          "name": "Concert de midi de la Philharmonie de Berlin",
+          "description": "Chaque mercredi de septembre à juin, la Philharmonie de Berlin organise un concert gratuit de 45 minutes à 13h. Pas de billet, pas de code vestimentaire. Il suffit d'arriver avant 13h et de prendre place. L'une des meilleures expériences culturelles gratuites de toutes les villes européennes.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Berliner+Philharmonie"
+        },
+        {
+          "rarity": "La halle de marché la plus locale de Berlin",
+          "name": "Arminiusmarkthalle — Moabit",
+          "description": "Alors que les touristes font la queue à la Markthalle Neun, les habitants de Moabit ont leur propre belle halle de marché du XIXe siècle — complètement sous le radar touristique. Produits frais, bouchers locaux, stands de nourriture internationale, café. Ouvert du lundi au samedi. L'expérience de marché la plus authentique de Berlin.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Arminiusmarkthalle+Berlin"
+        },
+        {
+          "rarity": "Un village dans la ville — sonnez la cloche",
+          "name": "Île de Lindwerder — Grunewald",
+          "description": "Une petite île sur le lac Havel, accessible uniquement par un petit ferry privé — vous sonnez une cloche sur la rive et le passeur arrive. Tilleuls, lieux de baignade, un restaurant avec terrasse quand il est ouvert. À peine connue même de la plupart des Berlinois. Prend 30 minutes depuis le centre mais donne l'impression d'être dans un autre monde.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lindwerder+Berlin"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Rituel Boxi",
+        "text": "La Boxhagener Platz à Friedrichshain — 'Boxi' pour les habitants — est la place de quartier la plus authentique de Berlin. Marché le samedi matin, marché aux puces le dimanche, et chaque soir : des habitants avec des bières de Späti sur les bancs. Pas d'ordre du jour. Juste la ville telle qu'elle est."
+      }
+    },
+    "checklist": {
+      "title": "Check-list Berlin",
+      "completion_message": "Prost ! Vous avez bien profité de Berlin !",
+      "items": [
+        {
+          "label": "Parcourir l'East Side Gallery à l'aube",
+          "sub": "1,3 km de fresques murales – avant l'arrivée des foules. Apportez du café."
+        },
+        {
+          "label": "Manger une Currywurst chez Curry 36",
+          "sub": "Uniquement à Kreuzberg. Évitez les stands touristiques de Checkpoint Charlie."
+        },
+        {
+          "label": "Acheter une bière fraîche dans un Späti et s'asseoir dehors",
+          "sub": "La chose la plus berlinoise que vous puissiez faire. N'importe quel Kiez, n'importe quelle nuit."
+        },
+        {
+          "label": "Se promener dans le Tempelhofer Feld",
+          "sub": "Ancien aéroport, aujourd'hui le plus grand espace ouvert urbain du monde. Gratuit."
+        },
+        {
+          "label": "Visiter le Mémorial aux Juifs assassinés d'Europe",
+          "sub": "Marchez lentement. Lisez les noms. Prenez tout le temps nécessaire."
+        },
+        {
+          "label": "Trouver votre Kiez et l'explorer à pied",
+          "sub": "Choisissez un quartier et explorez-le en profondeur – pas en surface. C'est comme ça que Berlin fonctionne."
+        },
+        {
+          "label": "Assister à un concert gratuit à la Philharmonie",
+          "sub": "Les mercredis à 13h, de septembre à juin. Arrivez tôt. Pas besoin de billet."
+        },
+        {
+          "label": "Explorer l'Île aux Musées – au moins un musée",
+          "sub": "Cinq musées de renommée mondiale sur une seule île. L'autel de Pergame à lui seul en vaut la peine."
+        },
+        {
+          "label": "Boire une Berliner Weiße dans une Kneipe",
+          "sub": "Commandez-la 'mit Schuss' (avec du sirop). Framboise ou aspérule – à vous de choisir."
+        },
+        {
+          "label": "Visiter la Salle du Silence près de la Porte de Brandebourg",
+          "sub": "Porte non marquée, calme absolu, gratuit. Presque personne ne sait qu'elle existe."
+        },
+        {
+          "label": "Se promener le long du canal à Kreuzberg un dimanche",
+          "sub": "Paul-Lincke-Ufer. Habitants, musique, nourriture. Berlin dans toute son authenticité."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Berlin ne vous arnaquera pas — mais il vous laissera vous arnaquer vous-même. Connaissez ces quatre pièges et consacrez votre temps au vrai Berlin.",
+      "items": [
+        {
+          "icon": "🪖",
+          "name": "Photos de soldats au Checkpoint Charlie",
+          "description": "Des 'soldats' costumés posant pour de l'argent, entourés de boutiques de souvenirs. Le lieu le plus dramatique de la Guerre Froide est aujourd'hui le coin le plus artificiel de la ville.",
+          "instead": "Pour la véritable histoire du Mur, rendez-vous au Mémorial du Mur de Berlin sur la Bernauer Straße : gratuit, poignant, authentique."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Manger autour de la Porte de Brandebourg",
+          "description": "Les restaurants autour d'Unter den Linden et de la Pariser Platz vendent la vue, pas la nourriture. Prix élevés, cuisines médiocres.",
+          "instead": "Pour le même prix, on mange deux fois mieux à Kreuzberg ou Neukölln ; la Markthalle Neun le jeudi est une destination en soi."
+        },
+        {
+          "icon": "🧱",
+          "name": "Souvenirs 'morceaux de Mur originaux'",
+          "description": "Il n'y a aucune garantie que ces morceaux de béton peints aient jamais vu le Mur ; la plupart sont des débris colorés après coup.",
+          "instead": "Découvrez le Mur à pied, pas avec votre portefeuille : parcourez l'East Side Gallery d'un bout à l'autre, gratuitement."
+        },
+        {
+          "icon": "⏳",
+          "name": "Perdre des heures dans les files d'attente populaires",
+          "description": "Une file d'attente de deux heures devant une institution berlinoise ne rend pas la nourriture deux heures meilleure ; chaque Kiez a sa propre légende.",
+          "instead": "Si la file d'attente dépasse 20 minutes, allez au coin suivant ; le deuxième meilleur de Berlin surpasse le meilleur de la plupart des villes."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "Le meilleur plan à Berlin est de n'avoir aucun plan. Choisissez un Kiez, faites confiance à vos pieds plutôt qu'au U-Bahn, et laissez-vous porter par la soirée."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces itinéraires. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Histoire + vie de Kiez, en une journée",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Porte de Brandebourg + Mémorial de l'Holocauste",
+              "description": "Tôt, avant la foule. Marchez entre les deux monuments et ressentez deux siècles d'histoire de la ville."
+            },
+            {
+              "time": "10:30",
+              "title": "Dôme du Reichstag ou Île aux Musées",
+              "description": "Inscrivez-vous gratuitement à l'avance pour le Reichstag ; ou choisissez un musée sur l'Île aux Musées — n'essayez jamais de tous les faire."
+            },
+            {
+              "time": "13:00",
+              "title": "Pause Currywurst ou Döner",
+              "description": "Currywurst debout chez Curry 36, ou le gemüse kebap si la file d'attente en vaut la peine. C'est la street food berlinoise."
+            },
+            {
+              "time": "15:00",
+              "title": "Mémorial du Mur de Berlin sur la Bernauer Straße",
+              "description": "La véritable histoire du Mur : la bande frontalière, les tunnels d'évasion, la bande de la mort. Checkpoint Charlie, mais authentique."
+            },
+            {
+              "time": "17:30",
+              "title": "Coucher de soleil à Tempelhofer Feld",
+              "description": "Marchez sur l'ancienne piste, louez un vélo ou allongez-vous sur l'herbe. La liberté berlinoise dans sa forme la plus physique."
+            },
+            {
+              "time": "20:00",
+              "title": "Soirée à Kreuzberg",
+              "description": "Une Kneipe, puis un bar, une bière de Späti en chemin. Ensuite, où que la nuit vous mène."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Histoire et le centre",
+              "description": "L'itinéraire d'un jour ci-dessus : la Porte, les mémoriaux, le Mur, Tempelhof."
+            },
+            {
+              "time": "Day 2",
+              "title": "L'esprit de Berlin-Est",
+              "description": "East Side Gallery le matin, autour de Boxhagener Platz à midi, café à Prenzlauer Berg et Mauerpark l'après-midi. Si c'est dimanche : karaoké !"
+            },
+            {
+              "time": "Day 3",
+              "title": "Art, un lac et au revoir",
+              "description": "Collection Boros (réserver des mois à l'avance) ou Hamburger Bahnhof, un bord de lac à Grunewald l'après-midi, adieu parmi les bars de Neukölln le soir."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "À Berlin, l'anglais suffit, mais quelques mots d'allemand brisent la glace.",
+      "items": [
+        {
+          "word": "Hallo",
+          "pronunciation": "HAH-loh",
+          "meaning": "Bonjour — informel, fonctionne partout"
+        },
+        {
+          "word": "Danke",
+          "pronunciation": "DAHN-keh",
+          "meaning": "Merci — plus doux avec schön : danke schön"
+        },
+        {
+          "word": "Bitte",
+          "pronunciation": "BIT-teh",
+          "meaning": "S'il vous plaît / De rien / Voici — Le couteau suisse de l'allemand"
+        },
+        {
+          "word": "Na?",
+          "pronunciation": "nah",
+          "meaning": "Le salut berlinois : 'Alors ? Ça va ?' — la bonne réponse est un autre 'Na ?'"
+        },
+        {
+          "word": "Tschüss!",
+          "pronunciation": "chuess",
+          "meaning": "Au revoir — dit en partant, vers la caisse"
+        }
+      ]
+    }
+  }
+}

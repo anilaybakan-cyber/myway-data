@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Madrid",
+    "country": "Spain",
+    "language": "de",
+    "version": "2.1",
+    "color_primary": "#8B1A1A",
+    "color_light": "#F8EAEA",
+    "tagline": "Europas Stadt, die niemals schläft – hier um 2 Uhr morgens noch unterwegs zu sein, ist selbstverständlich.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Spät zu Mittag, noch später zu Abend",
+    "Stehend an einer Tapas-Bar essen",
+    "Am Sonntagmorgen zum El Rastro"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Stellen Sie Ihre Uhr um, bevor Sie landen. Das Mittagessen beginnt um 14 Uhr, Abendessen vor 21:30 Uhr ist fast unbekannt, und um 2 Uhr morgens sind die Straßen immer noch voll. Das ist keine Übertreibung – es ist Madrids tatsächlicher Rhythmus. Besuchen Sie den Prado, die Reina Sofía, den Königspalast – aber wenn Sie bereits planen, was Sie nach dem Abendessen essen wollen, denken Sie wie ein Madrileño. Die Metro kostet weniger als eine Café-Speisekarte. Die Sonne geht spät unter. Tapas werden stehend, plaudernd, unaufgeregt gegessen.",
+      "local_word": {
+        "pronunciation": "ber-moo-TAY-o",
+        "definition": "Das Ritual, vor dem Mittagessen Wermut zu trinken. Zwischen 12 und 14 Uhr schenken Bars Wermut vom Fass aus, dazu gibt es Chips, Oliven und ein Stück Tortilla. Sonntags nach El Rastro oder in der Mittagspause unter der Woche. 'Machen wir Vermuteo?' ist einer der häufigsten Sätze im Wortschatz eines Madrileños.",
+        "word": "Vermuteo"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Finden Sie Madrids Rhythmus – sonst verschließt sich die Stadt Ihnen",
+          "description": "Das Frühstück ist leicht und früh. Das Mittagessen ist zwischen 14 und 16 Uhr – die wichtigste Mahlzeit des Tages und die günstigste Option: ein komplettes Menü mit Vorspeise, Hauptgericht und Dessert für 12-15 Euro, meist inklusive Getränk. Beginnen Sie das Abendessen nicht vor 21 Uhr. Um 23 Uhr füllen sich die Tische immer noch. Halten Sie sich an diese Zeiten und Sie essen günstig in lokalen Lokalen."
+        },
+        {
+          "number": 2,
+          "title": "Vermeiden Sie Touristenfallen – gehen Sie zwei Blocks weiter",
+          "description": "Die Restaurants rund um die Plaza Mayor, die meisten an der Gran Vía und der Mercado de San Miguel sind touristisch und überteuert. Zwei Blocks weiter sinken die Preise und die Qualität steigt. Wenn die Speisekarte Fotos enthält, jemand draußen steht und Sie hereinbittet oder die englische Speisekarte sehr prominent ist – gehen Sie weiter."
+        },
+        {
+          "number": 3,
+          "title": "Verstehen Sie die Tapas-Kultur",
+          "description": "In Madrid gibt es Tapas nicht kostenlos zu Getränken – einige Bars stellen etwas Kleines bereit, aber das ist nicht die Regel. Essen Sie stehend an der Bar, besuchen Sie ein paar Bars, essen und trinken Sie in jeder etwas. Klein, leicht, zum Teilen: Croquetas, Patatas Bravas, Boquerones, ein Stück Tortilla."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "MAD — Adolfo Suárez Madrid-Barajas",
+          "sub": "Metro-Linie 8 nach Nuevos Ministerios ~25 Min. · €3 Flughafenzuschlag"
+        },
+        {
+          "icon": "🚇",
+          "label": "U-Bahn",
+          "value": "13 Linien, 300+ Stationen",
+          "sub": "Einzelticket €1.50–2 (nach Entfernung) · 10er-Ticket €7.30"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Wetter",
+          "value": "Kontinental – extreme Temperaturen",
+          "sub": "Mai–Juni und Sep–Okt ideal · Juli–Aug sehr heiß · Dez–Feb kalt"
+        },
+        {
+          "icon": "🍷",
+          "label": "Essenszeiten",
+          "value": "Mittagessen 14–16 Uhr · Abendessen 21 Uhr+",
+          "sub": "Menú del día €12–15 · außerhalb dieser Zeiten sind Lokale leer"
+        }
+      ],
+      "tip": {
+        "label": "Menú del día – Madrids bestes Preis-Leistungs-Verhältnis",
+        "text": "Montag bis Freitag, 14–16 Uhr, bietet fast jedes Restaurant ein Menú del día an. Vorspeise, Hauptgericht und Dessert, Brot, Getränk (Bier oder Wein) inklusive – 12 bis 15 Euro. In touristischen Gegenden ist dies teurer und generell von geringerer Qualität. Gehen Sie eine Seitenstraße entlang, suchen Sie nach Lokalen ohne englische Speisekarte – dort finden Sie das echte Menú del día.",
+        "type": "tip"
+      },
+      "title": "Willkommen in Madrid"
+    },
+    "transport": {
+      "intro": "Die Metro fährt überall hin, aber das Stadtzentrum ist klein genug, um zu Fuß erkundet zu werden. Taxis sind eine Option, aber nicht unbedingt notwendig.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Flughafen → Stadtzentrum",
+          "description": "Metro-Linie 8 bis Nuevos Ministerios, 25 Minuten, dann Umsteigen ins Stadtzentrum. Das Ticket kostet den regulären Metro-Tarif plus einen Flughafenzuschlag von 3 € – insgesamt etwa 5 €. Festpreis-Taxi vom Flughafen: 33 €. Die Terminals T1-T2-T3 sind miteinander verbunden; T4 ist separat und 10 Minuten mit der Metro entfernt."
+        },
+        {
+          "icon": "🚇",
+          "title": "Metro — das Rückgrat der Stadt",
+          "description": "13 Linien, über 300 Stationen. Einzelticket 1,50–2 €, je nach Entfernung. Das 10er-Ticket (MetroBus) kostet 7,30 € – gültig für Metro und Bus und kann von mehreren Personen genutzt werden (jede Person entwertet separat). Zuerst muss eine Multi Card an einem Automaten gekauft werden (2,50 €). Betriebszeiten: 6 Uhr bis 1:30 Uhr."
+        },
+        {
+          "icon": "🚌",
+          "title": "EMT-Busse — für späte Nächte",
+          "description": "Über 200 Tageslinien, 35 Nachtlinien (Búho). Tagesbetrieb: 6 Uhr–23:30 Uhr. Nachtbusse fahren von Cibeles ab – die einzige Option, sobald die Metro schließt. Zahlung direkt mit Karte oder mit dem 10er-Ticket möglich."
+        },
+        {
+          "icon": "🚲",
+          "title": "BiciMAD — Elektrofahrräder",
+          "description": "Stationen für Elektrofahrrad-Sharing in der ganzen Stadt. 0,50 € pro 30 Minuten oder eine monatliche Pauschale von 10 €. Ideale Routen entlang des Paseo del Prado, Retiro und Madrid Río."
+        },
+        {
+          "icon": "🚶",
+          "title": "Zu Fuß — die beste Option",
+          "description": "Das Stadtzentrum ist kleiner, als Sie denken. Von Sol: La Latina 15 Minuten, Malasaña 20 Minuten, Chueca 10 Minuten. Sicher auch nachts. Sie können einen ganzen Tag verbringen, ohne die Metro zu benötigen."
+        }
+      ],
+      "callout": {
+        "label": "Touristenpass oder 10er-Ticket?",
+        "text": "Für ein paar Tage ist das 10er-MetroBus-Ticket (7,30 €) meist die bessere Wahl – gültig für Metro und Bus und teilbar zwischen Reisenden. Der Touristenpass kostet 10 € pro Tag für Zone A, 42 € für 7 Tage – unbegrenzte Fahrten inklusive Flughafen ohne Zuschlag. Wenn Sie länger als 3 Tage bleiben und viel unterwegs sein möchten, ist der Touristenpass eine Überlegung wert.",
+        "type": "tip"
+      },
+      "title": "Fortbewegung"
+    },
+    "stay": {
+      "intro": "Die Lage ist in Madrid sehr wichtig – die Stadt lebt nachts und der Charakter des Viertels prägt Ihre Abende direkt.",
+      "local_word": {
+        "pronunciation": "BAR-ryo",
+        "definition": "Viertel. Madrid besteht aus Dutzenden von Barrios, jedes mit seiner eigenen Identität. Die Achse Sol-Gran Vía ist das Touristenzentrum. La Latina ist historisch und Tapas; Malasaña ist jung und alternativ; Chueca ist lebhaft und modern; Chamberí ist ruhig und lokal; Lavapiés ist multikulturell und künstlerisch. Welches Barrio Sie wählen, bestimmt, wie Sie die Stadt erleben.",
+        "word": "Barrio"
+      },
+      "items": [
+        {
+          "name": "La Latina / Lavapiés",
+          "badge": "Am historischsten, am lebendigsten",
+          "badge_type": "local",
+          "description": "La Latina ist eines der ältesten Viertel Madrids. Die Cava Baja ist gesäumt von Tapas-Bars und historischen Tavernen. Die Plaza de la Paja ist ein ruhiger mittelalterlicher Platz. El Rastro führt sonntags hindurch. Gleich nebenan ist Lavapiés multikulturell, künstlerisch und ständig im Wandel – der Mercado de San Fernando befindet sich hier.",
+          "tags": [
+            "El Rastro Sonntag",
+            "Cava Baja Tapas",
+            "Historische Gassen"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Latina+Madrid"
+        },
+        {
+          "name": "Malasaña",
+          "badge": "Am alternativsten",
+          "badge_type": "local",
+          "description": "Die Bewegung Movida Madrileña der 1980er Jahre wurde hier geboren. Sie trägt diesen Geist immer noch in sich: Street Art, Vintage-Läden, kleine Bars und Cafés. Die Plaza del Dos de Mayo füllt sich abends. Lebhaft, aber authentisch. Zehn Gehminuten von der Gran Vía entfernt, aber es fühlt sich an wie eine andere Welt.",
+          "tags": [
+            "Street Art",
+            "Vintage-Läden",
+            "Nachtleben"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Malasaña+Madrid"
+        },
+        {
+          "name": "Chueca",
+          "badge": "Am lebhaftesten",
+          "badge_type": "hot",
+          "description": "Bunt, modern, mit einer ausgeprägten Ausgehszene. Der Mercado de San Antón ist hier – drei Etagen, mit einer Dachbar ganz oben. Die Bodega de la Ardosa schenkt seit 1892 Wermut direkt aus dem Fass aus. Teilt eine Grenze mit Malasaña – fünf Minuten dazwischen.",
+          "tags": [
+            "Mercado de San Antón",
+            "Bodega de la Ardosa",
+            "Nachtleben"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chueca+Madrid"
+        },
+        {
+          "name": "Chamberí",
+          "badge": "Am lokalsten, am ruhigsten",
+          "badge_type": "local",
+          "description": "Das Viertel, das Madrider wählen, wenn sie in Madrid bleiben möchten. Familien trinken Morgenkaffee rund um die Plaza de Olavide, ältere Paare teilen sich Zeitungen. Kein touristischer Druck. Andén 0 – die Geister-Metrostation – ist hier. 15-20 Gehminuten zum Stadtzentrum.",
+          "tags": [
+            "Plaza de Olavide",
+            "Andén 0",
+            "Ruhiger Viertelrhythmus"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chamberí+Madrid"
+        },
+        {
+          "name": "Barrio de las Letras",
+          "badge": "Am kulturellsten",
+          "badge_type": "hot",
+          "description": "Zwischen dem Prado und der Puerta del Sol, wo Lope de Vega und Cervantes lebten. Zitate von Schriftstellern sind in den Bürgersteig der Calle de las Huertas eingelassen – schauen Sie beim Gehen nach unten. Das Thyssen und Reina Sofía sind zu Fuß erreichbar. Früh morgens wird es ruhig – dann ist es am schönsten.",
+          "tags": [
+            "Zitate Calle de las Huertas",
+            "Nah an Museen",
+            "Literaturgeschichte"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Barrio+de+las+Letras+Madrid"
+        }
+      ],
+      "title": "Wo übernachten"
+    },
+    "best_time": {
+      "intro": "Madrid hat ein kontinentales Klima – die Sommer sind sehr heiß, die Winter kalt, Frühling und Herbst sind ausgezeichnet.",
+      "items": [
+        {
+          "label": "Frühling",
+          "name": "Die beste Zeit",
+          "months": "Apr – Jun",
+          "description": "April bis Juni ist Madrids ausgewogenste Zeit. Es gibt Sonne, aber die Temperatur ist genau richtig zum Erkunden. Der Rosengarten Rosaleda im Retiro-Park blüht im Mai. Fiestas de San Isidro im Mai – Madrids größtes lokales Fest, Straßenmusiker, traditionelle Kostüme, Open-Air-Konzerte. Mandelblüte in der Quinta de los Molinos Ende März.",
+          "callout": {
+            "label": "Fiestas de San Isidro — zweite Maiwoche",
+            "text": "Das Fest zu Ehren von Madrids Schutzpatron San Isidro. Eine ganze Woche Open-Air-Konzerte in der ganzen Stadt, traditionelle Chotis-Tanzvorführungen, lokale Kostüme und Festlichkeiten. Die Pradera de San Isidro ist das Zentrum – südwestlich der Stadt, kostenlos. Das authentischste lokale Fest.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Frühling · Die Stadt erwacht, die Menschenmassen sind noch nicht da"
+        },
+        {
+          "label": "Herbst",
+          "name": "Durchatmen nach dem Sommer",
+          "months": "Sep – Nov",
+          "description": "Von Mitte September bis November erwacht Madrid wieder zum Leben. Museen eröffnen neue Ausstellungen, Restaurants präsentieren neue Menüs. Der Retiro-Park färbt sich im Herbst golden – Wochentagmorgen sind seine schönsten Stunden. Die Menschenmassen sind geringer als im Sommer.",
+          "callout": {
+            "label": "Retiro-Park — Wochentags früh morgens",
+            "text": "350 Hektar im Herzen der Stadt. Der Palacio de Cristal ist ein kostenloser Ausstellungsraum. Sie können ein kleines Ruderboot auf dem See mieten – gehen Sie und genießen Sie es. Wochentagmorgens um 9 Uhr ist es eine andere Welt als die Menschenmassen am Wochenende. Die Statue des gefallenen Engels befindet sich auf einem kleinen Hügel im Süden, mit sehr wenigen Besuchern.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Herbst · Die Stadt erholt sich von der Sommerermüdung"
+        },
+        {
+          "label": "Sommer",
+          "name": "Heiß, aber die Stadt schläft nie",
+          "months": "Jul – Aug",
+          "description": "Juli und August sind Madrids heißeste Monate – 40°C sind normal. Zwischen 14 und 19 Uhr ist es schwierig, draußen zu sein. Aber das Nachtleben erreicht seinen Höhepunkt. Veranos de la Villa: Open-Air-Konzerte, Filmvorführungen und kulturelle Veranstaltungen den ganzen Sommer über. Picknicks am See in Casa de Campo. Rooftop-Bars sind in dieser Saison am lebhaftesten.",
+          "callout": {
+            "label": "Azoteas — Madrids Rooftop-Bars",
+            "text": "Die Dachterrasse des Círculo de Bellas Artes (5 € Eintritt) bietet ein Panorama der Gran Vía. Die Rooftop-Bar des Mercado de San Antón blickt über Chueca. Die besten Orte für Sonnenuntergangsansichten über die Skyline der Stadt und die Gran Vía. Reservierungen im Sommer unerlässlich.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Sommer · 40°C sind möglich, aber das Nachtleben erreicht seinen Höhepunkt"
+        },
+        {
+          "label": "Winter",
+          "name": "Ruhig, aber schonend für den Geldbeutel",
+          "months": "Dec – Feb",
+          "description": "Dezember: Weihnachtsbeleuchtung schmückt die Gran Vía, und die Reyes Magos Parade am Abend des 5. Januar. Januar und Februar sind ruhig – Museen leer, Restaurants ohne Warteschlangen, Hotels erschwinglich. Cocido madrileño – der Kichererbsen-Wintereintopf – ist das Gericht dieser Monate. Kalt, aber Schnee ist selten.",
+          "callout": {
+            "label": "Reyes Magos — Abend des 5. Januar",
+            "text": "In Spanien ist nicht Weihnachten, sondern die Tradition der Heiligen Drei Könige (Reyes Magos) am wichtigsten. Am Abend des 5. Januar findet eine riesige Parade durch Madrids Straßen statt – drei Könige und Hunderte von Festwagen ziehen durch das Stadtzentrum und werfen Süßigkeiten in die Menge. Die belebteste Nacht des Jahres. Am Morgen des 6. Januar finden Kinder ihre Geschenke.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Winter · Die Stadt wird ruhiger, schonender für den Geldbeutel"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "May 15",
+          "text": "San Isidro: die Woche des Schutzpatrons – Picknicks auf der Wiese, Chulapo-Outfits, Konzerte und der Chotis-Tanz."
+        },
+        {
+          "month": "June–August",
+          "text": "Terrassensaison: heiße Mittage ziehen sich, aber nachts ist die ganze Stadt draußen; Kinder sind um Mitternacht noch auf den Plätzen."
+        },
+        {
+          "month": "September–November",
+          "text": "Die ideale Jahreszeit: tiefblauer Himmel, die Hitze gebrochen, der Kulturkalender voll – Madrids süßeste Monate."
+        },
+        {
+          "month": "December 31",
+          "text": "Neujahr an der Puerta del Sol: das Ritual, 12 Trauben mit den Glocken zu essen – eine Traube pro Glockenschlag, und ein glückliches Jahr, wenn man mithält."
+        }
+      ],
+      "title": "Wann reisen"
+    },
+    "eat": {
+      "intro": "Madrid liegt weit vom Meer entfernt, doch die Meeresfrüchte gehören zu den besten der Stadt. Und hier wird alles stehend, an der Bar, ohne Eile gegessen.",
+      "local_word": {
+        "pronunciation": "bo-ka-DIL-yo de ka-la-MA-res",
+        "definition": "Ein Brötchen gefüllt mit frittierten Calamari. Madrids Streetfood. Zu finden in Bars rund um die Plaza Mayor, besonders in der Bar La Campana. In einer Stadt ohne Küste kommen täglich frische Meeresfrüchte dank MercaMadrid, einem der größten Fischmärkte der Welt, an. Dieses Sandwich ist die Essenz Madrids: einfach, köstlich, im Stehen gegessen.",
+        "word": "Bocadillo de Calamares"
+      },
+      "items": [
+        {
+          "icon": "🦑",
+          "name": "Bocadillo de calamares",
+          "description": "Frittierte Calamari in einem Brötchen, ein Spritzer Zitrone – das ist alles. Die Bar La Campana liegt direkt hinter der Plaza Mayor und ist seit 1979 geöffnet. Es gibt eine Schlange, aber sie bewegt sich schnell. Dazu ein Bier, im Stehen auf der Plaza Mayor gegessen. Iss das, bevor du darüber nachdenkst, wohin du sonst noch in Madrid gehen könntest.",
+          "tag": "Bar La Campana, hinter der Plaza Mayor · im Stehen essen · täglich",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bar+La+Campana+Madrid"
+        },
+        {
+          "icon": "🍳",
+          "name": "Huevos rotos",
+          "description": "Spiegeleier über knusprigen Kartoffeln, mit Jamón oder Chorizo. Das Ei wird zerbrochen, sodass das Eigelb sich über die Kartoffeln verteilt – daher der Name. Typisch für Madrid. Casa Lucio ist berühmt, aber überfüllt; das gleiche Gericht findest du in kleineren Bars in La Latina.",
+          "tag": "Bars in La Latina · Mittag- und Abendessen · am besten zum Teilen",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Lucio+Madrid"
+        },
+        {
+          "icon": "🥘",
+          "name": "Cocido madrileño",
+          "description": "Ein Eintopf aus Kichererbsen, Schweinefleisch, Huhn, Morcilla und Gemüse – in drei Gängen serviert. Zuerst die Kichererbsenbrühe, dann das Gemüse, dann das Fleisch. Ein Wintergericht, von November bis März. Die Taberna La Bola bereitet es seit 1870 zu. Vorabreservierung unbedingt erforderlich.",
+          "tag": "Winter · Mittagessen · Taberna La Bola seit 1870 · Reservierung erforderlich",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Bola+Madrid"
+        },
+        {
+          "icon": "🍟",
+          "name": "Patatas bravas",
+          "description": "Knusprige Kartoffeln mit zwei Saucen – einer scharfen (brava), einer knoblauchhaltigen Aioli. In der Madrider Version wird die Sauce über die Kartoffeln gegossen. Jede Tapas-Bar hat ihr eigenes Rezept. Docamar an der Alcalá ist die berühmteste Patatas Bravas Bar der Stadt.",
+          "tag": "Jede Tapas-Bar · Docamar ist die berühmteste",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Docamar+Madrid"
+        },
+        {
+          "icon": "🍩",
+          "name": "Churros con chocolate",
+          "description": "Am Ende einer Partynacht um 2 Uhr morgens oder am Sonntagmorgen mit müden Augen. Die Chocolatería San Ginés ist seit 1894 geöffnet, direkt neben der Puerta del Sol. Churros direkt aus dem heißen Öl, Schokolade dick und dunkel. Spät nachts hier zu sitzen, ist Teil des Madrider Erlebnisses.",
+          "tag": "Chocolatería San Ginés · seit 1894 · neben der Puerta del Sol · bis 2 Uhr morgens geöffnet",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chocolatería+San+Ginés+Madrid"
+        },
+        {
+          "icon": "🍶",
+          "name": "Vermut ritual",
+          "description": "Sonntag nach El Rastro oder in der Mittagspause unter der Woche. Wermut vom Fass, dazu Oliven. Die Bodega de la Ardosa in Chueca serviert seit 1892 Wermut direkt aus dem Fass. Casa Alberto im Barrio de las Letras seit 1827. Das ist nicht nur ein Getränk – es ist ein Ritual des Innehaltens.",
+          "tag": "Sonntags nach El Rastro oder unter der Woche zum Mittagessen · Bodega de la Ardosa oder Casa Alberto",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bodega+de+la+Ardosa+Madrid"
+        }
+      ],
+      "callout": {
+        "label": "Wie man in einer Tapas-Bar isst",
+        "text": "Geh hinein, such dir einen Platz an der Bar, sag, was du möchtest. Im Stehen zu essen ist besser als am Tisch. Besuche mehrere Bars: Croquetas in der einen, Patatas Bravas in der nächsten, danach ein Bocadillo. Das ist die richtige Art, Tapas in Madrid zu genießen. Warte eine Weile, bevor du nach der Rechnung fragst – hier gibt es keine Eile.",
+        "type": "tip"
+      },
+      "title": "Was man essen sollte"
+    },
+    "hidden_gems": {
+      "intro": "Madrid ist eine große Stadt, aber ihre schönsten Ecken zeigen sich, sobald man zwei Blocks gegangen ist und abbiegt.",
+      "items": [
+        {
+          "name": "Andén 0 — Geisterbahnhof",
+          "description": "Unter der Metrostation Puerta del Sol befindet sich ein ungenutzter Bahnhof aus dem Jahr 1919. Im Jahr 2021 in ein Museum umgewandelt. Die ursprüngliche Infrastruktur aus der Bauzeit der Metro ist erhalten geblieben – alte Schilder und Fahrzeuge. Eintrittspflichtig; Führungen zu bestimmten Zeiten. Der Ausgangspunkt der ersten Metro-Linie Spaniens.",
+          "rarity": "Unter der Metro verbirgt sich eine weitere Metro",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Anden+0+Chamberí+Madrid"
+        },
+        {
+          "name": "Calle de las Huertas",
+          "description": "Im Barrio de las Letras, zwischen Puerta del Sol und dem Prado. Zitate von Cervantes, Lope de Vega und anderen Schriftstellern des Goldenen Zeitalters sind in den Bürgersteig der Straße eingelassen, in der sie lebten – schauen Sie beim Gehen nach unten. Vor 10 Uhr morgens, bevor die Reisegruppen ankommen, gibt es keine Menschenmassen. Das Haus von Lope de Vega ist als Museum geöffnet.",
+          "rarity": "Poesie im Pflaster – das Literaturviertel",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Calle+de+las+Huertas+Madrid"
+        },
+        {
+          "name": "Cerro del Tío Pío — Siete Tetas",
+          "description": "Im Viertel Vallecas, fußläufig von der Haltestelle Buenos Aires der Linie 1. Sieben kleine Hügel – lokal bekannt als 'Siete Tetas'. Einer der am wenigsten überfüllten Orte der Stadt für Madrids Skyline und den Sonnenuntergang. Bringen Sie eine Picknickdecke und Essen mit; setzen Sie sich am späten Nachmittag zu den Einheimischen.",
+          "rarity": "Der lokalste Hügel der Stadt für den Sonnenuntergang",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cerro+del+Tio+Pio+Madrid"
+        },
+        {
+          "name": "Casa Alberto",
+          "description": "Im Barrio de las Letras, Calle de las Huertas 18. Geöffnet seit 1827. Holzbar, Wermut vom Fass, alte Madrid-Fotos an den Wänden. Trinken Sie den Wermut vom Fass, bestellen Sie dazu Caracoles (Schnecken) – saisonal.",
+          "rarity": "Geöffnet seit 1827 – am selben Ort",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Casa+Alberto+Madrid"
+        },
+        {
+          "name": "Quinta de los Molinos",
+          "description": "An der Alcalá, nahe der Stierkampfarena Ventas. 1.500 Mandelbäume – Ende März blühen sie alle gleichzeitig, Boden und Luft werden weiß. Weniger bekannt als die japanische Kirschblüte, aber ebenso beeindruckend. Kostenlos, Park immer geöffnet. Gehen Sie an einem Sonntagmorgen hin – die Nachbarn spazieren hier.",
+          "rarity": "Mandelblüte im März – Madrids unsichtbarstes Fest",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quinta+de+los+Molinos+Madrid"
+        },
+        {
+          "name": "Dach des Círculo de Bellas Artes",
+          "description": "Alcalá 42, direkt an der Ecke der Gran Vía. Zahlen Sie 5 € und fahren Sie auf die Dachterrasse – Gran Vía, der Königspalast, die Berge der Sierra de Guadarrama sind 360 Grad sichtbar. Es gibt eine Bar. Im Inneren gibt es auch Kunstausstellungen, oft kostenlos. Am schönsten bei Sonnenuntergang.",
+          "rarity": "Blicken Sie von oben über die Stadt, oberhalb der Gran Vía",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Circulo+de+Bellas+Artes+Madrid"
+        }
+      ],
+      "callout": {
+        "label": "El Rastro — das Sonntagmorgen-Ritual",
+        "text": "Jeden Sonntag von 9 bis 15 Uhr in La Latina. Die Calle de la Ribera de Curtidores ist die Hauptstraße – Second-Hand-Waren, Antiquitäten, Kleidung, Bücher, alles. El Rastro am Sonntag, dann Vermuteo zum Mittagessen in La Latina – der typische Madrider Sonntagsplan. Achten Sie auf Ihre Taschen, es wird voll. Beste Auswahl in den frühen Morgenstunden.",
+        "type": "tip"
+      },
+      "title": "Verborgene Schätze"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Einen Bocadillo de Calamares essen",
+          "sub": "Bar La Campana, hinter der Plaza Mayor. Die Schlange bewegt sich schnell. Dazu ein Bier, stehend auf dem Platz."
+        },
+        {
+          "label": "Ein Menú del Día genießen – am richtigen Ort",
+          "sub": "Mo–Fr, 14–16 Uhr. Eine Seitenstraße hinuntergehen, 12–15 €, komplettes Menü, Getränk inklusive."
+        },
+        {
+          "label": "Sonntagmorgen zum El Rastro gehen",
+          "sub": "Vor 9 Uhr. La Latina, Calle de la Ribera de Curtidores. Danach ein Vermuteo in der Nachbarschaft."
+        },
+        {
+          "label": "An einem Wochentagmorgen im Retiro-Park spazieren gehen",
+          "sub": "Wochentags um 9 Uhr. Palacio de Cristal, Rosengarten, See. Sonntagnachmittage meiden."
+        },
+        {
+          "label": "Auf die Calle de las Huertas hinunterblicken",
+          "sub": "Barrio de las Letras. Zitate von Schriftstellern im Pflaster. Frühmorgens, bevor die Reisegruppen ankommen."
+        },
+        {
+          "label": "Churros con Chocolate – spät nachts oder Sonntagmorgen",
+          "sub": "Chocolatería San Ginés, seit 1894. Direkt neben der Puerta del Sol. Geöffnet bis 2 Uhr morgens."
+        },
+        {
+          "label": "Auf das Dach des Círculo de Bellas Artes steigen",
+          "sub": "Alcalá 42, Ecke Gran Vía. Eintritt 5 €. Gran Vía, Königspalast, Berge. Bei Sonnenuntergang."
+        },
+        {
+          "label": "Ein Vermuteo machen",
+          "sub": "Bodega de la Ardosa (Chueca, 1892) oder Casa Alberto (Letras, 1827). Sonntags nach dem El Rastro oder zum Mittagessen unter der Woche."
+        },
+        {
+          "label": "Eine Tapas-Bar-Tour machen",
+          "sub": "Cava Baja in La Latina oder Malasaña. Im Stehen essen, mehrere Bars besuchen."
+        },
+        {
+          "label": "Andén 0 besuchen",
+          "sub": "Geisterbahnhof unter der Metro Puerta del Sol. Aus dem Jahr 1919. Eintrittspflichtig, Führungen zu festen Zeiten."
+        },
+        {
+          "label": "Den Cerro del Tío Pío bei Sonnenuntergang besteigen",
+          "sub": "Vallecas, Linie 1 Buenos Aires. Picknickdecke, Essen. Madrider Skyline, Einheimische."
+        },
+        {
+          "label": "Den Prado oder das Reina Sofía besuchen",
+          "sub": "Prado kostenlos Di–Sa 18–20 Uhr. Reina Sofía kostenlos Mo–Sa 19–21 Uhr, So 13:30–19 Uhr."
+        }
+      ],
+      "title": "Madrid Checkliste",
+      "completion_message": "Du hast Madrid in seinem eigenen Tempo erlebt. Nächstes Mal bleib noch länger draußen."
+    },
+    "traps": {
+      "title": "Vermeide die Touristenfallen",
+      "intro": "Madrid ist eine großzügige Stadt; ihre Fallen konzentrieren sich auf ihre drei touristischsten Plätze. Kenne diese vier – der Rest ist sicheres Terrain.",
+      "items": [
+        {
+          "icon": "🍤",
+          "name": "Auf der Plaza Mayor Platz nehmen",
+          "description": "Die Terrassen des Platzes verkaufen die historische Aussicht, nicht die Küche: gefrorene Calamares, Sangria zum doppelten Preis.",
+          "instead": "Gehe über den Platz, mache dein Foto; iss dein Bocadillo de Calamares stehend in den klassischen Bars direkt außerhalb."
+        },
+        {
+          "icon": "🥘",
+          "name": "Den Mercado San Miguel für einen 'echten Markt' halten",
+          "description": "Der Glasmarkt ist wunderschön, aber er ist jetzt ein Touristen-Schaufenster: kleine Portionen, hohe Rechnungen.",
+          "instead": "Für ein echtes Markterlebnis gehe zum Mercado de la Cebada oder Antón Martín; gleiche Aromen, halber Preis, voller Einheimischer."
+        },
+        {
+          "icon": "🎩",
+          "name": "Hütchenspiele und Petitionen an der Sol",
+          "description": "Das Hütchenspiel, die 'Petition des Gehörlosenvereins' und die Rosmarinzweig-Wahrsager rund um die Puerta del Sol sind dieselbe Bande in verschiedenen Kostümen.",
+          "instead": "Bleib nicht stehen, lächle, gehe weiter; Tasche vorne, Handy in der Tasche. Selbst Zuschauen dient dem Trick der Bande, Menschen anzulocken."
+        },
+        {
+          "icon": "💃",
+          "name": "Bus-Tour Flamenco 'Galas'",
+          "description": "Die riesigen Dinner-Shows tragen nicht die Seele des Flamenco; Madrids Tablao-Tradition ist kleiner und authentischer.",
+          "instead": "Wähle ein etabliertes Tablao, iss woanders, schau dir die Show mit einem Getränk an: billiger und um ein Vielfaches bewegender."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die goldene Regel",
+        "text": "Madrids Regel ist einfach: Gehe zwei Blocks von jedem Touristenplatz entfernt und der Preis halbiert sich, während der Geschmack sich verdoppelt. Die Stadt sagt es dir bereits; höre zu."
+      }
+    },
+    "itinerary": {
+      "title": "Vorgefertigte Routen",
+      "intro": "Wenn Sie Planung nicht mögen, folgen Sie diesen Vorschlägen. Die Zeiten sind flexibel; bewahren Sie den Geist, aber ändern Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Kunst, ein Park und Mitternachts-Churros",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Der Prado – erste Stunde",
+              "description": "Buchen Sie im Voraus und begegnen Sie Velázquez und Goya mit frischem Kopf; zwei Stunden sind genug – versuchen Sie nicht, alles zu sehen."
+            },
+            {
+              "time": "11:30",
+              "title": "Retiro-Park",
+              "description": "Der Kristallpalast, ein Ruderboot auf dem Teich oder einfach Sonne auf einer Bank: Hier atmet Madrid auf."
+            },
+            {
+              "time": "14:00",
+              "title": "Langes Mittagessen in La Latina",
+              "description": "Von Bar zu Bar entlang der Cava Baja: Huevos Rotos, Tortilla, ein Glas Wermut. Eile ist verboten."
+            },
+            {
+              "time": "17:30",
+              "title": "Streifzug durch Malasaña + Chueca",
+              "description": "Vintage-Läden, Plattenläden, Third-Wave-Kaffee; Madrids junges Herz schlägt in diesen beiden Vierteln."
+            },
+            {
+              "time": "20:30",
+              "title": "Sonnenuntergang auf der Círculo-Dachterrasse",
+              "description": "Blicken Sie von der Terrasse des Círculo de Bellas Artes auf die Gran Vía: Die Lichter der Stadt gehen genau zu dieser Stunde an."
+            },
+            {
+              "time": "23:30",
+              "title": "Churros bei San Ginés",
+              "description": "Churros um Mitternacht in dicke heiße Schokolade zu tunken, ist Madrids Abschlussritual; die Schlange bewegt sich schnell."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Erleben Sie die Stadt als Gast, nicht als Tourist",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Die Klassiker",
+              "description": "Der oben beschriebene 1-Tages-Plan: Prado, Retiro, La Latina, die Dachterrasse."
+            },
+            {
+              "time": "Day 2",
+              "title": "Der Palast und das verborgene Madrid",
+              "description": "Der Königspalast und die Almudena am Morgen, die Geisterstation Andén 0 in Chamberí am Mittag, Tapas im Barrio de las Letras + Casa Alberto am Abend."
+            },
+            {
+              "time": "Day 3",
+              "title": "Markt und Abschied",
+              "description": "Der Flohmarkt El Rastro, falls es Sonntag ist, dann Wermut-Stunde in La Latina; Guernica im Reina Sofía am Nachmittag, Abschied mit der Skyline vom Cerro del Tío Pío in der Dämmerung."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Das 5-Wörter-Survival-Kit",
+      "intro": "Madrid ist geduldig mit Englisch, aber fünf spanische Wörter öffnen Ihnen alle Türen.",
+      "items": [
+        {
+          "word": "Buenas",
+          "pronunciation": "BWEH-nas",
+          "meaning": "Die kurze Ganztagsbegrüßung — beim Betreten jeder Bar oder jedes Geschäfts"
+        },
+        {
+          "word": "Gracias",
+          "pronunciation": "GRAH-syas",
+          "meaning": "Danke — kurz, klar, immer"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "por fah-VOR",
+          "meaning": "Bitte — fügen Sie es am Ende Ihrer Bestellung hinzu"
+        },
+        {
+          "word": "¡Salud!",
+          "pronunciation": "sah-LOOD",
+          "meaning": "Prost! — darauf erheben sich die Vermut-Gläser"
+        },
+        {
+          "word": "Vale",
+          "pronunciation": "BAH-leh",
+          "meaning": "OK / einverstanden — Spaniens meistgenutztes Wort; zweimal gesagt: vale, vale"
+        }
+      ]
+    }
+  }
+}

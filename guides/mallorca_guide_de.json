@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Mallorca",
+    "country": "Spain",
+    "language": "de",
+    "version": "2.1",
+    "color_primary": "#2471A3",
+    "color_light": "#EAF4FB",
+    "tagline": "Hinter den überfüllten Stränden verbergen sich noch Dörfer, Olivenhaine und Berge, die ihre Authentizität bewahrt haben.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Ein Auto zu mieten ist unerlässlich",
+    "Essen Sie Ensaimada frisch aus der Bäckerei",
+    "Im Juli-August die Küste meiden, ins Landesinnere fahren"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Mallorca ist Spaniens größte Baleareninsel und eines der meistbesuchten Urlaubsziele Europas. Aber diese Zahlen gelten nur für die Küste – im Landesinneren gibt es ein völlig anderes Mallorca. Die UNESCO-geschützten Dörfer des Tramuntana-Gebirges, steinerne Wege zwischen Olivenhainen, terrassierte Orangenhaine. Palma ist eine Stadt für sich: die Kathedrale La Seu, historische Viertel, der Markt und die Gastronomie von Santa Catalina. Die Insel ist groß und sich ohne Auto fortzubewegen wird schwierig – aber mit der richtigen Planung ist es möglich, Strand, Dörfer und Berge auf derselben Reise zu sehen.",
+      "local_word": {
+        "pronunciation": "en-sa-i-MA-da",
+        "definition": "Mallorcas Wahrzeichen – ein spiralförmiges, weiches Gebäck, das mit Schweineschmalz (saïm) hergestellt wird. Erhältlich pur, mit Honig oder mit verschiedenen Füllungen. Jeden Morgen frisch aus dem Ofen. Nach Mallorca zu kommen, ohne eine Ensaimada zu essen, ist wie nach Paris zu fahren, ohne ein Croissant zu probieren. Frisch erhältlich in Palmas historischen Bäckereien oder im Mercat de l'Olivar. Auch in großen Geschenkboxen zum Mitnehmen erhältlich – aber die beste Version ist warm, direkt aus dem Ofen.",
+        "word": "Ensaimada"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Mieten Sie ein Auto – ohne es ist die Insel nur halb gesehen",
+          "description": "Palma ist mit öffentlichen Verkehrsmitteln gut zu bewältigen, aber die schönsten Orte der Insel – Tramuntana-Dörfer, versteckte Buchten, Dörfer im Landesinneren – sind ohne Auto sehr schwer zu erreichen. Mietwagen sind bei frühzeitiger Buchung erschwinglich. Last-Minute-Buchungen im Hochsommer sind sowohl teuer als auch möglicherweise nicht verfügbar."
+        },
+        {
+          "number": 2,
+          "title": "Fliehen Sie im Juli-August von der Küste ins Landesinnere",
+          "description": "Im Hochsommer sind Ferienorte und beliebte Strände sehr überfüllt. Gleichzeitig sind die Tramuntana-Dörfer, Palmas historisches Zentrum und die Städte im Landesinneren viel ruhiger. Wenn Sie Strand wollen, fahren Sie sehr früh morgens dorthin oder probieren Sie die weniger bekannten Buchten an der Ostküste."
+        },
+        {
+          "number": 3,
+          "title": "Erkunden Sie auch Palma – es geht nicht nur um den Strand",
+          "description": "Viele Besucher lassen sich in einem Ferienort nieder und reisen ab, ohne Palma jemals besucht zu haben. Das ist ein großer Verlust. Mit der Kathedrale La Seu, dem Castell de Bellver, dem Viertel Santa Catalina, dem Mercat de l'Olivar und seinen historischen Gassen ist Palma eine Stadt, die einen Besuch für sich wert ist. Planen Sie mindestens einen halben Tag, idealerweise einen ganzen Tag ein."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "PMI – Palma de Mallorca",
+          "sub": "EMT-Bus ins Zentrum 5 € · Taxi ~25 € · ca. 20 Min."
+        },
+        {
+          "icon": "🚌",
+          "label": "Transport",
+          "value": "EMT (Stadt Palma) + TIB (inselweit)",
+          "sub": "EMT Einzelfahrt 1,50 € · TIB-Busse 5–12 € · Mietwagen empfohlen"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Wetter",
+          "value": "Mediterran – heiße und lange Sommer",
+          "sub": "Mai–Juni und Sep–Okt ideal · Jul–Aug überfüllt · Dez–Feb ruhig"
+        },
+        {
+          "icon": "🥐",
+          "label": "Essen",
+          "value": "Ensaimada, Sobrasada, Tumbet, Pa amb oli",
+          "sub": "Mittagsmenü 12-18 € · Palma Zentrum 15-30 € · Küstenrestaurants teuer"
+        }
+      ],
+      "tip": {
+        "label": "Sóller-Bahn – die schönste Reise der Insel",
+        "text": "Ein historischer Holzzug, der seit 1912 fährt und das Tramuntana-Gebirge von Palma nach Sóller durchquert. Etwa 1 Stunde, atemberaubende Landschaft durch Viadukte und Tunnel. Hin- und Rückfahrt ca. 20 €. Von Sóller bringt Sie die historische Straßenbahn hinunter zum Hafen. Nicht nur eine Fahrt – eine Reise ins Herz der Insel. Planen Sie dies unbedingt ein.",
+        "type": "tip"
+      },
+      "title": "Willkommen auf Mallorca"
+    },
+    "transport": {
+      "intro": "Palma ist gut mit öffentlichen Verkehrsmitteln zu erkunden. Für die Insel stehen TIB-Busse und Züge zur Verfügung, aber ein Mietwagen ist die flexibelste Option.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Flughafen → Palma Zentrum",
+          "description": "Die EMT-Buslinie A1 fährt alle 15 Minuten vom Flughafen ins Zentrum von Palma (Plaça d'Espanya), Fahrzeit ca. 20 Minuten, €5. Taxifahrt zum Festpreis ca. €25. TIB AeroTib-Busse bieten direkte Verbindungen zu den anderen Ferienorten der Insel (Alcúdia, Magaluf)."
+        },
+        {
+          "icon": "🚌",
+          "title": "EMT — Stadtbusse Palma",
+          "description": "Palmas blaue Busse decken jeden Punkt der Stadt ab. Einzelfahrt €1.50 (Linie 1 Hafenroute €3), Bezahlung an Bord oder mit Karte. 10er-Karte €10. Das Schloss Bellver, das Museum Es Baluard, Santa Catalina und der Passeig Marítim sind alle mit EMT erreichbar. Die U-Bahnlinie M1 von Palma fährt zur Universität – für Touristen von begrenztem Nutzen."
+        },
+        {
+          "icon": "🚂",
+          "title": "SFM-Zug — ins Inselinnere",
+          "description": "Vom Plaça d'Espanya in Palma fahren SFM-Züge nach Inca, Sa Pobla und Manacor. Der Sóller-Zug (seit 1912) ist separat und historisch – eine atemberaubende Bergüberquerung zwischen Palma und Sóller, Hin- und Rückfahrt ca. €20. Der Zug ist eine gute Option für Tagesausflüge ins Inselinnere. Ideal für den großen Sonntagsmarkt in Sineu."
+        },
+        {
+          "icon": "🚗",
+          "title": "Mietwagen — unverzichtbar für die Insel",
+          "description": "Tramuntana-Dörfer, versteckte Buchten, Cap de Formentor – all das erfordert ein Auto. Günstig bei frühzeitiger Buchung, teuer Last-Minute im Sommer. In Palma selbst muss man nicht Auto fahren; ein Mietwagen ist am praktischsten, wenn man Palma verlässt. Navigation ist unerlässlich – einige Straßen sind eng."
+        },
+        {
+          "icon": "🚲",
+          "title": "Fahrrad und Roller",
+          "description": "Palma ist fahrradfreundlich – der Radweg entlang des Passeig Marítim ist ausgezeichnet. BiciPalma (städtisches Fahrradverleihsystem) Stationen überall. Rollerverleih ist ebenfalls weit verbreitet. Mallorca ist auch ein Paradies für professionelle Radfahrer."
+        }
+      ],
+      "callout": {
+        "label": "Sóller-Zug + Straßenbahn-Kombination",
+        "text": "Historischer Holzzug von Palma nach Sóller: Abfahrten um 10:10 Uhr oder 10:50 Uhr werden empfohlen. Von Sóller fährt die Straßenbahn hinunter nach Port de Sóller. Mittagessen in Port de Sóller, dann ein kurzer Spaziergang durch Sóllers Orangenhaine auf dem Rückweg. Tickets online im Voraus kaufen – im Sommer oft ausverkauft. Sóller-Zug: €20 Hin- und Rückfahrt. Straßenbahn separat ~€2.",
+        "type": "tip"
+      },
+      "title": "Fortbewegung"
+    },
+    "stay": {
+      "intro": "Die Lage ist auf Mallorca entscheidend – Palma ist urban und zentral, die Dörfer der Tramuntana sind authentisch, erfordern aber ein Auto, Küstengebiete sind überfüllt.",
+      "local_word": {
+        "pronunciation": "FIN-ka",
+        "definition": "Spanisch für 'Bauernhof' oder 'ländliches Anwesen'. Finca-Hotels auf Mallorca bieten das authentischste Unterkunftserlebnis der Insel – restaurierte alte Oliven- oder Weinbauernhöfe. Steinmauern, Holzbalken, Pool, Olivenhaine. Abseits des Trubels von Palma, im Herzen der Insel. Die besten Fincas befinden sich in den Ausläufern der Tramuntana, um Sóller und Deià.",
+        "word": "Finca"
+      },
+      "items": [
+        {
+          "name": "Palma — historisches Zentrum",
+          "badge": "Am zentralsten",
+          "badge_type": "hot",
+          "description": "Gehweite zur Kathedrale La Seu, zum Castell de Bellver, zum Mercat de l'Olivar und zum Viertel Santa Catalina. Die Viertel La Lonja und El Born sind Palmas lebhafteste Orte. Ideal, um die Stadt ohne Auto zu erkunden. Boutique-Hotels in restaurierten historischen Gebäuden sind charaktervoll, aber klein.",
+          "tags": [
+            "Nahe der Kathedrale La Seu",
+            "Viertel Santa Catalina",
+            "Alles zu Fuß erreichbar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palma+de+Mallorca"
+        },
+        {
+          "name": "Deià — das Juwel der Tramuntana",
+          "badge": "Am authentischsten",
+          "badge_type": "local",
+          "description": "Ein Bergdorf in der Serra de Tramuntana mit Blick auf das Meer. Wo Robert Graves lebte und schrieb. Ein Magnet für Künstler, Schriftsteller und Musiker. Hotels und Fincas sind teuer, aber die Atmosphäre ist unübertroffen. 30 Minuten von Palma mit dem Auto entfernt. Alles kleinteilig und authentisch.",
+          "tags": [
+            "Robert Graves' Dorf",
+            "Tramuntana-Atmosphäre",
+            "Künstlerdorf"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Deia+Mallorca"
+        },
+        {
+          "name": "Sóller — Stadt der Orangenhaine",
+          "badge": "Am charaktervollsten",
+          "badge_type": "local",
+          "description": "Eine charmante Stadt im Tramuntana-Tal inmitten von Orangenhainen. Mit Palma durch eine historische Eisenbahn verbunden, mit einer Straßenbahn hinunter zum Port de Sóller. Kompaktes und fußgängerfreundliches Zentrum. Nah an Palma, aber friedlich. Ideale Lage, um sowohl Berge als auch Meer zu sehen.",
+          "tags": [
+            "Historische Zugverbindung",
+            "Orangenhaine",
+            "Straßenbahn zum Hafen"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Soller+Mallorca"
+        },
+        {
+          "name": "Alcúdia — Nordküste",
+          "badge": "Familienurlaub",
+          "badge_type": "hot",
+          "description": "Vielseitig mit einer ummauerten historischen Stadt und einem breiten Sandstrand. Die Strände Playa de Muro und Alcúdia sind lang und sauber. Die ummauerte Innenstadt ist klein, aber beeindruckend. Etwas ruhiger als die südlichen Ferienorte. Der Sonntagsmarkt ist der größte Freiluftmarkt der Gegend.",
+          "tags": [
+            "Ummauerte historische Stadt",
+            "Langer Sandstrand",
+            "Familienfreundlich"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Alcudia+Mallorca"
+        },
+        {
+          "name": "Santanyí — Südküste",
+          "badge": "Am elegantesten",
+          "badge_type": "local",
+          "description": "Eine elegante Kleinstadt im Südosten mit Gebäuden aus goldenem Stein. Umgeben vom Strand Es Trenc (dem feinsten Sand der Insel) und dem Naturpark Cala Mondragó. Kunsthandwerksmarkt mittwochs und samstags. Abseits der Menschenmassen, hochwertige Restaurants und Boutiquen.",
+          "tags": [
+            "Nahe Es Trenc",
+            "Markt Mittwoch–Samstag",
+            "Architektur aus goldenem Stein"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santanyi+Mallorca"
+        }
+      ],
+      "title": "Wo übernachten"
+    },
+    "best_time": {
+      "intro": "Mallorca kann das ganze Jahr über besucht werden – der Sommer ist heiß und überfüllt, Frühling und Herbst sind am ausgewogensten.",
+      "items": [
+        {
+          "label": "Frühling",
+          "name": "Die beste Zeit",
+          "months": "Apr – Jun",
+          "description": "April und Mai sind Mallorcas goldene Zeit: Temperaturen von 18-24°C, keine Menschenmassen, vernünftige Preise. Die Wanderwege der Tramuntana sind ideal. Ab Mitte Juni wird es voller, aber noch weit entfernt von den Juli-August-Massen. Das Meer ist etwas kühl, aber Schwimmen ist möglich.",
+          "callout": {
+            "label": "Wanderwege der Tramuntana – am besten im Frühling",
+            "text": "Der GR-221 (Trockenmauerweg) ist eine 150 km lange Wanderroute durch das Tramuntana-Gebirge. Er kann in Abschnitten begangen werden – die Tagesrouten von Deià nach Valldemossa oder von Sóller nach Fornalutx sind wunderschön. Im Frühling bieten blühende Täler und klare Luft die beste Sicht. Höhere Abschnitte erfordern eine Jacke; in tieferen Tälern ist leichte Kleidung ausreichend.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Frühling · Weniger Menschenmassen, erschwingliche Preise, blühende Berge"
+        },
+        {
+          "label": "Sommer",
+          "name": "Überfüllt, aber lebhaft",
+          "months": "Jun – Aug",
+          "description": "Im Juli und August sind die Küstenorte überfüllt. Doch die Tramuntana-Berge und die Dörfer im Landesinneren sind gleichzeitig noch ruhig. Das Meer ist am schönsten, die Abende sind lang und lebhaft. Um versteckte Buchten in den frühen Morgenstunden zu sehen, ist ein früher Start erforderlich. Der Juni ist überschaubarer.",
+          "callout": {
+            "label": "Es Trenc – der schönste Strand der Insel, aber überfüllt",
+            "text": "Im Süden, nahe Santanyí. Karibisch anmutendes Wasser, feiner weißer Sand, innerhalb eines Naturparks. Seien Sie bis 8:30-9 Uhr dort, denn am Nachmittag erreicht der Park seine Kapazität und der Zutritt kann eingeschränkt werden. Das östliche Ende des Strandes ist immer ruhiger als das westliche Ende. Kostenpflichtiger Parkplatz in der Nähe – auch mit dem Fahrrad oder zu Fuß von Ses Salines erreichbar.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Sommer · Das Meer von seiner schönsten Seite, Menschenmassen an der Küste"
+        },
+        {
+          "label": "Herbst",
+          "name": "Zweitbeste Zeit",
+          "months": "Sep – Nov",
+          "description": "Im September und Oktober verschwinden die Menschenmassen, das Wetter bleibt warm und das Meer ist noch zum Schwimmen geeignet. Die Oliven- und Orangenerträge beginnen. Herbstmärkte und -feste in den Dörfern im Landesinneren. Im November nimmt der Regen zu, aber die Preise sinken erheblich. Die Wanderwege der Tramuntana sind auch im Herbst ausgezeichnet.",
+          "callout": {
+            "label": "Olivenernte – Oktober-November",
+            "text": "Mallorca produziert einige der besten Olivenöle der Welt. Im Oktober-November öffnen einige Olivenhaine für Besucher – der Ernteprozess und traditionelle Methoden werden erklärt. Güter in Bornos, Sóller und den Binnenregionen sind ideal für diese Touren. Informieren Sie sich im Voraus und buchen Sie. Der Kauf von frisch gepresstem Olivenöl ist in dieser Zeit ebenfalls eine gute Gelegenheit.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Herbst · Sommermassen verschwunden, Meer noch warm"
+        },
+        {
+          "label": "Winter",
+          "name": "Ruhig und grün",
+          "months": "Dez – Feb",
+          "description": "Ende Januar und Anfang Februar blühen im Inselinneren Mallorcas die Mandelbäume. Die Berge sind in Rosa und Weiß gehüllt. Diese Landschaft ist einen besonderen Besuch wert. Temperaturen 10-15°C, gelegentlich regnerisch. Die meisten Ferienorte sind geschlossen, aber Palma, Sóller und die Städte im Landesinneren bleiben aktiv. Die Preise sind sehr niedrig.",
+          "callout": {
+            "label": "Mandelblüte – Ende Januar-Februar",
+            "text": "Mandelhaine blühen um Sa Pobla, Llucmajor und in den Ausläufern der Tramuntana. Die Straße zwischen Felanitx und Petra bietet in dieser Zeit die schönste Landschaft. Ideal für Erkundungen mit dem Auto oder Fahrrad. Das Mallorca Mandelblütenfest (Festa des Ametlers en Flor) findet in manchen Jahren im Februar in Sa Pobla statt – informieren Sie sich im Voraus.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Winter · Mandelblüte, ruhige Straßen, Wintersonne"
+        }
+      ],
+      "title": "Wann reisen",
+      "monthly_highlights": [
+        {
+          "month": "Februar",
+          "text": "Mandelblüte: Die Insel hüllt sich in Rosa und Weiß – Mallorcas unbekanntester, poetischster Zustand."
+        },
+        {
+          "month": "April–Juni",
+          "text": "Wandersaison: Tramuntana-Wege, der Trockenmauerweg GR221 und Dorffeste; das Meer erwärmt sich langsam."
+        },
+        {
+          "month": "Juli–August",
+          "text": "Hochsaison: volle Buchten, belebte Straßen; die Formel, die Sie rettet – Strand bei Sonnenaufgang, Inland mittags, Hafen nachts."
+        },
+        {
+          "month": "September",
+          "text": "Ernte: das Weinfest in Binissalem (Festa des Vermar), das Meer noch warm, die Menschenmassen ziehen sich zurück – der ausgewogenste Monat der Insel."
+        }
+      ]
+    },
+    "eat": {
+      "intro": "Mallorcas Küche ist das einfache, köstliche Gesicht des Mittelmeers – Olivenöl, Gemüse, Schweinefleisch und frische Meeresfrüchte. Meiden Sie Touristenrestaurants und besuchen Sie stattdessen die lokalen Märkte.",
+      "local_word": {
+        "pronunciation": "pa am O-li",
+        "definition": "Mallorcas Grundgericht – Brot, das mit Tomate, Olivenöl und Salz eingerieben wird. Serviert mit Sobrasada (würzige, weiche Schweinefleischwurstpaste) oder Käse. 'Pa amb oli' bedeutet auf Katalanisch 'Brot mit Olivenöl'. Dieses Gericht ist einfach, aber zutiefst befriedigend. Es ist an jeder Ecke der Insel zu finden – sowohl als leichte Mahlzeit als auch als Grundlage der gesamten mallorquinischen Küche.",
+        "word": "Pa amb oli"
+      },
+      "items": [
+        {
+          "icon": "🥐",
+          "name": "Ensaimada",
+          "description": "Mallorcas spiralförmiges Gebäck, jeden Morgen frisch aus dem Ofen. Erhältlich pur, mit Honig oder gefüllt (Aprikosenmarmelade, Sobrasada, Schlagsahne). In Palmas historischen Bäckereien oder auf dem Mercat de l'Olivar zum Frühstück, €1.50-3. Mit Eigelb bestrichen, mit Puderzucker bestäubt – so schön anzusehen wie zu essen.",
+          "tag": "Bäckereien in Palma · Mercat de l'Olivar · morgens frisch · €1.50–3",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ca%27n+Joan+de+S%27Aigo+Palma"
+        },
+        {
+          "icon": "🥩",
+          "name": "Sobrasada",
+          "description": "Mallorcas weiche Schweinefleischwurstpaste – Rohwurst, die mit rotem Pfeffer, Salz und Gewürzen gepökelt wird. Wird mit Pa amb oli gegessen, auf Brot gestrichen oder gekocht. Überall auf der Insel erhältlich. Die Qualität variiert stark zwischen den Herstellern – viel schmackhafter von kleinen lokalen Produzenten oder Dorfmärkten.",
+          "tag": "Lokale Märkte und Geschäfte · überall · auf Qualität achten",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercat+de+l%27Olivar+Palma"
+        },
+        {
+          "icon": "🥘",
+          "name": "Tumbet",
+          "description": "Mallorcas Variante von Ratatouille, aber anders – Aubergine, Zucchini, Kartoffel und Tomatensauce in Schichten im Ofen gebacken. Gebratenes Gemüse, Olivenöl und Knoblauch. Wird sowohl als Haupt- als auch als Beilage serviert. Am authentischsten in lokalen Restaurants in den Dörfern im Landesinneren.",
+          "tag": "Lokale Restaurants · Dörfer im Landesinneren · €10-16",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Celler+Sa+Premsa+Palma"
+        },
+        {
+          "icon": "🍞",
+          "name": "Pa amb oli",
+          "description": "Brot, das mit Tomate, Olivenöl und Salz eingerieben wird – Mallorcas einfachstes und befriedigendstes Gericht. Sobrasada oder Käse werden hinzugefügt. Der günstigste und lokalste Geschmack der Insel. Der Qualitätsunterschied ist sofort erkennbar – frische Tomaten und gutes Olivenöl ändern alles.",
+          "tag": "Überall · morgens–mittags · €4–8 · probieren Sie die Sobrasada-Version",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Catalina+Palma"
+        },
+        {
+          "icon": "🐟",
+          "name": "Frischer Fisch — in Santa Catalina",
+          "description": "Palmas Viertel Santa Catalina ist die Adresse für die besten frischen Meeresfrüchte- und Fischrestaurants der Insel. Fischstände auf dem Mercat de Santa Catalina morgens. Die kleinen Restaurants in der Nähe sind sowohl frisch als auch preiswert. Dorade (Meerbrasse), Llampuga (Goldmakrele, Saison September-November) und frische Garnelen sind die herausragenden Spezialitäten der Insel.",
+          "tag": "Viertel Santa Catalina · Mercat de Santa Catalina · mittags–abends",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mercat+de+Santa+Catalina+Palma"
+        },
+        {
+          "icon": "🫒",
+          "name": "Mallorquinisches Olivenöl und Wein",
+          "description": "Die Insel produziert kleine Mengen hochwertigen Olivenöls und Weins. Rotweine aus den DO-Gebieten Binissalem und Pla i Llevant sind besonders gut – die lokale Manto Negro Traube. Für Olivenöl besuchen Sie Güter im Landesinneren oder den Mercat de l'Olivar. Weinproben in kleinen Bodegas um Manacor und Felanitx sind möglich.",
+          "tag": "Mercat de l'Olivar · Bodegas · Verkostungen im Voraus buchen",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Binissalem+Mallorca"
+        }
+      ],
+      "callout": {
+        "label": "Mercat de l'Olivar — Palmas Küche",
+        "text": "Im Zentrum von Palma, an der Plaça de l'Olivar. Frischer Fisch, Fleisch, Gemüse, Obst, Käse, Wurstwaren und Fertiggerichte. Auch Tapas-Bars und kleine Restaurants im Inneren. Geöffnet von 7 bis 14 Uhr, sonntags geschlossen. Gehen Sie früh – die Fischstände schließen gegen Mittag. Ideal zum Einkaufen und Frühstücken. Der Mercat de Santa Catalina ist eine jüngere, modernere Alternative in der Nähe.",
+        "type": "tip"
+      },
+      "title": "Was man essen sollte"
+    },
+    "hidden_gems": {
+      "intro": "Mallorcas schönste Ecken sind nicht weit von den Küstenorten entfernt – ein Auto und ein wenig Neugier genügen.",
+      "items": [
+        {
+          "name": "Sóller-Zug",
+          "description": "Historischer Holzzug von Palma nach Sóller – die gleichen Gleise und Waggons seit 1912. Er durchquert das Tramuntana-Gebirge durch 13 Tunnel und überquert Viadukte. Dauer ca. 1 Stunde. Nach der Ankunft in Sóller bringt Sie die seit 1913 verkehrende Straßenbahn hinunter nach Port de Sóller. Kaufen Sie Tickets im Voraus – sie sind schnell ausverkauft. Hin- und Rückfahrt ca. 20 €. Eines der unvergesslichsten Erlebnisse der Insel.",
+          "rarity": "Die schönste Bergbahnfahrt der Welt – seit 1912",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ferrocarril+de+Soller"
+        },
+        {
+          "name": "Deià",
+          "description": "Ein kleines Dorf im Tramuntana-Gebirge mit Blick auf das Mittelmeer. Hier lebte der britische Dichter und Autor Robert Graves von 1929 bis zu seinem Tod. Sein Haus ist heute ein Museum. Das Dorf selbst ist klein, mit Steinstraßen und Panoramablick. In den frühen Morgenstunden ist es ruhig. Ein kleiner Pfad führt zur nahegelegenen Bucht Cala Deià – vorsichtig absteigen, eine wunderschöne Bucht erwartet Sie.",
+          "rarity": "Robert Graves' Dorf – touristisch, aber immer noch magisch",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Deia+Mallorca"
+        },
+        {
+          "name": "Sa Calobra",
+          "description": "An der Nordküste, eine legendäre 13 km lange Serpentinenstraße, die vom Tramuntana-Gebirge hinabführt. Die Straße selbst ist ein Erlebnis – kurvenreich, eng, atemberaubende Ausblicke. Unten eine kleine Bucht und Torrent de Pareis (eine tiefe Felsenschlucht). An Nachmittagen im Hochsommer sehr überfüllt – gehen Sie früh morgens oder spät nachmittags. Begrenzte Parkplätze; Anreise mit dem Fahrrad ist möglich, aber anspruchsvoll.",
+          "rarity": "Sa Calobra – steil zu erreichen, Ausblicke wie nirgendwo sonst",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sa+Calobra"
+        },
+        {
+          "name": "Fornalutx",
+          "description": "4 Kilometer oberhalb von Sóller, eines der beeindruckendsten Dörfer der Tramuntana. Honigfarbene Steinhäuser, gestufte Gassen, Zitronen- und Orangenhaine. 600 Einwohner. Touristisch, aber friedlich. Es ist auch möglich, von Sóller aus zu Fuß zu gehen – ca. 1 Stunde. Ein Mittagessen in einem kleinen Restaurant hier ist einer der authentischsten und schönsten Momente Mallorcas.",
+          "rarity": "Fornalutx – eines der schönsten Dörfer Spaniens",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fornalutx"
+        },
+        {
+          "name": "Naturpark Cala Mondragó",
+          "description": "An der Südostküste, in der Nähe von Santanyí. Zwei kleine Buchten innerhalb eines Naturparks – viel ruhiger und geschützter als überfüllte Strandbereiche. Wanderwege, Pinienwälder und klares türkisfarbenes Wasser. Mit Bus oder Auto erreichbar. Kostenpflichtiger Parkplatz. Ein früher Start ist im Hochsommer empfehlenswert. Das nahegelegene Fischerdorf Cala Figuera ist ideal für frischen Fisch.",
+          "rarity": "Cala Mondragó – Bucht in einem geschützten Naturpark",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Parc+Natural+de+Mondrago"
+        },
+        {
+          "name": "Schloss Bellver",
+          "description": "Westlich des Stadtzentrums von Palma, auf einem pinienbewachsenen Hügel. Ein kreisförmiger Grundriss aus dem 14. Jahrhundert – eine der seltenen Rundburgen Europas. Beherbergt das Stadtgeschichtliche Museum von Palma. Aber der eigentliche Grund: Von der Terrasse aus sind die Bucht von Palma und die gesamte Stadt 360 Grad sichtbar. Kostenpflichtig, aber erschwinglich. Mit dem EMT-Bus erreichbar. Open-Air-Konzerte an Sommerabenden.",
+          "rarity": "Schloss Bellver – Palmas meist übersehener Aussichtspunkt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Castell+de+Bellver+Palma"
+        }
+      ],
+      "callout": {
+        "label": "Valldemossa – das Klosterdorf, in dem Chopin überwinterte",
+        "text": "20 Autominuten von Palma entfernt. Frédéric Chopin und George Sand verbrachten hier den Winter 1838-39 – die Zellen des ehemaligen Kartäuserklosters sind heute in ein Museum umgewandelt. Das Dorf ist klein und schön: Steinstraßen, Topfblumen, kleine Cafés. Im Hochsommer sehr überfüllt, aber in den frühen Morgenstunden ruhig. Schöne Wanderwege in der Umgebung. Das lokale Kunstfestival von Valldemossa findet jeden Sommer statt.",
+        "type": "tip"
+      },
+      "title": "Versteckte Juwelen"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Überqueren Sie die Tramuntana mit der Sóller-Bahn",
+          "sub": "Abfahrt von Palma Plaça d'Espanya. 10:10 Uhr empfohlen. Hin- und Rückfahrt ca. 20 €. Tickets im Voraus kaufen."
+        },
+        {
+          "label": "Ensaimada essen – frisch aus der Morgenbäckerei",
+          "sub": "Historische Bäckereien Palmas oder Mercat de l'Olivar. 1,50-3 €. Natur oder mit Aprikosenmarmelade. Ein Muss zum Frühstück."
+        },
+        {
+          "label": "Besuchen Sie die Kathedrale La Seu",
+          "sub": "Direkt am Hafen von Palma. Gotische Architektur, Gaudí-Intervention, farbige Glasfenster. Weniger überfüllt am frühen Morgen."
+        },
+        {
+          "label": "Besuchen Sie den Mercat de l'Olivar am frühen Morgen",
+          "sub": "Zentrum von Palma. 7-14 Uhr, sonntags geschlossen. Frischer Fisch, Sobrasada, Käse. Am besten zwischen 8 und 10 Uhr."
+        },
+        {
+          "label": "Fahren Sie nach Deià oder Fornalutx",
+          "sub": "Dörfer in der Tramuntana. 30-40 Min. mit dem Auto von Palma. Am frühen Morgen weniger überfüllt. Weg zur Bucht Cala Deià."
+        },
+        {
+          "label": "Probieren Sie Pa amb oli – mit Sobrasada",
+          "sub": "In jedem Dorfrestaurant und Café. 4-8 €. Mit Tomate eingeriebenes Brot, Olivenöl, Sobrasada. Der authentischste Geschmack der Insel."
+        },
+        {
+          "label": "Fahren Sie zum Strand Es Trenc – am frühen Morgen",
+          "sub": "In der Nähe von Santanyí. Karibisch gefärbtes Wasser. Seien Sie vor 9 Uhr dort. Am Nachmittag ist er überfüllt."
+        },
+        {
+          "label": "Fahren Sie nach Sa Calobra",
+          "sub": "Nordküste. Legendäre Serpentinenstraße. Fahren Sie am frühen Morgen oder späten Nachmittag. Schlucht Torrent de Pareis."
+        },
+        {
+          "label": "Besteigen Sie das Castell de Bellver",
+          "sub": "Westlich von Palma. EMT-Bus. Kostenpflichtig, aber erschwinglich. 360°-Panorama. Konzerte an Sommerabenden."
+        },
+        {
+          "label": "Besuchen Sie Valldemossa",
+          "sub": "20 Min. mit dem Auto von Palma. Chopins Kloster. Ruhig in den frühen Morgenstunden. Kleine Cafés, Steinstraßen."
+        },
+        {
+          "label": "Essen Sie im Viertel Santa Catalina",
+          "sub": "Palmas lebhaftestes Gastronomieviertel. Rund um den Mercat de Santa Catalina. Am lebhaftesten zwischen 20 und 22 Uhr."
+        },
+        {
+          "label": "Fahren Sie zur Cala Mondragó",
+          "sub": "Bucht in einem Naturpark. In der Nähe von Santanyí. Fahren Sie am frühen Morgen. Pinienwald, klares türkisfarbenes Wasser."
+        }
+      ],
+      "title": "Mallorca Checkliste",
+      "completion_message": "Wenn Sie das nächste Mal nach Mallorca kommen, werden Sie noch mehr Dörfer finden, um den Menschenmassen zu entfliehen – die Insel ist so groß."
+    },
+    "traps": {
+      "title": "Fallen umgehen",
+      "intro": "Mallorca sind zwei Inseln: die aus dem Prospekt und die echte. Kennen Sie diese vier Fallen und verbringen Sie Ihren Urlaub auf der zweiten.",
+      "items": [
+        {
+          "icon": "🍹",
+          "name": "Magaluf und Arenal für 'Mallorca' halten",
+          "description": "Die Partyzonen sind die Ausnahme der Insel, nicht ihr Schaufenster; Mallorca von dort zu kennen, ist wie ein Land nur vom Flughafen her zu kennen.",
+          "instead": "Richten Sie Ihre Route auf die Dörfer der Tramuntana, Palmas Altstadt und die südlichen Buchten; dort ist die Insel wirklich zu Hause."
+        },
+        {
+          "icon": "🐟",
+          "name": "'Frischer Fisch' mit unaufgefordertem Kilopreis",
+          "description": "In Restaurants am Meer wird der 'Fang des Tages' nach Gewicht verkauft; Fisch, der ohne Nachfrage bestellt wird, wird zu einer Überraschung auf der Rechnung.",
+          "instead": "Fragen Sie vor der Bestellung nach Gewicht und Preis; oder wählen Sie das Fischerviertel der Einheimischen um Santa Catalina."
+        },
+        {
+          "icon": "🚗",
+          "name": "Sa Calobra im Hochsommer mittags hinunterfahren",
+          "description": "Eine der kurvenreichsten Straßen der Welt wird mittags zu einem Buskonvoi und Parkplatzkrieg.",
+          "instead": "Fahren Sie bei Tagesanbruch, oder nähern Sie sich mit dem Boot von Port de Sóller: derselbe Fjord, null Serpentinenstress."
+        },
+        {
+          "icon": "🥐",
+          "name": "Eine Ensaimada aus der Flughafenbox",
+          "description": "Die massenproduzierte Last-Minute-Ensaimada ist nicht einmal ein Schatten der frisch aus dem Ofen.",
+          "instead": "Kaufen Sie sie frisch in einer historischen Bäckerei in Palma; wenn sie mit nach Hause reist, bieten die Bäckereien auch Reiseboxen an."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die goldene Regel",
+        "text": "Auf Mallorca sind die Entfernungen kurz und die Unterschiede riesig: Fahren Sie zwanzig Minuten landeinwärts von den Küstenmassen, und die Steindörfer, Mandelplantagen und die Stille beginnen. Dafür ist das Auto da."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Vorschlägen. Die Zeiten sind flexibel; bewahren Sie den Geist, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Palma + eine Fahrt mit der Holzbahn in die Berge",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Kathedrale von Palma (La Seu)",
+              "description": "Der gotische Riese am Meer zeigt sich im Morgenlicht von seiner schönsten Seite; achten Sie auf Gaudís Spuren im Inneren."
+            },
+            {
+              "time": "10:00",
+              "title": "Altstadt + Ensaimada-Pause",
+              "description": "Verlieren Sie sich zwischen den Herrenhäusern mit Innenhöfen; Ensaimada und heiße Schokolade auf jahrhundertealte Art im Ca'n Joan de S'Aigo."
+            },
+            {
+              "time": "11:30",
+              "title": "Einsteigen in den Sóller-Zug",
+              "description": "In Holzwaggons von 1912 ins Orangental: durch Bergtunnel, Ankunft auf dem Platz von Sóller."
+            },
+            {
+              "time": "14:00",
+              "title": "Straßenbahn nach Port de Sóller",
+              "description": "Die nostalgische Straßenbahn rollt zum Hafen hinunter; Mittagessen am Wasser, der Fisch des Tages auf dem Teller."
+            },
+            {
+              "time": "16:30",
+              "title": "Küstenfahrt nach Deià",
+              "description": "Entlang der Serpentinenstraße zum schönsten Dorf der Tramuntana: Steinhäuser, eine Künstlerseele, Oliventerrassen."
+            },
+            {
+              "time": "19:30",
+              "title": "Sonnenuntergang und Abend",
+              "description": "In Deià, oder zurück im Viertel Santa Catalina in Palma: Tapas, Inselwein, lange Gespräche."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Erleben Sie die Insel als Gast, nicht als Tourist",
+          "steps": [
+            {
+              "time": "Tag 1",
+              "title": "Palma und die Sóller-Linie",
+              "description": "Der 1-Tages-Ablauf von oben: Kathedrale, Zug, Hafen, Deià."
+            },
+            {
+              "time": "Tag 2",
+              "title": "Tiefe Tramuntana",
+              "description": "Valldemossas Steingassen am Morgen, Fornalutx am Mittag (eines der schönsten Dörfer Spaniens), ein früher Abstieg nach Sa Calobra, Abendessen in einem Bergdorf."
+            },
+            {
+              "time": "Tag 3",
+              "title": "Südliche Buchten und Abschied",
+              "description": "Schwimmen Sie morgens in den türkisfarbenen Buchten des Naturparks Mondragó, mittags auf dem Markt von Santanyí und ein Abschiedsblick über die Bucht von Palma von der Burg Bellver aus."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Das 5-Wörter-Survival-Kit",
+      "intro": "Spanisch funktioniert überall, aber ein Hauch Mallorquinisch öffnet die Türen der Insel.",
+      "items": [
+        {
+          "word": "Bon dia",
+          "pronunciation": "bon DEE-ah",
+          "meaning": "Guten Morgen auf Mallorquinisch – garantiert ein Lächeln in der Dorfbäckerei"
+        },
+        {
+          "word": "Gracias",
+          "pronunciation": "GRAH-syas",
+          "meaning": "Danke – kurz, klar, immer"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "por fah-VOR",
+          "meaning": "Bitte – fügen Sie es am Ende Ihrer Bestellung hinzu"
+        },
+        {
+          "word": "¡Salud!",
+          "pronunciation": "sah-LOOD",
+          "meaning": "Prost! – Inselweingläser erheben sich dazu"
+        },
+        {
+          "word": "Uep!",
+          "pronunciation": "wep",
+          "meaning": "Der mallorquinische Gruß: 'Hey, was geht!' – sagen Sie es einmal und Sie sind ein Insulaner"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Lucerne",
+    "country": "Switzerland",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#3A6E9E",
+    "color_light": "#E9F1F8",
+    "tagline": "Un pont en bois, un lac turquoise et une ville aux premières loges des montagnes."
+  },
+  "pills": [
+    "L'un des plus anciens ponts en bois d'Europe",
+    "Le lac des Quatre-Cantons à la porte",
+    "Aux pieds du Pilate et du Rigi"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Lucerne",
+      "intro": "Lucerne est le visage de carte postale de la Suisse, et elle y parvient sans effort : le Kapellbrücke en bois fleuri enjambe la Reuss turquoise, des façades fresquées enveloppent les vieilles places, et derrière elles s'élève la silhouette déchiquetée du Pilatus. Des bateaux à vapeur naviguent vers les villages lacustres, des trains à crémaillère grimpent au-dessus des nuages — la ville est petite, mais sa scène est l'ensemble des Alpes. Quiconque se presse à Lucerne manque la véritable leçon de l'horlogerie suisse : les bonnes choses sont à l'heure, mais elles se vivent lentement.",
+      "local_word": {
+        "word": "Grüezi",
+        "pronunciation": "grew-tsee",
+        "definition": "Le salut suisse allemand : en entrant dans un magasin, en rencontrant quelqu'un sur un sentier, sur le pont d'un bateau à vapeur — il est prononcé et toujours rendu. Dire 'Grüezi mitenand' (bonjour à tous) à un groupe est le moyen le plus court d'atteindre le cœur d'un local."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Adapter le plan de montagne à la météo",
+          "description": "Si le Pilatus et le Rigi sont dans les nuages, vous ne verrez rien là-haut qu'un mur blanc : la vérification matinale des webcams est la première étape de toute journée de montagne suisse. S'il fait couvert, optez pour une journée ville et lac — gardez le sommet pour un jour clair."
+        },
+        {
+          "number": 2,
+          "title": "Considérer le bateau à vapeur comme une attraction, pas un transport",
+          "description": "Les bateaux du lac sont des transports publics réguliers, mais chaque traversée est une mini-croisière : incluse dans le Swiss Travel Pass, et le pont de première classe est le meilleur siège pour la vue. Même en vous dirigeant vers un chemin de fer de montagne, choisissez l'itinéraire incluant la portion en bateau."
+        },
+        {
+          "number": 3,
+          "title": "Gérer le choc des prix avec le menu du déjeuner",
+          "description": "La Suisse est chère et Lucerne ne fait pas exception : trouvez l'équilibre avec les menus du déjeuner en semaine (Tagesmenü), les boulangeries et les terrasses de supermarchés. Gardez la soirée pour un bon restaurant — le remède est simple ; son application demande de la discipline."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Zurich (ZRH)",
+          "sub": "Train direct ~1h"
+        },
+        {
+          "icon": "🚋",
+          "label": "Se déplacer",
+          "value": "À pied + bateau à vapeur",
+          "sub": "La vieille ville se parcourt à pied d'un bout à l'autre"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "German (Swiss dialect)",
+          "sub": "L'anglais fonctionne partout"
+        },
+        {
+          "icon": "⛰️",
+          "label": "Emblème",
+          "value": "Kapellbrücke + Pilatus",
+          "sub": "Le pont date du 14e siècle"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Lucerne",
+        "text": "Dans cette ville, le plan a deux niveaux : la montagne si le ciel est clair, le lac et la vieille ville si ce n'est pas le cas. Apprenez à aimer les deux avec la même flexibilité et vous quitterez Lucerne sans perdre un seul jour."
+      }
+    },
+    "transport": {
+      "title": "En ville et autour du lac",
+      "intro": "Lucerne met en scène un ballet de transports : bateau à vapeur, train à crémaillère, téléphérique et chemin de fer dans un système de billetterie unique.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arrivée de Zurich",
+          "description": "Le train direct de l'aéroport de Zurich atteint la gare de Lucerne en une heure : la gare est située directement au bord du lac et de la vieille ville. Faites le calcul avec le Swiss Travel Pass au lieu de billets simples — les bateaux et les montagnes sont inclus."
+        },
+        {
+          "icon": "🚶",
+          "title": "La vieille ville à pied",
+          "description": "Tout entre le Pont de la Chapelle, les places et le mur de la Musegg se trouve dans un cercle d'un quart d'heure : pavés, fresques et fontaines — la marche est la visite."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Les bateaux à vapeur du lac",
+          "description": "Des bateaux à vapeur historiques à aubes et des bateaux modernes desservent les villages du lac des Quatre-Cantons selon un horaire : la ligne Weggis, Vitznau et Flüelen est le classique panoramique. La première classe sur le pont offre un plaisir de loge pour une petite différence."
+        },
+        {
+          "icon": "🚞",
+          "title": "Chemins de fer de montagne et téléphériques",
+          "description": "De Vitznau, le premier chemin de fer à crémaillère d'Europe monte au Rigi ; d'Alpnachstad, la ligne à crémaillère la plus raide du monde monte au Pilate : les deux sont des prouesses d'ingénierie. Le 'circuit doré' rassemble bateau + train + téléphérique en une seule boucle."
+        },
+        {
+          "icon": "🚌",
+          "title": "Les bus de ville",
+          "description": "Le réseau de bus est pratique pour le Musée des Transports et les quartiers lacustres : billets par application ou machine. La carte d'hôte remise aux visiteurs d'hôtel rend souvent les transports urbains gratuits — renseignez-vous à la réception."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil pour le circuit doré",
+        "text": "Faites le circuit doré du Pilate dans le sens des aiguilles d'une montre : bateau le matin jusqu'à Alpnachstad, le chemin de fer à crémaillère le plus raide jusqu'au sommet, téléphérique jusqu'à Kriens. Planifiez la partie en bateau pour les heures ensoleillées — le lac représente la moitié de la visite."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Lucerne, la question est une question de vue : souhaitez-vous vous réveiller face au pont, au lac ou à la montagne ?",
+      "local_word": {
+        "word": "Vierwaldstättersee",
+        "pronunciation": "feer-vald-shtet-ter-zay",
+        "definition": "'Le Lac des Quatre Cantons Forestiers' : Le vrai nom du lac de Lucerne et la géographie fondatrice de la Suisse. Chaque bras du lac, semblable à un fjord, fait face à un canton différent — le nom est long, la vue plus longue."
+      },
+      "items": [
+        {
+          "name": "Altstadt (la Vieille Ville)",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "vibe",
+          "description": "Parmi les places ornées de fresques et les ponts : tout est accessible à pied, avec la photo du pont du matin juste devant. Calme la nuit, emplacement impeccable — le classique pour une première visite.",
+          "tags": [
+            "Façades à fresques",
+            "À deux pas du pont",
+            "Nuits calmes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Altstadt+Lucerne"
+        },
+        {
+          "name": "Le bord du lac — Nationalquai",
+          "badge": "Meilleures vues",
+          "badge_type": "hot",
+          "description": "De grands hôtels historiques le long du quai avec le panorama lac et montagne : le Pilate depuis la fenêtre, des cygnes au petit-déjeuner. Les prix varient avec la vue — pour vivre le classique suisse.",
+          "tags": [
+            "Grands hôtels",
+            "Vues sur le Pilate",
+            "Promenade sur le quai"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nationalquai+Lucerne"
+        },
+        {
+          "name": "Autour de la gare et Neustadt",
+          "badge": "Le plus pratique",
+          "badge_type": "value",
+          "description": "La ceinture moderne derrière la gare : à distance zéro des connexions montagne et lac, des prix un peu plus abordables. La base efficace pour les trains matinaux et les bateaux tardifs.",
+          "tags": [
+            "À la gare",
+            "Prix justes",
+            "Nœud de correspondance"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Neustadt+Lucerne"
+        },
+        {
+          "name": "Tribschen et la rive sud",
+          "badge": "Le plus calme",
+          "badge_type": "local",
+          "description": "Le côté de la péninsule verdoyante où se trouve la villa de Wagner : promenades au bord du lac, la plage du lido et la tranquillité du quartier. Relié au centre par bus ou par une agréable promenade le long du rivage.",
+          "tags": [
+            "Promenades au bord du lac",
+            "Plage du lido",
+            "Tranquillité du quartier"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tribschen+Lucerne"
+        },
+        {
+          "name": "Weggis et Vitznau",
+          "badge": "L'évasion de l'autre rive",
+          "badge_type": "hot",
+          "description": "La riviera lacustre à une demi-heure en bateau : quais bordés de palmiers, le pied du Rigi et des hôtels spa. Le choix qui fait de Lucerne votre vue plutôt que votre base — avec le train de montagne à la porte.",
+          "tags": [
+            "Riviera lacustre",
+            "Le chemin de fer du Rigi",
+            "Hôtels spa"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Weggis"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Lucerne se met en scène en toutes saisons : le lac en été, les sommets enneigés en hiver, et en février l'un des carnavals les plus bruyants d'Europe.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "La saison fraîche",
+          "months": "Avr – Juin",
+          "subtitle": "Printemps · Pentes vertes, quais calmes",
+          "description": "La neige brille sur les sommets tandis que les rives du lac verdissent : la saison des bateaux s'ouvre pleinement, les terrasses s'installent, et la foule reste en deçà des niveaux estivaux. La période la plus aérée de l'équilibre montagne + lac.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de mai",
+            "text": "En mai, montez sur le Rigi : printemps en bas, vues enneigées en haut — deux saisons en une journée. Le soleil sur le pont du bateau au retour est un bonus."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Haute saison lacustre",
+          "months": "Juil – Août",
+          "subtitle": "Été · Ponts de vapeur, baignades au lido, le festival",
+          "description": "La ville à son apogée et la plus lumineuse : baignade dans le lac au lido, concerts en soirée sur les quais, et le festival de musique classique qui s'ouvre à la mi-août. Pour les chemins de fer de montagne, le matin tôt est la règle.",
+          "callout": {
+            "type": "warning",
+            "label": "Note d'août",
+            "text": "Les files d'attente de midi sur le Pilatus et le Rigi sont sérieuses : prenez le premier bateau + le premier train et vivez le sommet avant 11h. Laissez l'après-midi à une baignade dans le lac et à la vieille ville."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Le lac doré",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Mers de brouillard, forêts cuivrées",
+          "description": "Septembre est clair et calme ; en octobre, les pentes se parent de cuivre et la saison de la 'mer de brouillard' commence — la ville sous le brouillard, les sommets au-dessus du soleil. C'est la Lucerne du photographe.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil brouillard",
+            "text": "Si la ville est enveloppée de brouillard en octobre-novembre, ne vous lamentez pas — réjouissez-vous : montez sur le Rigi ou le Pilatus et des sommets ensoleillés au-dessus d'une mer de nuages vous attendent, avec des montagnes comme des îles. Vérifiez la webcam ; si le brouillard est épais et bas, la journée est à vous."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Lumières et Carnaval",
+          "months": "Déc – Fév",
+          "subtitle": "Hiver · Marché de Noël, sommets enneigés, Fasnacht",
+          "description": "En décembre, la vieille ville s'illumine et le marché de Noël ouvre ; les sommets offrent ski et luge sous la neige. En février, la ville devient méconnaissable : à la Fasnacht, des groupes masqués réveillent la ville à 5h du matin.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil Fasnacht",
+            "text": "Si vous coïncidez avec la Fasnacht, oubliez le sommeil : avec le 'Urknall' à 5h du matin le jeudi, les places se rendent aux groupes masqués. Soyez participant, pas spectateur — les confettis restent dans vos cheveux pendant des jours, et ça en vaut la peine."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine de Lucerne est la version lacustre des classiques suisses : pâtisseries au beurre, fromage fondu et poisson du lac – avec le final chocolaté obligatoire.",
+      "local_word": {
+        "word": "Chügelipastete",
+        "pronunciation": "khew-geli-pash-tay-teh",
+        "definition": "Le plat signature de Lucerne : une gigantesque coupelle en pâte feuilletée garnie d'un ragoût crémeux de veau et de champignons. Le nom signifie 'petite tourte aux boulettes' – il figure sur les menus de la vieille ville comme la fierté de la cité."
+      },
+      "items": [
+        {
+          "icon": "🥧",
+          "name": "Lozärner Chügelipastete",
+          "description": "Un ragoût crémeux sous un dôme de pâte feuilletée croustillante : l'invention de la ville et le classique du déjeuner dominical. La portion est généreuse – arrivez affamé.",
+          "tag": "La signature de la ville · dans un restaurant de la vieille ville",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Wirtshaus+Galliker+Lucerne"
+        },
+        {
+          "icon": "🧀",
+          "name": "Fondue et Raclette",
+          "description": "Les deux dénominations du fromage fondu : du pain trempé dans la fondue, du fromage raclé sur des pommes de terre pour la raclette. Un classique hivernal, servi toute l'année aux visiteurs – l'accompagnement de vin blanc est une tradition.",
+          "tag": "Le rituel du fromage · avec du vin blanc",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fondue+House+Lucerne"
+        },
+        {
+          "icon": "🐟",
+          "name": "Poisson du lac – Egli et Felchen",
+          "description": "La perche du lac (Egli) au beurre, le féra (felchen) grillé : la fierté locale des restaurants du quai. Vin blanc et vue sur le lac en accompagnement – ici, la simplicité est le luxe.",
+          "tag": "Du lac à l'assiette · sur le quai",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Balances+Lucerne"
+        },
+        {
+          "icon": "🥔",
+          "name": "Älplermagronen – les macaronis du berger",
+          "description": "Macaroni, pommes de terre, crème et fromage de montagne dans une seule marmite, purée de pommes en accompagnement : le classique nourrissant des chalets alpins. Sa forme la plus authentique se trouve dans les restaurants des stations de montagne.",
+          "tag": "Classique montagnard · avec purée de pommes",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zunfthausrestaurant+Pfistern+Lucerne"
+        },
+        {
+          "icon": "🥨",
+          "name": "Culture de la boulangerie et le Willisauer Ringli",
+          "description": "Bretzels frais, gipfeli au beurre et l'anneau de cannelle dur comme la pierre de la région, le Willisauer Ringli : les comptoirs de boulangerie sont l'adresse des repas économiques. Ne mordez pas le Ringli – cassez-le, laissez-le fondre, soyez patient.",
+          "tag": "De la boulangerie · économique",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bachmann+Lucerne"
+        },
+        {
+          "icon": "🍫",
+          "name": "Le final chocolaté",
+          "description": "Comptoirs de pralines et chocolat chaud chez les confiseurs historiques de la ville : la forme la plus légitime d'un plan pour jour de pluie. Le chocolat suisse des rayons de supermarché équilibre la liste de cadeaux – deux ligues différentes, toutes deux réelles.",
+          "tag": "Fin gourmande · du comptoir à pralines",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Max+Chocolatier+Lucerne"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil budget",
+        "text": "En Suisse, la stratégie du déjeuner est sacrée : les tableaux 'Tagesmenü' (menu du jour) proposent plat principal + soupe à moitié prix par rapport au soir. L'alternative classique pour un midi ensoleillé : un déjeuner de supermarché à emporter sur un banc au bord du lac."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors cachés",
+      "intro": "Tout le monde connaît le pont ; ces six lieux sont les coulisses de Lucerne.",
+      "items": [
+        {
+          "rarity": "Une leçon d'horlogerie sur les murs",
+          "name": "La muraille de la Musegg et ses tours",
+          "description": "Plusieurs des neuf tours de l'ancienne muraille peuvent être escaladées : l'horloge de la tour Zyt a le privilège de sonner une minute avant toutes les horloges de la ville. Depuis les remparts, le lac, la ville et les montagnes s'offrent en un seul tableau – entrée libre.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Musegg+Wall+Lucerne"
+        },
+        {
+          "rarity": "La pierre la plus triste du monde",
+          "name": "L'heure tranquille du Monument du Lion",
+          "description": "Le lion blessé que Mark Twain a appelé 'la pierre la plus triste du monde' est sculpté dans la roche : à 8h du matin, il n'y a presque personne devant. Allez-y avant la foule – la douleur opère en silence.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lion+Monument+Lucerne"
+        },
+        {
+          "rarity": "Funiculaire + Art nouveau",
+          "name": "Le funiculaire du Château Gütsch",
+          "description": "Un mini-funiculaire monte jusqu'à l'hôtel-château de conte de fées au-dessus de la ville : depuis la terrasse, le lac et les toits sont à vos pieds. Le balcon le plus gracieux de la ville pour le prix d'un café.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Château+Gütsch+Lucerne"
+        },
+        {
+          "rarity": "La maison lacustre du compositeur",
+          "name": "Le Musée Wagner à Tribschen",
+          "description": "La villa au bord du lac où Wagner a vécu pendant des années : il y a écrit l'Idylle de Siegfried. Accessible par la promenade du bord de l'eau – musée + pelouse de pique-nique + baignade dans le lac tiennent dans la même demi-journée.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Richard+Wagner+Museum+Lucerne"
+        },
+        {
+          "rarity": "L'ancêtre du panorama",
+          "name": "Le Panorama Bourbaki",
+          "description": "Une peinture circulaire de 112 mètres de 1881 raconte le refuge de l'armée française en Suisse : l'« expérience immersive » avant l'existence du cinéma. Le plan le plus surprenant pour un jour de pluie.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bourbaki+Panorama+Lucerne"
+        },
+        {
+          "rarity": "La culture de la baignade lacustre",
+          "name": "Le Lido et les pelouses de l'Ufschötti",
+          "description": "La plage urbaine du Lido avec son sable et le parc de l'Ufschötti avec sa pelouse sont les deux adresses pour la baignade dans le lac : eau claire, toile de fond du Pilate et bain de soleil tranquille à la suisse. Après 18h en été, c'est l'heure des locaux.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lido+Luzern"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil du matin",
+        "text": "Traversez le Pont de la Chapelle à 7h du matin : les fleurs fraîches, le pont vide, le Pilate rose aux premières lueurs. Le même pont devient un couloir à selfies à midi – imprimez votre carte postale tôt, mangez votre croissant après."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Lucerne est honnête ; ses pièges sont le prix et la couverture nuageuse – tous deux gérables.",
+      "items": [
+        {
+          "icon": "🌫️",
+          "name": "Un billet pour le sommet par temps nuageux",
+          "description": "Les billets de montagne sont chers et la vue depuis un sommet noyé dans les nuages est nulle : quiconque monte 'puisque nous sommes là' paie une fortune pour un mur blanc.",
+          "instead": "Vérifiez la webcam et les prévisions le matin ; si les nuages sont bas, faites le contraire – montez au-dessus de la mer de brouillard. Si le sommet est complètement bouché, échangez la journée contre le programme lac et ville : le billet ne s'enfuira pas, le nuage oui."
+        },
+        {
+          "icon": "⌚",
+          "name": "Les foules de bus devant les magasins de montres",
+          "description": "Dans les immenses magasins de montres et de souvenirs où les bus touristiques déchargent, les prix sont négociables et l'ambiance est celle d'un tapis roulant à bagages.",
+          "instead": "Si les montres sont votre passion, entrez chez les détaillants de la vieille ville ; pour les souvenirs, éloignez-vous de la Bahnhofstrasse. Un magasin avec un bus touristique garé devant est le signe qu'il n'est pas fait pour vous."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Prix des menus au pied du pont",
+          "description": "Certaines terrasses avec vue sur le Kapellbrücke ajoutent la vue à l'addition : un rösti ordinaire aux prix du sommet.",
+          "instead": "Cherchez les tableaux de 'Tagesmenü' deux rues plus loin, ou résolvez le déjeuner avec le classique boulangerie-supermarché. Gardez la terrasse avec vue pour un seul café – le pont est le même pont avec un café."
+        },
+        {
+          "icon": "🎫",
+          "name": "Ignorer le calcul des passes pour les billets de montagne",
+          "description": "Acheter Pilatus + Rigi + bateaux un par un creuse un trou de taille suisse dans le portefeuille ; pourtant, les passes ne sont pas non plus automatiquement rentables pour tout le monde.",
+          "instead": "Écrivez l'itinéraire, additionnez les tarifs individuels, comparez avec le Swiss Travel Pass / Demi-tarif. Pour un plan de deux montagnes plus un bateau, le pass est généralement gagnant – pour un plan d'une seule montagne, les sommes changent."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "Deux choses à Lucerne n'aiment jamais la hâte : la montagne et le budget. Gardez la montagne pour un ciel clair et les grosses dépenses pour une journée planifiée – tout le reste dans cette ville est accessible à pied, et une grande partie est gratuite."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces itinéraires. Les horaires sont flexibles ; gardez l'esprit, mais brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Une journée carte postale, du pont au sommet",
+          "steps": [
+            {
+              "time": "07:30",
+              "title": "Matinée au Pont de la Chapelle",
+              "description": "Traversez le pont quand il est vide et prenez une photo de la tour ; un tour des fresques des vieilles places + un petit-déjeuner à la boulangerie."
+            },
+            {
+              "time": "09:00",
+              "title": "La première étape du circuit doré",
+              "description": "Bateau pour Alpnachstad : lac, café et silhouettes de montagnes sur le pont. Puis montez au Pilate par le chemin de fer à crémaillère le plus raide du monde."
+            },
+            {
+              "time": "11:00",
+              "title": "L'heure du sommet",
+              "description": "Les terrasses du Pilate et une courte promenade sur la crête : les bras du lac à vos pieds. Déjeuner d'Älplermagronen au restaurant de montagne."
+            },
+            {
+              "time": "14:00",
+              "title": "Descente en téléphérique + retour en ville",
+              "description": "Descendez en douceur jusqu'à Kriens et prenez le bus pour le centre ; arrêtez-vous au Monument du Lion — mieux dans le calme de l'après-midi."
+            },
+            {
+              "time": "16:30",
+              "title": "L'enceinte de la Musegg",
+              "description": "Montez aux tours et admirez le panorama lac-ville-montagne ; une pause chocolat dans la vieille ville en redescendant."
+            },
+            {
+              "time": "19:00",
+              "title": "Une soirée au quai",
+              "description": "Une promenade au coucher du soleil sur le Nationalquai, puis un dîner de Chügelipastete ou de poisson du lac : un verre de blanc, le Pilate s'illuminant de l'autre côté de l'eau."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Ville, deux montagnes et le lac — la Suisse complète",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Lucerne classique",
+              "description": "L'itinéraire d'une journée ci-dessus : le pont, le circuit doré du Pilate, les remparts, le quai."
+            },
+            {
+              "time": "Day 2",
+              "title": "Le Rigi et la riviera lacustre",
+              "description": "Bateau pour Vitznau et le chemin de fer à crémaillère historique jusqu'au Rigi : une promenade au sommet + terrasses panoramiques ; une baignade dans le lac ou une pause spa à Weggis en redescendant ; le bateau du soir pour rentrer — coucher de soleil sur le pont inclus."
+            },
+            {
+              "time": "Day 3",
+              "title": "Culture et adieux",
+              "description": "Le Musée des Transports (le musée le plus divertissant de Suisse) ou Bourbaki + la villa Wagner le matin ; une baignade au Lido ou le funiculaire du Gütsch l'après-midi ; un dîner d'adieu dans la vieille ville — pour finir autour du caquelon à fondue."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de survie en 5 mots",
+      "intro": "Le suisse allemand a sa propre mélodie ; ces cinq mots vous ouvriront des sourires aussi bien sur le bateau à vapeur qu'au sommet.",
+      "items": [
+        {
+          "word": "Grüezi",
+          "pronunciation": "grew-tsee",
+          "meaning": "Bonjour — 'Grüezi mitenand' pour un groupe ; le salut de chaque heure"
+        },
+        {
+          "word": "Merci vilmal",
+          "pronunciation": "mer-see feel-mahl",
+          "meaning": "Merci beaucoup — Le merci français, plié à la mode suisse"
+        },
+        {
+          "word": "En Guete!",
+          "pronunciation": "en goo-eh-teh",
+          "meaning": "Bon appétit — se dit avant de manger, et aussi à la table voisine"
+        },
+        {
+          "word": "Proscht!",
+          "pronunciation": "prosht",
+          "meaning": "Santé ! — Le contact visuel est aussi la règle en Suisse"
+        },
+        {
+          "word": "Uf Widerluege",
+          "pronunciation": "oof vee-der-loo-eh-geh",
+          "meaning": "Au revoir / À bientôt — Dites-le en quittant un magasin et on vous prendra pour un local"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Checklist Lucerne",
+      "completion_message": "Merci vilmal ! Vous avez exploré le lac et les sommets comme il se doit !",
+      "items": [
+        {
+          "label": "Traverser le Pont de la Chapelle vide à l'aube",
+          "sub": "Fleurs, la tour et les premières lueurs"
+        },
+        {
+          "label": "Faire le circuit doré du Pilate",
+          "sub": "Bateau + chemin de fer à crémaillère le plus raide + téléphérique"
+        },
+        {
+          "label": "Prendre le train à crémaillère historique jusqu'au Rigi",
+          "sub": "Le premier chemin de fer de montagne d'Europe — 1871"
+        },
+        {
+          "label": "S'asseoir sur le pont d'un bateau à vapeur du lac",
+          "sub": "La première classe offre un plaisir de loge pour un peu plus"
+        },
+        {
+          "label": "Se recueillir en silence devant le Monument du Lion",
+          "sub": "Tôt le matin — la tristesse opère en silence"
+        },
+        {
+          "label": "Admirer le panorama depuis les tours de la Musegg",
+          "sub": "Lac + ville + montagnes, entrée gratuite"
+        },
+        {
+          "label": "Casser le dôme de la Chügelipastete",
+          "sub": "Le plat emblématique de la ville"
+        },
+        {
+          "label": "Tremper du pain dans un caquelon à fondue",
+          "sub": "L'accompagnement au vin blanc est une tradition"
+        },
+        {
+          "label": "Nager dans le lac au Lido",
+          "sub": "Eau claire, avec le Pilate en toile de fond"
+        },
+        {
+          "label": "S'élever au-dessus de la mer de brouillard",
+          "sub": "En automne — ville dans le brouillard, sommet au soleil"
+        }
+      ]
+    }
+  }
+}

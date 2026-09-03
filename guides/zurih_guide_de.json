@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "language": "de",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#366E9C",
+    "color_light": "#E9F0F7",
+    "tagline": "Die hinter den Ufern versteckte Seestadt: Flussbaden, Dada und Schokolade."
+  },
+  "pills": [
+    "Weltspitze bei Lebensqualität",
+    "Ein durchschwimmbares Stadtzentrum",
+    "Wiege der Dada-Kunstbewegung"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Zürich",
+      "intro": "Zürichs Ruhm wurde von seinen Banken geschrieben, doch das Geheimnis der Stadt liegt woanders: An sommerlichen Mittagen springen Anzugträger in die Limmat, die Kirchtürme der Altstadt verbergen Chagall-Fenster, und die Dada-Bewegung wurde hier auf einer Bar-Bühne geboren. Die Viaduktbögen des Industriequartiers haben sich in Designläden verwandelt, die Trams fahren wie ein Uhrwerk, und der See posiert jeden Abend mit seiner Bergkulisse. Zürich wirkt ernst – aber behalten Sie Ihre Badehose im Gepäck: Diese Stadt weiss besser als jeder andere, wie man sich auszieht und hineinspringt.",
+      "local_word": {
+        "word": "Badi",
+        "pronunciation": "bah-dee",
+        "definition": "Das Herz der Zürcher Freibadkultur: die hölzernen Badeplattformen entlang See und Fluss. Das Schwimmen in der Mittagspause ist eine bürgerliche Tradition – und einige Badis werden nachts zu Bars, wo Gläser mit den Füssen im Wasser erhoben werden."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Nehmen Sie das Flussschwimmen ernst – und machen Sie mit",
+          "description": "Die Limmat und der See sind sauber genug zum Schwimmen, und die Einheimischen tun es täglich: Nutzen Sie die markierten Badi-Bereiche, lernen Sie die Ausstiegsleitern kennen und lassen Sie Ihre Sachen in einem wasserdichten Beutel (einem Wickelfisch) schwimmen. Wer nicht schwimmt, hat die Hälfte von Zürich nicht gesehen."
+        },
+        {
+          "number": 2,
+          "title": "Respektieren Sie die Ruhezeiten",
+          "description": "Schweizer Ordnung zieht sich durch den Alltag: Nacht- und Sonntagsruhe werden ernst genommen, und Telefonate in der Tram finden mit halber Lautstärke statt. Die Regeln sind keine Kälte – sie dienen dem Komfort aller; passen Sie sich an und entspannen Sie sich."
+        },
+        {
+          "number": 3,
+          "title": "Managen Sie die Preise mit Strategie",
+          "description": "Zürich gehört zu den teuersten Städten der Welt: Mittagsmenüs, Bäckereien, Supermarkt-Terrassen und das kostenlose See- und Flussleben schaffen den Ausgleich. Das Brunnenwasser ist überall trinkbar – 1.200 Brunnen sind die kostenlose Bar der Stadt."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "Zürich (ZRH)",
+          "sub": "Zug zum Zentrum 10-15 Min."
+        },
+        {
+          "icon": "🚋",
+          "label": "Fortbewegung",
+          "value": "Tram + zu Fuss + Boot",
+          "sub": "Das ZVV-Ticket deckt alles ab"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Deutsch (Schweizer Dialekt)",
+          "sub": "Englisch funktioniert überall"
+        },
+        {
+          "icon": "🏊",
+          "label": "Besonderheit",
+          "value": "Die Badi-Kultur",
+          "sub": "Stadtschwimmen in Fluss und See"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Die Zürcher Philosophie",
+        "text": "Die Formel, um Zürich zu verstehen, lebt zur Mittagszeit: Um 12.00 Uhr springen die Banker in den Fluss, um 13.00 Uhr ziehen sie ihre Anzüge wieder an. Disziplin und Vergnügen sind hier keine Rivalen, sondern Partner – bringen Sie beides in denselben Tag."
+      }
+    },
+    "transport": {
+      "title": "Verkehrsmittel",
+      "intro": "Zürichs Verkehr ist Schweizer Uhrmacherkunst in öffentlicher Form: Das Tramnetz umspannt die Stadt, Boote befahren den See, und alles funktioniert mit einem einzigen Ticket.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Flughafen ins Zentrum",
+          "description": "Der Zug erreicht den Hauptbahnhof in 10-15 Minuten – Ticket am Automaten oder per App, Pünktlichkeit garantiert. Ein Taxi auf dieser Strecke erteilt eine Schweizer Preislektion; nehmen Sie den Zug und sparen Sie sich die Lektion."
+        },
+        {
+          "icon": "🚋",
+          "title": "Das Tram – der Puls der Stadt",
+          "description": "Die blau-weissen Trams bedienen jedes Quartier minutengenau: Das ZVV-Zonenticket deckt Tram, Bus, S-Bahn und Schiff ab. Die Tageskarte amortisiert sich bereits nach zwei Fahrten."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Die Seeschiffe",
+          "description": "Die ZSG-Dampfer bedienen die Seedörfer fahrplanmässig und akzeptieren das normale Zonenticket: Die kleine Rundfahrt (90 Min.) ist die anmutigste Pause am Nachmittag. Espresso an Deck, die Alpenkulisse über dem Wasser."
+        },
+        {
+          "icon": "🚶",
+          "title": "Die Altstadt zu Fuss",
+          "description": "Die engen Gassen des Niederdorfs, die Lindenhof-Terrasse und die Flussuferwege von Ende zu Ende: Das Zentrum Zürichs ist eine Stadt, die für Fussgänger gebaut ist."
+        },
+        {
+          "icon": "🚞",
+          "title": "Die Uetlibergbahn",
+          "description": "Die S10 erklimmt den Hausberg der Stadt in einer halben Stunde: Vom Gipfelturm aus See, Stadt und Alpen in einem Panorama. Mit einem normalen ZVV-Ticket – der günstigste 'Bergurlaub' der Stadt."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Schiffstipp",
+        "text": "Planen Sie die Seerundfahrt zum Sonnenuntergang: Im sinkenden Licht erröten die Alpen und die Skyline färbt sich golden. Dasselbe Ticket, doppelter Ausblick – konsultieren Sie den Fahrplan für die Abendfahrten."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "In Zürich bedeutet die Wahl eines Viertels die Wahl eines Tempos: die märchenhaften Gassen der Altstadt, der industrielle Rhythmus von Zürich West, die ruhige Eleganz des Seeufers.",
+      "local_word": {
+        "word": "Kreis",
+        "pronunciation": "krites",
+        "definition": "Zürichs 12 Stadtkreise: Ein Einheimischer gibt seine Adresse mit 'Ich wohne im Kreis 4' an. Jeder Kreis hat einen klaren Charakter – 1 steht für Geschichte, 4 für Nachtleben, 5 für Industrie und Design, 8 für Seeufer-Eleganz. Lernen Sie die Zahlen, und die Stadt entschlüsselt sich."
+      },
+      "items": [
+        {
+          "name": "Altstadt / Niederdorf (Kreis 1)",
+          "badge": "Am stimmungsvollsten",
+          "badge_type": "vibe",
+          "description": "Der historische Kern zwischen Fluss und See: Kirchtürme, Zunftplätze und die engen Gassen des Niederdorfs bei Nacht. Alles zu Fuss erreichbar – zu Preisen der Innenstadt.",
+          "tags": [
+            "Historischer Kern",
+            "Alles zu Fuss erreichbar",
+            "Nachtgassen"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Niederdorf+Zurich"
+        },
+        {
+          "name": "Zürich West (Kreis 5)",
+          "badge": "Am kreativsten",
+          "badge_type": "hot",
+          "description": "Das neue Leben des alten Fabrikviertels: Geschäfte in den Viaduktbögen, Frau Gerolds Garten, Galerien und Türme. Jung, industriell und lebendig – das Revier der Designhotels.",
+          "tags": [
+            "Viadukt-Geschäfte",
+            "Industrielles Flair",
+            "Designhotels"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zürich+West"
+        },
+        {
+          "name": "Seefeld (Kreis 8)",
+          "badge": "Am elegantesten",
+          "badge_type": "local",
+          "description": "Ruhige Eleganz am Ostufer des Sees: Badis, die Oper und die Seeparks in Gehdistanz. Ein Morgenlauf am Ufer, ein Abendglas am Quai – das Schaufenster der Lebensqualität.",
+          "tags": [
+            "Seeufer",
+            "Badis direkt nebenan",
+            "Nahe der Oper"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Seefeld+Zurich"
+        },
+        {
+          "name": "Um die Langstrasse (Kreis 4)",
+          "badge": "Am farbenfrohsten",
+          "badge_type": "value",
+          "description": "Die lebendigste und vielfältigste Schlagader der Stadt: Bars, Weltküchen und Nachtleben. Das einst raue Viertel ist heute das Zentrum der jungen Leute – Lärmempfindliche sollten ein Zimmer in einer Seitenstrasse verlangen.",
+          "tags": [
+            "Nachtleben",
+            "Weltküchen",
+            "Junge Energie"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Langstrasse+Zurich"
+        },
+        {
+          "name": "Enge und das Westufer (Kreis 2)",
+          "badge": "Ausgewogene Wahl",
+          "badge_type": "value",
+          "description": "Parkmuseen, das Kulturzentrum Rote Fabrik und die Seebäder: Minuten mit der Tram ins Zentrum, abends Viertelruhe. Für Liebhaber der Balance zwischen Komfort und Ruhe.",
+          "tags": [
+            "Seeparks",
+            "Tram ins Zentrum",
+            "Ruhige Abende"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Enge+Zurich"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Wann reisen",
+      "intro": "Zürichs Glanzzeit ist der Badi-Sommer; doch jede Jahreszeit hat ihre Bühne: ein Frühlingsfest, Herbstmuseen, Winterlicht und Schokolade.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Sechseläuten-Frühling",
+          "months": "Apr – Jun",
+          "subtitle": "Frühling · Das Schneemann-Verbrennungsfest, Terrassen öffnen",
+          "description": "Mitte April verbrennen die Zünfte am Sechseläuten den Schneemann Böögg – je schneller sein Kopf explodiert, desto schöner wird der Sommer. Die Terrassen öffnen, das Seeufer erwacht, und die Badis öffnen Ende Mai.",
+          "callout": {
+            "type": "tip",
+            "label": "April-Tipp",
+            "text": "Wenn Sie am Sechseläuten-Montag landen, gehen Sie zum Bellevue: Zunftleute zu Pferd umkreisen den brennenden Böögg, und die Explosionszeit ist eine stadtweite Wette. Skurril, authentisch und sehr zürichisch."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Badi-Saison",
+          "months": "Jul – Aug",
+          "subtitle": "Sommer · Flussbäder, Open-Air-Kino, die Street Parade",
+          "description": "Die Stadt zieht ins Wasser: Mittagsschwimmen im Fluss, Badi-Bars in der Dämmerung, Open-Air-Kino am Seeufer. Im August macht die Street Parade – Europas grösste Technoparade – die Stadt für einen Tag unkenntlich.",
+          "callout": {
+            "type": "tip",
+            "label": "Juli-Tipp",
+            "text": "Erleben Sie ein Mittagessen wie ein Einheimischer: Blasen Sie Ihren Wickelfisch auf, steigen Sie am Oberen Letten in den Fluss und lassen Sie sich mit der Strömung treiben. Ein Sonnendeck und Kaffee am Ausgang – Zürichs beste 'Meeting-Pause'."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Goldenes Seelicht",
+          "months": "Sep – Nov",
+          "subtitle": "Herbst · Klare Tage, Museums-Saison",
+          "description": "Im September ist das Schwimmen im See noch möglich; im Oktober wird das Licht golden und die Museums- und Konzertsaison beginnt. Die Nebelmeer-Tage des Uetlibergs beginnen – Stadt im Nebel, Gipfel in der Sonne.",
+          "callout": {
+            "type": "tip",
+            "label": "Oktober-Tipp",
+            "text": "Fahren Sie an einem nebligen Oktobermorgen mit der S10 auf den Uetliberg: Sonne über dem Nebelmeer, die Stadt unten unsichtbar. Besuchen Sie auf dem Rückweg das Kunsthaus – ein Nebeltag in Zürich ist doppelt so schön."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Licht und Schokolade",
+          "months": "Dec – Feb",
+          "subtitle": "Winter · Weihnachtslichter, heisse Schokolade, Skifahren in der Nähe",
+          "description": "Die Lichtershow der Bahnhofstrasse und der riesige Weihnachtsmarkt im Hauptbahnhof krönen den Dezember; Januar-Februar ist die ruhige Museums- und Café-Saison. Skifahrer erreichen die Alpenorte innerhalb einer Stunde.",
+          "callout": {
+            "type": "tip",
+            "label": "Dezember-Tipp",
+            "text": "Trinken Sie Glühwein unter dem Swarovski-Baum am Christkindlimarkt im Hauptbahnhof, dann spazieren Sie unter den 'Lucy'-Lichtern der Bahnhofstrasse: das offizielle Eröffnungsritual eines Zürcher Winters."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Zürichs Küche ist elegant und genussvoll: Der cremige Kalbsklassiker, die Strassenwurst und die Schaufenster der weltberühmten Schokolade finden sich auf derselben Strasse.",
+      "local_word": {
+        "word": "Zvieri",
+        "pronunciation": "ts-fee-ree",
+        "definition": "'Um vier Uhr': Die Schweizer Tradition des Nachmittagssnacks – Schulkinder und Arbeiter nehmen gleichermassen ihr Zvieri. Es ist die Stunde, in der sich die Bäckereien füllen; schnappen Sie sich ein Gipfeli und werden Sie Teil dieses Brauchs."
+      },
+      "items": [
+        {
+          "icon": "🍖",
+          "name": "Zürcher Geschnetzeltes",
+          "description": "Kalbsstreifen in einer cremigen Pilzsauce mit knuspriger Rösti als Beilage: der Klassiker, der den Namen der Stadt trägt. In den Zunftrestaurants ist das Porzellan schwer und die Portion solide – dies ist Zürichs offizielles Gericht.",
+          "tag": "Der Stadtklassiker · mit Rösti",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zunfthaus+zur+Waag+Zurich"
+        },
+        {
+          "icon": "🌭",
+          "name": "Die Bratwurst nach Sternen Grill-Art",
+          "description": "Eine Kalbsbratwurst vom Grill mit einem goldbraunen Bürli und scharfem Senf: Zürichs stehende Legende. Die Schlange bewegt sich schnell und die Wurst wird von Hand gegessen – wer nach einer Gabel fragt, ist ein Fremder.",
+          "tag": "Die stehende Legende · mit scharfem Senf",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sternen+Grill+Zurich"
+        },
+        {
+          "icon": "🫕",
+          "name": "Fondue und die Wintertöpfe",
+          "description": "In den kalten Monaten erscheint der Käsetopf an jeder Ecke, und er wird Besuchern sogar im Sommer serviert. Die traditionelle Mischung mit Kirsch wird mit Brot getunkt – die Weissweinbegleitung ist die Regel.",
+          "tag": "Winterritual · die Kirschmischung",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Swiss+Chuchi+Zurich"
+        },
+        {
+          "icon": "🍫",
+          "name": "Luxemburgerli und die Schokoladen-Schaufenster",
+          "description": "Sprünglis luftige Mini-Macarons, die Luxemburgerli, sind die süsse Signatur der Stadt; die Pralinentheken der historischen Chocolatiers sind Museen für sich. Eine Geschenkbox von hier ist ein ernstzunehmendes diplomatisches Instrument.",
+          "tag": "Die süsse Signatur · aus einem historischen Schaufenster",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Confiserie+Sprüngli+Paradeplatz"
+        },
+        {
+          "icon": "🥨",
+          "name": "Bäckereikultur – Gipfeli und Brezel",
+          "description": "Das morgendliche Gipfeli (das Schweizer Croissant) und die Butterbrezel: Die Bäckereitheken sind die Adresse für den Start in den Tag und für das Zvieri. Die Mittags-Sandwiches sind der Budget-Klassiker.",
+          "tag": "Morgen und Zvieri · aus der Bäckerei",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bäckerei+Niederdorf+Zurich"
+        },
+        {
+          "icon": "🍺",
+          "name": "Badi-Bars und lokale Biere",
+          "description": "An Sommerabenden werden die Badis zu Bars: Füsse im Wasser, ein lokales Bier oder Weisswein im Glas. Die Aperitif-Kultur am Wasser ist die reizvollste Ausnahme von Zürichs Ernsthaftigkeit.",
+          "tag": "Sommerabend · Füsse im Wasser",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Barfussbar+Zurich"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Budget-Tipp",
+        "text": "Drei Freunde stillen den Hunger in Zürich: die Tagesmenü-Tafeln zur Mittagszeit, die Bäckereitheken und die Supermarkt-Terrassen mit Aussicht. Erledigen Sie die Schokoladen-Geschenkliste im Supermarktregal – in der Schweiz spielt selbst Supermarkt-Schokolade in der Weltliga mit."
+      }
+    },
+    "hidden_gems": {
+      "title": "Geheime Winkel",
+      "intro": "Jeder kennt die Bahnhofstrasse; diese sechs Orte sind Zürichs Backstage.",
+      "items": [
+        {
+          "rarity": "Der ruhige Balkon der Stadt",
+          "name": "Die Lindenhof-Terrasse",
+          "description": "Der von Linden beschattete Platz auf dem Gelände eines römischen Kastells öffnet sich über die Altstadt: riesige Schachfiguren, ein Brunnen und der Flussblick. Die jahrhundertealte Adresse für das Mittags-Sandwich und die abendliche Stille.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lindenhof+Zurich"
+        },
+        {
+          "rarity": "Die Geburtsstätte des Dadaismus",
+          "name": "Cabaret Voltaire",
+          "description": "Die Bar, in der die Dada-Bewegung 1916 geboren wurde, existiert noch: Ausstellungen, Performances und Kaffee im historischen Saal. Die absurdeste Revolution der Kunstgeschichte begann innerhalb dieser Mauern – und der Ort trägt immer noch die Ernsthaftigkeit des Un-Ernstes.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cabaret+Voltaire+Zurich"
+        },
+        {
+          "rarity": "Die blaue Stunde der Glasfenster",
+          "name": "Die Chagall-Fenster im Fraumünster",
+          "description": "Chagalls fünf Fenster zeigen ihr tiefstes Blau im Morgenlicht: eine kleine Kirche, eine grosse Gelassenheit. Betreten Sie sie bei Öffnung – die Touristenwelle kommt mittags.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fraumünster+Zurich"
+        },
+        {
+          "rarity": "Ein Basar unter den Bögen",
+          "name": "Im Viadukt",
+          "description": "Designläden, Werkstätten und eine Markthalle im steinernen Eisenbahnviadukt von Zürich West: die anmutigste Umnutzung eines Industriedenkmals. Die Samstags-Markthalle + ein Kaffee unter den Bögen ist der Klassiker.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Im+Viadukt+Zurich"
+        },
+        {
+          "rarity": "Ein Nachtblick über dem Wald",
+          "name": "Sonnenuntergang auf dem Uetliberg",
+          "description": "Eine halbe Stunde mit der S10 hinauf: vom Turm aus See, Stadt und Alpenwand in einem Panorama. Die halbe Stunde vom Sonnenuntergang bis zu den Stadtlichtern ist Zürichs grosszügigste Show – und der Abstieg kann zu einem Laternen-Spaziergang werden.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Uetliberg"
+        },
+        {
+          "rarity": "Die Holzbäder, die zu Bars werden",
+          "name": "Die Frauenbadi und die Rimini-Nachtbars",
+          "description": "Die historischen Holzbäder, tagsüber geschlechtergetrennt, öffnen sich nachts für alle als Bars: In der Barfussbar sind Schuhe verboten und die Füsse bleiben im Wasser. Zürichs originellste Abendlocations – im Sommer, auf Wasserhöhe.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Frauenbadi+Stadthausquai+Zurich"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Fluss-Tipp",
+        "text": "Die Limmat-Route der Einheimischen: Am Oberen Letten einsteigen, mit der Strömung zum Unteren Letten treiben, die Leiter hochklettern, sonnenbaden, wiederholen. Ihr wasserdichter Wickelfisch ist Koffer und Schwimmhilfe zugleich – alles, auch das Handy, schwimmt mit Ihnen."
+      }
+    },
+    "traps": {
+      "title": "Touristenfallen",
+      "intro": "Betrügereien sind in Zürich so gut wie nicht existent; die Fallen lauern in den Preisschildern und in falschen Annahmen.",
+      "items": [
+        {
+          "icon": "💸",
+          "name": "Geschenkejagd auf der Bahnhofstrasse",
+          "description": "Auf der teuersten Allee der Welt werden Schokolade und Uhren in 'Touristenverpackung' verkauft: Das gleiche Produkt ist zwei Strassen weiter deutlich günstiger.",
+          "instead": "Machen Sie den Schaufensterbummel auf der Bahnhofstrasse und kaufen Sie in den Seitenstrassen und Supermarktregalen ein. Wenn eine Luxusuhr das Ziel ist, sind Termine, nicht Feilschen, ohnehin die Kultur."
+        },
+        {
+          "icon": "🚕",
+          "name": "Ein Taxi für einen Katzensprung",
+          "description": "Zürcher Taxis gehören zu den teuersten der Welt, und die Tram fährt die gleiche Strecke oft schneller.",
+          "instead": "Kaufen Sie das ZVV-Tagesticket und nutzen Sie das Tram-Boot-S-Bahn-Trio; das Netz fährt auch bis spät in die Nacht. Ein Taxi macht nur mit einem Berg Gepäck Sinn."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Hinsetzen ohne die Speisekarte zu lesen",
+          "description": "Ein Hauptgericht am Abend in einem gewöhnlich aussehenden Restaurant kann überraschende Preise erreichen: In Zürich täuscht der Begriff 'Durchschnitt'.",
+          "instead": "Lesen Sie die Speisekarte im Fenster, bevor Sie sich setzen, und lassen Sie das Mittags-Tagesmenü das Abendessen ersetzen. Die gute Nachricht: Preistransparenz ist die Regel – nichts über den gedruckten Preis hinaus erscheint, und Trinkgeld ist nicht obligatorisch."
+        },
+        {
+          "icon": "🏔️",
+          "name": "Die Alpen an einem Tag 'um die Schweiz zu sehen' hineinquetschen",
+          "description": "Wer an einem Tag von Zürich zu drei Bergstationen sprintet, verbringt ihn in Zügen; sowohl Stadt als auch Berge bleiben halbfertig.",
+          "instead": "Trennen Sie den Stadttag und den Bergtag: Für die nahe Dosis genügt ein halber Tag auf dem Uetliberg; für die volle Dosis wählen Sie ein Ziel (Titlis, Rigi oder Säntis) und fahren Sie früh los."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Goldene Regel",
+        "text": "Die meisten der besten Dinge Zürichs sind kostenlos oder kostenpflichtig: das Flussschwimmen, der Lindenhof, das Brunnenwasser, das Seeufer, der Uetliberg. Sparen Sie das Geld für einen guten Tisch und eine Schachtel Pralinen – den Rest schenkt Ihnen die Stadt."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie Planung nicht mögen, folgen Sie diesen Vorschlägen. Die Zeiten sind flexibel; behalten Sie die Stimmung bei, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Ein Zürcher Tag von Buntglas bis Flussbad",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Der Altstadtmorgen",
+              "description": "Begrüssen Sie die Stadt von der Lindenhof-Terrasse; sehen Sie die Chagall-Fenster in ihrem morgendlichen Blau im Fraumünster, frühstücken Sie in den Gassen des Niederdorfs."
+            },
+            {
+              "time": "10:30",
+              "title": "Bahnhofstrasse und die Schaufenster",
+              "description": "Spazieren Sie die teuerste Allee der Welt entlang als Schaufensterbummel; eine Luxemburgerli-Pause bei Sprüngli – die Entscheidung für die Schachtel auf den Abend verschieben."
+            },
+            {
+              "time": "12:30",
+              "title": "Mittag: Fluss oder Menü",
+              "description": "Im Sommer ein Flussbad am Letten + das Sonnendeck; ansonsten Geschnetzeltes + Rösti in einem Zunftrestaurant. Beide Optionen sind lokale Klassiker."
+            },
+            {
+              "time": "15:00",
+              "title": "Zürich West erkunden",
+              "description": "Tram nach Kreis 5: die Bögen des Im Viadukt, Frau Gerolds Garten und die Galerien – das neue Leben des industriellen Zürichs."
+            },
+            {
+              "time": "17:30",
+              "title": "Seeboot oder Badi-Bar",
+              "description": "Die kleine Seerundfahrt auf dem Sonnenuntergangsboot, oder ein Aperitif mit den Füssen im Wasser an der Barfussbar: die Gläser erheben sich, während die Alpen erröten."
+            },
+            {
+              "time": "20:00",
+              "title": "Abend im Niederdorf",
+              "description": "Abendessen in den engen Gassen, dann ein Glas im Cabaret Voltaire: ein absurder und eleganter Tagesausklang zwischen den Mauern, wo Dada geboren wurde."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Stadt, See und Gipfel – die Zürcher Trilogie",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Klassisches Zürich",
+              "description": "Der oben beschriebene Ein-Tages-Ablauf: Lindenhof, Chagall, Bahnhofstrasse, Zürich West, der Seeabend."
+            },
+            {
+              "time": "Day 2",
+              "title": "Kunst und die Quartiere",
+              "description": "Die Kunsthaus-Sammlung am Morgen; Weltküchen rund um die Langstrasse am Mittag; Seezeit in den Seefeld-Badis am Nachmittag; die Oper oder ein Rote Fabrik Konzert am Abend – beide Extreme sind Zürich."
+            },
+            {
+              "time": "Day 3",
+              "title": "Der Uetliberg und Abschied",
+              "description": "Die S10 auf den Hausberg: der Gratweg zur Felsenegg und die Seilbahn hinunter nach Adliswil; ein letztes Flussbad oder der Schokoladenladen am Nachmittag; ein Abschiedsessen über dem Fonduetopf – ein nach Kirsch duftender Abschluss."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Wort-Überlebenskit",
+      "intro": "Zürichdeutsch hat seine ganz eigene Melodie; diese fünf Wörter öffnen Türen – in der Tram und in der Badi gleichermassen.",
+      "items": [
+        {
+          "word": "Grüezi",
+          "pronunciation": "grew-tsee",
+          "meaning": "Hallo — die Begrüssung zu jeder Stunde, in der Stadt und auf dem Berg"
+        },
+        {
+          "word": "Merci vilmal",
+          "pronunciation": "mer-see feel-mahl",
+          "meaning": "Vielen Dank — der schweizerische französisch-deutsche Klassiker"
+        },
+        {
+          "word": "En Guete!",
+          "pronunciation": "en goo-eh-teh",
+          "meaning": "Guten Appetit — gesagt, wenn das Mittagsmenü serviert wird"
+        },
+        {
+          "word": "Proscht!",
+          "pronunciation": "prosht",
+          "meaning": "Prost! — auch gültig an der Badi-Bar mit den Füssen im Wasser"
+        },
+        {
+          "word": "Ade",
+          "pronunciation": "ah-day",
+          "meaning": "Auf Wiedersehen — sag es beim Verlassen eines Ladens und ernte ein Lächeln der Einheimischen"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Zürich Checkliste",
+      "completion_message": "Proscht! Du hast die Stadt der Banken richtig erlebt!",
+      "items": [
+        {
+          "label": "Die Limmat hinuntertreiben lassen",
+          "sub": "Die Letten-Route — mit einem Wickelfisch"
+        },
+        {
+          "label": "Die Chagall-Fenster am Morgen bestaunen",
+          "sub": "Fraumünster — zur Öffnung"
+        },
+        {
+          "label": "Die Altstadt vom Lindenhof überblicken",
+          "sub": "Riesenschach + Flussblick"
+        },
+        {
+          "label": "Geschnetzeltes + Rösti essen",
+          "sub": "Das Gericht, das den Namen der Stadt trägt"
+        },
+        {
+          "label": "Eine Bratwurst am Sternen Grill geniessen",
+          "sub": "Goldbürli + scharfer Senf"
+        },
+        {
+          "label": "Eine Schachtel Luxemburgerli kaufen",
+          "sub": "Die luftigen Mini-Makronen"
+        },
+        {
+          "label": "Durch die Bögen von Im Viadukt schlendern",
+          "sub": "Zürich Wests Design-Bazar"
+        },
+        {
+          "label": "Ein Glas im Cabaret Voltaire erheben",
+          "sub": "Die Bühne, wo Dada geboren wurde"
+        },
+        {
+          "label": "Das Uetliberg-Panorama geniessen",
+          "sub": "Eine halbe Stunde mit der S10 — See + Alpen"
+        },
+        {
+          "label": "Die Füsse in einer Badi-Bar ins Wasser tauchen",
+          "sub": "Ein Sommerabend — der Barfussbar-Klassiker"
+        }
+      ]
+    }
+  }
+}

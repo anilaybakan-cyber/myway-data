@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Florence",
+    "country": "Italy",
+    "language": "fr",
+    "version": "2.1",
+    "color_primary": "#8B3A2E",
+    "color_light": "#F8EEE8",
+    "tagline": "La Renaissance est née ici – et la ville vous le rappelle à chaque coin de rue, sans jamais devenir lassante.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Visitez les musées tôt le matin",
+    "Goûtez le sandwich au lampredotto",
+    "Traversez vers l'Oltrarno"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Florence est une petite ville – le centre historique est suffisamment compact pour être parcouru à pied. À l'intérieur : Botticelli, Michel-Ange, Léonard de Vinci, Brunelleschi ; les Offices, l'Accademia, le Bargello ; une église à chaque coin de rue, une fresque dans chaque église. La seule façon de gérer cette densité est de fixer des priorités : si vous essayez de tout voir en même temps, vous ne verrez rien vraiment. Les bâtiments en pierre poussiéreux de Florence, ses rues étroites, ses marchés matinaux et ses apéritifs du soir s'assemblent dans une formule introuvable ailleurs. Le fleuve Arno divise la ville en deux ; sur l'autre rive, les quartiers de l'Oltrarno – où la plupart des touristes ne s'aventurent pas, où les ateliers et les bars locaux perdurent, où vit la vraie Florence.",
+      "local_word": {
+        "pronunciation": "ku-CHI-na PO-ve-ra",
+        "definition": "La cuisine du pauvre. Les meilleurs plats de Florence en sont issus : lampredotto (tripes de bœuf), ribollita (soupe de pain rassis), pappa al pomodoro (bouillie de tomates et de pain). Ingrédients bon marché, longs temps de cuisson, saveur profonde. La Bistecca alla Fiorentina est chère et ostentatoire – la cucina povera est le vrai visage de la ville.",
+        "word": "Cucina povera"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "N'allez pas aux Offices sans réservation",
+          "description": "Les Offices et l'Accademia (le David de Michel-Ange) sont les musées les plus visités de Florence. Les files d'attente à l'entrée peuvent durer des heures – vous pourriez même ne pas entrer du tout. Réservez vos billets à l'avance sur les sites officiels – il y a des frais de réservation, mais cela vaut chaque minute gagnée dans la file. Les premières heures du matin (9h-10h) sont les moins fréquentées."
+        },
+        {
+          "number": 2,
+          "title": "Le pain toscan est non salé – soyez-y préparé",
+          "description": "Le Pane sciocco (pain non salé) est une tradition toscane séculaire. Il peut sembler étrange à la première bouchée. Mais trempé dans de la charcuterie, du fromage ou des sauces, il prend tout son sens – il est conçu pour absorber le sel des aliments qui l'accompagnent, et non pour être mangé seul. La Schiacciata, en revanche – le pain plat à l'huile d'olive et au sel – est salée et délicieuse."
+        },
+        {
+          "number": 3,
+          "title": "Sachez reconnaître une vraie glace artisanale",
+          "description": "Les glaces empilées en hauteur dans de grandes vitrines, aux couleurs fluo, sont un piège à touristes. Une vraie bonne glace artisanale est tout le contraire : simple, discrète, aux couleurs naturelles. La pistache est jaunâtre, pas verte, la fraise est rosée, pas rouge. Car il n'y a pas de colorant – la couleur provient uniquement des ingrédients naturels."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "FLR — Amerigo Vespucci",
+          "sub": "Tram T2 vers Santa Maria Novella ~25 min · 1,70 €"
+        },
+        {
+          "icon": "🚌",
+          "label": "Transports",
+          "value": "Autolinee Toscane – bus et tram",
+          "sub": "Billet simple 1,70 € · valable 90 minutes · acheter chez un tabac"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Météo",
+          "value": "Méditerranéen – été chaud et bondé",
+          "sub": "Avr–Mai et Sep–Oct idéal · Juin–Août très chaud · Déc–Fév froid"
+        },
+        {
+          "icon": "🥩",
+          "label": "Cuisine",
+          "value": "Bistecca, lampredotto, ribollita, gelato",
+          "sub": "Déjeuner trattoria : 12–18 € · sandwich lampredotto : 4–5 €"
+        }
+      ],
+      "tip": {
+        "label": "Piazzale Michelangelo – pour le coucher de soleil, mais arrivez tôt",
+        "text": "Le point de vue le plus célèbre de Florence. Le Duomo, le Ponte Vecchio et toute la ville s'étendent de manière panoramique. Allez-y 45 minutes avant le coucher du soleil pour trouver un bon emplacement. Vous pouvez y monter à pied (environ 20 minutes depuis le Ponte Vecchio) ou prendre le bus numéro 13. L'entrée est gratuite.",
+        "type": "tip"
+      },
+      "title": "Bienvenue à Florence"
+    },
+    "transport": {
+      "intro": "Florence est petite et le centre historique est facilement accessible à pied. Le bus et le tramway sont la deuxième option ; les taxis sont chers.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aéroport → Ville",
+          "description": "Le tramway T2 Vespucci vous emmène de l'aéroport à la gare Santa Maria Novella en environ 25 minutes. Départs toutes les 5 minutes, billet 1,70 €. À partir de février 2025, la ligne a été prolongée jusqu'à la Piazza San Marco. Taxi à prix fixe environ 22-25 €. Le tramway est de loin l'option la plus pratique."
+        },
+        {
+          "icon": "🚌",
+          "title": "Autolinee Toscane — réseau de bus",
+          "description": "Les bus et tramways urbains fonctionnent avec le même système de billetterie. Tarif unique 1,70 €, valable 90 minutes, avec correspondances gratuites. Billets disponibles dans les tabacchi (bureaux de tabac), aux distributeurs aux arrêts de bus ou de tramway. Vous ne pouvez pas acheter de billet après être monté dans un bus — achetez-le à l'avance et validez-le en montant. Le paiement sans contact par carte bancaire de 1,70 € est également accepté."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tramway — T1 et T2",
+          "description": "La ligne T1 relie Scandicci à Santa Maria Novella ; la ligne T2 relie l'aéroport Vespucci via Santa Maria Novella à la Piazza San Marco. Les deux sont utiles pour atteindre le centre-ville. Même billet que le bus, 1,70 €."
+        },
+        {
+          "icon": "🚲",
+          "title": "Vélo et trottinette",
+          "description": "Le centre historique de Florence est en grande partie piéton — les véhicules sont restreints. La location de vélos est disponible, mais soyez prudent sur les rues étroites et animées. L'itinéraire le long de l'Arno est adapté aux vélos."
+        },
+        {
+          "icon": "🚶",
+          "title": "À pied — la meilleure option",
+          "description": "Depuis le Duomo : Offices 10 minutes, Ponte Vecchio 15 minutes, Santa Croce 15 minutes, Mercato Centrale 10 minutes. Le centre historique est presque entièrement accessible à pied. Pour traverser vers l'Oltrarno : 5 minutes à pied via le Ponte Vecchio."
+        }
+      ],
+      "callout": {
+        "label": "ZTL — ne conduisez pas dans le centre historique",
+        "text": "Le centre historique de Florence est une zone ZTL (Zona a Traffico Limitato) — restreinte à la circulation des véhicules. Les véhicules non autorisés sont détectés par des caméras automatiques et encourent de lourdes amendes. Si vous êtes arrivé en voiture de location, n'entrez pas dans le centre historique. La meilleure solution est de se garer à l'extérieur et de marcher ou d'utiliser les transports en commun.",
+        "type": "tip"
+      },
+      "title": "Se déplacer"
+    },
+    "stay": {
+      "intro": "L'emplacement est crucial à Florence — le centre historique est proche de tout mais cher ; l'Oltrarno est plus local et offre un meilleur rapport qualité-prix.",
+      "local_word": {
+        "pronunciation": "ol-TRAR-no",
+        "definition": "L'autre rive de l'Arno. Traversez le Ponte Vecchio et l'Oltrarno commence. La plupart des touristes ignorent cette rive — à l'exception de ceux qui viennent pour le Palais Pitti et les Jardins de Boboli. Ateliers, petits restaurants, bars de quartier et ateliers d'artistes se trouvent de ce côté. Le visage plus calme et plus authentique de Florence.",
+        "word": "Oltrarno"
+      },
+      "items": [
+        {
+          "name": "Centro Storico — Centre Historique",
+          "badge": "Le plus central",
+          "badge_type": "hot",
+          "description": "Le Dôme, les Offices, le Ponte Vecchio, le Mercato Centrale, tout est accessible à pied. Le point le plus proche de tout, mais aussi le plus animé et le plus cher. Les rues sont relativement plus calmes tôt le matin et tard le soir.",
+          "tags": [
+            "Accessible à pied à tout",
+            "Le plus fréquenté",
+            "Le plus cher"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Duomo+Florence"
+        },
+        {
+          "name": "Oltrarno",
+          "badge": "Le plus local",
+          "badge_type": "local",
+          "description": "De l'autre côté du Ponte Vecchio. Le Palais Pitti, les Jardins de Boboli et les Jardins Bardini se trouvent de ce côté. La Piazza Santo Spirito s'anime le soir. Ateliers, restaurants-boutiques et bars de quartier s'y trouvent. 10-15 minutes à pied du centre historique. Les prix sont légèrement meilleurs, l'ambiance beaucoup plus locale.",
+          "tags": [
+            "Place Santo Spirito",
+            "Palais Pitti",
+            "Vie de quartier locale"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Oltrarno+Florence"
+        },
+        {
+          "name": "Quartier Santa Croce",
+          "badge": "Le plus équilibré",
+          "badge_type": "hot",
+          "description": "Autour de la Basilique Santa Croce. Sur le côté est du centre historique, à 15 minutes à pied des Offices. La pression touristique est légèrement moindre qu'au centre. Le marché Sant'Ambrogio se trouve dans ce quartier — où les habitants font leurs courses le matin.",
+          "tags": [
+            "Marché Sant'Ambrogio",
+            "Basilique Santa Croce",
+            "Légèrement plus calme"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Croce+Florence"
+        },
+        {
+          "name": "Quartier San Lorenzo",
+          "badge": "Le plus animé par le marché",
+          "badge_type": "local",
+          "description": "Autour du Mercato Centrale et du marché de San Lorenzo. Le quartier le plus animé le matin. Les Chapelles des Médicis et la Bibliothèque Laurentienne se trouvent ici. Les étals du marché et les cafés locaux sont actifs en début de journée.",
+          "tags": [
+            "Mercato Centrale",
+            "Marché de San Lorenzo",
+            "Culture du marché matinal"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Lorenzo+Florence"
+        },
+        {
+          "name": "Près de Santa Maria Novella",
+          "badge": "Proche de la gare",
+          "badge_type": "hot",
+          "description": "Accessible à pied depuis la gare principale de Florence, SMN. Le tramway de l'aéroport (T2) passe par ici. Pratique pour les excursions d'une journée en Toscane — Sienne, San Gimignano sont proches en train. Dix minutes à pied du centre historique.",
+          "tags": [
+            "Gare SMN",
+            "Tram T2",
+            "Pratique pour les excursions d'une journée"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Maria+Novella+Florence"
+        }
+      ],
+      "title": "Où séjourner"
+    },
+    "best_time": {
+      "intro": "Florence peut être visitée toute l'année, mais les foules estivales et la chaleur atteignent leur apogée en juillet et août.",
+      "items": [
+        {
+          "label": "Printemps",
+          "name": "La meilleure période",
+          "months": "Apr – May",
+          "description": "Avril et mai sont la période la plus équilibrée à Florence. Le temps est doux, les touristes sont présents mais loin des niveaux estivaux. La glycine des Jardins Bardini est en pleine floraison de mi-avril à début mai.",
+          "callout": {
+            "label": "Glycine des Jardins Bardini — mi-avril",
+            "text": "Dans l'Oltrarno, à côté du Forte di Belvedere. Les longs tunnels de glycine violette sont en fleurs de mi-avril à début mai. Beaucoup plus calme que Boboli. Le panorama de Florence depuis le sommet est gratuit ; l'entrée au jardin est payante. Moins fréquenté aux premières heures du matin.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Printemps · Glycine, temps doux, foules gérables"
+        },
+        {
+          "label": "Été",
+          "name": "Chaud et bondé",
+          "months": "Jun – Aug",
+          "description": "Juillet et août sont les mois les plus fréquentés et les plus chauds — 35-38°C est normal. Les musées, ponts et places sont remplis de touristes. Sans réservation, vous risquez de ne rien trouver. Avant 8h et après 20h, la ville est relativement calme. La culture de l'apéritivo en soirée et les bars le long de l'Arno sont les plus animés cette saison.",
+          "callout": {
+            "label": "Estate Fiesolana — événements en plein air tout l'été",
+            "text": "Dans la ville perchée de Fiesole, juste au-dessus de Florence, des concerts, du théâtre et des projections de films ont lieu tout l'été. Écouter de la musique dans un ancien théâtre romain est une expérience différente. À 30 minutes de Florence en bus numéro 7.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Été · Plus de 35°C, musées bondés"
+        },
+        {
+          "label": "Automne",
+          "name": "Deuxième meilleure période",
+          "months": "Sep – Nov",
+          "description": "En septembre et octobre, les foules diminuent tandis que le temps reste doux. La récolte du raisin dans la région du Chianti commence en septembre-octobre. Les trattorias proposent de nouveaux menus de saison : champignons, gibier, châtaignes. La pluie augmente à partir de novembre, mais les musées sont presque vides.",
+          "callout": {
+            "label": "Région du Chianti — la meilleure évasion de l'automne",
+            "text": "Juste au sud de Florence, à 30-45 minutes en voiture. Greve in Chianti, Radda, Gaiole — petites villes, caves à vin, oliveraies. Septembre-octobre est la période des vendanges : de nombreux domaines ouvrent aux visiteurs pour des dégustations de vin. Des services de bus partent de Florence sans voiture. Prévoyez une journée complète.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Automne · Foules moins nombreuses, début des vendanges"
+        },
+        {
+          "label": "Hiver",
+          "name": "Musées vides, ville tranquille",
+          "months": "Dec – Feb",
+          "description": "Les marchés de Noël et les illuminations animent la ville en décembre. Janvier et février sont la période la plus calme de Florence — musées presque vides, pas de file d'attente aux Offices, trattorias accessibles sans réservation. Froid mais la neige est rare. Fin février apporte la saison du Carnaval.",
+          "callout": {
+            "label": "Schiacciata alla Fiorentina — le gâteau du Carnaval",
+            "text": "Un gâteau éponge moelleux unique à Florence, aromatisé au zeste d'orange et saupoudré de sucre glace — avec le blason du lys de Florence (giglio) pressé sur le dessus. Disponible dans les boulangeries et pâtisseries pendant le Carnaval (fin janvier-février). Peut être trouvé toute l'année à certains endroits, mais est le plus frais et le plus largement disponible pendant cette période.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Hiver · Moins de monde, prix les plus bas"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "Easter",
+          "text": "Scoppio del Carro : l''explosion du char' devant le Duomo — un char historique de feux d'artifice allumé par une colombe mécanique, le même rituel depuis des siècles."
+        },
+        {
+          "month": "June 24",
+          "text": "San Giovanni : le jour du saint patron — la finale du calcio storico (un mélange de rugby et de lutte en costumes historiques) et des feux d'artifice sur l'Arno la nuit."
+        },
+        {
+          "month": "September–October",
+          "text": "Vendanges : les collines du Chianti s'animent avec la vendemmia ; du vin nouveau en ville, et des excursions d'une demi-journée dans les vignobles à leur plus beau."
+        },
+        {
+          "month": "November–February",
+          "text": "La saison calme : courtes files d'attente, hôtels bon marché, trattorias laissées aux habitants — c'est exactement la saison de la ribollita."
+        }
+      ],
+      "title": "Quand partir ?"
+    },
+    "eat": {
+      "intro": "Florence abrite l'une des meilleures cuisines d'Italie – mais sans prétention. La Bistecca est chère, le lampredotto est bon marché ; les deux sont florentins.",
+      "local_word": {
+        "pronunciation": "bis-TEK-ka al-la fyo-ren-TEE-na",
+        "definition": "Un gigantesque steak T-bone coupé dans de la viande de bœuf Chianina. Au moins 1,5 kilo, cuit au charbon de bois, servi rosé à l'intérieur – demandez-le bien cuit et on vous demandera d'aller ailleurs. Servi uniquement avec de l'huile d'olive, du gros sel et du poivre frais. Vendu au kilo, cher, à partager. En manger un à Florence au moins une fois est non négociable.",
+        "word": "Bistecca alla Fiorentina"
+      },
+      "items": [
+        {
+          "icon": "🥩",
+          "name": "Bistecca alla Fiorentina",
+          "description": "Gigantesque steak T-bone, bœuf Chianina, cuit au charbon de bois, rouge à l'intérieur. 45-60 € le kilo — à partager entre deux personnes. Il doit être 'al sangue' (saignant). Si vous pouvez l'accepter, c'est l'une des expériences les plus emblématiques de Florence.",
+          "tag": "45–60 € le kilo · pour deux · servi saignant",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria+Mario+Florence"
+        },
+        {
+          "icon": "🥪",
+          "name": "Sandwich au Lampredotto",
+          "description": "Le quatrième estomac de la vache, bouilli, tranché et placé dans un simple petit pain. Garnie de salsa verde et de sauce pimentée. Demandez-le 'bagnato' — ils trempent le dessus du pain dans le bouillon de cuisson, et le pain s'imprègne — c'est la différence cruciale. 4-5 €. Aux étals du Mercato Centrale ou du marché Sant'Ambrogio. Vous l'aimerez ou non, mais vous ne pouvez pas quitter Florence sans l'avoir essayé.",
+          "tag": "Mercato Centrale ou Sant'Ambrogio · 4–5 € · demander 'bagnato'",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Da+Nerbone+Florence"
+        },
+        {
+          "icon": "🍲",
+          "name": "Ribollita",
+          "description": "Une soupe épaisse de haricots blancs, de cavolo nero (chou noir), de carottes, de céleri et de pain toscan rassis. Le nom signifie 'rebouilli' car elle est meilleure le lendemain. Un plat d'hiver — d'octobre à mars. Apparaît comme plat du jour dans les trattorias. Bon marché et nourrissant : 8-12 €.",
+          "tag": "Mois d'hiver · plat du jour dans les trattorias · 8–12 €",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trattoria+La+Casalinga+Florence"
+        },
+        {
+          "icon": "🥪",
+          "name": "Sandwich Schiacciata",
+          "description": "Le pain plat toscan à l'huile d'olive et au sel (schiacciata), garni de prosciutto, de pecorino ou de légumes grillés. Le repas de la pause déjeuner à Florence : rapide, abordable, mangé debout. Frais des boulangeries dès le matin.",
+          "tag": "Boulangeries et épiceries fines · pause déjeuner · 4–7 €",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=All%27Antico+Vinaio+Florence"
+        },
+        {
+          "icon": "🍨",
+          "name": "Vraie glace (gelato)",
+          "description": "Récipients métalliques, couvercles plats, couleurs naturelles : la pistache est brun-jaunâtre, la fraise rose pâle. Celles-ci sont les vraies. Récipients en plastique, couleurs néon, monticules hauts — piège à touristes. Gelateria dei Neri, Gelateria della Passera (Oltrarno), Bonchi.",
+          "tag": "Gelateria dei Neri ou options Oltrarno · 1,50–2,50 € la boule",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gelateria+La+Carraia+Florence"
+        },
+        {
+          "icon": "🍷",
+          "name": "Culture de l'Aperitivo",
+          "description": "Entre 18h et 20h. Commandez un Negroni ou un Aperol Spritz — de petites collations sont servies avec. Certains bars proposent un buffet avec l'aperitivo. Les bars de l'Oltrarno, la Piazza Santo Spirito et la Via San Niccolò sont les bonnes adresses pour ce rituel.",
+          "tag": "18h–20h · Oltrarno et Santo Spirito · Negroni ou Spritz",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazza+Santo+Spirito+Florence"
+        }
+      ],
+      "callout": {
+        "label": "Mercato Centrale — le meilleur tôt le matin",
+        "text": "Juste à côté de San Lorenzo, un bâtiment de deux étages en fer et en verre. Le rez-de-chaussée est le marché alimentaire : boucher, poissonnier, fromager, primeur — de 7h du matin jusqu'au début de l'après-midi. À l'étage, vous trouverez des pâtes, des pizzas, du lampredotto, de la bistecca à divers stands. Touristique mais à vivre. Le rez-de-chaussée est local et authentique. Descendez au rez-de-chaussée tôt le matin et profitez-en. Montez à l'étage quand vous avez besoin d'une pause.",
+        "type": "tip"
+      },
+      "title": "Que manger"
+    },
+    "hidden_gems": {
+      "intro": "Les coins les plus calmes et inattendus de Florence sont généralement éclipsés par les célèbres musées.",
+      "items": [
+        {
+          "name": "Bargello Museum",
+          "description": "Sur la Via del Proconsolo, à 5 minutes à pied des Offices. La plus importante collection de sculptures de la Renaissance s'y trouve : le David de Donatello, les premières œuvres de Michel-Ange, Ghiberti et Verrocchio. Une fraction du nombre de visiteurs des Offices. La cour du premier étage — lorsque la lumière de l'après-midi la traverse — est l'un des espaces les plus beaux et les plus silencieux de Florence. Ouvre à 8h30 et est généralement calme jusqu'à midi.",
+          "rarity": "Une évasion des foules des Offices — le silence du Bargello",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bargello+Florence"
+        },
+        {
+          "name": "Laurentian Library",
+          "description": "À l'étage supérieur de la Basilique San Lorenzo, avec un billet séparé. Le vestibule d'entrée et son escalier dramatique et ondulant conçu par Michel-Ange — l'un des premiers exemples du maniérisme. Environ 11 000 manuscrits des Médicis y sont conservés. Ouvert du lundi au samedi de 10h à 13h.",
+          "rarity": "La bibliothèque de Michel-Ange — et cet escalier",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Biblioteca+Medicea+Laurenziana+Florence"
+        },
+        {
+          "name": "Caffetteria delle Oblate",
+          "description": "Sur la Via dell'Oriuolo, à 3 minutes à pied du Dôme. Un petit café sur le toit de la bibliothèque municipale. La façade arrière du Dôme et un panorama de la ville devant vous avec votre café ou apéritif. Places limitées — vérifiez avant de vous y rendre. L'accès à la bibliothèque est gratuit — vous pouvez aussi vous asseoir à l'intérieur.",
+          "rarity": "Une meilleure vue sur le Dôme que n'importe quel café — et une bibliothèque",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Caffetteria+delle+Oblate+Florence"
+        },
+        {
+          "name": "Piazza Santo Spirito",
+          "description": "Dans l'Oltrarno, à 15 minutes à pied du Ponte Vecchio. Calme pendant la journée — mais après 18h, les Florentins s'y rassemblent. Bars et osterias tout autour, une fontaine au centre, des gens assis sur les marches. Un petit marché a lieu tous les matins sauf le lundi. Le dimanche, un marché bio et artisanal.",
+          "rarity": "La vraie place du soir de Florence",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Piazza+Santo+Spirito+Florence"
+        },
+        {
+          "name": "San Miniato al Monte",
+          "description": "Juste au-dessus du Piazzale Michelangelo, 10 minutes de marche supplémentaires. Une basilique du XIe siècle surplombant la ville. Une fraction du nombre de visiteurs du Piazzale. Le sol en marbre toscan et la mosaïque de l'abside à l'intérieur comptent parmi les trésors artistiques les moins connus de Florence. Allez-y avant le coucher du soleil : d'abord San Miniato, puis descendez au Piazzale. Les deux sont gratuits.",
+          "rarity": "La vue la plus proche et la moins fréquentée du dôme de Brunelleschi",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=San+Miniato+al+Monte+Florence"
+        },
+        {
+          "name": "Ponte Vecchio — early morning",
+          "description": "Entre 7h30 et 8h30, avant l'ouverture des bijouteries, le pont est presque vide. À cette heure, vous pouvez vous y tenir, observer l'Arno et voir le Corridor de Vasari passer au-dessus. Notez l'espace ouvert au milieu du pont : laissé délibérément ouvert pour le buste et la vue sur l'Arno.",
+          "rarity": "Le pont sur l'Arno — avant l'ouverture des boutiques",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ponte+Vecchio+Florence"
+        }
+      ],
+      "callout": {
+        "label": "Marché Sant'Ambrogio — alternative au Mercato Centrale",
+        "text": "Dans le quartier de Santa Croce, sur la Piazza Sant'Ambrogio. Plus petit, moins touristique, plus local. Légumes frais, fruits, fromages, viandes. Petits stands de trattoria à l'intérieur — lampredotto ou plat du jour pour le déjeuner. Ouvert de 7h à 14h, fermé le dimanche. Beaucoup moins fréquenté que le Mercato Centrale et beaucoup plus authentique.",
+        "type": "tip"
+      },
+      "title": "Trésors Cachés"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Réservez vos billets pour les Offices à l'avance",
+          "sub": "Sur uffizi.it. Les files d'attente peuvent durer des heures. Choisissez la première entrée à 9h — le moment le moins fréquenté."
+        },
+        {
+          "label": "Goûtez un sandwich au lampredotto",
+          "sub": "Mercato Centrale ou Marché Sant'Ambrogio. 4-5 €. Demandez 'bagnato' — le dessus du pain trempé dans le bouillon. Mangez debout."
+        },
+        {
+          "label": "Traversez vers l'Oltrarno",
+          "sub": "Traversez le Ponte Vecchio. Asseyez-vous sur la Piazza Santo Spirito. Le quartier est le plus animé après 18h."
+        },
+        {
+          "label": "Visitez le Musée du Bargello",
+          "sub": "Via del Proconsolo. À 5 minutes des Offices. Le David de Donatello s'y trouve. Généralement sans file d'attente."
+        },
+        {
+          "label": "Trouvez une vraie glace artisanale",
+          "sub": "Récipients métalliques, couleurs naturelles, dessus plat ou légèrement concave. Gelateria dei Neri ou options dans l'Oltrarno. 1,50-2,50 € la boule."
+        },
+        {
+          "label": "Allez au Piazzale Michelangelo au coucher du soleil",
+          "sub": "Arrivez 45 minutes à l'avance. Bus 13 ou 20 minutes à pied depuis le Ponte Vecchio. Entrée gratuite."
+        },
+        {
+          "label": "Montez à San Miniato al Monte",
+          "sub": "Juste au-dessus du Piazzale Michelangelo, 10 minutes de plus. Basilique du XIe siècle. Gratuit. Beaucoup plus calme que le Piazzale."
+        },
+        {
+          "label": "Faites l'aperitivo — dans l'Oltrarno",
+          "sub": "De 18h à 20h. Santo Spirito ou Via San Niccolò. Negroni ou Spritz. Des amuse-gueules sont servis avec."
+        },
+        {
+          "label": "Allez au Mercato Centrale tôt le matin",
+          "sub": "Rez-de-chaussée — marché alimentaire. À partir de 7h. L'étage est touristique ; le rez-de-chaussée est local et authentique."
+        },
+        {
+          "label": "Traversez le Ponte Vecchio tôt le matin",
+          "sub": "De 7h30 à 8h30, quand les boutiques sont fermées. Le pont est presque vide. Vues sur l'Arno et le Corridor de Vasari visibles."
+        },
+        {
+          "label": "Goûtez un sandwich schiacciata",
+          "sub": "N'importe quelle boulangerie. Pain plat à l'huile d'olive, garni de prosciutto ou de fromage. 4-7 €. Idéal pour le déjeuner."
+        },
+        {
+          "label": "Partagez une bistecca",
+          "sub": "Minimum deux personnes. 45-60 € le kilo. 'Al sangue' — elle sera servie saignante. Trattoria Mario ou similaire."
+        }
+      ],
+      "title": "Check-list Florence",
+      "completion_message": "Vous avez vu Florence de vos propres yeux, pas seulement à travers une liste."
+    },
+    "traps": {
+      "title": "Déjouez les pièges",
+      "intro": "Florence est petite et très touristique ; ses pièges sont tout aussi fréquents. Connaissez ces quatre-là et visitez la Renaissance en toute tranquillité.",
+      "items": [
+        {
+          "icon": "🎟️",
+          "name": "Vendeurs de rue d''Uffizi sans file d'attente'",
+          "description": "Les vendeurs à la sauvette de 'coupe-file' autour du musée facturent plusieurs fois le prix du billet officiel ; certains billets s'avèrent invalides à l'entrée.",
+          "instead": "Achetez uniquement sur le site officiel, avec date et heure ; les heures les plus calmes sont le premier créneau et deux heures avant la fermeture."
+        },
+        {
+          "icon": "👜",
+          "name": "'Vrai cuir' sur les étals de San Lorenzo",
+          "description": "Tout ce qui est étiqueté 'vera pelle' n'est pas authentique ; les semelles collées et le cuir synthétique abondent sur les étals touristiques.",
+          "instead": "Pas besoin de test à la flamme : vérifiez les coutures et l'odeur, et achetez dans des ateliers comme la Scuola del Cuoio ou des boutiques établies de longue date."
+        },
+        {
+          "icon": "🥩",
+          "name": "'Bistecca à prix fixe' sur un menu photo",
+          "description": "La vraie bistecca alla fiorentina est vendue à l'etto (100 g) et servie saignante ; la promesse d'une bistecca 'par assiette' est une déception diluée.",
+          "instead": "Allez là où le prix est indiqué par etto et acceptez-la saignante ; en partager une à deux est la tradition même."
+        },
+        {
+          "icon": "🚌",
+          "name": "Arriver au Piazzale Michelangelo à l'heure des bus",
+          "description": "Une demi-heure avant le coucher du soleil, la terrasse se remplit de convois de bus ; la vue est magnifique, l'expérience est une bousculade.",
+          "instead": "Montez dix minutes de plus : les marches de San Miniato al Monte offrent la même vue, plus le chant des moines — et de l'espace pour respirer."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "Traversez le fleuve à Florence : dans l'Oltrarno, les prix baissent, l'artisanat est authentique et les Florentins s'attablent. Le centre touristique est la vitrine ; la ville est dans l'atelier."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Le dôme, David et une soirée à l'Oltrarno",
+          "steps": [
+            {
+              "time": "08:15",
+              "title": "Montez au dôme du Duomo",
+              "description": "Réservez le premier créneau des semaines à l'avance : 463 marches, le miracle de Brunelleschi et une vue méritée avant le petit-déjeuner."
+            },
+            {
+              "time": "10:30",
+              "title": "Les Offices — sélectivement",
+              "description": "Botticelli, Léonard, Caravage : visez trois salles et partez en deux heures. Ceux qui essaient de tout voir ne voient rien."
+            },
+            {
+              "time": "13:00",
+              "title": "Pause Lampredotto",
+              "description": "Lampredotto de Nerbone ou d'un chariot de rue : le classique ouvrier de Florence ; le courage récompensé par la saveur."
+            },
+            {
+              "time": "15:00",
+              "title": "Ponte Vecchio + ateliers de l'Oltrarno",
+              "description": "Traversez le pont, des vitrines des orfèvres aux rues artisanales : relieurs, menuisiers, restaurateurs."
+            },
+            {
+              "time": "18:00",
+              "title": "Coucher de soleil à San Miniato",
+              "description": "Montez à la basilique millénaire au-dessus du Piazzale ; tandis que la ville s'embrase d'or, les moines commencent leur chant."
+            },
+            {
+              "time": "20:30",
+              "title": "Soirée à Santo Spirito",
+              "description": "Apéritivo sur la place, puis bistecca ou ribollita : tables dans la rue, vie sur la piazza."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Les icônes",
+              "description": "Le parcours d'un jour ci-dessus : dôme, Offices, Oltrarno, San Miniato."
+            },
+            {
+              "time": "Day 2",
+              "title": "David et les Médicis",
+              "description": "David à l'Accademia le matin (premier créneau), puis l'escalier de Michel-Ange à la Bibliothèque Laurentienne, la cour du Bargello l'après-midi, une trattoria autour de San Lorenzo le soir."
+            },
+            {
+              "time": "Day 3",
+              "title": "Florence lente et au revoir",
+              "description": "Les jardins de Boboli ou Bardini le matin, déjeuner avec les locaux au marché de Sant'Ambrogio, café avec vue sur le dôme depuis la terrasse des Oblates, et une dernière glace – la vraie."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Le trio de courtoisie italien plus deux touches florentines ; ces cinq mots ouvrent toutes les portes.",
+      "items": [
+        {
+          "word": "Buongiorno",
+          "pronunciation": "bwon-JOR-noh",
+          "meaning": "Bonjour — obligatoire en entrant dans un magasin"
+        },
+        {
+          "word": "Grazie",
+          "pronunciation": "GRAH-tsyeh",
+          "meaning": "Merci — court, clair, toujours"
+        },
+        {
+          "word": "Per favore",
+          "pronunciation": "pehr fah-VOH-reh",
+          "meaning": "S'il vous plaît — ajoutez-le à la fin de votre commande"
+        },
+        {
+          "word": "Salute!",
+          "pronunciation": "sah-LOO-teh",
+          "meaning": "Santé ! — Les verres de Chianti se lèvent à cela"
+        },
+        {
+          "word": "Che bello!",
+          "pronunciation": "keh BEL-loh",
+          "meaning": "Comme c'est beau ! — la phrase dont vous aurez besoin dix fois par jour à Florence"
+        }
+      ]
+    }
+  }
+}

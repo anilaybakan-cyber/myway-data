@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Los Angeles",
+    "country": "USA",
+    "language": "de",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#E0653A",
+    "color_light": "#FCEBE3",
+    "tagline": "Die endlose Stadt der Palmen, des goldenen Abendlichts und der Taco-Trucks"
+  },
+  "pills": [
+    "Die Welthauptstadt des Kinos",
+    "Eine Megastadt mit hundert Vierteln",
+    "Ozean, Berg und Wüste an einem Tag"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Los Angeles",
+      "intro": "Los Angeles ist nicht eine Stadt, sondern hundert Städte, die mit Palmen aneinandergereiht sind: Venedigs Kanäle, Hollywoods Hügel, Downtowns Art-déco-Türme und K-Towns Late-Night-Grills bilden separate Welten auf einer Karte. Das Licht ist hier der Star – die Filmindustrie zog wegen dieser goldenen Stunde hierher und ist nie wieder gegangen. Ruhm ist das Schaufenster, aber das Herz der Stadt schlägt in der Schlange am Taco-Truck, auf dem Griffith-Pfad bei Sonnenuntergang und in der Welle, die auf den Strand trifft. Um LA zu lieben, hör auf, nach Berühmtheiten zu suchen; schau auf das Licht und den Tisch.",
+      "local_word": {
+        "word": "Goldene Stunde",
+        "pronunciation": "GOHL-den OW-er",
+        "definition": "Die Stunde des goldenen Lichts vor Sonnenuntergang: LAs heilige Zeitzone. Filmemacher ließen sich wegen dieses Lichts in der Stadt nieder, Fotografen planen ihren Tag danach, und alle am Strand werden still, wenn sie kommt. Wenn du in LA planst, entscheide zuerst, wo du zur goldenen Stunde sein wirst – alles andere ordnet sich darum herum an."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Plane LA niemals als eine Stadt",
+          "description": "Der Plan 'morgens Venedig, mittags Hollywood, abends Downtown' schmilzt im Verkehr: Die Entfernungen und 'der 405-Faktor' sind real. Wähle eine Zone pro Tag – einen Strandtag, einen Hügeltag, einen Downtown-Tag – und bleibe darin. Wer LA liebt, liebt es Zone für Zone."
+        },
+        {
+          "number": 2,
+          "title": "Akzeptiere die Verkehrs-Mathematik",
+          "description": "Von 15:30 bis 19:00 Uhr ist die Autobahn ein Wartezimmer in Bewegung: Bleibe in diesen Stunden in dem Viertel, in dem du dich befindest. Die Metro funktioniert besser als ihr Ruf (Downtown-, Hollywood-, Santa-Monica-Linien) – aber LAs wahrer öffentlicher Nahverkehr ist Geduld und ein Podcast."
+        },
+        {
+          "number": 3,
+          "title": "Vertraue den Pfaden und den Tacos, nicht dem Sternen-Bürgersteig",
+          "description": "Der Walk of Fame ist ein Fünf-Minuten-Blick; LAs wahre Magie lebt auf Griffiths Pfaden, in der Schlange am Taco-Truck und an den Klippen des Ozeans. Verlagere deine Erwartung vom Schaufenster zum Licht – dann öffnet sich die Stadt."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "LAX",
+          "sub": "30–60 Min. zur Stadt – je nach Verkehr"
+        },
+        {
+          "icon": "🎬",
+          "label": "Markenzeichen",
+          "value": "Hollywood + der Ozean",
+          "sub": "Studios und 120 km Küste"
+        },
+        {
+          "icon": "💵",
+          "label": "Währung",
+          "value": "Dollar (USD)",
+          "sub": "Karten überall, Trinkgeld 18–20%"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Englisch + Spanisch",
+          "sub": "Eine Megacity mit 224 Sprachen"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Die LA-Philosophie",
+        "text": "Es gibt hier kein Ziel namens 'alles sehen'; es gibt 'einen schönen Tag haben': einen Strand, einen Pfad, einen Taco, einen Sonnenuntergang. Vier Dinge am Tag sind genug – das fünfte geht im Verkehr verloren. Keine Sorge: Morgen ist auch sonnig."
+      }
+    },
+    "transport": {
+      "title": "Fortbewegung",
+      "intro": "LA ist eine Autobahn-Zivilisation: Das Auto ist die Basis, die Metro ein überraschender Helfer und der Strandradweg die schönste Linie.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Ankunft vom LAX",
+          "description": "LAX ist chaotisch, aber die Lösung ist einfach: die Abholzone für Fahrdienste (LAX-it) oder die FlyAway-Busse. Das Zentrum ist bei Verkehr 30–60 Minuten entfernt – wenn Sie zwischen 16:00 und 19:00 Uhr landen, packen Sie Geduld ein."
+        },
+        {
+          "icon": "🚇",
+          "title": "Wo die Metro funktioniert",
+          "description": "Die B-Linie verbindet Downtown mit Hollywood, die E-Linie Downtown mit Santa Monica: Auf diesen beiden Korridoren schlägt die Metro das Auto. Fahren Sie mit einer TAP-Karte – an Spiel- und Konzerttagen ist die Bahn die geheime Superkraft."
+        },
+        {
+          "icon": "🚗",
+          "title": "Das Auto und die Sprache der Freeways",
+          "description": "In LA bekommen die Freeways ein 'the': the 405, the 101, the 10. Navigation ist unerlässlich und die Spurdisziplin locker. Lesen Sie Parkschilder bis zur letzten Zeile – der Strafzettel in LA ist die versteckte Steuer der Stadt."
+        },
+        {
+          "icon": "🚲",
+          "title": "Der Strandradweg",
+          "description": "The Strand: 35 Kilometer Küstenradweg von Santa Monica nach Redondo. Der Abschnitt Venedig–Santa Monica ist der Klassiker – mieten Sie morgens ein Rad und treten Sie am Ozean entlang. Das ist LAs bester 'Freeway'."
+        },
+        {
+          "icon": "🥾",
+          "title": "Das Wanderwegenetz",
+          "description": "Vom Griffith Park bis zum Runyon Canyon ist die Stadt mit Wegen durchzogen: Observatoriumsrouten, Aussichtspunkte zum Hollywood Sign und Canyon-Wanderungen. Eine Wasserflasche und Sonnencreme sind die offizielle Ausrüstung einer LA-Wanderung."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tipp zur Goldenen Stunde",
+        "text": "Die wichtigste Transportentscheidung des Tages ist diese: Wo werden Sie zur Goldenen Stunde sein? Griffith Observatory, die Klippen von El Matador oder der Venice Pier – seien Sie bis 16:00 Uhr in dieser Zone und erledigen Sie den Verkehr vor dem Licht. Der Sonnenuntergang ist ein Termin in LA; man kommt nicht zu spät."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "In LA ist die Wahl des Viertels die Wahl des Urlaubs: die Lässigkeit der Küste, die Aussicht der Hügel, die Begehbarkeit von Downtown oder der Café-Rhythmus der Eastside.",
+      "local_word": {
+        "word": "Die Westside",
+        "pronunciation": "thuh WEST-syd",
+        "definition": "Der Sammelname für Santa Monica, Venice und ihre Umgebung: das vom Meer umwehte, Yoga-matte, Smoothie-bechernde LA. Die Eastside ist eine andere Welt – Vintage-Läden, Kaffeeröstereien, ein jüngerer Puls. Angelenos definieren sich über diese beiden Seiten – der Witz, dass 'ein Westsider die Stadt nicht durchquert', ist nur ein halber Witz."
+      },
+      "items": [
+        {
+          "name": "Santa Monica",
+          "badge": "Küstenklassiker",
+          "badge_type": "hot",
+          "description": "Der Pier, der Strandradweg und begehbare Straßen: LAs praktischste Basis am Meer. Durch die E-Linie mit Downtown verbunden – die einzig realistische Adresse für einen autofreien LA-Plan.",
+          "tags": [
+            "Am Pier",
+            "Begehbar",
+            "An der Metro"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Monica"
+        },
+        {
+          "name": "Venice",
+          "badge": "Boho-Küste",
+          "badge_type": "vibe",
+          "description": "Die Kanäle, Abbot Kinneys Boutiquen und das Chaos des Boardwalks: LAs freigeistige Ecke. Surfer-Morgen, Straßenkünstler-Abende – für den Charakter-Suchenden.",
+          "tags": [
+            "Kanalspaziergänge",
+            "Abbot Kinney",
+            "Surfmorgen"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Venice+Beach+Los+Angeles"
+        },
+        {
+          "name": "Hollywood and WeHo",
+          "badge": "Nachtrhythmus",
+          "badge_type": "hot",
+          "description": "Nah an den Studios, den Comedy-Clubs und dem Sunset Strip: die Basis für einen Besuch, bei dem das Nachtleben im Vordergrund steht. Stellen Sie sich auf Touristenlärm ein – der Lohn sind Lage und Energie.",
+          "tags": [
+            "Sunset Strip",
+            "Comedy-Clubs",
+            "Nah an den Studios"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=West+Hollywood"
+        },
+        {
+          "name": "Downtown (DTLA)",
+          "badge": "Begehbares Zentrum",
+          "badge_type": "value",
+          "description": "Art-déco-Türme, Grand Central Market und Museen: LAs begehbarstes Viertel. Der Metro-Knotenpunkt – eine clevere Basis für den autofreien Reisenden und den Architekturliebhaber.",
+          "tags": [
+            "Art déco",
+            "Am Markt",
+            "Metro-Knotenpunkt"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Downtown+Los+Angeles"
+        },
+        {
+          "name": "Silver Lake and Los Feliz",
+          "badge": "Eastside-Seele",
+          "badge_type": "local",
+          "description": "Kaffeeröstereien, Plattenläden und die Griffith-Pfade direkt nebenan: der Café-Rhythmus des lokalen LA. Hügel- und Stausee-Spaziergänge vor der Haustür – für diejenigen, die das Leben suchen, nicht die Inszenierung.",
+          "tags": [
+            "Kaffeeszene",
+            "Am Griffith Park",
+            "Vintage-Läden"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Silver+Lake+Los+Angeles"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Wann reisen",
+      "intro": "Das Wetter in LA ist ein Witz mit einem Haken: Man nimmt an, es sei immer sonnig, doch es hat seine eigenen Launen – grauer Juni, Oktoberhitze – und jede Jahreszeit funktioniert, wenn man die Details kennt.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Blüte und Klarheit",
+          "months": "Mär – Mai",
+          "subtitle": "Frühling · Lila Jacarandas, grüne Hügel",
+          "description": "Winterregen haben die Hügel ergrünt, und im Mai färben die Jacarandas die Straßen lila. Die Luft ist klar, die Wanderwege frisch – LAs fotogenste und ausgewogenste Jahreszeit.",
+          "callout": {
+            "type": "tip",
+            "label": "Mai-Tipp",
+            "text": "Machen Sie Ende Mai eine Jacaranda-Tour: Der Del Mar Boulevard und die Straßen der Eastside werden zu lila Tunneln. Eine Griffith-Wanderung am Morgen plus lila Straßen am Nachmittag – die ideale Formel eines LA-Frühlings."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Vom Juni-Grau zum Goldenen Sommer",
+          "months": "Jun – Aug",
+          "subtitle": "Sommer · Graue Morgen, sonnige Mittage, Strandabende",
+          "description": "Juni-Morgen an der Küste sind grau – die Legende des 'June Gloom' ist real; er löst sich bis zum Mittag auf. Juli und August sind Hochsaison am Strand: 24°C an der Küste, 35°C im Tal. Zwei Klimazonen an einem Tag – das ist die Verlockung des LA-Sommers.",
+          "callout": {
+            "type": "warning",
+            "label": "Hinweis zum Grau",
+            "text": "Lassen Sie sich nicht von einem grauen Juni-Morgenhimmel am Strand überraschen: Planen Sie das Schwimmen für den Nachmittag und widmen Sie den Morgen einem Museum oder Frühstück. Die Küste kann kühl sein – in LA kleidet man sich selbst für den Strand in Schichten."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Der Sommer der Einheimischen",
+          "months": "Sep – Nov",
+          "subtitle": "Herbst · Wärmstes Meer, klarste Sonnenuntergänge",
+          "description": "September und Oktober sind LAs heimliche Hochsaison: Das Meer am wärmsten, der Himmel klar, die Menschenmassen verschwunden. Santa-Ana-Winde bringen Perioden trockener Hitze – dies ist die Jahreszeit, die Einheimische den wahren Sommer nennen.",
+          "callout": {
+            "type": "tip",
+            "label": "Oktober-Tipp",
+            "text": "Verbringen Sie Anfang Oktober einen späten Nachmittag am El Matador: Die Klippenschatten dehnen sich, das Wasser lädt noch ein, und die goldene Stunde explodiert. Die Sommer-Touristen sind weg – die LA-Küste ist in diesen Wochen am schönsten."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Grüne Hügel und Schneekulissen",
+          "months": "Dez – Feb",
+          "subtitle": "Winter · Milde Tage, Regenpausen, schneebedeckte Bergkulisse",
+          "description": "LA-Winter bedeutet sonnige 18°C Tage: Regen kommt ab und zu, die Hügel werden grün, die Luft wird gereinigt. In der Klarheit nach dem Regen setzen sich die schneebedeckten San Gabriels hinter der Skyline ab – das beste fotografische Licht des Jahres.",
+          "callout": {
+            "type": "tip",
+            "label": "Januar-Tipp",
+            "text": "Gehen Sie am Morgen nach dem Regen zum Griffith Observatory: schneebedeckte Berge, der Ozean und die Skyline in einem Bild – LAs seltenster Ausblick. Der Winter ist auch Museums- und Disney-Hall-Saison; ein Cardigan wärmt an den Abenden."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Die kulinarische Szene L.A.s reicht vom Imbisswagen bis zum Sternerestaurant, doch ihr Herz schlägt an einem Ort: in einer Tortilla, mit Fleisch direkt vom Feuer und einem Limettenschnitz.",
+      "local_word": {
+        "word": "Al pastor",
+        "pronunciation": "al pahs-TOR",
+        "definition": "In Achiote mariniertes Schweinefleisch, das am vertikalen Spieß, Shawarma-Stil, gegart wird: die Taco-Füllung, die mexikanische Meister von libanesischen Einwanderern lernten und perfektionierten. Ein Ananasstück fällt vom Spieß darauf – der charakteristische Geschmack der L.A. Taco-Kultur. Am Imbisswagen sagt man 'al pastor, con todo': Zwiebeln, Koriander und Salsa inklusive."
+      },
+      "items": [
+        {
+          "icon": "🌮",
+          "name": "Das Taco-Truck-Ritual",
+          "description": "Ein leuchtender Imbisswagen an einer nächtlichen Ecke, Teller in der Hand, im Stehen gegessen: Al Pastor, Carne Asada und Limette. In L.A. ist der Taco keine Mahlzeit, sondern die gemeinsame Sprache der Stadt – der Truck mit der Schlange ist immer der richtige Truck.",
+          "tag": "Die gemeinsame Sprache · Schlange = Wahrheit",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=taco+truck+al+pastor+Los+Angeles"
+        },
+        {
+          "icon": "🍔",
+          "name": "In-N-Out und 'Animal Style'",
+          "description": "Kaliforniens Kult-Burgerkette: kurze Speisekarte, lange Geheimkarte. Nennen Sie das Codewort 'animal style' (gegrillte Zwiebeln, extra Sauce) – und gehen Sie als Insider, nicht als Tourist.",
+          "tag": "Kultklassiker · Animal Style",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=In-N-Out+Los+Angeles"
+        },
+        {
+          "icon": "🥩",
+          "name": "Korean BBQ in K-Town",
+          "description": "In Koreatown brennen die Holzkohletische bis spät in die Nacht: die Banchan-Armee, marinierte Fleischsorten und eine unersättliche Atmosphäre. Amerikas beste koreanische Küche außerhalb Seouls lebt hier.",
+          "tag": "Nachtklassiker · Holzkohletische",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Korean+BBQ+Koreatown+Los+Angeles"
+        },
+        {
+          "icon": "🏛️",
+          "name": "Ein Streifzug durch den Grand Central Market",
+          "description": "Der Downtown-Markt, geöffnet seit 1917: von Taco-Ständen bis zu Third-Wave-Kaffee, von Pupusas bis zu Pastrami. Mischen Sie sich unter die Mittagsgäste – L.A.s Küche unter einem Dach zusammengefasst.",
+          "tag": "Seit 1917 · alles unter einem Dach",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grand+Central+Market+Los+Angeles"
+        },
+        {
+          "icon": "🥑",
+          "name": "Der kalifornische Brunch",
+          "description": "Avocado-Toast, Açaí-Bowls und Cold Brew: Es sieht aus wie ein Klischee, bis man es auf einer sonnigen Terrasse isst. Der L.A. Brunch ist keine Mahlzeit, sondern eine Wochenend-Liturgie – seien Sie bereit, Schlange zu stehen.",
+          "tag": "Terrassen-Liturgie · Wochenenden",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=brunch+Los+Angeles"
+        },
+        {
+          "icon": "🐟",
+          "name": "Fisch-Tacos im Baja-Stil",
+          "description": "Knusprig panierter Fisch, Kraut, Crema und Limette: Baja Californias Geschenk an die Küste L.A.s. Die unbestrittene Antwort auf ein Mittagessen am Strand – eine Michelada dazu ist für die Mutigen.",
+          "tag": "Strandklassiker · mit Limette",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=fish+tacos+Los+Angeles"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tischregel",
+        "text": "In L.A. folgt gutes Essen der Schlange, nicht dem Ruhm: Das Sternerestaurant verlangt eine Reservierung, der Taco-Truck Geduld – beides lohnt sich. Essen Sie in den ethnischen Vierteln (K-Town, Boyle Heights, Thai Town, Little Ethiopia): Dort lebt die wahre Essenskarte der Stadt."
+      }
+    },
+    "hidden_gems": {
+      "title": "Versteckte Ecken",
+      "intro": "Jeder kennt das Hollywood Sign; diese sechs sind L.A.s klippenumsäumtes, nach Büchern duftendes, verstecktes Gesicht.",
+      "items": [
+        {
+          "rarity": "Der Strand, den die Klippen verbergen",
+          "name": "El Matador Beach",
+          "description": "Malibus felsige Bucht: Über eine Klippentreppe gelangt man zu riesigen Felsen und Höhlenbögen, die bei Sonnenuntergang zu Silhouetten werden. L.A.s filmreifster Strand – zur goldenen Stunde gibt es keinen besseren Ort.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Matador+Beach+Malibu"
+        },
+        {
+          "rarity": "Ein kostenloser Palast auf dem Hügel",
+          "name": "The Getty Center",
+          "description": "Der weiße Marmor-Kunstkomplex, erreichbar mit der Tram: die Sammlung kostenlos, die Gärten skulptural, die Aussicht bis zum Ozean. Planen Sie einen halben Tag ein – L.A.s großzügigstes Geschenk.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Getty+Center+Los+Angeles"
+        },
+        {
+          "rarity": "Eine Art-déco-Zeitkapsel",
+          "name": "The Bradbury Building and the Last Bookstore",
+          "description": "Das schmiedeeiserne Lichtatrium von 1893 (bekannt aus Blade Runner) und, zwei Blocks entfernt, die Bücher-Tunnel des Last Bookstore: DTLA's fotogenstes Duo. Sie passen perfekt in einen Nachmittag.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bradbury+Building+Los+Angeles"
+        },
+        {
+          "rarity": "Die stillen Kanäle",
+          "name": "The Venice Canals",
+          "description": "Zwei Straßen vom Chaos der Promenade entfernt, Kanäle aus dem Jahr 1905: Enten, Holzbrücken und Häuser mit Gärten. Spazieren Sie bei Sonnenuntergang – der Traum, nach dem Venedig benannt wurde, lebt hier noch.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Venice+Canals"
+        },
+        {
+          "rarity": "Der Hinterweg zum Schild",
+          "name": "Griffith's back trails",
+          "description": "Touristen sehen das Hollywood Sign von vorne; Sie wandern auf den Hinterwegen des Griffith Parks (den Routen Charlie Turner oder Wonder View) – Schild, Observatorium und Stadt in einem Bild, die Hälfte der Menschenmenge.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Griffith+Park+trails"
+        },
+        {
+          "rarity": "Ein Kunst-Picknick auf dem Hügel",
+          "name": "Barnsdall Art Park",
+          "description": "Der Hügelpark rund um Frank Lloyd Wrights Hollyhock House: Picknicks bei Sonnenuntergang unter Olivenbäumen, sommerliche Weinabende. Das lokale Geheimnis von Los Feliz – die ruhigste Wiese mit Hollywood-Blick.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Barnsdall+Art+Park+Los+Angeles"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Lichtstrategie",
+        "text": "L.A.s versteckte Ecken leben vom Licht: das Getty mittags, die Kanäle am späten Nachmittag, El Matador zur goldenen Stunde, das Observatorium nachts. Derselbe Ort ist im falschen Licht gewöhnlich und im richtigen unvergesslich – in dieser Stadt zählt die Stunde mehr als die Adresse."
+      }
+    },
+    "traps": {
+      "title": "Touristenfallen",
+      "intro": "L.A.s Fallen lauern im Schatten des Ruhms; kennen Sie diese vier und erleben Sie die Stadt in ihrem wahren Licht, nicht nur durch ihr Schaufenster.",
+      "items": [
+        {
+          "icon": "⭐",
+          "name": "Erwartungen an den Walk of Fame",
+          "description": "Der sternenbesetzte Bürgersteig ist überfüllt, laut und schlichter als vorgestellt; die kostümierten Figuren verlangen Geld nach dem Foto.",
+          "instead": "Schauen Sie fünf Minuten, machen Sie das Foto, gehen Sie weiter – und wissen Sie, dass das Kostümfoto Geld kostet, bevor Sie posieren. Erleben Sie das echte Hollywood bei einer Studiotour (Warner Bros) oder bei einem Film im El Capitan."
+        },
+        {
+          "icon": "🚌",
+          "name": "Vans für Promi-Haus-Touren",
+          "description": "Touren zu 'Promi-Häusern' sind meist ein teures Verkehrserlebnis, das an hohen Hecken und erratenen Adressen vorbeiführt.",
+          "instead": "Geben Sie dieses Geld für die Warner Bros Studiotour oder das Getty aus: Das Kino selbst ist interessanter als die Hecke eines Prominenten. Für Neugierde auf die Nachbarschaft ist eine Fahrt durch Beverly Hills im eigenen Auto kostenlos."
+        },
+        {
+          "icon": "🚗",
+          "name": "Die Verkehrsmathematik ignorieren",
+          "description": "'Venedig nach Hollywood, 25 Minuten' sagt die Karte; um 17:00 Uhr sind es in Wahrheit 80. Der Besucher, der quer durch die Stadt plant, sieht L.A. durch eine Windschutzscheibe.",
+          "instead": "Halten Sie sich an die 'eine Zone pro Tag'-Regel; überqueren Sie die Stadt zwischen 10:00 und 15:00 Uhr. Planen Sie den Abend dort, wo Sie bereits sind – die 'goldene Stunde' auf einem Freeway zu erleben, ist L.A.s klassischstes Bedauern."
+        },
+        {
+          "icon": "🅿️",
+          "name": "Das Parkschild nicht lesen",
+          "description": "L.A.s Parkschilder sind vielschichtige Rechtsdokumente: Falsches Lesen kostet ein Ticket oder das Abschleppen, und Strandparkplätze vervielfachen die Preise an Veranstaltungstagen.",
+          "instead": "Lesen Sie JEDE Zeile des Schildes; wenn Sie unsicher sind, nutzen Sie ein in der App gelistetes Parkhaus. An Strandtagen fahren Sie früh hin oder gehen ein paar Blocks von einer Wohnstraße – ein Tag ohne Strafzettel ist ein gewonnener Tag in L.A."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Goldene Regel",
+        "text": "In L.A. sind die besten Dinge entweder kostenlos oder mit Wartezeit verbunden: Der Strand, der Wanderweg und die goldene Stunde kosten nichts; der Taco und der Brunch kosten eine Warteschlange. Bezahlen Sie für Licht und Essen, nicht für Ruhm – die Stadt wird Ihnen mehr als nur Sterne zeigen."
+      }
+    },
+    "itinerary": {
+      "title": "Vorgefertigte Reiserouten",
+      "intro": "Wenn Sie das Planen hassen, folgen Sie diesen Vorschlägen. Die Zeiten sind flexibel; halten Sie sich an die Stimmung, aber nicht an die starre Abfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Vom Strandmorgen zur Sternwarten-Nacht",
+          "steps": [
+            {
+              "time": "08:00",
+              "title": "Morgen in Venice",
+              "description": "Beobachten Sie die Surfer, während die Promenade erwacht, und biegen Sie dann in die Kanäle ein: die zwei Gesichter von Venice in morgendlicher Ruhe."
+            },
+            {
+              "time": "10:00",
+              "title": "Die Strand-Fahrradtour",
+              "description": "Fahren Sie den Strand entlang nach Santa Monica: Meer links, Palmen rechts. Das Riesenrad-Foto am Pier ist der Klassiker."
+            },
+            {
+              "time": "12:30",
+              "title": "Fisch-Taco-Mittagessen",
+              "description": "Knusprige Fisch-Tacos im Baja-Stil mit Limette und Krautsalat: das unbestrittene Mittagessen am Strandtag."
+            },
+            {
+              "time": "14:30",
+              "title": "Stunden in DTLA",
+              "description": "Fahren Sie mit der E-Linie nach Downtown: das lichtdurchflutete Atrium des Bradbury, die Tunnel der Last Bookstore und ein Kaffee im Grand Central Market."
+            },
+            {
+              "time": "17:30",
+              "title": "Goldene Stunde am Griffith Observatory",
+              "description": "Erreichen Sie das Observatorium vor Sonnenuntergang: Die Stadt färbt sich orange, mit dem Hollywood Sign daneben. Dies ist L.A.s magische Stunde."
+            },
+            {
+              "time": "20:30",
+              "title": "Taco-Truck-Nacht",
+              "description": "Halten Sie auf dem Heimweg am leuchtenden Truck: al pastor 'mit allem'. Stehend, Teller in der Hand – so endet ein Tag in L.A."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Küste, Hügel und hundert Viertel – das volle L.A.",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Klassisches L.A.",
+              "description": "Der 1-Tages-Ablauf von oben: Venice, The Strand, Fisch-Tacos, DTLA, goldene Stunde am Griffith, ein Taco-Truck."
+            },
+            {
+              "time": "Day 2",
+              "title": "Malibu und Getty-Tag",
+              "description": "Kunst und Gärten im Getty am Morgen; die Fahrt auf dem PCH nach Malibu am Mittag; Schwimmen und Höhlen-Erkundung am El Matador am Nachmittag; goldene Stunde am Strand und ein Meeresfrüchte-Abendessen in einer Küstenstadt."
+            },
+            {
+              "time": "Day 3",
+              "title": "Hügel und die Eastside",
+              "description": "Runyon oder ein versteckter Griffith-Pfad am Morgen; eine Kaffee- und Plattenladen-Tour in Los Feliz–Silver Lake am Mittag; das Wright-Haus auf Barnsdalls Hügel am Nachmittag; eine Abschieds-Korean-BBQ-Nacht in K-Town – ein langer Ausklang am Holzkohletisch."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Überlebenskit mit 5 Wörtern",
+      "intro": "Das Englisch in LA ist entspannt, sonnig und vom Freeway-Jargon geprägt; diese fünf Phrasen stimmen Sie auf die Frequenz der Stadt ein.",
+      "items": [
+        {
+          "word": "The 405",
+          "pronunciation": "thuh four-oh-FIVE",
+          "meaning": "Freeways werden mit 'the' verwendet — 'the 405 was brutal' ist der universelle Gesprächsbeginn in LA."
+        },
+        {
+          "word": "June Gloom",
+          "pronunciation": "joon gloom",
+          "meaning": "Die graue Küstenwolke an Juni-Morgen — löst sich bis zum Mittag auf; Einheimische zucken nicht mit der Wimper."
+        },
+        {
+          "word": "SigAlert",
+          "pronunciation": "SIG-uh-lert",
+          "meaning": "Der Alarm für einen großen Stau — ändern Sie Ihre Route, wenn Sie ihn im Radio hören."
+        },
+        {
+          "word": "Dude",
+          "pronunciation": "dood",
+          "meaning": "Anrede, Ausruf, Satzzeichen — das Allzweck-Salz der LA-Sätze."
+        },
+        {
+          "word": "No worries",
+          "pronunciation": "noh WUR-eez",
+          "meaning": "Alles ist in Ordnung — das offizielle Siegel der kalifornischen Gelassenheit; großzügig verwenden."
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Los Angeles Checkliste",
+      "completion_message": "Keine Sorge, Kumpel! Du hast die endlose Stadt so erlebt, wie sie es verdient!",
+      "items": [
+        {
+          "label": "Die goldene Stunde vom Griffith Observatory aus beobachten",
+          "sub": "Die Terrasse des Observatoriums – wenn die Stadt orange leuchtet"
+        },
+        {
+          "label": "Al Pastor an einem Taco-Truck essen",
+          "sub": "'Mit allem' – im Stehen, nachts"
+        },
+        {
+          "label": "Den Strand am Meer entlang radeln",
+          "sub": "Der klassische Abschnitt Venedig–Santa Monica"
+        },
+        {
+          "label": "Die Klippen von El Matador hinabsteigen",
+          "sub": "Malibus filmreife Bucht"
+        },
+        {
+          "label": "Sich in den Gärten des Getty Centers verlieren",
+          "sub": "Kostenlose Sammlung, Meerblick"
+        },
+        {
+          "label": "Bei Sonnenuntergang durch die Kanäle von Venice spazieren",
+          "sub": "Zwei Straßen vom Boardwalk entfernt"
+        },
+        {
+          "label": "Animal Style bei In-N-Out bestellen",
+          "sub": "Das Passwort des geheimen Menüs"
+        },
+        {
+          "label": "Das Lichtatrium des Bradbury Buildings betreten",
+          "sub": "1893 – Blade Runners Treppenhäuser"
+        },
+        {
+          "label": "Einen Abend an einem K-Town Holzkohletisch verbringen",
+          "sub": "Die Banchan-Armee und marinierte Fleischsorten"
+        },
+        {
+          "label": "Einen Lunch-Crawl im Grand Central Market machen",
+          "sub": "Seit 1917 – LAs Küche unter einem Dach"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Strasbourg",
+    "country": "France",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#A85B42",
+    "color_light": "#F8EDE8",
+    "tagline": "Capitale de l'Europe, patrie de Noël, une ville aux deux cultures"
+  },
+  "pills": [
+    "La cathédrale mesure 142 m — autrefois la plus haute du monde",
+    "Les canaux de la Petite France",
+    "La capitale cycliste de la France"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Strasbourg",
+      "intro": "Strasbourg se situe à la croisée de deux mondes et les absorbe tous les deux : le matin, vous achetez un croissant dans une boulangerie française et à midi, vous dégustez une choucroute avec un appétit allemand. Quiconque voit la cathédrale gothique s'arrête un instant ; les maisons à colombages de la Petite France, quant à elles, répondent à vos attentes de conte de fées. Ajoutez les palais de verre du Parlement européen et vous obtenez une ville difficile à décrire et facile à explorer.",
+      "local_word": {
+        "word": "Stub",
+        "pronunciation": "shtoob",
+        "definition": "Alsacien pour 'pièce, salon' : la racine de winstub (salon de vin). Boiseries, poêle en faïence et inconnus partageant votre table — la stub est l'unité architecturale de la chaleur strasbourgeoise."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Ne manquez pas l'horloge de la cathédrale",
+          "description": "Les apôtres de l'horloge astronomique défilent tous les jours à 12h30 ; soyez à l'intérieur avant midi pour le court spectacle. Les 332 marches de la tour étendent la plaine alsacienne jusqu'à la Forêt-Noire — montez le matin tant que la file d'attente est courte."
+        },
+        {
+          "number": 2,
+          "title": "Pensez la ville à vélo",
+          "description": "Strasbourg est la ville la plus cyclable de France : 600 km de pistes, terrain plat, locations Vélhop à chaque coin de rue. Avec deux roues, le Quartier Européen et l'Orangerie sont à distance de pédalage — pas de marche."
+        },
+        {
+          "number": 3,
+          "title": "Décembre se planifie à part",
+          "description": "Le Christkindelsmärik, organisé depuis 1570, est le plus ancien marché de Noël de France ; en décembre, la ville se transforme. Réservez hôtel et train des mois à l'avance pour cette saison."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚄",
+          "label": "S'y rendre",
+          "value": "TGV de Paris 1h46",
+          "sub": "Colmar 30 min · Allemagne en tram"
+        },
+        {
+          "icon": "🚋",
+          "label": "En ville",
+          "value": "Tram + vélo",
+          "sub": "Centre piéton, vaste réseau de tram"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Français",
+          "sub": "Allemand répandu, alsacien vivant dans la rue"
+        },
+        {
+          "icon": "🎄",
+          "label": "Signature",
+          "value": "Capitale de Noël",
+          "sub": "Christkindelsmärik depuis 1570"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie strasbourgeoise",
+        "text": "Cette ville a vécu des deux côtés de la frontière et a pardonné aux deux ; son identité n'est pas 'soit l'un, soit l'autre' mais 'les deux à la fois'. Ne choisissez pas : bretzel à midi, croissant au crépuscule — c'est la manière strasbourgeoise."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "L'île centrale se parcourt à pied, le reste est tissé par le tram ; le vélo est la langue maternelle de la ville.",
+      "items": [
+        {
+          "icon": "🚄",
+          "title": "Arrivée — en TGV",
+          "description": "1 heure 46 minutes de Paris ; la gare est à 10 minutes à pied de la Grande Île. Colmar 30, Bâle 80 minutes — le camp de base naturel pour un voyage en Alsace."
+        },
+        {
+          "icon": "🚋",
+          "title": "Le réseau de tramway",
+          "description": "Six lignes modernes tissent la ville et ses banlieues ; la ligne D traverse le Rhin jusqu'à la ville allemande de Kehl — changer de pays en tram est un plaisir propre à Strasbourg."
+        },
+        {
+          "icon": "🚲",
+          "title": "Vélhop, les vélos",
+          "description": "Dans la capitale française du vélo, le réseau de location est dense et bon marché ; les itinéraires le long des canaux et le Quartier Européen sont les plus agréables à parcourir à vélo."
+        },
+        {
+          "icon": "🚶",
+          "title": "La Grande Île à pied",
+          "description": "L'île centrale, classée à l'UNESCO, se parcourt d'un bout à l'autre en 25 minutes : cathédrale, Petite France et les quais se découvrent en une seule promenade."
+        },
+        {
+          "icon": "⛴️",
+          "title": "La visite en bateau Batorama",
+          "description": "La boucle classique de 70 minutes des canaux au Parlement Européen ; voir la ville depuis l'eau en vaut la peine, surtout à la lumière du soir."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil Kehl",
+        "text": "Traversez en Allemagne en 20 minutes avec le tram D, faites vos emplettes au marché de Kehl et traversez la passerelle reliant les deux pays au Jardin des Deux Rives. Personne ne vous demandera de passeport, et vous aurez une histoire à raconter."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Strasbourg, la question est : voulez-vous dormir au cœur du conte de fées, ou à quelques pas de celui-ci ?",
+      "local_word": {
+        "word": "Kammerzell",
+        "pronunciation": "KAH-mer-tsel",
+        "definition": "La célèbre maison à colombages sculptée de 1427 sur la place de la Cathédrale : l'emblème spirituel de l'hébergement strasbourgeois. Même si vous n'y dormez pas, levez la tête chaque fois que vous passez devant."
+      },
+      "items": [
+        {
+          "name": "Grande Île — autour de la cathédrale",
+          "badge": "Le plus central",
+          "badge_type": "value",
+          "description": "Le cœur de l'île UNESCO : réveillez-vous à l'ombre de la cathédrale et marchez partout. Animé autour de la place le jour, mais la nuit la ville est à vous ; en décembre, la magie y est doublée.",
+          "tags": [
+            "Cathédrale à la porte",
+            "Tout à pied",
+            "Marché de Noël devant"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cathédrale+de+Strasbourg"
+        },
+        {
+          "name": "Petite France — maisons sur les canaux",
+          "badge": "Le plus romantique",
+          "badge_type": "vibe",
+          "description": "L'ancien quartier des tanneurs où les maisons à colombages se penchent sur l'eau : brume matinale, cygnes, façades qui remplissent les pellicules photo. Les chambres sont rares et très demandées — réservez tôt.",
+          "tags": [
+            "Vues sur le canal",
+            "Cadre de conte de fées",
+            "Calme matinal"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Petite+France+Strasbourg"
+        },
+        {
+          "name": "Krutenau — âme étudiante",
+          "badge": "Le plus animé",
+          "badge_type": "hot",
+          "description": "Le quartier jeune et joyeux juste au sud-est du centre : petits bars, cuisines du monde, prix corrects. Parfait pour les noctambules et les longs séjours.",
+          "tags": [
+            "Rues animées de bars",
+            "Jeune public",
+            "Manger à prix abordable"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Krutenau+Strasbourg"
+        },
+        {
+          "name": "Autour de la gare — base pratique",
+          "badge": "Économique",
+          "badge_type": "value",
+          "description": "Autour de la gare historique à coupole de verre : hôtels de chaîne, logistique des bagages facile, 10 minutes à pied du centre. Idéal pour ceux qui visitent l'Alsace en train.",
+          "tags": [
+            "À côté du train",
+            "Prix justes",
+            "Accès facile à Colmar"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gare+de+Strasbourg"
+        },
+        {
+          "name": "Neustadt — le quartier impérial",
+          "badge": "Le plus spacieux",
+          "badge_type": "local",
+          "description": "La 'nouvelle ville' de l'époque allemande avec ses larges boulevards et ses façades Art nouveau : calme, verdoyante, et la deuxième moitié moins connue du classement UNESCO. Pour ceux qui recherchent l'élégance loin des foules.",
+          "tags": [
+            "Façades Art nouveau",
+            "Larges boulevards",
+            "Nuits calmes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Neustadt+Strasbourg"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Le calendrier de Strasbourg se divise en deux : décembre, et les onze autres mois. Les deux ont leurs arguments.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Saison des canaux",
+          "months": "Avr – Juin",
+          "subtitle": "Printemps · Quais fleuris, temps idéal pour le vélo",
+          "description": "La Petite France fleurit, les terrasses s'installent, la saison du vélo s'ouvre. La foule reste inférieure aux niveaux estivaux et la lumière est l'amie des photographes — la période la plus équilibrée de la ville.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de juin",
+            "text": "Les soirs de juin, un spectacle de lumières est projeté sur la façade de la cathédrale ; étendez une couverture sur la place — le spectacle est gratuit."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Saison des terrasses",
+          "months": "Juil – Août",
+          "subtitle": "Été · Longues soirées, fraîcheur fluviale",
+          "description": "Les jours s'allongent, les terrasses des quais débordent, les tours en bateau ajoutent des navigations nocturnes. Les jours de forte chaleur, les berges des canaux et les parcs sont la climatisation de la ville.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'été",
+            "text": "Quand la chaleur est intense, échappez-vous à l'Orangerie : ombre sous les nids de cigognes, glace au bord du lac."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Vignes et brume",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Vendanges proches, matins brumeux",
+          "description": "Les vendanges de la Route des Vins sont à une demi-heure ; en ville, les matins brumeux transforment la Petite France en décor de film. Fin novembre, les préparatifs de Noël commencent et les lumières s'allument.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'octobre",
+            "text": "En octobre, faites une excursion d'une journée à Obernai ou Barr : fêtes des vendanges, vin nouveau et tarte à l'oignon — l'Alsace sans les touristes."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "La Capitale de Noël",
+          "months": "Déc – Fév",
+          "subtitle": "Hiver · Christkindelsmärik, lumière et cannelle",
+          "description": "En décembre, la ville mérite son titre : plus de 300 chalets, un sapin géant, l'odeur de la cannelle et du vin chaud, et une tradition qui perdure depuis 1570. Janvier et février laissent derrière eux un Strasbourg silencieux, brumeux et authentique.",
+          "callout": {
+            "type": "warning",
+            "label": "Avertissement de décembre",
+            "text": "Les week-ends du marché de Noël sont extrêmement bondés ; venez en semaine — vivez le marché à la lumière du soir et les rues dans le silence du matin."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La table strasbourgeoise, c'est la cuisine alsacienne dans sa forme capitale : des portions allemandes, une finesse française, l'appétit le vôtre.",
+      "local_word": {
+        "word": "S'gilt!",
+        "pronunciation": "sgilt",
+        "definition": "Alsacien pour 'santé' : dit quand les verres se remplissent de Riesling. Santé fonctionne aussi, mais dès que vous dites S'gilt, votre place à table change — promu de simple invité à ami."
+      },
+      "items": [
+        {
+          "icon": "🥧",
+          "name": "Tarte flambée — fine et sortie des braises",
+          "description": "La pâte fine avec crème, oignons et lardons est la fierté de l'Alsace ; à Strasbourg, la 'gratinée' (avec fromage) et la version sucrée aux pommes sont aussi de la partie. Cassée à la main, disparue en une minute.",
+          "tag": "Dans une winstub · commander par tournées",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Winstub+Le+Clou+Strasbourg"
+        },
+        {
+          "icon": "🍖",
+          "name": "Choucroute et baeckeoffe",
+          "description": "L'assiette monumentale de choucroute règne aussi ici ; le baeckeoffe, la cocotte aux trois viandes mijotée toute une nuit dans le vin, est le héros secret des journées d'hiver.",
+          "tag": "Classique d'hiver · à partager",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison+Kammerzell+Strasbourg"
+        },
+        {
+          "icon": "🥨",
+          "name": "Bretzel — chaud",
+          "description": "Un bretzel chaud d'une boulangerie de rue est le snack officiel de la balade strasbourgeoise ; ceux au beurre et gratinés au fromage sont une invitation au péché.",
+          "tag": "Chaud du four · en se promenant",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Au+Pain+de+mon+Grand-Père+Strasbourg"
+        },
+        {
+          "icon": "🦢",
+          "name": "Foie gras d'Alsace",
+          "description": "Le foie gras a des siècles d'histoire en Alsace ; servi avec de la brioche et un vin blanc doux (Gewurztraminer), il ouvre un festin.",
+          "tag": "Entrée de fête · avec du Gewurz",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Édouard+Artzner+Strasbourg"
+        },
+        {
+          "icon": "🍷",
+          "name": "Verres d'Alsace — du Riesling au Crémant",
+          "description": "Vous êtes aux portes de la Route des Vins : de la carafe de winstub à la flûte de Crémant, toute la gamme vit ici. Quand le long verre d'Alsace à pied vert atteint votre main, le rituel est complet.",
+          "tag": "Verre à pied vert · à la carafe",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cave+Historique+des+Hospices+Strasbourg"
+        },
+        {
+          "icon": "🍪",
+          "name": "Bredele et pain d'épices",
+          "description": "Les Bredele, l'armée des biscuits de Noël, remplissent chaque vitrine en décembre ; le pain d'épices, ce pain au miel épicé, est le parfum de la ville toute l'année. Achetez une boîte — elle ne durera pas.",
+          "tag": "Marché de Noël · en boîte",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Broglie+Strasbourg"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle de la winstub",
+        "text": "Aux heures touristiques, éloignez-vous d'une ou deux rues de la place de la Cathédrale : les vraies winstubs vous attendent à la Krutenau et dans les ruelles de la Petite France, avec des menus courts et un brouhaha alsacien."
+      }
+    },
+    "hidden_gems": {
+      "title": "Perles Rares",
+      "intro": "La cathédrale appelle tout le monde ; ces six recoins n'appellent que les curieux.",
+      "items": [
+        {
+          "rarity": "Une terrasse sur les toits",
+          "name": "La terrasse du Barrage Vauban",
+          "description": "La terrasse sur le toit du barrage-pont du XVIIe siècle offre une vue sur les tours couvertes de la Petite France jusqu'à la cathédrale : le meilleur panorama de la ville, entrée gratuite, et la plupart des visiteurs n'en entendent jamais parler.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Barrage+Vauban+Strasbourg"
+        },
+        {
+          "rarity": "Rococo caché",
+          "name": "Les appartements du Palais Rohan",
+          "description": "Le palais épiscopal au pied de la cathédrale abrite trois musées à la fois ; les appartements rococo du rez-de-chaussée offrent l'ambiance de Versailles sans les files d'attente.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Palais+Rohan+Strasbourg"
+        },
+        {
+          "rarity": "Le parc des cigognes",
+          "name": "Les nids de cigognes de l'Orangerie",
+          "description": "Les cigognes, l'oiseau emblématique de l'Alsace, ont établi une colonie dans les cimes des arbres de l'Orangerie ; au printemps, leur claquement de bec est la musique de fond du parc.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Parc+de+l%27Orangerie+Strasbourg"
+        },
+        {
+          "rarity": "Une cathédrale de livres",
+          "name": "La salle de lecture de la BNU",
+          "description": "La salle de lecture en forme de dôme de la Bibliothèque Nationale Universitaire dans la Neustadt est le chef-d'œuvre le plus serein de la ville ; vous pouvez y entrer et respirer son atmosphère même sans carte d'étudiant.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=BNU+Strasbourg"
+        },
+        {
+          "rarity": "L'histoire au fil de l'eau",
+          "name": "Les tours des Ponts Couverts",
+          "description": "Les 'ponts couverts' – nommés ainsi pour des toits en bois disparus depuis longtemps – et leurs tours médiévales offrent la carte postale la moins connue de la ville lorsque les lumières du soir s'allument.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ponts+Couverts+Strasbourg"
+        },
+        {
+          "rarity": "Le vaisseau de verre de la modernité",
+          "name": "Les rives du Parlement Européen",
+          "description": "Marchez ou pédalez le long du canal jusqu'au parlement de verre : les visites sont possibles pendant les périodes de session, l'architecture est toujours accessible de l'extérieur. L'idée de l'Europe en béton et en verre.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Parlement+européen+Strasbourg"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil Panorama",
+        "text": "Pour ceux qui évitent la tour de la cathédrale, la formule est : terrasse du Barrage Vauban + lumière du soir. Quatre-vingt-dix pour cent de la vue, zéro pour cent des marches."
+      }
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Strasbourg est une ville juste ; ses pièges sont concentrés sur une centaine de mètres autour de la place de la Cathédrale. Connaissez ces quatre-là et le tour est joué.",
+      "items": [
+        {
+          "icon": "🍽️",
+          "name": "Le 'menu alsacien' directement sur la place de la Cathédrale",
+          "description": "Certaines terrasses avec vue sur la place vendent de la choucroute surgelée à des prix touristiques ; une injustice pour la cuisine alsacienne.",
+          "instead": "Marchez deux rues : dans les winstubs de la Krutenau et les ruelles, le même plat arrive à moitié prix, dans sa vraie forme."
+        },
+        {
+          "icon": "🎄",
+          "name": "Le 'fait main' produit en masse au marché de Noël",
+          "description": "Parmi 300 chalets, des ornements importés et des produits d'usine se glissent ; même éclat, pas d'histoire.",
+          "instead": "Choisissez les chalets des producteurs : vous reconnaîtrez la poterie alsacienne, la sculpture sur bois et les vendeurs de bredele locaux à leurs étiquettes et à leur conversation."
+        },
+        {
+          "icon": "🚣",
+          "name": "La file d'attente du bateau à midi",
+          "description": "Les files d'attente du Batorama sont longues à midi, et 70 minutes dans un bateau couvert sous le soleil de midi, c'est la visite la plus ennuyeuse.",
+          "instead": "Réservez la première navigation du matin ou en début de soirée en ligne : belle lumière, pas de file d'attente."
+        },
+        {
+          "icon": "🥨",
+          "name": "Un bretzel froid sur la place",
+          "description": "Un bretzel caoutchouteux attendant sur un stand touristique est le crime le plus inutile que cette ville puisse voir.",
+          "instead": "Prenez-le chaud dans une boulangerie ; vous ne pouvez pas vous tromper là où la vitrine indique 'artisan boulanger'."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "À Strasbourg, la foule s'éclaircit en cercles à partir de la cathédrale : chaque centaine de mètres de distance fait baisser le prix et augmente la sincérité. Éloignez-vous de deux cercles."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Cathédrale, canaux et soirée winstub",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "La cathédrale — sous la lumière du matin",
+              "description": "Admirez la rosace avec le soleil du matin ; si vos jambes le permettent, montez les 332 marches jusqu'à la plateforme — la plaine d'Alsace à vos pieds."
+            },
+            {
+              "time": "10:30",
+              "title": "Les ruelles de la Petite France",
+              "description": "Maisons à colombages le long du canal, toits des tanneurs, cygnes ; flânez entre les arrêts photo."
+            },
+            {
+              "time": "12:00",
+              "title": "Horloge astronomique + déjeuner",
+              "description": "Assistez au défilé des apôtres à 12h30, puis dégustez une tarte flambée dans une winstub discrète."
+            },
+            {
+              "time": "14:30",
+              "title": "Barrage Vauban + Ponts Couverts",
+              "description": "Du panorama de la terrasse aux tours, puis une promenade le long des quais ; l'histoire défensive de la ville se lit sur l'eau."
+            },
+            {
+              "time": "16:30",
+              "title": "Bateau ou tramway vers le Quartier Européen",
+              "description": "En Batorama ou à vélo le long des berges des institutions de verre ; un arrêt cigogne à l'Orangerie au retour."
+            },
+            {
+              "time": "20:00",
+              "title": "Soirée Winstub",
+              "description": "Baeckeoffe ou choucroute, Riesling dans le verre à pied vert ; terminez par un s'gilt !"
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Les classiques de la Grande Île",
+              "description": "Le parcours d'un jour ci-dessus : cathédrale, Petite France, Vauban, winstub."
+            },
+            {
+              "time": "Day 2",
+              "title": "Neustadt et deux pays",
+              "description": "Boulevards impériaux et le dôme de la BNU le matin, Palais Rohan à midi ; traversez à Kehl en tram D l'après-midi, marchez sur la passerelle entre deux pays, terminez dans les bars de la Krutenau."
+            },
+            {
+              "time": "Day 3",
+              "title": "Une escapade sur la Route des Vins",
+              "description": "En train à Obernai ou Colmar : villages viticoles, dégustations et déjeuner en winstub ; retour à Strasbourg le soir pour un tour d'adieu de la cathédrale sous ses lumières nocturnes."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Le français ouvre les portes ; une touche d'alsacien change votre place à table.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Bonjour — le premier mot obligatoire de chaque échange"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Merci — plus fort avec « beaucoup »"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "S'il vous plaît — ajoutez-le à la fin de votre commande"
+        },
+        {
+          "word": "S'gilt!",
+          "pronunciation": "sgilt",
+          "meaning": "À la vôtre en alsacien ! — Les verres de Riesling se lèvent à ce mot"
+        },
+        {
+          "word": "Hopla!",
+          "pronunciation": "HOP-lah",
+          "meaning": "Le mot joker alsacien : « allez, d'accord, voilà » — vous l'entendrez dix fois par jour"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Checklist Strasbourg",
+      "completion_message": "S'gilt ! Vous avez exploré Strasbourg comme il se doit !",
+      "items": [
+        {
+          "label": "Se tenir sous la rosace de la cathédrale",
+          "sub": "Dans la lumière matinale, jusqu'à avoir mal au cou"
+        },
+        {
+          "label": "Observer les apôtres de l'horloge astronomique",
+          "sub": "Tous les jours à 12h30 — entrez tôt, réservez votre place"
+        },
+        {
+          "label": "Se promener dans la Petite France sous la brume matinale",
+          "sub": "Les maisons au bord du canal dans leur plus bel apparat"
+        },
+        {
+          "label": "Monter sur la terrasse du Barrage Vauban",
+          "sub": "Panorama gratuit — tours et cathédrale"
+        },
+        {
+          "label": "Déguster une tarte flambée dans une winstub",
+          "sub": "Classique + gratinée, cassée à la main"
+        },
+        {
+          "label": "Boire du Riesling dans un verre à pied vert",
+          "sub": "N'oubliez pas de dire s'gilt !"
+        },
+        {
+          "label": "Prendre le tramway pour l'Allemagne",
+          "sub": "Ligne D — 20 minutes jusqu'à Kehl, pas besoin de passeport"
+        },
+        {
+          "label": "Trouver un nid de cigogne à l'Orangerie",
+          "sub": "L'oiseau emblématique de l'Alsace dans la cime des arbres"
+        },
+        {
+          "label": "Pédaler le long des berges du Parlement Européen",
+          "sub": "Architecture de verre, itinéraire au bord du canal"
+        },
+        {
+          "label": "Repartir avec une boîte de bredele",
+          "sub": "Du marché en décembre, d'une boulangerie sinon"
+        }
+      ]
+    }
+  }
+}

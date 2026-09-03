@@ -1,0 +1,537 @@
+{
+  "meta": {
+    "city": "Nice",
+    "country": "France",
+    "language": "fr",
+    "version": "2.1",
+    "color_primary": "#1B5E8F",
+    "color_light": "#E3EEF7",
+    "tagline": "La vraie ville de la Côte d'Azur – pas la carte postale, mais le lieu.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "La plage est de galets, pas de sable",
+    "Socca avant tout",
+    "Grimpez la colline, évitez l'ascenseur"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Nice",
+      "intro": "Nice n'est pas Monaco. Ce n'est pas un plateau de cinéma, un salon nautique ou une vitrine de luxe. C'est une véritable ville méditerranéenne — aux saveurs italiennes, baignée de soleil et entièrement elle-même. Cinquième plus grande ville de France et capitale de la Côte d'Azur, Nice séduit les visiteurs depuis le XVIIIe siècle, lorsque les aristocrates anglais y passaient l'hiver pour échapper au froid, construisant finalement la promenade du bord de mer qui porte encore leur nom. Mais la Nice qui mérite d'être découverte est plus ancienne et plus tranquille que n'importe quelle promenade : le Vieux Nice, la vieille ville ocre et terracotta, avec ses églises baroques, son marché aux fleurs et ses ruelles si étroites qu'elles cachent le ciel. Le vendeur de socca qui est au même coin depuis quarante ans. Le coup de canon de midi qui retentit de la Colline du Château tous les jours depuis 1861. Cette ville a sa propre langue, sa propre cuisine et une fierté qui n'a rien à voir avec les gens qui viennent ici en été.",
+      "local_word": {
+        "word": "Socca",
+        "pronunciation": "SOH-kah",
+        "definition": "La street food de Nice, sa nourriture de l'âme, sa plus ancienne spécialité. Une galette fine et croustillante à base de farine de pois chiche, d'huile d'olive et d'eau — cuite dans un four à bois sur une immense plaque de cuivre, coupée en quartiers irréguliers, servie chaude avec du poivre noir. Rien d'autre. Pas de fromage, pas de garnitures, pas de variations. Mangée debout à un étal de marché, dans du papier, encore trop chaude. Chez Thérésa, au Cours Saleya, en prépare depuis les années 1920. C'est par là que vous commencez."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "La plage est en galets — et les habitants l'aiment ainsi",
+          "description": "La célèbre plage de Nice est faite de galets lisses et arrondis, pas de sable. Il n'y a pas de sable sur la plage principale. Cela surprend presque tous les visiteurs pour la première fois. Apportez des chaussures de plage, louez un matelas auprès de l'un des opérateurs de plage privés, ou faites comme les habitants et trouvez une pierre plate. L'avantage : l'eau est extraordinairement claire et la plage ne semble jamais granuleuse."
+        },
+        {
+          "number": 2,
+          "title": "Nice n'est pas la Provence — et pas entièrement française",
+          "description": "Nice était italienne jusqu'en 1860, cédée formellement à la France par Napoléon III. L'architecture de la vieille ville, la nourriture, le dialecte (Niçard) et le caractère du lieu portent tous cette empreinte italienne. Le mot local pour Nice dans l'ancien dialecte est Nissa. Ce n'est pas une ville française qui se trouve être près de l'Italie ; c'est une ville méditerranéenne qui est les deux, et entièrement ni l'une ni l'autre."
+        },
+        {
+          "number": 3,
+          "title": "Colline du Château — toujours à pied, toujours gratuit",
+          "description": "La Colline du Château s'élève à 92 mètres au-dessus de la ville et offre la meilleure vue de Nice : la courbe de la Baie des Anges, les toits orange du Vieux Nice, les Alpes au loin. Il y a un ascenseur, mais montez à pied — l'escalier à travers la roche fait partie de l'expérience, et la descente à travers le Vieux Nice vous récompense immédiatement. Gratuit, toujours. L'une des plus belles vues gratuites d'Europe."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Nice Côte d'Azur (NCE)",
+          "sub": "Ligne de tram 2 · 10 min · direct au centre-ville"
+        },
+        {
+          "icon": "🚃",
+          "label": "Transports",
+          "value": "Tram + train",
+          "sub": "Tarif unique · un seul ticket couvre toutes les lignes"
+        },
+        {
+          "icon": "🌊",
+          "label": "Plage",
+          "value": "Galets, pas de sable",
+          "sub": "Plages publiques gratuites · plages privées avec services"
+        },
+        {
+          "icon": "🗺️",
+          "label": "Base pour",
+          "value": "Monaco · Èze · Antibes",
+          "sub": "Train pour Monaco 25 min · Cannes 40 min"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Le coup de canon de midi",
+        "text": "Chaque jour à midi, un coup de canon est tiré depuis la Colline du Château. Il retentit tous les jours depuis 1861. La légende raconte qu'un lord écossais nommé Sir Thomas Coventry, fatigué que sa femme rentre tard de ses courses en ville, persuada le conseil municipal de tirer un coup de canon à midi pour qu'elle sache qu'il était temps de rentrer. Nice a continué à le faire pendant plus de 160 ans. Si vous êtes en ville à midi, arrêtez ce que vous faites et écoutez."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Nice est compacte, facile à explorer à pied et très bien connectée. Le tramway gère la plupart de vos besoins ; vos pieds s'occupent du reste. La ville est également une base parfaite pour explorer toute la Côte d'Azur en train.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aéroport (NCE) → Centre-ville",
+          "description": "La ligne 2 du tramway relie directement l'aéroport au centre-ville en environ 10 minutes — l'une des meilleures connexions aéroportuaires de France. Elle circule fréquemment, s'arrêtant à la Place Masséna et dans le Vieux Nice. Les taxis sont nettement plus chers et dépendent du trafic. Le tramway est toujours le bon choix."
+        },
+        {
+          "icon": "🚃",
+          "title": "Tramways — le réseau principal de la ville",
+          "description": "Nice dispose de deux lignes de tramway. La ligne 1 traverse le centre-ville d'est en ouest, reliant les principaux quartiers. La ligne 2 relie l'aéroport au port et au centre-ville. Un ticket simple est valable 74 minutes sur toutes les lignes de tramway et de bus — validez-le à bord à chaque fois. Un pass 24 heures est avantageux si vous effectuez trois trajets ou plus. Achetez vos tickets aux distributeurs aux arrêts de tramway."
+        },
+        {
+          "icon": "🚂",
+          "title": "Train — pour les excursions le long de la Côte d'Azur",
+          "description": "La gare de Nice Ville est l'une des gares côtières les mieux connectées de France. Monaco est à 25 minutes. Antibes à 30 minutes. Cannes à 40 minutes. Menton et la frontière italienne à 45 minutes. Les trains circulent fréquemment et sont le moyen le plus pittoresque de découvrir la côte de la Riviera — la ligne longe la côte et les vues à elles seules valent le prix du billet. Bien moins cher et plus fiable que la voiture."
+        },
+        {
+          "icon": "🚲",
+          "title": "Vélo Bleu — vélos en libre-service",
+          "description": "Le système de vélos en libre-service de Nice dispose de stations dans toute la ville. Un abonnement de courte durée donne accès aux vélos ; les 30 premières minutes sont incluses. La Promenade des Anglais dispose d'une piste cyclable dédiée sur toute sa longueur de 7 km — l'une des meilleures pistes cyclables urbaines de France. Idéal pour la Promenade, la zone portuaire et les parties plates de la ville."
+        },
+        {
+          "icon": "🚶",
+          "title": "À pied — le seul moyen pour le Vieux Nice",
+          "description": "Le Vieux Nice ne peut être exploré autrement — les ruelles sont trop étroites pour les véhicules, et la moitié des meilleures choses ne sont pas indiquées. La vieille ville est à 15 minutes à pied de la Place Masséna. La Colline du Château est à 20 minutes à pied de la vieille ville. La Promenade des Anglais mesure 7 km de bout en bout et est entièrement plate. Nice récompense la marche avant tout."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Stratégie d'excursion d'une journée",
+        "text": "Nice constitue une base exceptionnelle. Utilisez le train librement : Monaco le mardi pour le marché ; Antibes un après-midi tranquille ; le village d'Èze au coucher du soleil en bus puis retour en train. La Riviera est compacte — visiter une ville différente chaque jour est tout à fait possible sans jamais avoir à déplacer vos bagages."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "Les quartiers de Nice sont petits, accessibles à pied et très différents de caractère. Le bon dépend entièrement du type de ville que vous souhaitez découvrir.",
+      "local_word": {
+        "word": "Vieux Nice",
+        "pronunciation": "vyuh NEES",
+        "definition": "La vieille ville — le véritable cœur de la cité. Un réseau dense de ruelles étroites entre la Promenade et la Colline du Château, peintes dans toutes les nuances d'ocre, de terre cuite et de jaune fané. Des églises baroques apparaissent à chaque coin de rue. Le marché du Cours Saleya anime la place principale tous les matins. Le soir, les restaurants et les bars prennent le relais. Séjourner dans le Vieux Nice, c'est se réveiller au cœur de l'âme de la ville."
+      },
+      "items": [
+        {
+          "name": "Vieux Nice (Vieille Ville)",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "local",
+          "description": "Le quartier historique — églises baroques, marché aux fleurs, ruelles étroites, excellents restaurants. Le plus bel endroit où séjourner en ville. Animé la nuit. Certaines rues peuvent être bruyantes le week-end. Mais nulle part ailleurs vous ne serez aussi complètement immergé dans ce qui fait le charme de Nice.",
+          "tags": [
+            "Le plus beau",
+            "Meilleur accès au marché",
+            "Animé la nuit"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vieux+Nice"
+        },
+        {
+          "name": "Promenade des Anglais",
+          "badge": "Le plus élégant",
+          "badge_type": "hot",
+          "description": "Le boulevard du front de mer. De grands hôtels Belle Époque, le légendaire Negresco, la mer d'un côté et la ville de l'autre. Cher, emblématique, et tout ce que la Côte d'Azur promet. Légèrement éloigné de la vie quotidienne de la ville — plus une station balnéaire qu'un quartier — mais la promenade matinale le long de l'eau est imbattable.",
+          "tags": [
+            "Vues sur mer",
+            "Hôtels Belle Époque",
+            "Ambiance station balnéaire"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Promenade+des+Anglais+Nice"
+        },
+        {
+          "name": "Le Port & Garibaldi",
+          "badge": "Le plus local",
+          "badge_type": "local",
+          "description": "Le quartier est autour du port — coloré, authentiquement local et largement méconnu des touristes. Les meilleurs restaurants de Nice sont concentrés ici. La Place Garibaldi est l'une des plus belles places de la ville. Un peu plus éloigné de la plage mais connecté par tram. Là où les Niçois sortent réellement manger.",
+          "tags": [
+            "Meilleurs restaurants",
+            "Ambiance locale",
+            "Port coloré"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Le+Port+Nice"
+        },
+        {
+          "name": "Quartier des Musiciens & Libération",
+          "badge": "Le plus abordable",
+          "badge_type": "value",
+          "description": "Les quartiers résidentiels au nord de la gare — immeubles Belle Époque, marchés locaux, excellents cafés de quartier, sans le surcoût touristique. Bien desservi par le tram. Là où les habitants de Nice vivent réellement. Le marché de la Libération les mardis et vendredis matins est exceptionnel.",
+          "tags": [
+            "Ambiance résidentielle",
+            "Meilleur rapport qualité-prix",
+            "Marchés locaux"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Quartier+des+Musiciens+Nice"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Meilleure période pour visiter",
+      "intro": "Nice bénéficie de plus de 300 jours d'ensoleillement par an. Chaque saison offre quelque chose de différent — la vraie question est de savoir quelle ambiance et quelle version de la ville vous souhaitez découvrir.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Saison parfaite",
+          "months": "Mar – Mai",
+          "subtitle": "Printemps · La meilleure période",
+          "description": "Avril et mai sont les mois où Nice est la plus authentique. La lumière est extraordinaire, les foules ne sont pas encore arrivées, les marchés débordent de produits de printemps et toutes les terrasses sont ouvertes. En avril, les collines derrière la ville sont vertes et le mimosa est en fleurs. La mer est encore trop froide pour la baignade, mais la Promenade sous la lumière du matin est l'une des plus belles promenades urbaines d'Europe. En mai, la ville est à son plus calme et à son plus beau – les musées sont vides, les restaurants sont réservables, les ruelles du Vieux Nice appartiennent entièrement à ses habitants.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour le printemps",
+            "text": "Si fin avril coïncide avec le Salone del Mobile de Milan, Nice constitue une base parfaite — les deux villes sont à 4,5 heures de train et se combinent facilement en un seul voyage. Les prix à Nice n'ont pas encore augmenté, les foules ne sont pas encore arrivées et le temps est idéal."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Pleine saison sur la Riviera",
+          "months": "Jun – Aug",
+          "subtitle": "Été · Magnifique et bondé",
+          "description": "Juillet et août sont les mois où le monde entier vient à Nice. Les plages sont bondées, les restaurants sont pleins, la mer est chaude et claire, et la ville vibre d'une énergie difficile à trouver ailleurs. Mais cela a un prix : tout coûte plus cher, les files d'attente sont plus longues, et le vrai Nice se retire derrière la saison touristique. Juillet apporte le Festival du Jazz de Nice au parc de Cimiez — l'un des grands festivals en plein air de France, sous les oliviers où Matisse est enterré.",
+          "callout": {
+            "type": "tip",
+            "label": "14 juillet — feux d'artifice sur la Baie des Anges",
+            "text": "Le 14 juillet à Nice est l'un des plus spectaculaires de France. Des feux d'artifice sont tirés le long de la Promenade des Anglais et se reflètent sur la Baie des Anges — toute la ville se rassemble sur le front de mer. Le Festival de Jazz a également lieu en juillet au parc de Cimiez, sous les oliviers près de la tombe de Matisse. Deux des grands événements estivaux du sud de la France, dans la même ville, le même mois."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Le secret le mieux gardé",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Le vrai secret",
+          "description": "Septembre et octobre sont le secret le mieux gardé de la Côte d'Azur. Les foules diminuent fortement après août, la mer reste assez chaude pour se baigner jusqu'à mi-octobre, et la ville retrouve son rythme quotidien. Les prix des restaurants se normalisent, les tables sont plus faciles à réserver, et la lumière prend une qualité dorée. Novembre apporte les premières pluies mais aussi les premiers feux dans les cheminées des trattorias du Vieux Nice. La ville redevient elle-même.",
+          "callout": {
+            "type": "tip",
+            "label": "Secret local",
+            "text": "La mer à Nice est baignable jusqu'à au moins mi-octobre, parfois plus longtemps. Septembre à Coco Beach — la crique cachée préférée des locaux — avec presque pas de touristes, de l'eau chaude et une lumière dorée. La meilleure journée que Nice puisse offrir."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Doux et calme",
+          "months": "Dec – Feb",
+          "subtitle": "Hiver · La ville la plus ensoleillée d'Europe en hiver",
+          "description": "Nice est vraiment douce en hiver — les températures moyennes en janvier sont d'environ 13°C, et le soleil apparaît régulièrement même pendant les mois les plus froids. C'est la raison pour laquelle les Anglais sont venus ici en premier lieu. La Promenade des Anglais par un matin ensoleillé de décembre, presque vide, avec les Alpes visibles derrière la ville, est l'une des expériences urbaines les plus paisiblement belles d'Europe. Les prix baissent considérablement. Les habitants reprennent possession des lieux. La vieille ville est à son plus authentique.",
+          "callout": {
+            "type": "tip",
+            "label": "Venez pour le Carnaval",
+            "text": "Carnaval de Nice (février) : l'un des plus grands carnavals du monde, datant de 1294. La Bataille de Fleurs à elle seule vaut le déplacement — des chars recouverts de fleurs et des bouquets lancés dans la foule. En hiver, Nice est à son plus abordable et le plus local ; le Carnaval la transforme entièrement pendant deux semaines. Réservez votre hébergement plusieurs mois à l'avance."
+          }
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "February",
+          "text": "Carnaval de Nice : le plus grand carnaval de France — deux semaines de batailles de fleurs et de marionnettes géantes."
+        },
+        {
+          "month": "May",
+          "text": "Un double festin à côté : le Festival de Cannes et le GP de Monaco ; Nice est la base pour les deux, les hôtels se remplissent tôt."
+        },
+        {
+          "month": "July",
+          "text": "Nice Jazz Festival : nuits d'été de jazz au Théâtre de Verdure et à Masséna ; le plus ancien festival de jazz d'Europe."
+        },
+        {
+          "month": "September–October",
+          "text": "La saison secrète : la mer encore chaude, les foules disparues, la lumière d'un peintre. Nice à son meilleur."
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine niçoise est l'une des traditions régionales les plus distinctes de France — méditerranéenne, à base d'olives, fortement axée sur les légumes, et largement ignorée par le reste du pays. C'est la cuisine d'une ville qui fut italienne jusqu'en 1860 et qui ne l'a jamais entièrement oublié.",
+      "local_word": {
+        "word": "Pastis",
+        "pronunciation": "pah-STEES",
+        "definition": "La boisson du sud. Un spiritueux anisé, servi avec une petite carafe d'eau froide pour le diluer. L'eau le rend laiteux et opaque — c'est normal, pas une erreur. Ricard est la marque standard ; demandez un Pastis de Nice pour la version locale. Commandé dans n'importe quel bar à partir de 18h environ, particulièrement sur le Cours Saleya. Laissez tomber la bière ; buvez ce que les locaux boivent."
+      },
+      "items": [
+        {
+          "icon": "🥞",
+          "name": "Socca — commencez toujours par là",
+          "description": "Farine de pois chiche, huile d'olive, eau, sel. Cuite dans un four à bois à très haute température sur une immense plaque de cuivre jusqu'à ce que les bords soient croustillants et le centre moelleux. Coupée en parts, servie immédiatement, mangée avec du poivre noir. Chez Thérésa sur le Cours Saleya la prépare depuis les années 1920 — arrivez avant 10h ou faites la queue. La Socca est unique à Nice et à cette région ; elle n'existe nulle part ailleurs en France.",
+          "tag": "Chez Thérésa · Cours Saleya · arrivez tôt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chez+Pipo+Nice"
+        },
+        {
+          "icon": "🥙",
+          "name": "Pan Bagnat — le grand sandwich niçois",
+          "description": "Un pain de campagne rond imbibé d'huile d'olive, puis garni de thon, d'œuf dur, de légumes crus, d'anchois, d'olives et de poivre noir. Le pain doit absorber l'huile pendant au moins une heure avant d'être mangé — ce n'est pas un plat rapide mais un plat qui demande de la patience. Chez TinTin près du Cours Saleya est régulièrement élu le meilleur de la ville. Le déjeuner parfait à emporter sur la Colline du Château.",
+          "tag": "Chez TinTin · dégustez-le avec vue sur la mer",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kiosque+Tintin+Nice"
+        },
+        {
+          "icon": "🥗",
+          "name": "Salade Niçoise — la vraie",
+          "description": "Uniquement des légumes crus : tomate, concombre, radis, oignon nouveau, poivron vert, fèves. Œuf dur. Bon thon à l'huile. Filets d'anchois. Olives noires. Assaisonnée à l'huile d'olive. Pas de légumes cuits, pas de laitue, pas de haricots verts sauf s'ils sont très jeunes et crus. L'Office de Tourisme de Nice a une recette enregistrée. Tout restaurant qui la sert avec des haricots verts cuits vous ment.",
+          "tag": "Uniquement des légumes crus · pas de haricots verts cuits",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=La+Merenda+Nice"
+        },
+        {
+          "icon": "🍕",
+          "name": "Pissaladière — la pizza originale",
+          "description": "Pâte à pain épaisse et moelleuse garnie d'une compote d'oignons profondément caramélisée, d'olives noires et de filets d'anchois — rien d'autre. Vendue à la part dans les boulangeries du Vieux Nice. Mangée debout, chaude, avec un café. Les oignons doivent cuire au moins une heure ; le résultat est doux, salé et entièrement addictif. Le prédécesseur de toutes les pizzas.",
+          "tag": "Vendue dans chaque boulangerie du Vieux Nice · chaude, à la part",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cours+Saleya+Nice"
+        },
+        {
+          "icon": "🍷",
+          "name": "Vin de Bellet — le secret le mieux gardé de Nice",
+          "description": "Presque personne en dehors de Nice ne sait que cela existe : une minuscule appellation viticole AOC dans les collines directement au-dessus de la ville, produisant du rouge, du blanc et du rosé. Seulement environ 50 hectares de vignes. Le rosé est exceptionnel et presque impossible à trouver en dehors de la région. Cherchez-le sur les cartes des vins de la ville — il est local, rare et très bon.",
+          "tag": "AOC Bellet · local et rare · demandez-le",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+de+Bellet+Nice"
+        },
+        {
+          "icon": "☕",
+          "name": "Café — à l'italienne",
+          "description": "L'héritage italien de Nice se manifeste dans sa culture du café. L'espresso se boit debout au bar, court et fort. Une noisette est un espresso avec une touche de lait chaud — la norme locale. Le cappuccino existe mais est une boisson réservée au matin. Les cafés du Cours Saleya sont aux prix touristiques ; les cafés une rue derrière dans le Vieux Nice sont ceux où vont les locaux. La différence de prix et de qualité est immédiate.",
+          "tag": "Debout au bar · la noisette est la commande locale",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Place+Rossetti+Nice"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Cours Saleya — rituel matinal",
+        "text": "Le marché aux fleurs et alimentaire du Cours Saleya a lieu du mardi au dimanche jusqu'en début d'après-midi. Arrivez avant 9h : la lumière est extraordinaire, la socca est fraîche, les fleuristes arrangent leurs étals, et vous le partagez avec les Niçois plutôt qu'avec les touristes. Achetez des fleurs. Mangez de la socca. Buvez un café. C'est le meilleur matin à Nice."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Nice cache ses plus beaux trésors à la vue de tous — sur une colline devant laquelle tout le monde passe, dans une crique que tout le monde manque, derrière une porte d'église toujours ouverte. Les récompenses pour les curieux sont extraordinaires.",
+      "items": [
+        {
+          "rarity": "Là où Hitchcock a filmé — et Grace Kelly a changé sa vie",
+          "name": "Lieux de tournage de 'La Main au collet' — la Grande Corniche",
+          "description": "Hitchcock a filmé 'La Main au collet' (1955) sur la Côte d'Azur — la Promenade des Anglais, les routes de montagne de la Grande Corniche et les jardins de Monaco. Le film mettait en vedette Cary Grant et Grace Kelly, et l'alchimie entre eux aurait conduit Grace Kelly à rencontrer le Prince Rainier de Monaco peu après, lors du Festival de Cannes. Elle a quitté l'aéroport de Nice en tant que roturière pour la dernière fois en 1956. La route de la Corniche utilisée par Hitchcock est toujours là — mêmes virages, mêmes vues, même lumière.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Grande+Corniche+Nice"
+        },
+        {
+          "rarity": "La plage des locaux — pas de touristes, pas de foule",
+          "name": "Coco Beach — à l'est du Port",
+          "description": "Juste après le port, en longeant la côte vers l'est, un sentier rocheux mène à Coco Beach — une petite crique abritée de rochers plats et d'une eau extraordinairement claire. Pas d'installations, pas de clubs de plage, pas de vendeurs ambulants. Juste des Niçois qui viennent ici depuis des générations. Le sentier côtier continue d'ici, longeant la falaise sur 1,4 km avec des vues sur la Baie des Anges. En hiver, le sentier capte le soleil bas et est l'une des plus belles promenades de la ville.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Coco+Beach+Nice"
+        },
+        {
+          "rarity": "Une cathédrale russe au cœur de Nice",
+          "name": "Cathédrale Saint-Nicolas — Avenue Nicolas II",
+          "description": "Six dômes en oignon, des mosaïques colorées et la plus grande cathédrale orthodoxe russe d'Europe occidentale — située dans un jardin tranquille à dix minutes de la Promenade. Construite en 1912 avec le soutien du Tsar Nicolas II, pour la grande communauté aristocratique russe qui hivernait à Nice. Les Romanov avaient de fortes connexions avec la ville ; le Tsarevitch Nicolas y est décédé en 1865. L'intérieur est extraordinaire et presque inconnu de la plupart des visiteurs. Entrée gratuite.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cathedrale+Saint-Nicolas+Nice"
+        },
+        {
+          "rarity": "La tombe de Matisse — sous les oliviers, dans un parc romain",
+          "name": "Monastère de Cimiez — Colline de Cimiez",
+          "description": "Henri Matisse a vécu à Nice les 37 dernières années de sa vie et est enterré dans le cimetière du Monastère de Cimiez, aux côtés de son confrère artiste Raoul Dufy. Le monastère se trouve dans un parc archéologique romain — les ruines d'un amphithéâtre romain, une oliveraie et un jardin public où les habitants jouent à la pétanque. Le Musée Matisse est juste à côté et abrite la plus grande collection Matisse du monde. Presque aucune carte touristique ne relie les trois. Montez. Prenez votre temps.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Monastere+de+Cimiez+Nice"
+        },
+        {
+          "rarity": "Le vignoble secret de Nice — au-dessus de la ville",
+          "name": "AOC Bellet — les collines de Saint-Roman-de-Bellet",
+          "description": "Dans les collines directement au-dessus de Nice, en grande partie invisibles depuis la ville, une minuscule appellation viticole produit certains des vins les plus intéressants du sud de la France. L'AOC Bellet ne couvre qu'environ 50 hectares et produit du rouge, du blanc et du rosé — la majeure partie est consommée localement, presque rien n'est exporté. Le rosé est exceptionnel. Plusieurs domaines proposent des visites sur rendez-vous. Demandez du Bellet dans n'importe quelle cave à vin — la réaction de la personne derrière le comptoir vous dira si elle s'y connaît en vin.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chateau+de+Bellet+Nice"
+        },
+        {
+          "rarity": "Le canon que vous n'entendrez pas arriver",
+          "name": "Le Canon du Midi — Colline du Château",
+          "description": "Chaque jour, exactement à midi, un canon tire depuis la Colline du Château. Cela se produit tous les jours depuis 1861. L'histoire : un lord écossais nommé Sir Thomas Coventry, impatient que sa femme revienne de ses courses en ville, a persuadé le conseil municipal de Nice de tirer un canon à midi pour qu'elle sache qu'il était temps de rentrer. La ville a continué à le faire pendant plus de 160 ans. Montez à la Colline du Château avant midi — vous pourrez observer le tir de près, et la vue depuis le sommet est la meilleure de Nice.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Colline+du+Chateau+Nice"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Tout le monde peut entrer au Negresco",
+        "text": "Le Negresco est le bâtiment le plus emblématique de la Promenade des Anglais depuis 1913. Vous n'avez pas besoin d'être client — entrez, commandez une boisson au bar Le Versailles et asseyez-vous sur la terrasse surplombant la mer. Le dôme intérieur légendaire et les salons remplis d'œuvres d'art sont libres d'admiration. L'un des plus grands intérieurs d'hôtel du monde, aucune réservation n'est requise."
+      }
+    },
+    "checklist": {
+      "title": "Checklist de Nice",
+      "completion_message": "Magnifique ! Vous avez découvert le vrai Nice.",
+      "items": [
+        {
+          "label": "Manger de la socca chez Chez Thérésa — Cours Saleya, avant 10h",
+          "sub": "Farine de pois chiche, four à bois, poivre noir. La seule socca qui compte. Arrivez tôt."
+        },
+        {
+          "label": "Se promener au marché du Cours Saleya à l'aube",
+          "sub": "Du mardi au dimanche. Fleurs, nourriture, socca, café. Les Niçois avant les touristes. Le meilleur matin à Nice."
+        },
+        {
+          "label": "Monter la Colline du Château à pied — ne jamais prendre l'ascenseur",
+          "sub": "92 mètres. L'escalier à travers la roche. Le coup de canon à midi. La meilleure vue gratuite de Nice."
+        },
+        {
+          "label": "Parcourir le Sentier du Littoral depuis Coco Beach",
+          "sub": "1,4 km de sentier côtier à l'est du port. Réservé aux locaux. Vues extraordinaires. Pas de foule."
+        },
+        {
+          "label": "Manger un Pan Bagnat chez Chez TinTin",
+          "sub": "Le sandwich niçois. Pain imbibé d'huile d'olive, thon, œuf, anchois. Emportez-le sur la colline."
+        },
+        {
+          "label": "Se promener sur la Promenade des Anglais au lever du soleil",
+          "sub": "7 km, plat, gratuit. La mer, la ville, la lumière. Avant l'arrivée de quiconque."
+        },
+        {
+          "label": "Trouver la Cathédrale Saint-Nicolas",
+          "sub": "Six dômes en oignon russes dans un jardin niçois. Construite pour les Romanov. Presque personne ne la visite."
+        },
+        {
+          "label": "Monter à Cimiez — la tombe de Matisse et les ruines romaines",
+          "sub": "Jardin du monastère, amphithéâtre romain, oliviers, pétanque. Musée Matisse juste à côté."
+        },
+        {
+          "label": "Commander du vin de Bellet dans un restaurant local",
+          "sub": "AOC des collines au-dessus de Nice. Demandez-le. Presque personne en dehors de Nice ne sait qu'il existe."
+        },
+        {
+          "label": "Conduire ou marcher sur la Grande Corniche — la route d'Hitchcock",
+          "sub": "La route de montagne au-dessus de la ville. Utilisée dans La Main au collet (1955). La vue n'a pas changé."
+        },
+        {
+          "label": "Être à Nice à midi — écouter le coup de canon",
+          "sub": "Colline du Château, tous les jours depuis 1861. Vous l'entendrez où que vous soyez dans la ville."
+        },
+        {
+          "label": "Prendre le train pour Villefranche-sur-Mer pour une matinée",
+          "sub": "8 minutes de Nice Ville. L'une des plus belles baies d'Europe. Presque pas d'installations. Parfait."
+        }
+      ]
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Nice est petite mais son tourisme est grand ; les pièges se concentrent le long du front de mer. Connaissez ces quatre points et profitez de la Méditerranée comme un local.",
+      "items": [
+        {
+          "icon": "🏖️",
+          "name": "Les clubs de plage qui facturent tout",
+          "description": "Sur les plages privées de la Promenade, transat plus parasol plus serviette équivaut à des prix d'hôtel — et les galets sont les mêmes galets.",
+          "instead": "Utilisez la plage publique : étendez votre serviette, nagez dans la même mer. Si vous voulez du confort, demandez la liste des prix avant de vous asseoir."
+        },
+        {
+          "icon": "🥘",
+          "name": "Le 'Menu touristique' aux abords du Cours Saleya",
+          "description": "Certains restaurants du côté touristique du marché aux fleurs proposent des menus avec photos et des classiques 'niçois' congelés.",
+          "instead": "Achetez directement au marché, ou marchez deux rues plus loin : la vraie pissaladière vous attend dans les petites échoppes du Vieux Nice."
+        },
+        {
+          "icon": "🫓",
+          "name": "La socca qui n'est pas servie chaude",
+          "description": "La socca se mange au moment où elle sort du four ; une socca précuite et réchauffée au micro-ondes est une injustice pour la ville.",
+          "instead": "Choisissez un endroit où elle passe directement du feu de bois à l'assiette (Chez Pipo est le classique) ; beaucoup de poivre noir, mangez avec les mains."
+        },
+        {
+          "icon": "🚗",
+          "name": "Conduire sur la côte en été",
+          "description": "En juillet et août, la corniche est une guerre de stationnement et de circulation ; une voiture de location est généralement un fardeau, pas une liberté.",
+          "instead": "Prenez le train : Villefranche, Èze, Monaco, Cannes sont toutes sur la ligne côtière. La vue est gratuite."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "La majeure partie de la beauté de Nice est gratuite : la mer, la lumière, la Promenade, la Colline du Château. Gardez votre portefeuille pour la nourriture, pas pour la vue."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Marché, vieille ville, mer et coucher de soleil",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Marché du Cours Saleya",
+              "description": "Promenez-vous parmi les étals de fleurs et de fruits ; des fruits locaux et un espresso feront office de petit-déjeuner."
+            },
+            {
+              "time": "10:30",
+              "title": "Les ruelles du Vieux Nice",
+              "description": "Perdez-vous dans les rues étroites : une glace sur la Place Rossetti, des églises baroques, la lumière entre les fils à linge."
+            },
+            {
+              "time": "12:30",
+              "title": "Pause Socca",
+              "description": "Une socca chaude sortie du four à bois + un verre de rosé frais. Le déjeuner le plus authentique de Nice."
+            },
+            {
+              "time": "14:00",
+              "title": "Colline du Château",
+              "description": "Montez à pied (l'ascenseur ne compte pas) : la cascade, le point de vue en céramique et la meilleure photo de la ville."
+            },
+            {
+              "time": "16:30",
+              "title": "Heure de la mer",
+              "description": "Serviette sur les galets, plongez dans la Méditerranée. Vous vous sentez courageux ? Dirigez-vous vers Coco Beach et nagez avec les locaux."
+            },
+            {
+              "time": "19:00",
+              "title": "Coucher de soleil sur la Promenade + dîner",
+              "description": "Coucher de soleil depuis les célèbres chaises bleues, puis un bistro du Vieux Nice : pissaladière, daube, un verre de Bellet."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Les classiques de Nice",
+              "description": "Le parcours d'une journée ci-dessus : marché, vieille ville, colline, mer."
+            },
+            {
+              "time": "Day 2",
+              "title": "Cimiez et l'art",
+              "description": "Le Musée Matisse et les jardins du monastère de Cimiez le matin, le Musée Chagall l'après-midi, du poisson près du Port le soir."
+            },
+            {
+              "time": "Day 3",
+              "title": "Une escapade côtière et au revoir",
+              "description": "Prenez le train pour Villefranche-sur-Mer ou Èze ; une tournée des pâtisseries dans le quartier des Musiciens au retour, et un dernier pan bagnat le soir."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Les mots de courtoisie français ouvrent des portes à Nice ; une touche de Nissart vous garantit des sourires.",
+      "items": [
+        {
+          "word": "Bonjour",
+          "pronunciation": "bohn-ZHOOR",
+          "meaning": "Bonjour — le premier mot obligatoire de tout échange ; l'omettre rendra le service glacial"
+        },
+        {
+          "word": "Merci",
+          "pronunciation": "mehr-SEE",
+          "meaning": "Merci — plus fort avec « beaucoup »"
+        },
+        {
+          "word": "S'il vous plaît",
+          "pronunciation": "seel voo PLEH",
+          "meaning": "S'il vous plaît — ajoutez-le à la fin de votre commande"
+        },
+        {
+          "word": "Santé!",
+          "pronunciation": "sahn-TAY",
+          "meaning": "Santé ! — les verres de rosé se lèvent à cette occasion"
+        },
+        {
+          "word": "Issa Nissa!",
+          "pronunciation": "EE-sah NEE-sah",
+          "meaning": "'Vive Nice !' en nissart — le cri de ralliement de la ville, du stade à la rue"
+        }
+      ]
+    }
+  }
+}

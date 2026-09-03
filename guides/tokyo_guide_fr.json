@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Tokyo",
+    "country": "Japan",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2B3A67",
+    "color_light": "#E9EBF3",
+    "tagline": "Le géant silencieux de l'ordre, du néon et de la perfection"
+  },
+  "pills": [
+    "La plus grande métropole du monde",
+    "Le plus grand nombre d'étoiles Michelin de toutes les villes",
+    "Tradition et futur côte à côte"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Tokyo",
+      "intro": "Tokyo n'est pas une ville, mais une centaine de villes imbriquées : cinq minutes séparent la marée humaine du carrefour de Shibuya de la forêt de cèdres du sanctuaire Meiji. Ici, le métro le plus dense du monde ne prend pas une seconde de retard, le plus petit restaurant de ramen pratique son art avec un sérieux religieux, et un distributeur automatique sert de la soupe chaude. La ville est immense mais jamais impolie : tout le monde circule discrètement, chaque recoin est propre, même se perdre est sans danger. Le secret de Tokyo ne réside pas dans son échelle, mais dans ses détails — plus vous regardez de près, plus vous en voyez.",
+      "local_word": {
+        "word": "Omotenashi",
+        "pronunciation": "oh-moh-teh-NAH-shee",
+        "definition": "La philosophie de l'hospitalité japonaise : un service anticipé avant même que vous ne le demandiez, offert sans attente de retour. La porte de taxi qui s'ouvre d'elle-même, le caissier qui vous présente votre paquet à deux mains, le sac en papier glissé dans un sac en plastique quand il pleut — tout cela est omotenashi. Il n'y a pas de pourboire, car l'excellence est déjà la norme."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Circulez discrètement : pas d'appels téléphoniques dans le train, pas de nourriture en marchant",
+          "description": "L'ordre de Tokyo repose sur des règles invisibles : pas de conversations téléphoniques dans le métro, la nourriture est consommée debout plutôt qu'en marchant, et vos déchets voyagent dans votre sac — les poubelles sont rares. Le respect est le visa invisible du touriste : suivez les règles et la ville vous ouvrira ses portes."
+        },
+        {
+          "number": 2,
+          "title": "Ayez toujours une carte IC et de l'argent liquide",
+          "description": "Une carte Suica ou Pasmo (téléchargeable sur votre téléphone) fonctionne partout, du métro au distributeur automatique ; mais les petits restaurants de ramen et les temples préfèrent toujours l'argent liquide. Dans les restaurants à distributeur de tickets, achetez d'abord votre bon à la machine — la table est dressée sans échange d'argent."
+        },
+        {
+          "number": 3,
+          "title": "Visitez par quartier ; n'essayez pas de 'finir' la ville",
+          "description": "Tokyo ne peut pas être 'vue' en une seule fois : la matinée au temple d'Asakusa, la nuit néon de Shibuya et les vieilles ruelles de Yanaka sont des villes distinctes. Choisissez deux ou trois quartiers par jour et reliez-les en train — moins de quartiers, plus de profondeur : voilà la formule de Tokyo."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Haneda (HND) / Narita (NRT)",
+          "sub": "Haneda proche, Narita par express"
+        },
+        {
+          "icon": "🚉",
+          "label": "Emblème",
+          "value": "The Yamanote Line",
+          "sub": "La boucle verte qui encercle la ville"
+        },
+        {
+          "icon": "💴",
+          "label": "Monnaie",
+          "value": "Yen (JPY)",
+          "sub": "Carte IC + espèces, les deux sont essentiels"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Japanese",
+          "sub": "Anglais limité, courtoisie illimitée"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Tokyo",
+        "text": "Moitié plan, moitié découverte : un monde se cache derrière les rues secondaires de chaque station. Perdez-vous — à Tokyo, c'est sûr, propre et généralement la meilleure histoire de la journée. Montez dans un train, descendez à un arrêt que vous ne connaissez pas."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Le réseau ferroviaire de Tokyo est la sève de la ville : la ligne Yamanote est la colonne vertébrale, le métro ses capillaires — et une carte Suica rend tout accessible d'un simple geste.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arrivée des aéroports",
+          "description": "Haneda relie le centre en une demi-heure par monorail ou la ligne Keikyu ; depuis Narita, le Narita Express ou le Skyliner prend environ une heure. Oubliez les billets papier et utilisez Suica — achetez la carte à l'aéroport ou chargez-la sur votre téléphone."
+        },
+        {
+          "icon": "🚉",
+          "title": "La ligne Yamanote",
+          "description": "Ce train circulaire vert relie les principales stations de la ville : Shibuya, Shinjuku, Ueno, Gare de Tokyo. Si vous êtes perdu, revenez à la Yamanote — la boucle vous ramènera toujours à un quai familier."
+        },
+        {
+          "icon": "🚇",
+          "title": "Maîtriser le métro",
+          "description": "Deux compagnies de métro et des lignes codées par couleur peuvent sembler déroutantes au début : suivez les numéros de station (comme G-09) ; la signalisation est impeccable. L'heure de pointe de 07h30 à 09h00 est à prendre au sérieux — ne montez jamais avec une valise à ce moment-là."
+        },
+        {
+          "icon": "🚶",
+          "title": "Explorer les quartiers à pied",
+          "description": "Les quartiers de Tokyo se révèlent à pied : sortez de la station, quittez la rue principale, tournez dans les ruelles. Les adresses sont par bloc, pas par nom de rue — suivez la carte, et considérez se perdre comme faisant partie de l'aventure."
+        },
+        {
+          "icon": "🚄",
+          "title": "Excursions d'une journée en Shinkansen",
+          "description": "Depuis la gare de Tokyo, le train à grande vitesse atteint Kamakura, Nikko et même les contreforts du Mont Fuji pour des excursions d'une journée. Le JR Pass n'est plus rentable pour tout le monde — calculez votre itinéraire ; les billets simples sont plus avantageux pour la plupart des courts trajets."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil train",
+        "text": "Chargez Suica sur votre téléphone et utilisez le solde aux distributeurs automatiques également : chercher une carte à la barrière est contraire au rythme de Tokyo. Le dernier train circule vers minuit et est pris au sérieux — si vous le manquez, vos options sont un taxi, un hôtel capsule ou un izakaya ouvert jusqu'à l'aube."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Tokyo, choisir un quartier, c'est choisir une ville : le néon de Shinjuku, les matins de temple d'Asakusa, le raffinement de Ginza – chacun est un Tokyo différent.",
+      "local_word": {
+        "word": "Shitamachi",
+        "pronunciation": "shtah-MAH-chee",
+        "definition": "'La ville basse' : les quartiers des marchands et artisans de l'ère Edo – l'actuel Asakusa, Yanaka et Ueno. Des ruelles étroites, de petits ateliers, des bains publics de quartier et un esprit de communauté y vivent encore. L'antidote au Tokyo des gratte-ciel est le rythme lent de shitamachi."
+      },
+      "items": [
+        {
+          "name": "Shinjuku",
+          "badge": "Centre de tout",
+          "badge_type": "hot",
+          "description": "La gare la plus fréquentée du monde, les rues néon, les ruelles d'izakaya et les mini-bars de Golden Gai : le cœur de l'intensité de Tokyo. Connecté à toutes les lignes – haute énergie, rues ouvertes jusqu'à l'aube.",
+          "tags": [
+            "Géant du transit",
+            "Nuits néon",
+            "Ruelles d'izakaya"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Shinjuku+Tokyo"
+        },
+        {
+          "name": "Shibuya",
+          "badge": "Pouls jeune",
+          "badge_type": "hot",
+          "description": "Le célèbre carrefour, les rues de la mode et la vie nocturne : la vitrine du jeune Tokyo. Harajuku et Omotesando à distance de marche – le rythme est élevé et l'ennui impossible.",
+          "tags": [
+            "Au carrefour",
+            "Rues de la mode",
+            "Énergie jeune"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Shibuya+Tokyo"
+        },
+        {
+          "name": "Asakusa",
+          "badge": "Vieux Tokyo",
+          "badge_type": "value",
+          "description": "Le quartier du temple Senso-ji : cours de temple le matin, volets fermant tôt, nuits calmes. Prix abordables et options de ryokan – pour se réveiller dans l'esprit shitamachi.",
+          "tags": [
+            "Près du temple",
+            "Prix abordables",
+            "Options de ryokan"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Asakusa+Tokyo"
+        },
+        {
+          "name": "Ginza and Tokyo Station",
+          "badge": "Centre raffiné",
+          "badge_type": "vibe",
+          "description": "Vitrine de luxe, sous-sols Michelin et promenade du Palais Impérial : la rive la plus raffinée de Tokyo. À côté de la gare de Tokyo, la porte du shinkansen – confort et emplacement à leur apogée.",
+          "tags": [
+            "Vitrine de luxe",
+            "Porte du Shinkansen",
+            "Promenades au palais"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ginza+Tokyo"
+        },
+        {
+          "name": "Ueno and Yanaka",
+          "badge": "Rythme local",
+          "badge_type": "local",
+          "description": "Le parc des musées, la rue commerçante Ameyoko et les vieilles ruelles de Yanaka : peu de faste touristique, beaucoup de caractère. Sur la Yamanote – une base calme et authentique.",
+          "tags": [
+            "Parc des musées",
+            "Rue du marché",
+            "Vieilles ruelles"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ueno+Yanaka+Tokyo"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Le calendrier de Tokyo connaît deux pics : la floraison des cerisiers (sakura) fin mars et les couleurs d'automne (koyo) en novembre – mais la ville vit pleinement douze mois par an, et chaque saison raconte une histoire différente.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "La vague de Sakura",
+          "months": "Mar – Mai",
+          "subtitle": "Printemps · Pique-niques Hanami, journées douces",
+          "description": "Fin mars et début avril, les sakura peignent la ville en rose : les pique-niques hanami remplissent les parcs et les canaux débordent de pétales. Le pic dure une semaine et le monde entier vient pour cela – tout comme les prix et les foules. Mai est la porte dérobée verte et calme.",
+          "callout": {
+            "type": "warning",
+            "label": "Note sur les Sakura",
+            "text": "Réservez vos chambres pour la semaine des sakura des mois à l'avance et suivez les cartes de prévision : le pic se décale chaque année. Si Ueno et le canal de Meguro sont bondés, allez-y à 07h00 – le même rose, un chemin vide. Et attention à la Golden Week (fin avril-début mai) : tout est plein."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Matsuri et humidité",
+          "months": "Jun – Aug",
+          "subtitle": "Été · Tambours de festival, feux d'artifice, air collant",
+          "description": "L'été à Tokyo est humide et chaud, mais il vous le rend bien : festivals matsuri de quartier, soirées yukata et feux d'artifice sur les rivières. Les pauses climatisées dans les musées et cafés font partie du programme – tôt le matin et tard le soir est la formule de l'été.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de juillet",
+            "text": "Si vous assistez à la nuit des feux d'artifice de la rivière Sumida, réservez votre place des heures à l'avance ou trouvez un pont éloigné de la foule. Achetez des yakisoba et des kakigori (glace pilée) aux stands des matsuri – l'été à Tokyo a le goût des rues de fête."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Le Koyo cramoisi",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Ciel clair, jardins d'érables cramoisis",
+          "description": "Octobre rafraîchit et novembre peint la ville en cramoisi et or : jardins d'érables, avenues de ginkgos et vues cristallines sur le Fuji. C'est la période de visite la plus équilibrée de Tokyo – moins de monde qu'à la saison des sakura, et une lumière encore plus belle.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de novembre",
+            "text": "Fin novembre, découvrez les illuminations nocturnes des jardins Rikugien et Koishikawa : les érables cramoisis brillent comme des tableaux flottant dans l'obscurité. Le tunnel de ginkgos du Meiji Jingu Gaien devient doré les mêmes semaines."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Clair et calme",
+          "months": "Dec – Feb",
+          "subtitle": "Hiver · Froid sec, vues cristallines sur le Fuji, izakayas chaleureux",
+          "description": "L'hiver à Tokyo est sec et ensoleillé : le ciel reste clair, et le Fuji apparaît d'une netteté cristalline depuis les ponts d'observation. Les visites de temples du Nouvel An (hatsumode) comptent parmi les traditions les plus authentiques de la ville – les hôtels sont plus calmes qu'en été et les izakayas sont fumants et chaleureux.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de janvier",
+            "text": "Montez sur une plateforme d'observation tôt un matin de janvier : dans l'air hivernal, le Fuji se dresse, net comme une carte postale, au-dessus de la ville. Chassez le froid du soir dans un stand d'oden ou dans la vapeur d'un ramen – l'hiver est la saison des soupes à Tokyo."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Gastronomie",
+      "intro": "Tokyo compte plus d'étoiles Michelin que n'importe quelle autre ville au monde, mais son véritable miracle réside dans l'extraordinaire qualité des lieux les plus ordinaires : même le cuisinier de ramen de la gare est un artisan.",
+      "local_word": {
+        "word": "Omakase",
+        "pronunciation": "oh-mah-KAH-seh",
+        "definition": "'Je vous laisse faire' : l'art de confier le menu au chef. Dites 'Omakase' dans un bar à sushis et le chef vous concoctera un menu personnalisé à partir des meilleurs poissons du jour — la maîtrise en échange de la confiance. Indiquer votre budget à l'avance n'est pas impoli ; l'Omakase peut être somptueux, ou une affaire surprenante pour le déjeuner."
+      },
+      "items": [
+        {
+          "icon": "🍣",
+          "name": "Sushi : du comptoir à l'Omakase",
+          "description": "Du sushi matinal du marché de Toyosu au comptoir du maître du quartier : le poisson frais est la base ici ; l'artisanat fait la différence. Les bars à sushis debout (tachigui) sont excellents et abordables — manger le nigiri avec la main est légitime, et tremper le côté poisson dans la sauce soja est l'étiquette.",
+          "tag": "Au comptoir · soja côté poisson",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=sushi+Toyosu+Tokyo"
+        },
+        {
+          "icon": "🍜",
+          "name": "Le rituel du ramen",
+          "description": "Achetez un ticket à la machine, prenez place au comptoir, attendez votre bol : du tonkotsu au shoyu, chaque boutique maîtrise une seule soupe. Aspirer bruyamment n'est pas impoli, c'est un compliment — et une file d'attente signifie que vous êtes à la bonne adresse.",
+          "tag": "Ticket à la machine · slurper bienvenu",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=ramen+Tokyo"
+        },
+        {
+          "icon": "🏮",
+          "name": "Soirée Izakaya",
+          "description": "Dans la taverne japonaise, les petites assiettes ne cessent d'arriver : brochettes de yakitori, edamame, poulet frit karaage. Commencez par un 'toriaezu nama' (une bière, pour commencer) — l'izakaya est l'endroit où Tokyo se détend après le travail.",
+          "tag": "Petites assiettes · une bière pour commencer",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=izakaya+yakitori+Tokyo"
+        },
+        {
+          "icon": "🏪",
+          "name": "Petit-déjeuner Konbini",
+          "description": "7-Eleven, Lawson, FamilyMart : le dépanneur japonais est une cuisine — onigiri, le célèbre sandwich aux œufs (tamago sando) et café chaud. Bon marché, frais et étonnamment bon : quiconque méprise le konbini manque la première leçon de Tokyo.",
+          "tag": "Miracle du dépanneur · tamago sando",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=konbini+Tokyo"
+        },
+        {
+          "icon": "🍱",
+          "name": "Découverte des Depachika",
+          "description": "Les halles alimentaires en sous-sol des grands magasins de luxe : boîtes bento, douceurs mochi, une centaine de sortes de cornichons. Des autocollants de réduction apparaissent à l'approche de l'heure de fermeture — un bento depachika dégusté dans un parc est l'astuce pique-nique élégante de Tokyo.",
+          "tag": "Festin en sous-sol · réductions de fin de journée",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=depachika+Tokyo"
+        },
+        {
+          "icon": "🍵",
+          "name": "Wagashi et une pause matcha",
+          "description": "Les wagashi, ces délicates douceurs façonnées par la saison, à côté d'un bol profond de matcha : dans une maison de thé de temple ou chez un ancien confiseur. Le sucré d'abord, le thé ensuite — amertume et douceur se répondent.",
+          "tag": "Grâce du salon de thé · façonné par la saison",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=wagashi+matcha+Tokyo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil",
+        "text": "À Tokyo, les menus du déjeuner (teishoku) offrent une maîtrise culinaire à la moitié du prix du soir : prévoyez le grand repas pour midi. Les files d'attente sont un signe de qualité et les présentations de plats en plastique décodent le menu — et rappelez-vous : pas de pourboire ; les remerciements se disent avec 'gochisosama deshita'."
+      }
+    },
+    "hidden_gems": {
+      "title": "Coins Cachés",
+      "intro": "Tout le monde voit le carrefour de Shibuya ; ces six lieux sont le visage caché de Tokyo, avec ses vieilles ruelles et ses vallées discrètes.",
+      "items": [
+        {
+          "rarity": "La ruelle commerçante du vieux Tokyo",
+          "name": "Yanaka Ginza",
+          "description": "La rue commerçante d'un quartier shitamachi qui a survécu à la guerre et aux tremblements de terre : figurines de chats, boutiques d'artisanat et les 'escaliers du coucher de soleil' sous la lumière du soir. Avec ses cours de temples et son vieux cimetière ombragé de cèdres — l'après-midi le plus lent de Tokyo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Yanaka+Ginza+Tokyo"
+        },
+        {
+          "rarity": "L'arrière-rue des théâtres",
+          "name": "Shimokitazawa",
+          "description": "Disquaires d'occasion, boutiques vintage, petites scènes et torréfacteurs : le village bohème de Tokyo. À deux arrêts des lignes principales, mais à des années-lumière en termes d'ambiance — le dimanche après-midi est son heure la plus animée.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Shimokitazawa+Tokyo"
+        },
+        {
+          "rarity": "Une vallée au cœur de la ville",
+          "name": "Todoroki Valley",
+          "description": "Une vallée fluviale ombragée par le bambou et l'érable au milieu de Setagaya : un sentier, un pont rouge et une maison de thé de temple au bout de la vallée. Le bruit de la métropole disparaît en trente secondes — l'évasion nature la plus surprenante de Tokyo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Todoroki+Valley+Tokyo"
+        },
+        {
+          "rarity": "Quartier de geishas pavé de pierre",
+          "name": "Kagurazaka",
+          "description": "Les ruelles pavées d'un ancien quartier de geishas, aujourd'hui remplies de bistros français et de restaurants kappo : le 'petit Paris' de Tokyo. Les escaliers éclairés par des lanternes rouges dans ses ruelles latérales sont la récompense de la promenade du soir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kagurazaka+Tokyo"
+        },
+        {
+          "rarity": "Duo art et jardin",
+          "name": "Le jardin du musée Nezu",
+          "description": "Une collection d'art asiatique à côté d'Omotesando, avec un jardin japonais caché derrière : maisons de thé, pierres moussues, un étang de lotus. Du cœur de la mode à la quiétude en deux minutes — l'élégant résumé des contrastes de Tokyo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Nezu+Museum+Tokyo"
+        },
+        {
+          "rarity": "Ruelle d'izakaya éclairée aux lanternes",
+          "name": "Omoide Yokocho",
+          "description": "Une étroite ruelle d'izakaya d'après-guerre au pied de la gare de Shinjuku : fumée, lumière des lanternes et comptoirs où l'on se tient épaule contre épaule. Elle porte bien son nom, 'Memory Lane' (Allée des Souvenirs) — une brochette de yakitori et une bière sont le billet pour un voyage dans le temps.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Omoide+Yokocho+Shinjuku+Tokyo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Stratégie du contraste",
+        "text": "Visitez Tokyo par contraste : équilibrez une matinée néon avec un vieux quartier, un carrefour bondé avec un jardin. De Shibuya à Todoroki, de Shinjuku à Kagurazaka — deux Tokyo opposés en une journée, c'est le véritable portrait de la ville."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Tokyo est l'une des villes les plus honnêtes du monde ; ses pièges sont rares mais épuisants pour les non-préparés – gardez ces quatre points à l'esprit.",
+      "items": [
+        {
+          "icon": "🍸",
+          "name": "Les rabatteurs de Kabukicho",
+          "description": "Dans le quartier de la vie nocturne, des rabatteurs proposant 'boissons gratuites, super bar' (surtout les anglophones) vous dirigent vers des établissements aux factures gonflées ; s'y opposer est difficile.",
+          "instead": "Ne suivez jamais une invitation de rue dans un bar – respectez cette règle absolument. Pour une soirée, choisissez les bars signalés de Golden Gai ou les chaînes d'izakaya ; renseignez-vous sur le droit d'entrée à la porte, et la réponse sera claire."
+        },
+        {
+          "icon": "🍣",
+          "name": "Les comptoirs à sushis pour touristes",
+          "description": "Dans certaines zones touristiques, des vitrines criant 'poisson frais' vendent des sushis médiocres à des prix de maître ; une foule avec un menu en anglais peut induire en erreur.",
+          "instead": "Choisissez les bars tachigui avec file d'attente, les comptoirs des marchés couverts ou les menus du midi des maîtres sushis. Une liste de prix claire, un comptoir plein, un chef qui discute avec des clients japonais – c'est le bon endroit."
+        },
+        {
+          "icon": "🎫",
+          "name": "Le JR Pass réflexe",
+          "description": "Le prix du JR Pass a augmenté : un voyageur séjournant à Tokyo avec une ou deux excursions d'une journée ne rentabilise jamais le pass.",
+          "instead": "Calculez votre itinéraire : pour les longs trajets comme un aller-retour Kyoto–Osaka, le pass peut encore avoir du sens, mais pour un voyage centré sur Tokyo, Suica plus les billets individuels l'emportent presque toujours. Cinq minutes de calcul, des économies sérieuses."
+        },
+        {
+          "icon": "💴",
+          "name": "Supposer que les cartes fonctionnent partout",
+          "description": "Tokyo semble moderne, mais les petits restaurants, les temples et certains bars n'acceptent que les espèces ; le touriste sans espèces reste à la porte.",
+          "instead": "Ayez toujours 10 000 à 20 000 yens en espèces sur vous ; les distributeurs automatiques des konbini (7-Eleven) acceptent les cartes étrangères sans problème. Les pièces de monnaie sont également utiles dans les magasins avec distributeurs de billets – l'argent liquide reste essentiel à Tokyo."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "Presque personne à Tokyo n'essaie de vous arnaquer – les exceptions se regroupent dans les quartiers nocturnes et les comptoirs touristiques. Faites confiance à la file d'attente, méfiez-vous du rabatteur, ayez de l'argent liquide : avec ces trois choses, l'honnêteté de la ville joue entièrement en votre faveur."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Vous Avez 1 Jour",
+          "subtitle": "Du matin au temple à la nuit néon",
+          "steps": [
+            {
+              "time": "07:30",
+              "title": "Matinée au Senso-ji",
+              "description": "Visitez le temple d'Asakusa avant la foule : passez sous la lanterne Kaminarimon, faites un vœu dans la fumée d'encens. Partez au moment où les boutiques de Nakamise ouvrent."
+            },
+            {
+              "time": "10:00",
+              "title": "Ueno et les ruelles de Yanaka",
+              "description": "Une brève incursion dans l'un des musées du parc, puis une promenade dans le vieux Tokyo le long de Yanaka Ginza : chats, boutiques d'artisanat, escaliers en pierre."
+            },
+            {
+              "time": "13:00",
+              "title": "Midi Ramen",
+              "description": "De la machine à tickets au comptoir : la récompense de la journée dans un bol fumant. Aspirez bruyamment — c'est un compliment."
+            },
+            {
+              "time": "15:00",
+              "title": "Sanctuaire Meiji et Harajuku",
+              "description": "Du silence de la forêt de cèdres au chaos sucré de Takeshita Street : le contraste de Tokyo en une seule promenade. Terminez par les vitrines architecturales d'Omotesando."
+            },
+            {
+              "time": "17:30",
+              "title": "Carrefour de Shibuya et une plateforme d'observation",
+              "description": "Traversez-le d'abord de l'intérieur, puis observez d'en haut : à mesure que les lumières s'allument, la marée humaine devient une danse synchronisée."
+            },
+            {
+              "time": "19:30",
+              "title": "Izakaya et Omoide Yokocho",
+              "description": "Yakitori et bière dans l'allée aux lanternes, épaule contre épaule au comptoir : 'toriaezu nama !' Si la nuit s'étire, les mini-bars de Golden Gai sont à deux pas."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Vous Avez 3 Jours",
+          "subtitle": "Temples, vallées et comptoirs — tout Tokyo",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Tokyo Classique",
+              "description": "Le parcours d'un jour ci-dessus : Senso-ji, Yanaka, ramen, Meiji-Harajuku, Shibuya, une soirée izakaya."
+            },
+            {
+              "time": "Day 2",
+              "title": "Matinée au marché et la rive élégante",
+              "description": "Petit-déjeuner sushi à Toyosu ou au marché extérieur de Tsukiji ; vitrines de Ginza et chasse au depachika à midi ; thé dans le jardin du musée Nezu l'après-midi ; un dîner kappo dans les ruelles pavées de Kagurazaka le soir."
+            },
+            {
+              "time": "Day 3",
+              "title": "Vallée, village bohème et adieux",
+              "description": "Matinée sur le sentier du ruisseau de la vallée de Todoroki avec un thé au temple ; disques et vintage à Shimokitazawa l'après-midi ; coucher de soleil d'adieu depuis une plateforme d'observation de Shinjuku — saluez le Fuji si le temps est clair, et terminez dans la vapeur de ramen."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de survie en 5 mots",
+      "intro": "Le japonais est une langue de courtoisie, et même un seul mot d'effort vous vaudra un grand respect ; ces cinq mots ouvrent toutes les portes.",
+      "items": [
+        {
+          "word": "Konnichiwa",
+          "pronunciation": "kon-nee-chee-WAH",
+          "meaning": "Bonjour — la salutation de jour ; accompagnez-la d'une légère inclinaison"
+        },
+        {
+          "word": "Arigatou gozaimasu",
+          "pronunciation": "ah-ree-gah-TOH go-zai-mas",
+          "meaning": "Merci beaucoup — 'arigatou' en abrégé ; vous le direz cinquante fois par jour"
+        },
+        {
+          "word": "Sumimasen",
+          "pronunciation": "soo-mee-mah-SEN",
+          "meaning": "Excusez-moi / désolé / merci — le mot magique le plus polyvalent du japonais"
+        },
+        {
+          "word": "Itadakimasu",
+          "pronunciation": "ee-tah-dah-kee-MAS",
+          "meaning": "Dit avant de manger — l'expression de gratitude envers le repas ; mains jointes"
+        },
+        {
+          "word": "Kanpai!",
+          "pronunciation": "kahn-PIE",
+          "meaning": "Santé ! — le geste d'ouverture d'une soirée izakaya ; les verres se touchent légèrement"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Check-list de Tokyo",
+      "completion_message": "Kanpai ! Vous avez vécu la ville de l'ordre et du néon comme elle le mérite !",
+      "items": [
+        {
+          "label": "Visiter le Senso-ji tôt le matin",
+          "sub": "La lanterne Kaminarimon, la fumée d'encens"
+        },
+        {
+          "label": "Voir le Shibuya Crossing de l'intérieur et d'en haut",
+          "sub": "Traverser d'abord, puis observer"
+        },
+        {
+          "label": "Acheter vos ramen à la machine à tickets",
+          "sub": "Au comptoir, en aspirant bruyamment"
+        },
+        {
+          "label": "Dire 'toriaezu nama' dans un izakaya",
+          "sub": "Laisser les petites assiettes arriver sans cesse"
+        },
+        {
+          "label": "Se promener dans la forêt de cèdres du sanctuaire Meiji",
+          "sub": "Le silence à côté de Harajuku"
+        },
+        {
+          "label": "Monter les escaliers du coucher de soleil à Yanaka Ginza",
+          "sub": "La ruelle marchande du vieux Tokyo"
+        },
+        {
+          "label": "Acheter un bento depachika, le manger dans un parc",
+          "sub": "Festin au sous-sol — réductions de fin de journée"
+        },
+        {
+          "label": "Manger des yakitori à Omoide Yokocho",
+          "sub": "Dans l'allée aux lanternes, épaule contre épaule"
+        },
+        {
+          "label": "Marcher le long du sentier du ruisseau de la vallée de Todoroki",
+          "sub": "Une forêt en trente secondes, au cœur de la métropole"
+        },
+        {
+          "label": "Chercher le Fuji depuis une plateforme d'observation",
+          "sub": "Un matin d'hiver est votre meilleure chance"
+        }
+      ]
+    }
+  }
+}

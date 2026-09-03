@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Lesbos",
+    "country": "Greece",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#3E6B4F",
+    "color_light": "#E8F2EC",
+    "tagline": "Ouzo, olives et une île qui prend son temps"
+  },
+  "pills": [
+    "À 40 minutes d'Ayvalık",
+    "La capitale de l'ouzo",
+    "Siga siga — lentement, lentement"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Lesbos",
+      "intro": "Lorsque le ferry accoste à Mytilène, ce qui vous accueille n'est pas une île touristique, mais une province grecque vivante. Lesbos est la troisième plus grande île de Grèce : onze millions d'oliviers, le meilleur ouzo du monde, des sources chaudes et des villages qui n'ont jamais cédé au tourisme. Personne ici n'essaie de vous vendre quoi que ce soit ; vous sirotez votre café, nagez et vous laissez entraîner dans la conversation de la table voisine. L'île est grande et tranquille – soyez tranquille vous aussi.",
+      "local_word": {
+        "word": "Siga siga",
+        "pronunciation": "SEE-gah SEE-gah",
+        "definition": "Grec pour 'lentement, lentement' : le tempo de Lesbos et sa philosophie officielle. Le service est en retard, le ferry est retardé ? Siga siga. Adopter ces deux mots est le seul moyen de s'adapter à l'île."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Louez une voiture – l'île est plus grande qu'il n'y paraît",
+          "description": "Lesbos s'étend sur 1 600 km² : de Mytilène à Molyvos, il faut plus d'une heure. Les bus sont rares ; pour vraiment voir l'île, vous avez besoin de roues. Les routes sont bonnes mais sinueuses – pas de précipitation entre les oliveraies."
+        },
+        {
+          "number": 2,
+          "title": "Ne buvez jamais d'ouzo sans manger",
+          "description": "L'ouzo de Plomari est le meilleur du monde, mais il se boit à la grecque : toujours avec du meze, de la glace et de l'eau. Tout le monde à table peut repérer le touriste qui vide son verre d'un trait."
+        },
+        {
+          "number": 3,
+          "title": "Réglez tôt vos formalités de ferry et de passeport",
+          "description": "En venant de Turquie, la pratique du visa à l'arrivée et les horaires des ferries changent selon la saison. Réservez la traversée Ayvalık–Mytilène à l'avance et vérifiez votre retour dès le premier jour."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "⛴️",
+          "label": "Comment s'y rendre",
+          "value": "Ferry depuis Ayvalık",
+          "sub": "≈40 min · quotidien en été"
+        },
+        {
+          "icon": "🚗",
+          "label": "Sur l'île",
+          "value": "Voiture de location",
+          "sub": "Bus rares, longues distances"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Grec",
+          "sub": "Anglais dans les zones touristiques, parfois turc"
+        },
+        {
+          "icon": "🥃",
+          "label": "Spécialité",
+          "value": "Ouzo de Plomari",
+          "sub": "La capitale mondiale de l'ouzo"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Lesbos",
+        "text": "Si vous remarquez que le déjeuner à la taverne a duré trois heures, ne vous inquiétez pas : tout se passe exactement comme il faut. L'île a réussi à vous ralentir."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "La clé de Lesbos, c'est votre propre véhicule ; tout le reste n'est que détail.",
+      "items": [
+        {
+          "icon": "⛴️",
+          "title": "Ferries — Ayvalık et Le Pirée",
+          "description": "La traversée Ayvalık–Mytilène a lieu quotidiennement en été, moins fréquemment en hiver ; environ 40 minutes. Les grands ferries du Pirée sont un voyage de nuit de 8 à 10 heures. Réservez à l'avance et arrivez tôt pour le contrôle des passeports."
+        },
+        {
+          "icon": "🚗",
+          "title": "Voiture de location — la clé de l'île",
+          "description": "Bureaux au port et à l'aéroport ; réservez à l'avance en été. C'est le seul moyen confortable de faire des excursions d'une journée aux extrémités de l'île — Molyvos, Plomari, Sigri. Les stations-service sont rares dans les villages ; ne laissez jamais le réservoir descendre en dessous de la moitié."
+        },
+        {
+          "icon": "🚌",
+          "title": "Bus KTEL",
+          "description": "Quelques trajets quotidiens de Mytilène vers les principales villes ; bon marché mais limités. Sans voiture, organisez votre itinéraire autour des horaires et ne manquez jamais le dernier bus."
+        },
+        {
+          "icon": "🛵",
+          "title": "Scooters et quads",
+          "description": "Pratiques pour de courts trajets autour de Mytilène ; mais l'île est venteuse et les routes sinueuses — une voiture est plus sûre pour les longues distances."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxis",
+          "description": "Facilement trouvables à Mytilène, rares dans les villages. Convenez du prix avant les longs trajets ; de l'aéroport à la ville, c'est court et raisonnable."
+        }
+      ],
+      "callout": {
+        "type": "warning",
+        "label": "Avertissement horaires des ferries",
+        "text": "Si votre retour est vers Ayvalık, vérifiez les changements d'horaire dès votre premier jour, pas le dernier ; les traversées sont annulées en cas de vent fort. Le plan B est une nuit de plus à Lesbos — ce n'est guère une punition."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "Il n'y a pas de 'centre' unique à Lesbos ; l'île se divise en quatre caractères. Votre choix détermine le type de vacances que vous passerez.",
+      "local_word": {
+        "word": "Kafeneio",
+        "pronunciation": "kah-feh-NEE-oh",
+        "definition": "Le café traditionnel sur la place du village : backgammon, café infusé sur des braises, conversations qui durent des heures. Quel que soit le village où vous séjournez, buvez un café au kafeneio — c'est là que vous comprendrez le rythme de l'île."
+      },
+      "items": [
+        {
+          "name": "Mytilène — la capitale de l'île",
+          "badge": "Le plus pratique",
+          "badge_type": "value",
+          "description": "Port, bazar, restaurants et vie nocturne sont tous ici. Idéal pour la première et la dernière nuit si vous arrivez en ferry ; magnifique en soi avec ses demeures néoclassiques et son château. Comme base de départ pour des excursions, il est un peu trop au sud-est.",
+          "tags": [
+            "Près du ferry",
+            "Bazar et bars",
+            "Demeures néoclassiques"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mytilene"
+        },
+        {
+          "name": "Molyvos (Mithymna) — la perle du nord",
+          "badge": "Le plus romantique",
+          "badge_type": "vibe",
+          "description": "Maisons en pierre, ruelles fleuries de bougainvilliers et un château byzantin sur la colline : la carte postale de l'île. Un port au coucher du soleil, une âme d'artiste et des maisons d'hôtes de charme en font le coin de Lesbos dont on tombe amoureux. À 60 km de Mytilène — et ça en vaut la peine.",
+          "tags": [
+            "Vues sur le château",
+            "Port au coucher du soleil",
+            "Maisons d'hôtes de charme"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Molyvos+Lesvos"
+        },
+        {
+          "name": "Plomari — la ville de l'ouzo",
+          "badge": "Le plus délicieux",
+          "badge_type": "local",
+          "description": "Sur la côte sud, la capitale des distilleries. Tavernes en bord de mer, un ruisseau traversé par des ponts de pierre et une culture du mézé prise au sérieux : l'adresse pour des vacances gourmandes. La plage d'Agios Isidoros est juste à côté.",
+          "tags": [
+            "Distilleries d'ouzo",
+            "Plage d'Agios Isidoros",
+            "Culture du mézé"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Plomari+Lesvos"
+        },
+        {
+          "name": "Skala Eresou — l'esprit libre de l'ouest",
+          "badge": "Le plus décontracté",
+          "badge_type": "hot",
+          "description": "La plage de l'ancienne Érèse, lieu de naissance de la poétesse Sappho : un long rivage sablonneux, des cafés décontractés et une foule fidèle venue du monde entier. L'un des plus beaux couchers de soleil de l'île et son atmosphère la plus détendue.",
+          "tags": [
+            "Longue plage de sable",
+            "Village de Sappho",
+            "Atmosphère détendue"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Skala+Eresou+Lesvos"
+        },
+        {
+          "name": "Petra et environs — pour les familles",
+          "badge": "Idéal pour les familles",
+          "badge_type": "value",
+          "description": "Petra, voisine de Molyvos, avec son église sur le rocher et sa longue plage peu profonde, est le classique familial. Des prix plus doux qu'à Molyvos, les routes du nord tout aussi proches.",
+          "tags": [
+            "Mer peu profonde",
+            "Église sur le rocher",
+            "Bon rapport qualité-prix"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Petra+Lesvos"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Lesbos vit toute l'année ; la saison touristique est courte, la belle saison est longue.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Fleurs et oiseaux",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Orchidées, flamants roses, routes désertes",
+          "description": "L'île devient l'un des meilleurs sites d'observation d'oiseaux d'Europe : flamants roses sur les salines de Kalloni, orchidées sauvages sur les collines. Air doux, mer encore fraîche, prix d'hiver. La meilleure période pour la randonnée et l'exploration.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de mai",
+            "text": "Fin mai, l'île est à son plus vert : les oliveraies brillent, les tavernes sont ouvertes, les foules ne sont pas encore arrivées."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Saison balnéaire",
+          "months": "Jul – Aug",
+          "subtitle": "Été · Mer chaude, tavernes pleines, festivals",
+          "description": "La mer atteint 25 degrés, les plages s'animent, les fêtes de village (panigiri) se succèdent. Même selon les standards des îles grecques, Lesbos reste calme en été — pas de cohue à la Mykonos ici. Autour du 15 août, l'Assomption, tout se remplit.",
+          "callout": {
+            "type": "warning",
+            "label": "Note d'août",
+            "text": "Le 15 août est la Dormition de la Vierge (Dekapentavgoustos) — la plus grande fête de Grèce après Pâques. Cette semaine-là, tout le pays part en vacances et des milliers de pèlerins se rendent à l'église de la Vierge d'Agiasos ; réservez vos ferries et chambres à l'avance."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Temps des récoltes",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Récolte des olives, mer chaude, lumière dorée",
+          "description": "Septembre est le pic secret de l'île : mer chaude, foules disparues, lumière adoucie. En octobre et novembre, la récolte des olives commence ; l'île reprend son vrai travail et invite volontiers les hôtes à y participer.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de septembre",
+            "text": "Mi-septembre, la mer est encore à 23 degrés ; les plages semblent presque privées."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "L'île des habitants",
+          "months": "Dec – Mar",
+          "subtitle": "Hiver · Sources chaudes, conversations au kafeneio",
+          "description": "Le tourisme s'arrête et l'île se replie sur elle-même. Les sources chaudes (Eftalou, Polichnitos) deviennent des réconforts hivernaux, les tables d'ouzo se déplacent à l'intérieur. La plupart des installations touristiques ferment, mais l'authenticité atteint son apogée.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'hiver",
+            "text": "Se glisser dans l'eau à 43 degrés du bain thermal en pierre d'Eftalou, alors que la mer est à zéro, est le plus beau souvenir hivernal de l'île."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine de Lesbos repose sur deux piliers : l'huile d'olive et la mer. Le troisième arrive à table avec l'ouzo.",
+      "local_word": {
+        "word": "Meze",
+        "pronunciation": "meh-ZEH",
+        "definition": "Les petites assiettes qui accompagnent l'ouzo : pas un repas en soi, mais un carburant pour la conversation. À Lesbos, une table de meze dure des heures, et personne ne regarde l'heure."
+      },
+      "items": [
+        {
+          "icon": "🐟",
+          "name": "Sardines de Kalloni (sardeles pastes)",
+          "description": "Les célèbres sardines de la baie de Kalloni sont salées pendant quelques heures et servies presque crues-fraîches ; elles comptent parmi les meze les plus célèbres de Grèce. La star du festival de la sardine en août.",
+          "tag": "Tavernes de la baie de Kalloni · avec ouzo",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kalloni+Lesvos"
+        },
+        {
+          "icon": "🥃",
+          "name": "Ouzo de Plomari",
+          "description": "La boisson nationale anisée trouve sa forme la plus raffinée sur cette île ; les distilleries de Plomari et Mytilène l'exportent dans le monde entier. Il se trouble sur la glace, s'ouvre avec des meze, se termine en conversation.",
+          "tag": "Visite de distillerie · avec dégustation",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Barbayanni+Ouzo+Museum+Plomari"
+        },
+        {
+          "icon": "🧀",
+          "name": "Ladotyri — fromage affiné dans l'huile d'olive",
+          "description": "Le fromage de brebis protégé de l'île mûrit dans des bocaux d'huile d'olive ; dur, salé, plein de caractère. Grillé en saganaki, il devient un festin à part entière.",
+          "tag": "Produit AOP · à essayer en saganaki",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mytilini+Market"
+        },
+        {
+          "icon": "🫒",
+          "name": "Olives et huile d'olive",
+          "description": "Sur une île de onze millions d'arbres, l'huile est assez fraîche pour être bue. Achetez une bouteille d'huile pressée à froid sur un marché de village ; ce sera le cadeau le plus précieux dans votre valise.",
+          "tag": "Marchés de village · pressée à froid",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mytilene+market+Lesvos"
+        },
+        {
+          "icon": "🦑",
+          "name": "Poulpe et calamars grillés",
+          "description": "Le poulpe séchant au soleil devant les tavernes du port est le menu du soir : grillé au charbon de bois, avec du citron, au bord de l'eau. Les ports de Molyvos et Skala Sikamnias sont les adresses classiques.",
+          "tag": "Tavernes du port · séché au soleil",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Molyvos+harbour+Lesvos"
+        },
+        {
+          "icon": "🍯",
+          "name": "Baklava et amygdalota",
+          "description": "La tradition sucrée d'héritage ottoman est bien vivante : baklava à la pistache, amygdalota aux amandes et kadayif avec de la glace. Les pâtisseries du bazar de Mytilène ont un siècle d'existence.",
+          "tag": "Bazar de Mytilène · avec café",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ermou+Street+Mytilene"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle de la taverne",
+        "text": "Évitez les endroits avec un menu photo plastifié ; faites confiance à la taverne qui récite le poisson du jour à voix haute. 'Ti fresko ehete ?' (Qu'est-ce qui est frais aujourd'hui ?) ouvre toutes les portes."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Les meilleurs endroits de Lesbos ne sont pas signalisés ; pour ces six-là, vous n'aurez plus besoin d'un tuyau d'un local.",
+      "items": [
+        {
+          "rarity": "Une forêt vieille de 20 millions d'années",
+          "name": "Forêt Pétrifiée de Sigri",
+          "description": "À la pointe ouest de l'île, des troncs de séquoia scellés dans les cendres volcaniques il y a 20 millions d'années : un géoparc UNESCO, un musée en plein air et un paysage lunaire. Peu d'endroits sur Terre sont comparables.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Petrified+Forest+Sigri+Lesvos"
+        },
+        {
+          "rarity": "Une chapelle sur le rocher",
+          "name": "Skala Sikamnias",
+          "description": "Le petit port de pêche de la côte nord : la chapelle Panagia Gorgona sur son rocher, des tavernes ombragées par un mûrier, et l'atmosphère que l'écrivain Stratis Myrivilis a portée à la littérature. La sérénité insulaire, distillée.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Skala+Sikamnias"
+        },
+        {
+          "rarity": "Une source chaude au bord de la mer",
+          "name": "Sources Chaudes d'Eftalou",
+          "description": "Près de Molyvos, un bain turc en pierre sous dôme au-dessus d'une plage de galets : de l'eau curative à 43 degrés, la fraîche mer Égée à deux pas. Le rituel chaud-froid coûte un droit d'entrée symbolique.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Eftalou+hot+springs+Lesvos"
+        },
+        {
+          "rarity": "Un monastère byzantin sur la colline",
+          "name": "Moni Limonos",
+          "description": "Le plus grand monastère de l'île : des paons dans la cour, des manuscrits dans la bibliothèque, des siècles de silence. Juste à côté de la route de Kalloni, un monde dans lequel la plupart des visiteurs ne s'aventurent jamais.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Limonos+Monastery+Lesvos"
+        },
+        {
+          "rarity": "Salines avec des flamants roses",
+          "name": "Salines de Kalloni",
+          "description": "Des milliers de flamants roses et plus de 250 espèces d'oiseaux au printemps et en automne : l'un des meilleurs sites d'observation d'oiseaux d'Europe. Apportez des jumelles, installez-vous dans un affût, attendez.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Kalloni+salt+pans+Lesvos"
+        },
+        {
+          "rarity": "Un village au cœur d'une forêt",
+          "name": "Agiasos",
+          "description": "Un village de montagne dans la forêt de châtaigniers sur les pentes du mont Olympe : ateliers de céramique, une église séculaire de la Vierge, des ruelles pavées fraîches. L'évasion la plus rafraîchissante de l'île en plein été.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Agiasos+Lesvos"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Bonus Pointe Ouest",
+        "text": "Si vous êtes arrivé à Sigri, terminez la journée à la plage de Gavathas : difficile à trouver sur les cartes touristiques, avec un coucher de soleil qu'aucune carte ne pourrait contenir."
+      }
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Lesbos est pauvre en pièges – aucune industrie touristique n'ayant jamais été construite, il n'y a pas non plus de ruses. Néanmoins, connaissez ces quatre-là.",
+      "items": [
+        {
+          "icon": "⛴️",
+          "name": "Remettre l'achat du billet de ferry au dernier jour",
+          "description": "La ligne d'Ayvalık se remplit en été et est annulée en cas de vent ; entendre 'plus de places demain' au guichet est la fin classique des vacances.",
+          "instead": "Achetez l'aller-retour à l'avance et confirmez l'heure un jour avant le retour ; restez flexible – l'île mérite de toute façon une nuit supplémentaire."
+        },
+        {
+          "icon": "🚗",
+          "name": "Le plan 'Je verrai l'île en une journée'",
+          "description": "Petite sur la carte, l'île est un véritable voyage sur le terrain ; tenter Molyvos + Plomari + Sigri en une journée, c'est passer ses vacances au volant.",
+          "instead": "Divisez l'île en régions : un jour au nord (Molyvos–Petra), un jour au sud (Plomari–Agiasos), un jour à l'ouest (Kalloni–Sigri)."
+        },
+        {
+          "icon": "🥃",
+          "name": "L'ouzo touristique du rayon supermarché",
+          "description": "Les jolies bouteilles à l'aéroport et dans les boutiques de souvenirs sont généralement la gamme ordinaire de l'île ; vous payez pour l'emballage.",
+          "instead": "Achetez l'ouzo directement dans la boutique d'une distillerie ou chez un épicier de village ; déguster et choisir à Plomari est déjà la moitié du plaisir."
+        },
+        {
+          "icon": "🏖️",
+          "name": "S'ancrer sur une seule plage",
+          "description": "Rester à la plage de l'hôtel parce que c'est facile, c'est manquer la variété côtière de l'île : chaque crique a un caractère différent.",
+          "instead": "Essayez une nouvelle crique chaque jour : la clarté d'Agios Isidoros, le sable de Skala Eresou, les galets rouges de Tsonia – la voiture est déjà louée."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "Savoir si un endroit est touristique à Lesbos est facile : en combien de langues est le menu ? Seulement en grec et manuscrit signifie que vous êtes assis sur une mine d'or."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces itinéraires. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Mytilène + la carte postale du nord",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Bazar et château de Mytilène",
+              "description": "Promenez-vous dans le bazar de la rue Ermou, admirez le port depuis les murs du château byzantin-ottoman ; prenez un café dans un vieux kafeneio du bazar."
+            },
+            {
+              "time": "11:00",
+              "title": "Route du nord — arrêt à Kalloni",
+              "description": "Dirigez-vous vers Molyvos ; faites une pause tôt dans une taverne de la baie à Kalloni pour des sardines + ouzo. En saison, observez les flamants roses sur les salines."
+            },
+            {
+              "time": "13:30",
+              "title": "Les ruelles de Molyvos",
+              "description": "Montez entre les demeures en pierre jusqu'au château : murs blanchis à la chaux, bougainvilliers et le golfe en contrebas. La plus belle demi-heure de l'île est cette pente."
+            },
+            {
+              "time": "16:00",
+              "title": "Source chaude + mer à Eftalou",
+              "description": "Réchauffez-vous dans les 43 degrés du hammam, plongez dans la mer Égée à deux pas ; répétez. La thérapie insulaire en résumé."
+            },
+            {
+              "time": "19:00",
+              "title": "Coucher de soleil au port de Molyvos",
+              "description": "Poulpe grillé dans une taverne du port, ouzo sur glace et le soleil couchant ; qui se presse, perd."
+            },
+            {
+              "time": "21:30",
+              "title": "Retour ou séjour",
+              "description": "La route de nuit vers Mytilène prend une heure ; le voyageur avisé a réservé une chambre à Molyvos."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez l'île en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Mytilène et le nord",
+              "description": "L'itinéraire d'une journée ci-dessus : bazar, Kalloni, Molyvos, Eftalou."
+            },
+            {
+              "time": "Day 2",
+              "title": "Un avant-goût du sud",
+              "description": "Les ruelles ombragées de châtaigniers d'Agiasos et les ateliers de céramique le matin, une visite de distillerie + dégustation à Plomari à midi, la mer à Agios Isidoros l'après-midi, une table de meze sur le front de mer de Plomari le soir."
+            },
+            {
+              "time": "Day 3",
+              "title": "L'ouest sauvage",
+              "description": "Partez tôt : le musée et le site de la Forêt Pétrifiée de Sigri, du poisson au port de Sigri à midi, la mer et le coucher de soleil à Skala Eresou — adieu sur la plage de Sappho."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Même trois mots de grec suffisent à faire apparaître des petites attentions gratuites dans une taverne ; arriver de la côte voisine double l'effet.",
+      "items": [
+        {
+          "word": "Yassas",
+          "pronunciation": "YAH-sas",
+          "meaning": "Bonjour / Au revoir — la salutation formelle et sûre"
+        },
+        {
+          "word": "Efharistó",
+          "pronunciation": "ef-hah-ree-STOH",
+          "meaning": "Merci — semble difficile, mais ça vient au deuxième essai"
+        },
+        {
+          "word": "Parakaló",
+          "pronunciation": "pah-rah-kah-LOH",
+          "meaning": "S'il vous plaît / De rien — le joker grec"
+        },
+        {
+          "word": "Yamas!",
+          "pronunciation": "YAH-mas",
+          "meaning": "Tchin-tchin ! — les verres d'ouzo se lèvent à ce son"
+        },
+        {
+          "word": "Siga siga",
+          "pronunciation": "SEE-gah SEE-gah",
+          "meaning": "Doucement, doucement — le rythme de l'île ; dites-le une fois et vous êtes un local"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Liste de contrôle Lesbos",
+      "completion_message": "Yamas ! Vous avez découvert Lesbos comme il se doit !",
+      "items": [
+        {
+          "label": "Participez à une visite de distillerie à Plomari",
+          "sub": "Apprenez comment l'ouzo est fabriqué, terminez par une dégustation"
+        },
+        {
+          "label": "Mangez des sardines de Kalloni avec de l'ouzo",
+          "sub": "Dans une taverne au bord de la baie, les salées"
+        },
+        {
+          "label": "Montez au château de Molyvos avant le coucher du soleil",
+          "sub": "Ruelles pavées + le golfe depuis les remparts"
+        },
+        {
+          "label": "Faites le rituel chaud-froid à Eftalou",
+          "sub": "La source à 43 degrés + la fraîche mer Égée"
+        },
+        {
+          "label": "Remontez 20 millions d'années dans le passé à la Forêt Pétrifiée",
+          "sub": "Le géoparc et musée UNESCO à Sigri"
+        },
+        {
+          "label": "Buvez un café à l'ombre des châtaigniers d'Agiasos",
+          "sub": "Les ruelles pavées et les céramiques du village de montagne"
+        },
+        {
+          "label": "Mangez sous le mûrier à Skala Sikamnias",
+          "sub": "Saluez la chapelle Panagia Gorgona sur son rocher"
+        },
+        {
+          "label": "Regardez (ou jouez au) backgammon dans un kafeneio",
+          "sub": "Place du village, café sur braises, temps ralenti"
+        },
+        {
+          "label": "Achetez de l'huile d'olive et du ladotyri sur un marché de village",
+          "sub": "Les cadeaux les plus précieux dans votre valise"
+        },
+        {
+          "label": "Attendez le coucher du soleil à Skala Eresou",
+          "sub": "Sur la plage de Sappho, les pieds dans le sable"
+        }
+      ]
+    }
+  }
+}

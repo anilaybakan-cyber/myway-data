@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#366E9C",
+    "color_light": "#E9F0F7",
+    "tagline": "La ville du lac cachée derrière les berges : baignades en rivière, Dada et chocolat."
+  },
+  "pills": [
+    "Qualité de vie de classe mondiale",
+    "Un centre-ville où l'on peut nager",
+    "Berceau du mouvement artistique Dada"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Zurich",
+      "intro": "La renommée de Zurich a été écrite par ses banques, mais le secret de la ville réside ailleurs : les midis d'été, les hommes en costume sautent dans la Limmat, les clochers de la vieille ville cachent des vitraux de Chagall, et le mouvement Dada est né ici sur une scène de bar. Les arches du viaduc du quartier industriel se sont transformées en boutiques de design, les trams circulent comme une horloge, et le lac pose chaque soir avec sa ligne d'horizon montagneuse. Zurich a l'air sérieuse — mais gardez votre maillot de bain dans votre sac : cette ville sait mieux que quiconque comment se déshabiller et plonger.",
+      "local_word": {
+        "word": "Badi",
+        "pronunciation": "bah-dee",
+        "definition": "Le cœur de la culture de la baignade en plein air de Zurich : les pontons en bois le long du lac et de la rivière. Nager pendant la pause déjeuner est une tradition civique — et certaines badis se transforment en bars la nuit, les verres levés les pieds dans l'eau."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Prenez la baignade en rivière au sérieux — et participez-y",
+          "description": "La Limmat et le lac sont suffisamment propres pour la baignade, et les habitants le font quotidiennement : utilisez les zones de badi marquées, apprenez les échelles de sortie et faites flotter vos affaires dans un sac étanche (un Wickelfisch). Quiconque ne nage pas n'a vu que la moitié de Zurich."
+        },
+        {
+          "number": 2,
+          "title": "Respectez les heures de silence",
+          "description": "L'ordre suisse régit la vie quotidienne : le calme nocturne et dominical est pris au sérieux, et les appels téléphoniques dans le tram se font à mi-volume. Les règles ne sont pas de la froideur — elles sont le confort de tous ; adaptez-vous et détendez-vous."
+        },
+        {
+          "number": 3,
+          "title": "Gérez les prix avec stratégie",
+          "description": "Zurich fait partie des villes les plus chères du monde : les menus du midi, les boulangeries, les terrasses de supermarchés et la vie gratuite au bord du lac et de la rivière permettent de trouver l'équilibre. L'eau des fontaines est potable partout — 1 200 fontaines sont le bar gratuit de la ville."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Zurich (ZRH)",
+          "sub": "Train vers le centre 10-15 min"
+        },
+        {
+          "icon": "🚋",
+          "label": "Se déplacer",
+          "value": "Tram + à pied + bateau",
+          "sub": "Le ticket ZVV couvre tout"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Allemand (dialecte suisse)",
+          "sub": "L'anglais fonctionne partout"
+        },
+        {
+          "icon": "🏊",
+          "label": "Signature",
+          "value": "La culture des badis",
+          "sub": "Baignade urbaine en rivière et lac"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie zurichoise",
+        "text": "La formule pour comprendre Zurich se vit à l'heure du déjeuner : à 12h00, les banquiers sautent dans la rivière, à 13h00, les costumes sont de retour. Discipline et plaisir ne sont pas des rivaux ici mais des partenaires — intégrez les deux dans la même journée."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Les transports de Zurich sont l'horlogerie suisse sous forme publique : le réseau de tramways enveloppe la ville, les bateaux sillonnent le lac, et tout fonctionne avec un seul billet.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "De l'aéroport au centre",
+          "description": "Le train atteint la gare centrale en 10-15 minutes — billet à l'automate ou via l'application, ponctualité garantie. Un taxi sur ce trajet vous donnera une leçon de prix suisse ; prenez le train et évitez la leçon."
+        },
+        {
+          "icon": "🚋",
+          "title": "Le tram – le pouls de la ville",
+          "description": "Les trams bleus et blancs desservent chaque quartier à la minute près : le billet de zone ZVV couvre le tram, le bus, le S-Bahn et le bateau. Le billet journalier s'amortit après deux trajets."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Les bateaux du lac",
+          "description": "Les bateaux de la ZSG desservent les villages lacustres selon un horaire et acceptent le billet de zone normal : le petit circuit (90 min) est la pause la plus gracieuse de l'après-midi. Espresso sur le pont, la silhouette alpine de l'autre côté de l'eau."
+        },
+        {
+          "icon": "🚶",
+          "title": "La vieille ville à pied",
+          "description": "Les ruelles étroites du Niederdorf, la terrasse du Lindenhof et les rives du fleuve d'un bout à l'autre : le centre de Zurich est une ville conçue à l'échelle piétonne."
+        },
+        {
+          "icon": "🚞",
+          "title": "Le train de l'Uetliberg",
+          "description": "Le S10 gravit la montagne emblématique de la ville en une demi-heure : depuis la tour du sommet, le lac, la ville et les Alpes en un seul panorama. Avec un billet ZVV normal – les 'vacances à la montagne' les moins chères de la ville."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil bateau",
+        "text": "Planifiez la promenade en bateau sur le lac au coucher du soleil : sous le soleil déclinant, les Alpes rougissent et la ligne d'horizon se dore. Le même billet, deux fois la vue – consultez l'horaire pour les trajets du soir."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Zurich, choisir un quartier, c'est choisir un rythme : les ruelles féeriques de la vieille ville, le rythme industriel de Zürich Ouest, l'élégance tranquille du bord du lac.",
+      "local_word": {
+        "word": "Kreis",
+        "pronunciation": "krites",
+        "definition": "Les 12 districts de Zurich : un habitant donne son adresse en disant 'J'habite dans le Kreis 4'. Chaque Kreis a un caractère bien défini — le 1 est historique, le 4 est pour la vie nocturne, le 5 pour l'industrie et le design, le 8 pour l'élégance lacustre. Apprenez les chiffres et la ville se dévoile."
+      },
+      "items": [
+        {
+          "name": "Altstadt / Niederdorf (Kreis 1)",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "vibe",
+          "description": "Le cœur historique entre rivière et lac : clochers, places de corporations et les ruelles nocturnes étroites du Niederdorf. Tout est accessible à pied — aux prix du centre-ville.",
+          "tags": [
+            "Cœur historique",
+            "Tout accessible à pied",
+            "Ruelles nocturnes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Niederdorf+Zurich"
+        },
+        {
+          "name": "Zürich West (Kreis 5)",
+          "badge": "Le plus créatif",
+          "badge_type": "hot",
+          "description": "La nouvelle vie de l'ancien quartier industriel : boutiques sous les arches du viaduc, le jardin de Frau Gerold, galeries et tours. Jeune, industriel et vivant — le territoire des hôtels design.",
+          "tags": [
+            "Boutiques sous le viaduc",
+            "Ambiance industrielle",
+            "Hôtels design"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zürich+West"
+        },
+        {
+          "name": "Seefeld (Kreis 8)",
+          "badge": "Le plus élégant",
+          "badge_type": "local",
+          "description": "Grâce tranquille sur la rive est du lac : badis, l'opéra et les parcs lacustres à distance de marche. Une course matinale sur la rive, un verre en soirée sur le quai — la vitrine de la qualité de vie.",
+          "tags": [
+            "Bord du lac",
+            "Badis à proximité",
+            "Près de l'opéra"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Seefeld+Zurich"
+        },
+        {
+          "name": "Autour de la Langstrasse (Kreis 4)",
+          "badge": "Le plus coloré",
+          "badge_type": "value",
+          "description": "L'artère la plus mixte et animée de la ville : bars, cuisines du monde et vie nocturne. Le quartier autrefois rude est maintenant le centre de la jeunesse — les personnes au sommeil léger devraient demander une chambre donnant sur une rue arrière.",
+          "tags": [
+            "Vie nocturne",
+            "Cuisines du monde",
+            "Énergie jeune"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Langstrasse+Zurich"
+        },
+        {
+          "name": "Enge et la rive ouest (Kreis 2)",
+          "badge": "Choix équilibré",
+          "badge_type": "value",
+          "description": "Musées dans les parcs, le centre culturel Rote Fabrik et les lidos du lac : à quelques minutes du centre en tram, calme de quartier la nuit. Pour ceux qui recherchent l'équilibre entre confort et tranquillité.",
+          "tags": [
+            "Parcs lacustres",
+            "Tram vers le centre",
+            "Soirées tranquilles"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Enge+Zurich"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "La saison phare de Zurich est l'été des badis ; mais chaque saison a sa scène : un festival de rue printanier, les musées d'automne, la lumière et le chocolat d'hiver.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Printemps du Sechseläuten",
+          "months": "Avr – Juin",
+          "subtitle": "Printemps · Le festival du bonhomme de neige, ouverture des terrasses",
+          "description": "À la mi-avril, les corporations brûlent le bonhomme de neige Böögg lors du Sechseläuten — plus sa tête explose vite, plus l'été sera beau. Les terrasses s'installent, les rives du lac s'animent, et les badis ouvrent fin mai.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'avril",
+            "text": "Si vous arrivez le lundi du Sechseläuten, rendez-vous à Bellevue : des membres des corporations à cheval encerclent le Böögg en feu, et le temps d'explosion est l'objet d'un pari à l'échelle de la ville. Étrange, authentique et très zurichois."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Saison des Badis",
+          "months": "Juil – Août",
+          "subtitle": "Été · Baignades en rivière, cinéma en plein air, la Street Parade",
+          "description": "La ville se déplace dans l'eau : baignades en rivière à l'heure du déjeuner, bars de badi au crépuscule, cinéma en plein air sur les rives du lac. En août, la Street Parade — la plus grande parade techno d'Europe — rend la ville méconnaissable pendant une journée.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de juillet",
+            "text": "Vivez un déjeuner comme un local : gonflez votre Wickelfisch, plongez dans la rivière à Oberer Letten et laissez-vous porter par le courant. Une terrasse ensoleillée et un café à la sortie — la meilleure 'pause réunion' de Zurich."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Lumière dorée du lac",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Jours clairs, saison des musées",
+          "description": "Septembre permet encore la baignade dans le lac ; en octobre, la lumière devient dorée et les saisons des musées et des concerts s'ouvrent. Les jours de mer de brouillard de l'Uetliberg commencent — ville dans la brume, sommet au soleil.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'octobre",
+            "text": "Par un matin brumeux d'octobre, prenez le S10 jusqu'à l'Uetliberg : le soleil au-dessus de la mer de nuages, la ville invisible en contrebas. Entrez au Kunsthaus en redescendant — une journée de brouillard à Zurich est deux fois plus belle."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Lumière et chocolat",
+          "months": "Déc – Fév",
+          "subtitle": "Hiver · Lumières de Noël, chocolat chaud, ski à proximité",
+          "description": "Le spectacle lumineux de la Bahnhofstrasse et l'immense marché de Noël à l'intérieur de la gare couronnent décembre ; janvier-février est la saison calme des musées et des cafés. Les skieurs atteignent les stations alpines en moins d'une heure.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de décembre",
+            "text": "Buvez du vin chaud sous l'arbre Swarovski au Christkindlimarkt à l'intérieur de la gare principale, puis promenez-vous sous les lumières 'Lucy' de la Bahnhofstrasse : le rituel d'ouverture officiel d'un hiver zurichois."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La table zurichoise est élégante et gourmande : le classique veau à la crème, la saucisse de rue et les vitrines des chocolatiers les plus célèbres du monde se côtoient sur la même avenue.",
+      "local_word": {
+        "word": "Zvieri",
+        "pronunciation": "ts-fee-ree",
+        "definition": "'À quatre heures' : La tradition suisse du goûter de l'après-midi – écoliers et travailleurs prennent tous leur zvieri. C'est l'heure de la foule devant les comptoirs des boulangeries ; prenez un gipfeli et rejoignez la coutume."
+      },
+      "items": [
+        {
+          "icon": "🍖",
+          "name": "Zürcher Geschnetzeltes",
+          "description": "Des lanières de veau dans une sauce crémeuse aux champignons, accompagnées de rösti croustillants : le classique qui porte le nom de la ville. Dans les restaurants de corporations, la porcelaine est lourde et la portion généreuse – c'est le plat officiel de Zurich.",
+          "tag": "Le classique de la ville · avec rösti",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zunfthaus+zur+Waag+Zurich"
+        },
+        {
+          "icon": "🌭",
+          "name": "La bratwurst façon Sternen Grill",
+          "description": "Une saucisse de veau grillée au charbon de bois avec un petit pain bürli doré et une moutarde piquante : la légende zurichoise à déguster debout. La file d'attente avance vite et la saucisse se mange à la main – quiconque demande une fourchette est un étranger.",
+          "tag": "La légende debout · avec moutarde piquante",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sternen+Grill+Zurich"
+        },
+        {
+          "icon": "🫕",
+          "name": "La fondue et les plats d'hiver",
+          "description": "Pendant les mois froids, le caquelon à fromage apparaît à chaque coin de rue, et il est servi aux visiteurs même en été. Le mélange traditionnel au kirsch se trempe avec du pain – l'accompagnement d'un vin blanc est la règle.",
+          "tag": "Rituel hivernal · le mélange au kirsch",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Swiss+Chuchi+Zurich"
+        },
+        {
+          "icon": "🍫",
+          "name": "Luxemburgerli et les vitrines de chocolat",
+          "description": "Les mini-macarons aériens de Sprüngli, les Luxemburgerli, sont la signature sucrée de la ville ; les comptoirs de pralines des chocolatiers historiques sont des musées à part entière. Une boîte cadeau d'ici est un sérieux instrument de diplomatie.",
+          "tag": "La signature sucrée · d'une vitrine historique",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Confiserie+Sprüngli+Paradeplatz"
+        },
+        {
+          "icon": "🥨",
+          "name": "Culture de la boulangerie – Gipfeli et Brezel",
+          "description": "Le gipfeli du matin (le croissant suisse) et le brezel beurré : les comptoirs des boulangeries sont l'adresse pour commencer la journée et pour le zvieri. Les sandwichs du midi sont le classique économique.",
+          "tag": "Matin et zvieri · de la boulangerie",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bäckerei+Niederdorf+Zurich"
+        },
+        {
+          "icon": "🍺",
+          "name": "Bars de Badi et bières locales",
+          "description": "Les soirs d'été, les badis se transforment en bars : les pieds dans l'eau, une bière locale ou un vin blanc dans le verre. La culture de l'apéritif au bord de l'eau est la plus charmante exception à la rigueur zurichoise.",
+          "tag": "Soir d'été · les pieds dans l'eau",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Barfussbar+Zurich"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil budget",
+        "text": "Trois amis gèrent la faim à Zurich : les tableaux des Tagesmenü du midi, les comptoirs des boulangeries et les terrasses des supermarchés avec leurs vues. Complétez la liste de cadeaux chocolatés au rayon du supermarché – en Suisse, même le chocolat de supermarché joue dans la cour des grands."
+      }
+    },
+    "hidden_gems": {
+      "title": "Trésors Cachés",
+      "intro": "Tout le monde arpente la Bahnhofstrasse ; ces six lieux sont les coulisses de Zurich.",
+      "items": [
+        {
+          "rarity": "Le balcon tranquille de la ville",
+          "name": "La terrasse du Lindenhof",
+          "description": "La place ombragée de tilleuls, sur le site de l'ancien fort romain, offre une vue imprenable sur la vieille ville : pièces d'échecs géantes, fontaine et vue sur la rivière. L'adresse séculaire du sandwich du midi et du calme du soir.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Lindenhof+Zurich"
+        },
+        {
+          "rarity": "La scène où Dada est né",
+          "name": "Cabaret Voltaire",
+          "description": "Le bar où le mouvement Dada est né en 1916 existe toujours : expositions, performances et café dans la salle historique. La révolution la plus absurde de l'histoire de l'art a commencé entre ces murs – et le lieu porte encore le sérieux de l'insouciance.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cabaret+Voltaire+Zurich"
+        },
+        {
+          "rarity": "L'heure bleue des vitraux",
+          "name": "Les vitraux de Chagall au Fraumünster",
+          "description": "Les cinq vitraux de Chagall révèlent leur bleu le plus profond à la lumière du matin : une petite église, une grande sérénité. Entrez à l'ouverture – la vague de touristes arrive à midi.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Fraumünster+Zurich"
+        },
+        {
+          "rarity": "Un bazar sous les arches",
+          "name": "Im Viadukt",
+          "description": "Boutiques de design, ateliers et une halle de marché dans le viaduc ferroviaire en pierre de Zürich Ouest : la reconversion la plus élégante d'un patrimoine industriel. La halle de marché du samedi + un café sous les arches est un classique.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Im+Viadukt+Zurich"
+        },
+        {
+          "rarity": "Une vue nocturne au-dessus de la forêt",
+          "name": "Coucher de soleil sur l'Uetliberg",
+          "description": "Une demi-heure de montée par la S10 : depuis la tour, le lac, la ville et la chaîne alpine en un seul panorama. La demi-heure entre le coucher du soleil et les lumières de la ville est le spectacle le plus généreux de Zurich – et la descente peut se transformer en promenade éclairée par des lanternes.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Uetliberg"
+        },
+        {
+          "rarity": "Les bains en bois qui se transforment en bars",
+          "name": "La Frauenbadi et les bars de nuit Rimini",
+          "description": "Les badis historiques en bois, non mixtes le jour, s'ouvrent à tous comme bars la nuit : au Barfussbar, les chaussures sont interdites et les pieds restent dans l'eau. Les lieux de soirée les plus originaux de Zurich – en été, au niveau de l'eau.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Frauenbadi+Stadthausquai+Zurich"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil rivière",
+        "text": "L'itinéraire Limmat des locaux : entrez à Oberer Letten, laissez-vous porter par le courant jusqu'à Unterer Letten, montez l'échelle, prenez un bain de soleil, répétez. Votre Wickelfisch étanche est à la fois valise et flotteur – tout, y compris le téléphone, nage avec vous."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Les arnaques sont quasiment inexistantes à Zurich ; les pièges se cachent dans les étiquettes de prix et les fausses suppositions.",
+      "items": [
+        {
+          "icon": "💸",
+          "name": "Chasse aux cadeaux sur la Bahnhofstrasse",
+          "description": "Sur l'avenue la plus chère du monde, le chocolat et les montres se vendent en 'emballage touristique' : le même produit est nettement moins cher deux rues plus loin.",
+          "instead": "Faites du lèche-vitrine sur la Bahnhofstrasse et achetez dans les rues adjacentes et les rayons de supermarché. Si une montre de luxe est l'objectif, les rendez-vous, et non le marchandage, sont de toute façon la culture."
+        },
+        {
+          "icon": "🚕",
+          "name": "Un taxi pour un court trajet",
+          "description": "Les taxis de Zurich comptent parmi les plus chers du monde, et le tramway parcourt souvent le même itinéraire plus rapidement.",
+          "instead": "Achetez le billet journalier ZVV et utilisez le trio tram-bateau-S-Bahn ; le réseau fonctionne aussi tard dans la nuit. Un taxi n'a de sens qu'avec une montagne de bagages."
+        },
+        {
+          "icon": "🍽️",
+          "name": "S'asseoir sans lire le menu",
+          "description": "Le plat principal du soir d'un restaurant d'apparence ordinaire peut atteindre des chiffres surprenants : à Zurich, la notion de 'moyenne' est trompeuse.",
+          "instead": "Lisez le menu affiché en vitrine avant de vous asseoir et laissez le 'Tagesmenü' (menu du jour) du midi remplacer le dîner. La bonne nouvelle : la transparence des prix est la règle — rien au-delà du chiffre imprimé n'apparaît, et le pourboire n'est pas obligatoire."
+        },
+        {
+          "icon": "🏔️",
+          "name": "Entasser les Alpes en une journée 'pour voir la Suisse'",
+          "description": "Quiconque sprinte de Zurich à trois stations de montagne en une journée la passe dans les trains ; la ville et les montagnes finissent toutes deux à moitié faites.",
+          "instead": "Séparez la journée en ville et la journée en montagne : pour une dose proche, une demi-journée sur l'Uetliberg suffit ; pour la dose complète, choisissez une cible (Titlis, Rigi ou Säntis) et partez tôt."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "La plupart des meilleures choses de Zurich sont gratuites ou payantes : la baignade dans la rivière, le Lindenhof, l'eau des fontaines, le bord du lac, l'Uetliberg. Économisez l'argent pour une bonne table et une boîte de chocolat — la ville vous offre le reste."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces itinéraires. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Une journée zurichoise, du vitrail à la baignade en rivière",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "La matinée dans la vieille ville",
+              "description": "Dites bonjour à la ville depuis la terrasse du Lindenhof ; admirez les vitraux de Chagall dans leur bleu matinal au Fraumünster, prenez le petit-déjeuner dans les ruelles du Niederdorf."
+            },
+            {
+              "time": "10:30",
+              "title": "Bahnhofstrasse et les vitrines",
+              "description": "Parcourez l'avenue la plus chère du monde comme une visite de vitrines ; une pause Luxemburgerli chez Sprüngli — laissez la décision de la boîte pour le soir."
+            },
+            {
+              "time": "12:30",
+              "title": "Midi : rivière ou menu",
+              "description": "En été, une baignade en rivière au Letten + la terrasse ensoleillée ; sinon, Geschnetzeltes + rösti dans un restaurant de guilde. Les deux options sont des classiques locaux."
+            },
+            {
+              "time": "15:00",
+              "title": "Exploration de Zürich Ouest",
+              "description": "Tram jusqu'au Kreis 5 : les arches de l'Im Viadukt, le jardin de Frau Gerold et les galeries — la nouvelle vie du Zurich industriel."
+            },
+            {
+              "time": "17:30",
+              "title": "Bateau sur le lac ou bar de la Badi",
+              "description": "Le petit tour du lac en bateau au coucher du soleil, ou un apéritif les pieds dans l'eau au Barfussbar : les verres se lèvent tandis que les Alpes rougissent."
+            },
+            {
+              "time": "20:00",
+              "title": "Soirée au Niederdorf",
+              "description": "Dîner dans les ruelles étroites, puis un verre au Cabaret Voltaire : une fin de journée absurde et élégante entre les murs où Dada est né."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Ville, lac et sommet — la trilogie zurichoise",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Zurich classique",
+              "description": "L'itinéraire d'une journée ci-dessus : Lindenhof, Chagall, Bahnhofstrasse, Zürich Ouest, la soirée au bord du lac."
+            },
+            {
+              "time": "Day 2",
+              "title": "Art et les quartiers",
+              "description": "La collection du Kunsthaus le matin ; les cuisines du monde autour de la Langstrasse à midi ; temps au bord du lac aux badis de Seefeld l'après-midi ; l'opéra ou un concert à la Rote Fabrik le soir — les deux extrêmes sont Zurich."
+            },
+            {
+              "time": "Day 3",
+              "title": "L'Uetliberg et l'adieu",
+              "description": "Le S10 jusqu'à la montagne locale : la randonnée sur la crête jusqu'à Felsenegg et le téléphérique jusqu'à Adliswil ; une dernière baignade en rivière ou la chocolaterie l'après-midi ; un dîner d'adieu autour du caquelon à fondue — une fin parfumée au kirsch."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de survie en 5 mots",
+      "intro": "Le suisse allemand de Zurich a sa propre mélodie ; ces cinq mots vous ouvriront des portes, aussi bien dans le tram qu'à la 'badi'.",
+      "items": [
+        {
+          "word": "Grüezi",
+          "pronunciation": "grew-tsee",
+          "meaning": "Bonjour — la salutation de toutes les heures, en ville comme à la montagne"
+        },
+        {
+          "word": "Merci vilmal",
+          "pronunciation": "mer-see feel-mahl",
+          "meaning": "Merci beaucoup — le classique mélange franco-allemand de la Suisse"
+        },
+        {
+          "word": "En Guete!",
+          "pronunciation": "en goo-eh-teh",
+          "meaning": "Bon appétit — dit au moment où le plat du jour arrive"
+        },
+        {
+          "word": "Proscht!",
+          "pronunciation": "prosht",
+          "meaning": "Santé ! — valable aussi au bar de la 'badi' les pieds dans l'eau"
+        },
+        {
+          "word": "Ade",
+          "pronunciation": "ah-day",
+          "meaning": "Au revoir — dites-le en quittant un magasin et gagnez un sourire local"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Checklist de Zurich",
+      "completion_message": "Proscht ! Vous avez bien exploré la ville des banques !",
+      "items": [
+        {
+          "label": "Se laisser porter par le courant de la Limmat",
+          "sub": "La route de Letten — avec un Wickelfisch"
+        },
+        {
+          "label": "Admirer les vitraux de Chagall le matin",
+          "sub": "Fraumünster — à l'ouverture"
+        },
+        {
+          "label": "Contempler la vieille ville depuis le Lindenhof",
+          "sub": "Échecs géants + vue sur la rivière"
+        },
+        {
+          "label": "Manger des Geschnetzeltes + rösti",
+          "sub": "Le plat qui porte le nom de la ville"
+        },
+        {
+          "label": "Déguster une bratwurst au Sternen Grill",
+          "sub": "Goldbürli + moutarde piquante"
+        },
+        {
+          "label": "Acheter une boîte de Luxemburgerli",
+          "sub": "Les mini-macarons aériens"
+        },
+        {
+          "label": "Flâner sous les arches d'Im Viadukt",
+          "sub": "Le bazar design de Zürich Ouest"
+        },
+        {
+          "label": "Lever un verre au Cabaret Voltaire",
+          "sub": "La scène où Dada est né"
+        },
+        {
+          "label": "Profiter du panorama de l'Uetliberg",
+          "sub": "Une demi-heure en S10 — lac + Alpes"
+        },
+        {
+          "label": "Tremper ses pieds dans un bar de Badi",
+          "sub": "Une soirée d'été — le classique Barfussbar"
+        }
+      ]
+    }
+  }
+}

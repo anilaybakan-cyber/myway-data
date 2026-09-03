@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Sarajevo",
+    "country": "Bosnia and Herzegovina",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#8A5C3B",
+    "color_light": "#F4EDE4",
+    "tagline": "La ville où l'Orient et l'Occident se rencontrent dans un bazar."
+  },
+  "pills": [
+    "La Jérusalem de l'Europe",
+    "Les ruelles des chaudronniers de Baščaršija",
+    "Une civilisation dans une tasse de café bosnien"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Sarajevo",
+      "intro": "À Sarajevo, vous changez de siècle sur une seule rue : les façades austro-hongroises de Ferhadija se terminent à un point, et les pavés du bazar ottoman commencent — le marqueur « Sarajevo Meeting of Cultures » sur le trottoir n'est pas une blague. À Baščaršija, les marteaux des chaudronniers résonnent, et quatre confessions font face à une seule place : mosquée, cathédrale, église et synagogue, toutes à quelques pas. Cette ville a connu un siège et des Jeux olympiques ; elle ne cache pas ses cicatrices, mais vous accueille avec la plus chaleureuse hospitalité. La tasse de café est petite et la conversation longue — Sarajevo n'est pas une ville pour les pressés.",
+      "local_word": {
+        "word": "Ćejf",
+        "pronunciation": "chayf",
+        "definition": "Un mot venu du turc « keyif » en bosnien et qui s'est approfondi en chemin : le plaisir de faire quelque chose exactement à sa manière, sans hâte. Siroter un café bosnien dans un fildžan, flâner sans but dans le bazar — tout cela est ćejf. Pour un Sarajévien, le ćejf est non négociable : une fois qu'ils disent « ćejf mi je », l'affaire est close."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Buvez le café à la bosnienne, et ne le précipitez jamais",
+          "description": "Le café bosnien n'est pas un espresso : il arrive dans une džezva en cuivre, est versé lentement dans une petite tasse fildžan, accompagné de loukoum et de sucre. Ne laissez pas tomber le sucre dedans — mordez un coin et sirotez. Un café qui prend moins d'une demi-heure ne compte pas comme un café."
+        },
+        {
+          "number": 2,
+          "title": "Parcourez les deux visages de la ville",
+          "description": "Ne restez pas seulement à Baščaršija : les façades des Habsbourg de Ferhadija, l'histoire du Pont Latin et les blocs de l'ère socialiste sont aussi des couches de cette ville. Consacrez un après-midi à la « promenade du siècle » — des Ottomans à l'Autriche jusqu'à aujourd'hui, tout sur une seule rue."
+        },
+        {
+          "number": 3,
+          "title": "Abordez la mémoire de la guerre avec respect",
+          "description": "Les marques de résine rouge sur le pavé — les Roses de Sarajevo — sont des cratères d'obus de mortier ; ne pas marcher dessus est une courtoisie. Visitez le Musée du Tunnel et la galerie de Srebrenica, mais gardez les photos et les questions mesurées : ici, la guerre est une mémoire vécue, pas un décor touristique."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Sarajevo (SJJ)",
+          "sub": "~25 min du centre"
+        },
+        {
+          "icon": "💰",
+          "label": "Monnaie",
+          "value": "Convertible Mark (KM)",
+          "sub": "1 EUR ≈ 1,95 KM, taux fixe"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Bosnien",
+          "sub": "Anglais courant au centre"
+        },
+        {
+          "icon": "☕",
+          "label": "Spécialité",
+          "value": "Baščaršija + café",
+          "sub": "Trio Džezva, fildžan, lokum"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie de Sarajevo",
+        "text": "Dans cette ville, les plans ne sont pas faits, ils sont infusés : le café du matin s'étire, une conversation au bazar interrompt, et le soir, l'appel à la prière et les cloches des églises s'élèvent ensemble au-dessus de Žuta Tabija. Suivez votre ćejf, pas votre montre."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Le centre historique se visite à pied ; le tramway parcourt toute la vallée, et le téléphérique de Trebević dessert la ville par les hauteurs.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arrivée de l'aéroport",
+          "description": "L'aéroport de Sarajevo est à 25 minutes du centre : prenez un taxi mais fixez le prix avant de monter, ou demandez à votre hôtel un transfert. Des vols directs arrivent quotidiennement de nombreuses villes européennes — c'est l'un des meilleurs aéroports des Balkans pour une escapade d'un week-end."
+        },
+        {
+          "icon": "🚋",
+          "title": "La ligne de tramway",
+          "description": "L'une des plus anciennes lignes de tramway d'Europe traverse la vallée d'est en ouest : une seule ligne relie Baščaršija à Ilidža. Achetez votre ticket à un kiosque et validez-le à bord — les contrôles sont rares, mais c'est l'usage."
+        },
+        {
+          "icon": "🚶",
+          "title": "Un centre accessible à pied",
+          "description": "Baščaršija, Ferhadija, le Pont Latin et la cathédrale sont à quelques pas les uns des autres : le cœur historique peut être parcouru en une demi-journée. Des chaussures confortables pour les pavés — les pauses au bazar prolongent agréablement la promenade."
+        },
+        {
+          "icon": "🚡",
+          "title": "Le téléphérique de Trebević",
+          "description": "Partant juste au-dessus de Baščaršija, le téléphérique atteint les crêtes de Trebević en neuf minutes : la ville à vos pieds, la résine de pin dans l'air. La piste de bobsleigh olympique abandonnée au sommet est maintenant un sentier de randonnée."
+        },
+        {
+          "icon": "🚕",
+          "title": "Taxis et excursions d'une journée",
+          "description": "Les taxis sont bon marché, mais assurez-vous que le compteur est activé — remerciez ceux qui refusent et passez à un autre. Pour le Musée du Tunnel, Vrelo Bosne et les villages de montagne, les excursions d'une journée ou un taxi pré-arrangé sont la solution pratique."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil téléphérique",
+        "text": "Montez à Trebević en fin d'après-midi : vous verrez la ville d'abord à la lumière du jour, puis à l'heure de l'appel à la prière du soir en redescendant. Marchez sur la piste de bobsleigh, prenez un café au café de la crête — le coucher de soleil depuis la cabine descendante est le meilleur 'billet' pour la vue de Sarajevo."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "À Sarajevo, choisir un point de chute, c'est choisir une atmosphère: au cœur du bazar ottoman, le long des boulevards des Habsbourg, ou sur les hauteurs des quartiers vallonnés offrant des vues imprenables.",
+      "local_word": {
+        "word": "Mahala",
+        "pronunciation": "mah-hah-LAH",
+        "definition": "Le cousin bosnien du 'mahalle' turc — quartier: le vieux tissu urbain de Sarajevo grimpant les collines avec ses mosquées, fontaines et jardins. Dans des mahalas comme Vratnik et Bjelave, la vie se déroule encore à l'échelle du voisinage — odeurs de boulangerie le matin, conversations aux fenêtres le soir."
+      },
+      "items": [
+        {
+          "name": "Autour de Baščaršija",
+          "badge": "Le plus de caractère",
+          "badge_type": "vibe",
+          "description": "Maisons d'hôtes et hôtels de charme le long des ruelles pavées du bazar: vous vous réveillez au son du marteau du dinandier et vous vous promenez vers les grillades du bazar le soir. Central et atmosphérique — animé les soirs d'été.",
+          "tags": [
+            "Près du bazar",
+            "Ambiance ottomane",
+            "Chaleur des maisons d'hôtes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Baščaršija+Sarajevo"
+        },
+        {
+          "name": "Ferhadija et le centre",
+          "badge": "Le plus équilibré",
+          "badge_type": "value",
+          "description": "Hôtels dans des bâtiments aux façades Habsbourg: la rue piétonne, la cathédrale et le bazar à portée de main. Une base pratique au point exact de rencontre de deux siècles, tout est accessible à pied.",
+          "tags": [
+            "Rue piétonne",
+            "Entre deux époques",
+            "Cafés voisins"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ferhadija+Sarajevo"
+        },
+        {
+          "name": "Bjelave",
+          "badge": "Rythme local",
+          "badge_type": "local",
+          "description": "Une mahala tranquille à dix minutes de montée du centre: appartements et maisons d'hôtes, maisons avec jardins, vie de boulangerie et d'épicerie. Pour ceux qui veulent découvrir le visage quotidien de Sarajevo.",
+          "tags": [
+            "Vie de mahala",
+            "Nuits calmes",
+            "Options d'appartements"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bjelave+Sarajevo"
+        },
+        {
+          "name": "Vratnik",
+          "badge": "Côté vue",
+          "badge_type": "vibe",
+          "description": "Le quartier des anciennes portes de la forteresse: depuis les maisons d'hôtes près de Žuta Tabija, la ville s'étend à vos pieds. Cela demande une montée, mais vous regardez le coucher de soleil depuis votre balcon.",
+          "tags": [
+            "Près de Žuta Tabija",
+            "Vues sur la ville",
+            "Vieilles murailles"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vratnik+Sarajevo"
+        },
+        {
+          "name": "Novo Sarajevo et Grbavica",
+          "badge": "Côté budget",
+          "badge_type": "value",
+          "description": "Appartements modernes le long de la ligne de tramway: prix doux, dix minutes du centre en tram. Une zone pratique qui allège le budget pour les séjours plus longs.",
+          "tags": [
+            "Sur la ligne de tram",
+            "Prix abordables",
+            "Appartements modernes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Novo+Sarajevo+Grbavica"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Sarajevo raconte une histoire différente à chaque saison : l'été est festif, l'hiver est enneigé avec un esprit olympique ; le printemps et l'automne sont le cadre doré des promenades.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "La vallée s'éveille",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Collines verdoyantes, matins frais au bazar",
+          "description": "La vallée de la Miljacka reverdit, les terrasses de café envahissent les rues et les sources de Vrelo Bosne coulent à plein régime. Le temps est idéal pour la marche et les foules sont clairsemées — la saison parfaite pour découvrir les différentes facettes de la ville en toute tranquillité.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de mai",
+            "text": "En mai, les pentes du Trebević fleurissent : montez en téléphérique, longez la piste de bobsleigh et redescendez pour le premier café en plein air de l'année au bazar. Montagne et bazar en une journée — le double classique de Sarajevo."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "Saison des festivals",
+          "months": "Jul – Aug",
+          "subtitle": "Été · Festival du film, terrasses de café animées",
+          "description": "En août, le Festival du Film de Sarajevo déroule le tapis rouge : les places se transforment en cinémas en plein air et les nuits du bazar s'étirent. Les journées sont chaudes mais la fraîcheur de la montagne est proche — les soirées sont toujours agréables.",
+          "callout": {
+            "type": "warning",
+            "label": "Note sur le festival",
+            "text": "Pendant la semaine du festival, les chambres sont complètes des mois à l'avance et les prix multiplient : réservez tôt si vos dates correspondent. Si vous préférez l'éviter, passez la mi-août — même été, moitié prix."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Châtaignes et brume",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Collines dorées, vallées fumantes",
+          "description": "Les collines se parent d'or, la fumée des châtaignes grillées monte dans le bazar, et la brume matinale enveloppe les pointes des minarets. Les foules se raréfient et les conversations autour d'un café se déplacent à l'intérieur — la saison des photographes et des voyageurs lents.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil d'octobre",
+            "text": "Un matin d'octobre, montez à Žuta Tabija : la vallée est sous la brume, les minarets au-dessus — le cliché le plus légendaire de Sarajevo est pris à cette heure. En redescendant, c'est l'heure parfaite pour un burek chaud."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Blanc olympique",
+          "months": "Dec – Mar",
+          "subtitle": "Hiver · Bazar enneigé, montagnes de ski à portée de main",
+          "description": "Quand la neige tombe, Baščaršija devient une carte postale : les dômes de cuivre blanchissent, la vapeur de café s'élève. Les montagnes des Jeux olympiques de 1984 — Jahorina et Bjelašnica — offrent du ski à une demi-heure de route : le combo ville-pistes est parmi les plus abordables d'Europe.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil de janvier",
+            "text": "Skier sur Jahorina le matin, ćevapi et salep chaud au bazar le soir : voilà le double menu d'un hiver à Sarajevo. Les forfaits de ski coûtent un quart de ceux des Alpes — et louer l'équipement est facile et bon marché."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine bosnienne est la table ottomane imprégnée de l'air des montagnes : fumée de grill, pâtisseries beurrées et café bu lentement.",
+      "local_word": {
+        "word": "Ćevapi",
+        "pronunciation": "cheh-VAH-pee",
+        "definition": "Petits doigts de viande grillée nichés dans du pain plat somun : le plat national de Sarajevo. Oignon cru et crème kajmak à côté, yaourt à boire pour faire passer — le débat sur la garniture est clos. La réponse à 'combien ?' est cinq ou dix ; le maître connaît le compte, vous connaissez votre appétit."
+      },
+      "items": [
+        {
+          "icon": "🥩",
+          "name": "Ćevapi",
+          "description": "Brochettes de la taille d'un doigt, sorties des braises, dans du pain somun cuit au four à bois : kajmak et rondelles d'oignon à côté. À déguster dans les ćevabdžinicas du bazar — ne cherchez pas de ketchup ; la règle de cette table est la simplicité.",
+          "tag": "Classique du bazar · somun + kajmak",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=ćevabdžinica+Baščaršija+Sarajevo"
+        },
+        {
+          "icon": "🥧",
+          "name": "Burek et la famille des pitas",
+          "description": "Plateaux tournants au comptoir de la buregdžinica : burek à la viande, sirnica au fromage, zeljanica aux épinards, krompiruša aux pommes de terre. Vendu au poids, arrosé de yaourt — le plateau du matin est le plus frais.",
+          "tag": "Au poids, à la coupe · avec du yaourt",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=buregdžinica+Sarajevo"
+        },
+        {
+          "icon": "🍲",
+          "name": "Begova čorba et Klepe",
+          "description": "La 'soupe du bey' au poulet et au gombo est un héritage ottoman à la cuillère ; les klepe sont des raviolis bosniens sous yaourt à l'ail. Les deux sont des plats quotidiens dans une aščinica, le restaurant de cuisine maison.",
+          "tag": "Plat d'aščinica · héritage ottoman",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=aščinica+Sarajevo"
+        },
+        {
+          "icon": "☕",
+          "name": "Le rituel du café bosnien",
+          "description": "Il arrive mousseux dans une džezva en cuivre : tasse fildžan, lokum, un verre d'eau. Laissez le marc au fond, prolongez la conversation — à Sarajevo, le café n'est pas une boisson mais une unité de rendez-vous.",
+          "tag": "Džezva + fildžan · sans hâte",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bosnian+coffee+Baščaršija"
+        },
+        {
+          "icon": "🍎",
+          "name": "Tufahija et Hurmašica",
+          "description": "Tufahija, une pomme farcie aux noix dans du sirop, et hurmašica, des doigts de semoule imbibés de sirop : dégustez-les avec un café dans une pâtisserie du bazar. Le sirop est généreux, les portions conviviales — le partage est permis.",
+          "tag": "Avec votre café · dans du sirop",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=tufahija+Sarajevo"
+        },
+        {
+          "icon": "🫓",
+          "name": "Petit-déjeuner somun et kajmak",
+          "description": "Somun chaud sorti du four à bois, tartiné de kajmak frais et de miel : le simple petit-déjeuner montagnard. S'il y a la queue devant la boulangerie le dimanche matin, vous êtes au bon endroit — l'odeur du somun chaud vous guidera.",
+          "tag": "Chaud du four · style montagnard",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=pekara+somun+Sarajevo"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle de table",
+        "text": "À Sarajevo, la réputation d'un bon restaurant réside dans la brièveté de son menu : une ćevabdžinica ne fait que des ćevapi, une buregdžinica uniquement des pâtisseries — c'est ainsi que fonctionne la maîtrise. Si vous ne savez pas quoi choisir, suivez la file d'attente des locaux à midi et l'odeur du grill le soir."
+      }
+    },
+    "hidden_gems": {
+      "title": "Coins Cachés",
+      "intro": "Tout le monde voit Baščaršija et le Pont Latin ; ces six-là sont les pages cachées qui révèlent les strates de la ville.",
+      "items": [
+        {
+          "rarity": "Bastion du coucher de soleil",
+          "name": "Žuta Tabija (Forteresse Jaune)",
+          "description": "De l'ancienne bastion de Vratnik, toute la vallée s'étend à vos pieds : les habitants arrivent au crépuscule avec des thermos, et l'appel à la prière résonne à travers les collines. Pendant le Ramadan, le canon de l'iftar tire d'ici — et chaque soir de l'année, le coucher de soleil est un spectacle gratuit.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Žuta+Tabija+Sarajevo"
+        },
+        {
+          "rarity": "Piste olympique abandonnée",
+          "name": "La piste de bobsleigh de Trebević",
+          "description": "La piste de bobsleigh olympique de 1984 serpente à travers la forêt de pins comme une rivière de béton couverte de graffitis : on s'y promène, et les photos sont légendaires. Montez en téléphérique et descendez à pied le long de la piste.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Trebević+bobsled+track"
+        },
+        {
+          "rarity": "La trachée du siège",
+          "name": "Le Tunnel de l'Espoir (Tunel spasa)",
+          "description": "Le musée du tunnel de 800 mètres creusé sous la piste de l'aéroport pendant le siège, accessible par une maison familiale : la ligne de vie de la ville pendant quatre ans. Une visite poignante, mais essentielle pour comprendre Sarajevo.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Tunnel+of+Hope+Sarajevo"
+        },
+        {
+          "rarity": "Maison ottomane figée dans le temps",
+          "name": "Maison Svrzo",
+          "description": "Un manoir bosnien du XVIIIe siècle : l'agencement selamlik-haremlik, des pièces tapissées de divans et une cour, conservé comme maison-musée. Dix minutes au-dessus de Baščaršija, une capsule temporelle que les foules n'atteignent jamais.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Svrzo+House+Sarajevo"
+        },
+        {
+          "rarity": "Un monument à l'obstination",
+          "name": "Inat Kuća (Maison de l'Obstination)",
+          "description": "La maison de l'homme qui, refusant de céder au projet de l'hôtel de ville autrichien, fit déplacer sa demeure pierre par pierre de l'autre côté de la rivière : aujourd'hui un restaurant traditionnel. L'histoire est plus savoureuse que le menu — 'inat' signifie aussi fierté têtue ici.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Inat+Kuća+Sarajevo"
+        },
+        {
+          "rarity": "Parc de sources au bord de la ville",
+          "name": "Vrelo Bosne",
+          "description": "Le parc où naît la rivière Bosna : étangs aux cygnes, platanes géants et l'avenue bordée de calèches depuis Ilidža. Une évasion l'après-midi depuis le dernier arrêt du tram — l'endroit où la ville respire.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Vrelo+Bosne+Ilidža"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Stratégie par couches",
+        "text": "Visitez Sarajevo couche par couche : Ottomane le matin (bazar + mahala), Habsbourg à midi (Ferhadija + cathédrale), le 20e siècle l'après-midi (tunnel + piste de bobsleigh), et la vue sur le tout au crépuscule (Žuta Tabija). Quatre couches, une ville — il est permis de rompre l'ordre."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Sarajevo est une ville honnête, mais l'inexpérience d'un touriste invite aux mêmes jeux partout ; connaissez ces quatre-là.",
+      "items": [
+        {
+          "icon": "🚕",
+          "name": "Le taxi sans compteur",
+          "description": "Pour les trajets vers l'aéroport et les courses nocturnes, certains chauffeurs proposent un 'prix fixe' au lieu d'utiliser le compteur ; le montant est souvent deux ou trois fois supérieur à la réalité.",
+          "instead": "Demandez le compteur avant de monter ; remerciez ceux qui refusent et prenez le taxi suivant. Les applications de covoiturage ou un transfert hôtelier sont la solution la plus propre. Les distances en ville sont de toute façon courtes."
+        },
+        {
+          "icon": "💶",
+          "name": "Paiements en euros, arrondis créatifs",
+          "description": "Certains lieux touristiques acceptent les euros mais fixent leur propre taux de change et rendent la monnaie en KM : quelques euros s'évaporent à chaque fois.",
+          "instead": "Payez en KM : le taux est fixe (1 EUR ≈ 1,95 KM) et les distributeurs automatiques sont partout. Gardez de petites coupures de KM pour les étals du bazar qui n'acceptent pas les cartes."
+        },
+        {
+          "icon": "🛍️",
+          "name": "Cuivre 'fait main' produit en série",
+          "description": "Sur certains étals de bazar, des džezvas et des plateaux pressés à la machine sont vendus avec une histoire de martelage à la main ; l'étalage brillant cache souvent des importations.",
+          "instead": "Achetez dans un atelier de la ruelle Kazandžiluk où vous entendrez le marteau : le maître montre son travail et grave votre nom. Les stylos fabriqués à partir de douilles de balles sont également un souvenir authentique de Sarajevo — écoutez leur histoire racontée par l'artisan."
+        },
+        {
+          "icon": "📸",
+          "name": "Les visites de guerre transformées en spectacle",
+          "description": "Certaines 'visites de guerre' transforment le siège en un décor sensationnel : vitesse, poses et musique dramatique — le respect de l'expérience vécue passe au second plan.",
+          "instead": "Visitez le Musée du Tunnel, le Musée du Siège et la Galerija 11/07/95 à votre rythme, ou choisissez un petit groupe avec un guide local. Posez des questions, ne posez pas — la mémoire est prise au sérieux dans cette ville."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "À Sarajevo, la mesure est la sincérité : négociez brièvement et souriez généreusement. L'offre de café d'un commerçant n'est pas un piège mais un cadeau — asseyez-vous, buvez, parlez. La chose la plus précieuse dans cette ville est gratuite : le temps des gens."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Vous Avez 1 Jour",
+          "subtitle": "Du bazar au bastion — une journée de découvertes",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Petit-déjeuner Buregdžinica",
+              "description": "Du burek tout juste sorti du four, avec du yaourt par-dessus : commencez la journée à la bosnienne. Le parfum du somun chaud de la boulangerie voisine — ne résistez pas."
+            },
+            {
+              "time": "10:00",
+              "title": "Baščaršija et Kazandžiluk",
+              "description": "Les pigeons à la fontaine Sebilj, le chant des marteaux dans la ruelle des chaudronniers, la mosquée Gazi Husrev-beg et le bedesten : la couche ottomane, à son meilleur dans le calme matinal."
+            },
+            {
+              "time": "12:30",
+              "title": "La promenade du siècle",
+              "description": "Marchez sur Ferhadija d'est en ouest : arrêtez-vous à la ligne 'Rencontre des Cultures' sur le trottoir, puis faites une pause-café sur la place de la cathédrale."
+            },
+            {
+              "time": "14:00",
+              "title": "Ćevapi à midi",
+              "description": "Cinq ćevapi avec du kajmak et des oignons dans une ćevabdžinica du bazar : avec un yaourt à boire. Simple, fumé, incontestable."
+            },
+            {
+              "time": "15:30",
+              "title": "Pont Latin et musées",
+              "description": "Tenez-vous au coin de François-Ferdinand où l'histoire du monde a basculé ; puis le Musée du Siège ou la Maison Svrzo — quel que soit le siècle que vous choisissez."
+            },
+            {
+              "time": "18:00",
+              "title": "Coucher de soleil à Žuta Tabija",
+              "description": "Montez à travers Vratnik jusqu'au bastion : la vallée se teinte de cramoisi, l'appel à la prière et les cloches des églises se mêlent. En redescendant, une tufahija et un dernier café au bazar — un fildžan se savoure lentement."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Vous Avez 3 Jours",
+          "subtitle": "Bazar, mémoire et montagne — le Sarajevo complet",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Sarajevo Classique",
+              "description": "Le parcours d'un jour ci-dessus : burek, Baščaršija, la promenade du siècle, ćevapi, le Pont Latin, Žuta Tabija."
+            },
+            {
+              "time": "Day 2",
+              "title": "Mémoire et hauteurs",
+              "description": "Matinée au Tunnel de l'Espoir et à la Galerija 11/07/95 ; begova čorba et klepe dans une aščinica pour le déjeuner ; téléphérique jusqu'à Trebević l'après-midi — promenade sur la piste de bobsleigh ; un restaurant de mahala tranquille à Bjelave pour le dîner."
+            },
+            {
+              "time": "Day 3",
+              "title": "Sources et adieu",
+              "description": "Tramway jusqu'à Ilidža le matin, puis promenade à pied ou en calèche le long de l'allée de platanes jusqu'aux sources de Vrelo Bosne ; truite au bord de l'eau pour le déjeuner ; au retour, un service džezva-fildžan et un paquet de café du bazar — buvez votre tasse d'adieu dans la cour du Morića Han."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de survie en 5 mots",
+      "intro": "Le bosnien sonnera familier aux oreilles turques — des centaines de mots partagés ; avec ces cinq-là, les portes s'ouvriront aussi pour vous.",
+      "items": [
+        {
+          "word": "Merhaba",
+          "pronunciation": "mer-HA-ba",
+          "meaning": "Oui — 'merhaba' fonctionne aussi en bosnien ! Saluez le bazar de cette manière ; un sourire est garanti."
+        },
+        {
+          "word": "Hvala",
+          "pronunciation": "HVAH-lah",
+          "meaning": "Merci — quand la tasse de café se vide, et à chaque acte d'hospitalité."
+        },
+        {
+          "word": "Molim",
+          "pronunciation": "MOH-leem",
+          "meaning": "S'il vous plaît / De rien / Pardon — la clé de courtoisie polyvalente du bosnien."
+        },
+        {
+          "word": "Prijatno",
+          "pronunciation": "pree-YAT-noh",
+          "meaning": "Bon appétit — dit à toute personne qui s'assied ; vous l'entendrez autour des ćevapi."
+        },
+        {
+          "word": "Živjeli!",
+          "pronunciation": "ZHEE-vye-lee",
+          "meaning": "Santé ! — quand les verres se lèvent ; la réponse est un contact visuel et un sourire."
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Liste de contrôle Sarajevo",
+      "completion_message": "Ćejf accompli ! Vous avez vécu la ville de l'Est et de l'Ouest comme elle le mérite !",
+      "items": [
+        {
+          "label": "Buvez à la fontaine Sebilj",
+          "sub": "La légende dit : quiconque boit y retourne à Sarajevo"
+        },
+        {
+          "label": "Versez le café bosnien de la džezva au fildžan",
+          "sub": "Mordez le lokum, sirotez, ne vous pressez pas"
+        },
+        {
+          "label": "Mangez des ćevapi dans du somun avec du kajmak",
+          "sub": "Dans une ćevabdžinica de bazar, avec du yaourt à boire"
+        },
+        {
+          "label": "Écoutez le marteau du chaudronnier sur Kazandžiluk",
+          "sub": "Achetez une džezva à un maître, faites-y graver votre nom"
+        },
+        {
+          "label": "Tenez-vous sur la ligne de rencontre Est-Ouest",
+          "sub": "Le marqueur sur Ferhadija — deux siècles, un pas"
+        },
+        {
+          "label": "Ressentez l'histoire au coin du Pont Latin",
+          "sub": "Là où le monde a basculé en 1914"
+        },
+        {
+          "label": "Regardez le coucher de soleil depuis Žuta Tabija",
+          "sub": "Appel à la prière et cloches d'église dans une seule vallée"
+        },
+        {
+          "label": "Marchez à travers le Tunnel de l'Espoir",
+          "sub": "La ligne de vie de 800 mètres du siège"
+        },
+        {
+          "label": "Prenez le téléphérique jusqu'à la piste de bobsleigh",
+          "sub": "L'héritage graffité des Jeux olympiques de 1984"
+        },
+        {
+          "label": "Mangez du burek du plateau du matin",
+          "sub": "Dans une buregdžinica, avec du yaourt par-dessus"
+        }
+      ]
+    }
+  }
+}

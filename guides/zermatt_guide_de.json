@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Zermatt",
+    "country": "Switzerland",
+    "language": "de",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#4E5A6E",
+    "color_light": "#ECEFF3",
+    "tagline": "Ein autofreies Dorf, Gletscherzüge und der Schatten des Matterhorns"
+  },
+  "pills": [
+    "Keine Benziner erlaubt",
+    "Das Matterhorn: der berühmteste Gipfel der Welt",
+    "Europas höchste Freiluftbahn"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen in Zermatt",
+      "intro": "Zermatt gleicht einer Hingabe, die um einen einzigen Berg herum gebaut wurde: Die schiefe Pyramide des Matterhorns steht am Ende jeder Straße, gegenüber jedem Balkon, in der Ecke jedes Fotos. Benzinfahrzeuge dürfen das Dorf nicht befahren – stattdessen summen elektrische Mini-Taxis vorbei, Skifahrer gehen vom Bahnhof zu den Pisten, und jahrhundertealte, geschwärzte Holzscheunen stehen zwischen den Boutique-Hotels. Im Winter ist es eine der höchstgelegenen Skiregionen der Welt; im Sommer ein Paradies für Wanderwege. Sobald der Gipfel seine Wolken abwirft, drehen sich alle Köpfe im Dorf in dieselbe Richtung – Ihrer wird es auch tun.",
+      "local_word": {
+        "word": "Horu",
+        "pronunciation": "ho-roo",
+        "definition": "Der Name des Matterhorns im lokalen Walliser Dialekt: Die Dorfbewohner nennen ihren Berg 'ds Horu' – 'das Horn'. Die Frage eines Zermatters 'isch ds Horu usse?' (Ist das Horu draußen?) ist der nationale Wetterbericht, der den Tagesplan bestimmt."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Den Gipfelblick für den Morgen planen",
+          "description": "Das Matterhorn setzt oft am Nachmittag seine Wolkenmütze auf: Die Chancen auf eine klare Sicht sind am Morgen am höchsten. Planen Sie Gornergrat und Fototermine früh ein – den Nachmittag widmen Sie dem Dorf und dem Tal."
+        },
+        {
+          "number": 2,
+          "title": "Höhe respektieren, auf Schichten vertrauen",
+          "description": "Das Dorf liegt auf 1.600 Metern, die Gipfelstationen auf 3.000-3.900 Metern: Die Höhe ist spürbar und das Wetter kann sich innerhalb von Minuten ändern. Steigen Sie langsam auf, trinken Sie Wasser, vergessen Sie niemals den Sonnenschutz – die Bergsonne brennt auf dem Schnee doppelt so stark."
+        },
+        {
+          "number": 3,
+          "title": "Das Auto in Täsch lassen",
+          "description": "Privatfahrzeuge dürfen nicht nach Zermatt einfahren: Autofahrer parken am Terminal Täsch und fahren mit dem 12-minütigen Shuttle-Zug hinunter. Gepäckwagen rollen direkt in den Zug – das System funktioniert einwandfrei; kämpfen Sie nicht dagegen an."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "🚆",
+          "label": "Anreise",
+          "value": "Shuttle-Zug ab Täsch",
+          "sub": "Autofreies Dorf · ~1 Std. ab Visp"
+        },
+        {
+          "icon": "🚡",
+          "label": "Im Dorf",
+          "value": "Zu Fuß + E-Taxi",
+          "sub": "Elektrische Kleinbusse und Fußgängerzonen"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Deutsch (Walliser Dialekt)",
+          "sub": "Englisch funktioniert überall"
+        },
+        {
+          "icon": "🏔️",
+          "label": "Markenzeichen",
+          "value": "Das Matterhorn (4.478 m)",
+          "sub": "Die Gornergratbahn ist der beste Logenplatz"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Die Zermatter Philosophie",
+        "text": "In diesem Dorf werden Pläne vom Horu gemacht: Ist der Gipfel sichtbar, lassen Sie alles stehen und gehen Sie hinauf; ist er versteckt, ist es Zeit für Museum, Spa und Fondue. Der Kalender des Berges steht über Ihrem – akzeptieren Sie es, entspannen Sie sich."
+      }
+    },
+    "transport": {
+      "title": "Rund um Dorf und Berg",
+      "intro": "Zermatts Verkehr ist dreidimensional: Strassen zu Fuss, Täler mit dem Zug, Gipfel mit der Seilbahn – alles läuft wie ein Uhrwerk.",
+      "items": [
+        {
+          "icon": "🚆",
+          "title": "Anreise — via Visp und Täsch",
+          "description": "Die Hauptlinie verbindet in Visp mit der Bergbahn; Autofahrer parken am Terminal Täsch und steigen in den 12-minütigen Shuttle um. Aus Richtung Genf-Zürich belohnt die gesamte Fahrt mit malerischer Landschaft."
+        },
+        {
+          "icon": "🚞",
+          "title": "Die Gornergrat Bahn — Logenplatz unter freiem Himmel",
+          "description": "Die Zahnradbahn, seit 1898 in Betrieb, steigt vom Dorf auf 3.089 Meter: Setzen Sie sich rechts, und das Matterhorn füllt die ganze Zeit das Fenster. Oben erwarten Sie ein Gletscher-Amphitheater und 29 Viertausender."
+        },
+        {
+          "icon": "🚡",
+          "title": "Die Matterhorn Glacier Paradise Kette",
+          "description": "Die Seilbahnkette steigt zur höchsten Seilbahnstation Europas (3.883 m): ein Gletscherpalast, Sommerskifahren und der Blick nach Italien. Die Glasböden der Crystal Ride Kabinen sind ein Mut-Bonus."
+        },
+        {
+          "icon": "🚶",
+          "title": "Das Dorf zu Fuss + E-Taxi",
+          "description": "Die Hauptstrasse (Bahnhofstrasse) ist in zehn Minuten von Ende zu Ende zu Fuss erreichbar; Hotels befördern Gäste in Elektrominibussen. Lauschen Sie der Stille – statt Motoren hören Sie Hufe und das Rauschen des Baches."
+        },
+        {
+          "icon": "🥾",
+          "title": "Wanderwege und Winterwanderwege",
+          "description": "400 km Sommerwanderwege und präparierte Winterwanderwege: Die Sunnegga-Standseilbahn ist das Tor zur 5-Seenweg-Route, die Furi-Seilbahn zur Gletscherschlucht. Die Wegweiser sind makellos nach Schweizer Standard."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Zug-Tipp",
+        "text": "Nehmen Sie den ersten Zug auf den Gornergrat und wandern Sie ein Stück hinunter, steigen Sie am Riffelberg oder Rotenboden aus: Die entlang der Linie absteigenden Wege bieten doppelt so viele Aussichten wie der Ticketpreis. Der Abstieg Rotenboden-Riffelsee ist die offizielle Route für das Reflexionsfoto."
+      }
+    },
+    "stay": {
+      "title": "Unterkünfte",
+      "intro": "In Zermatt ist die Frage eine Balkonfrage: eine Fassade mit Blick auf das Horu, das Rauschen des Baches oder direkt am Pistenrand?",
+      "local_word": {
+        "word": "Gädi",
+        "pronunciation": "gay-dee",
+        "definition": "Die geschwärzten hölzernen Getreidespeicher des Wallis: jahrhundertealte Bauten, die auf Steinplatten stehen, um Mäuse fernzuhalten. Sie stehen noch immer reihenweise entlang der Hinterdorfstrasse – das älteste Fotostudio des Dorfes befindet sich genau dort."
+      },
+      "items": [
+        {
+          "name": "Bahnhofstrasse und Zentrum",
+          "badge": "Am praktischsten",
+          "badge_type": "vibe",
+          "description": "An und um die Hauptstrasse: Gehdistanz zum Bahnhof, den Liften und den Restaurants. Lebhaft in der Skisaison, Après-Ski-Soundtrack inklusive – die Lage macht alles einfach.",
+          "tags": [
+            "Nahe am Bahnhof",
+            "Grosse Restaurantwahl",
+            "Lebhaft in der Saison"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bahnhofstrasse+Zermatt"
+        },
+        {
+          "name": "Rund um das Hinterdorf",
+          "badge": "Am charaktervollsten",
+          "badge_type": "local",
+          "description": "Das Viertel der jahrhundertealten Holzscheunen: das alte Zermatter Gefüge, Steindächer und stille Gassen. Zwei Minuten zum Zentrum, zwei Jahrhunderte zurück in der Atmosphäre – um in der Geschichte aufzuwachen.",
+          "tags": [
+            "Historische Scheunen",
+            "Stille Gassen",
+            "Zwei Minuten zum Zentrum"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hinterdorf+Zermatt"
+        },
+        {
+          "name": "Die Matterhornseite – Südbalkone",
+          "badge": "Beste Aussicht",
+          "badge_type": "hot",
+          "description": "Hotels und Chalets mit Balkonen mit Blick auf das Horu: Vorhänge auf und der Gipfel steht gegenüber Ihrem Bett. Der Preis vervielfacht sich mit der Aussicht – die meisten Leute kommen einmal nach Zermatt und bleiben hier.",
+          "tags": [
+            "Gipfelblick",
+            "Balkonfrühstück",
+            "Spitzenpreise"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Zermatt+Matterhorn+view+hotel"
+        },
+        {
+          "name": "Winkelmatten",
+          "badge": "Am ruhigsten",
+          "badge_type": "value",
+          "description": "Das obere Viertel des Dorfes: Chaletgassen, Familienpensionen und Abkürzungen zu den Pisten. Fünf bis zehn Minuten zu Fuss ins Zentrum – für Ruhesuchende mit Ski-Balance.",
+          "tags": [
+            "Chaletviertel",
+            "Nahe den Pisten",
+            "Familienpensionen"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Winkelmatten+Zermatt"
+        },
+        {
+          "name": "Täsch",
+          "badge": "Die Budget-Basis",
+          "badge_type": "value",
+          "description": "Das Enddorf im Tal: Preise deutlich freundlicher, Zermatt 12 Minuten mit dem Shuttle-Zug. Die vernünftige Wahl für Autofahrer und diejenigen, die das Budget für Bergbahntickets sparen.",
+          "tags": [
+            "Faire Preise",
+            "Parkplätze",
+            "Der Shuttle-Zug"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Täsch"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Wann reisen",
+      "intro": "Zermatt ist eine Bühne für zwei Jahreszeiten: eine Skikathedrale im Winter, ein Wanderparadies im Sommer; die Zwischenzeiten sind ruhig, aber der Gipfel bleibt immer präsent.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Frühlingsschnee und Nebensaison",
+          "months": "Apr – Jun",
+          "subtitle": "Frühling · Skifahren in der Höhe, erstes Grün unten",
+          "description": "Frühlingsschnee wird auf den hohen Pisten bis Ende April gefahren; Mai-Juni ist die Atempause-Saison – einige Lifte schließen für Wartungsarbeiten, die Preise sinken und die unteren Wanderwege öffnen.",
+          "callout": {
+            "type": "tip",
+            "label": "Juni-Tipp",
+            "text": "Kommen Sie im Juni: Die Wiesen blühen, die Bäche rauschen vom Schmelzwasser, das Dorf ist ruhig. Hohe Wanderwege können noch Schneefelder aufweisen – wählen Sie Routen nach dem Öffnungsbericht; die Touristeninformation hält diesen aktuell."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Hauptwanderzeit",
+          "months": "Jul – Aug",
+          "subtitle": "Sommer · 400 km Wanderwege, Seereflexionen",
+          "description": "Das Herz der Wandersaison: Die Fünf-Seen-Wanderung, die Gletscherschluchten und Europas höchste Bergstationen laufen auf Hochtouren. Die Morgen sind klar, nachmittags bilden sich Wolken – der frühe Vogel fängt den Wurm.",
+          "callout": {
+            "type": "tip",
+            "label": "Juli-Tipp",
+            "text": "Nehmen Sie den ersten Zug zum Riffelsee: Bevor der Wind aufkommt, spiegelt sich das Matterhorn spiegelglatt im See. Nach 10 Uhr verderben Wind und Menschenmassen beides – die beste Zeit für dieses Foto ist 8 Uhr morgens."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Die Goldenen Lärchen",
+          "months": "Sep – Oct",
+          "subtitle": "Herbst · Gelbe Lärchenwälder, kristallklare Gipfel",
+          "description": "September-Oktober ist Zermatts verborgenes Meisterwerk: Die Lärchenwälder färben sich gold, die Luft wird kristallklar, die Wege leeren sich. Der erste Schnee pudert die Gipfel – die großzügigste Saison für Fotografen.",
+          "callout": {
+            "type": "tip",
+            "label": "Oktober-Tipp",
+            "text": "Gehen Sie Anfang Oktober die Strecke Sunnegga-Findeln: goldene Lärchen, geschwärzte Chalets und das verschneite Horu in einem Bild. Die Bergrestaurants in Findeln genießen die Ruhe zum Saisonende – Tische mit Aussicht, Buchungen einfach."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Die Skikathedrale",
+          "months": "Nov – Mar",
+          "subtitle": "Winter · 360 km Pisten, Skifahren nach Italien, Après-Ski",
+          "description": "Das weitläufige Drei-Sektoren-Skigebiet ist mit dem italienischen Cervinia verbunden: Die Höhe garantiert Schnee und die Saison ist lang. Das Dorf glitzert und die Preise erreichen ihren Höhepunkt – Neujahr und die Februar-Schulwochen sind Monate im Voraus ausgebucht.",
+          "callout": {
+            "type": "warning",
+            "label": "Saisonhinweis",
+            "text": "Buchen Sie den Winterurlaub frühzeitig: Neujahr und die Februar-Halbzeitferien sind Monate im Voraus ausgebucht. Gehen Sie niemals ohne Führer abseits der Pisten – die Regeln der Gletscherzone sind streng und ihre Gründe ernst."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Die Walliser Küche ist die Küche der Berge: geschmolzener Käse, luftgetrocknetes Fleisch, Roggenbrot und der Wein aus Europas höchstgelegenen Weinbergen.",
+      "local_word": {
+        "word": "Cholera",
+        "pronunciation": "ko-leh-ra",
+        "definition": "Die Walliser Pastete, deren Name erschreckt und deren Geschmack verzaubert: Kartoffeln, Lauch, Äpfel und Käse in einem Teig. Sie verdankt ihren Namen den Epidemiezeiten, als sie aus allem zubereitet wurde, was im Haus war – die köstlichste Notwendigkeit der Geschichte."
+      },
+      "items": [
+        {
+          "icon": "🧀",
+          "name": "Walliser Raclette – in seiner Heimat",
+          "description": "Sie sind im Mutterland des Raclettes: Die Käseoberfläche wird am Feuer geschmolzen, über Kartoffeln geschabt und mit Essiggurken serviert. In den Dorfrestaurants ist das Gütesiegel 'AOP Valais' das Zeichen für das Original.",
+          "tag": "In der Heimat · mit AOP-Siegel",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Walliserkanne+Zermatt"
+        },
+        {
+          "icon": "🫕",
+          "name": "Fondue – der Kessel nach der Piste",
+          "description": "Der offizielle Abschluss eines kalten Pistentages: der Topf in der Mitte, Brot auf der Gabel, Weisswein dazu. Wer sein Brot in den Topf fallen lässt, dessen Strafe wird am Tisch entschieden – die Tradition ist ernst.",
+          "tag": "Nach der Piste · Topf in der Mitte",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Whymper-Stube+Zermatt"
+        },
+        {
+          "icon": "🥩",
+          "name": "Walliserteller – die Trockenfleischplatte",
+          "description": "In Bergluft getrocknetes Rindfleisch, geräucherter Schinken, Alpkäse und Roggenbrot: der Stolz der Walliser Charcuterie auf einem Teller. Der klassische Auftakt mit einem Glas Fendant.",
+          "tag": "Der klassische Auftakt · mit Fendant",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Restaurant+Schäferstube+Zermatt"
+        },
+        {
+          "icon": "🥧",
+          "name": "Die Cholera-Pastete",
+          "description": "Das Kartoffel-Lauch-Apfel-Käse-Quartett in Pastetenform: zu finden in Berghütten und Dorfbäckereien. Lassen Sie sich vom seltsamen Namen nicht abschrecken – ihre süss-salzige Balance ist überraschend fein.",
+          "tag": "Walliser Erbe · in einer Hütte probieren",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bäckerei+Fuchs+Zermatt"
+        },
+        {
+          "icon": "🍷",
+          "name": "Wein der hohen Weinberge – Heida",
+          "description": "Der Heida-Weisswein aus Europas höchstgelegenen Weinbergen (Visperterminen, 1.150 m) und der Walliser Fendant: die lokalen Gläser am Bergtisch. 'Bergwein' ist hier kein Marketing – es ist Geografie.",
+          "tag": "Das lokale Glas · von den hohen Reben",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Visperterminen+Heida+wine"
+        },
+        {
+          "icon": "🫖",
+          "name": "Die Berghütten-Pause",
+          "description": "Rösti, hausgemachte Tarte und heisse Schokolade mit Aussicht in den Hütten am Wegrand (Richtung Findeln und Zum See): Zermatts beste Mittagsadresse liegt oft auf 2.100 Metern. Eine Reservierung auf der Sonnenterrasse ist in der Saison unerlässlich.",
+          "tag": "Auf dem Weg · auf einer Sonnenterrasse",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chez+Vrony+Findeln"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Spartipp",
+        "text": "Zermatts Preise wetteifern mit seiner Höhe: Finden Sie die Balance mit einem Bäckerei-Sandwich + Supermarkt-Picknick + einem guten Abendessen-Trio. Die Selbstbedienungsrestaurants an den Bergstationen sind auch deutlich günstiger als die Restaurants – gleiche Aussicht, andere Rechnung."
+      }
+    },
+    "hidden_gems": {
+      "title": "Versteckte Ecken",
+      "intro": "Jeder kennt den Gornergrat; diese sechs sind Zermatts ruhige Seiten.",
+      "items": [
+        {
+          "rarity": "Der Morgen am Spiegelsee",
+          "name": "Die Riffelsee-Spiegelung",
+          "description": "Fünf Minuten von der Station Rotenboden entfernt: An einem windstillen Morgen findet das Matterhorn seinen Zwilling im See. Hier versammeln sich Fotografen zur Morgenstunde – fahren Sie mit dem ersten Zug hinauf und wandern Sie dann hinunter nach Riffelberg.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Riffelsee+Zermatt"
+        },
+        {
+          "rarity": "Das 16. Jahrhundert mitten im Dorf",
+          "name": "Das Hinterdorf-Gässchen",
+          "description": "Zwei Schritte hinter der Hauptstrasse, geschwärzte Scheunen und Getreidespeicher mit Steinplatten: Hier ist das vor-touristische Zermatt eingefroren. Wenn die Laternen in der Dämmerung angehen, wird das Gässchen zur Zeitmaschine.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hinterdorf+Zermatt"
+        },
+        {
+          "rarity": "Die Erinnerung an den Preis des Berges",
+          "name": "Der Bergsteigerfriedhof",
+          "description": "Auf dem Kirchhof ruhen die Bergsteiger, die dem Matterhorn und den umliegenden Gipfeln ihr Leben gaben – darunter Spuren der Katastrophe der Erstbesteigung von 1865. Die stillste, tiefste Ecke des Dorfes.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mountaineers+Cemetery+Zermatt"
+        },
+        {
+          "rarity": "Ein vom Gletscher geformter Korridor",
+          "name": "Die Gornerschlucht (Gornerschlucht)",
+          "description": "Die Gletscherschlucht am Dorfrand: Holzstege schweben über türkisfarbenem Wasser. Der halbstündige Rundweg ist der beste Plan B für einen bewölkten Nachmittag.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Gorner+Gorge+Zermatt"
+        },
+        {
+          "rarity": "Mittagessen inmitten der Chalets",
+          "name": "Der Weiler Findeln",
+          "description": "Der alte Alpenweiler auf dem Weg von der Sunnegga hinunter: geschwärzte Chalets, goldene Lärchen und Bergrestaurants mit Blick auf das Horu. Skifahrer im Winter und Wanderer im Sommer treffen sich auf denselben Terrassen.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Findeln+Zermatt"
+        },
+        {
+          "rarity": "Die stilleren Seen des 5-Seenwegs",
+          "name": "Die ruhigeren Seen des 5-Seenwegs",
+          "description": "Der Stellisee ist der Star des 5-Seenwegs, doch der Lärchenrahmen des Grindjisees und der Badesteg des Leisees entgehen den meisten Besuchern: Absolvieren Sie die gesamte Route – jeder See bietet ein anderes Porträt des Horu.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=5-Seenweg+Zermatt"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Sonnenuntergangs-Tipp",
+        "text": "Gehen Sie im Abendlicht vom Dorf hinauf – zur Kirchenbrücke oder in Richtung Winkelmatten: Das rosa Leuchten, Alpenglühen genannt, erfasst zuerst die Spitze des Horu, dann die ganze Wand. Es dauert fünf Minuten und bleibt ein Leben lang in Erinnerung."
+      }
+    },
+    "traps": {
+      "title": "Touristenfallen",
+      "intro": "Zermatt ist ehrlich, aber die Preis- und Erwartungsspiele des Bergtourismus gelten auch hier.",
+      "items": [
+        {
+          "icon": "🌫️",
+          "name": "Ein Gipfelticket im Nebel verbrennen",
+          "description": "Bergbahntickets kosten viel Geld; auf einem wolkenverhangenen Gipfel gibt es ausser dem Gletscherpalast nichts zu sehen.",
+          "instead": "Prüfen Sie morgens die Webcams (sie laufen auf jedem Bildschirm im Dorf): Wenn das Horu versteckt ist, tauschen Sie den Tag gegen Schlucht, Museum, Spa und Fondue. Das Ticket läuft nicht weg – die Wolke schon."
+        },
+        {
+          "icon": "🎿",
+          "name": "Ausrüstung planlos mieten",
+          "description": "Wer in der Hochsaison auf den letzten Drücker Skiausrüstung jagt, zahlt den Restpreis für die Restgrössen.",
+          "instead": "Reservieren Sie die Ausrüstung online im Voraus und fragen Sie nach dem Mehrtagesrabatt. Wenn Sie Wanderer sind, sparen Sie nicht an Stöcken und Schuhen – die Wege sind steinig und Knie gibt es nur einmal pro Kunde."
+        },
+        {
+          "icon": "🍽️",
+          "name": "Jede Mahlzeit im Schaufenster der Hauptstrasse",
+          "description": "Die Vorzeige-Restaurants der Bahnhofstrasse laufen im Touristentempo: Preise hoch, die Küche manchmal durchschnittlich.",
+          "instead": "Biegen Sie eine Gasse ab oder essen Sie mittags in einer Berghütte: Das gleiche Budget kauft sowohl Aussicht als auch Küche. Fragen Sie abends einen Einheimischen nach seiner Raclette-Adresse."
+        },
+        {
+          "icon": "🥾",
+          "name": "Die Höhe unterschätzen",
+          "description": "Wer vom Meeresspiegel anreist und am ersten Tag auf 3.800 Meter fährt, bekommt Kopfschmerzen und Atemnot; wer die markierte Route in der Gletscherzone verlässt, geht ein ernstes Risiko ein.",
+          "instead": "Verbringen Sie den ersten Tag im Dorf und in mittleren Höhenlagen, steigen Sie allmählich auf, trinken Sie viel Wasser. Verlassen Sie niemals die markierte Linie in der Gletscherzone – diese Markierungen sind keine Dekoration, sie sind eine Versicherung."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Goldene Regel",
+        "text": "In Zermatt ist der kostspieligste Fehler die Eile und die beste Investition die Geduld: Heben Sie den Gipfel für einen klaren Tag auf und die grosse Ausgabe für eine geplante Wahl. Das Horu steht seit viertausend Jahren – es kann Ihre zwei Stunden Flexibilität abwarten."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wer Planung hasst, folgt diesen Abläufen. Die Zeiten sind flexibel; behalten Sie den Geist, brechen Sie die Reihenfolge. (Sommerversion – im Winter ersetzt die Piste den Wanderweg.)",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Ein Horu-Tag von der Spiegelung bis zum Alpenglühen",
+          "steps": [
+            {
+              "time": "07:00",
+              "title": "Erste Bahnfahrt auf den Gornergrat",
+              "description": "Setzen Sie sich ans rechte Fenster: Das Horu begleitet Sie den ganzen Weg. Oben erwarten Sie das Gletscheramphitheater und 29 Viertausender – frühstücken Sie auf der Terrasse."
+            },
+            {
+              "time": "09:00",
+              "title": "Die Riffelsee-Spiegelung",
+              "description": "Ausstieg in Rotenboden und fünf Minuten zum See: Machen Sie das Spiegelfoto, bevor der Wind aufkommt, und wandern Sie dann den Weg hinunter zum Riffelberg."
+            },
+            {
+              "time": "12:30",
+              "title": "Hüttenlunch in Findeln",
+              "description": "Wechseln Sie auf die Sunnegga-Seite; Rösti + Heida auf einer Findler Chalet-Terrasse: Die Aussicht ist inklusive."
+            },
+            {
+              "time": "15:00",
+              "title": "Leisee und der Abstieg",
+              "description": "Ein mutiges Bad oder eine Stegpause am Leisee; Abstieg mit der Standseilbahn oder zu Fuss und durch die Gassen des Hinterdorfs."
+            },
+            {
+              "time": "18:00",
+              "title": "Das Alpenglühen beobachten",
+              "description": "Nehmen Sie Ihren Platz an der Kirchenbrücke ein: Beobachten Sie das rosa Leuchten des Horu – die fünf ruhigsten Minuten des Dorfes."
+            },
+            {
+              "time": "19:30",
+              "title": "Der Fondue-Abschluss",
+              "description": "Topf in der Mitte, Fendant daneben: Der Tag wird Walliser-Art besiegelt. Lassen Sie das Brot nicht fallen – das Pfand wird am Tisch besprochen."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Gipfel, Seen und Gletscher – die volle Horu-Dosis",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Klassisches Zermatt",
+              "description": "Der oben beschriebene Ein-Tages-Ablauf: Gornergrat, Riffelsee, Findeln, Alpenglühen, Fondue."
+            },
+            {
+              "time": "Day 2",
+              "title": "Die Gletscherwelt",
+              "description": "Die Seilbahnkette zum Matterhorn Glacier Paradise: der Eispalast, die 3.883 m hohe Terrasse und der Blick nach Italien; eine Furi-Pause + die Gorner-Schlucht-Stege auf dem Weg nach unten; abends Raclette und ein stiller Moment auf dem Bergsteigerfriedhof."
+            },
+            {
+              "time": "Day 3",
+              "title": "Fünf Seen und Abschied",
+              "description": "Vollenden Sie den 5-Seenweg: vom Stellisee zum Leisee, jeder See ein anderes Horu-Porträt; mittags in einer Hütte, nachmittags eine Spa-Stunde oder ein Spaziergang auf der Bahnhofstrasse; ein Abschiedsabend mit Cholera-Kuchen + ein letztes Alpenglühen."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Wörter-Survival-Kit",
+      "intro": "Der Walliser Dialekt ist so fest wie seine Berge; diese fünf Wörter öffnen Türen auf dem Wanderweg und in der Hütte.",
+      "items": [
+        {
+          "word": "Grüezi / Grüessech",
+          "pronunciation": "grew-tsee / grew-es-sekh",
+          "meaning": "Hallo — jeder, der sich auf einem Wanderweg begegnet, grüsst; es ist praktisch Gesetz."
+        },
+        {
+          "word": "Merci vilmal",
+          "pronunciation": "mer-see feel-mahl",
+          "meaning": "Vielen Dank — funktioniert auch auf der Hüttenterrasse."
+        },
+        {
+          "word": "En Guete!",
+          "pronunciation": "en goo-eh-teh",
+          "meaning": "Guten Appetit — gesagt, wenn der Fonduetopf geöffnet wird."
+        },
+        {
+          "word": "Proscht!",
+          "pronunciation": "prosht",
+          "meaning": "Prost! — Blickkontakt, wenn der Fendant erhoben wird."
+        },
+        {
+          "word": "Ds Horu",
+          "pronunciation": "ds ho-roo",
+          "meaning": "'Das Horn' — der lokale Name des Matterhorns; benutzen Sie es und die Dorfbewohner lächeln."
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Zermatt-Checkliste",
+      "completion_message": "Proscht! Du hast den Schatten des Horu gebührend genossen!",
+      "items": [
+        {
+          "label": "Nimm den ersten Zug auf den Gornergrat",
+          "sub": "Fensterplatz rechts – das Horu immer im Blick"
+        },
+        {
+          "label": "Fange die Spiegelung am Riffelsee ein",
+          "sub": "Ein windstiller Morgen – die Magie beginnt um 8 Uhr"
+        },
+        {
+          "label": "Erlebe das rosa Leuchten des Alpenglühens",
+          "sub": "Von der Kirchenbrücke bei Sonnenuntergang"
+        },
+        {
+          "label": "Spaziere durch die Scheunen des Hinterdorfs",
+          "sub": "Das 16. Jahrhundert – nur zwei Schritte zurück in der Zeit"
+        },
+        {
+          "label": "Geniesse Raclette in seiner Heimat",
+          "sub": "Mit dem AOP Wallis-Siegel"
+        },
+        {
+          "label": "Tauche Brot in den Fonduetopf",
+          "sub": "Nicht fallen lassen – sonst droht eine Strafe nach Tischsitte"
+        },
+        {
+          "label": "Erreiche 3.883 m im Gletscherpalast",
+          "sub": "Glacier Paradise – Europas höchstes"
+        },
+        {
+          "label": "Absolviere die Fünf-Seen-Wanderung",
+          "sub": "Jeder See ein anderes Horu-Porträt"
+        },
+        {
+          "label": "Stehe schweigend am Bergsteigerfriedhof",
+          "sub": "Im Gedenken an den Preis, den der Berg forderte"
+        },
+        {
+          "label": "Trinke Heida auf einer Hüttenterrasse",
+          "sub": "Von Europas höchsten Weinbergen"
+        }
+      ]
+    }
+  }
+}

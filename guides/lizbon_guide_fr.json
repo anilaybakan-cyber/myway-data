@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "language": "fr",
+    "version": "2.1",
+    "color_primary": "#2E5BA8",
+    "color_light": "#E8EEF8",
+    "tagline": "Sept collines, lumière atlantique et l'odeur des pastéis fraîchement cuits — la ville se reconstruit à partir de zéro chaque matin.",
+    "last_updated": "2026-07-21"
+  },
+  "pills": [
+    "Évitez le tram 28",
+    "Mangez au comptoir, pas à table",
+    "Rendez-vous au miradouro avant le coucher du soleil"
+  ],
+  "sections": {
+    "overview": {
+      "intro": "Lisbonne est bâtie sur sept collines – vous le comprendrez dès que vous poserez le pied dans la ville. Les pavés sont glissants, les rues sont escarpées, mais au sommet de chaque colline, il y a une vue. La ville a fait la paix avec cette difficulté : les tramways grimpent, les ascenseurs aident à la montée, et les gens marchent lentement. La lumière de l'Atlantique frappe ici dans une couleur qu'on ne trouve nulle part ailleurs – ni jaune, ni ambre, exactement la lumière de Lisbonne. Des carreaux d'azulejos à chaque coin de rue, du fado s'échappant d'une porte, une pastelaria dans chaque rue de quartier. Cette ville ne vous dit pas de vous presser.",
+      "local_word": {
+        "pronunciation": "saw-DA-djeh",
+        "definition": "Le mot que le portugais a exporté dans le monde. Une nostalgie du passé, de quelque chose de lointain, de quelque chose qui n'a peut-être jamais existé. Mélancolique mais pas douloureux – une douce tristesse. Le fado est le genre musical traditionnel de Lisbonne – des chansons interprétées avec accompagnement de guitare, explorant les thèmes du chagrin, de la nostalgie et du destin. Sa fondation émotionnelle est la saudade. Lisbonne elle-même porte un peu de saudade : de vieux quartiers face au Tage, des carreaux délavés, des traces d'un ancien empire.",
+        "word": "Saudade"
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Mangez au comptoir, pas à table – même endroit, moitié prix",
+          "description": "Dans la plupart des pastelarias et cafés de Lisbonne, manger et boire au comptoir coûte moins cher que de s'asseoir à une table – parfois la moitié du prix. Un espresso au comptoir peut coûter 0,80 €, à table 1,50 €. La même règle s'applique aux petits-déjeuners et aux repas légers. Debout, rapide, bon marché : c'est le rythme matinal de Lisbonne."
+        },
+        {
+          "number": 2,
+          "title": "Le tram 28 est un piège à touristes – utilisez les alternatives",
+          "description": "Le tram 28E emprunte un bel itinéraire mais est désormais complètement bondé de touristes. Ne laissez pas vos poches ouvertes et vérifiez-les constamment. Les foules peuvent être vraiment épuisantes. Marchez jusqu'à Alfama ou essayez le tram 12E. Prenez le bus pour Graça au lieu du 28E. Les elevadores de la ville sont une toute autre histoire : Elevador da Bica, Elevador da Glória – ceux-ci sont encore locaux et charmants."
+        },
+        {
+          "number": 3,
+          "title": "Bacalhau chaque jour différent – mais toujours le même poisson",
+          "description": "Les Portugais disent avoir 365 recettes de morue salée (bacalhau) – une pour chaque jour de l'année. C'est une légende, mais elle est fondée sur la vérité : le bacalhau est au cœur de la cuisine portugaise. Lorsque vous voyez 'bacalhau' sur un menu de restaurant, regardez combien de versions ils proposent. Le Bacalhau à Brás – avec œuf, pommes de terre et olives – est le plus classique et le bon point de départ."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "LIS — Humberto Delgado",
+          "sub": "Ligne de métro rouge vers Baixa-Chiado ~25 min · pas de supplément"
+        },
+        {
+          "icon": "🚇",
+          "label": "Transport",
+          "value": "Carte Viva Viagem — métro, bus, tram, ferry",
+          "sub": "Carte 0,50 € · trajet simple 1,80 € · zapping (crédit préchargé) 1,47 €"
+        },
+        {
+          "icon": "🌡️",
+          "label": "Météo",
+          "value": "Climat méditerranéen doux",
+          "sub": "Mars–Juin et Sep–Nov idéal · Juil–Août chaud mais venteux · Déc–Fév humide"
+        },
+        {
+          "icon": "🐟",
+          "label": "Cuisine",
+          "value": "Bacalhau, Pastéis de Nata, Bifana",
+          "sub": "Déjeuner Tasca : 8–12 € · Pastel de Nata : 1,50 €"
+        }
+      ],
+      "tip": {
+        "label": "Lisbonne gratuite – les meilleures choses ne coûtent rien",
+        "text": "Les Miradouros sont gratuits. La Tour de Belém est gratuite de l'extérieur. Se promener dans la LX Factory est gratuit. Flâner dans les rues d'Alfama est gratuit. La cour du Mosteiro dos Jerónimos est gratuite – l'intérieur est payant. De nombreux musées sont gratuits ou à prix réduit le dimanche. Le ferry du Tage vers Cacilhas ne coûte que 1,30 € – la vue la plus belle et la moins chère de la ville.",
+        "type": "tip"
+      },
+      "title": "Bienvenue à Lisbonne"
+    },
+    "transport": {
+      "intro": "Le métro est rapide, les tramways sont beaux mais lents, le ferry offre une vue panoramique. Et la marche — à Lisbonne, marcher est vraiment la plus belle façon de tout découvrir.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Aéroport → Ville",
+          "description": "La ligne rouge du métro (station Aeroporto) relie directement Baixa-Chiado — environ 25 minutes, sans supplément. Utilisez votre carte Viva Viagem pour un tarif standard. Les taxis et Uber sont également disponibles ; 15-20 minutes jusqu'au centre, 10-15 € selon le trafic. Le métro est l'option la plus pratique : moins cher qu'un taxi, plus rapide qu'un bus."
+        },
+        {
+          "icon": "🚇",
+          "title": "Métro — rapide et fiable",
+          "description": "4 lignes (bleue, jaune, verte, rouge), 56 stations. Billet simple 1,80 €. Avec le 'zapping' (crédit préchargé), chaque trajet coûte 1,47 €. Fonctionne de 6h30 à 1h00 du matin. La carte Viva Viagem coûte 0,50 € — achetée une fois et rechargeable à volonté. L'aéroport, Baixa, Chiado, Marquês de Pombal et Oriente sont tous desservis par le métro."
+        },
+        {
+          "icon": "🚋",
+          "title": "Tramways et funiculaires",
+          "description": "Le tram 28E a un bel itinéraire mais n'est pas recommandé en raison des foules de touristes et du risque de pickpockets. Le tram 15E va à Belém — plus moderne, moins bondé, le meilleur choix. Les elevadores sont une expérience complètement différente : Elevador da Bica, Elevador da Glória et Elevador de Santa Justa — valables avec la carte Viva Viagem."
+        },
+        {
+          "icon": "⛴️",
+          "title": "Ferry sur le Tage — la plus belle vue de la ville",
+          "description": "Du quai Cais do Sodré à Cacilhas : seulement 1,30 €, 10 minutes. De l'autre côté, vous verrez la ligne d'horizon de Lisbonne, le pont du 25 Avril et la statue du Cristo Rei. Le plus beau au coucher du soleil."
+        },
+        {
+          "icon": "🚶",
+          "title": "À pied — et la réalité des collines",
+          "description": "Lisbonne a sept collines et elles sont vraiment raides. Des chaussures confortables et antidérapantes sont essentielles — les pavés deviennent comme une patinoire lorsqu'ils sont mouillés. Le centre est petit : de Baixa à Alfama à pied, c'est 20 minutes, de Chiado à Bairro Alto, c'est 5 minutes. Mais prévoyez du temps et du souffle pour monter à Graça ou aux hauteurs d'Alfama."
+        }
+      ],
+      "callout": {
+        "label": "Carte Viva Viagem — comment l'utiliser",
+        "text": "Disponible dans n'importe quelle station de métro pour 0,50 €. Vous pouvez charger un billet simple, un pass 24h (6,80 €) ou du crédit 'zapping'. Le 'zapping' est le plus flexible : chargez du crédit à l'avance et payez 1,47 € par trajet — valable pour le métro, le bus, le tram, le funiculaire et le ferry de Cacilhas. La carte est valable un an ; gardez-la si vous revenez à Lisbonne.",
+        "type": "tip"
+      },
+      "title": "Se déplacer"
+    },
+    "stay": {
+      "intro": "L'endroit où vous séjournez à Lisbonne détermine le nombre de collines que vous gravirez. Le centre est pratique, l'Alfama est plein de caractère, Príncipe Real est élégant.",
+      "local_word": {
+        "pronunciation": "mi-ra-DOW-ro",
+        "definition": "Point de vue. Chaque colline de Lisbonne en possède un ou plusieurs – des endroits offrant une vue sur la ville, le Tage et la lumière atlantique. Ceux qui sont touristiques sont bondés, les locaux sont calmes. Arrivez 30 à 40 minutes avant le coucher du soleil : pour trouver un bon endroit et admirer la lumière à son meilleur. Prenez une bière, un pastel ou quelque chose à la main, et asseyez-vous.",
+        "word": "Miradouro"
+      },
+      "items": [
+        {
+          "name": "Baixa / Chiado",
+          "badge": "Le plus central",
+          "badge_type": "hot",
+          "description": "Le quartier plat de la ville. Baixa est animé avec ses rues commerçantes et la Praça do Comércio ; Chiado, juste à côté, est beaucoup plus raffiné – librairies, cafés, Livraria Bertrand. Proche du métro, des tramways et du ferry. Tout est accessible à pied. Animé mais le bon choix si vous voulez être au centre.",
+          "tags": [
+            "Proche de tout",
+            "Vie culturelle du Chiado",
+            "Connexions métro"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Chiado+Lisbon"
+        },
+        {
+          "name": "Alfama",
+          "badge": "Le plus typique",
+          "badge_type": "local",
+          "description": "Le plus ancien quartier de Lisbonne, datant de la période maure. Rues étroites, bâtiments recouverts d'azulejos, linge étendu aux fenêtres, chats à chaque coin de rue. Le château de São Jorge au sommet. Le fado vit ici – la nuit, la musique s'échappe des portes. Touristique mais toujours un quartier vivant. Raide et fatigant – mais quelque chose de différent à chaque pas.",
+          "tags": [
+            "Cœur du fado",
+            "Château de São Jorge",
+            "Tissu historique"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Alfama+Lisbon"
+        },
+        {
+          "name": "Príncipe Real",
+          "badge": "Le plus élégant",
+          "badge_type": "hot",
+          "description": "Bâtiments élégants, places arborées, boutiques de design et bons restaurants. Un marché bio s'installe sur la Praça do Príncipe Real le dimanche. À distance de marche du Bairro Alto et du Chiado. Le quartier le plus calme et le plus raffiné de Lisbonne.",
+          "tags": [
+            "Marché bio",
+            "Boutiques de design",
+            "Calme et élégant"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Principe+Real+Lisbon"
+        },
+        {
+          "name": "Mouraria / Intendente",
+          "badge": "Le plus authentique",
+          "badge_type": "local",
+          "description": "Juste en dessous de l'Alfama, le quartier où les Maures se sont installés après avoir été expulsés de Lisbonne. Multiculturel, bruyant, coloré – communautés portugaise, africaine et asiatique s'y côtoient. Le fado y a aussi ses racines – les premières voix se sont élevées dans ces rues. La place Intendente s'anime la nuit. Non touristique ; la vraie vie lisboète s'écoule à travers ces quartiers.",
+          "tags": [
+            "Multiculturel",
+            "Racines du fado",
+            "Vie nocturne"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Mouraria+Lisbon"
+        },
+        {
+          "name": "Belém",
+          "badge": "Quartier historique",
+          "badge_type": "hot",
+          "description": "À 6 kilomètres du centre, accessible par le tram 15E ou le train. Le monastère des Hiéronymites, la Tour de Belém et le Monument des Découvertes s'y trouvent. Les Pastéis de Belém originaux sont ici – Rua de Belém 84-92, depuis 1837. La file d'attente est longue mais avance vite. Si vous voulez les essayer dans le centre-ville, Manteigaria (Chiado) est au moins aussi bon. Essayez de prévoir une journée séparée pour une visite de musée.",
+          "tags": [
+            "Monastère des Hiéronymites",
+            "Pastéis de Belém",
+            "Monuments historiques"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Belem+Lisbon"
+        }
+      ],
+      "title": "Où séjourner"
+    },
+    "best_time": {
+      "intro": "Lisbonne peut être visitée toute l'année, mais elle est à son meilleur quand il ne fait ni trop froid ni trop chaud.",
+      "items": [
+        {
+          "label": "Printemps",
+          "name": "La meilleure période",
+          "months": "Mar – Jun",
+          "description": "Mai et juin sont les plus beaux mois de Lisbonne. Les jacarandas éclatent en fleurs violettes en mai — l'Avenida Fontes Pereira de Melo et Príncipe Real sont les meilleurs endroits pour commencer. Le temps est doux, ensoleillé mais pas accablant. En juin, les Festas de Santo António — le plus grand festival de la ville, grillades de sardines, musique de rue, processions.",
+          "callout": {
+            "label": "Festas de Santo António — la nuit du 12 au 13 juin",
+            "text": "Un festival en l'honneur du saint patron de Lisbonne, Santo António. Dans la nuit du 12 juin, la ville célèbre dans tous les quartiers : fêtes de rue à Alfama, Mouraria et Graça, musique et danse. La foule est dense mais l'ambiance est inégalée. Sandwich aux sardines 2-3 €, bière 1-2 €. La nuit lisboète la plus authentique de l'année.",
+            "type": "tip"
+          },
+          "id": "spring",
+          "subtitle": "Printemps · Jacarandas, temps doux, moins de foule"
+        },
+        {
+          "label": "Été",
+          "name": "Chaud mais venteux",
+          "months": "Jul – Aug",
+          "description": "Juillet et août sont les mois les plus fréquentés. Les températures atteignent 30-35°C mais la brise atlantique empêche la sensation d'oppression. La saison des sardines s'étend de mai à août. Les musées sont bondés, les restaurants nécessitent des réservations. Pour les plages, Cascais et Estoril sont à 40 minutes en train.",
+          "callout": {
+            "label": "Cascais et Estoril — quitter la ville",
+            "text": "De Cais do Sodré en train jusqu'à Cascais : 40 minutes — tout le long de la côte avec vue sur la mer. Cascais est petite, élégante et plus calme que Lisbonne. Juste plage, mer et restaurants de poisson. Idéal pour une excursion d'une journée. Un billet séparé est requis — la carte Viva Viagem n'est pas valable pour ce trajet.",
+            "type": "tip"
+          },
+          "id": "summer",
+          "subtitle": "Été · Le vent de l'Atlantique tempère la chaleur, sardines en saison"
+        },
+        {
+          "label": "Automne",
+          "name": "Calme et magnifique",
+          "months": "Sep – Nov",
+          "description": "Septembre et octobre sont la période la plus agréable de Lisbonne. La foule estivale est partie, le temps est encore doux, les musées et les restaurants sont plus calmes. En automne, le soleil frappe sous un angle plus bas — la lumière est douce, les ombres sont longues, tout devient doré. La saison préférée des photographes. La pluie commence à partir de novembre.",
+          "callout": {
+            "label": "LX Factory — ancienne usine, nouvel esprit",
+            "text": "À Alcântara, sous le pont du 25 Avril. Une usine textile du XIXe siècle restaurée en librairies, cafés, restaurants et ateliers. Un marché s'installe le dimanche — le marché du week-end le plus intéressant de Lisbonne. Prenez le tram 15E ou marchez 25 minutes depuis Cais do Sodré.",
+            "type": "tip"
+          },
+          "id": "autumn",
+          "subtitle": "Automne · La foule estivale partie, la ville respire"
+        },
+        {
+          "label": "Hiver",
+          "name": "Humide mais calme",
+          "months": "Dec – Feb",
+          "description": "De décembre à février, Lisbonne est pluvieuse mais ne gèle pas. La période la moins fréquentée, les prix d'hôtel les plus bas, les musées les plus vides. La ville est décorée de lumières à Noël. Les soirées de fado sont à leur apogée en hiver — écouter du fado par une nuit froide et pluvieuse dans un petit lieu prend une signification différente.",
+          "callout": {
+            "label": "Une soirée fado — où et comment",
+            "text": "Pour un vrai fado, choisissez les petites tascas d'Alfama ou de Mouraria. Les grands restaurants de fado touristiques sont chers et semblent inauthentiques. Réservez dans de petits lieux comme Tasca do Chico, Mesa de Frades ou Zé da Mouraria. Le fado commence généralement après 21h. Restez silencieux ; applaudissez seulement après la fin de la chanson.",
+            "type": "tip"
+          },
+          "id": "winter",
+          "subtitle": "Hiver · Pluvieux mais la période la moins chère"
+        }
+      ],
+      "monthly_highlights": [
+        {
+          "month": "12–13 juin",
+          "text": "Santo António : la plus grande nuit de la ville — sardines grillées dans les rues, défilés de quartier décorés, danse jusqu'à l'aube."
+        },
+        {
+          "month": "Juillet–Août",
+          "text": "Haute saison : chaud, bondé et animé ; visitez tôt et quittez à midi pour la brise du fleuve."
+        },
+        {
+          "month": "Septembre–Octobre",
+          "text": "La saison idéale : lumière dorée, une mer encore baignable, moins de files d'attente — Lisbonne à son meilleur."
+        },
+        {
+          "month": "11 novembre",
+          "text": "São Martinho : jour de 'magusto' avec fumée de châtaignes et vin de jeropiga ; les braseros de châtaignes fument aux coins des rues."
+        }
+      ],
+      "title": "Quand partir"
+    },
+    "eat": {
+      "intro": "Lisbonne est bon marché et délicieuse – si vous mangez aux bons endroits. Commencez par un coin pastelaria, passez à une tasca, terminez avec une ginjinha.",
+      "local_word": {
+        "pronunciation": "peh-TISH-ko",
+        "definition": "La version portugaise des tapas espagnoles – mais plus simple, plus aillée, plus directe. Petites assiettes, à partager. Classiques : pastéis de bacalhau (beignets de morue salée), amêijoas à Bulhão Pato (palourdes à l'ail), peixinhos da horta (haricots verts tempura – un plat que les Portugais ont enseigné aux Japonais). Avec une bouteille de vinho verde à côté, la soirée est parfaite.",
+        "word": "Petisco"
+      },
+      "items": [
+        {
+          "icon": "🥐",
+          "name": "Pastel de nata",
+          "description": "Une tartelette à la crème aux œufs inventée par des moines de monastère. Le dessus est caramélisé et légèrement brûlé, la pâte est feuilletée et croustillante. Saupoudrez de cannelle et de sucre glace. Au comptoir, debout, avec un espresso. Manteigaria (Chiado) : quand la cloche sonne, ils viennent juste de sortir du four. Pastéis de Belém est l'original – depuis 1837, à Belém – mais Manteigaria est au moins aussi bon et se trouve en plein centre-ville.",
+          "tag": "Manteigaria, Chiado · manger au comptoir · tôt le matin · €1.50",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Manteigaria+Lisbon"
+        },
+        {
+          "icon": "🥩",
+          "name": "Bifana",
+          "description": "Porc mariné au vin blanc, à l'ail et au romarin, farci dans un petit pain papo seco. Le pain absorbe la sauce – c'est essentiel. S'il y a une bouteille de moutarde jaune sur le comptoir, cet endroit sait ce qu'il fait. As Bifanas do Afonso, Rua da Madalena 146 – debout, rapide, pas cher.",
+          "tag": "As Bifanas do Afonso, Rua da Madalena 146 · manger debout · €2.50–3.50",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=O+Trevo+Lisbon"
+        },
+        {
+          "icon": "🐟",
+          "name": "Bacalhau à Brás",
+          "description": "Morue salée, frites allumettes fines, œuf, oignon, olives et persil – le tout cuit ensemble dans une seule poêle. Le résultat semble simple mais la saveur est complexe. On dit qu'il a été inventé au 19ème siècle par un tavernier du Bairro Alto. Commencez votre voyage culinaire du bacalhau à Lisbonne ici – la version la plus accessible et la plus classique pour les débutants.",
+          "tag": "Tous les restaurants traditionnels · toute l'année",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Laurentina+O+Rei+do+Bacalhau+Lisbon"
+        },
+        {
+          "icon": "🐟",
+          "name": "Sardines grillées",
+          "description": "Le plat saisonnier de Lisbonne de mai à août. Pendant la fête de Santo António en juin, l'odeur des sardines grillées emplit chaque coin de rue – cette odeur est le parfum de l'été lisboète. Avec seulement du citron et du pain. Les sardines fraîches sont difficiles à trouver en hiver ; il est préférable de ne pas les commander pendant cette saison.",
+          "tag": "Mai–Août · Alfama et rues de fête",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Alfama+Lisbon"
+        },
+        {
+          "icon": "🍒",
+          "name": "Ginjinha",
+          "description": "Liqueur de cerise aigre, dans un petit verre, €1.50. Vers 17h, il y a un moment étrange à Lisbonne – le déjeuner est terminé, le soir n'est pas encore arrivé, personne n'a faim mais tout le monde s'arrête quelque part. C'est exactement le moment pour la ginjinha. A Ginjinha est au Largo de São Domingos depuis 1840 – entrez, dites ce que vous voulez, prenez-le, partez. Quelques portes plus loin se trouve Ginjinha Sem Rival. Essayez les deux ; cela prend dix minutes, la différence est à vous de décider.",
+          "tag": "A Ginjinha, Largo de São Domingos · €1.50 · depuis 1840",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=A+Ginjinha+Lisbon"
+        },
+        {
+          "icon": "🛒",
+          "name": "Déjeuner Tasca",
+          "description": "Petits restaurants familiaux, généralement sans menu imprimé ou écrit sur une ardoise. Demandez le prato do dia (plat du jour), ils vous diront ce qui est disponible, vous le prenez. Poisson, viande, un peu de vin – tout compris pour €8-12. Ce genre de tascas est encore très présent à Mouraria et Intendente. Zé da Mouraria est légendaire : service de déjeuner uniquement, paiement en espèces préféré. Réservation indispensable.",
+          "tag": "Mouraria et Intendente · déjeuner · €8–12 · espèces",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=O+Velho+Eurico+Lisbon"
+        }
+      ],
+      "callout": {
+        "label": "Time Out Market – comment l'utiliser",
+        "text": "Au Cais do Sodré, au bord du fleuve. Idéal pour essayer plusieurs choses à la fois – mais un cauchemar si vous y allez au mauvais moment. Entre 13h et 14h et entre 19h et 21h, trouver une place est impossible. Asseyez-vous d'abord, puis choisissez votre nourriture. Environ €20-25 par personne. Certains des meilleurs chefs de la ville ont des stands ici.",
+        "type": "tip"
+      },
+      "title": "Que manger"
+    },
+    "hidden_gems": {
+      "intro": "Les meilleurs endroits de Lisbonne apparaissent généralement lorsque vous montez un escalier ou tournez dans une rue étroite.",
+      "items": [
+        {
+          "name": "Miradouro da Graça",
+          "description": "Derrière le château de São Jorge, dans le quartier de Graça. La plupart des touristes se retrouvent aux Portas do Sol ou à Santa Luzia — Graça est moins connu, plus calme, la vue est tout aussi belle. Allez-y tôt le matin ou avant le coucher du soleil. Si vous y allez au coucher du soleil, n'oubliez pas d'apporter une bière. Asseyez-vous, prenez une gorgée et savourez l'instant. Devant vous, le Tage, l'Alfama et toute la ville vous attendront.",
+          "rarity": "Le point de vue où vont les Lisboètes, pas celui que les touristes photographient",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Miradouro+da+Graça+Lisbon"
+        },
+        {
+          "name": "Livraria Bertrand",
+          "description": "À Chiado, Rua Garrett 73. Ouverte depuis 1732 — selon le Livre Guinness des Records, la plus ancienne librairie du monde encore en activité. Petites pièces, vieilles étagères en bois, livres en portugais et en langues étrangères. Même si vous n'achetez pas de livre, entrez, asseyez-vous, restez quelques minutes. Vous avez l'impression qu'une histoire entière s'est déposée sur vous.",
+          "rarity": "Le paradis du livre au Portugal — la plus ancienne librairie d'Europe",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Livraria+Bertrand+Lisbon"
+        },
+        {
+          "name": "Elevador da Bica",
+          "description": "Un tramway funiculaire escarpé reliant le quartier de Bica à Cais do Sodré. En service depuis 1892. Pas pour la photo — empruntez-le car c'est vraiment le moyen de parcourir cet itinéraire. Votre carte Viva Viagem est valable ici. En bas, à quelques pas du Mercado da Ribeira. En haut, perdez-vous dans les rues étroites de Bica.",
+          "rarity": "Lisbonne en ascenseur — la descente de Bica",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Elevador+da+Bica+Lisbon"
+        },
+        {
+          "name": "Conserveira de Lisboa",
+          "description": "À l'entrée de l'Alfama, Rua dos Bacalhoeiros 34. Ouvert depuis 1930. À l'intérieur, des dizaines de boîtes de sardines, de thon et de poulpe — dans des boîtes colorées aux motifs d'une autre époque. Une excellente option pour emporter des souvenirs dans votre valise avant de partir ou pour offrir des cadeaux à vos proches, à des prix raisonnables.",
+          "rarity": "Conserves de poisson — les plus belles boutiques de souvenirs de Lisbonne",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Conserveira+de+Lisboa"
+        },
+        {
+          "name": "Cacilhas Ferry",
+          "description": "Du quai de Cais do Sodré à Cacilhas : 10 minutes, 1,30 €. Au fur et à mesure que le ferry avance, la ligne d'horizon de Lisbonne, le pont du 25 Avril et la statue du Cristo Rei sur la colline apparaissent progressivement plus nettement. La plus belle vue est pendant la traversée. Une fois arrivé à Cacilhas, vous pouvez manger du poisson frais dans les petits restaurants du front de mer tout en admirant la ville. Essayez de revenir au coucher du soleil — Lisbonne prend la plus belle teinte orange à cette heure.",
+          "rarity": "Traversez le Tage et revenez — la ligne d'horizon de Lisbonne pour 1,30 €",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cacilhas"
+        },
+        {
+          "name": "Calçada Portuguesa — Rossio Square",
+          "description": "La mosaïque de pavés noirs et blancs distinctive du Portugal, faite à la main. Le plus bel exemple se trouve sur la place Rossio : des courbes ondulantes simulant la mer, chaque pierre posée à la main. Les Portugais ont également exporté cette technique au Brésil. Ce n'est donc pas un hasard si les célèbres trottoirs de Rio de Janeiro présentent le même savoir-faire. Pour voir le motif complet de la mosaïque, il faut regarder d'un peu plus haut ; depuis le balcon d'un café au bord de la place, ou depuis des marches voisines, le design entier se révèle.",
+          "rarity": "L'histoire du Portugal gravée dans le pavé",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Rossio+Square+Lisbon"
+        }
+      ],
+      "callout": {
+        "label": "Feira da Ladra — Le plus ancien marché de Lisbonne",
+        "text": "Tous les mardis et samedis, au-dessus de l'Alfama, au Campo de Santa Clara. Le nom signifie 'Marché aux voleurs' — articles d'occasion, antiquités, disques, livres, bijoux. Les mardis matins sont plus calmes ; les samedis plus animés mais plus colorés. Les prix sont négociables. Entrée gratuite. Le Miradouro da Graça est accessible à pied — vous pouvez combiner les deux le même matin.",
+        "type": "tip"
+      },
+      "title": "Trésors Cachés"
+    },
+    "checklist": {
+      "items": [
+        {
+          "label": "Manger un pastel de nata au comptoir",
+          "sub": "Manteigaria, dans le Chiado. Quand la cloche sonne, ils viennent juste de sortir du four. Cannelle et sucre glace par-dessus. Un espresso à côté. 1,50 €."
+        },
+        {
+          "label": "Manger une bifana — debout, avec de la moutarde",
+          "sub": "As Bifanas do Afonso, Rua da Madalena 146. S'il y a une bouteille de moutarde jaune sur le comptoir, vous êtes au bon endroit. Mangez debout, mangez vite."
+        },
+        {
+          "label": "Prendre le ferry pour Cacilhas",
+          "sub": "Embarcadère Cais do Sodré. 1,30 €, 10 minutes. La skyline de Lisbonne devant vous tout le long du trajet. Essayez de revenir au coucher du soleil."
+        },
+        {
+          "label": "Boire de la ginjinha — Largo de São Domingos",
+          "sub": "A Ginjinha au Largo de São Domingos, depuis 1840. Allez-y vers 17h, buvez de la liqueur de cerise aigre dans un petit verre, 1,50 €. Ginjinha Sem Rival est à quelques portes — essayez les deux."
+        },
+        {
+          "label": "Déjeuner dans une tasca",
+          "sub": "Entrez dans une petite tasca à Mouraria ou Intendente. Demandez le prato do dia (plat du jour), prenez ce qui est disponible. 8-12 € tout compris. Apportez de l'argent liquide."
+        },
+        {
+          "label": "Aller au Miradouro da Graça",
+          "sub": "Quartier de Graça, non touristique et calme. Arrivez au moins 30 minutes avant le coucher du soleil — pour trouver un bon endroit. Quand vous vous asseyez, le Tage, l'Alfama et toute la ville s'étendent devant vous."
+        },
+        {
+          "label": "Se perdre dans les rues de l'Alfama",
+          "sub": "Entrez sans carte. Montez à travers l'Alfama, arrêtez-vous quelque part, puis redescendez. Des chats à chaque coin de rue, le fado s'échappant des portes."
+        },
+        {
+          "label": "Prendre l'Elevador da Bica",
+          "sub": "Avec votre carte Viva Viagem. Du quartier de Bica à Cais do Sodré. En service depuis 1892."
+        },
+        {
+          "label": "Entrer chez Conserveira de Lisboa",
+          "sub": "Entrée Alfama, Rua dos Bacalhoeiros 34. Petite boutique ouverte depuis 1930. Boîtes colorées de sardines, thon, poulpe — de haute qualité, tient dans votre valise, un excellent cadeau."
+        },
+        {
+          "label": "Entrer à la Livraria Bertrand",
+          "sub": "Rua Garrett 73, Chiado. Depuis 1732. La plus ancienne librairie du monde encore en activité."
+        },
+        {
+          "label": "Aller à la LX Factory",
+          "sub": "Sous le pont d'Alcântara, une ancienne usine restaurée. Cafés, librairies, boutiques. Le dimanche est le jour le plus animé. Prenez le tram 15E."
+        },
+        {
+          "label": "Écouter du fado — dans un petit lieu",
+          "sub": "Tasca do Chico et Mesa de Frades sont de petits lieux de fado à Alfama. Commence après 21h. Réservation indispensable. Pas d'applaudissements avant la fin de la chanson."
+        }
+      ],
+      "title": "Liste des incontournables de Lisbonne",
+      "completion_message": "Lisbonne vous rappellera. La prochaine fois, prenez votre temps."
+    },
+    "traps": {
+      "title": "Évitez les pièges",
+      "intro": "Lisbonne est une ville charmante, mais la vague touristique a apporté quelques pièges classiques. Connaissez ces quatre-là et vivez la saudade pour de vrai.",
+      "items": [
+        {
+          "icon": "🚋",
+          "name": "Faire la queue pour le tram 28 à midi",
+          "description": "Le tram légendaire est devenu un bus à pickpockets à midi : une heure de queue, puis un trajet bondé comme des sardines.",
+          "instead": "Prenez la même ligne avant 8h du matin ou essayez le 12E ; mieux encore, parcourez l'itinéraire à pied — l'Alfama est faite pour être explorée à pied."
+        },
+        {
+          "icon": "🍞",
+          "name": "Prendre le couvert pour un cadeau",
+          "description": "Le pain, les olives et le fromage qui arrivent sur votre table ne sont pas gratuits ; touchez-les et ils seront sur l'addition.",
+          "instead": "Si vous n'en voulez pas, souriez et renvoyez-le : 'não, obrigado' suffit — personne ne s'en formalise, et l'addition reste propre."
+        },
+        {
+          "icon": "🛺",
+          "name": "Négocier une visite de la ville en tuk-tuk",
+          "description": "Les collines sont l'excuse et les tarifs sont exorbitants ; une visite d'une demi-heure peut coûter trois fois le prix d'un taxi.",
+          "instead": "Les funiculaires (Bica, Glória) et les heures creuses du tram gèrent les collines ; si un tuk-tuk est indispensable, fixez le prix avant de monter."
+        },
+        {
+          "icon": "🧁",
+          "name": "Chercher la nata uniquement dans la file de Belém",
+          "description": "Pastéis de Belém est historique et charmant, mais ce n'est pas la seule vérité ; une heure de queue n'est pas nécessaire.",
+          "instead": "Prenez une nata chaude au comptoir de Manteigaria, saupoudrez de cannelle, soyez heureux en trente secondes ; si vous allez à Belém, allez-y à l'ouverture."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "La règle d'or",
+        "text": "À Lisbonne, évitez les endroits avec un menu photo et un serveur à la porte ; entrez dans la tasca avec des nappes en papier et un menu manuscrit. Moitié prix, double saveur, triple histoire."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si vous avez 1 jour",
+          "subtitle": "Collines, nata et l'autre rive du fleuve",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Matinée à l'Alfama",
+              "description": "Montez les ruelles étroites : linge qui sèche, façades d'azulejos, fado flottant d'un coin. Pause-café au Miradouro da Graça."
+            },
+            {
+              "time": "11:00",
+              "title": "Château de São Jorge ou la cathédrale",
+              "description": "Du château, la ville s'étend tuile par tuile à vos pieds ; si la file d'attente est longue, la cathédrale + la vue des Portas do Sol feront l'affaire."
+            },
+            {
+              "time": "13:00",
+              "title": "Déjeuner dans une tasca",
+              "description": "Le poisson du jour, une carafe de vinho da casa ; l'addition étonnamment petite, la satisfaction grande."
+            },
+            {
+              "time": "15:00",
+              "title": "Chiado + Bica",
+              "description": "Feuilletez chez Bertrand (la plus ancienne librairie du monde), puis descendez les pentes à côté du funiculaire de Bica."
+            },
+            {
+              "time": "17:30",
+              "title": "Ferry de Cacilhas",
+              "description": "Traversez le fleuve et admirez Lisbonne au coucher du soleil depuis l'autre rive ; le ferry de retour est la croisière panoramique la moins chère de la ville."
+            },
+            {
+              "time": "20:30",
+              "title": "Soirée au Bairro Alto",
+              "description": "Petits bars, verres dans la rue, fado s'échappant de quelque part ; la nuit ici est meilleure sans plan."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si vous avez 3 jours",
+          "subtitle": "Vivez la ville en invité, pas en touriste",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Collines et fleuve",
+              "description": "Le parcours d'un jour ci-dessus : Alfama, château, Chiado, ferry."
+            },
+            {
+              "time": "Day 2",
+              "title": "Belém et les découvertes",
+              "description": "Monastère des Hiéronymites le matin (allez-y tôt), Tour de Belém et le Monument des Découvertes, MAAT l'après-midi ; mangez la nata ici à la pâtisserie historique."
+            },
+            {
+              "time": "Day 3",
+              "title": "Évasion à Sintra et au revoir",
+              "description": "Train matinal pour Sintra : Palais de Pena + le puits de la Quinta da Regaleira, puis une soirée à Príncipe Real et un dernier ginjinha."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Le kit de survie en 5 mots",
+      "intro": "Le portugais n'est pas l'espagnol – le simple fait de le savoir vous ouvrira des cœurs à Lisbonne.",
+      "items": [
+        {
+          "word": "Bom dia",
+          "pronunciation": "bohn DEE-ah",
+          "meaning": "Bonjour – jusqu'à midi ; après, c'est boa tarde"
+        },
+        {
+          "word": "Obrigado / Obrigada",
+          "pronunciation": "oh-bree-GAH-doo / -dah",
+          "meaning": "Merci – se termine par -o si vous êtes un homme, par -a si vous êtes une femme"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "poor fah-VOR",
+          "meaning": "S'il vous plaît – ajoutez-le à la fin de votre commande"
+        },
+        {
+          "word": "Saúde!",
+          "pronunciation": "sah-OO-jeh",
+          "meaning": "Santé ! – les verres de ginjinha se lèvent pour cela"
+        },
+        {
+          "word": "Até já",
+          "pronunciation": "ah-TEH zhah",
+          "meaning": "À bientôt – le chaleureux au revoir que les Lisboètes utilisent constamment"
+        }
+      ]
+    }
+  }
+}

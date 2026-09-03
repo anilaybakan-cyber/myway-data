@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Ibiza",
+    "country": "Spain",
+    "language": "de",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#1F8A8A",
+    "color_light": "#E5F5F5",
+    "tagline": "Die Weiße Insel: türkisfarbene Buchten, Hippie-Märkte und Sonnenuntergangsrituale"
+  },
+  "pills": [
+    "Die Weiße Insel — La Isla Blanca",
+    "Dalt Vila, UNESCO-Weltkulturerbe",
+    "Zwei Seiten: von Superclubs zu stillen Buchten"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Willkommen auf Ibiza",
+      "intro": "Ibizas Ruhm wurde von seinen Nachtclubs geschrieben, doch die wahre Geschichte der Insel ist älter: Die Phönizier bauten einen Hafen, Festungsmauern erhoben sich gegen Piraten, die Hippies der Sechzigerjahre besiedelten die von Pinien gesäumten Buchten – und alle hinterließen ihre Spuren auf dieser weißen Insel. Heute lebt die Geschichte in den Steingassen von Dalt Vila, die Stille in den nördlichen Buchten, ein Sonnenuntergangsritual gegenüber von Es Vedrà und nachts die berühmtesten Tanzflächen der Welt. Es gibt zwei Ibizas – in welcher Dosis Sie sie mischen, liegt ganz bei Ihnen.",
+      "local_word": {
+        "word": "Eivissa",
+        "pronunciation": "ey-vee-sa",
+        "definition": "Der katalanische und offizielle Name der Insel: Die Straßenschilder sagen 'Eivissa', nicht 'Ibiza'. Ein Einheimischer stellt sich als 'eivissenc' vor – diesen Namen zu verwenden zeigt, dass Sie die Insel durch ihre Tür betreten haben, nicht durch ihre Broschüre."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Lerne beide Inseln kennen",
+          "description": "Süden bedeutet Nacht, Norden bedeutet Stille: San Antonio und Playa d'en Bossa sind Party, der Norden um Portinatx und Benirràs ist Pinien und Buchten. Wer sich mit einer Seite zufriedengibt, hat die Hälfte der Insel verpasst."
+        },
+        {
+          "number": 2,
+          "title": "Kaufe das Clubticket niemals an der Tür",
+          "description": "Die Türpreise der großen Clubs sind unverschämt: Tickets sind online und im Vorverkauf deutlich günstiger, und die meisten Hotels und Bars verkaufen sie vorab. Was den Traum von zwei Clubs in einer Nacht angeht – das ist Budget- und Energie-Selbstmord."
+        },
+        {
+          "number": 3,
+          "title": "Buchten früh, Sonnenuntergang in Position",
+          "description": "Die berühmten Calas füllen sich bis Mittag und die Parkplätze quellen über: 10 Uhr morgens ist die beste Stunde einer Bucht. Für den Sonnenuntergang zählt der Ort, nicht die Zeit – die Klippen gegenüber von Es Vedrà oder die Felsen der Westküste brauchen einen Plan."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Flughafen",
+          "value": "Ibiza (IBZ)",
+          "sub": "10 Min. zur Stadt · Direktflüge in der Saison"
+        },
+        {
+          "icon": "🚗",
+          "label": "Auf der Insel",
+          "value": "Mietwagen empfohlen",
+          "sub": "Busse auf Hauptlinien, schwach zu den Buchten"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Sprache",
+          "value": "Catalan + Spanish",
+          "sub": "Englisch überall auf der Touristenroute"
+        },
+        {
+          "icon": "🌅",
+          "label": "Markenzeichen",
+          "value": "Sunset + Es Vedrà",
+          "sub": "Das Ritual der Westküste"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "Die Ibiza-Philosophie",
+        "text": "Der lokale Rhythmus der Insel ist 'poc a poc' – nach und nach: eine Bucht am Morgen, ein langer Tisch am Mittag, Sonnenuntergang am Abend, die Tanzfläche in der Nacht, wenn Sie möchten. Wer alles in einen Tag packt, lebt nichts davon."
+      }
+    },
+    "transport": {
+      "title": "Fortbewegung auf der Insel",
+      "intro": "Ibiza mag klein erscheinen, doch seine Buchten sind weit verstreut: Freiheit bedeutet ein Mietwagen, Praktikabilität die Hauptbuslinien, Vergnügen ein Boot.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Vom Flughafen in die Stadt",
+          "description": "Der Flughafen ist 10 Minuten von Ibiza-Stadt entfernt: Buslinie 10 fährt in der Saison häufig, und Taxis halten sich an einen Pauschalpreis. Die Überfahrt zur Seite von San Antonio dauert eine halbe Stunde."
+        },
+        {
+          "icon": "🚗",
+          "title": "Ein Mietwagen – der Schlüssel zu den Buchten",
+          "description": "Die meisten versteckten Buchten erreicht man über unbefestigte Wege; ein Kleinwagen ist der Schlüssel der Insel. Buchen Sie im Sommer frühzeitig und erreichen Sie die Strandparkplätze am Morgen – mittags ist ein Platz Glückssache."
+        },
+        {
+          "icon": "🚌",
+          "title": "Die wichtigsten Buslinien",
+          "description": "Das Dreieck Ibiza-San Antonio-Santa Eulària und die Flughafenlinie verkehren regelmäßig; nachts verbindet der Disco Bus die Clubs. Verbindungen zu den nördlichen Buchten sind spärlich – überprüfen Sie die Zeiten vorher."
+        },
+        {
+          "icon": "⛵",
+          "title": "Boote und Fähren",
+          "description": "Die Formentera-Fähre verlässt den Hafen jede halbe Stunde; Küstenboote funktionieren wie Taxis auf der Linie Cala Comte-Cala Bassa. Die Sonnenuntergangsfahrt vorbei an Es Vedrà ist die klassische Geste der Insel."
+        },
+        {
+          "icon": "🛵",
+          "title": "Roller und Fahrräder",
+          "description": "Ein Roller ist praktisch für kurze Fahrten und den Hafenbereich; die Inlandstraßen sind hügelig und im Sommer heiß – das Fahrrad ist ein Fahrzeug für den frühen Morgen."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Formentera-Tipp",
+        "text": "Fahren Sie mit der ersten Fähre nach Formentera, mieten Sie ein Fahrrad am Kai und tauchen Sie vor den Menschenmassen in das karibische Wasser von Ses Illetes ein: Sonnenbrand und das Bedauern 'warum sind wir nicht eine Nacht geblieben' sind auf der Rückfahrt mit der Fähre Standard."
+      }
+    },
+    "stay": {
+      "title": "Wo übernachten",
+      "intro": "Auf Ibiza entscheidet die Wahl des Ortes über die Art des Urlaubs: Hafen- und Festungsschatten, Party-Strand, Familienbucht oder die Kiefernstille des Nordens.",
+      "local_word": {
+        "word": "Agroturismo",
+        "pronunciation": "ah-gro-too-rees-mo",
+        "definition": "Landhotels, umgebaut aus alten Bauernhäusern im Inselinneren: Steinmauern, Feigenbäume, Frühstück am Pool. Ibizas 'andere Seite' erlebt man am besten in diesen weißen Fincas."
+      },
+      "items": [
+        {
+          "name": "Ibiza-Stadt (Eivissa) und Dalt Vila",
+          "badge": "Am stimmungsvollsten",
+          "badge_type": "vibe",
+          "description": "Steingassen innerhalb der Mauern, der abendliche Paseo am Hafen, Marina-Bars: das Zentrum der Balance zwischen Geschichte und Nachtleben. Lebhaft und teuer im Sommer – das Schaufenster des Insellebens.",
+          "tags": [
+            "Gassen in den Mauern",
+            "Hafenabende",
+            "Zugang zu den Clubs"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dalt+Vila+Ibiza"
+        },
+        {
+          "name": "Santa Eulària des Riu",
+          "badge": "Am familienfreundlichsten",
+          "badge_type": "value",
+          "description": "Eine ruhige Promenade, Sandstrände und Restaurantvielfalt: weit weg vom Partygeschehen, fest auf der Seite des Komforts. Die klassische Basis für Familien und Ruhesuchende.",
+          "tags": [
+            "Ruhige Promenade",
+            "Familienstrände",
+            "Restaurantauswahl"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Eularia+des+Riu"
+        },
+        {
+          "name": "San Antonio (Sant Antoni)",
+          "badge": "Party + Sonnenuntergang",
+          "badge_type": "hot",
+          "description": "Die Küste des Sunset Strip und das junge Partyvolk: Die Sunset-Bars sind legendär, nächtlicher Lärm garantiert. Mit Budget-Hotels und dem Hafen für Bootsausflüge die Adresse der Jugend.",
+          "tags": [
+            "Sunset Strip",
+            "Junge Energie",
+            "Budget-Hotels"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sant+Antoni+de+Portmany"
+        },
+        {
+          "name": "Der Norden — Portinatx und Sant Joan",
+          "badge": "Am ruhigsten",
+          "badge_type": "local",
+          "description": "Kiefernwälder, versteckte Buchten und Dörfer mit Hippie-Erbe: das langsame Gesicht der Insel. Ein Auto ist unerlässlich; die Belohnung sind Stille und ein Sternenhimmel.",
+          "tags": [
+            "Versteckte Buchten",
+            "Kiefernwald",
+            "Auto erforderlich"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Portinatx+Ibiza"
+        },
+        {
+          "name": "Inland — Santa Gertrudis und die Fincas",
+          "badge": "Am charaktervollsten",
+          "badge_type": "hot",
+          "description": "Weiße Dorfplätze und Agroturismo-Fincas: gleiche Entfernung zu jeder Bucht, lange Tische auf dem Dorfplatz am Abend. Für diejenigen, die Ibiza als Inseldorf erleben möchten.",
+          "tags": [
+            "Agroturismo",
+            "Dorfplatz",
+            "Zentrale Lage"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Gertrudis+de+Fruitera"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Wann reisen",
+      "intro": "Lesen Sie Ibizas Kalender nicht nach der Club-Saison, sondern nach Licht und Menschenmassen: Juni und September sind Gold wert, Juli-August ist die Hochsaison, der Winter eine ganz andere Insel.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Frühling",
+          "name": "Eröffnungssaison",
+          "months": "Apr – Jun",
+          "subtitle": "Frühling · Eine grüne Insel, Eröffnungspartys",
+          "description": "Die Insel erstrahlt in ihrem lebendigsten Grün mit Wildblumen, das Meer wird im Mai badetauglich, und Ende Mai/Juni öffnet sich das Tor zur Saison mit den Eröffnungspartys der Clubs. Die Buchten sind ruhig, die Preise noch moderat.",
+          "callout": {
+            "type": "tip",
+            "label": "Juni-Tipp",
+            "text": "Die erste Junihälfte ist das Gleichgewicht der Insel: Das Meer ist warm, die Eröffnungspartys sind vorbei, die August-Massen weit entfernt. Dies ist das Zeitfenster, in dem die Mischung aus Bucht und Club am einfachsten zusammenkommt."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Sommer",
+          "name": "Hochsaison",
+          "months": "Jul – Aug",
+          "subtitle": "Sommer · Volle Buchten, Weltklasse-Nächte",
+          "description": "Der weltweite DJ-Kalender verlagert sich auf die Insel, die Buchten und Straßen füllen sich, die Preise erreichen ihren Höhepunkt. Die Energie ist unübertroffen, aber niemand sollte unvorbereitet kommen: Clubticket, Restauranttisch und Auto – alles drei im Voraus buchen.",
+          "callout": {
+            "type": "warning",
+            "label": "August-Hinweis",
+            "text": "Mittags im August an den berühmten Calas anzukommen, ist eine Enttäuschung: Gehen Sie zwischen 9 und 10 Uhr morgens oder nähern Sie sich mit dem Boot. Vertrauen Sie nicht der Taxischlange – planen Sie die Rückfahrt in der Nacht mit dem Disco Bus oder einem vorab organisierten Transfer."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Herbst",
+          "name": "Closings und ein warmes Meer",
+          "months": "Sep – Nov",
+          "subtitle": "Herbst · September-Balance, Closing Partys",
+          "description": "September ist das bestgehütete Geheimnis der Insel: Das Meer ist am wärmsten, die Menschenmassen haben sich zurückgezogen, und Anfang Oktober spielen die Closing Partys das Finale. Im November kehrt die Insel zu ihren Einheimischen zurück und die Wandersaison beginnt.",
+          "callout": {
+            "type": "tip",
+            "label": "September-Tipp",
+            "text": "Kommen Sie Ende September: sommerliches Meer in leeren Buchten tagsüber, die 'Last Dance'-Energie der Closing Partys nachts. Dasselbe Hotel kostet die Hälfte des Augustpreises – die zwei klügsten Wochen der Insel."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Winter",
+          "name": "Die Insel der Einheimischen",
+          "months": "Dec – Mar",
+          "subtitle": "Winter · Mandelblüte, leere Wege",
+          "description": "Die Clubs schlafen und die Insel atmet auf: Im Januar und Februar färben sich die Mandelbäume weiß, und die Küstenpfade gehören den Wanderern. Viele Orte schließen, aber Dalt Vila und die Dorfmärkte leben in ihrer wahren Form weiter.",
+          "callout": {
+            "type": "tip",
+            "label": "Februar-Tipp",
+            "text": "Erleben Sie die Mandelblüte der Ebene von Santa Agnès im Februar: ein Meer aus weißen Blüten, rote Erde dahinter und Stille – die Ibiza-Postkarte, die niemand kennt."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Was man essen sollte",
+      "intro": "Die Küche der Insel stammt aus den Töpfen der Fischer: Safranhaltige Fischeintöpfe, Fleischgerichte nach Dorfart und jahrhundertealte Likörrezepte – das wahre Ibiza hinter den Beachclub-Menüs.",
+      "local_word": {
+        "word": "Bullit de peix",
+        "pronunciation": "boo-yeet deh pesh",
+        "definition": "Das Signature-Gericht der Insel: der Fisch des Tages, pochiert in Safran-Knoblauch-Brühe. Der Fisch wird zuerst serviert, danach der Reis Arroz a Banda, der in derselben Brühe gekocht wird. Eine Bestellung, zwei großartige Teller – der Klassiker der Fischerbuchten."
+      },
+      "items": [
+        {
+          "icon": "🐟",
+          "name": "Bullit de peix — Fisch in zwei Akten",
+          "description": "Zuerst der in Safran pochierte Fisch und Kartoffeln, dann im zweiten Akt der Reis aus derselben Brühe, Arroz a Banda: der größte gastronomische Stolz der Insel. In Familienrestaurants der Fischerbuchten – wenn möglich mit Reservierung.",
+          "tag": "Im Fischerbucht-Restaurant · zwei Gänge",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=El+Bigotes+Cala+Mastella"
+        },
+        {
+          "icon": "🥘",
+          "name": "Sofrit pagès — der Dorftopf",
+          "description": "Der Dorfklassiker, bei dem Huhn, Lamm, Wurst und Kartoffeln über langsamer Flamme zusammenkommen: das Herzstück der Wintertafel, aber auch im Sommer auf den Speisekarten zu finden. Sättigend und ehrlich – das Markenzeichen der Agroturismo-Küchen.",
+          "tag": "Im Inselinneren · nach Dorfart",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Es+Ventall+Ibiza"
+        },
+        {
+          "icon": "🍮",
+          "name": "Flaó und Greixonera",
+          "description": "Flaó: die Frischkäse-Minz-Tarte, Ibizas über Jahrhunderte unverändertes Dessert. Greixonera ist ein Zimtpudding aus der Ensaimada vom Vortag – ein Meisterwerk der Inselmentalität, nichts zu verschwenden.",
+          "tag": "Das Dessert-Duo · der Minz-Flaó ist ein Muss",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Pastisseria+Ibiza+flao"
+        },
+        {
+          "icon": "🌿",
+          "name": "Hierbas ibicencas",
+          "description": "Der Anislikör, angesetzt mit Dutzenden von Inselkräutern – darunter Kiefer, Fenchel und Minze: nach dem Abendessen auf Eis serviert. Jede Familie hat ihre Flasche und jedes Restaurant sein Rezept – auch ein klassisches Geschenk.",
+          "tag": "Nach dem Abendessen · auf Eis",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Hierbas+de+Ibiza"
+        },
+        {
+          "icon": "🥗",
+          "name": "Ensalada payesa und peix sec",
+          "description": "Der Dorfsalat, Ibiza-Stil: Kartoffeln, rote Paprika und sonnengetrockneter Fisch (peix sec). Salzig, frisch, der leichteste Sieg eines Strandmittags.",
+          "tag": "Strand-Mittagessen · mit peix sec",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Gertrudis+restaurants"
+        },
+        {
+          "icon": "🍹",
+          "name": "Der Chiringuito-Sonnenuntergangstisch",
+          "description": "Gegrillter Fisch, Sangria und die Füße im Sand in den Strandbars: eine einfache Speisekarte, eine großartige Bühne. In den Chiringuitos an der Westküste sichern Sie sich den Tisch eine Stunde vor Sonnenuntergang.",
+          "tag": "An der Westküste · vor Sonnenuntergang",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Comte+chiringuito"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Die Reservierungsregel",
+        "text": "Im Sommer ist ein gutes Fischrestaurant schwerer zu bekommen als ein Beachclub: Bullit de peix muss an den meisten Orten vorbestellt werden. Das 'authentische Ibiza', das Sie suchen, finden Sie nicht im Beachclub, sondern im Familientopf am Ende der Bucht – rufen Sie einen Tag im Voraus an."
+      }
+    },
+    "hidden_gems": {
+      "title": "Versteckte Ecken",
+      "intro": "Jeder kennt die berühmten Buchten; diese sechs zeigen das verborgene Gesicht der Insel.",
+      "items": [
+        {
+          "rarity": "Der mystische Felsen der Insel",
+          "name": "Die Es Vedrà Aussichtspunkte",
+          "description": "Der unbewohnte, 380 Meter aus dem Meer ragende Felsen ist das Zentrum aller Insellegenden: Sirenen, Magnetfelder, die Heimat von Tanit. Beobachten Sie den Sonnenuntergang von den Klippen oberhalb der Cala d'Hort oder vom Savinar-Turm aus – die Menschenmenge am Strand, Sie oben drüber.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Es+Vedrà+viewpoint"
+        },
+        {
+          "rarity": "Die trommelnde Sonnenuntergangsbucht",
+          "name": "Benirràs",
+          "description": "Die von Pinien gesäumte Bucht im Norden verabschiedet die Sonne an Sonntagabenden mit einem Trommelkreis: der Ort, an dem das Hippie-Erbe noch lebendig ist. Gehen Sie früh hin – die Bucht ist klein, das Ritual berühmt.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Cala+Benirràs+Ibiza"
+        },
+        {
+          "rarity": "Ein Inselmarkt auf der Insel",
+          "name": "Las Dalias und die Hippiemärkte",
+          "description": "Der legendäre Markt in Sant Carles existiert seit 1954: handgemachter Schmuck, die letzten wahren Hippies der Insel und Live-Musik. Samstag ist der Haupttag – gehen Sie morgens hin, bevor die Mittagsmenge kommt.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Las+Dalias+Ibiza"
+        },
+        {
+          "rarity": "Die rosa Stunde der Salinen",
+          "name": "Die Salinen von Ses Salines",
+          "description": "Die seit den Phöniziern bewirtschafteten Salzbecken färben sich bei Sonnenuntergang rosa; Flamingos waten im seichten Wasser. Der Ruhm des Strandes überschattet die stille Schönheit der Salinen – erkunden Sie sie mit dem Fahrrad.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Ses+Salines+Ibiza"
+        },
+        {
+          "rarity": "Ein Piratenwachturm",
+          "name": "Torre des Savinar (Torre del Pirata)",
+          "description": "Der Wachturm aus dem 18. Jahrhundert direkt gegenüber von Es Vedrà: Ein kurzer, steiler Pfad führt hinauf, und die Belohnung ist die dramatischste Aussicht der Insel. Seien Sie eine Stunde vor Sonnenuntergang oben.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Torre+des+Savinar+Ibiza"
+        },
+        {
+          "rarity": "Der weiße Dorfplatz",
+          "name": "Ein Abend in Santa Gertrudis",
+          "description": "Das weiße Dorf im Inselinneren: Tapas-Bars, Galerien und Tische unter Bäumen rund um den Platz. Eine abendliche Pause vom Küstenlärm – Dorf-Ibiza mit einem Teller Jamón und einem kalten Weißwein.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Santa+Gertrudis+de+Fruitera"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Buchten-Tipp",
+        "text": "Jede Bucht, die groß auf der Karte steht, hat einen 'kleinen Nachbarn': Wenn Cala Comte voll ist, gehen Sie zur Cala Escondida; wenn Cala Bassa überfüllt ist, gehen Sie zur Cala Gracioneta. Ein fünfminütiger Weg bedeutet die Hälfte der Menschenmenge."
+      }
+    },
+    "traps": {
+      "title": "Touristenfallen",
+      "intro": "Im Sommer kann Ibiza pro Tourist eine der teuersten Inseln der Welt sein; diese vier sind die Hauptversicherung für Ihr Budget.",
+      "items": [
+        {
+          "icon": "🎟️",
+          "name": "Clubticket an der Abendkasse kaufen",
+          "description": "Der Preis an der Abendkasse liegt weit über dem Vorverkauf; drinnen kostet selbst Wasser viel Geld, und die 'Gratis-Eintritt'-Flyer verbergen meist eine Getränkebedingung.",
+          "instead": "Kaufen Sie das Ticket frühzeitig bei offiziellen Verkaufsstellen und planen Sie einen Club pro Nacht. Gehen Sie mit einem festen Getränkebudget hinein – die wahren Kosten einer Inselnacht sind das Ticket plus drei Getränke."
+        },
+        {
+          "icon": "🛏️",
+          "name": "Das Kleingedruckte der Strandliege im Beach Club",
+          "description": "Der Mindestverzehr für Liegen in der ersten Reihe erreicht den Preis eines kompletten Mittagessens; einmal Platz genommen, gibt es kein Verhandeln mehr.",
+          "instead": "Fragen Sie nach dem Mindestverzehr, bevor Sie sich setzen, oder genießen Sie das Meer kostenlos auf einem Handtuch am öffentlichen Strand. Wählen Sie einen Beach Club als bewusstes Erlebnis, nicht als Standard."
+        },
+        {
+          "icon": "🚕",
+          "name": "Ein Taxi in einer Augustnacht erwarten",
+          "description": "Inseltaxis sind rar, und in der Hochsaison dauern die nächtlichen Warteschlangen über eine Stunde; der Plan 'wir nehmen einfach ein Taxi' scheitert am Clubausgang.",
+          "instead": "Informieren Sie sich über die Disco-Buslinien, organisieren Sie die Rückfahrt im Voraus oder buchen Sie einen Gruppentransfer. Wenn Sie ein Auto gemietet haben, bestimmen Sie den Fahrer für die Nacht von Anfang an."
+        },
+        {
+          "icon": "⚓",
+          "name": "Die 'All-Inclusive'-Bootsparty",
+          "description": "Die billig wirkenden Bootspartys folgen einer Formel aus überfüllten Decks, eingeschränkten Getränken und kurzen Ankerstopps weit entfernt von den schönen Buchten.",
+          "instead": "Teilen Sie sich eine Sonnenuntergangsfahrt in kleiner Gruppe oder einen privaten Charter: Lassen Sie die Route an Es Vedrà vorbeiführen und der Stopp eine echte Bucht sein. Vergleichen Sie den Preis pro Boot, nicht pro Person."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Goldene Regel",
+        "text": "Auf Ibiza ist das Teuerste das Fehlen eines Plans: Ticket, Tisch, Auto und Transfer – alle vier kosten die Hälfte für diejenigen, die früh buchen. Und die schönsten Dinge der Insel sind immer noch kostenlos: die Bucht, der Pfad, der Sonnenuntergang und der Klang der Trommeln."
+      }
+    },
+    "itinerary": {
+      "title": "Fertige Routen",
+      "intro": "Wenn Sie Planung hassen, folgen Sie diesen Abläufen. Die Zeiten sind flexibel; behalten Sie den Geist bei, brechen Sie die Reihenfolge.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Wenn Sie 1 Tag Zeit haben",
+          "subtitle": "Von den Mauern zur Bucht, von der Bucht zum Sonnenuntergangsritual",
+          "steps": [
+            {
+              "time": "09:00",
+              "title": "Ein Morgen in Dalt Vila",
+              "description": "Betreten Sie durch das Festungstor und erklimmen Sie die Steingassen zur Kathedralenterrasse: der Hafen und Formentera zu Ihren Füßen, die Menschenmassen noch im Schlaf."
+            },
+            {
+              "time": "11:00",
+              "title": "Das Meer an den westlichen Buchten",
+              "description": "In das Türkis der Cala Comte oder ihrer kleinen Nachbarin: Die besten Stunden sind vor der Mittagsmenge. Vergessen Sie den Schnorchel nicht."
+            },
+            {
+              "time": "13:30",
+              "title": "Ein Chiringuito-Mittagessen",
+              "description": "Ensalada payesa + gegrillter Fisch mit den Füßen im Sand; Minz-Flaó zum Nachtisch. Danach eine lange schattige Pause – der Inselrhythmus verlangt es."
+            },
+            {
+              "time": "16:30",
+              "title": "Die rosa Stunde in Ses Salines",
+              "description": "Ein Spaziergang oder eine Radtour durch die Salinen: Flamingos, Salzhügel und das sinkende Licht. Ein kurzes Bad am Strand als Bonus."
+            },
+            {
+              "time": "19:00",
+              "title": "Das Es Vedrà Sonnenuntergangsritual",
+              "description": "Erklimmen Sie den Weg zum Savinar-Turm oder lassen Sie sich auf den Klippen oberhalb der Cala d'Hort nieder: Der Felsen wird zuerst golden, dann glühend. Die Stille kommt von selbst."
+            },
+            {
+              "time": "21:30",
+              "title": "Nacht: Dorf oder Tanzfläche",
+              "description": "Für ein ruhiges Finale, Tapas auf dem Platz von Santa Gertrudis; für das große Finale, eine Clubnacht mit einem vorab gekauften Ticket – beides ist legitimes Ibiza."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Wenn Sie 3 Tage Zeit haben",
+          "subtitle": "Die drei Gesichter der Insel: Geschichte, Buchten, Seele",
+          "steps": [
+            {
+              "time": "Day 1",
+              "title": "Klassisches Ibiza",
+              "description": "Der oben beschriebene Ein-Tages-Ablauf: Dalt Vila, die westlichen Buchten, die Salinen, Es Vedrà."
+            },
+            {
+              "time": "Day 2",
+              "title": "Der Formentera-Ausflug",
+              "description": "Fahren Sie mit der ersten Fähre über und mieten Sie ein Fahrrad: das karibische Wasser von Ses Illetes, die Inlandspfade und die Leuchtturmstraße. Eis + Sonnenuntergang in einer Hafenbar bei der Rückkehr."
+            },
+            {
+              "time": "Day 3",
+              "title": "Die Seele des Nordens",
+              "description": "Der Las Dalias Markt am Morgen (wenn es Samstag ist) oder das Dorf Sant Joan; ein Bad in den nördlichen Buchten am Mittag; der getrommelte Sonnenuntergang in Benirràs am Abend – so verabschieden Sie sich von der Insel."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "5-Wörter-Überlebenskit",
+      "intro": "Spanisch öffnet jede Tür auf der Insel, und ein Hauch Katalanisch garantiert ein Lächeln.",
+      "items": [
+        {
+          "word": "Hola / Bon dia",
+          "pronunciation": "oh-la / bon dee-ah",
+          "meaning": "Hallo / Guten Morgen — Katalanisch 'bon dia' ist eine Geste an die Einheimischen"
+        },
+        {
+          "word": "Gracias / Gràcies",
+          "pronunciation": "grah-syas / grah-syes",
+          "meaning": "Danke — halten Sie es in beiden Sprachen bereit"
+        },
+        {
+          "word": "Por favor",
+          "pronunciation": "por fah-vor",
+          "meaning": "Bitte — auch gültig, wenn Sie nach dem Preis der Sonnenliege fragen"
+        },
+        {
+          "word": "¡Salud!",
+          "pronunciation": "sah-lood",
+          "meaning": "Prost! — wenn das Hierbas-Glas erhoben wird"
+        },
+        {
+          "word": "Poc a poc",
+          "pronunciation": "pok ah pok",
+          "meaning": "'Nach und nach, immer mit der Ruhe' — das Tempo der Insel; lächeln Sie, wenn Sie es hören, und wenden Sie es dann an"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Ibiza Checkliste",
+      "completion_message": "¡Salud! Du hast die Weiße Insel in all ihren Facetten erlebt!",
+      "items": [
+        {
+          "label": "Blick über den Hafen von den Mauern der Dalt Vila genießen",
+          "sub": "Die Kathedralenterrasse – früh am Morgen"
+        },
+        {
+          "label": "Den Sonnenuntergang gegenüber von Es Vedrà beobachten",
+          "sub": "Torre des Savinar oder oberhalb der Cala d'Hort"
+        },
+        {
+          "label": "In einer türkisfarbenen Bucht schnorcheln",
+          "sub": "Cala Comte oder ihre kleine Nachbarbucht"
+        },
+        {
+          "label": "Beide Gänge eines Bullit de Peix genießen",
+          "sub": "In einem Restaurant in einer Fischerbucht – unbedingt reservieren"
+        },
+        {
+          "label": "Am Trommelkreis in Benirràs teilnehmen",
+          "sub": "Sonntagabend – früh hingehen"
+        },
+        {
+          "label": "Ein Geschenk auf einem Hippiemarkt aussuchen",
+          "sub": "Las Dalias – Samstag ist der Haupttag"
+        },
+        {
+          "label": "Auf Formentera Fahrrad fahren",
+          "sub": "Ses Illetes – mit der ersten Fähre"
+        },
+        {
+          "label": "Hierbas Ibicencas auf Eis trinken",
+          "sub": "Nach dem Abendessen – der Likör der Insel"
+        },
+        {
+          "label": "Die 'rosa Stunde' bei Ses Salines erleben",
+          "sub": "Salzpfannen + Flamingos"
+        },
+        {
+          "label": "Sich für eine Nacht auf einer Club-Tanzfläche verlieren",
+          "sub": "Ticket im Voraus – eine Nacht, ein Club"
+        }
+      ]
+    }
+  }
+}

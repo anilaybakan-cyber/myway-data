@@ -1,0 +1,523 @@
+{
+  "meta": {
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "language": "fr",
+    "version": "2.1",
+    "last_updated": "2026-07-21",
+    "color_primary": "#2F5D4A",
+    "color_light": "#E6F0EA",
+    "tagline": "Rues pavées à l'ombre du château, histoires dans la brume."
+  },
+  "pills": [
+    "Un château sur un rocher volcanique",
+    "La capitale mondiale des festivals",
+    "Des rues qui ont inspiré Harry Potter"
+  ],
+  "sections": {
+    "overview": {
+      "title": "Bienvenue à Édimbourg",
+      "intro": "Édimbourg est deux villes, et chacune regarde l'autre de haut : la vieille ville médiévale dévalant la pente depuis le château sur son rocher volcanique, et l'élégante Nouvelle Ville géorgienne, planifiée en damier. Le volcan éteint d'Arthur's Seat s'élève au milieu de tout cela, la brume marine appelée haar engloutit les rues certains matins, et le bourdonnement d'un joueur de cornemuse résonne le long du Royal Mile. C'est la capitale des conteurs — Stevenson, Conan Doyle, et les cafés où Harry Potter est né. Et en août, le plus grand festival artistique du monde transforme toute la ville en une scène.",
+      "local_word": {
+        "word": "Dreich",
+        "pronunciation": "dreekh",
+        "definition": "Le mot préféré de l'Écosse : un temps gris, humide, brumeux, démoralisant – tout en une seule syllabe. Quand quelqu'un dit 'it's a dreich day', le ciel est couleur plomb, mais l'Écossais n'en est pas triste : un dreich day est un jour de pub, un jour de whisky, un jour de lecture. Apprenez ce mot et vous ferez la paix avec la météo écossaise."
+      },
+      "rules": [
+        {
+          "number": 1,
+          "title": "Préparez-vous à quatre saisons en une journée",
+          "description": "La météo d'Édimbourg change d'heure en heure : soleil au petit-déjeuner, pluie à midi, vent en milieu d'après-midi. Habillez-vous en couches et emportez un imperméable léger – les parapluies ne résistent pas au vent. Quand la pluie frappe, le pub ou la librairie la plus proche est votre refuge ; les Écossais n'appellent pas ça un plan gâché, ils appellent ça le plan."
+        },
+        {
+          "number": 2,
+          "title": "Réservez le château et les sites majeurs à l'avance",
+          "description": "Le château d'Édimbourg fonctionne avec des billets à heure fixe, et les journées d'été se terminent par un panneau 'complet' : achetez en ligne et tôt. Arthur's Seat, Calton Hill et les rues elles-mêmes sont gratuites – planifiez les icônes payantes, improvisez les vues gratuites."
+        },
+        {
+          "number": 3,
+          "title": "Venez en août délibérément, ou évitez-le délibérément",
+          "description": "En août, le Fringe triple la ville : chaque cave est une scène, chaque rue un lieu – les chambres sont complètes des mois à l'avance et les prix s'envolent. Si vous voulez l'esprit du festival, planifiez tôt ; si vous voulez un Édimbourg tranquille, rayez août du calendrier."
+        }
+      ],
+      "quick_facts": [
+        {
+          "icon": "✈️",
+          "label": "Aéroport",
+          "value": "Edinburgh (EDI)",
+          "sub": "~35 min du centre en tram"
+        },
+        {
+          "icon": "🏰",
+          "label": "Emblème",
+          "value": "Edinburgh Castle",
+          "sub": "Sur un piton volcanique"
+        },
+        {
+          "icon": "💷",
+          "label": "Monnaie",
+          "value": "Pound (GBP)",
+          "sub": "Cartes partout, espèces rares"
+        },
+        {
+          "icon": "🗣️",
+          "label": "Langue",
+          "value": "Anglais (+ Scots)",
+          "sub": "L'accent déroute, puis charme"
+        }
+      ],
+      "tip": {
+        "type": "tip",
+        "label": "La philosophie d'Édimbourg",
+        "text": "Cette ville se comprend à pied et en montant : chaque sommet récompense par une vue, chaque pluie par un pub. Laissez des blancs dans votre plan – les meilleurs moments d'Édimbourg se trouvent de manière impromptue, à l'intérieur des 'closes' (ruelles)."
+      }
+    },
+    "transport": {
+      "title": "Se déplacer",
+      "intro": "Le centre est entièrement accessible à pied ; le tramway dessert l'aéroport et les bus Lothian couvrent tout le reste — pas besoin de voiture.",
+      "items": [
+        {
+          "icon": "✈️",
+          "title": "Arriver de l'aéroport",
+          "description": "Le tramway de l'aéroport atteint Princes Street en 35 minutes : billets disponibles à la machine ou via l'application. Le bus Airlink 100 circule toute la nuit — un taxi coûte trois fois plus cher pour le même trajet."
+        },
+        {
+          "icon": "🚶",
+          "title": "Deux villes accessibles à pied",
+          "description": "Tout entre la Vieille Ville et la Nouvelle Ville est à quelques pas, mais les marches sont raides : le Royal Mile descend une crête et les ruelles latérales sont des escaliers. Des chaussures confortables sont non négociables — les pavés ne s'entendent pas avec les talons."
+        },
+        {
+          "icon": "🚌",
+          "title": "Les bus Lothian",
+          "description": "Les bus marron atteignent tous les coins de la ville : le paiement sans contact est plafonné à un maximum journalier — le système calcule le prix du billet pour vous. Le siège avant du pont supérieur est la visite panoramique la moins chère de la ville."
+        },
+        {
+          "icon": "🚋",
+          "title": "La ligne de tramway",
+          "description": "Une seule ligne relie l'aéroport à Leith : Princes Street et St Andrew Square sont les arrêts clés. L'extension facilite l'accès au front de mer de Leith — la ligne pratique pour une sortie au port."
+        },
+        {
+          "icon": "🥾",
+          "title": "Sentiers des collines",
+          "description": "Les sentiers d'Arthur's Seat commencent à Holyrood : le sommet est une ascension de 45 minutes avec des options d'itinéraire pour tous les niveaux. Calton Hill est la 'vue paresseuse' de dix minutes — les deux sont gratuits."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Conseil vue",
+        "text": "Par un après-midi venteux mais clair, montez Calton Hill : le château, la ligne d'horizon de la Vieille Ville et le Firth of Forth se rassemblent dans un seul cadre. Prenez votre place vingt minutes avant le coucher du soleil — la lumière d'Édimbourg est généreuse pour les photographes, et le vent est l'ennemi des chapeaux."
+      }
+    },
+    "stay": {
+      "title": "Où séjourner",
+      "intro": "Le choix se fait entre deux quartiers : l'atmosphère de pierre de la Vieille Ville, l'élégance géorgienne de la Nouvelle Ville, ou l'âme villageoise de Stockbridge et Leith.",
+      "local_word": {
+        "word": "Close",
+        "pronunciation": "klohss",
+        "definition": "Un passage étroit et voûté qui bifurque de la Royal Mile : les veines cachées d'Édimbourg. Le nom de chaque 'close' raconte une histoire — un marchand ici, un fantôme là. Les touristes arpentent la rue principale ; ceux qui connaissent la ville s'engagent dans les 'closes' : au-delà de l'arche de pierre attendent des cours intérieures, des vues et quatre siècles de murmures."
+      },
+      "items": [
+        {
+          "name": "Old Town",
+          "badge": "Le plus atmosphérique",
+          "badge_type": "vibe",
+          "description": "Hôtels dans les bâtiments en pierre autour du Royal Mile : le château au-dessus, les 'closes' à votre porte. Vous vous réveillez au cœur de l'histoire — animé en été et pendant la saison des festivals, calme comme un conte de fées en hiver.",
+          "tags": [
+            "À pied jusqu'au château",
+            "Atmosphère de pierre",
+            "Au cœur des 'closes'"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Old+Town+Edinburgh"
+        },
+        {
+          "name": "New Town",
+          "badge": "Élégance géorgienne",
+          "badge_type": "value",
+          "description": "Places ordonnées, façades gracieuses et shopping sur Princes Street : à cinq minutes de la Vieille Ville, un cran plus calme. Une base équilibrée et élégante — les meilleurs endroits pour le petit-déjeuner se trouvent aussi ici.",
+          "tags": [
+            "Façades géorgiennes",
+            "Près des boutiques",
+            "Emplacement équilibré"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=New+Town+Edinburgh"
+        },
+        {
+          "name": "Stockbridge",
+          "badge": "Âme villageoise",
+          "badge_type": "local",
+          "description": "Un quartier aux allures de village au bord de l'eau : un marché de rue le dimanche, des boutiques indépendantes, des torréfacteurs. À quinze minutes à pied du centre — pour vivre Édimbourg comme un local.",
+          "tags": [
+            "Marché du dimanche",
+            "Boutiques indépendantes",
+            "Promenades au bord de l'eau"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Stockbridge+Edinburgh"
+        },
+        {
+          "name": "Leith",
+          "badge": "Caractère portuaire",
+          "badge_type": "local",
+          "description": "Restaurants au bord de l'eau, cuisines étoilées au Michelin et un quartier portuaire en pleine transformation : The Shore au crépuscule est l'un des coins les plus agréables de la ville. Relié au centre par tram — les prix sont un peu plus doux.",
+          "tags": [
+            "Dîner au bord de l'eau",
+            "Cuisines Michelin",
+            "Accessible en tram"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Leith+Edinburgh"
+        },
+        {
+          "name": "Bruntsfield and Morningside",
+          "badge": "Côté tranquille",
+          "badge_type": "value",
+          "description": "Quartiers sud avec cafés et boulangeries à côté des parcs : une agréable promenade à travers les Meadows jusqu'au centre. Le choix équilibré pour les familles et ceux qui recherchent des nuits calmes.",
+          "tags": [
+            "Près des parcs",
+            "Cafés de quartier",
+            "Nuits calmes"
+          ],
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Bruntsfield+Edinburgh"
+        }
+      ]
+    },
+    "best_time": {
+      "title": "Quand partir",
+      "intro": "Le temps à Édimbourg ne garantit rien, mais son calendrier est clair : août, c'est la folie des festivals ; décembre, ce sont les lumières et Hogmanay ; le printemps et l'automne offrent un équilibre serein.",
+      "items": [
+        {
+          "id": "spring",
+          "label": "Printemps",
+          "name": "Jardins en éveil",
+          "months": "Apr – Jun",
+          "subtitle": "Printemps · Prairies fleuries, jours qui s'allongent",
+          "description": "Les Meadows se noient sous les cerisiers en fleurs, les jours s'allongent rapidement, et les foules des festivals sont encore loin. C'est la période la plus équilibrée de l'année pour les sentiers d'Arthur's Seat et les explorations – le temps réserve encore des surprises, alors habillez-vous en couches.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour mai",
+            "text": "Grimpez Arthur's Seat tôt un matin de mai : le vent est vif au sommet mais la vue est cristalline – château, estuaire et ville à vos pieds. Descendez à temps pour le marché de Stockbridge et le petit-déjeuner sera votre récompense."
+          }
+        },
+        {
+          "id": "summer",
+          "label": "Été",
+          "name": "La folie des festivals",
+          "months": "Jul – Aug",
+          "subtitle": "Été · Scènes du Fringe, rues bondées, longue lumière",
+          "description": "En août, le Fringe, le Festival International et le Military Tattoo partagent la scène : la ville devient une vaste performance et les files d'attente s'étirent au-delà de minuit. La lumière dure jusqu'à vingt-deux heures – l'énergie est inégalée, tout comme les prix et les foules.",
+          "callout": {
+            "type": "warning",
+            "label": "Note pour août",
+            "text": "N'arrivez jamais en août, mois des festivals, sans plan : réservez votre chambre des mois à l'avance, pré-réservez des spectacles, mais laissez un ou deux créneaux libres chaque jour – l'âme du Fringe, c'est de se laisser porter vers un spectacle inconnu dont le flyer vous a plu, à la dernière minute."
+          }
+        },
+        {
+          "id": "autumn",
+          "label": "Automne",
+          "name": "Saison de la brume dorée",
+          "months": "Sep – Nov",
+          "subtitle": "Automne · Parcs orangés, jours maussades, feux de cheminée dans les pubs",
+          "description": "La ville se remet de la fatigue des festivals, les parcs se parent d'or, et le haar (brume marine) engloutit le château chaque matin avant de le rendre. Les feux de cheminée s'allument dans les pubs et la saison du whisky s'ouvre – ce sont les mois où Édimbourg est le plus elle-même.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour octobre",
+            "text": "Promenez-vous dans Victoria Street lorsque ses lumières s'allument en octobre, puis commandez un dram près d'un feu de cheminée dans un pub : le temps maussade dehors, vous dedans – c'est la formule exacte d'un automne écossais. Le festival du feu de Samhuinn, l'ancêtre d'Halloween, a également lieu ce mois-ci."
+          }
+        },
+        {
+          "id": "winter",
+          "label": "Hiver",
+          "name": "Lumières et Hogmanay",
+          "months": "Dec – Feb",
+          "subtitle": "Hiver · Marchés de Noël, festival du Nouvel An, jours courts",
+          "description": "En décembre, le marché de Noël inonde les Princes Street Gardens de lumière ; au Nouvel An, Hogmanay devient un festival urbain de trois jours – procession aux flambeaux, concerts et feux d'artifice de minuit. Les jours sont courts, l'atmosphère est dense.",
+          "callout": {
+            "type": "tip",
+            "label": "Conseil pour Hogmanay",
+            "text": "Si vous célébrez le Nouvel An à Édimbourg, achetez vos billets pour Hogmanay tôt : la fête de rue est limitée en capacité. Le 1er janvier, participez au 'Loony Dook', une plongée dans la mer glacée si vous l'osez – ou applaudissez depuis le rivage ; de toute façon, vous aurez commencé l'année à la manière écossaise."
+          }
+        }
+      ]
+    },
+    "eat": {
+      "title": "Que manger",
+      "intro": "La cuisine écossaise est modeste et consistante : l'épice du haggis, la fraîcheur du saumon, la fumée du whisky – le tout dans la chaleur d'un pub.",
+      "local_word": {
+        "word": "Dram",
+        "pronunciation": "dram",
+        "definition": "Une mesure de whisky : l'unité de base de la culture de table écossaise. « A wee dram » est le langage commun de l'invitation, de la célébration et de la consolation. Ajouter une goutte d'eau n'est pas un faux pas, mais l'art qui révèle l'arôme — demandez au barman un compte-gouttes et dégustez votre dram à votre guise."
+      },
+      "items": [
+        {
+          "icon": "🥘",
+          "name": "Haggis, neeps et tatties",
+          "description": "Le plat national écossais : du haggis épicé avec de la purée de navet et de pomme de terre. Cela ressemble à un défi et a un goût profond et poivré — demander une sauce au whisky en accompagnement est une touche moderne légitime.",
+          "tag": "Classique national · essayez la sauce au whisky",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=haggis+restaurant+Edinburgh"
+        },
+        {
+          "icon": "🥃",
+          "name": "Le rituel du dram de whisky",
+          "description": "De la fumée d'Islay au miel du Speyside : un bon bar à whisky vous trace une carte en posant des questions. Une dégustation commence par trois drams — ayez votre réponse prête pour « tourbé ou doux ? »",
+          "tag": "En flight · demandez au barman",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=whisky+bar+Edinburgh"
+        },
+        {
+          "icon": "🐟",
+          "name": "Fish and Chips avec sauce chippy",
+          "description": "Cabillaud croustillant pané et frites épaisses : la différence d'Édimbourg est la « chippy sauce » brune — le mélange local de vinaigre et de sauce brune. Quand on vous demande « salt and sauce ? », dites « aye » et suivez la coutume de la ville.",
+          "tag": "Classique de chippy · sel et sauce",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=fish+and+chips+Edinburgh"
+        },
+        {
+          "icon": "🍲",
+          "name": "Cullen Skink",
+          "description": "Une soupe crémeuse de haddock fumé et de pommes de terre : le cadeau de la côte nord-est aux tables d'Édimbourg. La réponse la plus honnête à un midi maussade — avec du pain frais et beaucoup de beurre.",
+          "tag": "Soupe fumée · pour les jours maussades",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=cullen+skink+Edinburgh"
+        },
+        {
+          "icon": "🍳",
+          "name": "Le petit-déjeuner écossais complet",
+          "description": "Saucisse, œufs, haricots et les stars : la saucisse carrée (lorne), le tattie scone et une tranche de haggis. Cela vous tient jusqu'à midi — faire la queue pour le petit-déjeuner est une tradition de Stockbridge.",
+          "tag": "Un défi pour la journée · avec tattie scone",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Scottish+breakfast+Edinburgh"
+        },
+        {
+          "icon": "🍰",
+          "name": "Cranachan et shortbread",
+          "description": "Cranachan — framboises avec crème, miel, whisky et flocons d'avoine grillés — et du shortbread beurré à côté : deux classiques des douceurs écossaises. Terminer par un plateau de fromages et un dram au lieu d'un dessert est tout aussi typique.",
+          "tag": "Duo sucré · crème au whisky",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=cranachan+Edinburgh"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle de table",
+        "text": "À Édimbourg, les menus du déjeuner coûtent la moitié du prix du soir : prévoyez le repas principal pour midi. Pour éviter les pièges à touristes du Royal Mile, tournez une rue plus loin — le front de mer de Leith et Stockbridge sont les adresses les plus honnêtes pour le rapport qualité-prix."
+      }
+    },
+    "hidden_gems": {
+      "title": "Coins Cachés",
+      "intro": "Tout le monde voit le château ; ces six-là sont les pages cachées, brumeuses et chargées d'histoire d'Édimbourg.",
+      "items": [
+        {
+          "rarity": "Un village au cœur de la ville",
+          "name": "Dean Village",
+          "description": "Un village de meuniers médiéval à dix minutes du centre : maisons en pierre, le murmure du Water of Leith et façades couvertes de lierre. Allez-y tôt le matin — depuis le pont, il est difficile de croire que vous êtes encore en ville.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Dean+Village+Edinburgh"
+        },
+        {
+          "rarity": "L'allée du photographe",
+          "name": "Circus Lane",
+          "description": "Une ancienne ruelle pavée derrière Stockbridge, bordée de fleurs : avec son clocher en toile de fond et ses pots de bégonias, le cadre le plus gracieux de la ville. Une ruelle de cinq minutes signifie un arrêt photo d'une demi-heure.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Circus+Lane+Edinburgh"
+        },
+        {
+          "rarity": "Un pub de village au bord d'un loch",
+          "name": "Duddingston et le Sheep Heid Inn",
+          "description": "Un village caché derrière Arthur's Seat : son loch, son église et un pub servant depuis 1360. Descendez du sommet par ici — un verre à l'auberge avec son ancienne piste de quilles est la récompense bien méritée de la promenade.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Sheep+Heid+Inn+Duddingston"
+        },
+        {
+          "rarity": "Sentier riverain",
+          "name": "Le sentier du Water of Leith",
+          "description": "Le sentier du ruisseau qui traverse secrètement la ville : de Dean Village à Stockbridge et jusqu'au Jardin Botanique, marchant au son de l'eau. Le bruit de la ville reste un niveau au-dessus — le corridor vert caché d'Édimbourg.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Water+of+Leith+Walkway"
+        },
+        {
+          "rarity": "L'acropole sur la colline",
+          "name": "Calton Hill",
+          "description": "Une ascension de dix minutes jusqu'à la colline des monuments : le 'Parthénon' inachevé, l'observatoire et le panorama le plus célèbre de la ville. Tout le monde vient au coucher du soleil, mais la colline est vaste — trouvez votre propre pierre et regardez la lumière descendre.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Calton+Hill+Edinburgh"
+        },
+        {
+          "rarity": "Un refuge parfumé aux livres",
+          "name": "Les librairies indépendantes de la Vieille Ville",
+          "description": "Les librairies d'occasion autour de Grassmarket et Victoria Street : cartes, vieilles éditions et poésie écossaise entre les étagères. Le meilleur abri quand la pluie frappe — la règle selon laquelle 'un jour maussade est un jour de librairie' est prouvée ici.",
+          "maps_url": "https://www.google.com/maps/search/?api=1&query=Armchair+Books+Edinburgh"
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Stratégie de la brume",
+        "text": "Les coins cachés d'Édimbourg s'accordent avec la météo : Calton Hill et Duddingston par temps clair, librairies et musées par temps maussade, Dean Village n'importe quel jour. Ne vous en prenez pas au ciel — dans cette ville, chaque type de temps a son propre itinéraire."
+      }
+    },
+    "traps": {
+      "title": "Pièges à touristes",
+      "intro": "Édimbourg est une ville honnête ; ses pièges sont petits mais classiques — connaissez ces quatre-ci et économisez votre budget pour un dram.",
+      "items": [
+        {
+          "icon": "🧣",
+          "name": "Cachemire et tartan 'écossais' produits en masse",
+          "description": "Dans certaines vitrines du Royal Mile, des produits importés étiquetés 'cachemire écossais' se vendent au prix du tissage artisanal ; le haut-parleur de cornemuse ne change rien à l'étiquette d'origine.",
+          "instead": "Lisez l'étiquette : recherchez 'Made in Scotland' et choisissez les marques de manufactures. Pour un vrai tartan, rendez-vous dans une boutique établie qui vous interroge sur les motifs de clan et vend au mètre — un commerçant qui raconte l'histoire connaît le tissu."
+        },
+        {
+          "icon": "🎫",
+          "name": "La file d'attente pour les billets à l'entrée du château",
+          "description": "Le château d'Édimbourg fonctionne avec des entrées chronométrées : arrivez à l'entrée un jour d'été et vous rencontrerez soit une longue file d'attente, soit le panneau 'complet'.",
+          "instead": "Achetez un billet horodaté sur le site officiel plusieurs jours à l'avance ; le premier créneau du matin est le meilleur pour le calme et les vues. Pour entendre le One O'Clock Gun, soyez sur les remparts à 13h00."
+        },
+        {
+          "icon": "🏨",
+          "name": "Arriver en août à la dernière minute",
+          "description": "Pendant le mois des festivals, les prix des chambres triplent ou quadruplent et se vendent toujours ; les retardataires sont repoussés aux confins de la ville ou dépassent leur budget.",
+          "instead": "Verrouillez votre plan de festival des mois à l'avance, ou décalez votre visite en septembre : la même ville à moitié prix avec de l'espace pour respirer. Le calme post-festival de début septembre est la quinzaine dorée secrète d'Édimbourg."
+        },
+        {
+          "icon": "👻",
+          "name": "Visites fantômes médiocres",
+          "description": "Certaines visites de cimetières et souterraines remplissent leurs billets avec des frayeurs costumées ; l'histoire est mince et l'expérience reste au niveau d'une fête foraine.",
+          "instead": "Lisez les avis et choisissez des visites en petit groupe réputées pour leur narration ; alternativement, des visites souterraines documentées comme The Real Mary King's Close effraient avec l'histoire — un vrai frisson au lieu d'une frayeur bon marché."
+        }
+      ],
+      "callout": {
+        "type": "tip",
+        "label": "Règle d'or",
+        "text": "À Édimbourg, les choses les plus chères sont les billets et le mois d'août ; les choses les plus précieuses sont gratuites : les collines, les closes, la musique de rue et les vues. Économisez votre argent pour un bon dram, une bonne table et des billets pré-réservés — découvrez le reste à pied."
+      }
+    },
+    "itinerary": {
+      "title": "Itinéraires Prêts à l'Emploi",
+      "intro": "Si vous détestez planifier, suivez ces parcours. Les horaires sont flexibles ; gardez l'esprit, brisez l'ordre.",
+      "plans": [
+        {
+          "id": "one_day",
+          "title": "Si Vous Avez 1 Jour",
+          "subtitle": "Du château à Calton Hill — une journée d'histoires",
+          "steps": [
+            {
+              "time": "08:30",
+              "title": "Petit-déjeuner écossais complet",
+              "description": "Attaquez la journée avec un tattie scone et une tranche de haggis : il y a beaucoup de pentes aujourd'hui, et le carburant est essentiel."
+            },
+            {
+              "time": "09:30",
+              "title": "Château d'Édimbourg",
+              "description": "Entrez au premier créneau horaire : la salle de la couronne, le mémorial de guerre et la ville depuis les remparts. Sortez avant le One O'Clock Gun."
+            },
+            {
+              "time": "12:00",
+              "title": "Le Royal Mile par ses closes",
+              "description": "Marchez par les passages, pas la rue principale : cours intérieures, vues et Cathédrale St Giles. Faites une pause parmi les façades colorées de Victoria Street."
+            },
+            {
+              "time": "14:00",
+              "title": "Déjeuner et un musée",
+              "description": "Cullen skink ou haggis autour de Grassmarket ; puis la terrasse sur le toit du Musée National — gratuit, avec vue."
+            },
+            {
+              "time": "16:30",
+              "title": "Arthur's Seat ou Calton Hill",
+              "description": "Choisissez selon votre énergie : l'ascension de 45 minutes au sommet ou la colline des monuments de 10 minutes. Les deux sont généreux au coucher du soleil."
+            },
+            {
+              "time": "19:30",
+              "title": "Soirée pub et un dram",
+              "description": "Dîner au coin du feu d'un pub, puis une dégustation de whisky : trouvez votre réponse à 'tourbé ou doux ?' S'il y a de la musique folk en direct, la nuit s'étire d'elle-même."
+            }
+          ]
+        },
+        {
+          "id": "three_day",
+          "title": "Si Vous Avez 3 Jours",
+          "subtitle": "Deux villes, des collines et un port — le grand Édimbourg",
+          "steps": [
+            {
+              "time": "Jour 1",
+              "title": "Édimbourg Classique",
+              "description": "Le parcours d'un jour ci-dessus : petit-déjeuner, le château, les closes, un musée, une vue du sommet, un pub et un dram."
+            },
+            {
+              "time": "Jour 2",
+              "title": "New Town et coins de village",
+              "description": "Matinée parmi les façades géorgiennes et les Princes Street Gardens ; café et lèche-vitrine à Stockbridge (marché de rue si c'est dimanche) ; après-midi à Dean Village + promenade le long du Water of Leith jusqu'au Jardin Botanique ; photo du soir à Circus Lane et un bistrot de quartier."
+            },
+            {
+              "time": "Jour 3",
+              "title": "Sommet et port",
+              "description": "Matinée à Arthur's Seat, descente via Duddingston pour le déjeuner au Sheep Heid Inn ; tramway pour Leith l'après-midi — une promenade au bord de l'eau et le Royal Yacht Britannia ; dîner d'adieu de fruits de mer sur The Shore + un dernier dram."
+            }
+          ]
+        }
+      ]
+    },
+    "phrases": {
+      "title": "Kit de Survie en 5 Mots",
+      "intro": "L'anglais écossais a son propre dictionnaire ; ces cinq expressions brisent instantanément la glace dans les pubs et dans la rue.",
+      "items": [
+        {
+          "word": "Aye",
+          "pronunciation": "eye",
+          "meaning": "Oui — court, clair et écossais ; vous l'entendrez cent fois par jour"
+        },
+        {
+          "word": "Wee",
+          "pronunciation": "wee",
+          "meaning": "Petit, un peu — 'a wee dram' (un petit verre), 'a wee walk' (une petite promenade) ; le mot affectueux qui s'adapte à toute phrase"
+        },
+        {
+          "word": "Bonnie",
+          "pronunciation": "BON-nee",
+          "meaning": "Beau, charmant — dit des paysages et des gens ; le cliché 'bonnie Scotland' est bien mérité"
+        },
+        {
+          "word": "Slàinte mhath!",
+          "pronunciation": "SLAHN-juh vah",
+          "meaning": "Santé ! — Gaélique pour 'bonne santé' ; dit quand le verre est levé, et respecté au bar"
+        },
+        {
+          "word": "How's it gaun?",
+          "pronunciation": "howz it gone",
+          "meaning": "Comment ça va ? — le 'quoi de neuf' écossais ; la réponse est généralement 'pas mal'"
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Checklist Édimbourg",
+      "completion_message": "Slàinte mhath! Vous avez vécu la ville de brume et d'histoires comme elle le mérite !",
+      "items": [
+        {
+          "label": "Visitez le château avec un billet horodaté",
+          "sub": "Premier créneau du matin — la ville depuis les remparts"
+        },
+        {
+          "label": "Engagez-vous dans un 'close' et trouvez sa cour intérieure",
+          "sub": "Les veines cachées du Royal Mile"
+        },
+        {
+          "label": "Montez au sommet d'Arthur's Seat",
+          "sub": "45 minutes — le sommet d'un volcan éteint"
+        },
+        {
+          "label": "Mangez du haggis avec des 'neeps and tatties'",
+          "sub": "Essayez la version avec sauce au whisky"
+        },
+        {
+          "label": "Trouvez votre 'dram' lors d'une dégustation de whisky",
+          "sub": "'Tourbé ou doux ?' — demandez au barman"
+        },
+        {
+          "label": "Admirez les façades colorées de Victoria Street",
+          "sub": "L'inspiration pour le Chemin de Traverse"
+        },
+        {
+          "label": "Regardez le coucher de soleil depuis Calton Hill",
+          "sub": "Une montée de dix minutes, parmi les monuments"
+        },
+        {
+          "label": "Descendez tôt au Dean Village",
+          "sub": "Un village de meuniers médiéval au cœur de la ville"
+        },
+        {
+          "label": "Goûtez le fish and chips avec de la 'chippy sauce'",
+          "sub": "Répondez 'aye' à 'sel et sauce ?'"
+        },
+        {
+          "label": "Assistez à un concert de musique folk près d'un feu de pub",
+          "sub": "La meilleure façon de terminer une soirée maussade"
+        }
+      ]
+    }
+  }
+}
